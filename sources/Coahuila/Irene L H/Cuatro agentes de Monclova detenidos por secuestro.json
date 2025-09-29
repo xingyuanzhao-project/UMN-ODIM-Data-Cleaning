@@ -1,0 +1,522 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Cuatro agentes de Monclova detenidos por secuestro",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5762445017273030274,
+    "filename": "Cuatro agentes de Monclova detenidos por secuestro.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 260.352,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "La Jornada: Cuatro agentes de Monclova detenidos por secuestro",
+      "text": "La Jornada: Cuatro agentes de Monclova detenidos por secuestro"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 376.676,
+            "t": 789.592,
+            "r": 611.999,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2014/11/20/estados/034n3est",
+      "text": "https://www.jornada.com.mx/2014/11/20/estados/034n3est"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 479.86,
+            "b": 687.918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "La Jornada: Cuatro agentes de Monclova detenidos por secuestro",
+      "text": "La Jornada: Cuatro agentes de Monclova detenidos por secuestro",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.04,
+            "t": 659.317,
+            "r": 288.035,
+            "b": 650.057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "text": "DEMOS, Desarrollo de Medios, S.A. de C.V."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 622.502,
+            "r": 149.728,
+            "b": 612.315,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Corresponsal",
+      "text": "Corresponsal"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 597.06,
+            "r": 284.186,
+            "b": 573.433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Periódico La Jornada Jueves 20 de noviembre de 2014, p. 34",
+      "text": "Periódico La Jornada Jueves 20 de noviembre de 2014, p. 34"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 558.299,
+            "r": 163.188,
+            "b": 548.112,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Querétaro, Qro.",
+      "text": "Querétaro, Qro."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 532.862,
+            "r": 530.637,
+            "b": 482.354,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            294
+          ]
+        }
+      ],
+      "orig": "Cuatro policías de Monclova, Coahuila, y un civil se encuentran detenidos en esa ciudad, acusados de secuestrar al queretano Héctor Rangel Ortiz y a dos personas más, cuya desaparición se reportó el 10 de noviembre de 2009, informó el procurador de Justicia de Querétaro, Arsenio Durán Becerra.",
+      "text": "Cuatro policías de Monclova, Coahuila, y un civil se encuentran detenidos en esa ciudad, acusados de secuestrar al queretano Héctor Rangel Ortiz y a dos personas más, cuya desaparición se reportó el 10 de noviembre de 2009, informó el procurador de Justicia de Querétaro, Arsenio Durán Becerra."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 467.22,
+            "r": 493.025,
+            "b": 430.153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "Brenda Rangel Ortiz, hermana de Héctor, ha dado a conocer que éste partió de Querétaro junto con Irene Lugo Hernández y Milton Aguilar Torres rumbo a Coahuila, y fueron vistos por última vez en esa entidad.",
+      "text": "Brenda Rangel Ortiz, hermana de Héctor, ha dado a conocer que éste partió de Querétaro junto con Irene Lugo Hernández y Milton Aguilar Torres rumbo a Coahuila, y fueron vistos por última vez en esa entidad."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 415.019,
+            "r": 526.955,
+            "b": 364.51,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            305
+          ]
+        }
+      ],
+      "orig": "En reiteradas ocasiones ha acusado al gobierno queretano de ser omiso en la búsqueda de su hermano y de otras personas desaparecidas en el estado, y ha exigido la instalación de anuncios espectaculares en los cuales se ofrezcan recompensas a quienes brinden información sobre el paradero de Héctor Rangel.",
+      "text": "En reiteradas ocasiones ha acusado al gobierno queretano de ser omiso en la búsqueda de su hermano y de otras personas desaparecidas en el estado, y ha exigido la instalación de anuncios espectaculares en los cuales se ofrezcan recompensas a quienes brinden información sobre el paradero de Héctor Rangel."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 349.26,
+            "r": 490.364,
+            "b": 325.757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "Cinco años después de que desapareció el ciudadano queretano, el procurador Arsenio Durán Becerra informó que en Monclova hay cinco detenidos.",
+      "text": "Cinco años después de que desapareció el ciudadano queretano, el procurador Arsenio Durán Becerra informó que en Monclova hay cinco detenidos."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 310.499,
+            "r": 529.022,
+            "b": 259.994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            265
+          ]
+        }
+      ],
+      "orig": "A una sexta persona se le giró orden de aprehensión por este caso en Monclova, y una séptima, acusada de extorsionar a los familiares de Héctor Rangel, es buscada en Querétaro. El implicado pidió dinero a la familia a cambio de información, pero ésta resultó falsa.",
+      "text": "A una sexta persona se le giró orden de aprehensión por este caso en Monclova, y una séptima, acusada de extorsionar a los familiares de Héctor Rangel, es buscada en Querétaro. El implicado pidió dinero a la familia a cambio de información, pero ésta resultó falsa."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 244.86,
+            "r": 525.066,
+            "b": 221.23000000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "Durán Becerra dijo que la investigación por la desaparición de Héctor Rangel está en manos de la fiscalía de Coahuila.",
+      "text": "Durán Becerra dijo que la investigación por la desaparición de Héctor Rangel está en manos de la fiscalía de Coahuila."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 205.98000000000002,
+            "r": 482.88,
+            "b": 195.793,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "En Querétaro se ha reportado la desaparición de por lo menos 230 personas.",
+      "text": "En Querétaro se ha reportado la desaparición de por lo menos 230 personas."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:35 AM",
+      "text": "9/13/2019, 8:35 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

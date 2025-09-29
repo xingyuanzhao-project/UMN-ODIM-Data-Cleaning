@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Sin el aval de la esposa, la FGE pretende entregar supuesto cuerpo de desaparecido",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 18157422488246813818,
+    "filename": "Sin el aval de la esposa, la FGE pretende entregar supuesto cuerpo de desaparecido.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.17905234375,
+            "r": 602.173,
+            "b": 589.42905234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            255
+          ]
+        }
+      ],
+      "orig": "inter-accion.com.mx inter-accion.com.mx Inicio 404 No hay nada aquí. Lo sentimos, la página que estabas buscando en el blog no existe. Página Principal Archivo Del Blog 2025 (2) Design by Templateify | Distributed by Gooyaabi Formulario de contacto Inicio",
+      "text": "inter-accion.com.mx inter-accion.com.mx Inicio 404 No hay nada aquí. Lo sentimos, la página que estabas buscando en el blog no existe. Página Principal Archivo Del Blog 2025 (2) Design by Templateify | Distributed by Gooyaabi Formulario de contacto Inicio"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 608.9577026367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Secuestran a nieto de líder petrolero",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8176453455573136732,
+    "filename": "Secuestran a nieto de líder petrolero.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.52305234375,
+            "r": 632.273,
+            "b": 533.34105234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            753
+          ]
+        }
+      ],
+      "orig": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access tabascohoy.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: 97faf2948abcc994 Your IP: Click to reveal 104.7.154.140 Performance & security by Cloudflare",
+      "text": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access tabascohoy.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: 97faf2948abcc994 Your IP: Click to reveal 104.7.154.140 Performance & security by Cloudflare"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

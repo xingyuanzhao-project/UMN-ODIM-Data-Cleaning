@@ -1,0 +1,3460 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Copy of Osvaldo Javier Hernandez Cervantes- 3",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2827810425991049794,
+    "filename": "Copy of Osvaldo Javier Hernandez Cervantes- 3.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/pictures/11"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/pictures/12"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/pictures/13"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/79"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/81"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.504,
+            "r": 62.043,
+            "b": 768.712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "3/13/2019",
+      "text": "3/13/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 207.797,
+            "t": 775.504,
+            "r": 470.0,
+            "b": 768.712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "Exige AI resolver los casos de desaparición en México | NTR Guadalajara",
+      "text": "Exige AI resolver los casos de desaparición en México | NTR Guadalajara"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 39.0,
+            "t": 755.9,
+            "r": 65.313,
+            "b": 749.672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "CONTACTO",
+      "text": "CONTACTO"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.333333333333336,
+            "t": 723.6666666666666,
+            "r": 217.33333333333334,
+            "b": 693.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "El Diario NTR",
+      "text": "El Diario NTR",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 306.3333333333333,
+            "t": 716.0,
+            "r": 419.0,
+            "b": 689.3695917137528,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Empieza a conectarte con tus amigos hoy.",
+      "text": "Empieza a conectarte con tus amigos hoy.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 377.625,
+            "t": 630.497,
+            "r": 384.707,
+            "b": 624.13,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "A-",
+      "text": "A-"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 384.703,
+            "t": 630.497,
+            "r": 394.014,
+            "b": 624.13,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "|",
+      "text": "|"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 394.008,
+            "t": 630.497,
+            "r": 398.837,
+            "b": 624.13,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "A",
+      "text": "A"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 398.836,
+            "t": 630.497,
+            "r": 408.146,
+            "b": 624.13,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "|",
+      "text": "|"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 408.141,
+            "t": 630.497,
+            "r": 416.966,
+            "b": 624.13,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "A+",
+      "text": "A+"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.5,
+            "t": 630.497,
+            "r": 87.52,
+            "b": 624.13,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "INICIO > ZMG",
+      "text": "INICIO > ZMG"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 452.5,
+            "t": 625.95,
+            "r": 488.914,
+            "b": 618.387,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "PUBLICIDAD",
+      "text": "PUBLICIDAD"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 40.0,
+            "t": 657.45,
+            "r": 59.074,
+            "b": 649.887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "INICIO",
+      "text": "INICIO"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 81.078,
+            "t": 657.45,
+            "r": 94.406,
+            "b": 649.887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "ZMG",
+      "text": "ZMG"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 116.406,
+            "t": 657.45,
+            "r": 132.454,
+            "b": 649.887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "AULA",
+      "text": "AULA"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 154.461,
+            "t": 657.45,
+            "r": 182.74,
+            "b": 649.887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "EMPRESA",
+      "text": "EMPRESA"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 204.742,
+            "t": 657.45,
+            "r": 225.321,
+            "b": 649.887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "TECNO",
+      "text": "TECNO"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 247.328,
+            "t": 657.45,
+            "r": 260.35,
+            "b": 649.887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "PAÍS",
+      "text": "PAÍS"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 282.352,
+            "t": 657.45,
+            "r": 305.897,
+            "b": 649.887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "MUNDO",
+      "text": "MUNDO"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 327.898,
+            "t": 657.45,
+            "r": 350.16,
+            "b": 649.887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "PASIÓN",
+      "text": "PASIÓN"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 372.164,
+            "t": 657.45,
+            "r": 390.592,
+            "b": 649.887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "SHOW",
+      "text": "SHOW"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 412.594,
+            "t": 657.45,
+            "r": 427.741,
+            "b": 649.887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "ARTE",
+      "text": "ARTE"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 449.742,
+            "t": 657.45,
+            "r": 476.016,
+            "b": 649.887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "OPINIÓN",
+      "text": "OPINIÓN"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.5,
+            "t": 613.496,
+            "r": 378.525,
+            "b": 593.363,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Exige AI resolver los casos de desaparición en México",
+      "text": "Exige AI resolver los casos de desaparición en México",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 314.242,
+            "t": 580.355,
+            "r": 319.742,
+            "b": 576.364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 319.742,
+            "t": 581.997,
+            "r": 417.0,
+            "b": 575.63,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "por Priscila Hernández Flores",
+      "text": "por Priscila Hernández Flores"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 314.945,
+            "t": 570.355,
+            "r": 320.945,
+            "b": 566.364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 320.945,
+            "t": 571.997,
+            "r": 416.982,
+            "b": 565.63,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "16 de Enero de 2016, 10:11 -",
+      "text": "16 de Enero de 2016, 10:11 -"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 351.5,
+            "t": 560.284,
+            "r": 370.332,
+            "b": 555.614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Twittear",
+      "text": "Twittear"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 384.5,
+            "t": 560.284,
+            "r": 408.559,
+            "b": 555.614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Me gusta",
+      "text": "Me gusta"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 410.5,
+            "t": 560.284,
+            "r": 413.559,
+            "b": 555.614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 233.0,
+            "t": 537.854,
+            "r": 416.994,
+            "b": 432.032,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            467
+          ]
+        }
+      ],
+      "orig": "Reconocer  la  obligación  de  iniciar  de  ocio  y  sin tardanza alguna la búsqueda de personas reportadas como desaparecidas, investigar de forma pronta, exhaustiva e imparcial todos los casos de desaparición y desaparición forzada en el país y garantizar la reparación integral a las víctimas tomando en cuenta los estándares internacionales, son algunas de las 21 recomendaciones que Amnistía  Internacional  (AI)  espera  que  el  gobierno de Jalisco implemente.",
+      "text": "Reconocer  la  obligación  de  iniciar  de  ocio  y  sin tardanza alguna la búsqueda de personas reportadas como desaparecidas, investigar de forma pronta, exhaustiva e imparcial todos los casos de desaparición y desaparición forzada en el país y garantizar la reparación integral a las víctimas tomando en cuenta los estándares internacionales, son algunas de las 21 recomendaciones que Amnistía  Internacional  (AI)  espera  que  el  gobierno de Jalisco implemente."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 233.0,
+            "t": 420.354,
+            "r": 416.976,
+            "b": 391.532,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "AI presentó el informe Un trato de indolencia, sobre la  desaparición  de  personas  en  México.  El  director de AI,  Perseo  Quiroz,  instó  al  gobierno  de  Jalisco  a",
+      "text": "AI presentó el informe Un trato de indolencia, sobre la  desaparición  de  personas  en  México.  El  director de AI,  Perseo  Quiroz,  instó  al  gobierno  de  Jalisco  a"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.016,
+            "t": 411.926,
+            "r": 210.985,
+            "b": 399.424,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "AMNISTÍA. Presentación del informe 'Un trato de indolencia'. (Foto: Alfonso Hernández)",
+      "text": "AMNISTÍA. Presentación del informe 'Un trato de indolencia'. (Foto: Alfonso Hernández)"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.5,
+            "t": 387.354,
+            "r": 416.904,
+            "b": 358.533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            251
+          ]
+        }
+      ],
+      "orig": "tomar en cuenta las recomendaciones para no revictimizar a los familiares de personas desaparecidas y detener  el  delito  de  la  desaparición,  una  de  las  más  graves  violaciones  a  los  derechos  humanos,  pues representa una forma de tortura.",
+      "text": "tomar en cuenta las recomendaciones para no revictimizar a los familiares de personas desaparecidas y detener  el  delito  de  la  desaparición,  una  de  las  más  graves  violaciones  a  los  derechos  humanos,  pues representa una forma de tortura."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.5,
+            "t": 346.854,
+            "r": 416.753,
+            "b": 307.033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            381
+          ]
+        }
+      ],
+      "orig": "'Es ahí en los temas de políticas públicas donde el Estado mexicano, y cuando digo esto abarca los tres niveles de gobierno, tanto el Ejecutivo, Legislativo y Judicial deben tomar cartas en el asunto. Ojalá también el  gobierno del estado pueda tomar en cuenta las recomendaciones que estamos formulando', exhortó Perseo Quiroz, director ejecutivo de Amnistía Internacional México.",
+      "text": "'Es ahí en los temas de políticas públicas donde el Estado mexicano, y cuando digo esto abarca los tres niveles de gobierno, tanto el Ejecutivo, Legislativo y Judicial deben tomar cartas en el asunto. Ojalá también el  gobierno del estado pueda tomar en cuenta las recomendaciones que estamos formulando', exhortó Perseo Quiroz, director ejecutivo de Amnistía Internacional México."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.5,
+            "t": 295.354,
+            "r": 416.686,
+            "b": 277.533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "Amnistía hizo hincapié en que las desapariciones 'ya sean perpetradas por agentes estatales o por actores no estatales producen una serie de violaciones y afectaciones a los derechos de las víctimas'.",
+      "text": "Amnistía hizo hincapié en que las desapariciones 'ya sean perpetradas por agentes estatales o por actores no estatales producen una serie de violaciones y afectaciones a los derechos de las víctimas'."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.5,
+            "t": 265.85400000000004,
+            "r": 416.924,
+            "b": 226.03300000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            382
+          ]
+        }
+      ],
+      "orig": "La desaparición de una persona produce daños en la vida de las familias. Por eso, Amnistía Internacional recomendó  que  se  adopten  disposiciones  legislativas  detalladas  para  la  'declaración  de  ausencia'  que permita  la  extensión  de  derechos  de  las  personas  desaparecidas.  Esto  ayudará,  entre  otras  cosas,  a  la protección de su patrimonio y el de su familia.",
+      "text": "La desaparición de una persona produce daños en la vida de las familias. Por eso, Amnistía Internacional recomendó  que  se  adopten  disposiciones  legislativas  detalladas  para  la  'declaración  de  ausencia'  que permita  la  extensión  de  derechos  de  las  personas  desaparecidas.  Esto  ayudará,  entre  otras  cosas,  a  la protección de su patrimonio y el de su familia."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.5,
+            "t": 214.60900000000004,
+            "r": 134.698,
+            "b": 205.66100000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "La indagación de AI",
+      "text": "La indagación de AI",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.5,
+            "t": 194.85400000000004,
+            "r": 416.892,
+            "b": 133.03300000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            579
+          ]
+        }
+      ],
+      "orig": "Para emitir estas recomendaciones, AI realizó una investigación previa tomando en cuenta distintos casos, en especial la desaparición forzada de 43 estudiantes de la escuela normal de Ayotzinapa. El investigador para  México  de  Amnistía  Internacional,  Carlos  Zazueta,  explicó  que  este  informe  se  realizó  después  de varias  entrevistas,  investigación  de  campo  y  publicaciones  previas.  Este  trabajo  busca  'mostrar  la  grave crisis de desaparición en México e intenta aportar elementos para su correcta gestión, como una solución para las familias', detalló.",
+      "text": "Para emitir estas recomendaciones, AI realizó una investigación previa tomando en cuenta distintos casos, en especial la desaparición forzada de 43 estudiantes de la escuela normal de Ayotzinapa. El investigador para  México  de  Amnistía  Internacional,  Carlos  Zazueta,  explicó  que  este  informe  se  realizó  después  de varias  entrevistas,  investigación  de  campo  y  publicaciones  previas.  Este  trabajo  busca  'mostrar  la  grave crisis de desaparición en México e intenta aportar elementos para su correcta gestión, como una solución para las familias', detalló."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.5,
+            "t": 121.35400000000004,
+            "r": 416.717,
+            "b": 70.53300000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            533
+          ]
+        }
+      ],
+      "orig": "En el informe, otro de los casos analizados y documentados fue el de Ciudad Cuauhtémoc en Chihuahua (con una población de 110 mil habitantes) que tiene 351 personas desaparecidas. Un caso poco conocido. Compararon éste  con  el  de  Ayotzinapa  para  ver  si  había  diferencias  en  el  trato  a  las  familias.  'Lo  que hallamos es que desgraciadamente el trato es un trato indolente, esta es una cita de una mamá que tiene un hijo desaparecido en Chihuahua. Es un trato de desinterés de las autoridades', lamentó el investigador.",
+      "text": "En el informe, otro de los casos analizados y documentados fue el de Ciudad Cuauhtémoc en Chihuahua (con una población de 110 mil habitantes) que tiene 351 personas desaparecidas. Un caso poco conocido. Compararon éste  con  el  de  Ayotzinapa  para  ver  si  había  diferencias  en  el  trato  a  las  familias.  'Lo  que hallamos es que desgraciadamente el trato es un trato indolente, esta es una cita de una mamá que tiene un hijo desaparecido en Chihuahua. Es un trato de desinterés de las autoridades', lamentó el investigador."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.5,
+            "t": 59.10900000000004,
+            "r": 107.071,
+            "b": 50.16100000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "En cenizas no",
+      "text": "En cenizas no",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 483.6666666666667,
+            "t": 599.0,
+            "r": 574.3333333333334,
+            "b": 590.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "EXPERT JEWELRY REPAIR",
+      "text": "EXPERT JEWELRY REPAIR",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 509.0,
+            "t": 581.0,
+            "r": 549.3333333333334,
+            "b": 568.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "BEFORE",
+      "text": "BEFORE"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 496.0,
+            "t": 501.0,
+            "r": 564.0,
+            "b": 489.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Broken jewelry?",
+      "text": "Broken jewelry?"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 547.6666666666666,
+            "t": 478.66666666666663,
+            "r": 570.3333333333334,
+            "b": 470.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "GET OFI",
+      "text": "GET OFI"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 452.5,
+            "t": 442.45,
+            "r": 481.765,
+            "b": 434.887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "RECIENTE",
+      "text": "RECIENTE"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 479.0,
+            "t": 417.621,
+            "r": 587.059,
+            "b": 404.305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Avala comisión de Hacienda endeu por 5,250 mdp",
+      "text": "Avala comisión de Hacienda endeu por 5,250 mdp"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 479.0,
+            "t": 399.284,
+            "r": 531.106,
+            "b": 393.614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "02 cd /CT\\ n cd 1/0GLYPH<c=27,font=/Arimo>",
+      "text": "02 cd /CT\\ n cd 1/0GLYPH<c=27,font=/Arimo>"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 479.0,
+            "t": 378.621,
+            "r": 585.701,
+            "b": 365.305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "Congresos de las 32 entidades aval creación de la Guardia Nacional",
+      "text": "Congresos de las 32 entidades aval creación de la Guardia Nacional"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 479.0,
+            "t": 360.284,
+            "r": 531.106,
+            "b": 354.614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "02 cd /CT\\ n cd 1/0GLYPH<c=27,font=/Arimo>",
+      "text": "02 cd /CT\\ n cd 1/0GLYPH<c=27,font=/Arimo>"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 479.0,
+            "t": 339.621,
+            "r": 586.158,
+            "b": 326.305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Desalojan a 5 mil trabajadores de B por amenaza de bomba",
+      "text": "Desalojan a 5 mil trabajadores de B por amenaza de bomba"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 479.0,
+            "t": 321.284,
+            "r": 531.106,
+            "b": 315.614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "02 cd /CT\\ n cd 1/0GLYPH<c=27,font=/Arimo>",
+      "text": "02 cd /CT\\ n cd 1/0GLYPH<c=27,font=/Arimo>"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 479.0,
+            "t": 300.621,
+            "r": 585.872,
+            "b": 287.305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Dólar alcanza los 19.70 pesos en ba capitalinos",
+      "text": "Dólar alcanza los 19.70 pesos en ba capitalinos"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 479.0,
+            "t": 282.284,
+            "r": 531.106,
+            "b": 276.61400000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "02 cd /CT\\ n cd 1/0GLYPH<c=27,font=/Arimo>",
+      "text": "02 cd /CT\\ n cd 1/0GLYPH<c=27,font=/Arimo>"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 479.0,
+            "t": 261.621,
+            "r": 587.24,
+            "b": 248.30500000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "Atacan a policías de Tonalá; hay un por bando",
+      "text": "Atacan a policías de Tonalá; hay un por bando"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 479.0,
+            "t": 243.284,
+            "r": 531.106,
+            "b": 237.61400000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "02 cd /CT\\ n cd 1/0GLYPH<c=27,font=/Arimo>",
+      "text": "02 cd /CT\\ n cd 1/0GLYPH<c=27,font=/Arimo>"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 479.0,
+            "t": 222.62099999999998,
+            "r": 585.479,
+            "b": 209.30500000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "No hubo alineación indebida por X Tijuana",
+      "text": "No hubo alineación indebida por X Tijuana"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 479.0,
+            "t": 204.284,
+            "r": 531.106,
+            "b": 198.61400000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "02 cd /CT\\ n cd 1/0GLYPH<c=27,font=/Arimo>",
+      "text": "02 cd /CT\\ n cd 1/0GLYPH<c=27,font=/Arimo>"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 452.5,
+            "t": 173.95000000000005,
+            "r": 488.914,
+            "b": 166.38699999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "PUBLICIDAD",
+      "text": "PUBLICIDAD"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.50400000000002,
+            "r": 224.59,
+            "b": 15.711999999999989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "http://www.ntrguadalajara.com/post.php?id_nota=27333",
+      "text": "http://www.ntrguadalajara.com/post.php?id_nota=27333"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.50400000000002,
+            "r": 585.512,
+            "b": 15.711999999999989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/3",
+      "text": "1/3"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.504,
+            "r": 62.043,
+            "b": 768.712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "3/13/2019",
+      "text": "3/13/2019"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 207.797,
+            "t": 775.504,
+            "r": 470.0,
+            "b": 768.712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "Exige AI resolver los casos de desaparición en México | NTR Guadalajara",
+      "text": "Exige AI resolver los casos de desaparición en México | NTR Guadalajara"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 759.854,
+            "r": 416.588,
+            "b": 731.033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            297
+          ]
+        }
+      ],
+      "orig": "El trato indolente al que se reere Amnistía Internacional lo conrmó Rosario Cervantes, madre de Osvaldo Javier Hernández, desaparecido desde el 22 de julio de 2014. Esta mujer, invitada por AI a la presentación del informe, aseguró que en Jalisco también reciben esa indolencia de las autoridades.",
+      "text": "El trato indolente al que se reere Amnistía Internacional lo conrmó Rosario Cervantes, madre de Osvaldo Javier Hernández, desaparecido desde el 22 de julio de 2014. Esta mujer, invitada por AI a la presentación del informe, aseguró que en Jalisco también reciben esa indolencia de las autoridades."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 719.354,
+            "r": 416.808,
+            "b": 690.533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            244
+          ]
+        }
+      ],
+      "orig": "'No los queremos recuperar en cenizas, en cenizas que no nos pueden decir si realmente es la persona que estoy buscando', exigió Rosario, quien también habló de cómo las abuelas se han hecho cargo de los nietos y nietas de padres desaparecidos.",
+      "text": "'No los queremos recuperar en cenizas, en cenizas que no nos pueden decir si realmente es la persona que estoy buscando', exigió Rosario, quien también habló de cómo las abuelas se han hecho cargo de los nietos y nietas de padres desaparecidos."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 678.854,
+            "r": 416.928,
+            "b": 628.033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            523
+          ]
+        }
+      ],
+      "orig": "La indolencia, señaló esta mujer, la viven cada vez que comparten a alguien que uno de sus familiares está desaparecido. 'Estos gobiernos son tan indolentes, tan indiferentes, tan apáticos, que la indolencia misma la llevan a los colectivos, para ellos es más fácil dividir que ayudar', reprochó Rosario Cervantes, e informó que el 31 de enero familiares de desaparecidos harán un anuncio en el Parque Rojo, donde cada n de mes se reúnen con fotografías y carteles con los nombres de sus hijos, esposos y hermanos ausentes.",
+      "text": "La indolencia, señaló esta mujer, la viven cada vez que comparten a alguien que uno de sus familiares está desaparecido. 'Estos gobiernos son tan indolentes, tan indiferentes, tan apáticos, que la indolencia misma la llevan a los colectivos, para ellos es más fácil dividir que ayudar', reprochó Rosario Cervantes, e informó que el 31 de enero familiares de desaparecidos harán un anuncio en el Parque Rojo, donde cada n de mes se reúnen con fotografías y carteles con los nombres de sus hijos, esposos y hermanos ausentes."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 617.398,
+            "r": 68.856,
+            "b": 609.345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Cifras:",
+      "text": "Cifras:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 600.066,
+            "r": 314.644,
+            "b": 589.152,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "27,638  PERSONAS desaparecidas en México según denuncias presentadas",
+      "text": "27,638  PERSONAS desaparecidas en México según denuncias presentadas"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 581.566,
+            "r": 218.013,
+            "b": 570.652,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "20,203  SON hombres, es decir, 73.1 por ciento",
+      "text": "20,203  SON hombres, es decir, 73.1 por ciento"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 563.066,
+            "r": 206.963,
+            "b": 552.152,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "7,435  SON mujeres, es decir, 26.9 por ciento",
+      "text": "7,435  SON mujeres, es decir, 26.9 por ciento"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 544.566,
+            "r": 366.144,
+            "b": 533.652,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "46.5%  DE LOS CASOS reportados ocurrió durante el actual sexenio de Enrique Peña Nieto",
+      "text": "46.5%  DE LOS CASOS reportados ocurrió durante el actual sexenio de Enrique Peña Nieto"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 526.066,
+            "r": 257.447,
+            "b": 515.152,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "10,000  CADÁVERES no identicados en fosas clandestinas",
+      "text": "10,000  CADÁVERES no identicados en fosas clandestinas"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.133,
+            "t": 505.854,
+            "r": 77.76,
+            "b": 499.033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Fuente: AI",
+      "text": "Fuente: AI"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 488.398,
+            "r": 119.112,
+            "b": 480.345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Recomendaciones",
+      "text": "Recomendaciones",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 470.398,
+            "r": 140.759,
+            "b": 462.345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Amnistía Internacional",
+      "text": "Amnistía Internacional",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 452.398,
+            "r": 177.906,
+            "b": 444.345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "La búsqueda debe ser inmediata",
+      "text": "La búsqueda debe ser inmediata",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 433.354,
+            "r": 416.689,
+            "b": 404.533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            247
+          ]
+        }
+      ],
+      "orig": "- También señaló que deben activarse métodos especícos para 'reaccionar lo antes posible dentro de las 72  horas  de  la  desaparición,  pero  la  búsqueda  deberá  continuar  hasta  establecer  permanentemente  la suerte o paradero de la víctima'",
+      "text": "- También señaló que deben activarse métodos especícos para 'reaccionar lo antes posible dentro de las 72  horas  de  la  desaparición,  pero  la  búsqueda  deberá  continuar  hasta  establecer  permanentemente  la suerte o paradero de la víctima'"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 393.898,
+            "r": 160.636,
+            "b": 385.845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "La desaparición es un delito",
+      "text": "La desaparición es un delito",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 374.854,
+            "r": 416.843,
+            "b": 346.033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            243
+          ]
+        }
+      ],
+      "orig": "- Esta organización señala la urgencia de tipicar los delitos de desaparición forzada y la desaparición por actores  no  estatales  como  delitos  autónomos  en  la  ley  general  sobre  desaparición  que  actualmente  se discute en el Senado.",
+      "text": "Esta organización señala la urgencia de tipicar los delitos de desaparición forzada y la desaparición por actores  no  estatales  como  delitos  autónomos  en  la  ley  general  sobre  desaparición  que  actualmente  se discute en el Senado.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 335.398,
+            "r": 153.903,
+            "b": 327.345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Integrar a la sociedad civil",
+      "text": "Integrar a la sociedad civil",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 316.354,
+            "r": 416.782,
+            "b": 298.533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "-  AI  recomendó  que  se  establezcan  mecanismos  de  búsqueda  exhaustiva  y  expedita  de  personas reportadas como desaparecidas con participación de expertos, sociedad civil y familiares",
+      "text": " AI  recomendó  que  se  establezcan  mecanismos  de  búsqueda  exhaustiva  y  expedita  de  personas reportadas como desaparecidas con participación de expertos, sociedad civil y familiares",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 287.898,
+            "r": 166.718,
+            "b": 279.845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "En una persona desaparecida",
+      "text": "En una persona desaparecida",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 269.898,
+            "r": 252.095,
+            "b": 261.845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "¿Cuáles son los derechos humanos que se violan?",
+      "text": "¿Cuáles son los derechos humanos que se violan?",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 250.85400000000004,
+            "r": 151.261,
+            "b": 244.03300000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "- Derecho a la libertad personal",
+      "text": "Derecho a la libertad personal",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 232.35400000000004,
+            "r": 159.973,
+            "b": 225.53300000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "- Derecho a la integridad personal",
+      "text": "Derecho a la integridad personal",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 213.85400000000004,
+            "r": 106.015,
+            "b": 207.03300000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "- Derecho a la vida",
+      "text": "Derecho a la vida",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 195.35400000000004,
+            "r": 234.57,
+            "b": 188.53300000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "- Derecho al reconocimiento de la personalidad jurídica",
+      "text": "Derecho al reconocimiento de la personalidad jurídica",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 177.89800000000002,
+            "r": 170.251,
+            "b": 169.84500000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "En los familiares de la víctima",
+      "text": "En los familiares de la víctima",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 158.85400000000004,
+            "r": 115.984,
+            "b": 152.03300000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "- Derecho a la verdad",
+      "text": "Derecho a la verdad",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 140.35400000000004,
+            "r": 115.855,
+            "b": 133.53300000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "- Derecho a la justicia",
+      "text": "Derecho a la justicia",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.5,
+            "t": 103.35400000000004,
+            "r": 53.882,
+            "b": 96.53300000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "HJ/I",
+      "text": "HJ/I"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 448.3333333333333,
+            "t": 750.0,
+            "r": 573.6666666666666,
+            "b": 731.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "MOTORCYCLE ACCII",
+      "text": "MOTORCYCLE ACCII",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.50400000000002,
+            "r": 224.59,
+            "b": 15.711999999999989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "http://www.ntrguadalajara.com/post.php?id_nota=27333",
+      "text": "http://www.ntrguadalajara.com/post.php?id_nota=27333"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.50400000000002,
+            "r": 585.512,
+            "b": 15.711999999999989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2/3",
+      "text": "2/3"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 38.66189193725586,
+            "t": 721.72265625,
+            "r": 214.76307678222656,
+            "b": 691.6001739501953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 265.1798095703125,
+            "t": 719.7052688598633,
+            "r": 417.30194091796875,
+            "b": 691.6920623779297,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 434.2885437011719,
+            "t": 727.8783493041992,
+            "r": 495.76068115234375,
+            "b": 682.6259460449219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.819814682006836,
+            "t": 667.9446792602539,
+            "r": 488.6266784667969,
+            "b": 619.4124450683594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 313.08685302734375,
+            "t": 584.1656341552734,
+            "r": 417.0838623046875,
+            "b": 552.8061981201172,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.18642807006836,
+            "t": 512.7085876464844,
+            "r": 226.34608459472656,
+            "b": 416.3666076660156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 443.8174133300781,
+            "t": 603.3865966796875,
+            "r": 583.4547119140625,
+            "b": 461.77099609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 440.57232666015625,
+            "t": 419.9148864746094,
+            "r": 472.0608825683594,
+            "b": 388.2688293457031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 440.5550231933594,
+            "t": 381.5456237792969,
+            "r": 472.27886962890625,
+            "b": 349.8782043457031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 440.78265380859375,
+            "t": 342.6365966796875,
+            "r": 472.16192626953125,
+            "b": 321.2756652832031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 440.6268615722656,
+            "t": 302.59307861328125,
+            "r": 472.324951171875,
+            "b": 271.80316162109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 440.8111267089844,
+            "t": 264.071533203125,
+            "r": 472.2763671875,
+            "b": 232.3597412109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 440.4918212890625,
+            "t": 224.84710693359375,
+            "r": 472.52435302734375,
+            "b": 193.9393310546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 447.6209411621094,
+            "t": 728.5591011047363,
+            "r": 570.525390625,
+            "b": 635.6229248046875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

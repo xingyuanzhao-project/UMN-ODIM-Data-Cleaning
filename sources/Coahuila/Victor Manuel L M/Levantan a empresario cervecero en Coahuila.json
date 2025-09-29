@@ -1,0 +1,432 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Levantan a empresario cervecero en Coahuila",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13791312115202454198,
+    "filename": "Levantan a empresario cervecero en Coahuila.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 232.295,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "La Jornada: Levantan a empresario cervecero en Coahuila",
+      "text": "La Jornada: Levantan a empresario cervecero en Coahuila"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 374.194,
+            "t": 789.592,
+            "r": 609.148,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2016/04/09/politica/010n2po",
+      "text": "https://www.jornada.com.mx/2016/04/09/politica/010n2po"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 530.423,
+            "b": 687.918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "La Jornada: Levantan a empresario cervecero en Coahuila",
+      "text": "La Jornada: Levantan a empresario cervecero en Coahuila",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.04,
+            "t": 659.317,
+            "r": 288.035,
+            "b": 650.057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "text": "DEMOS, Desarrollo de Medios, S.A. de C.V."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 622.502,
+            "r": 246.99,
+            "b": 598.875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Periódico La Jornada Sábado 9 de abril de 2016, p. 10",
+      "text": "Periódico La Jornada Sábado 9 de abril de 2016, p. 10"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 583.619,
+            "r": 524.507,
+            "b": 519.671,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            337
+          ]
+        }
+      ],
+      "orig": "El empresario cervecero del norte de Coahuila Víctor Manuel Lozano Maldonado fue reportado desaparecido por sus familiares, quienes presentaron la denuncia en la delegación de la Procuraduría General de Justicia del Estado, informó la asociación civil Familias Unidas en la Búsqueda y Localización de Personas Desa-parecidas en Coahuila.",
+      "text": "El empresario cervecero del norte de Coahuila Víctor Manuel Lozano Maldonado fue reportado desaparecido por sus familiares, quienes presentaron la denuncia en la delegación de la Procuraduría General de Justicia del Estado, informó la asociación civil Familias Unidas en la Búsqueda y Localización de Personas Desa-parecidas en Coahuila."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 504.543,
+            "r": 526.052,
+            "b": 467.475,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "Dio a conocer que el empresario, de 40 años, 'fue levantado por hombres vestidos de negro' que irrumpieron en su oficina de la colonia Burócratas, en Piedras Negras, el jueves pasado.",
+      "text": "Dio a conocer que el empresario, de 40 años, 'fue levantado por hombres vestidos de negro' que irrumpieron en su oficina de la colonia Burócratas, en Piedras Negras, el jueves pasado."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 452.341,
+            "r": 522.844,
+            "b": 401.834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            301
+          ]
+        }
+      ],
+      "orig": "Los cadáveres de dos personas fueron encontrados por elementos de seguridad en la carretera libre México 15, a la altura de la población El Limón de los Peraza, municipio de San Ignacio, Sinaloa. Asimismo, un hombre fue asesinado de varios impactos de bala en la playa Cerritos del puerto de Mazatlán.",
+      "text": "Los cadáveres de dos personas fueron encontrados por elementos de seguridad en la carretera libre México 15, a la altura de la población El Limón de los Peraza, municipio de San Ignacio, Sinaloa. Asimismo, un hombre fue asesinado de varios impactos de bala en la playa Cerritos del puerto de Mazatlán."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 386.577,
+            "r": 511.202,
+            "b": 349.631,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        }
+      ],
+      "orig": "Elementos de la policía estatal, en coordinación con instancias municipales y federales, hallaron una fosa clandestina con seis cadáveres, situada a un lado de la carretera a Playa Pascuales, en de Tecomán, Colima.",
+      "text": "Elementos de la policía estatal, en coordinación con instancias municipales y federales, hallaron una fosa clandestina con seis cadáveres, situada a un lado de la carretera a Playa Pascuales, en de Tecomán, Colima."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 334.38,
+            "r": 512.152,
+            "b": 310.754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "En Tlalnepantla, estado de México, un hombre destazado y dentro de una bolsa de hule fue arrojado frente al penal de Barrientos, reportó la policía municipal.",
+      "text": "En Tlalnepantla, estado de México, un hombre destazado y dentro de una bolsa de hule fue arrojado frente al penal de Barrientos, reportó la policía municipal."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 295.62,
+            "r": 523.509,
+            "b": 271.994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "En Apatzingán, Michoacán, un policía ministerial fue asesinado el jueves pasado por sujetos que le dispararon cuando caminaba por la colonia Lázaro Cárdenas.",
+      "text": "En Apatzingán, Michoacán, un policía ministerial fue asesinado el jueves pasado por sujetos que le dispararon cuando caminaba por la colonia Lázaro Cárdenas."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 525.479,
+            "t": 8.63900000000001,
+            "r": 611.921,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 10:11 AM",
+      "text": "9/13/2019, 10:11 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

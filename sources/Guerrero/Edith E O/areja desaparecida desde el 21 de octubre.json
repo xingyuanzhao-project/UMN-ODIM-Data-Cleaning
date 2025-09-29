@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "areja desaparecida desde el 21 de octubre",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13222812117264615529,
+    "filename": "areja desaparecida desde el 21 de octubre.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.52305234375,
+            "r": 590.133,
+            "b": 601.32605234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "redesdelsur.com.mx ___ Buy this domain. | More domains at Seo.Domains redesdelsur.com.mx 2025 Copyright | All Rights Reserved. Privacy Policy",
+      "text": "redesdelsur.com.mx ___ Buy this domain. | More domains at Seo.Domains redesdelsur.com.mx 2025 Copyright | All Rights Reserved. Privacy Policy"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 596.9264526367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

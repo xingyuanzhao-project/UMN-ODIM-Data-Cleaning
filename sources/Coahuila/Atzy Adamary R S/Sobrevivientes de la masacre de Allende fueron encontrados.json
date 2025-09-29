@@ -1,0 +1,743 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Sobrevivientes de la masacre de Allende fueron encontrados",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5875607229929051441,
+    "filename": "Sobrevivientes de la masacre de Allende fueron encontrados.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 305.072,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "Sobrevivientes de la masacre de Allende fueron encontrados - Regeneración",
+      "text": "Sobrevivientes de la masacre de Allende fueron encontrados - Regeneración"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 315.63,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "https://regeneracion.mx/sobrevivientes-de-la-masacre-de-allende-fueron...",
+      "text": "https://regeneracion.mx/sobrevivientes-de-la-masacre-de-allende-fueron..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 79.076,
+            "t": 728.758,
+            "r": 463.417,
+            "b": 689.425,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "Sobrevivientes de la masacre de Allende fueron encontrados - Regeneración",
+      "text": "Sobrevivientes de la masacre de Allende fueron encontrados - Regeneración",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 79.081,
+            "t": 662.893,
+            "r": 524.879,
+            "b": 626.638,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "Entre las personas localizadas está un niño que en aquel entonces tenía un año de edad y que ahora está por cumplir cinco y ya se encuentra con su familia.",
+      "text": "Entre las personas localizadas está un niño que en aquel entonces tenía un año de edad y que ahora está por cumplir cinco y ya se encuentra con su familia."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 202.66666666666666,
+            "t": 562.3333333333334,
+            "r": 259.0,
+            "b": 524.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "TN'",
+      "text": "TN'"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 79.081,
+            "t": 225.37900000000002,
+            "r": 531.327,
+            "b": 162.837,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            409
+          ]
+        }
+      ],
+      "orig": "Regeneración, 29 de marzo 2016.- Tras la desaparición de 300 habitantes del municipio de Allende en marzo de 2011 por la irrupción armada de los Zetas, 37 han sido localizados por la Procuraduría General de Justicia del Estado, así lo informó Olga Lidia Saucedo activista de la asociación ciudadana 'Alas de Esperanza' que conjunta a familiares de personas que vivían en Allende y otros municipios de la zona.",
+      "text": "Regeneración, 29 de marzo 2016.- Tras la desaparición de 300 habitantes del municipio de Allende en marzo de 2011 por la irrupción armada de los Zetas, 37 han sido localizados por la Procuraduría General de Justicia del Estado, así lo informó Olga Lidia Saucedo activista de la asociación ciudadana 'Alas de Esperanza' que conjunta a familiares de personas que vivían en Allende y otros municipios de la zona."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 79.081,
+            "t": 147.98000000000002,
+            "r": 526.101,
+            "b": 124.91700000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "Entre las personas localizadas está un niño que en aquel entonces tenía un año de edad y que ahora está por cumplir cinco y ya se encuentra con su familia.",
+      "text": "Entre las personas localizadas está un niño que en aquel entonces tenía un año de edad y que ahora está por cumplir cinco y ya se encuentra con su familia."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 79.081,
+            "t": 110.05999999999995,
+            "r": 528.022,
+            "b": 73.79700000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "También aseguró que la PGJE encontró evidencias del asesinato de su hija, Atzy Adamary Reina Saucedo de 22 años, la cual, fue secuestrada en conjunto con su marido y otros 10 familiares de su esposo.",
+      "text": "También aseguró que la PGJE encontró evidencias del asesinato de su hija, Atzy Adamary Reina Saucedo de 22 años, la cual, fue secuestrada en conjunto con su marido y otros 10 familiares de su esposo."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 79.081,
+            "t": 58.940000000000055,
+            "r": 521.783,
+            "b": 48.95900000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "Hace dos semanas me dieron la noticia de que mi hija ya no estaba con nosotros. Yo la",
+      "text": "Hace dos semanas me dieron la noticia de que mi hija ya no estaba con nosotros. Yo la"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 2",
+      "text": "1 of 2"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:53 AM",
+      "text": "9/13/2019, 8:53 AM"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 305.072,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "Sobrevivientes de la masacre de Allende fueron encontrados - Regeneración",
+      "text": "Sobrevivientes de la masacre de Allende fueron encontrados - Regeneración"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.63,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "https://regeneracion.mx/sobrevivientes-de-la-masacre-de-allende-fueron...",
+      "text": "https://regeneracion.mx/sobrevivientes-de-la-masacre-de-allende-fueron..."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 79.081,
+            "t": 753.376,
+            "r": 415.114,
+            "b": 743.395,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "buscaba viva. La pude hallar, pero no con nosotros, expresó Olga.",
+      "text": "buscaba viva. La pude hallar, pero no con nosotros, expresó Olga."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 79.081,
+            "t": 728.533,
+            "r": 529.232,
+            "b": 665.996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            347
+          ]
+        }
+      ],
+      "orig": "La versión oficial es que durante la incursión de Los Zetas en Allende, el 18 de marzo de 2011, desaparecieron 28 de los 20 mil habitantes del municipio. No obstante, otras versiones, incluida la de Luis Reynaldo Tapia Valadez, aseveran que en realidad fueron 300 las personas privadas de su libertad y posiblemente asesinadas, 10 mil más huyeron.",
+      "text": "La versión oficial es que durante la incursión de Los Zetas en Allende, el 18 de marzo de 2011, desaparecieron 28 de los 20 mil habitantes del municipio. No obstante, otras versiones, incluida la de Luis Reynaldo Tapia Valadez, aseveran que en realidad fueron 300 las personas privadas de su libertad y posiblemente asesinadas, 10 mil más huyeron."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 79.081,
+            "t": 651.134,
+            "r": 525.926,
+            "b": 601.795,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            297
+          ]
+        }
+      ],
+      "orig": "El grupo delictivo sacó de sus casas a las víctimas y las concentró en ranchos cercanos, donde las asesinó y desapareció; además destruyó 48 viviendas de los secuestrados por una venganza contra Héctor Moreno y Luis Garza, con quienes el grupo controlaba el tráfico de drogas hacia Estados Unidos.",
+      "text": "El grupo delictivo sacó de sus casas a las víctimas y las concentró en ranchos cercanos, donde las asesinó y desapareció; además destruyó 48 viviendas de los secuestrados por una venganza contra Héctor Moreno y Luis Garza, con quienes el grupo controlaba el tráfico de drogas hacia Estados Unidos."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 79.081,
+            "t": 586.938,
+            "r": 483.708,
+            "b": 563.755,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "La PGJE y la unidad científica de la Policía Federal encontraron en los ranchos evidencias de incineración de cadáveres humanos.",
+      "text": "La PGJE y la unidad científica de la Policía Federal encontraron en los ranchos evidencias de incineración de cadáveres humanos."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 79.081,
+            "t": 549.018,
+            "r": 531.665,
+            "b": 512.756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            231
+          ]
+        }
+      ],
+      "orig": "En enero de este año, la Procuraduría del Estado ofreció recompensa de 300 mil pesos y garantizó la secrecía en la denuncia de quienes dieran información que conduzca a la detención de 3 miembros de los Zetas ligados con este caso.",
+      "text": "En enero de este año, la Procuraduría del Estado ofreció recompensa de 300 mil pesos y garantizó la secrecía en la denuncia de quienes dieran información que conduzca a la detención de 3 miembros de los Zetas ligados con este caso."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 79.081,
+            "t": 497.894,
+            "r": 508.466,
+            "b": 474.716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "Las personas buscadas responden a los nombres de Juan Rafael Arredondo Oviedo, Bertha Rosario Téllez y Ricardo Díaz Miranda.",
+      "text": "Las personas buscadas responden a los nombres de Juan Rafael Arredondo Oviedo, Bertha Rosario Téllez y Ricardo Díaz Miranda."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 79.081,
+            "t": 459.86,
+            "r": 318.154,
+            "b": 449.879,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "Con información de La Jornada y el Universal.",
+      "text": "Con información de La Jornada y el Universal."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2 of 2",
+      "text": "2 of 2"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:53 AM",
+      "text": "9/13/2019, 8:53 AM"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.36319732666016,
+            "t": 611.5710601806641,
+            "r": 573.940185546875,
+            "b": 239.449462890625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

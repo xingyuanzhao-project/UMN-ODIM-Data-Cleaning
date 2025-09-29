@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Piden niños la aparición de sus padres",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 6567093844905591347,
+    "filename": "Piden niños la aparición de sus padres.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.17905234375,
+            "r": 614.213,
+            "b": 566.56305234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            401
+          ]
+        }
+      ],
+      "orig": "Piden niños la aparición de sus padres edición impresa 0 ESTADOS Piden niños la aparición de sus padres Jesús Guerrero (06 enero 2017) .-18:43 hrs Unos 30 niños, hijos de personas desaparecidas, festejaron su Día de Reyes con un grito: \"desaparecidos, presentación\". CONTENIDO RELACIONADO Recortan recursos para desaparecidos Arman caravana por 43 de Tixtla a CDMX Desaparecen 2 trabajadores de la UAG",
+      "text": "Piden niños la aparición de sus padres edición impresa 0 ESTADOS Piden niños la aparición de sus padres Jesús Guerrero (06 enero 2017) .-18:43 hrs Unos 30 niños, hijos de personas desaparecidas, festejaron su Día de Reyes con un grito: \"desaparecidos, presentación\". CONTENIDO RELACIONADO Recortan recursos para desaparecidos Arman caravana por 43 de Tixtla a CDMX Desaparecen 2 trabajadores de la UAG"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 620.9889526367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

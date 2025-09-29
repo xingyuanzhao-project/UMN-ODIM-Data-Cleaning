@@ -1,0 +1,1041 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Las _novias_ desaparecidas de Los Zetas en Coahuila",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 11410548858770020281,
+    "filename": "Las _novias_ desaparecidas de Los Zetas en Coahuila.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/2"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.768,
+            "t": 751.043,
+            "r": 49.305,
+            "b": 742.464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 166.525,
+            "t": 642.637,
+            "r": 446.468,
+            "b": 637.373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Las 'novias' desaparecidas de Los Zetas en Coahuila",
+      "text": "Las 'novias' desaparecidas de Los Zetas en Coahuila",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 170.975,
+            "t": 624.266,
+            "r": 442.013,
+            "b": 618.683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "Angeles Pillado (/columnas/angeles-pillado) MARZO 08, 2016 16:39 |",
+      "text": "Angeles Pillado (/columnas/angeles-pillado) MARZO 08, 2016 16:39 |"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.537,
+            "t": 233.37799999999993,
+            "r": 338.166,
+            "b": 229.28600000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Omar Treviño Morales, 'El Z-42', jefe de Los Zetas | Diego Reyes / Cuartoscuro",
+      "text": "Omar Treviño Morales, 'El Z-42', jefe de Los Zetas | Diego Reyes / Cuartoscuro"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 107.43826238111394,
+            "t": 323.7506099048911,
+            "r": 178.56173761888604,
+            "b": 323.58272342844214,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "EJERCITO",
+      "text": "EJERCITO"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 363.42784308958807,
+            "t": 327.11494121937073,
+            "r": 431.9054902437453,
+            "b": 321.88505878062927,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Wexilanu",
+      "text": "Wexilanu"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 106.27333545332696,
+            "t": 312.97067005865654,
+            "r": 184.72666454667302,
+            "b": 311.02932994134346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Mexicano",
+      "text": "Mexicano"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.896,
+            "t": 169.88400000000001,
+            "r": 497.286,
+            "b": 165.20799999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "Más de 20 jóvenes entre 17 y 25 años desaparecieron cuando el grupo criminal gobernaba en Coahuila.",
+      "text": "Más de 20 jóvenes entre 17 y 25 años desaparecieron cuando el grupo criminal gobernaba en Coahuila."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.896,
+            "t": 122.74800000000005,
+            "r": 571.674,
+            "b": 90.41300000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            256
+          ]
+        }
+      ],
+      "orig": "México.- Durante la administración de Humberto Moreira en Coahuila, la organización de Los Zetas fue protegida por funcionarios de la administración estatal y mandos del Ejército; al mismo tiempo desaparecieron más de 20 mujeres en el norte de la entidad .",
+      "text": "México.- Durante la administración de Humberto Moreira en Coahuila, la organización de Los Zetas fue protegida por funcionarios de la administración estatal y mandos del Ejército; al mismo tiempo desaparecieron más de 20 mujeres en el norte de la entidad ."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.896,
+            "t": 68.03700000000003,
+            "r": 576.073,
+            "b": 49.24000000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "La Procuraduría General de Justicia indaga si las mujeres fueron incineradas en el interior del Cereso de Piedras Negras o en un rancho del municipio de Morelos.",
+      "text": "La Procuraduría General de Justicia indaga si las mujeres fueron incineradas en el interior del Cereso de Piedras Negras o en un rancho del municipio de Morelos."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.896,
+            "t": 759.531,
+            "r": 565.162,
+            "b": 740.733,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "Las víctimas eran mujeres jóvenes entre los 17 y los 25 años que desaparecieron del municipio de Allende en octubre del 2012 , después de que fueron convocadas a una fiesta que organizaba una de las desaparecidas.",
+      "text": "Las víctimas eran mujeres jóvenes entre los 17 y los 25 años que desaparecieron del municipio de Allende en octubre del 2012 , después de que fueron convocadas a una fiesta que organizaba una de las desaparecidas."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.896,
+            "t": 718.357,
+            "r": 546.863,
+            "b": 686.023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "De acuerdo con Proceso, algunas de las víctimas fueron conocidas como \"Las mujeres del Comandante Chaparro\", quien fuera el jefe de sicarios de la plaza de Piedras Negras, aunque la mayoría no tenía ninguna relación con el crimen organizado.",
+      "text": "De acuerdo con Proceso, algunas de las víctimas fueron conocidas como \"Las mujeres del Comandante Chaparro\", quien fuera el jefe de sicarios de la plaza de Piedras Negras, aunque la mayoría no tenía ninguna relación con el crimen organizado."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.896,
+            "t": 663.647,
+            "r": 568.95,
+            "b": 631.313,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            307
+          ]
+        }
+      ],
+      "orig": "El jefe de sicarios identificado como David Alejandro Loreto Mejorado , 'El Comandante Enano' obedecía a 'El Z42'; era conocido por estar rodeado de mujeres bellas que frecuentaban sus fiestas, una de ellas era la que reclutaba a las chicas para los eventos, durante esa época muchas jóvenes desaparecieron.",
+      "text": "El jefe de sicarios identificado como David Alejandro Loreto Mejorado , 'El Comandante Enano' obedecía a 'El Z42'; era conocido por estar rodeado de mujeres bellas que frecuentaban sus fiestas, una de ellas era la que reclutaba a las chicas para los eventos, durante esa época muchas jóvenes desaparecieron."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.896,
+            "t": 608.937,
+            "r": 573.082,
+            "b": 576.602,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "Una de las desaparecidas era Mónica Larissa Peña Ramos , quien junto a sus amigas era apodada como 'El Grupo de Mónica', todas eran \"veinteañeras, bellas y frágiles como un papel\", según son descritas por quienes las conocieron.",
+      "text": "Una de las desaparecidas era Mónica Larissa Peña Ramos , quien junto a sus amigas era apodada como 'El Grupo de Mónica', todas eran \"veinteañeras, bellas y frágiles como un papel\", según son descritas por quienes las conocieron."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.896,
+            "t": 554.226,
+            "r": 571.679,
+            "b": 535.429,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            164
+          ]
+        }
+      ],
+      "orig": "Al grupo se sumaron diferentes mujeres provenientes de Múzquiz y otros municipios de la región Carbonífera así como de Villa Unión, un poblado de Cinco Manantiales.",
+      "text": "Al grupo se sumaron diferentes mujeres provenientes de Múzquiz y otros municipios de la región Carbonífera así como de Villa Unión, un poblado de Cinco Manantiales."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.896,
+            "t": 513.052,
+            "r": 561.115,
+            "b": 480.718,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "Fue Loreto Mejorado quien mandó asesinarlas cuando descubrió que algunas tenían mensajes y fotografías en sus celulares de miembros del Ejército, lo cual orquestó a principios de 2012 tras convocar una fiesta en el municipio de Allende.",
+      "text": "Fue Loreto Mejorado quien mandó asesinarlas cuando descubrió que algunas tenían mensajes y fotografías en sus celulares de miembros del Ejército, lo cual orquestó a principios de 2012 tras convocar una fiesta en el municipio de Allende."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.896,
+            "t": 458.342,
+            "r": 552.965,
+            "b": 426.008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "La Subprocuraduría para la Investigación y Búsqueda de Personas No Localizadas de la PGJ de Coahuila tiene indicios de que fueron asesinadas en un rancho del municipio de Morelos, que es un poblado vecino de Allende.",
+      "text": "La Subprocuraduría para la Investigación y Búsqueda de Personas No Localizadas de la PGJ de Coahuila tiene indicios de que fueron asesinadas en un rancho del municipio de Morelos, que es un poblado vecino de Allende."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.896,
+            "t": 403.632,
+            "r": 569.101,
+            "b": 384.834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            219
+          ]
+        }
+      ],
+      "orig": "A pesar de ello, indagan si no habrían sido introducidas entre más de 150 víctimas del Cereso de Piedras Negras donde podrían haber sido incineradas en hornos improvisados para desaparecer los cadáveres de sus crímenes.",
+      "text": "A pesar de ello, indagan si no habrían sido introducidas entre más de 150 víctimas del Cereso de Piedras Negras donde podrían haber sido incineradas en hornos improvisados para desaparecer los cadáveres de sus crímenes."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.537,
+            "t": 193.11,
+            "r": 110.249,
+            "b": 187.846,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "0 comments",
+      "text": "0 comments"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 470.992,
+            "t": 192.54600000000005,
+            "r": 570.455,
+            "b": 183.29099999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "View Comments ",
+      "text": "View Comments "
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 238.579,
+            "t": 196.47500000000002,
+            "r": 374.424,
+            "b": 192.96799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "TELÉFONOS: 55-5538-5518 / 55-5530-8671",
+      "text": "TELÉFONOS: 55-5538-5518 / 55-5530-8671"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 259.915,
+            "t": 181.24599999999998,
+            "r": 353.078,
+            "b": 177.73900000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "publicidad@sdpnoticias.com",
+      "text": "publicidad@sdpnoticias.com"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 257.403,
+            "t": 136.81999999999994,
+            "r": 316.689,
+            "b": 132.726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Declaración de",
+      "text": "Declaración de"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 265.406,
+            "t": 127.23199999999997,
+            "r": 316.692,
+            "b": 123.13699999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "accesibilidad",
+      "text": "accesibilidad"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 245.603,
+            "t": 107.35900000000004,
+            "r": 361.755,
+            "b": 103.85199999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "© Derechos Reservados. Grupo SDP",
+      "text": "© Derechos Reservados. Grupo SDP"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 284.6666666666667,
+            "t": 235.33333333333337,
+            "r": 328.6666666666667,
+            "b": 226.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "G R U P 0",
+      "text": "G R U P 0"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 283.6666666666667,
+            "t": 229.0,
+            "r": 329.6666666666667,
+            "b": 209.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "SDP",
+      "text": "SDP"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 289.3333333333333,
+            "t": 160.33333333333337,
+            "r": 343.3333333333333,
+            "b": 150.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "comscore",
+      "text": "comscore"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 346.6666666666667,
+            "t": 137.0,
+            "r": 372.6666666666667,
+            "b": 129.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "WAI-AA",
+      "text": "WAI-AA"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.257389068603516,
+            "t": 755.0656700134277,
+            "r": 48.33385467529297,
+            "b": 742.0538902282715,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.78227996826172,
+            "t": 524.7365112304688,
+            "r": 577.485595703125,
+            "b": 218.593505859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 237.45758056640625,
+            "t": 236.34521484375,
+            "r": 374.7906799316406,
+            "b": 101.32012939453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    }
+  }
+}

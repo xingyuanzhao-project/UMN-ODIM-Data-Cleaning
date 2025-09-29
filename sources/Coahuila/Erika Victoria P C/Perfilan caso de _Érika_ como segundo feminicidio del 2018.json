@@ -1,0 +1,612 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Perfilan caso de _Érika_ como segundo feminicidio del 2018",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 6406733437267000149,
+    "filename": "Perfilan caso de _Érika_ como segundo feminicidio del 2018.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 300.69,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "El cuerpo hallado enterrado en una casa de Torreón podría ser el de Érika...",
+      "text": "El cuerpo hallado enterrado en una casa de Torreón podría ser el de Érika..."
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 316.427,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "https://www.milenio.com/policia/perfilan-caso-de-erika-como-segundo-...",
+      "text": "https://www.milenio.com/policia/perfilan-caso-de-erika-como-segundo-..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.837,
+            "t": 730.88,
+            "r": 458.609,
+            "b": 694.463,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "El cuerpo hallado enterrado en una casa de Torreón podría ser el de Érika Prone.",
+      "text": "El cuerpo hallado enterrado en una casa de Torreón podría ser el de Érika Prone.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.838,
+            "t": 668.407,
+            "r": 141.594,
+            "b": 660.073,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Milenio Digital",
+      "text": "Milenio Digital"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 635.197,
+            "r": 533.791,
+            "b": 601.694,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            284
+          ]
+        }
+      ],
+      "orig": "Hace casi seis años, Erika Prone salió de la casa donde vivía y nunca más volvió a ser vista, el día de ayer el caso fue retomado por las autoridades, luego de que el cuerpo de una mujer fuera encontrado enterrado en una casa en remodelación, sospechando que se podría tratar de ella.",
+      "text": "Hace casi seis años, Erika Prone salió de la casa donde vivía y nunca más volvió a ser vista, el día de ayer el caso fue retomado por las autoridades, luego de que el cuerpo de una mujer fuera encontrado enterrado en una casa en remodelación, sospechando que se podría tratar de ella."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 588.037,
+            "r": 534.007,
+            "b": 554.413,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "Su nombre completo es Erika Victoria Prone Ceniceros, desapareció en diciembre de 2012, desde hace años su familia la buscaba con la esperanza de encontrarla con vida, esa esperanza se desvaneció la tarde del martes.",
+      "text": "Su nombre completo es Erika Victoria Prone Ceniceros, desapareció en diciembre de 2012, desde hace años su familia la buscaba con la esperanza de encontrarla con vida, esa esperanza se desvaneció la tarde del martes."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 540.755,
+            "r": 529.903,
+            "b": 507.137,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            253
+          ]
+        }
+      ],
+      "orig": "A mediados del 2012, Erika se fue a vivir a casa de una amiga, ahí permaneció siete meses hasta que desapareció en diciembre. Señalaron que desde el día que salió de casa hasta la fecha en la que no la localizaron, mantenían comunicación vía telefónica.",
+      "text": "A mediados del 2012, Erika se fue a vivir a casa de una amiga, ahí permaneció siete meses hasta que desapareció en diciembre. Señalaron que desde el día que salió de casa hasta la fecha en la que no la localizaron, mantenían comunicación vía telefónica."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 493.474,
+            "r": 523.963,
+            "b": 459.976,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "Erika o 'Güera' como la recuerdan sus amigas, era una persona alegre, delgada, pues solo pesaba 46 kilos, medía 1.66 metros y en su espalda llevaba un tatuaje de un hada sentada en la luna.",
+      "text": "Erika o 'Güera' como la recuerdan sus amigas, era una persona alegre, delgada, pues solo pesaba 46 kilos, medía 1.66 metros y en su espalda llevaba un tatuaje de un hada sentada en la luna."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 446.199,
+            "r": 263.21,
+            "b": 436.938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Cuando desapareció tenía sólo 22 años.",
+      "text": "Cuando desapareció tenía sólo 22 años."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 423.276,
+            "r": 528.456,
+            "b": 389.778,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            248
+          ]
+        }
+      ],
+      "orig": "A sus 22, Erika no estudiaba ni trabajaba, hasta sus 22 vivió en casa de sus padres en la zona centro de la ciudad, después se fue con su amiga y fue ella, quien la reportó como desaparecida, luego de que presuntamente un día salió y nunca regresó.",
+      "text": "A sus 22, Erika no estudiaba ni trabajaba, hasta sus 22 vivió en casa de sus padres en la zona centro de la ciudad, después se fue con su amiga y fue ella, quien la reportó como desaparecida, luego de que presuntamente un día salió y nunca regresó."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 376.0,
+            "r": 533.035,
+            "b": 342.495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            246
+          ]
+        }
+      ],
+      "orig": "Luego de esto, la madre de Erika, quien lleva el mismo nombre, comenzó con una campaña para tratar de localizar a su hija, repartiendo volantes por la ciudad y acudiendo a los medios de comunicación locales para difundir el rostro de su muchacha.",
+      "text": "Luego de esto, la madre de Erika, quien lleva el mismo nombre, comenzó con una campaña para tratar de localizar a su hija, repartiendo volantes por la ciudad y acudiendo a los medios de comunicación locales para difundir el rostro de su muchacha."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 328.839,
+            "r": 524.136,
+            "b": 295.216,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "Todos los esfuerzos fueron en vano y la familia pidió ayuda de grupos de personas desaparecidas, como lo es Grupo Vida, luego de algunos años se dejó de saber del caso y Erika, como muchas otras, continuaba sin aparecer.",
+      "text": "Todos los esfuerzos fueron en vano y la familia pidió ayuda de grupos de personas desaparecidas, como lo es Grupo Vida, luego de algunos años se dejó de saber del caso y Erika, como muchas otras, continuaba sin aparecer."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 281.556,
+            "r": 522.376,
+            "b": 235.81399999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            289
+          ]
+        }
+      ],
+      "orig": "La tarde del martes, el caso volvió a sonar, un grupo de albañiles que trabajaba en la remodelación de la casa marcada con el número 531 de la calle Paseo del Ciclón, en la colonia Ampliación La Rosita, encontró un cuerpo humano mientras retiraba una loza de concreto del patio de la casa.",
+      "text": "La tarde del martes, el caso volvió a sonar, un grupo de albañiles que trabajaba en la remodelación de la casa marcada con el número 531 de la calle Paseo del Ciclón, en la colonia Ampliación La Rosita, encontró un cuerpo humano mientras retiraba una loza de concreto del patio de la casa."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 222.15800000000002,
+            "r": 523.963,
+            "b": 188.538,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "El aviso del descubrimiento fue reportado a la Fiscalía General de Personas Desaparecidas, encontrando que el cuerpo estaba envuelto en bolsas negras, además que se podría tratar de la joven desaparecida en el 2012.",
+      "text": "El aviso del descubrimiento fue reportado a la Fiscalía General de Personas Desaparecidas, encontrando que el cuerpo estaba envuelto en bolsas negras, además que se podría tratar de la joven desaparecida en el 2012."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 174.87599999999998,
+            "r": 532.884,
+            "b": 141.38099999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "Fernando Vela Tafoya, Cordinador del área de desaparecidos, informó que el cuerpo encontrado vestía pantalón de mezclilla, tenis y una playera café con logotipos rosas, además que el cuerpo podría ser el de Erika.",
+      "text": "Fernando Vela Tafoya, Cordinador del área de desaparecidos, informó que el cuerpo encontrado vestía pantalón de mezclilla, tenis y una playera café con logotipos rosas, además que el cuerpo podría ser el de Erika."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 127.60000000000002,
+            "r": 533.359,
+            "b": 106.21699999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "Esto de acuerdo a las características otorgadas y el grado de descomposición, el cual les indicaba que pudo haber muerto entre el 2012 y el 2013.",
+      "text": "Esto de acuerdo a las características otorgadas y el grado de descomposición, el cual les indicaba que pudo haber muerto entre el 2012 y el 2013."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 92.55799999999999,
+            "r": 531.804,
+            "b": 58.94100000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "Además, el coordinador señaló que los familiares donarán una muestra biológica para realizar un perfil genético y en un lapso de 15 días a tres semanas, tendrán los resultados para confirmar o descartar la teoría de que se trate de Erika.",
+      "text": "Además, el coordinador señaló que los familiares donarán una muestra biológica para realizar un perfil genético y en un lapso de 15 días a tres semanas, tendrán los resultados para confirmar o descartar la teoría de que se trate de Erika."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 531.716,
+            "t": 8.63900000000001,
+            "r": 611.983,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "7/14/2019, 7:28 PM",
+      "text": "7/14/2019, 7:28 PM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

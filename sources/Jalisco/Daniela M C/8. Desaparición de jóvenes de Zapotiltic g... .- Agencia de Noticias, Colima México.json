@@ -1,0 +1,1545 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "8. Desaparición de jóvenes de Zapotiltic g... .- Agencia de Noticias, Colima México",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15488510934190643928,
+    "filename": "8. Desaparición de jóvenes de Zapotiltic g... .- Agencia de Noticias, Colima México.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.336,
+            "r": 58.898,
+            "b": 768.221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "4/23/2019",
+      "text": "4/23/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 135.188,
+            "t": 775.336,
+            "r": 539.477,
+            "b": 768.221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "Desaparición de jóvenes de Zapotiltic genera fuerte operativo en la región - AFmedios .- Agencia de Noticias, Colima México",
+      "text": "Desaparición de jóvenes de Zapotiltic genera fuerte operativo en la región - AFmedios .- Agencia de Noticias, Colima México"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 94.617,
+            "t": 759.115,
+            "r": 468.764,
+            "b": 723.651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "Desaparición de jóvenes de Zapotiltic genera fuerte operativo en la región",
+      "text": "Desaparición de jóvenes de Zapotiltic genera fuerte operativo en la región",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 94.617,
+            "t": 717.087,
+            "r": 186.459,
+            "b": 711.339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Por  AFMEDIOS / NORMA DÁVILA  -",
+      "text": "Por  AFMEDIOS / NORMA DÁVILA  -"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 189.765,
+            "t": 717.087,
+            "r": 224.15,
+            "b": 711.339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Sep 18, 2014",
+      "text": "Sep 18, 2014"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 100.0,
+            "t": 686.3333333333334,
+            "r": 290.0,
+            "b": 661.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "Daniela Isabel Magaria Caslellanos, de 17 arios . #desaparecida desce el pasado viernes 12 de",
+      "text": "Daniela Isabel Magaria Caslellanos, de 17 arios . #desaparecida desce el pasado viernes 12 de"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 370.3333333333333,
+            "t": 695.6666666666666,
+            "r": 477.0,
+            "b": 671.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "SE BUSCA",
+      "text": "SE BUSCA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 333.33333333333337,
+            "t": 546.0,
+            "r": 519.3333333333333,
+            "b": 532.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Salió de su casJ a las 5,00 pm en Zapotiltic cl dil",
+      "text": "Salió de su casJ a las 5,00 pm en Zapotiltic cl dil"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 358.6666666666667,
+            "t": 488.66666666666663,
+            "r": 499.0,
+            "b": 465.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Vestia un pantalon de mezclilla Y un playera blanca",
+      "text": "Vestia un pantalon de mezclilla Y un playera blanca"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 350.0,
+            "t": 454.0,
+            "r": 508.6666666666667,
+            "b": 441.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Si alguien lo vio 0 pueda rcportar alguna",
+      "text": "Si alguien lo vio 0 pueda rcportar alguna"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 385.3333333333333,
+            "t": 432.6666666666667,
+            "r": 474.0,
+            "b": 419.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Dumero; 341 1175906",
+      "text": "Dumero; 341 1175906"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 94.617,
+            "t": 400.424,
+            "r": 516.667,
+            "b": 365.455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            329
+          ]
+        }
+      ],
+      "orig": "Jalisco.- La Fundación Nacional de Niños Robados y Desaparecidos FIND publicó este día la fotografía de dos jóvenes que se reportan como desaparecidos de la población de Zapotiltic, Jalisco, lo que ha generado un estado de alerta entre padres de familia, además de derivar un fuerte operativo por parte de las fuerzas policiacas.",
+      "text": "Jalisco.- La Fundación Nacional de Niños Robados y Desaparecidos FIND publicó este día la fotografía de dos jóvenes que se reportan como desaparecidos de la población de Zapotiltic, Jalisco, lo que ha generado un estado de alerta entre padres de familia, además de derivar un fuerte operativo por parte de las fuerzas policiacas."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 94.617,
+            "t": 345.133,
+            "r": 505.994,
+            "b": 323.817,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "En redes sociales, FIND señala la preocupación que esta situación ha generado entre las familias del municipio del sur de Jalisco.",
+      "text": "En redes sociales, FIND señala la preocupación que esta situación ha generado entre las familias del municipio del sur de Jalisco."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 94.617,
+            "t": 303.495,
+            "r": 514.496,
+            "b": 268.52600000000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            281
+          ]
+        }
+      ],
+      "orig": "'Alerta entre los padres de familia de Zapotiltic, tras la desaparición de dos jóvenes estudiantes de la Preparatoria Regional de la Universidad de Guadalajara. El pasado domingo se reportó la desaparición de Daniela Magaña Castellanos y el día de ayer Juan Carlos Valle Álvarez' .",
+      "text": "'Alerta entre los padres de familia de Zapotiltic, tras la desaparición de dos jóvenes estudiantes de la Preparatoria Regional de la Universidad de Guadalajara. El pasado domingo se reportó la desaparición de Daniela Magaña Castellanos y el día de ayer Juan Carlos Valle Álvarez' ."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 94.617,
+            "t": 248.88699999999994,
+            "r": 502.668,
+            "b": 213.91899999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            289
+          ]
+        }
+      ],
+      "orig": "'Ante la situación la Policía Municipal implementó una serie de operativos en el municipio, además de que se ordenó el cierre de todas las instituciones educativas. Hace unos momentos arribaron vía aérea autoridades de la Fiscalía General para analizar la situación' , expone la fundación.",
+      "text": "'Ante la situación la Policía Municipal implementó una serie de operativos en el municipio, además de que se ordenó el cierre de todas las instituciones educativas. Hace unos momentos arribaron vía aérea autoridades de la Fiscalía General para analizar la situación' , expone la fundación."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 94.617,
+            "t": 193.59699999999998,
+            "r": 513.079,
+            "b": 158.62799999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            253
+          ]
+        }
+      ],
+      "orig": "Daniela Isabel Magaña Castellanos, de 17 años de edad se reporta como desaparecida desde el pasado viernes 12 de septiembre en Zapotiltic, Jalisco; mientras que Juan Carlos Valle Álvarez está desaparecido desde el 17 de septiembre en la misma población.",
+      "text": "Daniela Isabel Magaña Castellanos, de 17 años de edad se reporta como desaparecida desde el pasado viernes 12 de septiembre en Zapotiltic, Jalisco; mientras que Juan Carlos Valle Álvarez está desaparecido desde el 17 de septiembre en la misma población."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 94.617,
+            "t": 138.30600000000004,
+            "r": 503.938,
+            "b": 116.99000000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "Una fuente cercana a la Fiscalía General del Estado de Jalisco, dio a conocer de manera extraoficial que se lleva acabo un mega operativo de la Fuerza Única Regional y la Policía Investigadora.",
+      "text": "Una fuente cercana a la Fiscalía General del Estado de Jalisco, dio a conocer de manera extraoficial que se lleva acabo un mega operativo de la Fuerza Única Regional y la Policía Investigadora."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 94.617,
+            "t": 96.668,
+            "r": 459.591,
+            "b": 89.00300000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "Un helicóptero sobrevoló la zona y personal de las corporaciones policiacas estatales realizaron patrullajes.",
+      "text": "Un helicóptero sobrevoló la zona y personal de las corporaciones policiacas estatales realizaron patrullajes."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 94.617,
+            "t": 68.68100000000004,
+            "r": 499.851,
+            "b": 33.712999999999965,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "Padres de familia señalan que fueron suspendidas las clases este jueves 18 de septiembre en la cabecera municipal de Zapotiltic, mientras que en escuelas particulares de Ciudad Guzmán se han extremado precauciones para la entrega de alumnos.",
+      "text": "Padres de familia señalan que fueron suspendidas las clases este jueves 18 de septiembre en la cabecera municipal de Zapotiltic, mientras que en escuelas particulares de Ciudad Guzmán se han extremado precauciones para la entrega de alumnos."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.336000000000013,
+            "r": 385.78,
+            "b": 15.221000000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "https://www.afmedios.com/2014/09/desaparicion-de-jovenes-de-zapotiltic-genera-fuerte-operativo-en-la-region/",
+      "text": "https://www.afmedios.com/2014/09/desaparicion-de-jovenes-de-zapotiltic-genera-fuerte-operativo-en-la-region/"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 575.313,
+            "t": 22.336000000000013,
+            "r": 585.531,
+            "b": 15.221000000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/3",
+      "text": "1/3"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.336,
+            "r": 58.898,
+            "b": 768.221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "4/23/2019",
+      "text": "4/23/2019"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 135.188,
+            "t": 775.336,
+            "r": 539.477,
+            "b": 768.221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "Desaparición de jóvenes de Zapotiltic genera fuerte operativo en la región - AFmedios .- Agencia de Noticias, Colima México",
+      "text": "Desaparición de jóvenes de Zapotiltic genera fuerte operativo en la región - AFmedios .- Agencia de Noticias, Colima México"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.617,
+            "t": 760.153,
+            "r": 489.653,
+            "b": 738.836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "El rector General de la Universidad de Guadalajara, Itzcóatl Tonatiuh Bravo Padilla, manifestó su preocupación por la desaparición de la estudiante de la Escuela Preparatoria de Zapotiltic de esta Casa de Estudio.",
+      "text": "El rector General de la Universidad de Guadalajara, Itzcóatl Tonatiuh Bravo Padilla, manifestó su preocupación por la desaparición de la estudiante de la Escuela Preparatoria de Zapotiltic de esta Casa de Estudio."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.617,
+            "t": 718.514,
+            "r": 498.122,
+            "b": 683.546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            249
+          ]
+        }
+      ],
+      "orig": "Bravo Padilla estableció comunicación ayer miércoles 17 de septiembre con el fiscal General del Estado de Jalisco, Luis Carlos Nájera Gutiérrez de Velasco, para denunciar los hechos y solicitar la agilización de las investigaciones correspondientes.",
+      "text": "Bravo Padilla estableció comunicación ayer miércoles 17 de septiembre con el fiscal General del Estado de Jalisco, Luis Carlos Nájera Gutiérrez de Velasco, para denunciar los hechos y solicitar la agilización de las investigaciones correspondientes."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.617,
+            "t": 663.224,
+            "r": 513.62,
+            "b": 641.907,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "Luego de la conversación, el rector general dio a conocer que el fiscal general se comprometió a intensificar la búsqueda de Daniela Isabel.",
+      "text": "Luego de la conversación, el rector general dio a conocer que el fiscal general se comprometió a intensificar la búsqueda de Daniela Isabel."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.617,
+            "t": 622.268,
+            "r": 225.258,
+            "b": 614.603,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Ciudad Guzmán está en calma: alcalde",
+      "text": "Ciudad Guzmán está en calma: alcalde",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.617,
+            "t": 594.281,
+            "r": 513.265,
+            "b": 572.965,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "En entrevista con AFmedios, el alcalde de Zapotlán El Grande, José Luis Orozco, señaló que ciudad Guzmán está en calma y que todas las actividades se están desarrollando de manera ordinaria.",
+      "text": "En entrevista con AFmedios, el alcalde de Zapotlán El Grande, José Luis Orozco, señaló que ciudad Guzmán está en calma y que todas las actividades se están desarrollando de manera ordinaria."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.617,
+            "t": 552.643,
+            "r": 491.594,
+            "b": 531.326,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "'Creo que se está sobredimensionando el asunto' , señaló al cuestionarle sobre los señalamientos de algunos padres respecto a que hay vigilancia en colegios de Ciudad Guzmán luego de la desaparición de dos jóvenes en Zapotiltic.",
+      "text": "'Creo que se está sobredimensionando el asunto' , señaló al cuestionarle sobre los señalamientos de algunos padres respecto a que hay vigilancia en colegios de Ciudad Guzmán luego de la desaparición de dos jóvenes en Zapotiltic."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.617,
+            "t": 511.004,
+            "r": 499.793,
+            "b": 476.036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            333
+          ]
+        }
+      ],
+      "orig": "'Estamos tranquilos en Zapotlán, obviamente la seguridad se sigue brindando como siempre, no tenemos ninguna situación que nos pueda generar un motivo de intranquilidad, de alarma o alerta. La ciudad está en calma, no hay nada. Decirle a la ciudadanía que Ciudad Guzmán está en absoluta calma y no tenemos nada de qué preocuparnos' .",
+      "text": "'Estamos tranquilos en Zapotlán, obviamente la seguridad se sigue brindando como siempre, no tenemos ninguna situación que nos pueda generar un motivo de intranquilidad, de alarma o alerta. La ciudad está en calma, no hay nada. Decirle a la ciudadanía que Ciudad Guzmán está en absoluta calma y no tenemos nada de qué preocuparnos' ."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.617,
+            "t": 455.714,
+            "r": 480.691,
+            "b": 448.05,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "Exhortó a los padres de familia a guardar tranquilidad, ya que reiteró no hay ninguna circunstancia extraordinaria.",
+      "text": "Exhortó a los padres de familia a guardar tranquilidad, ya que reiteró no hay ninguna circunstancia extraordinaria."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.617,
+            "t": 428.41,
+            "r": 182.287,
+            "b": 420.746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Comunicado de la Fiscalía",
+      "text": "Comunicado de la Fiscalía",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.617,
+            "t": 400.423,
+            "r": 514.48,
+            "b": 392.759,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "Con relación a los hechos suscitados en el municipio de Zapotiltic, la Fiscalía General del Estado informó en un comunicado:",
+      "text": "Con relación a los hechos suscitados en el municipio de Zapotiltic, la Fiscalía General del Estado informó en un comunicado:"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.617,
+            "t": 372.437,
+            "r": 364.574,
+            "b": 364.773,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "1. Es falso que se estén robando a menores en la región Sur de nuestro estado.",
+      "text": "Es falso que se estén robando a menores en la región Sur de nuestro estado.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.617,
+            "t": 344.45,
+            "r": 508.574,
+            "b": 309.482,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            365
+          ]
+        }
+      ],
+      "orig": "2. Hay dos denuncias por desaparición de personas en el municipio de Zapoltitic, las cuales están siendo investigadas de manera puntual por parte de las áreas especializadas de la Fiscalía General, los jóvenes son: Daniela Magaña Castellanos, vista por última vez el 12 de septiembre, y Juan Carlos Valle Álvarez, quien fue visto por última vez el 17 de septiembre.",
+      "text": "Hay dos denuncias por desaparición de personas en el municipio de Zapoltitic, las cuales están siendo investigadas de manera puntual por parte de las áreas especializadas de la Fiscalía General, los jóvenes son: Daniela Magaña Castellanos, vista por última vez el 12 de septiembre, y Juan Carlos Valle Álvarez, quien fue visto por última vez el 17 de septiembre.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.617,
+            "t": 289.16,
+            "r": 461.696,
+            "b": 281.496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "3. Existen las condiciones de seguridad para que los ciudadanos realicen sus actividades de manera normal.",
+      "text": "Existen las condiciones de seguridad para que los ciudadanos realicen sus actividades de manera normal.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.617,
+            "t": 261.856,
+            "r": 509.762,
+            "b": 226.88800000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            276
+          ]
+        }
+      ],
+      "orig": "4. Le pedimos a la población que esté atenta ante cualquier llamada en la que exijan dinero, ya que en situaciones como ésta, los delincuentes se aprovechan para intentar extorsionar. De recibir una llamada de extorsión, cuelgue y notifique de inmediato a la autoridad al 089.",
+      "text": "Le pedimos a la población que esté atenta ante cualquier llamada en la que exijan dinero, ya que en situaciones como ésta, los delincuentes se aprovechan para intentar extorsionar. De recibir una llamada de extorsión, cuelgue y notifique de inmediato a la autoridad al 089.",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.617,
+            "t": 206.56600000000003,
+            "r": 515.152,
+            "b": 185.24900000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "5. Las autoridades educativas, universitarias, municipales y de la Fiscalía General colaboran de manera estrecha para lograr el esclarecimiento de los hechos.",
+      "text": "Las autoridades educativas, universitarias, municipales y de la Fiscalía General colaboran de manera estrecha para lograr el esclarecimiento de los hechos.",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.617,
+            "t": 164.92700000000002,
+            "r": 205.231,
+            "b": 157.26300000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Derechos Reservados AFmedios",
+      "text": "Derechos Reservados AFmedios"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 256.649,
+            "t": 55.71100000000001,
+            "r": 356.336,
+            "b": 48.047000000000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "AFMEDIOS / NORMA DÁVILA",
+      "text": "AFMEDIOS / NORMA DÁVILA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.336000000000013,
+            "r": 385.78,
+            "b": 15.221000000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "https://www.afmedios.com/2014/09/desaparicion-de-jovenes-de-zapotiltic-genera-fuerte-operativo-en-la-region/",
+      "text": "https://www.afmedios.com/2014/09/desaparicion-de-jovenes-de-zapotiltic-genera-fuerte-operativo-en-la-region/"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 575.313,
+            "t": 22.336000000000013,
+            "r": 585.531,
+            "b": 15.221000000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2/3",
+      "text": "2/3"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.336,
+            "r": 58.898,
+            "b": 768.221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "4/23/2019",
+      "text": "4/23/2019"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 135.188,
+            "t": 775.336,
+            "r": 539.477,
+            "b": 768.221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "Desaparición de jóvenes de Zapotiltic genera fuerte operativo en la región - AFmedios .- Agencia de Noticias, Colima México",
+      "text": "Desaparición de jóvenes de Zapotiltic genera fuerte operativo en la región - AFmedios .- Agencia de Noticias, Colima México"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.336000000000013,
+            "r": 385.78,
+            "b": 15.221000000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "https://www.afmedios.com/2014/09/desaparicion-de-jovenes-de-zapotiltic-genera-fuerte-operativo-en-la-region/",
+      "text": "https://www.afmedios.com/2014/09/desaparicion-de-jovenes-de-zapotiltic-genera-fuerte-operativo-en-la-region/"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 575.313,
+            "t": 22.336000000000013,
+            "r": 585.531,
+            "b": 15.221000000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3/3",
+      "text": "3/3"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 93.76806640625,
+            "t": 644.8519287109375,
+            "r": 322.5624084472656,
+            "b": 418.1143798828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 321.5718078613281,
+            "t": 699.9725112915039,
+            "r": 519.2766723632812,
+            "b": 418.14385986328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    }
+  }
+}

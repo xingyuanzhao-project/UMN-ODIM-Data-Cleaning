@@ -1,0 +1,682 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Cinco sordomudos, en la lista de desaparecidos en Coahuila",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7716524961497259022,
+    "filename": "Cinco sordomudos, en la lista de desaparecidos en Coahuila.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 288.967,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "La Jornada: Cinco sordomudos, en la lista de desaparecidos en Coahuila",
+      "text": "La Jornada: Cinco sordomudos, en la lista de desaparecidos en Coahuila"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 374.194,
+            "t": 789.592,
+            "r": 609.148,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2012/05/10/politica/016n2po",
+      "text": "https://www.jornada.com.mx/2012/05/10/politica/016n2po"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.0,
+            "t": 733.65,
+            "r": 503.672,
+            "b": 686.165,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "La Jornada: Cinco sordomudos, en la lista de desaparecidos en Coahuila",
+      "text": "La Jornada: Cinco sordomudos, en la lista de desaparecidos en Coahuila",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 665.222,
+            "r": 258.69,
+            "b": 655.451,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "text": "DEMOS, Desarrollo de Medios, S.A. de C.V."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 380.343,
+            "r": 527.523,
+            "b": 356.65,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "Madres en busca de sus hijos desaparecidos se dirigen al Distrito Federal para exigir a las autoridades indagación y justicia. 'No tenemos nada que festejar', señalanFoto Demián Chávez",
+      "text": "Madres en busca de sus hijos desaparecidos se dirigen al Distrito Federal para exigir a las autoridades indagación y justicia. 'No tenemos nada que festejar', señalanFoto Demián Chávez"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 340.623,
+            "r": 203.448,
+            "b": 316.933,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Periódico La Jornada Jueves 10 de mayo de 2012, p. 16",
+      "text": "Periódico La Jornada Jueves 10 de mayo de 2012, p. 16"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 300.782,
+            "r": 565.313,
+            "b": 249.24900000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            346
+          ]
+        }
+      ],
+      "orig": "El pasado 23 de febrero, cinco sordomudos que se dedicaban a vender artículos religiosos en las calles fueron levantados en Piedras Negras, Coahuila, y aunque sus familiares interpusieron de inmediato una demanda ante la Procuraduría General de la República (PGR), hasta el momento no han recibido informes sobre el avance de las investigaciones.",
+      "text": "El pasado 23 de febrero, cinco sordomudos que se dedicaban a vender artículos religiosos en las calles fueron levantados en Piedras Negras, Coahuila, y aunque sus familiares interpusieron de inmediato una demanda ante la Procuraduría General de la República (PGR), hasta el momento no han recibido informes sobre el avance de las investigaciones."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 233.10500000000002,
+            "r": 550.261,
+            "b": 195.49299999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            307
+          ]
+        }
+      ],
+      "orig": "Informó lo anterior Rosario Morales, hermana de una de las víctimas, quien forma parte de la Caravana de madres en busca de sus hijos desaparecidos, que partió el martes de la capital de Chihuahua y llegará este jueves al Distrito Federal, con la demanda de que el gobierno asuma el compromiso de buscarlos.",
+      "text": "Informó lo anterior Rosario Morales, hermana de una de las víctimas, quien forma parte de la Caravana de madres en busca de sus hijos desaparecidos, que partió el martes de la capital de Chihuahua y llegará este jueves al Distrito Federal, con la demanda de que el gobierno asuma el compromiso de buscarlos."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 179.34199999999998,
+            "r": 568.082,
+            "b": 127.80899999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            389
+          ]
+        }
+      ],
+      "orig": "El grupo de sordomudos, integrado por José Martín Morales Galván, José Antonio Ángeles Flores, José Luis Vallejo Rodríguez y Jorge Espinoza Salgado -todos originarios de la ciudad de México- llegó el pasado 17 de febrero a Piedras Negras con la intención de vender diversos artículos en la calle, aparentemente por invitación de Manuel Adrián González Mancera, originario de esa comunidad.",
+      "text": "El grupo de sordomudos, integrado por José Martín Morales Galván, José Antonio Ángeles Flores, José Luis Vallejo Rodríguez y Jorge Espinoza Salgado -todos originarios de la ciudad de México- llegó el pasado 17 de febrero a Piedras Negras con la intención de vender diversos artículos en la calle, aparentemente por invitación de Manuel Adrián González Mancera, originario de esa comunidad."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 111.78099999999995,
+            "r": 566.026,
+            "b": 60.13199999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            359
+          ]
+        }
+      ],
+      "orig": "Aunque no obtuvieron permiso de las autoridades locales para trabajar, comenzaron a hacerlo con la finalidad de reunir dinero para volver a la capital del país, pero el 23 de febrero, alrededor de las 18 horas, fueron levantados por un grupo de hombres encapuchados y armados, quienes iban a bordo de una camioneta negra sin placas, de acuerdo con un testigo.",
+      "text": "Aunque no obtuvieron permiso de las autoridades locales para trabajar, comenzaron a hacerlo con la finalidad de reunir dinero para volver a la capital del país, pero el 23 de febrero, alrededor de las 18 horas, fueron levantados por un grupo de hombres encapuchados y armados, quienes iban a bordo de una camioneta negra sin placas, de acuerdo con un testigo."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 2",
+      "text": "1 of 2"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 9:49 AM",
+      "text": "9/13/2019, 9:49 AM"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 288.967,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "La Jornada: Cinco sordomudos, en la lista de desaparecidos en Coahuila",
+      "text": "La Jornada: Cinco sordomudos, en la lista de desaparecidos en Coahuila"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 374.194,
+            "t": 789.592,
+            "r": 609.148,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2012/05/10/politica/016n2po",
+      "text": "https://www.jornada.com.mx/2012/05/10/politica/016n2po"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.998,
+            "t": 752.942,
+            "r": 551.758,
+            "b": 715.333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        }
+      ],
+      "orig": "Dos días después de lo ocurrido, ante la imposibilidad de viajar en ese momento a Coahuila, sus familiares interpusieron una denuncia telefónica ante la delegación de la PGR en dicha entidad, que levantó un acta circunstanciada con clave AC/PGR/ COAHTN-2/022012.",
+      "text": "Dos días después de lo ocurrido, ante la imposibilidad de viajar en ese momento a Coahuila, sus familiares interpusieron una denuncia telefónica ante la delegación de la PGR en dicha entidad, que levantó un acta circunstanciada con clave AC/PGR/ COAHTN-2/022012."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.998,
+            "t": 699.186,
+            "r": 567.25,
+            "b": 661.571,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "Aunque les aseguraron que con sólo ese trámite podía empezar la búsqueda, desde entonces no han recibido ninguna llamada para comentarles el estado de las pesquisas ni han tenido apoyo de ninguna otra dependencia de gobierno.",
+      "text": "Aunque les aseguraron que con sólo ese trámite podía empezar la búsqueda, desde entonces no han recibido ninguna llamada para comentarles el estado de las pesquisas ni han tenido apoyo de ninguna otra dependencia de gobierno."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.998,
+            "t": 645.424,
+            "r": 567.571,
+            "b": 593.893,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            377
+          ]
+        }
+      ],
+      "orig": "'En la PGR nos comentaron que ya los están buscando, pero no hemos recibido ninguna notificación. Si están haciendo algo, no nos lo comunican, y ellos ya tienen toda la información que nosotros podemos darles. También hemos estado en contacto con Províctima, pero nos dicen que ellos igual están esperando a que les informen algo', lamentó Morales en entrevista con La Jornada.",
+      "text": "'En la PGR nos comentaron que ya los están buscando, pero no hemos recibido ninguna notificación. Si están haciendo algo, no nos lo comunican, y ellos ya tienen toda la información que nosotros podemos darles. También hemos estado en contacto con Províctima, pero nos dicen que ellos igual están esperando a que les informen algo', lamentó Morales en entrevista con La Jornada."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.998,
+            "t": 577.746,
+            "r": 556.641,
+            "b": 526.215,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            359
+          ]
+        }
+      ],
+      "orig": "'Vi en Internet que en Coahuila hay más de mil 800 desaparecidos. Nuestros familiares no son los únicos, y creo que eso está pasando ahí por tanta corrupción, que empieza desde arriba, con las autoridades. El gobernador (Rubén Moreira) se comprometió a analizar el caso, pero sabemos de gente que tiene ocho años desaparecida, y nunca la encontraron', indicó.",
+      "text": "'Vi en Internet que en Coahuila hay más de mil 800 desaparecidos. Nuestros familiares no son los únicos, y creo que eso está pasando ahí por tanta corrupción, que empieza desde arriba, con las autoridades. El gobernador (Rubén Moreira) se comprometió a analizar el caso, pero sabemos de gente que tiene ocho años desaparecida, y nunca la encontraron', indicó."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2 of 2",
+      "text": "2 of 2"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 9:49 AM",
+      "text": "9/13/2019, 9:49 AM"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.2462158203125,
+            "t": 643.860595703125,
+            "r": 415.554931640625,
+            "b": 395.66314697265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

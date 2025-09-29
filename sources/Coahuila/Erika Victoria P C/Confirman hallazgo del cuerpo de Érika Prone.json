@@ -1,0 +1,883 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Confirman hallazgo del cuerpo de Érika Prone",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15317809871200793045,
+    "filename": "Confirman hallazgo del cuerpo de Érika Prone.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 269.416,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Confirman hallazgo del cuerpo de Érika Prone, El Siglo de Torreón",
+      "text": "Confirman hallazgo del cuerpo de Érika Prone, El Siglo de Torreón"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 314.733,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "https://www.elsiglodetorreon.com.mx/noticia/1481334.confirman-hallaz...",
+      "text": "https://www.elsiglodetorreon.com.mx/noticia/1481334.confirman-hallaz..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 117.001,
+            "t": 744.985,
+            "r": 162.61,
+            "b": 740.217,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "14 de julio de 2019",
+      "text": "14 de julio de 2019"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 96.72,
+            "t": 710.172,
+            "r": 126.358,
+            "b": 704.689,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "TORREÓN",
+      "text": "TORREÓN",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 96.716,
+            "t": 699.0,
+            "r": 502.571,
+            "b": 682.283,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "Confirman hallazgo del cuerpo de Érika Prone",
+      "text": "Confirman hallazgo del cuerpo de Érika Prone",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 96.722,
+            "t": 659.129,
+            "r": 371.634,
+            "b": 653.366,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "EL SIGLO DE TORREÓN TORREÓN,COAHUILA, jueves 19 de julio 2018, actualizada 7:06 am",
+      "text": "EL SIGLO DE TORREÓN TORREÓN,COAHUILA, jueves 19 de julio 2018, actualizada 7:06 am"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 531.116,
+            "t": 747.576,
+            "r": 547.186,
+            "b": 741.989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Entrar",
+      "text": "Entrar"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 5",
+      "text": "1 of 5"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 531.716,
+            "t": 8.63900000000001,
+            "r": 611.983,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "7/14/2019, 7:26 PM",
+      "text": "7/14/2019, 7:26 PM"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 269.416,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Confirman hallazgo del cuerpo de Érika Prone, El Siglo de Torreón",
+      "text": "Confirman hallazgo del cuerpo de Érika Prone, El Siglo de Torreón"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 314.733,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "https://www.elsiglodetorreon.com.mx/noticia/1481334.confirman-hallaz...",
+      "text": "https://www.elsiglodetorreon.com.mx/noticia/1481334.confirman-hallaz..."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 117.001,
+            "t": 744.985,
+            "r": 162.61,
+            "b": 740.217,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "14 de julio de 2019",
+      "text": "14 de julio de 2019"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 127.197,
+            "t": 714.537,
+            "r": 480.202,
+            "b": 657.941,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            266
+          ]
+        }
+      ],
+      "orig": "Fuentes de la Fiscalía del Estado de Coahuila detallaron ayer miércoles que el cuerpo hallado en la calle Paseo del Ciclón #531, en la Ampliación La Rosita el pasado mes de mayo pertenece a la joven Érika Victoria Prone Ceniceros, desaparecida desde 2012 en Torreón.",
+      "text": "Fuentes de la Fiscalía del Estado de Coahuila detallaron ayer miércoles que el cuerpo hallado en la calle Paseo del Ciclón #531, en la Ampliación La Rosita el pasado mes de mayo pertenece a la joven Érika Victoria Prone Ceniceros, desaparecida desde 2012 en Torreón."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 441.3333333333333,
+            "t": 636.6666666666666,
+            "r": 490.0,
+            "b": 603.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "StC",
+      "text": "StC"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 117.837,
+            "t": 407.949,
+            "r": 492.085,
+            "b": 370.922,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            256
+          ]
+        }
+      ],
+      "orig": "Informaron que se completaron ya las pruebas correspondientes en los restos encontrados en la vivienda, los resultados arrojaron que se trataba de la misma persona que había desaparecido en diciembre de 2012 y que desde entonces era buscada por su familia.",
+      "text": "Informaron que se completaron ya las pruebas correspondientes en los restos encontrados en la vivienda, los resultados arrojaron que se trataba de la misma persona que había desaparecido en diciembre de 2012 y que desde entonces era buscada por su familia."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 117.837,
+            "t": 352.149,
+            "r": 500.759,
+            "b": 329.881,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "Las autoridades aclararon que al cuerpo se le hicieron diversas pruebas para determinar las causas de la muerte, pero no encontraron rastro alguno de violencia.",
+      "text": "Las autoridades aclararon que al cuerpo se le hicieron diversas pruebas para determinar las causas de la muerte, pero no encontraron rastro alguno de violencia."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 117.837,
+            "t": 311.109,
+            "r": 501.33,
+            "b": 274.081,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            245
+          ]
+        }
+      ],
+      "orig": "Cabe señalar que el caso trascendió a la luz pública en enero de 2013, cuando la madre de la joven comenzó a difundir la noticia de la desaparición de su hija, pidiendo apoyo para ubicarla en redes sociales y con labores de volanteo en cruceros.",
+      "text": "Cabe señalar que el caso trascendió a la luz pública en enero de 2013, cuando la madre de la joven comenzó a difundir la noticia de la desaparición de su hija, pidiendo apoyo para ubicarla en redes sociales y con labores de volanteo en cruceros."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 117.837,
+            "t": 255.308,
+            "r": 500.394,
+            "b": 218.404,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "La Fiscalía de Personas Desaparecidas en la Laguna llevó a cabo un seguimiento del caso hasta el pasado 1 de mayo, cuando se descubrieron restos de una persona enterrados en una vivienda de la colonia Ampliación La Rosita.",
+      "text": "La Fiscalía de Personas Desaparecidas en la Laguna llevó a cabo un seguimiento del caso hasta el pasado 1 de mayo, cuando se descubrieron restos de una persona enterrados en una vivienda de la colonia Ampliación La Rosita."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.68,
+            "t": 195.30999999999995,
+            "r": 299.381,
+            "b": 187.68100000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "Ver más: Hallan cuerpo enterrado en vivienda",
+      "text": "Ver más: Hallan cuerpo enterrado en vivienda"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 117.837,
+            "t": 165.30999999999995,
+            "r": 501.243,
+            "b": 128.28200000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            230
+          ]
+        }
+      ],
+      "orig": "Inicialmente los datos hallados a través de la indagatoria oficial permitían suponer que se trataba de la joven, pero no fue sino hasta que se realizaron las pruebas de ADN correspondientes que se pudo confirmar dicha información.",
+      "text": "Inicialmente los datos hallados a través de la indagatoria oficial permitían suponer que se trataba de la joven, pero no fue sino hasta que se realizaron las pruebas de ADN correspondientes que se pudo confirmar dicha información."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 117.837,
+            "t": 109.50900000000001,
+            "r": 492.604,
+            "b": 72.481,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            281
+          ]
+        }
+      ],
+      "orig": "La misma Fiscalía del Estado de Coahuila informó que la familia de Prone Ceniceros ya cuenta con todos los detalles del caso y en el corto plazo podrían dar por terminada la indagatoria. No obstante, será en los próximos días cuando se den a conocer mayores detalles sobre el caso.",
+      "text": "La misma Fiscalía del Estado de Coahuila informó que la familia de Prone Ceniceros ya cuenta con todos los detalles del caso y en el corto plazo podrían dar por terminada la indagatoria. No obstante, será en los próximos días cuando se den a conocer mayores detalles sobre el caso."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 531.116,
+            "t": 747.576,
+            "r": 547.186,
+            "b": 741.989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Entrar",
+      "text": "Entrar"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2 of 5",
+      "text": "2 of 5"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 531.716,
+            "t": 8.63900000000001,
+            "r": 611.983,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "7/14/2019, 7:26 PM",
+      "text": "7/14/2019, 7:26 PM"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.14250946044922,
+            "t": 748.5561370849609,
+            "r": 52.66798400878906,
+            "b": 740.7938194274902,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 88.45329284667969,
+            "t": 642.4449310302734,
+            "r": 523.2423706054688,
+            "b": 351.6726379394531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 116.21309661865234,
+            "t": 641.6272430419922,
+            "r": 503.8708801269531,
+            "b": 423.2312316894531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

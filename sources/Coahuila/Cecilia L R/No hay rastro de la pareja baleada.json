@@ -1,0 +1,433 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "No hay rastro de la pareja baleada",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 14782061551198499045,
+    "filename": "No hay rastro de la pareja baleada.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 135.883,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "No hay rastro de la pareja baleada",
+      "text": "No hay rastro de la pareja baleada"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 315.12,
+            "t": 789.592,
+            "r": 611.925,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "https://www.zocalo.com.mx/seccion/articulo/no-hay-rastro-de-la-pareja-...",
+      "text": "https://www.zocalo.com.mx/seccion/articulo/no-hay-rastro-de-la-pareja-..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 414.034,
+            "b": 711.806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "No hay rastro de la pareja baleada",
+      "text": "No hay rastro de la pareja baleada",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.04,
+            "t": 683.195,
+            "r": 140.033,
+            "b": 673.935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "El Universal",
+      "text": "El Universal"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 646.378,
+            "r": 529.671,
+            "b": 609.316,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "Saltillo, Coah.La pareja que fue baleada la madrugada de ayer sigue desaparecida, pues a pesar de que ambos iban lesionados por arma de fuego no fueron atendidos en ningún hospital de la ciudad.",
+      "text": "Saltillo, Coah.La pareja que fue baleada la madrugada de ayer sigue desaparecida, pues a pesar de que ambos iban lesionados por arma de fuego no fueron atendidos en ningún hospital de la ciudad."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 594.061,
+            "r": 527.073,
+            "b": 570.434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "En un recorrido por los diferentes nosocomios de Saltillo, este medio intentó encontrar a Pablo Cesar Ortiz y a su esposa Cecilia López, pero no hay rastro de ellos.",
+      "text": "En un recorrido por los diferentes nosocomios de Saltillo, este medio intentó encontrar a Pablo Cesar Ortiz y a su esposa Cecilia López, pero no hay rastro de ellos."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 555.3,
+            "r": 528.867,
+            "b": 518.232,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "El Hospital Universitario, La Concepción, el Christus Muguerza y Cruz Roja, fueron las instituciones de salud en las que se preguntó en cada una de las áreas de admisión sobre estas personas.",
+      "text": "El Hospital Universitario, La Concepción, el Christus Muguerza y Cruz Roja, fueron las instituciones de salud en las que se preguntó en cada una de las áreas de admisión sobre estas personas."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 503.098,
+            "r": 518.674,
+            "b": 466.031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "'No, no están aquí registradas; por qué, los ha estado buscando en otros hospitales; ¿están desaparecidos?', dijo una de las personas encargadas de admisiones del Hospital La Concepción.",
+      "text": "'No, no están aquí registradas; por qué, los ha estado buscando en otros hospitales; ¿están desaparecidos?', dijo una de las personas encargadas de admisiones del Hospital La Concepción."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 450.781,
+            "r": 519.553,
+            "b": 427.155,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "Hasta el cierre de esta edición, no se obtuvo ninguna información relevante sobre el paradero del matrimonio Ortiz López.",
+      "text": "Hasta el cierre de esta edición, no se obtuvo ninguna información relevante sobre el paradero del matrimonio Ortiz López."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 412.021,
+            "r": 246.455,
+            "b": 401.834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "NOTICAS RELACIONADAS",
+      "text": "NOTICAS RELACIONADAS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 386.577,
+            "r": 308.837,
+            "b": 322.751,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "Balean a pareja en Centro de Saltillo No hay rastro de la pareja baleada Cubre hermetismo balacera en Saltillo Viacrucis en busca de su hija desaparecida Crónica: Ataque rompe el silencio nocturno",
+      "text": "Balean a pareja en Centro de Saltillo No hay rastro de la pareja baleada Cubre hermetismo balacera en Saltillo Viacrucis en busca de su hija desaparecida Crónica: Ataque rompe el silencio nocturno"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 9:40 AM",
+      "text": "9/13/2019, 9:40 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

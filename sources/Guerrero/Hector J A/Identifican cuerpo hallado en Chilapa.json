@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Identifican cuerpo hallado en Chilapa",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4357680156472915518,
+    "filename": "Identifican cuerpo hallado en Chilapa.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.17905234375,
+            "r": 632.273,
+            "b": 356.00405234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2243
+          ]
+        }
+      ],
+      "orig": "Identifican cuerpo hallado en Chilapa edición impresa 0 ESTADOS Identifican cuerpo hallado en Chilapa Jesús Guerrero / Corresponsal (27 mayo 2015) .-22:30 hrs La Fiscalía General del Estado informó que uno de los cuatro cuerpos hallados sin vida la semana pasada en Chilapa corresponde con una víctima reportada como desaparecida. Se trata de Gilberto Abundis, un joven de 29 años de edad, que el pasado 30 de marzo fue visto por última vez afuera de su domicilio alrededor de las 13:00 horas. Según la Fiscalía, el pasado 18 de mayo los familiares del joven se presentaron ante el Ministerio Público del Fuero Común para denunciar su desaparición. Posteriormente, la hermana del muchacho se presentó ante la representación social y eso motivó para realizar la prueba genética que arrojó una compatibilidad de un 99 por ciento con sus padres. Según informes de la Red Guerrerense de Derechos Humanos, Gilberto Abundis era amigo del antropólogo y ex trabajador del Centro de Derechos Humanos \"José María Morelos y Pavón\" de Chilapa, Héctor Jaimes Abarca, quien fue privado de su libertad el 18 de marzo de este mismo año. Además, antes de que ambos fueran secuestrados, habían recibido una serie de amenazas telefónicas. A Gilberto y Héctor, la Secretaría de la Juventud les autorizó un proyecto para realizar una investigación sobre la gastronomía tradicional de las comunidades indígenas de Chilapa. Los dos muchachos estuvieron realizando esta investigación en los pueblos, sin embargo, a la gente no les gustó que realizaran una serie de grabaciones de video donde los entrevistados les contaban sobre las tradiciones culinarias. Tras recibir las amenazas, ambos fueron levantados en distintos puntos de Chilapa por hombres armados. Jorge Jaimes Abarca, hermano de Héctor, también fue privado de su libertad este 12 de mayo cuando entregaba un pedido de tortillas a un local ubicado en la avenida Eucaria Apreza, donde en estos momentos supuestos policías comunitarios de las comunidades tenían bajo su control la zona pese a la presencia del Ejército Mexicano y la Gendarmería, así como de la Policía Estatal. Los familiares de Jorge y Héctor acusan al grupo delictivo de \"Los Ardillos\" de ser los responsables de la desaparición de ambos.",
+      "text": "Identifican cuerpo hallado en Chilapa edición impresa 0 ESTADOS Identifican cuerpo hallado en Chilapa Jesús Guerrero / Corresponsal (27 mayo 2015) .-22:30 hrs La Fiscalía General del Estado informó que uno de los cuatro cuerpos hallados sin vida la semana pasada en Chilapa corresponde con una víctima reportada como desaparecida. Se trata de Gilberto Abundis, un joven de 29 años de edad, que el pasado 30 de marzo fue visto por última vez afuera de su domicilio alrededor de las 13:00 horas. Según la Fiscalía, el pasado 18 de mayo los familiares del joven se presentaron ante el Ministerio Público del Fuero Común para denunciar su desaparición. Posteriormente, la hermana del muchacho se presentó ante la representación social y eso motivó para realizar la prueba genética que arrojó una compatibilidad de un 99 por ciento con sus padres. Según informes de la Red Guerrerense de Derechos Humanos, Gilberto Abundis era amigo del antropólogo y ex trabajador del Centro de Derechos Humanos \"José María Morelos y Pavón\" de Chilapa, Héctor Jaimes Abarca, quien fue privado de su libertad el 18 de marzo de este mismo año. Además, antes de que ambos fueran secuestrados, habían recibido una serie de amenazas telefónicas. A Gilberto y Héctor, la Secretaría de la Juventud les autorizó un proyecto para realizar una investigación sobre la gastronomía tradicional de las comunidades indígenas de Chilapa. Los dos muchachos estuvieron realizando esta investigación en los pueblos, sin embargo, a la gente no les gustó que realizaran una serie de grabaciones de video donde los entrevistados les contaban sobre las tradiciones culinarias. Tras recibir las amenazas, ambos fueron levantados en distintos puntos de Chilapa por hombres armados. Jorge Jaimes Abarca, hermano de Héctor, también fue privado de su libertad este 12 de mayo cuando entregaba un pedido de tortillas a un local ubicado en la avenida Eucaria Apreza, donde en estos momentos supuestos policías comunitarios de las comunidades tenían bajo su control la zona pese a la presencia del Ejército Mexicano y la Gendarmería, así como de la Policía Estatal. Los familiares de Jorge y Héctor acusan al grupo delictivo de \"Los Ardillos\" de ser los responsables de la desaparición de ambos."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

@@ -1,0 +1,1580 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "No son italianos, son paisanos en busca de los suyos - El Sol de México",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7484423217884269711,
+    "filename": "No son italianos, son paisanos en busca de los suyos - El Sol de México.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.406,
+            "r": 62.898,
+            "b": 771.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "10/17/2018",
+      "text": "10/17/2018"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 224.344,
+            "t": 775.406,
+            "r": 454.316,
+            "b": 771.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "No son italianos, son paisanos en busca de los suyos - El Sol de México",
+      "text": "No son italianos, son paisanos en busca de los suyos - El Sol de México"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 306.5,
+            "t": 622.408,
+            "r": 474.323,
+            "b": 617.824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Ciudad de México, 17 de octubre de 2018",
+      "text": "Ciudad de México, 17 de octubre de 2018"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 14.666666666666666,
+            "t": 614.0,
+            "r": 40.0,
+            "b": 606.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "DEM",
+      "text": "DEM"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 24.901,
+            "t": 564.64,
+            "r": 533.403,
+            "b": 520.979,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "No son italianos, son paisanos en busca de los suyos",
+      "text": "No son italianos, son paisanos en busca de los suyos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 24.901,
+            "t": 501.298,
+            "r": 535.637,
+            "b": 480.615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "Familiares de desaparecidos en Autlán piden ser atendidos como lo hicieron con los italianos",
+      "text": "Familiares de desaparecidos en Autlán piden ser atendidos como lo hicieron con los italianos"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 39.435,
+            "t": 108.22400000000005,
+            "r": 559.149,
+            "b": 91.976,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "Familiares de veracruzanos desaparecidos protestaron frente al Congreso de Jalisco, donde rendía su informe el ombudsman estatal / Foto: El Occidental",
+      "text": "Familiares de veracruzanos desaparecidos protestaron frente al Congreso de Jalisco, donde rendía su informe el ombudsman estatal / Foto: El Occidental"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.40599999999995,
+            "r": 418.301,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "https://www.elsoldemexico.com.mx/republica/justicia/no-son-italianos-son-paisanos-en-busca-de-los-suyos-1029967.html",
+      "text": "https://www.elsoldemexico.com.mx/republica/justicia/no-son-italianos-son-paisanos-en-busca-de-los-suyos-1029967.html"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 571.312,
+            "t": 22.40599999999995,
+            "r": 585.531,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1/18",
+      "text": "1/18"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.406,
+            "r": 62.898,
+            "b": 771.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "10/17/2018",
+      "text": "10/17/2018"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 224.344,
+            "t": 775.406,
+            "r": 454.316,
+            "b": 771.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "No son italianos, son paisanos en busca de los suyos - El Sol de México",
+      "text": "No son italianos, son paisanos en busca de los suyos - El Sol de México"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 24.901,
+            "t": 660.848,
+            "r": 108.285,
+            "b": 654.736,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Rosario Bareño",
+      "text": "Rosario Bareño",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 24.901,
+            "t": 626.693,
+            "r": 573.599,
+            "b": 556.631,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            419
+          ]
+        }
+      ],
+      "orig": "GUADALAJARA, Jal.- La Comisión Estatal de Derechos Humanos de Jalisco (CEDHJ) da seguimiento a 49 casos por desaparición de personas en la entidad, la mayoría desde que entró el nuevo ombudsman, Alfonso Hernández Barrón, hace cinco meses; entre éstas se encuentran los asuntos de los italianos en Tecalitlán, y los veracruzanos en Autlán, que se han hecho público la última semana y que ayer sus familiares protestaron.",
+      "text": "GUADALAJARA, Jal.- La Comisión Estatal de Derechos Humanos de Jalisco (CEDHJ) da seguimiento a 49 casos por desaparición de personas en la entidad, la mayoría desde que entró el nuevo ombudsman, Alfonso Hernández Barrón, hace cinco meses; entre éstas se encuentran los asuntos de los italianos en Tecalitlán, y los veracruzanos en Autlán, que se han hecho público la última semana y que ayer sus familiares protestaron."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 24.901,
+            "t": 539.488,
+            "r": 572.838,
+            "b": 453.438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            513
+          ]
+        }
+      ],
+      "orig": "Con gritos de 'somos mexicanos, queremos justicia' y que el gobierno del estado y la Fiscalía les de respuesta de sus familiares desaparecidos, que fueron levantados por policías municipales de Autlán (Sp 46 y A48) el pasado 1 de febrero a las 14:15 horas, se manifestaron numerosas personas frente al Congreso del estado, quienes reiteraban que eran nacionales, en alusión a los italianos desaparecidos, y que el gobierno estatal atendió rápido a los representantes de la Embajada y Consulado italiano en México.",
+      "text": "Con gritos de 'somos mexicanos, queremos justicia' y que el gobierno del estado y la Fiscalía les de respuesta de sus familiares desaparecidos, que fueron levantados por policías municipales de Autlán (Sp 46 y A48) el pasado 1 de febrero a las 14:15 horas, se manifestaron numerosas personas frente al Congreso del estado, quienes reiteraban que eran nacionales, en alusión a los italianos desaparecidos, y que el gobierno estatal atendió rápido a los representantes de la Embajada y Consulado italiano en México."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 24.901,
+            "t": 407.227,
+            "r": 569.665,
+            "b": 321.177,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            545
+          ]
+        }
+      ],
+      "orig": "La manifestación coincidió con la visita del ombudsman de Jalisco a Palacio Legislativo para rendir su Primer Informe de actividades. Mario Humberto Santos Meléndrez, hermano, sobrino y primo de los cuatro veracruzanos desaparecidos, declaró que ahora los delincuentes son los policías. No tiene nada en contra de los extranjeros, pero un estadounidense o uno de nacionalidad italiana tienen más derecho que ellos que son mexicanos; a ellos sí se les da una explicación 'y a nosotros ni nos han atendido, mucho menos nos han dado una respuesta'.",
+      "text": "La manifestación coincidió con la visita del ombudsman de Jalisco a Palacio Legislativo para rendir su Primer Informe de actividades. Mario Humberto Santos Meléndrez, hermano, sobrino y primo de los cuatro veracruzanos desaparecidos, declaró que ahora los delincuentes son los policías. No tiene nada en contra de los extranjeros, pero un estadounidense o uno de nacionalidad italiana tienen más derecho que ellos que son mexicanos; a ellos sí se les da una explicación 'y a nosotros ni nos han atendido, mucho menos nos han dado una respuesta'."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 24.901,
+            "t": 296.767,
+            "r": 562.574,
+            "b": 258.68100000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            274
+          ]
+        }
+      ],
+      "orig": "Sus familiares son gente de trabajo que venden 'cosas de moda' como edredones, ropa, etc. y los venden de pueblo en pueblo. Dijo que su tío José Meléndrez Pineda es gente de deporte, de lucha y box, se dedica a rescatar a jóvenes con problemas de drogadicción de las calles.",
+      "text": "Sus familiares son gente de trabajo que venden 'cosas de moda' como edredones, ropa, etc. y los venden de pueblo en pueblo. Dijo que su tío José Meléndrez Pineda es gente de deporte, de lucha y box, se dedica a rescatar a jóvenes con problemas de drogadicción de las calles."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 246.047,
+            "t": 234.03200000000004,
+            "r": 297.692,
+            "b": 229.82299999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "PUBLICIDAD",
+      "text": "PUBLICIDAD"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.40599999999995,
+            "r": 418.301,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "https://www.elsoldemexico.com.mx/republica/justicia/no-son-italianos-son-paisanos-en-busca-de-los-suyos-1029967.html",
+      "text": "https://www.elsoldemexico.com.mx/republica/justicia/no-son-italianos-son-paisanos-en-busca-de-los-suyos-1029967.html"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 571.312,
+            "t": 22.40599999999995,
+            "r": 585.531,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2/18",
+      "text": "2/18"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.406,
+            "r": 62.898,
+            "b": 771.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "10/17/2018",
+      "text": "10/17/2018"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 224.344,
+            "t": 775.406,
+            "r": 454.316,
+            "b": 771.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "No son italianos, son paisanos en busca de los suyos - El Sol de México",
+      "text": "No son italianos, son paisanos en busca de los suyos - El Sol de México"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 24.901,
+            "t": 605.618,
+            "r": 555.057,
+            "b": 583.519,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "Los cuatro desaparecidos son: José Ángel Meléndrez Pineda, papá de Ángel, y Juan Meléndrez y su hermano José Santos Meléndrez.",
+      "text": "Los cuatro desaparecidos son: José Ángel Meléndrez Pineda, papá de Ángel, y Juan Meléndrez y su hermano José Santos Meléndrez."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 24.901,
+            "t": 559.109,
+            "r": 558.026,
+            "b": 505.035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            303
+          ]
+        }
+      ],
+      "orig": "El pasado 1 de febrero, a las 14:15 horas, fue el último contacto con ellos y esto fue porque uno de sus primos iba 'chateando' con su novia y le comentó que los pararon patrullas municipales de Autlán, esto fue como a las 14:16 horas y fue el último contacto 'ahí ya no supimos de ellos, se esfumaron'.",
+      "text": "El pasado 1 de febrero, a las 14:15 horas, fue el último contacto con ellos y esto fue porque uno de sus primos iba 'chateando' con su novia y le comentó que los pararon patrullas municipales de Autlán, esto fue como a las 14:16 horas y fue el último contacto 'ahí ya no supimos de ellos, se esfumaron'."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 24.901,
+            "t": 480.625,
+            "r": 567.984,
+            "b": 458.525,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "Venían a Guadalajara de Casimiro Castillo, y en el entronque de Autlán fueron detenidos, y de ahí no se supo más de ellos. Presentaron una denuncia en Autlán y vinieron a raticarla a la Fiscalía de",
+      "text": "Venían a Guadalajara de Casimiro Castillo, y en el entronque de Autlán fueron detenidos, y de ahí no se supo más de ellos. Presentaron una denuncia en Autlán y vinieron a raticarla a la Fiscalía de"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 24.901,
+            "t": 434.115,
+            "r": 432.93,
+            "b": 428.004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "Desaparecidos.'Estamos aislados a la información que se nos debe de dar'.",
+      "text": "Desaparecidos.'Estamos aislados a la información que se nos debe de dar'."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 246.047,
+            "t": 403.355,
+            "r": 297.692,
+            "b": 399.147,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "PUBLICIDAD",
+      "text": "PUBLICIDAD"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 24.901,
+            "t": 76.57500000000005,
+            "r": 156.06,
+            "b": 70.46299999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "UNIDAD ESPECIALIZADA",
+      "text": "UNIDAD ESPECIALIZADA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 413.86,
+            "t": 106.85799999999995,
+            "r": 515.941,
+            "b": 102.64999999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "inRead invented by Teads",
+      "text": "inRead invented by Teads"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.40599999999995,
+            "r": 418.301,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "https://www.elsoldemexico.com.mx/republica/justicia/no-son-italianos-son-paisanos-en-busca-de-los-suyos-1029967.html",
+      "text": "https://www.elsoldemexico.com.mx/republica/justicia/no-son-italianos-son-paisanos-en-busca-de-los-suyos-1029967.html"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 571.312,
+            "t": 22.40599999999995,
+            "r": 585.531,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "3/18",
+      "text": "3/18"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.406,
+            "r": 62.898,
+            "b": 771.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "10/17/2018",
+      "text": "10/17/2018"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 224.344,
+            "t": 775.406,
+            "r": 454.316,
+            "b": 771.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "No son italianos, son paisanos en busca de los suyos - El Sol de México",
+      "text": "No son italianos, son paisanos en busca de los suyos - El Sol de México"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 24.901,
+            "t": 732.066,
+            "r": 565.617,
+            "b": 693.979,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            256
+          ]
+        }
+      ],
+      "orig": "El ombudsman estatal señaló: 'nosotros hemos creado dentro de la CEDH una unidad especializada para las víctimas de desaparición de personas, y pronto estaremos dando una recomendación general al respecto que pueda abonar de manera integral en la materia'.",
+      "text": "El ombudsman estatal señaló: 'nosotros hemos creado dentro de la CEDH una unidad especializada para las víctimas de desaparición de personas, y pronto estaremos dando una recomendación general al respecto que pueda abonar de manera integral en la materia'."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 24.901,
+            "t": 669.569,
+            "r": 557.271,
+            "b": 647.469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "De las quejas por desaparición forzada en lo que va del año van cuatro, una de ellas por el caso de los italianos desaparecidos en Tecalitlán.",
+      "text": "De las quejas por desaparición forzada en lo que va del año van cuatro, una de ellas por el caso de los italianos desaparecidos en Tecalitlán."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 24.901,
+            "t": 623.059,
+            "r": 536.27,
+            "b": 584.972,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "Sobre su Informe de labores 2017, Hernández Barrón aprovechó para hacer 42 propuestas, 25 directas en 10 rubros al ejecutivo, entre ellas que se construyan presupuestos con enfoque en derechos humanos.",
+      "text": "Sobre su Informe de labores 2017, Hernández Barrón aprovechó para hacer 42 propuestas, 25 directas en 10 rubros al ejecutivo, entre ellas que se construyan presupuestos con enfoque en derechos humanos."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 24.901,
+            "t": 560.562,
+            "r": 567.57,
+            "b": 538.463,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "Entre las 25 propuestas destacan temas de seguridad pública, prevención del delito, acceso a la justicia, rearmar acciones contra la violencia hacia las mujeres, salud, educación y medio ambiente.",
+      "text": "Entre las 25 propuestas destacan temas de seguridad pública, prevención del delito, acceso a la justicia, rearmar acciones contra la violencia hacia las mujeres, salud, educación y medio ambiente."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 30.714,
+            "t": 441.739,
+            "r": 99.696,
+            "b": 436.603,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "0 comentarios",
+      "text": "0 comentarios",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 80.199,
+            "t": 389.707,
+            "r": 208.099,
+            "b": 383.857,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Agregar un comentario...",
+      "text": "Agregar un comentario..."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 44.522,
+            "t": 339.864,
+            "r": 172.055,
+            "b": 335.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Plugin de comentarios de Facebook",
+      "text": "Plugin de comentarios de Facebook"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 32.168,
+            "t": 277.09799999999996,
+            "r": 71.794,
+            "b": 268.51700000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "MÁS",
+      "text": "MÁS"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.785,
+            "t": 277.168,
+            "r": 150.182,
+            "b": 268.539,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "NOTICIAS",
+      "text": "NOTICIAS"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 445.619,
+            "t": 441.714,
+            "r": 503.289,
+            "b": 436.596,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Ordenar por",
+      "text": "Ordenar por"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 509.819,
+            "t": 439.966,
+            "r": 565.54,
+            "b": 435.564,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Más antiguos",
+      "text": "Más antiguos"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.40599999999995,
+            "r": 418.301,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "https://www.elsoldemexico.com.mx/republica/justicia/no-son-italianos-son-paisanos-en-busca-de-los-suyos-1029967.html",
+      "text": "https://www.elsoldemexico.com.mx/republica/justicia/no-son-italianos-son-paisanos-en-busca-de-los-suyos-1029967.html"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 571.312,
+            "t": 22.40599999999995,
+            "r": 585.531,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "4/18",
+      "text": "4/18"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 11.56722354888916,
+            "t": 649.3835754394531,
+            "r": 474.728515625,
+            "b": 600.3130645751953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 23.861181259155273,
+            "t": 462.8291320800781,
+            "r": 570.4910278320312,
+            "b": 120.34539794921875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 29.507266998291016,
+            "t": 405.4879455566406,
+            "r": 66.89732360839844,
+            "b": 368.3612365722656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 31.93180274963379,
+            "t": 281.4667053222656,
+            "r": 150.14544677734375,
+            "b": 263.966552734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    }
+  }
+}

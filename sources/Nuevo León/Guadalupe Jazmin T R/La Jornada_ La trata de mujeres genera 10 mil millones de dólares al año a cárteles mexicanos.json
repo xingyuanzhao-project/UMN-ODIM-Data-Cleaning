@@ -1,0 +1,1567 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "La Jornada_ La trata de mujeres genera 10 mil millones de dólares al año a cárteles mexicanos",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13712961298515127040,
+    "filename": "La Jornada_ La trata de mujeres genera 10 mil millones de dólares al año a cárteles mexicanos.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 722.3100029101562,
+            "r": 191.79,
+            "b": 714.7850029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Delito eludido",
+      "text": "Delito eludido",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 695.0330029101563,
+            "r": 310.864,
+            "b": 645.4850029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "La trata de mujeres genera 10 mil millones de dólares al año a cárteles mexicanos",
+      "text": "La trata de mujeres genera 10 mil millones de dólares al año a cárteles mexicanos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 626.0220029101563,
+            "r": 486.614,
+            "b": 603.4920029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "La PGR no persigue a las bandas criminales por ese flagelo, sólo por el narco , dice ONG",
+      "text": "La PGR no persigue a las bandas criminales por ese flagelo, sólo por el narco , dice ONG",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 590.0050029101562,
+            "r": 478.338,
+            "b": 567.4760029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "Sólo en Apodaca y Guadalupe, Nuevo León, han desaparecido más de 500 jóvenes",
+      "text": "Sólo en Apodaca y Guadalupe, Nuevo León, han desaparecido más de 500 jóvenes",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 111.48,
+            "t": 550.1010029101562,
+            "r": 220.372,
+            "b": 543.9300029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "S M",
+      "text": "S M",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 368.568,
+            "t": 520.9440029101562,
+            "r": 496.134,
+            "b": 507.41100291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Periódico La Jornada Domingo 6 de enero de 2013, p. 2",
+      "text": "Periódico La Jornada Domingo 6 de enero de 2013, p. 2"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 495.96800291015626,
+            "r": 493.794,
+            "b": 422.4170029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            445
+          ]
+        }
+      ],
+      "orig": "'Se  fueron  por  gusto',  espetó  un  policía  ministerial  a  Isabel  Rivera  y  a  otras madres de desaparecidas  en  Apodaca,  Nuevo  León,  luego  de  que  denunciaron que el crimen organizado había secuestrado a decenas de mujeres jóvenes en ese municipio,  más  de  103,  según  el  informe  reciente  de  la  Coalición  contra  el Tráfico  de  Mujeres  y  Niñas  de  América  Latina  y  el  Caribe  (Catwlac,  por  sus siglas en inglés).",
+      "text": "'Se  fueron  por  gusto',  espetó  un  policía  ministerial  a  Isabel  Rivera  y  a  otras madres de desaparecidas  en  Apodaca,  Nuevo  León,  luego  de  que  denunciaron que el crimen organizado había secuestrado a decenas de mujeres jóvenes en ese municipio,  más  de  103,  según  el  informe  reciente  de  la  Coalición  contra  el Tráfico  de  Mujeres  y  Niñas  de  América  Latina  y  el  Caribe  (Catwlac,  por  sus siglas en inglés)."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 402.92500291015625,
+            "r": 493.583,
+            "b": 315.8680029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            480
+          ]
+        }
+      ],
+      "orig": "'Los cárteles de la droga mexicanos han encontrado un nicho de ganancias inmensas en la trata de mujeres y niñas con propósitos de explotación sexual y pornografía. Anualmente ganan más de 10 mil millones de dólares. Lamentablemente,  la  Procuraduría  General  de  la  República  (PGR)  no  está persiguiendo a los cárteles por la trata de mujeres, sólo por el tráfico de drogas', expresa en entrevista Teresa Ulloa Ziáurriz, directora para América Latina y el Caribe de Catwlac.",
+      "text": "'Los cárteles de la droga mexicanos han encontrado un nicho de ganancias inmensas en la trata de mujeres y niñas con propósitos de explotación sexual y pornografía. Anualmente ganan más de 10 mil millones de dólares. Lamentablemente,  la  Procuraduría  General  de  la  República  (PGR)  no  está persiguiendo a los cárteles por la trata de mujeres, sólo por el tráfico de drogas', expresa en entrevista Teresa Ulloa Ziáurriz, directora para América Latina y el Caribe de Catwlac."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 296.37500291015624,
+            "r": 493.524,
+            "b": 209.31800291015622,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            596
+          ]
+        }
+      ],
+      "orig": "En  su  nuevo  informe  sobre  la  trata  y  el  crimen  organizado  en  México, adelantado a La Jornada , la organización que promueve el derecho de mujeres y niñas  a  una  vida  libre  de  violencia  y  explotación  sexual,  incluye  estadísticas cuantitativas  y  cualitativas  en  los  estados  y  ciudades  de  origen  de  la  trata,  los factores  de  vulnerabilidad,  las  rutas  de  tránsito,  el  fin  del  ilícito  y  su modus operandi ,  el  tipo  de  perpetrador  solitario  o  de  crimen  organizado  y  los  cuatro cárteles de la droga que han incursionado en este próspero delito.",
+      "text": "En  su  nuevo  informe  sobre  la  trata  y  el  crimen  organizado  en  México, adelantado a La Jornada , la organización que promueve el derecho de mujeres y niñas  a  una  vida  libre  de  violencia  y  explotación  sexual,  incluye  estadísticas cuantitativas  y  cualitativas  en  los  estados  y  ciudades  de  origen  de  la  trata,  los factores  de  vulnerabilidad,  las  rutas  de  tránsito,  el  fin  del  ilícito  y  su modus operandi ,  el  tipo  de  perpetrador  solitario  o  de  crimen  organizado  y  los  cuatro cárteles de la droga que han incursionado en este próspero delito."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 189.82600291015626,
+            "r": 493.683,
+            "b": 102.76900291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            546
+          ]
+        }
+      ],
+      "orig": "'Los grupos del crimen organizado, particularmente los cárteles del  Golfo, Los Zetas, Nuevo Milenio y los Caballeros Templarios, las levantan para usarlas de halconas desde los 12 años; luego las convierten en sicarias, mulas o esclavas sexuales  de  los  jefes  de  plaza,  y  cuando  se  cansan  de  ellas,  simplemente  las matan y les desfiguran el rostro para hacer más difícil su identificación. Lo que más nos preocupa es que hemos empezado a ver un vínculo con desaparición de un periodo de tres a seis meses y luego feminicidio ', dice.",
+      "text": "'Los grupos del crimen organizado, particularmente los cárteles del  Golfo, Los Zetas, Nuevo Milenio y los Caballeros Templarios, las levantan para usarlas de halconas desde los 12 años; luego las convierten en sicarias, mulas o esclavas sexuales  de  los  jefes  de  plaza,  y  cuando  se  cansan  de  ellas,  simplemente  las matan y les desfiguran el rostro para hacer más difícil su identificación. Lo que más nos preocupa es que hemos empezado a ver un vínculo con desaparición de un periodo de tres a seis meses y luego feminicidio ', dice."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 83.2760029101562,
+            "r": 493.507,
+            "b": 36.73800291015618,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            325
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 810.3640029101563,
+            "r": 493.794,
+            "b": 750.3200029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            326,
+            722
+          ]
+        }
+      ],
+      "orig": "El  informe  titulado Estadísticas  cualitativas  y  cuantitativas  para  medir  el efecto de las nuevas formas de criminalidad violenta contra las mujeres: la trata de mujeres, niñas y adolescentes y sus vínculos con la delincuencia organizada traza un mapa delictivo por Estado de las 'nuevas' violencias contra las mujeres y cómo el avance de la criminalidad en México ha afectado sus vidas, sin que los operativos oficiales  ofrezcan  seguridad  a  las  mujeres.  Analiza  los  niveles  de impunidad  sobre  la  trata  y  la  eficiencia  de  la  respuesta  gubernamental:  'Las mujeres vivimos con miedo, y ya no se sabe quiénes son peores, si los cuerpos policiacos y las fuerzas armadas, o los cárteles de la droga'.",
+      "text": "El  informe  titulado Estadísticas  cualitativas  y  cuantitativas  para  medir  el efecto de las nuevas formas de criminalidad violenta contra las mujeres: la trata de mujeres, niñas y adolescentes y sus vínculos con la delincuencia organizada traza un mapa delictivo por Estado de las 'nuevas' violencias contra las mujeres y cómo el avance de la criminalidad en México ha afectado sus vidas, sin que los operativos oficiales  ofrezcan  seguridad  a  las  mujeres.  Analiza  los  niveles  de impunidad  sobre  la  trata  y  la  eficiencia  de  la  respuesta  gubernamental:  'Las mujeres vivimos con miedo, y ya no se sabe quiénes son peores, si los cuerpos policiacos y las fuerzas armadas, o los cárteles de la droga'."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 730.8270029101562,
+            "r": 239.338,
+            "b": 724.8080029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Desaparecidas en Apodaca",
+      "text": "Desaparecidas en Apodaca",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 705.3150029101563,
+            "r": 493.741,
+            "b": 645.2710029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            340
+          ]
+        }
+      ],
+      "orig": "Hace tres años, Guadalupe Jazmín Torres Rivera desapareció en Apodaca, Nuevo León. Durante una semana secuestraron a más de una docena de jovencitas en el mismo barrio; algunas fueron levantadas en la calle, en la parada del autobús y otras fueron sacadas de sus casas a punta de pistola. Sus casos están incluidos en el informe de Catwlac.",
+      "text": "Hace tres años, Guadalupe Jazmín Torres Rivera desapareció en Apodaca, Nuevo León. Durante una semana secuestraron a más de una docena de jovencitas en el mismo barrio; algunas fueron levantadas en la calle, en la parada del autobús y otras fueron sacadas de sus casas a punta de pistola. Sus casos están incluidos en el informe de Catwlac."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 625.7780029101563,
+            "r": 493.642,
+            "b": 579.2400029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            279
+          ]
+        }
+      ],
+      "orig": "'Desde entonces han desaparecido más de 200 mujeres en Apodaca y otras tantas en el municipio de Guadalupe', dice Isabel Rivera, madre de Guadalupe Jazmín,  quien junto  a  otras  madres  de  desaparecidas  (más  de  500)  han emprendido una incansable lucha por su localización.",
+      "text": "'Desde entonces han desaparecido más de 200 mujeres en Apodaca y otras tantas en el municipio de Guadalupe', dice Isabel Rivera, madre de Guadalupe Jazmín,  quien junto  a  otras  madres  de  desaparecidas  (más  de  500)  han emprendido una incansable lucha por su localización."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 559.7480029101563,
+            "r": 493.407,
+            "b": 486.19700291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            491
+          ]
+        }
+      ],
+      "orig": "'Las  autoridades  no  las  están  buscando.  Es  la  misma  discriminación  desde que  empezamos.  Las  discriminan  por  ser  mujeres  y  luego  no  las  buscan.  Lo último que nos dijo un ministerial es que ellas se fueron por gusto. Yo le contesté que ellas  no  harían  eso  y  que  su  argumento  era  una  excusa  para  no  buscarlas, pero  les  da  igual',  comenta  Rivera,  quien  ha  observado  cómo  los  expedientes permanecen igual, sin avance, a pesar del tiempo transcurrido.",
+      "text": "'Las  autoridades  no  las  están  buscando.  Es  la  misma  discriminación  desde que  empezamos.  Las  discriminan  por  ser  mujeres  y  luego  no  las  buscan.  Lo último que nos dijo un ministerial es que ellas se fueron por gusto. Yo le contesté que ellas  no  harían  eso  y  que  su  argumento  era  una  excusa  para  no  buscarlas, pero  les  da  igual',  comenta  Rivera,  quien  ha  observado  cómo  los  expedientes permanecen igual, sin avance, a pesar del tiempo transcurrido."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 466.70400291015625,
+            "r": 493.788,
+            "b": 393.15400291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            467
+          ]
+        }
+      ],
+      "orig": "Las  madres  han  señalado  a  las  autoridades  la  necesidad  de  buscar  a  las jóvenes de entre 15 y 23 años en los locales de servicios sexuales, como las salas de  masaje,  los  llamados men's  club ,  los  prostíbulos  y  los table  dance en  la entidad: 'Pero la policía ministerial de Nuevo León no entra ni las busca allí; no se  meten.  Nunca  han  hecho  una  redada  para  localizar  mujeres  en  situación  de trata. Queremos que se investigue a fondo'.",
+      "text": "Las  madres  han  señalado  a  las  autoridades  la  necesidad  de  buscar  a  las jóvenes de entre 15 y 23 años en los locales de servicios sexuales, como las salas de  masaje,  los  llamados men's  club ,  los  prostíbulos  y  los table  dance en  la entidad: 'Pero la policía ministerial de Nuevo León no entra ni las busca allí; no se  meten.  Nunca  han  hecho  una  redada  para  localizar  mujeres  en  situación  de trata. Queremos que se investigue a fondo'."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 373.66100291015624,
+            "r": 493.835,
+            "b": 286.60400291015617,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            516
+          ]
+        }
+      ],
+      "orig": "La  última  noticia  que  tuvo  de  Guadalupe  Jazmín  fueron  dos  llamadas  en 2012.  'Las  dos  fueron  en  fechas  simbólicas:  una  el  día  en  que  a  ella  la secuestraron saliendo de dar clases de baile en el DIF, y la otra, en el cumpleaños de  su  hija.  La  operadora  me  dijo  si  yo  aceptaba  la  llamada  de  un  familiar  de Torreón, Coahuila, pero luego cortaba. La policía dijo que las llamadas fueron realizadas desde un banco HSBC y me dijeron que iban a buscar los videos, pero no cumplieron.'",
+      "text": "La  última  noticia  que  tuvo  de  Guadalupe  Jazmín  fueron  dos  llamadas  en 2012.  'Las  dos  fueron  en  fechas  simbólicas:  una  el  día  en  que  a  ella  la secuestraron saliendo de dar clases de baile en el DIF, y la otra, en el cumpleaños de  su  hija.  La  operadora  me  dijo  si  yo  aceptaba  la  llamada  de  un  familiar  de Torreón, Coahuila, pero luego cortaba. La policía dijo que las llamadas fueron realizadas desde un banco HSBC y me dijeron que iban a buscar los videos, pero no cumplieron.'"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 267.1120029101562,
+            "r": 493.689,
+            "b": 220.57300291015622,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            286
+          ]
+        }
+      ],
+      "orig": "Isabel Rivera cuenta que no hay un solo día que no piense en su hija y que su nieta de seis años le da la fuerza para seguirla buscando: 'Estas llamadas son una señal  de  que  está  viva.  Yo  la  siento.  Me  llena  de  esperanza.  Tengo  fe  de encontrarla. Ella tiene que regresar'.",
+      "text": "Isabel Rivera cuenta que no hay un solo día que no piense en su hija y que su nieta de seis años le da la fuerza para seguirla buscando: 'Estas llamadas son una señal  de  que  está  viva.  Yo  la  siento.  Me  llena  de  esperanza.  Tengo  fe  de encontrarla. Ella tiene que regresar'."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 201.08100291015626,
+            "r": 152.274,
+            "b": 195.06200291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "El rescate",
+      "text": "El rescate",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 175.5690029101562,
+            "r": 493.794,
+            "b": 75.00600291015621,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            581
+          ]
+        }
+      ],
+      "orig": "El informe de Catwlac incluye las formas de rescate y daño de las víctimas. En los seis años recientes esta organización ha logrado rescatar a mil 37 víctimas: 'El problema es que hemos podido ubicar a algunas, todas adolescentes entre 12 y 16 años, pero no pueden dejar de trabajar para ellos, porque están amenazadas de muerte, tanto ellas como sus familias, lo que las lleva a paralizarse. Por un lado, la amenaza del grupo delictivo y por el otro, la del Ejército, que ahora las está  deteniendo  y  enviado  a  los  juzgados  para  jóvenes  en  conflicto  con  la  ley penal'.",
+      "text": "El informe de Catwlac incluye las formas de rescate y daño de las víctimas. En los seis años recientes esta organización ha logrado rescatar a mil 37 víctimas: 'El problema es que hemos podido ubicar a algunas, todas adolescentes entre 12 y 16 años, pero no pueden dejar de trabajar para ellos, porque están amenazadas de muerte, tanto ellas como sus familias, lo que las lleva a paralizarse. Por un lado, la amenaza del grupo delictivo y por el otro, la del Ejército, que ahora las está  deteniendo  y  enviado  a  los  juzgados  para  jóvenes  en  conflicto  con  la  ley penal'."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 102.159,
+            "t": 130.0120029101563,
+            "r": 493.639,
+            "b": 117.22900291015628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "Isabel Rivera frente a la foto de su hija desaparecida, Guadalupe Jazmín Torres Rivera Foto Sanjuana Martínez",
+      "text": "Isabel Rivera frente a la foto de su hija desaparecida, Guadalupe Jazmín Torres Rivera Foto Sanjuana Martínez"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 102.159,
+            "t": 217.80300291015624,
+            "r": 493.815,
+            "b": 205.02000291015622,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "Karla Lorena Villarreal muestra un retrato de su hija desaparecida, Karla Mafielli Suzuki Foto Sanjuana Martínez",
+      "text": "Karla Lorena Villarreal muestra un retrato de su hija desaparecida, Karla Mafielli Suzuki Foto Sanjuana Martínez"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 102.159,
+            "t": 192.07700291015624,
+            "r": 493.683,
+            "b": 37.48800291015618,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            970
+          ]
+        }
+      ],
+      "orig": "Según las estadísticas del más reciente informe sobre trata de la Oficina de las Naciones Unidas contra la Droga y el Delito (Unodc) 90 por ciento de este delito es con fines de explotación sexual, pero las autoridades mexicanas no lo toman en cuenta cuando realizan operativos : 'Lo que realmente pasa en muchos de los casos  es  que  aun  estando  bajo  el  control  de  sus  tratantes  o  explotadores,  las mujeres  en  situación  de  trata  las  dejan  a  cargo  de  las  nuevas  mujeres  o  niñas reclutadas, y al llegar el operativo policial o militar, son detenidas y llevadas ante la justicia como presuntas culpables y el verdadero tratante o explotador, nunca responde frente a la justicia. Las autoridades no han entendido bien el delito. No se le está dando prioridad. Persiguen la extorsión, el secuestro, la piratería, pero no  le  entran  a  la  trata.  El  delito  no  está  siendo  perseguido  y  socialmente  está naturalizado', afirma Ulloa Ziáurriz.",
+      "text": "Según las estadísticas del más reciente informe sobre trata de la Oficina de las Naciones Unidas contra la Droga y el Delito (Unodc) 90 por ciento de este delito es con fines de explotación sexual, pero las autoridades mexicanas no lo toman en cuenta cuando realizan operativos : 'Lo que realmente pasa en muchos de los casos  es  que  aun  estando  bajo  el  control  de  sus  tratantes  o  explotadores,  las mujeres  en  situación  de  trata  las  dejan  a  cargo  de  las  nuevas  mujeres  o  niñas reclutadas, y al llegar el operativo policial o militar, son detenidas y llevadas ante la justicia como presuntas culpables y el verdadero tratante o explotador, nunca responde frente a la justicia. Las autoridades no han entendido bien el delito. No se le está dando prioridad. Persiguen la extorsión, el secuestro, la piratería, pero no  le  entran  a  la  trata.  El  delito  no  está  siendo  perseguido  y  socialmente  está naturalizado', afirma Ulloa Ziáurriz."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 810.3640029101563,
+            "r": 493.747,
+            "b": 723.3070029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            512
+          ]
+        }
+      ],
+      "orig": "El rescate de las víctimas mexicanas de trata trasciende las fronteras: 'Hemos encontrado a muchas chicas del otro lado, concretamente en Nueva York, a las que pasaron por Reynosa, Tamaulipas, donde las inician. Tenemos una rescatada allá y una chica registrada en el padrón de Reynosa con el nombre y los papeles de  la  que  tengo  en  Nueva  York.  Les  cambian  la  identidad.  Las  pasan  por McAllen,  Texas,  y  como  no  se  persigue  el  delito,  99  por  ciento  de  los  casos quedan en la impunidad'.",
+      "text": "El rescate de las víctimas mexicanas de trata trasciende las fronteras: 'Hemos encontrado a muchas chicas del otro lado, concretamente en Nueva York, a las que pasaron por Reynosa, Tamaulipas, donde las inician. Tenemos una rescatada allá y una chica registrada en el padrón de Reynosa con el nombre y los papeles de  la  que  tengo  en  Nueva  York.  Les  cambian  la  identidad.  Las  pasan  por McAllen,  Texas,  y  como  no  se  persigue  el  delito,  99  por  ciento  de  los  casos quedan en la impunidad'."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 703.8150029101563,
+            "r": 493.841,
+            "b": 630.2640029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            440
+          ]
+        }
+      ],
+      "orig": "Ulloa  Ziáurriz  fue  una  de  las  precursoras  de  la  nueva  ley  para  prevenir, sancionar y erradicar los delitos de trata, pero está convencida que se necesita reformarla: 'Lamentablemente en el Senado la echaron a perder, los cambios que le hicieron los legisladores priístas fueron para generar mayor impunidad. Y en este gobierno no hemos escuchado ni una sola manifestación contra la trata de Enrique Peña Nieto o de su gabinete'.",
+      "text": "Ulloa  Ziáurriz  fue  una  de  las  precursoras  de  la  nueva  ley  para  prevenir, sancionar y erradicar los delitos de trata, pero está convencida que se necesita reformarla: 'Lamentablemente en el Senado la echaron a perder, los cambios que le hicieron los legisladores priístas fueron para generar mayor impunidad. Y en este gobierno no hemos escuchado ni una sola manifestación contra la trata de Enrique Peña Nieto o de su gabinete'."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 610.7710029101562,
+            "r": 493.841,
+            "b": 550.7270029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            361
+          ]
+        }
+      ],
+      "orig": "El  nuevo  informe  exhibe  la  poca  efectividad  de  las  actuaciones  de  las autoridades mexicanas en la persecución del delito y en el acceso a la justicia para las víctimas. El año pasado, por ejemplo, sólo hubo 31 consignaciones por este delito, pero se lograron únicamente dos sentencias a escala federal y siete en los estados, aunque dos absolutorias.",
+      "text": "El  nuevo  informe  exhibe  la  poca  efectividad  de  las  actuaciones  de  las autoridades mexicanas en la persecución del delito y en el acceso a la justicia para las víctimas. El año pasado, por ejemplo, sólo hubo 31 consignaciones por este delito, pero se lograron únicamente dos sentencias a escala federal y siete en los estados, aunque dos absolutorias."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 531.2350029101563,
+            "r": 493.712,
+            "b": 471.19000291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            373
+          ]
+        }
+      ],
+      "orig": "'El problema más grave que tiene la PGR es que la Fiscalía Especial para los Delitos de Violencia contra las Mujeres y Trata de Personas (Fevimtra) no tiene facultades para nada. La crearon para callarnos la boca, pero no funciona, al final de  cuentas  sólo  tiene  competencia  para  los  asuntos  federales  y  donde  no  hay delincuencia organizada. Hay que cambiarla.'",
+      "text": "'El problema más grave que tiene la PGR es que la Fiscalía Especial para los Delitos de Violencia contra las Mujeres y Trata de Personas (Fevimtra) no tiene facultades para nada. La crearon para callarnos la boca, pero no funciona, al final de  cuentas  sólo  tiene  competencia  para  los  asuntos  federales  y  donde  no  hay delincuencia organizada. Hay que cambiarla.'"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 451.6980029101562,
+            "r": 196.545,
+            "b": 445.67800291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Las complicidades",
+      "text": "Las complicidades",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 426.1860029101562,
+            "r": 493.841,
+            "b": 352.63500291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            408
+          ]
+        }
+      ],
+      "orig": "El informe de Catwlac ubica los focos rojos del país en la incidencia de mayor número de desapariciones de mujeres y niñas con fines de trata y explotación sexual:  Veracruz,  Tamaulipas,  Nuevo  León,  Coahuila,  Zacatecas,  Durango, Chiapas,  Oaxaca,  estado  de  México,  Hidalgo,  Baja  California  Sur,  Chihuahua, Guerrero, Jalisco, Puebla, Quintana Roo, San Luis Potosí, Tabasco, Tlaxcala y Zacatecas.",
+      "text": "El informe de Catwlac ubica los focos rojos del país en la incidencia de mayor número de desapariciones de mujeres y niñas con fines de trata y explotación sexual:  Veracruz,  Tamaulipas,  Nuevo  León,  Coahuila,  Zacatecas,  Durango, Chiapas,  Oaxaca,  estado  de  México,  Hidalgo,  Baja  California  Sur,  Chihuahua, Guerrero, Jalisco, Puebla, Quintana Roo, San Luis Potosí, Tabasco, Tlaxcala y Zacatecas."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 333.14200291015624,
+            "r": 493.683,
+            "b": 178.5540029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            919
+          ]
+        }
+      ],
+      "orig": "La  investigación  cruza  los  datos  de  desapariciones  y  las  vincula  con  la frecuencia de feminicidios : 'Son feminicidios con razgos similares y características de una violencia salvaje. Los cuerpos aparecen todavía con fauna cadavérica. Los cráneos están separados de los cuerpos, la mayoría son cráneos limpios y con la mandíbula separada. Tienen golpes en todo el cuerpo, quebrados los  dientes  de  enfrente,  sus  manitas  crispadas,  y  algunas  están  completamente con la pelvis y las piernas desarticuladas por las violaciones. Creemos que este modus  operandi está  directamente  relacionado  con  la  posibilidad  de  evitar  la identificación, porque les arrancan el tendón que une la quijada y es el más fuerte que tenemos en el cuerpo para obtener el ADN y la mayoría de las procuradurías de los estados no cuentan con la tecnología para ese tipo de prueba, algunos ni siquiera para sacar el ADN'.",
+      "text": "La  investigación  cruza  los  datos  de  desapariciones  y  las  vincula  con  la frecuencia de feminicidios : 'Son feminicidios con razgos similares y características de una violencia salvaje. Los cuerpos aparecen todavía con fauna cadavérica. Los cráneos están separados de los cuerpos, la mayoría son cráneos limpios y con la mandíbula separada. Tienen golpes en todo el cuerpo, quebrados los  dientes  de  enfrente,  sus  manitas  crispadas,  y  algunas  están  completamente con la pelvis y las piernas desarticuladas por las violaciones. Creemos que este modus  operandi está  directamente  relacionado  con  la  posibilidad  de  evitar  la identificación, porque les arrancan el tendón que une la quijada y es el más fuerte que tenemos en el cuerpo para obtener el ADN y la mayoría de las procuradurías de los estados no cuentan con la tecnología para ese tipo de prueba, algunos ni siquiera para sacar el ADN'."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 159.06200291015625,
+            "r": 493.829,
+            "b": 58.49800291015629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            660
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 102.159,
+            "t": 810.3640029101563,
+            "r": 493.255,
+            "b": 790.8380029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            661,
+            781
+          ]
+        }
+      ],
+      "orig": "Con base en su experiencia, Ulloa Ziáurriz afirma que la trata en México es un  negocio  constituido  por  redes  de  complicidad  entre  el  poder  político, económico y el crimen organizado, y hay nexos entre hombres propietarios de negocios  sexuales  metidos  en  política.  Según  la  PGR,  unas  800  mil  mujeres adultas  y  20  mil  menores  son  obligadas  a  ingresar  a  las  47  redes  de  trata  que existen en el país: 'Hay intereses muy fuertes. Después de violarlas se las llevan a explotarlas a los men's club y lugares como los masajes eróticos, que ahora se han  extendido  de  forma  alarmante  en  todo  el  país,  donde  hay  servicio  de prostitución. Son lugares que se han convertido en los nuevos negocios de lavado de dinero procedente del narcotráfico'.",
+      "text": "Con base en su experiencia, Ulloa Ziáurriz afirma que la trata en México es un  negocio  constituido  por  redes  de  complicidad  entre  el  poder  político, económico y el crimen organizado, y hay nexos entre hombres propietarios de negocios  sexuales  metidos  en  política.  Según  la  PGR,  unas  800  mil  mujeres adultas  y  20  mil  menores  son  obligadas  a  ingresar  a  las  47  redes  de  trata  que existen en el país: 'Hay intereses muy fuertes. Después de violarlas se las llevan a explotarlas a los men's club y lugares como los masajes eróticos, que ahora se han  extendido  de  forma  alarmante  en  todo  el  país,  donde  hay  servicio  de prostitución. Son lugares que se han convertido en los nuevos negocios de lavado de dinero procedente del narcotráfico'."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 102.159,
+            "t": 769.5820029101562,
+            "r": 201.778,
+            "b": 762.0570029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Más De La Red",
+      "text": "Más De La Red",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 413.249,
+            "t": 766.3080029101562,
+            "r": 493.083,
+            "b": 761.7800029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Enlaces Patrocinados",
+      "text": "Enlaces Patrocinados"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 102.159,
+            "t": 743.5830029101562,
+            "r": 422.294,
+            "b": 737.5640029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 102.159,
+            "t": 725.3420029101562,
+            "r": 151.589,
+            "b": 721.2030029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            61,
+            74
+          ]
+        }
+      ],
+      "orig": "Un ecuatoriano podrá participar y ganar millones esta semana theLotter.com",
+      "text": "Un ecuatoriano podrá participar y ganar millones esta semana theLotter.com"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 102.159,
+            "t": 673.8010029101563,
+            "r": 372.777,
+            "b": 667.7810029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "Why Fans From Around The World Love This Team",
+      "text": "Why Fans From Around The World Love This Team",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 102.159,
+            "t": 655.5590029101562,
+            "r": 233.007,
+            "b": 651.4210029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "CNN International for Hankook Tire",
+      "text": "CNN International for Hankook Tire"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 102.159,
+            "t": 604.0180029101563,
+            "r": 380.357,
+            "b": 597.9990029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "People from Ecuador cannot believe these flight prices",
+      "text": "People from Ecuador cannot believe these flight prices"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 102.159,
+            "t": 585.7770029101563,
+            "r": 146.427,
+            "b": 581.6390029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Flights Shop",
+      "text": "Flights Shop"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 102.159,
+            "t": 534.2360029101562,
+            "r": 349.481,
+            "b": 528.2160029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "You can play this Game in your browser for free",
+      "text": "You can play this Game in your browser for free"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 102.159,
+            "t": 515.9950029101562,
+            "r": 147.325,
+            "b": 511.85600291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 449.946,
+            "t": 468.42000291015626,
+            "r": 493.081,
+            "b": 463.89100291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            12,
+            23
+          ]
+        }
+      ],
+      "orig": "Panzer Rush por Taboola",
+      "text": "Panzer Rush por Taboola"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 184.439,
+            "t": 803.2880029101563,
+            "r": 413.645,
+            "b": 782.6630029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203.",
+      "text": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.152515411376953,
+            "t": 795.3807601928711,
+            "r": 232.77880859375,
+            "b": 753.6500625610352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 433.5747375488281,
+            "t": 793.075252532959,
+            "r": 566.2311401367188,
+            "b": 769.1943893432617,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 542.7084350585938,
+            "t": 722.6172943115234,
+            "r": 561.0138549804688,
+            "b": 703.8074951171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 101.50447845458984,
+            "t": 814.5618839263916,
+            "r": 496.5445556640625,
+            "b": 132.89337158203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 101.09367370605469,
+            "t": 814.1169757843018,
+            "r": 496.4853515625,
+            "b": 220.46575927734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 7
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "¿HAS VISTO A…  Dorian Javier Rivera Zurita reportarlo a Atención PGR",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2008285656376416908,
+    "filename": "¿HAS VISTO A…  Dorian Javier Rivera Zurita reportarlo a Atención PGR.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.52305234375,
+            "r": 632.289,
+            "b": 499.10705234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1007
+          ]
+        }
+      ],
+      "orig": "www.3ersector.mx This site can t be reached www.3ersector.mx took too long to respond. Try: Checking the connection Checking the proxy and the firewall Running Windows Network Diagnostics ERR_TIMED_OUT null Reload 0) || diagnose\" jsvalues=\".detailsText:details; .hideDetailsText:hideDetails;\" jstcache=\"2\">Details Check your Internet connection Check any cables and reboot any routers, modems, or other network devices you may be using. Allow Chrome to access the network in your firewall or antivirus settings. If it is already listed as a program allowed to access the network, try removing it from the list and adding it again. If you use a proxy server Check your proxy settings or contact your network administrator to make sure the proxy server is working. If you don't believe you should be using a proxy server: Go to the Chrome menu > Settings > Show advanced settings > Change proxy settings > LAN Settings and deselect \"Use a proxy server for your LAN\". www.3ersector.mx took too long to respond.",
+      "text": "www.3ersector.mx This site can t be reached www.3ersector.mx took too long to respond. Try: Checking the connection Checking the proxy and the firewall Running Windows Network Diagnostics ERR_TIMED_OUT null Reload 0) || diagnose\" jsvalues=\".detailsText:details; .hideDetailsText:hideDetails;\" jstcache=\"2\">Details Check your Internet connection Check any cables and reboot any routers, modems, or other network devices you may be using. Allow Chrome to access the network in your firewall or antivirus settings. If it is already listed as a program allowed to access the network, try removing it from the list and adding it again. If you use a proxy server Check your proxy settings or contact your network administrator to make sure the proxy server is working. If you don't believe you should be using a proxy server: Go to the Chrome menu > Settings > Show advanced settings > Change proxy settings > LAN Settings and deselect \"Use a proxy server for your LAN\". www.3ersector.mx took too long to respond."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

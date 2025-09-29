@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Sigue sin aparecer Georgina Margarita, la menor de edad en #Tala",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2333463814791820491,
+    "filename": "Sigue sin aparecer Georgina Margarita, la menor de edad en #Tala.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.17905234375,
+            "r": 632.273,
+            "b": 543.85105234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            585
+          ]
+        }
+      ],
+      "orig": "Page Not Found | REDTNJalisco Jalisco México Internacional Deportes Salud & Vida Entretenimiento Innova cute fun lol love omg win geeky Jalisco México Internacional Deportes Salud & Vida Entretenimiento Innova sections Uncategorized Search Search Oops We couldn't find the page you are looking for. It may have expired, or there could be a typo. Maybe you can find what you need from our homepage. Return To Home Quienes Somos Comunidad Terminos Privacidad Contactanos © 2025 Todos los derechos reservados log in Remember me log in Forgot password? forgot password reset Back to log in",
+      "text": "Page Not Found | REDTNJalisco Jalisco México Internacional Deportes Salud & Vida Entretenimiento Innova cute fun lol love omg win geeky Jalisco México Internacional Deportes Salud & Vida Entretenimiento Innova sections Uncategorized Search Search Oops We couldn't find the page you are looking for. It may have expired, or there could be a typo. Maybe you can find what you need from our homepage. Return To Home Quienes Somos Comunidad Terminos Privacidad Contactanos © 2025 Todos los derechos reservados log in Remember me log in Forgot password? forgot password reset Back to log in"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

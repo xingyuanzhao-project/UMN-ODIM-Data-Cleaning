@@ -1,0 +1,202 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "DESAPARECE EXMINISTERIO PÚBLICO DE JALISCO _ El Mexicano",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 16929341302194464830,
+    "filename": "DESAPARECE EXMINISTERIO PÚBLICO DE JALISCO _ El Mexicano.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 63.399,
+            "t": 794.6300029101562,
+            "r": 505.342,
+            "b": 762.0580029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "DESAPARECE EXMINISTERIO PÚBLICO DE JALISCO",
+      "text": "DESAPARECE EXMINISTERIO PÚBLICO DE JALISCO",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 66.4,
+            "t": 746.7790029101562,
+            "r": 115.601,
+            "b": 742.5020029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "4 junio, 2018",
+      "text": "4 junio, 2018"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 63.399,
+            "t": 330.68000291015625,
+            "r": 528.562,
+            "b": 74.27400291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            913
+          ]
+        }
+      ],
+      "orig": "En la Fiscalía del Estado de Jalisco se recibió una denuncia por la desaparición de César Eduardo García Rodríguez, quien se desempeñó como agente del Ministerio Público del estado y actualmente se dedica a litigar de forma particular. Según familiares del abogado, el día viernes primero de junio salió de su domicilio, en la zona de Paseos del Sol, de la Zona Metropolitana de Guadalajara, aproximadamente a las 8:30 de la mañana, para acudir a una reunión de trabajo que se realizaría entre 9 y 9:35 de la mañana. El abogado salió a bordo su camioneta Ford Ecosport modelo 2005, color Negra, vestía con camisa de cuadros color roja y azul, un pantalón de Mezclilla y unos mocasines color café. Tiene una cicatriz en el oído izquierdo con longitud hacia la nuca. La última comunicación con García fue por WhatsApp minutos antes de las 10 de la mañana del viernes, luego de lo cual ya no se volvió a saber de él.",
+      "text": "En la Fiscalía del Estado de Jalisco se recibió una denuncia por la desaparición de César Eduardo García Rodríguez, quien se desempeñó como agente del Ministerio Público del estado y actualmente se dedica a litigar de forma particular. Según familiares del abogado, el día viernes primero de junio salió de su domicilio, en la zona de Paseos del Sol, de la Zona Metropolitana de Guadalajara, aproximadamente a las 8:30 de la mañana, para acudir a una reunión de trabajo que se realizaría entre 9 y 9:35 de la mañana. El abogado salió a bordo su camioneta Ford Ecosport modelo 2005, color Negra, vestía con camisa de cuadros color roja y azul, un pantalón de Mezclilla y unos mocasines color café. Tiene una cicatriz en el oído izquierdo con longitud hacia la nuca. La última comunicación con García fue por WhatsApp minutos antes de las 10 de la mañana del viernes, luego de lo cual ya no se volvió a saber de él."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 63.399,
+            "t": 801.8990029101562,
+            "r": 530.86,
+            "b": 701.5650029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            537
+          ]
+        }
+      ],
+      "orig": "César Eduardo García Rodríguez se desempeñó en el área de investigaciones especiales de la Fiscalía de Jalisco cuando fue Ministerio Público y trabajó en el caso del asesinato del secretario de turismo de Jalisco Jesús Gallegos Álvarez, quién había sido ligado al narcotráfico y fue ejecutado el 9 de marzo de 2013. En el año 2015 García Rodríguez fue dado de baja, luego de la salida de Carlos Nájera como titular de la Fiscalía de Jalisco, pero apeló su salida y fue reinstalado, aunque a inicios de este 2018 nuevamente dejó el cargo.",
+      "text": "César Eduardo García Rodríguez se desempeñó en el área de investigaciones especiales de la Fiscalía de Jalisco cuando fue Ministerio Público y trabajó en el caso del asesinato del secretario de turismo de Jalisco Jesús Gallegos Álvarez, quién había sido ligado al narcotráfico y fue ejecutado el 9 de marzo de 2013. En el año 2015 García Rodríguez fue dado de baja, luego de la salida de Carlos Nájera como titular de la Fiscalía de Jalisco, pero apeló su salida y fue reinstalado, aunque a inicios de este 2018 nuevamente dejó el cargo."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 63.1617317199707,
+            "t": 726.1315689086914,
+            "r": 532.8045043945312,
+            "b": 360.6467590332031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 2
+    }
+  }
+}

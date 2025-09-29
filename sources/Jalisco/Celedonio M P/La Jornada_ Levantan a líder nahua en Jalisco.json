@@ -1,0 +1,2203 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "La Jornada_ Levantan a líder nahua en Jalisco",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 1792111646840390412,
+    "filename": "La Jornada_ Levantan a líder nahua en Jalisco.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.293,
+            "r": 58.898,
+            "b": 771.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "3/14/2019",
+      "text": "3/14/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 264.359,
+            "t": 775.293,
+            "r": 410.297,
+            "b": 771.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "La Jornada: Levantan a líder nahua en Jalisco",
+      "text": "La Jornada: Levantan a líder nahua en Jalisco"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.0,
+            "t": 753.3333333333334,
+            "r": 237.66666666666666,
+            "b": 704.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "ESTADOS",
+      "text": "ESTADOS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.574,
+            "t": 673.1,
+            "r": 321.47,
+            "b": 650.626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Ombudsman sospecha de policías de Colima",
+      "text": "Ombudsman sospecha de policías de Colima",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.574,
+            "t": 630.421,
+            "r": 180.633,
+            "b": 601.409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Levantan Jalisco",
+      "text": "Levantan Jalisco",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 180.633,
+            "t": 630.544,
+            "r": 309.772,
+            "b": 622.428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "a líder nahua en",
+      "text": "a líder nahua en",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.574,
+            "t": 580.017,
+            "r": 474.163,
+            "b": 557.542,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "La costa sur del estado, región asolada por talamontes armados y explotada por minera",
+      "text": "La costa sur del estado, región asolada por talamontes armados y explotada por minera",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.574,
+            "t": 275.221,
+            "r": 502.179,
+            "b": 245.91700000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            362
+          ]
+        }
+      ],
+      "orig": "Los  nahuas  del  sur  de  Jalisco  han  enfrentado  por  años  agresiones  de  grupos  que  codician  la  riqueza minera y forestal de la región limítrofe con Colima. En la imagen, un ejidatario de Ayotitlán, municipio de Cuautitlán, transita por un camino en la zona donde la noche del martes fue levantado Celedonio Monroy Prudencio Foto Arturo Campos Cedillo",
+      "text": "Los  nahuas  del  sur  de  Jalisco  han  enfrentado  por  años  agresiones  de  grupos  que  codician  la  riqueza minera y forestal de la región limítrofe con Colima. En la imagen, un ejidatario de Ayotitlán, municipio de Cuautitlán, transita por un camino en la zona donde la noche del martes fue levantado Celedonio Monroy Prudencio Foto Arturo Campos Cedillo"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 119.899,
+            "t": 233.07600000000002,
+            "r": 264.076,
+            "b": 226.39999999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "JUAN CARLOS GARCÍA PARTIDA",
+      "text": "JUAN CARLOS GARCÍA PARTIDA"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 350.414,
+            "t": 663.622,
+            "r": 384.449,
+            "b": 659.374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Facebook",
+      "text": "Facebook"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 407.724,
+            "t": 663.622,
+            "r": 430.258,
+            "b": 659.374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Twitter",
+      "text": "Twitter"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 453.538,
+            "t": 663.622,
+            "r": 474.533,
+            "b": 659.374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Más...",
+      "text": "Más..."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 478.0,
+            "t": 747.6666666666666,
+            "r": 587.6666666666666,
+            "b": 717.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "LaJornada",
+      "text": "LaJornada"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 439.932,
+            "t": 221.29399999999998,
+            "r": 502.435,
+            "b": 216.00800000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Corresponsal",
+      "text": "Corresponsal"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 368.372,
+            "t": 203.91499999999996,
+            "r": 504.72,
+            "b": 190.00199999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Periódico La Jornada Jueves 25 de octubre de 2012, p. 33",
+      "text": "Periódico La Jornada Jueves 25 de octubre de 2012, p. 33"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.574,
+            "t": 177.413,
+            "r": 502.391,
+            "b": 118.06700000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            367
+          ]
+        }
+      ],
+      "orig": "Guadalajara, Jal., 24 de octubre. El activista nahua Celedonio Monroy Prudencio fue secuestrado  en  la  comunidad  de  Loma  Colorada,  municipio  de  Cuautitlán  de García  Barragán,  en  la  costa  sur  de  Jalisco,  por  un  grupo  de  hombres  que irrumpieron en su domicilio y antes de llevárselo arrojaron el menaje al arroyo que pasa a un lado de la vivienda.",
+      "text": "Guadalajara, Jal., 24 de octubre. El activista nahua Celedonio Monroy Prudencio fue secuestrado  en  la  comunidad  de  Loma  Colorada,  municipio  de  Cuautitlán  de García  Barragán,  en  la  costa  sur  de  Jalisco,  por  un  grupo  de  hombres  que irrumpieron en su domicilio y antes de llevárselo arrojaron el menaje al arroyo que pasa a un lado de la vivienda."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.574,
+            "t": 97.84199999999998,
+            "r": 502.367,
+            "b": 52.00699999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            286
+          ]
+        }
+      ],
+      "orig": "Según la policía local, el levantón fue perpetrado después de las 22 horas del martes,  y  quienes  se  llevaron  a  Monroy  Prudencio  -quien  fue  funcionario municipal  encargado  de  asuntos  indígenas  de  2010  hasta  septiembre  pasadoviajaban en dos camionetas negras y un jeep.",
+      "text": "Según la policía local, el levantón fue perpetrado después de las 22 horas del martes,  y  quienes  se  llevaron  a  Monroy  Prudencio  -quien  fue  funcionario municipal  encargado  de  asuntos  indígenas  de  2010  hasta  septiembre  pasadoviajaban en dos camionetas negras y un jeep."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 554.973,
+            "t": 40.59100000000001,
+            "r": 579.745,
+            "b": 23.333999999999946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": " ",
+      "text": " "
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.293000000000006,
+            "r": 215.027,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2012/10/25/estados/033n1est",
+      "text": "https://www.jornada.com.mx/2012/10/25/estados/033n1est"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 575.312,
+            "t": 22.293000000000006,
+            "r": 585.531,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/4",
+      "text": "1/4"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.293,
+            "r": 58.898,
+            "b": 771.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "3/14/2019",
+      "text": "3/14/2019"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 264.359,
+            "t": 775.293,
+            "r": 410.297,
+            "b": 771.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "La Jornada: Levantan a líder nahua en Jalisco",
+      "text": "La Jornada: Levantan a líder nahua en Jalisco"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.574,
+            "t": 761.437,
+            "r": 502.397,
+            "b": 729.115,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "Además  del  cargo  mencionado,  en  la recién concluida administración municipal de Cuautitlán de García Barragán, Monroy formó parte del Consejo Estatal Indígena, en representación de la comunidad Loma Colorada.",
+      "text": "Además  del  cargo  mencionado,  en  la recién concluida administración municipal de Cuautitlán de García Barragán, Monroy formó parte del Consejo Estatal Indígena, en representación de la comunidad Loma Colorada."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.574,
+            "t": 708.89,
+            "r": 502.121,
+            "b": 676.568,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "La mañana de este miércoles la Comisión Estatal de Derechos Humanos de Jalisco (CEDHJ), por conducto de la oficina de su tercera visitaduría en Autlán en la costa sur-, inició la investigación 34/2012.",
+      "text": "La mañana de este miércoles la Comisión Estatal de Derechos Humanos de Jalisco (CEDHJ), por conducto de la oficina de su tercera visitaduría en Autlán en la costa sur-, inició la investigación 34/2012."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.574,
+            "t": 656.343,
+            "r": 502.309,
+            "b": 624.021,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "La CEDHJ buscó a Monroy Prudencio en las cárceles de varios municipios de la zona, en las delegaciones de la Procuraduría General de la República y de la Procuraduría General de Justicia del Estado de Jalisco, sin éxito.",
+      "text": "La CEDHJ buscó a Monroy Prudencio en las cárceles de varios municipios de la zona, en las delegaciones de la Procuraduría General de la República y de la Procuraduría General de Justicia del Estado de Jalisco, sin éxito."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.574,
+            "t": 603.796,
+            "r": 502.068,
+            "b": 557.962,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            316
+          ]
+        }
+      ],
+      "orig": "'Se le busca en diversas corporaciones federales y estatales, en colaboración con autoridades de Colima, porque se presume que pudieron ser agentes de esa entidad quienes se lo llevaron', informó Luis Arturo Jiménez, director de quejas en la CEDHJ, quien trabaja con la oficina de Autlán para localizar al activista.",
+      "text": "'Se le busca en diversas corporaciones federales y estatales, en colaboración con autoridades de Colima, porque se presume que pudieron ser agentes de esa entidad quienes se lo llevaron', informó Luis Arturo Jiménez, director de quejas en la CEDHJ, quien trabaja con la oficina de Autlán para localizar al activista."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.574,
+            "t": 537.736,
+            "r": 502.297,
+            "b": 505.414,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "Jiménez dijo que a las personas que denunciaron en Autlán el secuestro del líder indígena se les sugirió que presentaran denuncia por desaparición, a fin de ampliar la búsqueda.",
+      "text": "Jiménez dijo que a las personas que denunciaron en Autlán el secuestro del líder indígena se les sugirió que presentaran denuncia por desaparición, a fin de ampliar la búsqueda."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.574,
+            "t": 485.189,
+            "r": 502.191,
+            "b": 439.355,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            292
+          ]
+        }
+      ],
+      "orig": "Lugareños y activistas ambientales han reportado reiteradamente la presencia de  taladores  clandestinos  en  la  reserva  de  la  biosfera  Sierra  de  Manantlán  y amenazas  contra  autoridades  del  ejido  de  Ayotitlán,  donde  se  asientan  las principales comunidades nahuas de Jalisco.",
+      "text": "Lugareños y activistas ambientales han reportado reiteradamente la presencia de  taladores  clandestinos  en  la  reserva  de  la  biosfera  Sierra  de  Manantlán  y amenazas  contra  autoridades  del  ejido  de  Ayotitlán,  donde  se  asientan  las principales comunidades nahuas de Jalisco."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.574,
+            "t": 419.13,
+            "r": 502.156,
+            "b": 359.784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            341
+          ]
+        }
+      ],
+      "orig": "Ante el saqueo forestal, que se ha intensificado desde hace un mes, miembros del comité de vigilancia del comisariado de Ayotitlán trataron de interceptar hace unos días un convoy de tres tractocamiones cargados de madera que circulaba por el camino Telcruz-Pedregal, pero los ocupantes de los vehículos amenazaron con armas a los indígenas.",
+      "text": "Ante el saqueo forestal, que se ha intensificado desde hace un mes, miembros del comité de vigilancia del comisariado de Ayotitlán trataron de interceptar hace unos días un convoy de tres tractocamiones cargados de madera que circulaba por el camino Telcruz-Pedregal, pero los ocupantes de los vehículos amenazaron con armas a los indígenas."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.574,
+            "t": 339.558,
+            "r": 502.133,
+            "b": 253.188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            535
+          ]
+        }
+      ],
+      "orig": "El  codiciado  territorio  donde  habitan  los  nahuas  es  explotado  por  varias mineras  trasnacionales  en  la  zona  limítrofe  con  Colima,  y  al  occidente,  por depredadores  de  bosques  que  amenazan  la  sierra  de  Manantlán,  reserva  de  la biosfera desde 1987 y donde se descubrió en 1977 el maíz silvestre perenne (Zea diploperennis), lo  cual  le  valió  reconocimiento  internacional.  Pese  a  ello,  la mayoría de los indígenas viven en condiciones precarias en una de las regiones más pobres del estado y el país.",
+      "text": "El  codiciado  territorio  donde  habitan  los  nahuas  es  explotado  por  varias mineras  trasnacionales  en  la  zona  limítrofe  con  Colima,  y  al  occidente,  por depredadores  de  bosques  que  amenazan  la  sierra  de  Manantlán,  reserva  de  la biosfera desde 1987 y donde se descubrió en 1977 el maíz silvestre perenne (Zea diploperennis), lo  cual  le  valió  reconocimiento  internacional.  Pese  a  ello,  la mayoría de los indígenas viven en condiciones precarias en una de las regiones más pobres del estado y el país."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.574,
+            "t": 231.20299999999997,
+            "r": 210.236,
+            "b": 223.67599999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Más De La Red",
+      "text": "Más De La Red",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.574,
+            "t": 204.68600000000004,
+            "r": 397.456,
+            "b": 197.91200000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Estos nuevos SUV crossover te dejarán sin aliento",
+      "text": "Estos nuevos SUV crossover te dejarán sin aliento",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.574,
+            "t": 184.692,
+            "r": 158.824,
+            "b": 180.55200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Yahoo Search",
+      "text": "Yahoo Search"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.574,
+            "t": 128.86799999999994,
+            "r": 480.297,
+            "b": 104.077,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "If You're Over 40 And Own A Computer, This Game Is A Must­ Have!",
+      "text": "If You're Over 40 And Own A Computer, This Game Is A Must­ Have!",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.574,
+            "t": 90.85799999999995,
+            "r": 207.135,
+            "b": 86.71799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Vikings: Free Online Game",
+      "text": "Vikings: Free Online Game"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.574,
+            "t": 53.049999999999955,
+            "r": 364.811,
+            "b": 46.275999999999954,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "10 Credit Cards That Can't Be Beat In 2019",
+      "text": "10 Credit Cards That Can't Be Beat In 2019",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 421.799,
+            "t": 227.928,
+            "r": 501.667,
+            "b": 223.39800000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Enlaces Patrocinados",
+      "text": "Enlaces Patrocinados"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 554.973,
+            "t": 777.002,
+            "r": 579.745,
+            "b": 759.745,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": " ",
+      "text": " "
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 554.973,
+            "t": 40.59100000000001,
+            "r": 579.745,
+            "b": 23.333999999999946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": " ",
+      "text": " "
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.293000000000006,
+            "r": 215.027,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2012/10/25/estados/033n1est",
+      "text": "https://www.jornada.com.mx/2012/10/25/estados/033n1est"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 575.312,
+            "t": 22.293000000000006,
+            "r": 585.531,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2/4",
+      "text": "2/4"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.293,
+            "r": 58.898,
+            "b": 771.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "3/14/2019",
+      "text": "3/14/2019"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.574,
+            "t": 757.457,
+            "r": 151.393,
+            "b": 753.316,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "NerdWallet",
+      "text": "NerdWallet"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 264.359,
+            "t": 775.293,
+            "r": 410.297,
+            "b": 771.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "La Jornada: Levantan a líder nahua en Jalisco",
+      "text": "La Jornada: Levantan a líder nahua en Jalisco"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.574,
+            "t": 713.643,
+            "r": 463.189,
+            "b": 706.868,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Minnesota Residents Are Doing This To Avoid Being Burgled",
+      "text": "Minnesota Residents Are Doing This To Avoid Being Burgled",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.574,
+            "t": 693.649,
+            "r": 209.421,
+            "b": 689.509,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 458.511,
+            "t": 642.3,
+            "r": 501.665,
+            "b": 637.77,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            25,
+            36
+          ]
+        }
+      ],
+      "orig": "ADT Home Security Quotes por Taboola",
+      "text": "ADT Home Security Quotes por Taboola"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 554.973,
+            "t": 777.002,
+            "r": 579.745,
+            "b": 759.745,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": " ",
+      "text": " "
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 554.973,
+            "t": 40.59100000000001,
+            "r": 579.745,
+            "b": 23.333999999999946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": " ",
+      "text": " "
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.293000000000006,
+            "r": 215.027,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2012/10/25/estados/033n1est",
+      "text": "https://www.jornada.com.mx/2012/10/25/estados/033n1est"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 575.312,
+            "t": 22.293000000000006,
+            "r": 585.531,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3/4",
+      "text": "3/4"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.293,
+            "r": 58.898,
+            "b": 771.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "3/14/2019",
+      "text": "3/14/2019"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 264.359,
+            "t": 775.293,
+            "r": 410.297,
+            "b": 771.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "La Jornada: Levantan a líder nahua en Jalisco",
+      "text": "La Jornada: Levantan a líder nahua en Jalisco"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 192.89,
+            "t": 562.198,
+            "r": 422.195,
+            "b": 540.406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203.",
+      "text": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 554.973,
+            "t": 777.002,
+            "r": 579.745,
+            "b": 759.745,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": " ",
+      "text": " "
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 554.973,
+            "t": 40.59100000000001,
+            "r": 579.745,
+            "b": 23.333999999999946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": " ",
+      "text": " "
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.293000000000006,
+            "r": 215.027,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2012/10/25/estados/033n1est",
+      "text": "https://www.jornada.com.mx/2012/10/25/estados/033n1est"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 575.312,
+            "t": 22.293000000000006,
+            "r": 585.531,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "4/4",
+      "text": "4/4"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.514785766601562,
+            "t": 745.7280235290527,
+            "r": 233.45936584472656,
+            "b": 712.2431945800781,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 109.84260559082031,
+            "t": 542.38720703125,
+            "r": 504.27618408203125,
+            "b": 278.99603271484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 450.8929138183594,
+            "t": 743.9275169372559,
+            "r": 583.9134521484375,
+            "b": 720.671501159668,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 560.2444458007812,
+            "t": 673.08544921875,
+            "r": 579.1610107421875,
+            "b": 654.0163269042969,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 554.1310424804688,
+            "t": 43.79034423828125,
+            "r": 582.39013671875,
+            "b": 25.1895751953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 554.5407104492188,
+            "t": 765.538537979126,
+            "r": 580.8941650390625,
+            "b": 753.5273017883301,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/38"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 553.96923828125,
+            "t": 43.7864990234375,
+            "r": 582.5535888671875,
+            "b": 25.53607177734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 554.6273803710938,
+            "t": 765.5018768310547,
+            "r": 580.9115600585938,
+            "b": 753.6000938415527,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 554.2792358398438,
+            "t": 43.5958251953125,
+            "r": 582.0209350585938,
+            "b": 25.58868408203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 554.6895141601562,
+            "t": 766.0280323028564,
+            "r": 581.094482421875,
+            "b": 753.706428527832,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 554.2409057617188,
+            "t": 43.6702880859375,
+            "r": 581.8153076171875,
+            "b": 25.64727783203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    }
+  }
+}

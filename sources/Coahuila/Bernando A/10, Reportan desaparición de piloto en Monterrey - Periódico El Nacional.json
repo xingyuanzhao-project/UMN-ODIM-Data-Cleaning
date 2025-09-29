@@ -1,0 +1,532 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "10, Reportan desaparición de piloto en Monterrey - Periódico El Nacional",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 18430624284614480787,
+    "filename": "10, Reportan desaparición de piloto en Monterrey - Periódico El Nacional.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.73,
+            "r": 62.043,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "6/26/2019",
+      "text": "6/26/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 216.172,
+            "t": 775.73,
+            "r": 461.641,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "Reportan desaparición de piloto en Monterrey - Periódico El Nacional",
+      "text": "Reportan desaparición de piloto en Monterrey - Periódico El Nacional"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 49.227,
+            "t": 738.813,
+            "r": 563.285,
+            "b": 726.239,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "Reportan desaparición de piloto en Monterrey",
+      "text": "Reportan desaparición de piloto en Monterrey",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 275.152,
+            "t": 699.139,
+            "r": 324.33,
+            "b": 694.864,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "1 junio, 2018",
+      "text": "1 junio, 2018"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.5,
+            "t": 263.981,
+            "r": 202.612,
+            "b": 255.336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Redacción/El Nacional",
+      "text": "Redacción/El Nacional"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.5,
+            "t": 221.231,
+            "r": 576.384,
+            "b": 167.586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "A través de redes sociales ha trascendido el reporte sobre la desaparición del  empresario  y  piloto  profesional, Bernardo  «Berni»  Ainslie ,  quien aseguró haber puesto base en Monterrey el pasado n de semana.",
+      "text": "A través de redes sociales ha trascendido el reporte sobre la desaparición del  empresario  y  piloto  profesional, Bernardo  «Berni»  Ainslie ,  quien aseguró haber puesto base en Monterrey el pasado n de semana."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.5,
+            "t": 133.481,
+            "r": 576.32,
+            "b": 79.83600000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "Familiares compartieron que «Berni» , de 25 años de edad y originario de Piedras Negras, Coahuila ,  se comunicó con ellos el pasado domingo 27 de mayo y después ya no volvieron a saber nada de él.",
+      "text": "Familiares compartieron que «Berni» , de 25 años de edad y originario de Piedras Negras, Coahuila ,  se comunicó con ellos el pasado domingo 27 de mayo y después ya no volvieron a saber nada de él."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.730000000000018,
+            "r": 315.953,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "periodicoelnacional.mx/2018/06/01/reportan-desaparicion-de-piloto-en-monterrey/",
+      "text": "periodicoelnacional.mx/2018/06/01/reportan-desaparicion-de-piloto-en-monterrey/"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.730000000000018,
+            "r": 585.512,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/2",
+      "text": "1/2"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.73,
+            "r": 62.043,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "6/26/2019",
+      "text": "6/26/2019"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 216.172,
+            "t": 775.73,
+            "r": 461.641,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "Reportan desaparición de piloto en Monterrey - Periódico El Nacional",
+      "text": "Reportan desaparición de piloto en Monterrey - Periódico El Nacional"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.5,
+            "t": 758.23,
+            "r": 576.372,
+            "b": 659.586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            331
+          ]
+        }
+      ],
+      "orig": "«Amigos y familia, él es Berni Ainslie de 25 años y no hemos escuchado de  él  desde  el  domingo  27  de  mayo  del  2018,  que  dijo  haber  llegado a Monterrey Nuevo León y después tomó un vuelo en Viva Aerobús con destino a Villahermosa Tabasco y esta conrmada la llegada.», escribió su hermana Elsa en su red social Facebook .",
+      "text": "«Amigos y familia, él es Berni Ainslie de 25 años y no hemos escuchado de  él  desde  el  domingo  27  de  mayo  del  2018,  que  dijo  haber  llegado a Monterrey Nuevo León y después tomó un vuelo en Viva Aerobús con destino a Villahermosa Tabasco y esta conrmada la llegada.», escribió su hermana Elsa en su red social Facebook ."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.5,
+            "t": 625.48,
+            "r": 576.36,
+            "b": 571.836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            210
+          ]
+        }
+      ],
+      "orig": "Medios  locales  compartieron  que Ainslie es hijo de Willy Ainslie , empresario que falleciera  hace  siete  años  en  el  accidente  aéreo  donde murió el entonces alcalde de Piedras Negras , Pepe Maldonado .",
+      "text": "Medios  locales  compartieron  que Ainslie es hijo de Willy Ainslie , empresario que falleciera  hace  siete  años  en  el  accidente  aéreo  donde murió el entonces alcalde de Piedras Negras , Pepe Maldonado ."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.730000000000018,
+            "r": 315.953,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "periodicoelnacional.mx/2018/06/01/reportan-desaparicion-de-piloto-en-monterrey/",
+      "text": "periodicoelnacional.mx/2018/06/01/reportan-desaparicion-de-piloto-en-monterrey/"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.730000000000018,
+            "r": 585.512,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2/2",
+      "text": "2/2"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 118.16620635986328,
+            "t": 676.0842437744141,
+            "r": 490.9195556640625,
+            "b": 288.8235778808594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

@@ -1,0 +1,777 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Para nosotros, el 10 de mayo es de amargura madres de desaparecidos",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2776011356652711457,
+    "filename": "Para nosotros, el 10 de mayo es de amargura madres de desaparecidos.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 297.104,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "La Jornada: Para nosotros, el 10 de mayo es de amargura: madres de des...",
+      "text": "La Jornada: Para nosotros, el 10 de mayo es de amargura: madres de des..."
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 369.513,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2015/05/11/politica/003n1pol#",
+      "text": "https://www.jornada.com.mx/2015/05/11/politica/003n1pol#"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.0,
+            "t": 733.65,
+            "r": 521.821,
+            "b": 686.165,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "La Jornada: Para nosotros, el 10 de mayo es de amargura: madres de desaparecidos",
+      "text": "La Jornada: Para nosotros, el 10 de mayo es de amargura: madres de desaparecidos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 665.222,
+            "r": 258.69,
+            "b": 655.451,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "text": "DEMOS, Desarrollo de Medios, S.A. de C.V."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 639.304,
+            "r": 464.012,
+            "b": 629.533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "''Sentimos incertidumbre e impotencia por no saber dónde y cómo están nuestros hijos''",
+      "text": "''Sentimos incertidumbre e impotencia por no saber dónde y cómo están nuestros hijos''"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 352.982,
+            "r": 558.886,
+            "b": 329.289,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "''Sólo podemos seguir gritando que nos los devuelvan con vida. No nos cansaremos'', dijeron manifestantes en el Monumento a la MadreFoto Pablo Ramos",
+      "text": "''Sólo podemos seguir gritando que nos los devuelvan con vida. No nos cansaremos'', dijeron manifestantes en el Monumento a la MadreFoto Pablo Ramos"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 313.264,
+            "r": 194.3,
+            "b": 289.571,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Periódico La Jornada Lunes 11 de mayo de 2015, p. 3",
+      "text": "Periódico La Jornada Lunes 11 de mayo de 2015, p. 3"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 273.424,
+            "r": 566.537,
+            "b": 221.894,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            392
+          ]
+        }
+      ],
+      "orig": "De varios estados de la República vinieron con fotos, carteles y grandes mantas para exigir que sus hijos aparezcan. Son parte de los 26 mil desaparecidos que hay en el país, entre los que también se cuenta a los 43 estudiantes de la Normal Rural de Ayotzinapa. ''Nada tenemos que celebrar, es un día lleno de amargura'' por la incertidumbre e impotencia de no poder saber dónde y cómo están.",
+      "text": "De varios estados de la República vinieron con fotos, carteles y grandes mantas para exigir que sus hijos aparezcan. Son parte de los 26 mil desaparecidos que hay en el país, entre los que también se cuenta a los 43 estudiantes de la Normal Rural de Ayotzinapa. ''Nada tenemos que celebrar, es un día lleno de amargura'' por la incertidumbre e impotencia de no poder saber dónde y cómo están."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 205.73900000000003,
+            "r": 554.538,
+            "b": 168.13200000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            275
+          ]
+        }
+      ],
+      "orig": "Ayer se realizó en la ciudad de México la cuarta Marcha de Dignidad Nacional, ''porque no podemos hacer nada más que seguir gritando que nos devuelvan a nuestros hijos''. Madres, abuelas hermanos y esposas caminaron ayer del Monumento a la Madre al Ángel de la Independencia.",
+      "text": "Ayer se realizó en la ciudad de México la cuarta Marcha de Dignidad Nacional, ''porque no podemos hacer nada más que seguir gritando que nos devuelvan a nuestros hijos''. Madres, abuelas hermanos y esposas caminaron ayer del Monumento a la Madre al Ángel de la Independencia."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 151.98400000000004,
+            "r": 549.24,
+            "b": 100.45399999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            398
+          ]
+        }
+      ],
+      "orig": "Era el Día de la Madre. Las que ayer marcharon sobre Paseo de la Reforma no pensaban en eso; sólo en el hijo ausente. ''En nuestras casas hay sillas vacías'', lamentan, y también les duele la indiferencia de las autoridades que no investigan, ''no nos informan, nos dicen que nos vayamos a nuestras casas y ellos nos avisan cuando sepan algo… pero a como van, parece que nos quedaremos esperando''.",
+      "text": "Era el Día de la Madre. Las que ayer marcharon sobre Paseo de la Reforma no pensaban en eso; sólo en el hijo ausente. ''En nuestras casas hay sillas vacías'', lamentan, y también les duele la indiferencia de las autoridades que no investigan, ''no nos informan, nos dicen que nos vayamos a nuestras casas y ellos nos avisan cuando sepan algo… pero a como van, parece que nos quedaremos esperando''."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 84.423,
+            "r": 567.689,
+            "b": 46.69200000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            304
+          ]
+        }
+      ],
+      "orig": "Demetria deplora que sea así, porque varias familias ''ya no quieren venir porque es mucha gastadera y tienen que mantener a sus hijos''. Eso es lo que quieren, ''que nos cansemos, pero eso no pasará'', dice esta mujer cuyo esposo, Gersain Cardona, desapareció hace seis años en Piedras Negras, Coahuila.",
+      "text": "Demetria deplora que sea así, porque varias familias ''ya no quieren venir porque es mucha gastadera y tienen que mantener a sus hijos''. Eso es lo que quieren, ''que nos cansemos, pero eso no pasará'', dice esta mujer cuyo esposo, Gersain Cardona, desapareció hace seis años en Piedras Negras, Coahuila."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 2",
+      "text": "1 of 2"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 9:34 AM",
+      "text": "9/13/2019, 9:34 AM"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 297.104,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "La Jornada: Para nosotros, el 10 de mayo es de amargura: madres de des...",
+      "text": "La Jornada: Para nosotros, el 10 de mayo es de amargura: madres de des..."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 369.513,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2015/05/11/politica/003n1pol#",
+      "text": "https://www.jornada.com.mx/2015/05/11/politica/003n1pol#"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.998,
+            "t": 752.942,
+            "r": 564.838,
+            "b": 729.255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "Ellos viven en el estado de México, pero Gersain estaba en Coahuila porque vendía pinturas. Iba con otros 11 compañeros a bordo de dos camionetas. Todos desaparecieron.",
+      "text": "Ellos viven en el estado de México, pero Gersain estaba en Coahuila porque vendía pinturas. Iba con otros 11 compañeros a bordo de dos camionetas. Todos desaparecieron."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.998,
+            "t": 713.102,
+            "r": 565.515,
+            "b": 661.571,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            367
+          ]
+        }
+      ],
+      "orig": "Yolanda Montes está buscando a su hija Marasuba Teresa, de 29 años de edad, agente del Ministerio Público en la Unidad Especializada Antisecuestro de Durango. Se la llevaron con tres compañeros de trabajo el 29 de noviembre de 2010. La señora confía en que la procuradora Arely Gómez, reciba a los familiares y que ella sí pueda dar resultados de las investigaciones.",
+      "text": "Yolanda Montes está buscando a su hija Marasuba Teresa, de 29 años de edad, agente del Ministerio Público en la Unidad Especializada Antisecuestro de Durango. Se la llevaron con tres compañeros de trabajo el 29 de noviembre de 2010. La señora confía en que la procuradora Arely Gómez, reciba a los familiares y que ella sí pueda dar resultados de las investigaciones."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.998,
+            "t": 645.424,
+            "r": 537.669,
+            "b": 607.815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "Los familiares de las y los desaparecidos vinieron al Distrito Federal de Chihuahua, Veracruz, estado de México, Nuevo León, Coahuila… incluso estuvo presente un grupo de madres de migrantes centroamericanos.",
+      "text": "Los familiares de las y los desaparecidos vinieron al Distrito Federal de Chihuahua, Veracruz, estado de México, Nuevo León, Coahuila… incluso estuvo presente un grupo de madres de migrantes centroamericanos."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.998,
+            "t": 591.784,
+            "r": 550.974,
+            "b": 567.975,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "En el Ángel de la Independencia, el obispo de Saltillo, Raúl Vera, señaló: más que darles algo, ''venimos a recoger la fuerza que surge del dolor y la indignación'' para construir un México nuevo.",
+      "text": "En el Ángel de la Independencia, el obispo de Saltillo, Raúl Vera, señaló: más que darles algo, ''venimos a recoger la fuerza que surge del dolor y la indignación'' para construir un México nuevo."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.998,
+            "t": 551.944,
+            "r": 552.946,
+            "b": 514.335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            298
+          ]
+        }
+      ],
+      "orig": "Esa fuerza ''nos une y nos llama a la solidaridad, a movernos para quitar las causas de esta tragedia que significan las desapariciones forzadas'' porque ''las causas tienen rostro y nombre. Ustedes caminando nos enseñan. Sufrimos por el México nuevo que con nuestro reclamo estamos construyendo''.",
+      "text": "Esa fuerza ''nos une y nos llama a la solidaridad, a movernos para quitar las causas de esta tragedia que significan las desapariciones forzadas'' porque ''las causas tienen rostro y nombre. Ustedes caminando nos enseñan. Sufrimos por el México nuevo que con nuestro reclamo estamos construyendo''."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.998,
+            "t": 498.182,
+            "r": 548.325,
+            "b": 474.495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "A la marcha también asistieron familiares y amigos de las personas cuyo paradero se desconoce y que son hijos e hijas de madres que ya no están, pero ''nosotros seguimos buscando a sus hijos''.",
+      "text": "A la marcha también asistieron familiares y amigos de las personas cuyo paradero se desconoce y que son hijos e hijas de madres que ya no están, pero ''nosotros seguimos buscando a sus hijos''."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2 of 2",
+      "text": "2 of 2"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 9:34 AM",
+      "text": "9/13/2019, 9:34 AM"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 40.89810562133789,
+            "t": 617.4489593505859,
+            "r": 415.5849304199219,
+            "b": 367.9328308105469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

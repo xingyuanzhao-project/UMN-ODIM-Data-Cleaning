@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Sería un consuelo poder llorarlo en una tumba",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 1089223715521676558,
+    "filename": "Sería un consuelo poder llorarlo en una tumba.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.17905234375,
+            "r": 632.273,
+            "b": 530.72605234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            708
+          ]
+        }
+      ],
+      "orig": "Página no encontrada - La Jornada Baja California Tendencias EU acuerda con China la venta de TikTok; se disiparán problemas de seguridad Salir a dar el Grito cuesta hasta $6 mil pesos; festejan el 94% de los mexicanos: Kantar Una bala en Franklin Park: la política migratoria de Trump golpea a México en su mes patrio Se suman voces en el PT para no postular a Saúl Monreal por Zacatecas en 2027 EL GRITO Hernández PATRIARCADO PATRIO JUBILADO Rocha Baja California Ayuntamientos Congreso de BC Región Información General México Economía Cultura Opinión Multimedia Galerías Vídeos Podcast × 404 Page not found Oops!!! The page you are looking for does not exist. It might have been moved or deleted. Homepage",
+      "text": "Página no encontrada - La Jornada Baja California Tendencias EU acuerda con China la venta de TikTok; se disiparán problemas de seguridad Salir a dar el Grito cuesta hasta $6 mil pesos; festejan el 94% de los mexicanos: Kantar Una bala en Franklin Park: la política migratoria de Trump golpea a México en su mes patrio Se suman voces en el PT para no postular a Saúl Monreal por Zacatecas en 2027 EL GRITO Hernández PATRIARCADO PATRIO JUBILADO Rocha Baja California Ayuntamientos Congreso de BC Región Información General México Economía Cultura Opinión Multimedia Galerías Vídeos Podcast × 404 Page not found Oops!!! The page you are looking for does not exist. It might have been moved or deleted. Homepage"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

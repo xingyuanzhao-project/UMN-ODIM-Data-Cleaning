@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "PARA ELLOS NO EXISTEN  GOBIERNO DE  JALISCO DA LA ESPALDA A DESAPARECIDOS",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 3500102921781405706,
+    "filename": "PARA ELLOS NO EXISTEN  GOBIERNO DE  JALISCO DA LA ESPALDA A DESAPARECIDOS.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.58505234375,
+            "r": 620.233,
+            "b": 590.24805234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            291
+          ]
+        }
+      ],
+      "orig": "Just a moment... terceravia.mx Verifying you are human. This may take a few seconds. terceravia.mx needs to review the security of your connection before proceeding. Verification successful Waiting for terceravia.mx to respond... Ray ID: 97faa6857f2c703c Performance & security by Cloudflare",
+      "text": "Just a moment... terceravia.mx Verifying you are human. This may take a few seconds. terceravia.mx needs to review the security of your connection before proceeding. Verification successful Waiting for terceravia.mx to respond... Ray ID: 97faa6857f2c703c Performance & security by Cloudflare"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 627.0045776367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

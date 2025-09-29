@@ -1,0 +1,958 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "La Procuraduría de Coahuila da por muertos a cuatro estudiantes",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13091825122146006054,
+    "filename": "La Procuraduría de Coahuila da por muertos a cuatro estudiantes.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 308.449,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "La Jornada: La Procuraduría de Coahuila da por muertos a cuatro estudiantes",
+      "text": "La Jornada: La Procuraduría de Coahuila da por muertos a cuatro estudiantes"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 376.318,
+            "t": 789.592,
+            "r": 609.17,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2013/09/26/estados/026n1es",
+      "text": "https://www.jornada.com.mx/2013/09/26/estados/026n1es"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.0,
+            "t": 733.65,
+            "r": 549.044,
+            "b": 686.165,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "La Jornada: La Procuraduría de Coahuila da por muertos a cuatro estudiantes",
+      "text": "La Jornada: La Procuraduría de Coahuila da por muertos a cuatro estudiantes",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 665.222,
+            "r": 258.69,
+            "b": 655.451,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "text": "DEMOS, Desarrollo de Medios, S.A. de C.V."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 639.304,
+            "r": 485.294,
+            "b": 629.533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "Se desconoce su paradero desde abril; zetas los habrían asesinado al confundirlos con rivales",
+      "text": "Se desconoce su paradero desde abril; zetas los habrían asesinado al confundirlos con rivales"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 444.061,
+            "r": 566.894,
+            "b": 406.45,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            269
+          ]
+        }
+      ],
+      "orig": "De izquierda a derecha: Marlyn Peña, Cintia Rodríguez Rivera, Cecilia Picazo y Carlos Alfredo Núñez Ferrusca, estudiantes de la facultad de Contaduría y Administración de la Universidad Autónoma de Coahuila desaparecidos el pasado 11 de abril en MonclovaFoto La Jornada",
+      "text": "De izquierda a derecha: Marlyn Peña, Cintia Rodríguez Rivera, Cecilia Picazo y Carlos Alfredo Núñez Ferrusca, estudiantes de la facultad de Contaduría y Administración de la Universidad Autónoma de Coahuila desaparecidos el pasado 11 de abril en MonclovaFoto La Jornada"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 390.306,
+            "r": 104.926,
+            "b": 380.535,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Corresponsal",
+      "text": "Corresponsal"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 364.504,
+            "r": 229.227,
+            "b": 340.811,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Periódico La Jornada Jueves 26 de septiembre de 2013, p. 26",
+      "text": "Periódico La Jornada Jueves 26 de septiembre de 2013, p. 26"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 324.663,
+            "r": 201.19,
+            "b": 314.892,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Saltillo, Coah., 25 de septiembre.",
+      "text": "Saltillo, Coah., 25 de septiembre."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 298.744,
+            "r": 565.468,
+            "b": 247.21500000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            331
+          ]
+        }
+      ],
+      "orig": "La Procuraduría General de Justicia del Estado (PGJE) no tiene idea del paradero de Cecilia Picazo, Marlyn Peña, Cintia Rodríguez y Carlos Núñez, estudiantes de la Facultad de Contaduría y Administración de la Universidad Autónoma de Coahuila (UAC) campus Monclova, secuestrados la noche del 11 de abril luego de salir del plantel.",
+      "text": "La Procuraduría General de Justicia del Estado (PGJE) no tiene idea del paradero de Cecilia Picazo, Marlyn Peña, Cintia Rodríguez y Carlos Núñez, estudiantes de la Facultad de Contaduría y Administración de la Universidad Autónoma de Coahuila (UAC) campus Monclova, secuestrados la noche del 11 de abril luego de salir del plantel."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 231.183,
+            "r": 560.324,
+            "b": 193.452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            288
+          ]
+        }
+      ],
+      "orig": "La PGJE dio a conocer que hay 26 personas detenidas por estos hechos, pero ninguna aportó datos para encontrar a los universitarios, quienes según las investigaciones pudieron haber sido asesinados a tiros luego que una célula de los Zetas los confundió con miembros del cártel del Golfo.",
+      "text": "La PGJE dio a conocer que hay 26 personas detenidas por estos hechos, pero ninguna aportó datos para encontrar a los universitarios, quienes según las investigaciones pudieron haber sido asesinados a tiros luego que una célula de los Zetas los confundió con miembros del cártel del Golfo."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 177.42100000000005,
+            "r": 560.003,
+            "b": 139.813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            248
+          ]
+        }
+      ],
+      "orig": "El procurador estatal, Homero Ramos Gloria, informó que entre los detenidos se encuentran los autores materiales de la desaparición y de los supuestos homicidios, los cuales no se han podido corroborar debido a que los estudiantes no han aparecido.",
+      "text": "El procurador estatal, Homero Ramos Gloria, informó que entre los detenidos se encuentran los autores materiales de la desaparición y de los supuestos homicidios, los cuales no se han podido corroborar debido a que los estudiantes no han aparecido."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 123.65800000000002,
+            "r": 556.51,
+            "b": 86.04999999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            249
+          ]
+        }
+      ],
+      "orig": "'Hubo una confusión. Se les ubicó como integrantes de algún grupo delincuencial. Trataron de pararlos; los muchachos se espantaron, aceleraron y hubo una serie de acontecimientos que concluyó con la muerte de estos estudiantes', dijo el funcionario.",
+      "text": "'Hubo una confusión. Se les ubicó como integrantes de algún grupo delincuencial. Trataron de pararlos; los muchachos se espantaron, aceleraron y hubo una serie de acontecimientos que concluyó con la muerte de estos estudiantes', dijo el funcionario."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 69.90300000000002,
+            "r": 562.581,
+            "b": 46.210000000000036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "El subprocurador para la investigación y búsqueda de personas no localizadas en Coahuila, Juan José Yáñez Arreola, dijo que los primeros detenidos son presuntos espías del grupo delictivo que cometió el ataque, pero",
+      "text": "El subprocurador para la investigación y búsqueda de personas no localizadas en Coahuila, Juan José Yáñez Arreola, dijo que los primeros detenidos son presuntos espías del grupo delictivo que cometió el ataque, pero"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 2",
+      "text": "1 of 2"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:28 AM",
+      "text": "9/13/2019, 8:28 AM"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 308.449,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "La Jornada: La Procuraduría de Coahuila da por muertos a cuatro estudiantes",
+      "text": "La Jornada: La Procuraduría de Coahuila da por muertos a cuatro estudiantes"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 376.318,
+            "t": 789.592,
+            "r": 609.17,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2013/09/26/estados/026n1es",
+      "text": "https://www.jornada.com.mx/2013/09/26/estados/026n1es"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.998,
+            "t": 752.942,
+            "r": 414.912,
+            "b": 743.171,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "'no hay información concreta que nos ayude a la localización de los jóvenes'.",
+      "text": "'no hay información concreta que nos ayude a la localización de los jóvenes'."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.998,
+            "t": 727.024,
+            "r": 540.43,
+            "b": 689.415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            260
+          ]
+        }
+      ],
+      "orig": "Según datos de las pesquisas a los que La Jornada tuvo acceso, una de las víctimas avisó a un familiar o amigo sobre el atentado. En mensajes desde su teléfono móvil, dijo que alguien los seguía y trataba de detenerlos, y finalmente que les estaban disparando.",
+      "text": "Según datos de las pesquisas a los que La Jornada tuvo acceso, una de las víctimas avisó a un familiar o amigo sobre el atentado. En mensajes desde su teléfono móvil, dijo que alguien los seguía y trataba de detenerlos, y finalmente que les estaban disparando."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.998,
+            "t": 673.262,
+            "r": 563.805,
+            "b": 621.731,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            418
+          ]
+        }
+      ],
+      "orig": "Los cuatro desaparecidos, de entre 21 y 22 años, abordaron un automóvil Dodge Stratus, que conducía el único varón del grupo. Salieron de la facultad alrededor de las 22 horas del 11 de abril y se desplazaron hacia el norte de Monclova por el bulevar Harold R. Pape. Se sabe que frente a la colonia Estancias de San Juan Bautista fueron interceptados por hombres armados que los obligaron a detenerse y les dispararon.",
+      "text": "Los cuatro desaparecidos, de entre 21 y 22 años, abordaron un automóvil Dodge Stratus, que conducía el único varón del grupo. Salieron de la facultad alrededor de las 22 horas del 11 de abril y se desplazaron hacia el norte de Monclova por el bulevar Harold R. Pape. Se sabe que frente a la colonia Estancias de San Juan Bautista fueron interceptados por hombres armados que los obligaron a detenerse y les dispararon."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.998,
+            "t": 605.706,
+            "r": 533.594,
+            "b": 582.013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "El vehículo fue movido con una grúa y apareció en un paraje de la carretera entre Sabinas y Monclova, incendiado y con impactos de bala.",
+      "text": "El vehículo fue movido con una grúa y apareció en un paraje de la carretera entre Sabinas y Monclova, incendiado y con impactos de bala."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.998,
+            "t": 565.866,
+            "r": 529.471,
+            "b": 542.173,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "Días después, la asociación civil Fuerzas Unidas por Nuestros Desaparecidos en Coahuila demandó la presentación con vida de los estudiantes.",
+      "text": "Días después, la asociación civil Fuerzas Unidas por Nuestros Desaparecidos en Coahuila demandó la presentación con vida de los estudiantes."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.998,
+            "t": 526.026,
+            "r": 566.026,
+            "b": 474.495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            418
+          ]
+        }
+      ],
+      "orig": "'Instamos a las autoridades de los tres órdenes de gobierno a coordinar esfuerzos para la búsqueda y localización de Cecilia, Marlyn, Cintia y Carlos, estudiantes de la UAC y de cientos de desaparecidos en Coahuila. Les recordamos que los primeros días son fundamentales para recuperar pistas importantes que ayuden a localizarlos', señaló el organismo, pero la petición sigue sin cumplirse más de cinco meses después.",
+      "text": "'Instamos a las autoridades de los tres órdenes de gobierno a coordinar esfuerzos para la búsqueda y localización de Cecilia, Marlyn, Cintia y Carlos, estudiantes de la UAC y de cientos de desaparecidos en Coahuila. Les recordamos que los primeros días son fundamentales para recuperar pistas importantes que ayuden a localizarlos', señaló el organismo, pero la petición sigue sin cumplirse más de cinco meses después."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2 of 2",
+      "text": "2 of 2"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:28 AM",
+      "text": "9/13/2019, 8:28 AM"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.2631950378418,
+            "t": 617.6683502197266,
+            "r": 132.3924560546875,
+            "b": 458.5351867675781,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 135.464111328125,
+            "t": 617.7469787597656,
+            "r": 227.00018310546875,
+            "b": 458.550048828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 324.6644592285156,
+            "t": 617.5486755371094,
+            "r": 415.5572509765625,
+            "b": 458.87457275390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 229.7776641845703,
+            "t": 617.4093475341797,
+            "r": 321.00604248046875,
+            "b": 458.6969299316406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

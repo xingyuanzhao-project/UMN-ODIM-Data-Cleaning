@@ -1,0 +1,437 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "A dos meses de levantón, nada se sabe de empresario",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2855794445580090696,
+    "filename": "A dos meses de levantón, nada se sabe de empresario.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 222.106,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "A dos meses de 'levantón', nada se sabe de empresario",
+      "text": "A dos meses de 'levantón', nada se sabe de empresario"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 312.741,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "https://democratacoahuila.com/2016/06/08/a-dos-meses-de-levanton-nad...",
+      "text": "https://democratacoahuila.com/2016/06/08/a-dos-meses-de-levanton-nad..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 501.535,
+            "b": 687.918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "A dos meses de 'levantón', nada se sabe de empresario",
+      "text": "A dos meses de 'levantón', nada se sabe de empresario",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 201.66666666666666,
+            "t": 613.3333333333334,
+            "r": 469.0,
+            "b": 590.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "AYUDANOS A LOCALIZARLO",
+      "text": "AYUDANOS A LOCALIZARLO",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 373.6666666666667,
+            "t": 524.0,
+            "r": 393.0,
+            "b": 511.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "270",
+      "text": "270"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 87.66666666666667,
+            "t": 448.0,
+            "r": 144.66666666666669,
+            "b": 431.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Unidas",
+      "text": "Unidas"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 372.662,
+            "r": 530.091,
+            "b": 335.593,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "Piedras Negras, Coah., 8 de junio.- A dos meses de que fue 'levantado' en su propio negocio, nadie sabe nada del paradero del empresario nigropetense y contratista de la cervecera Constellation Brands, Víctor Manuel Lozano Maldonado.",
+      "text": "Piedras Negras, Coah., 8 de junio.- A dos meses de que fue 'levantado' en su propio negocio, nadie sabe nada del paradero del empresario nigropetense y contratista de la cervecera Constellation Brands, Víctor Manuel Lozano Maldonado."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 320.459,
+            "r": 517.462,
+            "b": 296.832,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "Las autoridades han guardado total hermetismo en torno al caso y la desesperación de los familiares de la víctima va en aumento.",
+      "text": "Las autoridades han guardado total hermetismo en torno al caso y la desesperación de los familiares de la víctima va en aumento."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 281.698,
+            "r": 528.261,
+            "b": 231.19299999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            311
+          ]
+        }
+      ],
+      "orig": "Como se recordará el 8 de abril pasado, hace exactamente ya dos meses que un grupo de hombres armados, vestidos de negro, llegaron hasta el lote de venta de autos que tenía en Piedras Negras el hoy desaparecido, ubicado en la calle Progreso. Ahí lo subieron a un vehículo y desde entonces nadie sabe nada de él.",
+      "text": "Como se recordará el 8 de abril pasado, hace exactamente ya dos meses que un grupo de hombres armados, vestidos de negro, llegaron hasta el lote de venta de autos que tenía en Piedras Negras el hoy desaparecido, ubicado en la calle Progreso. Ahí lo subieron a un vehículo y desde entonces nadie sabe nada de él."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 215.94299999999998,
+            "r": 505.487,
+            "b": 138.67399999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            410
+          ]
+        }
+      ],
+      "orig": "El abogado Armín Leal fue contratado por la familia de Lozano Maldonado para solicitar información en los avances de las pesquisas, pero es fecha de que no hay respuestas de ningún tipo, aseguró la esposa del desaparecido, María Antonieta Elizabeth Chávez López, quien además explicó que interpuso la denuncia correspondiente ante el Ministerio Público de Personas no localizadas, en donde tampoco hay avances.",
+      "text": "El abogado Armín Leal fue contratado por la familia de Lozano Maldonado para solicitar información en los avances de las pesquisas, pero es fecha de que no hay respuestas de ningún tipo, aseguró la esposa del desaparecido, María Antonieta Elizabeth Chávez López, quien además explicó que interpuso la denuncia correspondiente ante el Ministerio Público de Personas no localizadas, en donde tampoco hay avances."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 525.114,
+            "t": 8.63900000000001,
+            "r": 611.955,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 10:10 AM",
+      "text": "9/13/2019, 10:10 AM"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.71908569335938,
+            "t": 664.2566146850586,
+            "r": 575.7815551757812,
+            "b": 387.0565490722656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

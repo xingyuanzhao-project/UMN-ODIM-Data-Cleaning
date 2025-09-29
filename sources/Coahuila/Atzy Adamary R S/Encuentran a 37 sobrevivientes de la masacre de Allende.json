@@ -1,0 +1,552 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Encuentran a 37 sobrevivientes de la masacre de Allende",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15135256360563711273,
+    "filename": "Encuentran a 37 sobrevivientes de la masacre de Allende.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 277.513,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "La Jornada: Encuentran a 37 sobrevivientes de la masacre de Allende",
+      "text": "La Jornada: Encuentran a 37 sobrevivientes de la masacre de Allende"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 376.318,
+            "t": 789.592,
+            "r": 609.17,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2016/03/29/estados/023n3es",
+      "text": "https://www.jornada.com.mx/2016/03/29/estados/023n3es"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 510.713,
+            "b": 687.918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "La Jornada: Encuentran a 37 sobrevivientes de la masacre de Allende",
+      "text": "La Jornada: Encuentran a 37 sobrevivientes de la masacre de Allende",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.04,
+            "t": 659.317,
+            "r": 288.035,
+            "b": 650.057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "text": "DEMOS, Desarrollo de Medios, S.A. de C.V."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 622.502,
+            "r": 149.728,
+            "b": 612.315,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Corresponsal",
+      "text": "Corresponsal"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 597.06,
+            "r": 261.459,
+            "b": 573.433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Periódico La Jornada Martes 29 de marzo de 2016, p. 23",
+      "text": "Periódico La Jornada Martes 29 de marzo de 2016, p. 23"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 558.299,
+            "r": 153.446,
+            "b": 548.112,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Saltillo, Coah.",
+      "text": "Saltillo, Coah."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 532.862,
+            "r": 528.974,
+            "b": 469.036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            410
+          ]
+        }
+      ],
+      "orig": "De los 300 habitantes del municipio de Allende que desaparecieron en marzo de 2011 tras la irrupción armada del grupo delictivo Los Zetas, 37 fueron localizados por la Procuraduría General de Justicia del estado (PGJE), informó Olga Lidia Saucedo, activista de la asociación ciudadana Alas de Esperanza, que agrupa a familiares de personas que vivían en Allende y otros municipios de la zona norte de Coahuila.",
+      "text": "De los 300 habitantes del municipio de Allende que desaparecieron en marzo de 2011 tras la irrupción armada del grupo delictivo Los Zetas, 37 fueron localizados por la Procuraduría General de Justicia del estado (PGJE), informó Olga Lidia Saucedo, activista de la asociación ciudadana Alas de Esperanza, que agrupa a familiares de personas que vivían en Allende y otros municipios de la zona norte de Coahuila."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 453.78,
+            "r": 529.687,
+            "b": 430.153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "Dijo que entre ellos hay un niño, que entonces tenía un año de edad. Está por cumplir cinco y se encuentra con su familia.",
+      "text": "Dijo que entre ellos hay un niño, que entonces tenía un año de edad. Está por cumplir cinco y se encuentra con su familia."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 415.019,
+            "r": 527.667,
+            "b": 364.51,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            314
+          ]
+        }
+      ],
+      "orig": "En declaraciones a la prensa local, la activista aseguró que la PGJE también encontró evidencias del asesinato de su hija, Atzy Adamary Reina Saucedo, de 22 años, casada, madre de una niña de dos años de edad y de un recién nacido. La joven fue secuestrada por Los Zetas junto con otros 10 familiares de su esposo.",
+      "text": "En declaraciones a la prensa local, la activista aseguró que la PGJE también encontró evidencias del asesinato de su hija, Atzy Adamary Reina Saucedo, de 22 años, casada, madre de una niña de dos años de edad y de un recién nacido. La joven fue secuestrada por Los Zetas junto con otros 10 familiares de su esposo."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 349.26,
+            "r": 520.468,
+            "b": 298.874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            317
+          ]
+        }
+      ],
+      "orig": "'La gran bendición que tuvimos últimamente fue encontrar a un niño; cuando desapareció tenía un año y las autoridades lo trajeron vivo después de cinco años de buscarlo. Hace dos semanas me dieron la noticia de que mi hija ya no estaba con nosotros. Yo la buscaba viva. La pude hallar, pero no con nosotros', expresó.",
+      "text": "'La gran bendición que tuvimos últimamente fue encontrar a un niño; cuando desapareció tenía un año y las autoridades lo trajeron vivo después de cinco años de buscarlo. Hace dos semanas me dieron la noticia de que mi hija ya no estaba con nosotros. Yo la buscaba viva. La pude hallar, pero no con nosotros', expresó."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 283.62,
+            "r": 525.393,
+            "b": 259.994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "La versión oficial es que durante la incursión de Los Zetas en Allende, el 18 de marzo de 2011, desaparecieron 28 de los 20 mil habitantes del municipio.",
+      "text": "La versión oficial es que durante la incursión de Los Zetas en Allende, el 18 de marzo de 2011, desaparecieron 28 de los 20 mil habitantes del municipio."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 244.86,
+            "r": 495.508,
+            "b": 207.78999999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            229
+          ]
+        }
+      ],
+      "orig": "Versiones de los pobladores, entre ellos el propio alcalde, Luis Reynaldo Tapia Valadez, señalan que en realidad 300 personas fueron privadas de su libertad y posiblemente asesinadas, mientras 10 mil huyeron para ponerse a salvo.",
+      "text": "Versiones de los pobladores, entre ellos el propio alcalde, Luis Reynaldo Tapia Valadez, señalan que en realidad 300 personas fueron privadas de su libertad y posiblemente asesinadas, mientras 10 mil huyeron para ponerse a salvo."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 192.65599999999995,
+            "r": 513.138,
+            "b": 142.154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            297
+          ]
+        }
+      ],
+      "orig": "El grupo delictivo sacó de sus casas a las víctimas y las concentró en ranchos cercanos, donde las asesinó y desapareció; además destruyó 48 viviendas de los secuestrados por una venganza contra Héctor Moreno y Luis Garza, con quienes el grupo controlaba el tráfico de drogas hacia Estados Unidos.",
+      "text": "El grupo delictivo sacó de sus casas a las víctimas y las concentró en ranchos cercanos, donde las asesinó y desapareció; además destruyó 48 viviendas de los secuestrados por una venganza contra Héctor Moreno y Luis Garza, con quienes el grupo controlaba el tráfico de drogas hacia Estados Unidos."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 126.89999999999998,
+            "r": 493.726,
+            "b": 103.27099999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "La PGJE y la unidad científica de la Policía Federal encontraron en los ranchos evidencias de incineración de cadáveres humanos.",
+      "text": "La PGJE y la unidad científica de la Policía Federal encontraron en los ranchos evidencias de incineración de cadáveres humanos."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:53 AM",
+      "text": "9/13/2019, 8:53 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

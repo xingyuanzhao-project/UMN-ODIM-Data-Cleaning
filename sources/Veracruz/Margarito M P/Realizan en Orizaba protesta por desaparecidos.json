@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Realizan en Orizaba protesta por desaparecidos",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 6589910659312853433,
+    "filename": "Realizan en Orizaba protesta por desaparecidos.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 622.72605234375,
+            "r": 602.173,
+            "b": 599.11605234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "Últimas Noticias - Noticias de Veracruz y México | Imagen del Golfo Lo sentimos. Ha ocurrido un error. Lo que quieres ver ya no está disponible. Sigue navegando Inicio",
+      "text": "Últimas Noticias - Noticias de Veracruz y México | Imagen del Golfo Lo sentimos. Ha ocurrido un error. Lo que quieres ver ya no está disponible. Sigue navegando Inicio"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 608.9577026367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

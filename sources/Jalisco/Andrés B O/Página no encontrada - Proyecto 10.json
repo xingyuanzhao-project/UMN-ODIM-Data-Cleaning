@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Página no encontrada - Proyecto 10",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4751150274214374976,
+    "filename": "Página no encontrada - Proyecto 10.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 622.72605234375,
+            "r": 632.273,
+            "b": 547.27305234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            507
+          ]
+        }
+      ],
+      "orig": "Página no encontrada - Proyecto 10 NACIONAL JALISCO OPINIÓN INVESTIGACIÓN No se encontraron resultados La página solicitada no pudo encontrarse. Trate de perfeccionar su búsqueda o utilice la navegación para localizar la entrada. Categorías DEPORTES ESTILO DE VIDA INTERNACIONAL INVESTIGACIÓN JALISCO NACIONAL OPINIÓN SEGURIDAD Categorías DEPORTES ESTILO DE VIDA INTERNACIONAL INVESTIGACIÓN JALISCO NACIONAL OPINIÓN SEGURIDAD Facebook X Instagram RSS Diseñado por Elegant Themes | Desarrollado por WordPress",
+      "text": "Página no encontrada - Proyecto 10 NACIONAL JALISCO OPINIÓN INVESTIGACIÓN No se encontraron resultados La página solicitada no pudo encontrarse. Trate de perfeccionar su búsqueda o utilice la navegación para localizar la entrada. Categorías DEPORTES ESTILO DE VIDA INTERNACIONAL INVESTIGACIÓN JALISCO NACIONAL OPINIÓN SEGURIDAD Categorías DEPORTES ESTILO DE VIDA INTERNACIONAL INVESTIGACIÓN JALISCO NACIONAL OPINIÓN SEGURIDAD Facebook X Instagram RSS Diseñado por Elegant Themes | Desarrollado por WordPress"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

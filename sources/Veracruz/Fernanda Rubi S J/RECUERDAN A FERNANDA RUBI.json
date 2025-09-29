@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "RECUERDAN A FERNANDA RUBI",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 16808078259336696680,
+    "filename": "RECUERDAN A FERNANDA RUBI.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.32005234375,
+            "r": 529.971,
+            "b": 404.09505234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            900
+          ]
+        }
+      ],
+      "orig": "PressReader.com - Digital Newspaper & Magazine Subscriptions English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English",
+      "text": "PressReader.com - Digital Newspaper & Magazine Subscriptions English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 578.8795166015625,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

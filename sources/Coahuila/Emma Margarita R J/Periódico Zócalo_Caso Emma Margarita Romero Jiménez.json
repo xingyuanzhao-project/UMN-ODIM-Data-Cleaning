@@ -1,0 +1,707 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Periódico Zócalo_Caso Emma Margarita Romero Jiménez",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 3585178466697936740,
+    "filename": "Periódico Zócalo_Caso Emma Margarita Romero Jiménez.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.73,
+            "r": 57.594,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "8/8/2019",
+      "text": "8/8/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 306.891,
+            "t": 775.73,
+            "r": 366.477,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Periódico Zócalo",
+      "text": "Periódico Zócalo"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 675.495,
+            "r": 472.77,
+            "b": 664.393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Alarma desaparición de mujer de San Buena",
+      "text": "Alarma desaparición de mujer de San Buena",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 653.736,
+            "r": 116.182,
+            "b": 648.991,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Por Edgar Pérez",
+      "text": "Por Edgar Pérez"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 643.66,
+            "r": 127.934,
+            "b": 639.133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "04/18/2018 - 04:00 AM",
+      "text": "04/18/2018 - 04:00 AM"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 634.66,
+            "r": 364.513,
+            "b": 630.133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "http://www.zocalo.com.mx/seccion/articulo/alarma-desaparicion-de-mujer-de-san-buena",
+      "text": "http://www.zocalo.com.mx/seccion/articulo/alarma-desaparicion-de-mujer-de-san-buena"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 614.505,
+            "r": 517.35,
+            "b": 595.115,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "Monclova, Coah.La desaparición de una mujer de 55 años en San Buenaventura encendió las alertas en las corporaciones policiacas que iniciaron con operativos de búsqueda.",
+      "text": "Monclova, Coah.La desaparición de una mujer de 55 años en San Buenaventura encendió las alertas en las corporaciones policiacas que iniciaron con operativos de búsqueda."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 571.756,
+            "r": 563.768,
+            "b": 552.365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "Emma Margarita Romero Jiménez, vecina de la calle Hidalgo en la Zona Centro, salió de su domicilio desde el lunes en la tarde y la madrugada de ayer sus familiares presentaron la denuncia ante la Fiscalía General del Estado.",
+      "text": "Emma Margarita Romero Jiménez, vecina de la calle Hidalgo en la Zona Centro, salió de su domicilio desde el lunes en la tarde y la madrugada de ayer sus familiares presentaron la denuncia ante la Fiscalía General del Estado."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 529.006,
+            "r": 205.446,
+            "b": 523.865,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "No aparece vecina de San Buena",
+      "text": "No aparece vecina de San Buena",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 500.506,
+            "r": 545.401,
+            "b": 481.115,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "La familia de la mujer reportada como desaparecida abordó su camioneta Jeep Patriot, avisó que sólo atendería unos pendientes y regresaría.",
+      "text": "La familia de la mujer reportada como desaparecida abordó su camioneta Jeep Patriot, avisó que sólo atendería unos pendientes y regresaría."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 457.756,
+            "r": 282.304,
+            "b": 452.615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Hasta el cierre de la edición se desconocía su paradero.",
+      "text": "Hasta el cierre de la edición se desconocía su paradero."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 429.256,
+            "r": 455.314,
+            "b": 424.115,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "Las autoridades iniciaron un operativo de búsqueda, recorren brechas y otros caminos en vano.",
+      "text": "Las autoridades iniciaron un operativo de búsqueda, recorren brechas y otros caminos en vano."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 400.756,
+            "r": 147.422,
+            "b": 395.615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "BUSCAN A FAMILIA",
+      "text": "BUSCAN A FAMILIA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 372.256,
+            "r": 557.294,
+            "b": 352.865,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "Hilda Cortés, usuaria de una página de denuncias ciudadanas en Facebook, pidió al resto de los cibernautas que en caso de haber visto a sus familiares le manden información vía inbox.",
+      "text": "Hilda Cortés, usuaria de una página de denuncias ciudadanas en Facebook, pidió al resto de los cibernautas que en caso de haber visto a sus familiares le manden información vía inbox."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 329.506,
+            "r": 545.501,
+            "b": 310.115,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "Explicó que continúan publicando imágenes de su tío, su esposa y sus hijas para poder localizarlos, solicitando que le pongan un puntito a la publicación para que siga vigente.",
+      "text": "Explicó que continúan publicando imágenes de su tío, su esposa y sus hijas para poder localizarlos, solicitando que le pongan un puntito a la publicación para que siga vigente."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 286.756,
+            "r": 517.713,
+            "b": 281.615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "'Son de mina nuevo león salieron con rumbo a moncloba y no han regresado ya pasaron más de 15 días' (Sic).",
+      "text": "'Son de mina nuevo león salieron con rumbo a moncloba y no han regresado ya pasaron más de 15 días' (Sic)."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 258.256,
+            "r": 560.198,
+            "b": 238.865,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "Al igual que Cortés, muchas personas que tienen a un familiar desaparecido parecen dar preferencia y confiar más en las redes sociales para poder localizarlos que denunciar.",
+      "text": "Al igual que Cortés, muchas personas que tienen a un familiar desaparecido parecen dar preferencia y confiar más en las redes sociales para poder localizarlos que denunciar."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 206.40599999999995,
+            "r": 147.286,
+            "b": 201.88200000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "http://www.zocalo.com.mx",
+      "text": "http://www.zocalo.com.mx"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 187.65599999999995,
+            "r": 198.897,
+            "b": 183.13200000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "COPYRIGHT ©2019 ZÓCALO SALTILLO",
+      "text": "COPYRIGHT ©2019 ZÓCALO SALTILLO"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.730000000000018,
+            "r": 190.953,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "www.zocalo.com.mx/imprimir/articulo/1382630",
+      "text": "www.zocalo.com.mx/imprimir/articulo/1382630"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.730000000000018,
+            "r": 585.512,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/1",
+      "text": "1/1"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.99106216430664,
+            "t": 749.3421783447266,
+            "r": 468.7578125,
+            "b": 690.5297698974609,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Mi hermano fue sacado por el crimen",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5062149549760719254,
+    "filename": "Mi hermano fue sacado por el crimen.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 158.691,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "'Mi hermano fue sacado por el crimen'",
+      "text": "'Mi hermano fue sacado por el crimen'"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 314.235,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "http://www.eluniversalqueretaro.mx/metropoli/31-07-2014/mi-hermano-...",
+      "text": "http://www.eluniversalqueretaro.mx/metropoli/31-07-2014/mi-hermano-..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 466.581,
+            "b": 711.806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "'Mi hermano fue sacado por el crimen'",
+      "text": "'Mi hermano fue sacado por el crimen'",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 684.663,
+            "r": 530.281,
+            "b": 607.274,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            410
+          ]
+        }
+      ],
+      "orig": "Brenda Rangel Ortiz, integrante de Fuerzas Unidas por Nuestros Desaparecidos en México (Fundem), refirió ante medios de comunicación en el estado de Querétaro, que de acuerdo con información de las autoridades de Monclova, en Coahuila, su hermano, Héctor Rangel Ortiz, reportado como desaparecido desde 2009 , fue sacado de la entidad por presuntos integrantes de un grupo relacionado con el crimen organizado.",
+      "text": "Brenda Rangel Ortiz, integrante de Fuerzas Unidas por Nuestros Desaparecidos en México (Fundem), refirió ante medios de comunicación en el estado de Querétaro, que de acuerdo con información de las autoridades de Monclova, en Coahuila, su hermano, Héctor Rangel Ortiz, reportado como desaparecido desde 2009 , fue sacado de la entidad por presuntos integrantes de un grupo relacionado con el crimen organizado."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 592.14,
+            "r": 522.951,
+            "b": 514.752,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            453
+          ]
+        }
+      ],
+      "orig": "De acuerdo con la activista, en los acercamientos que han tenido con las autoridades de aquel estado y mediante las investigaciones que han realizado por su propia cuenta, se tiene identificado que su hermano no desapareció precisamente en Querétaro, pero que sí fue extraído de esta entidad, así como al menos dos jóvenes más, identificados como Irene Lugo Hernández y Milton Hugo Aguilar Torres, quienes están en las mismas condiciones que su hermano.",
+      "text": "De acuerdo con la activista, en los acercamientos que han tenido con las autoridades de aquel estado y mediante las investigaciones que han realizado por su propia cuenta, se tiene identificado que su hermano no desapareció precisamente en Querétaro, pero que sí fue extraído de esta entidad, así como al menos dos jóvenes más, identificados como Irene Lugo Hernández y Milton Hugo Aguilar Torres, quienes están en las mismas condiciones que su hermano."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 499.502,
+            "r": 529.259,
+            "b": 435.675,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            344
+          ]
+        }
+      ],
+      "orig": "'Efectivamente mi hermano no desapareció en Querétaro, desapareció en Monclova, pero fue sacado por el crimen organizado aquí en el estado. Entonces estamos hablando de tres queretanos sacados del estado', declaro en una entrevista concedida a diferentes medios de comunicación, minutos antes de que fuera recibida por autoridades en el estado.",
+      "text": "'Efectivamente mi hermano no desapareció en Querétaro, desapareció en Monclova, pero fue sacado por el crimen organizado aquí en el estado. Entonces estamos hablando de tres queretanos sacados del estado', declaro en una entrevista concedida a diferentes medios de comunicación, minutos antes de que fuera recibida por autoridades en el estado."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 420.421,
+            "r": 515.989,
+            "b": 383.351,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "La integrante de Fundem aseguró que no coincide con las cifras que proporcionó el titular de la Procuraduría General de Justicia en el estado, en cuanto a la no localización de alrededor de 200 personas, asegurando que el número es mayor.",
+      "text": "La integrante de Fundem aseguró que no coincide con las cifras que proporcionó el titular de la Procuraduría General de Justicia en el estado, en cuanto a la no localización de alrededor de 200 personas, asegurando que el número es mayor."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:37 AM",
+      "text": "9/13/2019, 8:37 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

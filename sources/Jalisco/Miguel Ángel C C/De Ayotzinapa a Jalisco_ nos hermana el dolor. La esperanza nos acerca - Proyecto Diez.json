@@ -1,0 +1,1131 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "De Ayotzinapa a Jalisco_ nos hermana el dolor. La esperanza nos acerca - Proyecto Diez",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5641904550451160019,
+    "filename": "De Ayotzinapa a Jalisco_ nos hermana el dolor. La esperanza nos acerca - Proyecto Diez.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/pictures/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 20.0,
+            "t": 999.8,
+            "r": 752.744,
+            "b": 947.239,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "De Ayotzinapa a Jalisco: nos hermana el dolor. La esperanza nos acerca",
+      "text": "De Ayotzinapa a Jalisco: nos hermana el dolor. La esperanza nos acerca",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.0,
+            "t": 929.282,
+            "r": 83.456,
+            "b": 917.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "JALISCO",
+      "text": "JALISCO"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 103.469,
+            "t": 929.282,
+            "r": 193.78,
+            "b": 917.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "27 marzo, 2015",
+      "text": "27 marzo, 2015"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 20.0,
+            "t": 821.71,
+            "r": 51.665,
+            "b": 808.604,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Por:",
+      "text": "Por:"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.665,
+            "t": 821.71,
+            "r": 330.005,
+            "b": 808.604,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Darwin Franco Migues (@DarwinFranco)",
+      "text": "Darwin Franco Migues (@DarwinFranco)"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 20.0,
+            "t": 527.71,
+            "r": 770.003,
+            "b": 402.60400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            587
+          ]
+        }
+      ],
+      "orig": "27 de marzo 2015.Seis  meses  se  han  cumplido  de la  desaparición de los 43 normalistas de  la  Escuela Normal Rural 'Raúl Isidro Burgos' de Ayotzinapa. Sus padres no han parado su búsqueda y no cesarán hasta que los presenten con vida, así lo enfatizaron las madres de Adán Abraján de la Cruz y Jorge Antonio Tizapa Ledigeño ,  en  el  encuentro  que  se  organizó  entre  las  madres  de  los  normalistas  e  integrantes  del  colectivo Familias  Unidas  por  Nuestros  Desaparecidos  (FUNDEJ)  en  las  instalaciones  del  Instituto  Tecnológico  de Estudios de Occidente (ITESO).",
+      "text": "27 de marzo 2015.Seis  meses  se  han  cumplido  de la  desaparición de los 43 normalistas de  la  Escuela Normal Rural 'Raúl Isidro Burgos' de Ayotzinapa. Sus padres no han parado su búsqueda y no cesarán hasta que los presenten con vida, así lo enfatizaron las madres de Adán Abraján de la Cruz y Jorge Antonio Tizapa Ledigeño ,  en  el  encuentro  que  se  organizó  entre  las  madres  de  los  normalistas  e  integrantes  del  colectivo Familias  Unidas  por  Nuestros  Desaparecidos  (FUNDEJ)  en  las  instalaciones  del  Instituto  Tecnológico  de Estudios de Occidente (ITESO)."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 280.935,
+            "t": 101.18000000000006,
+            "r": 348.765,
+            "b": 91.85500000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "ADVERTISING",
+      "text": "ADVERTISING"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 20.0,
+            "t": 826.71,
+            "r": 770.009,
+            "b": 724.604,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            486
+          ]
+        }
+      ],
+      "orig": "Adán Abraján de la Cruz y Jorge Antonio Tizapa Ledigeño fueron desaparecidos la madrugada del 26 de septiembre del 2014 por  policías municipales de Iguala y Cocula, Guerrero. Desde ese día sus familias han escuchado de todo: 'que están en fosas, que los quemaron en un basurero, que murieron a manos del crimen organizado, que deben superar su dolor y que no hay más verdad histórica que la que se precisó desde la Procuraduría General de la República, el pasado 27 de enero del 2015'.",
+      "text": "Adán Abraján de la Cruz y Jorge Antonio Tizapa Ledigeño fueron desaparecidos la madrugada del 26 de septiembre del 2014 por  policías municipales de Iguala y Cocula, Guerrero. Desde ese día sus familias han escuchado de todo: 'que están en fosas, que los quemaron en un basurero, que murieron a manos del crimen organizado, que deben superar su dolor y que no hay más verdad histórica que la que se precisó desde la Procuraduría General de la República, el pasado 27 de enero del 2015'."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 20.0,
+            "t": 444.71000000000004,
+            "r": 770.007,
+            "b": 341.616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            455
+          ]
+        }
+      ],
+      "orig": "A  635.2  kilómetros  de  distancia  de  Iguala,  en  Guadalajara,  también  se  escuchan  las  mismas  sinrazones  de parte de las autoridades que afirman categóricamente buscar a los desaparecidos del estado de Jalisco. Las convergencias entre lo que viven las familias de los 43 normalistas y las cerca de dos mil 779 desaparecidos que hay aquí en el estado son tan coincidentes que hacen ver que en México no hay interés en buscar a los desaparecidos.",
+      "text": "A  635.2  kilómetros  de  distancia  de  Iguala,  en  Guadalajara,  también  se  escuchan  las  mismas  sinrazones  de parte de las autoridades que afirman categóricamente buscar a los desaparecidos del estado de Jalisco. Las convergencias entre lo que viven las familias de los 43 normalistas y las cerca de dos mil 779 desaparecidos que hay aquí en el estado son tan coincidentes que hacen ver que en México no hay interés en buscar a los desaparecidos."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 20.0,
+            "t": 297.85400000000004,
+            "r": 759.288,
+            "b": 273.24299999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "Dos de las mamás de los 43 desaparecidos en Ayotzinapa estuvieron en el ITESO, se reunieron con organizaciones de busqueda de desaparaicones y estudiantes de esa casa de estudios. Foto RACCImágenes/Arturo Campos Cedillo.",
+      "text": "Dos de las mamás de los 43 desaparecidos en Ayotzinapa estuvieron en el ITESO, se reunieron con organizaciones de busqueda de desaparaicones y estudiantes de esa casa de estudios. Foto RACCImágenes/Arturo Campos Cedillo."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 20.0,
+            "t": 255.71000000000004,
+            "r": 770.006,
+            "b": 129.61599999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            577
+          ]
+        }
+      ],
+      "orig": "'Si  uno  no  camina  por  su  propio  pie  en  la  búsqueda  de  su  desaparecido  nadie  más  lo  hará;  por  ello,  no debemos andar solas, debemos apoyarnos porque así como los 43 desaparecidos de Ayotzinapa necesitan de todos  también  nosotros  los  necesitamos  a  ellos  para  localizar  a  los  desaparecidos  de  Jalisco',  precisó Esperanza  Chávez ,  quien  busca  desde  el  16  de  mayo  del  2014  a  su  hermano Miguel  Ángel  Chávez Cárdenas ,  quien  desapareció  a  escasas  cuadras  de  Casa  Jalisco,  hogar  oficial  del  gobernador, Aristóteles Sandoval.",
+      "text": "'Si  uno  no  camina  por  su  propio  pie  en  la  búsqueda  de  su  desaparecido  nadie  más  lo  hará;  por  ello,  no debemos andar solas, debemos apoyarnos porque así como los 43 desaparecidos de Ayotzinapa necesitan de todos  también  nosotros  los  necesitamos  a  ellos  para  localizar  a  los  desaparecidos  de  Jalisco',  precisó Esperanza  Chávez ,  quien  busca  desde  el  16  de  mayo  del  2014  a  su  hermano Miguel  Ángel  Chávez Cárdenas ,  quien  desapareció  a  escasas  cuadras  de  Casa  Jalisco,  hogar  oficial  del  gobernador, Aristóteles Sandoval."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 20.0,
+            "t": 109.71000000000004,
+            "r": 770.003,
+            "b": 8.604000000000042,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            533
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 20.0,
+            "t": 1000.71,
+            "r": 372.29,
+            "b": 987.604,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            534,
+            584
+          ]
+        }
+      ],
+      "orig": "Sus palabras alentaron a Hilda Ledigeño Vargas , madre de Jorge Antonio Tizapa Ledigeño, quien recordó que la lucha que ellas tienen por sus 43 hijos normalistas es la lucha de todas las madres de desaparecidos de este país: 'como padres tenemos que luchar y tenemos que buscar a nuestros hijos con vida, pues no podemos creerle a un gobierno que nos dice puras mentiras y que no nos da ningún tipo de prueba científica donde quede claro eso que dicen sobre la muerte de nuestros hijos. `No vamos a aceptar que están muertos, nuestro corazón de madres siempre los buscarán con vida!'.",
+      "text": "Sus palabras alentaron a Hilda Ledigeño Vargas , madre de Jorge Antonio Tizapa Ledigeño, quien recordó que la lucha que ellas tienen por sus 43 hijos normalistas es la lucha de todas las madres de desaparecidos de este país: 'como padres tenemos que luchar y tenemos que buscar a nuestros hijos con vida, pues no podemos creerle a un gobierno que nos dice puras mentiras y que no nos da ningún tipo de prueba científica donde quede claro eso que dicen sobre la muerte de nuestros hijos. `No vamos a aceptar que están muertos, nuestro corazón de madres siempre los buscarán con vida!'."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 20.0,
+            "t": 967.71,
+            "r": 770.005,
+            "b": 888.604,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            394
+          ]
+        }
+      ],
+      "orig": "Por su parte, María Inés de la Cruz , madre de Adán Abraján de la Cruz, mencionó que el Estado no está ya realizando  investigación  alguna  para  encontrar  a  los  43  normalistas:  'lo  único  que  quieren  es  que  nos olvidemos de todo, pero nosotras no vamos a dejar de pelear para encontrar a nuestros hijos (…) son ya seis meses y aquí estamos recorriendo el país para exigir justicia'.",
+      "text": "Por su parte, María Inés de la Cruz , madre de Adán Abraján de la Cruz, mencionó que el Estado no está ya realizando  investigación  alguna  para  encontrar  a  los  43  normalistas:  'lo  único  que  quieren  es  que  nos olvidemos de todo, pero nosotras no vamos a dejar de pelear para encontrar a nuestros hijos (…) son ya seis meses y aquí estamos recorriendo el país para exigir justicia'."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 20.0,
+            "t": 844.854,
+            "r": 759.288,
+            "b": 820.243,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "Dos de las mamás de los 43 desaparecidos en Ayotzinapa estuvieron en el ITESO, se reunieron con organizaciones de busqueda de desaparaicones y estudiantes de esa casa de estudios. Foto RACCImágenes/Arturo Campos Cedillo.",
+      "text": "Dos de las mamás de los 43 desaparecidos en Ayotzinapa estuvieron en el ITESO, se reunieron con organizaciones de busqueda de desaparaicones y estudiantes de esa casa de estudios. Foto RACCImágenes/Arturo Campos Cedillo."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 20.0,
+            "t": 802.71,
+            "r": 770.009,
+            "b": 700.604,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            455
+          ]
+        }
+      ],
+      "orig": "Desde que la PGR precisó su 'verdad histórica' el 27 de enero del 2015, el expediente de la desaparición de los 43 normalistas, como afirmaron ambas madres, no se ha movido. Aquí coinciden con lo que pasa alrededor de  la  desaparición  de  Miguel  Ángel  Chávez  Cárdenas,  pues  como  asegura  su  hermana,  Esperanza,  la investigación tiene nueve meses detenida. Las Fiscalías de Guerrero y Jalisco parecen actuar bajo un mismo parámetro: la inacción.",
+      "text": "Desde que la PGR precisó su 'verdad histórica' el 27 de enero del 2015, el expediente de la desaparición de los 43 normalistas, como afirmaron ambas madres, no se ha movido. Aquí coinciden con lo que pasa alrededor de  la  desaparición  de  Miguel  Ángel  Chávez  Cárdenas,  pues  como  asegura  su  hermana,  Esperanza,  la investigación tiene nueve meses detenida. Las Fiscalías de Guerrero y Jalisco parecen actuar bajo un mismo parámetro: la inacción."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 20.0,
+            "t": 680.71,
+            "r": 770.012,
+            "b": 579.604,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            486
+          ]
+        }
+      ],
+      "orig": "Inacción  que  después  se  transforma  en  insensibilidad :  'A  mí  hijo  (Adán  Abraján  de  la  Cruz)  lo  fueron  a buscar a mi casa porque resultó seleccionado por el Instituto Nacional Electoral para ser funcionario de casilla. ¿Cómo es posible que pase esto, qué no saben de nuestro caso? Días después llegó a mi casa, a nombre de mi hijo, una tarjeta de esas que manda el Partido Verde Ecologista de México para descuentos en el súper', precisó indignada María Inés de la Cruz.",
+      "text": "Inacción  que  después  se  transforma  en  insensibilidad :  'A  mí  hijo  (Adán  Abraján  de  la  Cruz)  lo  fueron  a buscar a mi casa porque resultó seleccionado por el Instituto Nacional Electoral para ser funcionario de casilla. ¿Cómo es posible que pase esto, qué no saben de nuestro caso? Días después llegó a mi casa, a nombre de mi hijo, una tarjeta de esas que manda el Partido Verde Ecologista de México para descuentos en el súper', precisó indignada María Inés de la Cruz."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 20.0,
+            "t": 559.71,
+            "r": 769.999,
+            "b": 501.604,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            264
+          ]
+        }
+      ],
+      "orig": "Por esta razón, instó a los alumnos y a los profesores del ITESO presentes en el encuentro a no olvidar a sus hijos ni a los desaparecidos de Jalisco porque si nos olvidamos de ellos, ganarán quienes quien ocultar lo que verdaderamente ocasionó sus desapariciones.",
+      "text": "Por esta razón, instó a los alumnos y a los profesores del ITESO presentes en el encuentro a no olvidar a sus hijos ni a los desaparecidos de Jalisco porque si nos olvidamos de ellos, ganarán quienes quien ocultar lo que verdaderamente ocasionó sus desapariciones."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 280.935,
+            "t": 200.18000000000006,
+            "r": 348.765,
+            "b": 190.85500000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "ADVERTISING",
+      "text": "ADVERTISING"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 20.0,
+            "t": 901.854,
+            "r": 759.288,
+            "b": 877.243,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "Dos de las mamás de los 43 desaparecidos en Ayotzinapa estuvieron en el ITESO, se reunieron con organizaciones de busqueda de desaparaicones y estudiantes de esa casa de estudios. Foto RACCImágenes/Arturo Campos Cedillo.",
+      "text": "Dos de las mamás de los 43 desaparecidos en Ayotzinapa estuvieron en el ITESO, se reunieron con organizaciones de busqueda de desaparaicones y estudiantes de esa casa de estudios. Foto RACCImágenes/Arturo Campos Cedillo."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 20.0,
+            "t": 860.792,
+            "r": 352.208,
+            "b": 844.105,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Nueve días sin respuesta del gobernador",
+      "text": "Nueve días sin respuesta del gobernador",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 20.0,
+            "t": 829.71,
+            "r": 770.006,
+            "b": 771.604,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            312
+          ]
+        }
+      ],
+      "orig": "FUNDEJ  aprovechó  encuentro  para  recordar  que  ayer  se  cumplieron  nueve  días  de  que  solicitaron  al gobernador de Jalisco, Aristóteles Sandoval, una reunión para que éste de respuestas a las demandas que sus subalternos, en la Fiscalía General de Jalisco, han sido incapaces de solventar; entre ellas:",
+      "text": "FUNDEJ  aprovechó  encuentro  para  recordar  que  ayer  se  cumplieron  nueve  días  de  que  solicitaron  al gobernador de Jalisco, Aristóteles Sandoval, una reunión para que éste de respuestas a las demandas que sus subalternos, en la Fiscalía General de Jalisco, han sido incapaces de solventar; entre ellas:"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 20.0,
+            "t": 752.71,
+            "r": 770.001,
+            "b": 717.604,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "1) Que la Fiscalía General del Estado de Jalisco entregue copia del expediente a cada una de las familias que levantaron denuncia por desaparición;",
+      "text": "Que la Fiscalía General del Estado de Jalisco entregue copia del expediente a cada una de las familias que levantaron denuncia por desaparición;",
+      "enumerated": true,
+      "marker": "1)"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 20.0,
+            "t": 698.71,
+            "r": 770.003,
+            "b": 663.604,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "2) Que el Instituto Jaliscienses de Ciencias Forenses llame a todas las familias denunciantes para proceder a tomar muestras de ADN y que entregue a las familias copia.",
+      "text": "Que el Instituto Jaliscienses de Ciencias Forenses llame a todas las familias denunciantes para proceder a tomar muestras de ADN y que entregue a las familias copia.",
+      "enumerated": true,
+      "marker": "2)"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 20.0,
+            "t": 644.71,
+            "r": 769.991,
+            "b": 609.604,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "3) Que la Agencia del Ministerio Público 12/C, especializada en desapariciones, sea completamente renovada y reubicada a un sitio más céntrico y seguro.",
+      "text": "Que la Agencia del Ministerio Público 12/C, especializada en desapariciones, sea completamente renovada y reubicada a un sitio más céntrico y seguro.",
+      "enumerated": true,
+      "marker": "3)"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 20.0,
+            "t": 590.71,
+            "r": 769.991,
+            "b": 555.604,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "4)  Que  la  Fiscalía  General  del  Estado  de  Jalisco  haga  pública  la  información  de  desapariciones  en  Jalisco desde el año 2006 a la fecha.",
+      "text": " Que  la  Fiscalía  General  del  Estado  de  Jalisco  haga  pública  la  información  de  desapariciones  en  Jalisco desde el año 2006 a la fecha.",
+      "enumerated": true,
+      "marker": "4)"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 20.0,
+            "t": 536.71,
+            "r": 769.989,
+            "b": 501.604,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "5) Que se termine de una vez por todas la revictimización de la que somos objeto en declaraciones de voceros de la Fiscalía y del propio Fiscal General.",
+      "text": "Que se termine de una vez por todas la revictimización de la que somos objeto en declaraciones de voceros de la Fiscalía y del propio Fiscal General.",
+      "enumerated": true,
+      "marker": "5)"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 20.0,
+            "t": 457.85400000000004,
+            "r": 759.288,
+            "b": 433.24299999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "Dos de las mamás de los 43 desaparecidos en Ayotzinapa estuvieron en el ITESO, se reunieron con organizaciones de busqueda de desaparaicones y estudiantes de esa casa de estudios. Foto RACCImágenes/Arturo Campos Cedillo.",
+      "text": "Dos de las mamás de los 43 desaparecidos en Ayotzinapa estuvieron en el ITESO, se reunieron con organizaciones de busqueda de desaparaicones y estudiantes de esa casa de estudios. Foto RACCImágenes/Arturo Campos Cedillo."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 20.0,
+            "t": 415.71000000000004,
+            "r": 770.0,
+            "b": 357.60400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            268
+          ]
+        }
+      ],
+      "orig": "En  estos  nueve  días  las  únicas  respuestas  oficiales  que  se  han  escuchado  al  respecto  son  que  la  Fiscalía General de Jalisco y su Fiscalía de Derechos Humanos no pueden 'actuar a capricho de algunas víctimas , pues información y atención sí se les da'.",
+      "text": "En  estos  nueve  días  las  únicas  respuestas  oficiales  que  se  han  escuchado  al  respecto  son  que  la  Fiscalía General de Jalisco y su Fiscalía de Derechos Humanos no pueden 'actuar a capricho de algunas víctimas , pues información y atención sí se les da'."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 20.0,
+            "t": 337.71000000000004,
+            "r": 770.006,
+            "b": 279.60400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "Esto,  sin  embargo,  contrasta  con  lo  que  al  final  del  evento  narró  la  madre  de Óscar  Alberto  Castellanos Monreal , quien desapareció desde el 6 de febrero del 2015, en Zapopan, cuando fue sustraído de su casa por un grupo de personas armadas.",
+      "text": "Esto,  sin  embargo,  contrasta  con  lo  que  al  final  del  evento  narró  la  madre  de Óscar  Alberto  Castellanos Monreal , quien desapareció desde el 6 de febrero del 2015, en Zapopan, cuando fue sustraído de su casa por un grupo de personas armadas."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 20.0,
+            "t": 260.71000000000004,
+            "r": 770.015,
+            "b": 157.60400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            454
+          ]
+        }
+      ],
+      "orig": "Su  madre  presentó  su  denuncia  un  día  después  y  es  fecha  que  no  tiene  ningún  tipo  de  respuesta  de  las autoridades, pues cuando decide acudir a la Agencia 12/C, especializada en desapariciones le dicen: 'aquí no es váyase para allá' , haciéndola dar muchas vueltas con varios funcionarios que ni le dicen nada de su hijo ni le dan acceso a una copia de su denuncia y expediente, ya que aseguran: 'que no es necesario que ella tenga eso'.",
+      "text": "Su  madre  presentó  su  denuncia  un  día  después  y  es  fecha  que  no  tiene  ningún  tipo  de  respuesta  de  las autoridades, pues cuando decide acudir a la Agencia 12/C, especializada en desapariciones le dicen: 'aquí no es váyase para allá' , haciéndola dar muchas vueltas con varios funcionarios que ni le dicen nada de su hijo ni le dan acceso a una copia de su denuncia y expediente, ya que aseguran: 'que no es necesario que ella tenga eso'."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 20.0,
+            "t": 138.71000000000004,
+            "r": 770.007,
+            "b": 36.60400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            449
+          ]
+        }
+      ],
+      "orig": "Son 635.2 kilómetros lo que separan a Iguala de Guadalajara, pero el dolor que une a los familiares les da cercanía y, desde luego, esperanza porque no se está solo en la búsqueda ,  pues  como afirmó Esperanza Chávez de FUNDEJ: 'Ayotzinapa necesita de las otras familias de desaparecidos para seguir luchando y éstas requieren  del  apoyo  que  se  ha  dado  a  los  43  normalistas  para  que  se  sepa  que  aquí  también  hay  de desaparecidos'.",
+      "text": "Son 635.2 kilómetros lo que separan a Iguala de Guadalajara, pero el dolor que une a los familiares les da cercanía y, desde luego, esperanza porque no se está solo en la búsqueda ,  pues  como afirmó Esperanza Chávez de FUNDEJ: 'Ayotzinapa necesita de las otras familias de desaparecidos para seguir luchando y éstas requieren  del  apoyo  que  se  ha  dado  a  los  43  normalistas  para  que  se  sepa  que  aquí  también  hay  de desaparecidos'."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 20.0,
+            "t": 1002.854,
+            "r": 759.288,
+            "b": 978.243,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "Dos de las mamás de los 43 desaparecidos en Ayotzinapa estuvieron en el ITESO, se reunieron con organizaciones de busqueda de desaparaicones y estudiantes de esa casa de estudios. Foto RACCImágenes/Arturo Campos Cedillo.",
+      "text": "Dos de las mamás de los 43 desaparecidos en Ayotzinapa estuvieron en el ITESO, se reunieron con organizaciones de busqueda de desaparaicones y estudiantes de esa casa de estudios. Foto RACCImágenes/Arturo Campos Cedillo."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 19.043258666992188,
+            "t": 926.9237899780273,
+            "r": 66.0979232788086,
+            "b": 905.9464111328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 790.0,
+        "height": 1006.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 790.0,
+        "height": 1006.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 790.0,
+        "height": 1006.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 790.0,
+        "height": 1006.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 790.0,
+        "height": 1006.0
+      },
+      "page_no": 5
+    }
+  }
+}

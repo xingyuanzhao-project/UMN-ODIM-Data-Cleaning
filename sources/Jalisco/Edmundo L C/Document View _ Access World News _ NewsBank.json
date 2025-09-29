@@ -1,0 +1,496 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Document View _ Access World News _ NewsBank",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 3925333623618303058,
+    "filename": "Document View _ Access World News _ NewsBank.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.336,
+            "r": 54.898,
+            "b": 768.221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "2/3/2019",
+      "text": "2/3/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 253.75,
+            "t": 775.336,
+            "r": 416.911,
+            "b": 768.221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "Document View | Access World News | NewsBank",
+      "text": "Document View | Access World News | NewsBank"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 667.893,
+            "r": 528.64,
+            "b": 634.399,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "Ven un móvil económico - La Fiscalía tiene 8 declaraciones en el caso de Edmundo Lucke",
+      "text": "Ven un móvil económico - La Fiscalía tiene 8 declaraciones en el caso de Edmundo Lucke",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "code",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 88.054,
+            "t": 622.951,
+            "r": 361.157,
+            "b": 584.318,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "26 de febrero del 2016 | Mural (Guadalajara, Jalisco, Mexico) Author: MURAL / STAFF | Page: 6 | Section: Justicia 241 Words",
+      "text": "26 de febrero del 2016 | Mural (Guadalajara, Jalisco, Mexico) Author: MURAL / STAFF | Page: 6 | Section: Justicia 241 Words",
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "code_language": "unknown"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 514.737,
+            "r": 574.035,
+            "b": 486.361,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "Problemas de carácter económico, esa es la principal línea de investigación en el caso del homicidio de Edmundo Lucke Cárdenas, quien inicialmente fue reportado como desaparecido en Colinas de San Javier.",
+      "text": "Problemas de carácter económico, esa es la principal línea de investigación en el caso del homicidio de Edmundo Lucke Cárdenas, quien inicialmente fue reportado como desaparecido en Colinas de San Javier."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 462.941,
+            "r": 573.745,
+            "b": 434.564,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "Sin detallar en qué consistían estos conflictos, el Fiscal Central del Estado, Rafael Castellanos, informó que luego de casi tres semanas de la desaparición y dos del hallazgo, han obtenido algunas pistas.",
+      "text": "Sin detallar en qué consistían estos conflictos, el Fiscal Central del Estado, Rafael Castellanos, informó que luego de casi tres semanas de la desaparición y dos del hallazgo, han obtenido algunas pistas."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 411.144,
+            "r": 559.548,
+            "b": 382.768,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "\"Estamos haciendo la investigación y la línea principal es problemas económicos, tenemos unas pistas, hemos declarado a ocho personas, entre familiares y el novio de la hija\", explicó Castellanos.",
+      "text": "\"Estamos haciendo la investigación y la línea principal es problemas económicos, tenemos unas pistas, hemos declarado a ocho personas, entre familiares y el novio de la hija\", explicó Castellanos."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 359.348,
+            "r": 558.36,
+            "b": 330.971,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "Cuestionado si se trataba de problemas a causa de una herencia, como revelaron de forma extraoficial fuentes cercanas a la investigación, se limitó a decir que eso no estaba documentado.",
+      "text": "Cuestionado si se trataba de problemas a causa de una herencia, como revelaron de forma extraoficial fuentes cercanas a la investigación, se limitó a decir que eso no estaba documentado."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 307.551,
+            "r": 541.362,
+            "b": 279.17499999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "\"Al parecer eran temas de carácter económico, no está documentado en la averiguación previa (que sea un conflicto por herencia)\", respondió el Fiscal.",
+      "text": "\"Al parecer eran temas de carácter económico, no está documentado en la averiguación previa (que sea un conflicto por herencia)\", respondió el Fiscal."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 255.755,
+            "r": 571.257,
+            "b": 227.37799999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "Lucke, de 55 años, fue reportado como desaparecido el pasado viernes 5 de febrero, cuando salió de su domicilio rumbo a casa de sus padres, ambas fincas en Colinas de San Javier.",
+      "text": "Lucke, de 55 años, fue reportado como desaparecido el pasado viernes 5 de febrero, cuando salió de su domicilio rumbo a casa de sus padres, ambas fincas en Colinas de San Javier."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 203.95799999999997,
+            "r": 580.273,
+            "b": 175.582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "Luego de reportar su de-saparición y difundir su imagen en redes sociales, el cadáver cubierto de cal fue hallado el 9 de febrero en un camino que va de San Esteban a Copala, en Zapopan.",
+      "text": "Luego de reportar su de-saparición y difundir su imagen en redes sociales, el cadáver cubierto de cal fue hallado el 9 de febrero en un camino que va de San Esteban a Copala, en Zapopan."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 152.16200000000003,
+            "r": 579.683,
+            "b": 123.78499999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "De acuerdo con el acta 166/2016 del Ministerio Público adscrito al Semefo, la causa de muerte fue una fractura de cráneo provocada por un hematoma subdural, lo que implica un sangrado en la zona cerebral tras un fuerte golpe.",
+      "text": "De acuerdo con el acta 166/2016 del Ministerio Público adscrito al Semefo, la causa de muerte fue una fractura de cráneo provocada por un hematoma subdural, lo que implica un sangrado en la zona cerebral tras un fuerte golpe."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 143.052,
+            "t": 80.96399999999994,
+            "r": 469.942,
+            "b": 69.356,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "© Copyright (c) 2016 Editora El Sol, S.A. de C.V. Mural. All rights reserved.",
+      "text": "© Copyright (c) 2016 Editora El Sol, S.A. de C.V. Mural. All rights reserved."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.336000000000013,
+            "r": 396.621,
+            "b": 15.221000000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "https://infoweb.newsbank.com/apps/news/document-view?p=AWNB&docref=news/15B41522EE4F58C0&f=basic",
+      "text": "https://infoweb.newsbank.com/apps/news/document-view?p=AWNB&docref=news/15B41522EE4F58C0&f=basic"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 575.313,
+            "t": 22.336000000000013,
+            "r": 585.531,
+            "b": 15.221000000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/1",
+      "text": "1/1"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

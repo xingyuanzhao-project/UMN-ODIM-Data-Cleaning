@@ -1,0 +1,523 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Van 20 detenidos por el caso de estudiantes desaparecidos en Coahuila",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12441634893095838600,
+    "filename": "Van 20 detenidos por el caso de estudiantes desaparecidos en Coahuila.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 297.602,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "Van 20 detenidos por el caso de estudiantes desaparecidos en Coahuila -...",
+      "text": "Van 20 detenidos por el caso de estudiantes desaparecidos en Coahuila -..."
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 313.538,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "https://www.proceso.com.mx/340687/van-20-detenidos-por-el-caso-de-e...",
+      "text": "https://www.proceso.com.mx/340687/van-20-detenidos-por-el-caso-de-e..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 507.851,
+            "b": 687.918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "Van 20 detenidos por el caso de estudiantes desaparecidos en Coahuila - Proceso",
+      "text": "Van 20 detenidos por el caso de estudiantes desaparecidos en Coahuila - Proceso",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.04,
+            "t": 659.317,
+            "r": 145.368,
+            "b": 650.057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "La Redacción",
+      "text": "La Redacción"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 622.502,
+            "r": 519.399,
+            "b": 571.994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            300
+          ]
+        }
+      ],
+      "orig": "MÉXICO, D.F. (apro).- La Procuraduría General de Justicia del estado de Coahuila (PGJE) dio a conocer hoy que se encuentran detenidas 20 personas por su presunta relación con la desaparición de cuatro estudiantes de la Universidad Autónoma de Coahuila (UAdeC), campus Monclova, el pasado 11 de abril.",
+      "text": "MÉXICO, D.F. (apro).- La Procuraduría General de Justicia del estado de Coahuila (PGJE) dio a conocer hoy que se encuentran detenidas 20 personas por su presunta relación con la desaparición de cuatro estudiantes de la Universidad Autónoma de Coahuila (UAdeC), campus Monclova, el pasado 11 de abril."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 556.738,
+            "r": 505.737,
+            "b": 519.671,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "Según la dependencia, la mayoría de los detenidos son 'halcones', es decir, que se dedicaban a hacer trabajo de espionaje para grupos del crimen organizado en la entidad.",
+      "text": "Según la dependencia, la mayoría de los detenidos son 'halcones', es decir, que se dedicaban a hacer trabajo de espionaje para grupos del crimen organizado en la entidad."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 504.543,
+            "r": 530.994,
+            "b": 454.035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            311
+          ]
+        }
+      ],
+      "orig": "'Todos coinciden en las declaraciones, no podemos hacerlas públicas a manera de dar con todos los responsables implicados. La investigación va bastante avanzada, son cuestiones de carácter federal también, por eso no puedo hacer alusión a muchas de las conclusiones, pero va bastante avanzada', informó la PGJE.",
+      "text": "'Todos coinciden en las declaraciones, no podemos hacerlas públicas a manera de dar con todos los responsables implicados. La investigación va bastante avanzada, son cuestiones de carácter federal también, por eso no puedo hacer alusión a muchas de las conclusiones, pero va bastante avanzada', informó la PGJE."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 438.901,
+            "r": 529.247,
+            "b": 374.951,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            351
+          ]
+        }
+      ],
+      "orig": "Entre los detenidos se encuentran César Alejandro Ibarra Maldonado, Héctor Enrique Ramírez León, Óscar Adrián Ríos Salas, Alberto Alvarado Quiroz, y Daniel Alarcón Cárdenas, quienes admitieron que 'la noche del jueves 11 de abril integrantes de su organización criminal perpetraron un ataque con armas de fuego a los ocupantes de un automóvil Stratus.",
+      "text": "Entre los detenidos se encuentran César Alejandro Ibarra Maldonado, Héctor Enrique Ramírez León, Óscar Adrián Ríos Salas, Alberto Alvarado Quiroz, y Daniel Alarcón Cárdenas, quienes admitieron que 'la noche del jueves 11 de abril integrantes de su organización criminal perpetraron un ataque con armas de fuego a los ocupantes de un automóvil Stratus."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 359.817,
+            "r": 527.834,
+            "b": 322.751,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            237
+          ]
+        }
+      ],
+      "orig": "'Después del ataque llegaron más personas para remolcar el vehículo Stratus hasta la comunidad de Estancias, sujetos que participaron en la desaparición de los estudiantes de la Facultad de Contaduría y Administración de la UAdeC', dijo.",
+      "text": "'Después del ataque llegaron más personas para remolcar el vehículo Stratus hasta la comunidad de Estancias, sujetos que participaron en la desaparición de los estudiantes de la Facultad de Contaduría y Administración de la UAdeC', dijo."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 307.501,
+            "r": 497.528,
+            "b": 283.875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "Los estudiantes desaparecidos son: Cecilia Picazo, Marlyn Peña, Cintia Rivera y Carlos Núñez.",
+      "text": "Los estudiantes desaparecidos son: Cecilia Picazo, Marlyn Peña, Cintia Rivera y Carlos Núñez."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 268.741,
+            "r": 523.747,
+            "b": 218.23199999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            279
+          ]
+        }
+      ],
+      "orig": "Según la información disponible, los cuatro viajaban a bordo de un auto Stratus que, después de la privación ilegal de la libertad de los alumnos universitarios, apareció quemado y con diversos impactos de bala, en una brecha del Libramiento Eliseo Mendoza Berrueto, de Monclova.",
+      "text": "Según la información disponible, los cuatro viajaban a bordo de un auto Stratus que, después de la privación ilegal de la libertad de los alumnos universitarios, apareció quemado y con diversos impactos de bala, en una brecha del Libramiento Eliseo Mendoza Berrueto, de Monclova."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 203.09799999999996,
+            "r": 503.444,
+            "b": 166.03200000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "Un informante indicó que tras los análisis realizados al vehículo, a pesar de que estaba parcialmente quemado, no se encontraron evidencias o rastros que hagan suponer que los jóvenes fueron asesinados.",
+      "text": "Un informante indicó que tras los análisis realizados al vehículo, a pesar de que estaba parcialmente quemado, no se encontraron evidencias o rastros que hagan suponer que los jóvenes fueron asesinados."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 150.78200000000004,
+            "r": 513.696,
+            "b": 127.15499999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "En los alrededores donde se halló el carro tampoco se descubrieron evidencias que apuntaran a esa hipótesis.",
+      "text": "En los alrededores donde se halló el carro tampoco se descubrieron evidencias que apuntaran a esa hipótesis."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.041,
+            "t": 109.34500000000003,
+            "r": 172.915,
+            "b": 97.40899999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Comentarios",
+      "text": "Comentarios",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:23 AM",
+      "text": "9/13/2019, 8:23 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

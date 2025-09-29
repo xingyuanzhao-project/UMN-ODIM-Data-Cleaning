@@ -1,0 +1,432 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Buscan en la región a jóvenes desaparecidos",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4677686650319195222,
+    "filename": "Buscan en la región a jóvenes desaparecidos.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 177.675,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Buscan en la región a jóvenes desaparecidos",
+      "text": "Buscan en la región a jóvenes desaparecidos"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 314.634,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "https://www.zocalo.com.mx/new_site/articulo/buscan-en-la-region-a-jov...",
+      "text": "https://www.zocalo.com.mx/new_site/articulo/buscan-en-la-region-a-jov..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 513.956,
+            "b": 711.806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Buscan en la región a jóvenes desaparecidos",
+      "text": "Buscan en la región a jóvenes desaparecidos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.04,
+            "t": 683.195,
+            "r": 132.063,
+            "b": 673.935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Por Zócalo",
+      "text": "Por Zócalo"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 646.378,
+            "r": 527.116,
+            "b": 595.876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            333
+          ]
+        }
+      ],
+      "orig": "Nueva Rosita, Coah . - A veinte días de la desaparición de tres jóvenes empresarios del estado de Jalisco, los familiares extienden la llamada de auxilio a las autoridades de la Región Carbonífera para que se realice la búsqueda de éstos en el sector, así lo dio a conocer Agustín Núñez Echeverría, padre de uno de los desaparecidos.",
+      "text": "Nueva Rosita, Coah . - A veinte días de la desaparición de tres jóvenes empresarios del estado de Jalisco, los familiares extienden la llamada de auxilio a las autoridades de la Región Carbonífera para que se realice la búsqueda de éstos en el sector, así lo dio a conocer Agustín Núñez Echeverría, padre de uno de los desaparecidos."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 580.62,
+            "r": 531.707,
+            "b": 530.112,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            323
+          ]
+        }
+      ],
+      "orig": "Ante la sospecha de que los tres jóvenes empresarios hayan sufrido algún daño y se encuentren por la Carbonífera, Núñez Echeverría solicitó a las autoridades locales que se les brinde el apoyo para su búsqueda, asimismo manifestó que están colocando fotografías de éstos en diversos sectores para poder dar con su paradero.",
+      "text": "Ante la sospecha de que los tres jóvenes empresarios hayan sufrido algún daño y se encuentren por la Carbonífera, Núñez Echeverría solicitó a las autoridades locales que se les brinde el apoyo para su búsqueda, asimismo manifestó que están colocando fotografías de éstos en diversos sectores para poder dar con su paradero."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 514.978,
+            "r": 527.596,
+            "b": 464.476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            295
+          ]
+        }
+      ],
+      "orig": "Como se recordará, el reporte se hizo en el municipio de Nava por haber sido el lugar donde originalmente se tuvo el último contacto con ellos el pasado 22 de abril, los desaparecidos son Agustín Alberto Núñez Magaña, de 21 años, José Flores Rodríguez de 40 años y Sergio Cárdenas Córdoba de 24.",
+      "text": "Como se recordará, el reporte se hizo en el municipio de Nava por haber sido el lugar donde originalmente se tuvo el último contacto con ellos el pasado 22 de abril, los desaparecidos son Agustín Alberto Núñez Magaña, de 21 años, José Flores Rodríguez de 40 años y Sergio Cárdenas Córdoba de 24."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 449.342,
+            "r": 531.517,
+            "b": 398.836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            325
+          ]
+        }
+      ],
+      "orig": "'Tememos lo peor, no sabemos si han sido secuestrados o hayan sido víctimas de algún complot de parte de algún cliente, ya son veinte días de angustia, sólo pedimos a las autoridades que hagan su trabajo y si no pueden que nos digan, para pedir ayuda a las autoridades en los Estados Unidos', señaló Agustín Núñez Echeverría.",
+      "text": "'Tememos lo peor, no sabemos si han sido secuestrados o hayan sido víctimas de algún complot de parte de algún cliente, ya son veinte días de angustia, sólo pedimos a las autoridades que hagan su trabajo y si no pueden que nos digan, para pedir ayuda a las autoridades en los Estados Unidos', señaló Agustín Núñez Echeverría."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 383.702,
+            "r": 519.993,
+            "b": 333.193,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            269
+          ]
+        }
+      ],
+      "orig": "Cabe mencionar que los tres empresarios originarios de La Barca, Jalisco se dedicaban a la venta de joyería y tenían clientela en toda la zona norte del estado, la familia se ha dedicado por diez años a este negocio y nunca se habían visto ante una situación semejante.",
+      "text": "Cabe mencionar que los tres empresarios originarios de La Barca, Jalisco se dedicaban a la venta de joyería y tenían clientela en toda la zona norte del estado, la familia se ha dedicado por diez años a este negocio y nunca se habían visto ante una situación semejante."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 317.935,
+            "r": 528.071,
+            "b": 254.10900000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            371
+          ]
+        }
+      ],
+      "orig": "Asimismo manifestó que contaban con un lote superior a los 760 mil pesos en joyas y dinero en efectivo de las cobranzas que realizaron durante su recorrido que hacían de forma habitual desde Monclova, la Región Carbonífera y los Cinco Manantiales, puesto que apenas se dirigían a la ciudad de Piedras Negras para visitar a los clientes que tenían en la ciudad fronteriza.",
+      "text": "Asimismo manifestó que contaban con un lote superior a los 760 mil pesos en joyas y dinero en efectivo de las cobranzas que realizaron durante su recorrido que hacían de forma habitual desde Monclova, la Región Carbonífera y los Cinco Manantiales, puesto que apenas se dirigían a la ciudad de Piedras Negras para visitar a los clientes que tenían en la ciudad fronteriza."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 238.85900000000004,
+            "r": 529.105,
+            "b": 215.23299999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Viajaban a bordo de un vehículo Lupo en color rojo de modelo reciente, 4 puertas con placas de circulación FBM5804 del estado de Coahuila.",
+      "text": "Viajaban a bordo de un vehículo Lupo en color rojo de modelo reciente, 4 puertas con placas de circulación FBM5804 del estado de Coahuila."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 9:13 AM",
+      "text": "9/13/2019, 9:13 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

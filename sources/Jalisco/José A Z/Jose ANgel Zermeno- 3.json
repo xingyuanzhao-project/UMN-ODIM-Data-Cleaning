@@ -1,0 +1,2042 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Jose ANgel Zermeno- 3",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13053127515628537959,
+    "filename": "Jose ANgel Zermeno- 3.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.504,
+            "r": 62.043,
+            "b": 768.712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "3/28/2019",
+      "text": "3/28/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.594,
+            "t": 775.504,
+            "r": 477.219,
+            "b": 768.712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "La Jornada: Padre de menor desaparecida en Juárez inicia huelga de hambre",
+      "text": "La Jornada: Padre de menor desaparecida en Juárez inicia huelga de hambre"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.0,
+            "t": 751.6666666666666,
+            "r": 238.0,
+            "b": 707.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "ESTADOS",
+      "text": "ESTADOS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.75,
+            "t": 672.84,
+            "r": 331.242,
+            "b": 630.354,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "Familiares de niño asesinado acusan a las autoridades de Jalisco de no emitir Alerta Ámber",
+      "text": "Familiares de niño asesinado acusan a las autoridades de Jalisco de no emitir Alerta Ámber",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.75,
+            "t": 615.786,
+            "r": 295.739,
+            "b": 560.639,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "Padre de menor desaparecida en Juárez inicia huelga de hambre",
+      "text": "Padre de menor desaparecida en Juárez inicia huelga de hambre",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.75,
+            "t": 546.84,
+            "r": 476.75,
+            "b": 520.104,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "Señala 'indiferencia' del gobierno estatal y desintegración de un grupo de investigadores",
+      "text": "Señala 'indiferencia' del gobierno estatal y desintegración de un grupo de investigadores",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.75,
+            "t": 242.17599999999993,
+            "r": 502.338,
+            "b": 218.67100000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "La mañana de ayer José Luis Castillo se plantó fuera de la Fiscalía General del Estado de Chihuahua en Ciudad Juárez para exigir la localización de su hija, Esmeralda Castillo Rincón, desaparecida hace cinco años Foto Alejandro Bringas",
+      "text": "La mañana de ayer José Luis Castillo se plantó fuera de la Fiscalía General del Estado de Chihuahua en Ciudad Juárez para exigir la localización de su hija, Esmeralda Castillo Rincón, desaparecida hace cinco años Foto Alejandro Bringas"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 365.6666666666667,
+            "t": 376.33333333333337,
+            "r": 449.0,
+            "b": 351.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "medlo",
+      "text": "medlo"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 226.0,
+            "t": 359.0,
+            "r": 267.0,
+            "b": 342.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "quier",
+      "text": "quier"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 361.3333333333333,
+            "t": 349.33333333333337,
+            "r": 414.0,
+            "b": 337.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "mafinn",
+      "text": "mafinn"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 445.6666666666667,
+            "t": 347.0,
+            "r": 455.6666666666667,
+            "b": 337.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "n",
+      "text": "n"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 457.6666666666667,
+            "t": 346.33333333333337,
+            "r": 468.3333333333333,
+            "b": 338.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 120.254,
+            "t": 208.99,
+            "r": 215.171,
+            "b": 199.438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "RUBÉN VILLALPANDO",
+      "text": "RUBÉN VILLALPANDO"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.75,
+            "t": 150.60699999999997,
+            "r": 272.75,
+            "b": 140.84299999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Ciudad Juárez, Chih., 15 de junio.",
+      "text": "Ciudad Juárez, Chih., 15 de junio."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.75,
+            "t": 123.60699999999997,
+            "r": 502.42,
+            "b": 53.84299999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            418
+          ]
+        }
+      ],
+      "orig": "José  Luis  Castillo,  padre  de  Esmeralda  Castillo  Rincón,  quien  tenía  14  años cuando fue vista por última vez en el centro de esta localidad fronteriza, el 19 de mayo de 2009, inició una huelga de hambre fuera de la Fiscalía General del Estado en la zona norte, en protesta por la 'ineficacia' de las autoridades para localizar a jóvenes  desaparecidas, por falta de recursos  para  contratar  más  y  mejores",
+      "text": "José  Luis  Castillo,  padre  de  Esmeralda  Castillo  Rincón,  quien  tenía  14  años cuando fue vista por última vez en el centro de esta localidad fronteriza, el 19 de mayo de 2009, inició una huelga de hambre fuera de la Fiscalía General del Estado en la zona norte, en protesta por la 'ineficacia' de las autoridades para localizar a jóvenes  desaparecidas, por falta de recursos  para  contratar  más  y  mejores"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 349.625,
+            "t": 663.263,
+            "r": 384.2,
+            "b": 656.768,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Facebook",
+      "text": "Facebook"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 407.375,
+            "t": 663.263,
+            "r": 429.422,
+            "b": 656.768,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Twitter",
+      "text": "Twitter"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 452.375,
+            "t": 663.263,
+            "r": 475.38,
+            "b": 656.768,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Correo",
+      "text": "Correo"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 476.3333333333333,
+            "t": 748.0,
+            "r": 586.6666666666666,
+            "b": 716.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "LaJornada",
+      "text": "LaJornada"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 498.875,
+            "t": 663.263,
+            "r": 519.75,
+            "b": 656.768,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Más...",
+      "text": "Más..."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 438.5,
+            "t": 196.47399999999993,
+            "r": 502.333,
+            "b": 187.55899999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Corresponsal",
+      "text": "Corresponsal"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 384.5,
+            "t": 178.42599999999993,
+            "r": 504.542,
+            "b": 160.92100000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Periódico La Jornada Lunes 16 de junio de 2014, p. 27",
+      "text": "Periódico La Jornada Lunes 16 de junio de 2014, p. 27"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.50400000000002,
+            "r": 238.582,
+            "b": 15.711999999999989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2014/06/16/estados/027n1est#",
+      "text": "https://www.jornada.com.mx/2014/06/16/estados/027n1est#"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.50400000000002,
+            "r": 585.512,
+            "b": 15.711999999999989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/5",
+      "text": "1/5"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.504,
+            "r": 62.043,
+            "b": 768.712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "3/28/2019",
+      "text": "3/28/2019"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.594,
+            "t": 775.504,
+            "r": 477.219,
+            "b": 768.712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "La Jornada: Padre de menor desaparecida en Juárez inicia huelga de hambre",
+      "text": "La Jornada: Padre de menor desaparecida en Juárez inicia huelga de hambre"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.75,
+            "t": 759.607,
+            "r": 502.42,
+            "b": 734.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "investigadores,  y  por  la  'indiferencia'  del  gobernador  César  Duarte  y  sus colaboradores.",
+      "text": "investigadores,  y  por  la  'indiferencia'  del  gobernador  César  Duarte  y  sus colaboradores."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.75,
+            "t": 717.607,
+            "r": 502.42,
+            "b": 647.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            392
+          ]
+        }
+      ],
+      "orig": "La  mañana  de  este  domingo,  Día  del  Padre,  Castillo  se  instaló  frente  a  las oficinas  de  la  dependencia  para  comenzar  el  ayuno,  con  respaldo  de  su  esposa, Martha  Rincón;  integrantes  del  Comité  de  Madres  y  Familiares  de  Mujeres Desaparecidas en Ciudad Juárez, la Organización de la Sociedad Civil Centro para el Desarrollo Integral de la Mujer AC y activistas.",
+      "text": "La  mañana  de  este  domingo,  Día  del  Padre,  Castillo  se  instaló  frente  a  las oficinas  de  la  dependencia  para  comenzar  el  ayuno,  con  respaldo  de  su  esposa, Martha  Rincón;  integrantes  del  Comité  de  Madres  y  Familiares  de  Mujeres Desaparecidas en Ciudad Juárez, la Organización de la Sociedad Civil Centro para el Desarrollo Integral de la Mujer AC y activistas."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.75,
+            "t": 630.607,
+            "r": 502.584,
+            "b": 575.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            333
+          ]
+        }
+      ],
+      "orig": "Castillo  explicó  que  busca  respuestas  sobre  la  investigación  que  realizan  los agentes de la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género sobre la desaparición de Esmeralda, quien 'no está conmigo el Día del Padre, de la Madre ni en navidades. Ya son cinco años de sed de justicia'.",
+      "text": "Castillo  explicó  que  busca  respuestas  sobre  la  investigación  que  realizan  los agentes de la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género sobre la desaparición de Esmeralda, quien 'no está conmigo el Día del Padre, de la Madre ni en navidades. Ya son cinco años de sed de justicia'."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.75,
+            "t": 558.607,
+            "r": 501.693,
+            "b": 533.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "Afirmó que está comprobado que su hija 'no está muerta ni desaparecida; es víctima de una red de trata de personas y nadie aquí nos hace caso'.",
+      "text": "Afirmó que está comprobado que su hija 'no está muerta ni desaparecida; es víctima de una red de trata de personas y nadie aquí nos hace caso'."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.75,
+            "t": 516.607,
+            "r": 502.326,
+            "b": 476.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "Agregó que, por conducto de la Procuraduría General de la República logró que se ofreciera una recompensa de 1.5 millones de pesos para quien proporcione datos sobre la joven o sus presuntos captores.",
+      "text": "Agregó que, por conducto de la Procuraduría General de la República logró que se ofreciera una recompensa de 1.5 millones de pesos para quien proporcione datos sobre la joven o sus presuntos captores."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.75,
+            "t": 459.607,
+            "r": 502.496,
+            "b": 419.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "José Luis Castillo aseguró que el grupo de investigación que se había formado en  la  Fiscalía  Especializada  en  Atención  a  Mujeres  Víctimas  del  Delito  por Razones de Género 'se deshizo'.",
+      "text": "José Luis Castillo aseguró que el grupo de investigación que se había formado en  la  Fiscalía  Especializada  en  Atención  a  Mujeres  Víctimas  del  Delito  por Razones de Género 'se deshizo'."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.75,
+            "t": 402.607,
+            "r": 502.496,
+            "b": 347.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        }
+      ],
+      "orig": "'Esa fue la gota que derramó el vaso. Las personas que estaban en ese grupo ahora  están  de  guardaespaldas  de  varios  funcionarios,  entre  ellos  el  gobernador priísta  César  Duarte  Jáquez  y  el  fiscal  general  del  estado  (Jorge  González Nicolás)'.",
+      "text": "'Esa fue la gota que derramó el vaso. Las personas que estaban en ese grupo ahora  están  de  guardaespaldas  de  varios  funcionarios,  entre  ellos  el  gobernador priísta  César  Duarte  Jáquez  y  el  fiscal  general  del  estado  (Jorge  González Nicolás)'."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.75,
+            "t": 330.607,
+            "r": 502.42,
+            "b": 245.84299999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            464
+          ]
+        }
+      ],
+      "orig": "Recordó  que  en  2013  familiares  de  personas  ausentes  se  reunieron  con  el entonces  fiscal  Carlos  Manuel  Salas,  y  se  acordó  que  las  autoridades  aportarían más  recursos a la fiscalía especializada, no  revelarían  casos  a  medios  de comunicación u organizaciones no gubernamentales de la capital del estado, y los funcionarios  mostrarían  sensibilidad,  pues  'han  llamado  'paquetes'  a  nuestras hijas'. Sin embargo, dijo, no han cumplido.",
+      "text": "Recordó  que  en  2013  familiares  de  personas  ausentes  se  reunieron  con  el entonces  fiscal  Carlos  Manuel  Salas,  y  se  acordó  que  las  autoridades  aportarían más  recursos a la fiscalía especializada, no  revelarían  casos  a  medios  de comunicación u organizaciones no gubernamentales de la capital del estado, y los funcionarios  mostrarían  sensibilidad,  pues  'han  llamado  'paquetes'  a  nuestras hijas'. Sin embargo, dijo, no han cumplido."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.75,
+            "t": 228.60699999999997,
+            "r": 502.326,
+            "b": 188.84299999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            229
+          ]
+        }
+      ],
+      "orig": "Los  activistas  repartieron  volantes  con  recomendaciones  para  las  jóvenes, como usar con precaución las redes sociales, acudir en compañía de un adulto a pedir empleo y asegurarse de la seriedad de quienes ofrecen trabajo.",
+      "text": "Los  activistas  repartieron  volantes  con  recomendaciones  para  las  jóvenes, como usar con precaución las redes sociales, acudir en compañía de un adulto a pedir empleo y asegurarse de la seriedad de quienes ofrecen trabajo."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.75,
+            "t": 171.60699999999997,
+            "r": 502.326,
+            "b": 116.84299999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            274
+          ]
+        }
+      ],
+      "orig": "Según el Comité de Madres con Hijas Desaparecidas, en Ciudad Juárez hay alrededor de 200 desaparecidas; además, en el Servicio Médico Forense de Juárez hay 51 osamentas de mujeres sin identificar. La Fiscalía de la Mujer sólo tiene 96 expedientes de desaparición o ausencia.",
+      "text": "Según el Comité de Madres con Hijas Desaparecidas, en Ciudad Juárez hay alrededor de 200 desaparecidas; además, en el Servicio Médico Forense de Juárez hay 51 osamentas de mujeres sin identificar. La Fiscalía de la Mujer sólo tiene 96 expedientes de desaparición o ausencia."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.75,
+            "t": 99.60699999999997,
+            "r": 446.75,
+            "b": 89.84299999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "Autoridades alegan que activar el protocolo hubiera sido peligroso",
+      "text": "Autoridades alegan que activar el protocolo hubiera sido peligroso",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.75,
+            "t": 72.60699999999997,
+            "r": 216.834,
+            "b": 62.84299999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Es una excusa: ONG",
+      "text": "Es una excusa: ONG"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.75,
+            "t": 45.60699999999997,
+            "r": 282.834,
+            "b": 35.84299999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Juan Carlos G. Partida Corresponsal",
+      "text": "Juan Carlos G. Partida Corresponsal"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.50400000000002,
+            "r": 238.582,
+            "b": 15.711999999999989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2014/06/16/estados/027n1est#",
+      "text": "https://www.jornada.com.mx/2014/06/16/estados/027n1est#"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.50400000000002,
+            "r": 585.512,
+            "b": 15.711999999999989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2/5",
+      "text": "2/5"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.504,
+            "r": 62.043,
+            "b": 768.712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "3/28/2019",
+      "text": "3/28/2019"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 200.594,
+            "t": 775.504,
+            "r": 477.219,
+            "b": 768.712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "La Jornada: Padre de menor desaparecida en Juárez inicia huelga de hambre",
+      "text": "La Jornada: Padre de menor desaparecida en Juárez inicia huelga de hambre"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 127.273,
+            "t": 759.607,
+            "r": 268.273,
+            "b": 749.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Guadalajara, Jal., 15 de junio.",
+      "text": "Guadalajara, Jal., 15 de junio."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.75,
+            "t": 732.607,
+            "r": 502.326,
+            "b": 662.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            373
+          ]
+        }
+      ],
+      "orig": "Familiares  del  niño  José  Ángel  Zermeño  Rosales,  quien  desapareció  el  2  de junio y su cadáver fue encontrado cinco días después, semisepultado en un tiradero del  municipio  de  Tonalá,  presentaron  una  queja  ante  la  Comisión  Estatal  de Derechos Humanos (CEDHJ) contra las autoridades estatales porque se negaron a emitir una Alerta Ámber para localizarlo.",
+      "text": "Familiares  del  niño  José  Ángel  Zermeño  Rosales,  quien  desapareció  el  2  de junio y su cadáver fue encontrado cinco días después, semisepultado en un tiradero del  municipio  de  Tonalá,  presentaron  una  queja  ante  la  Comisión  Estatal  de Derechos Humanos (CEDHJ) contra las autoridades estatales porque se negaron a emitir una Alerta Ámber para localizarlo."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.75,
+            "t": 645.607,
+            "r": 502.42,
+            "b": 605.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            219
+          ]
+        }
+      ],
+      "orig": "El 2 de junio, José Ángel, de ocho años, salió de su casa en Lomas de Zalatitán alrededor de las 21:30 horas para ir a la tienda. Su madre, María de Jesús Rosales Barbosa, de 22 años, tiene otros dos niños más pequeños.",
+      "text": "El 2 de junio, José Ángel, de ocho años, salió de su casa en Lomas de Zalatitán alrededor de las 21:30 horas para ir a la tienda. Su madre, María de Jesús Rosales Barbosa, de 22 años, tiene otros dos niños más pequeños."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.75,
+            "t": 588.607,
+            "r": 502.25,
+            "b": 548.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "El  7  de  junio  el  cuerpo  del  menor  fue  hallado  bajo  escombros  en  un  predio junto al periférico y el Cerro de la Reina, con el cráneo destrozado por un objeto contundente, probablemente una roca.",
+      "text": "El  7  de  junio  el  cuerpo  del  menor  fue  hallado  bajo  escombros  en  un  predio junto al periférico y el Cerro de la Reina, con el cráneo destrozado por un objeto contundente, probablemente una roca."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.75,
+            "t": 531.607,
+            "r": 501.6,
+            "b": 506.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "La CEDHJ dio a conocer que un tío de José Ángel llamó a ese organismo para quejarse porque, afirmó, las autoridades violaron el protocolo de la Alerta Ámber.",
+      "text": "La CEDHJ dio a conocer que un tío de José Ángel llamó a ese organismo para quejarse porque, afirmó, las autoridades violaron el protocolo de la Alerta Ámber."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.75,
+            "t": 489.607,
+            "r": 502.584,
+            "b": 449.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "La Fiscalía General del Estado (FGE) adujo que no emitió la alerta 'porque, de acuerdo  con  el  protocolo  y  la  investigación  que  se  inició,  existía  riesgo  para  el menor en caso si se aplicaba ese mecanismo'.",
+      "text": "La Fiscalía General del Estado (FGE) adujo que no emitió la alerta 'porque, de acuerdo  con  el  protocolo  y  la  investigación  que  se  inició,  existía  riesgo  para  el menor en caso si se aplicaba ese mecanismo'."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.75,
+            "t": 432.607,
+            "r": 502.25,
+            "b": 392.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "Los criterios para emitir la alerta señalan que la víctima debe ser menor de 18 años  y  estar  en  peligro  inminente  por  sustracción,  ausencia,  desaparición  o  no localización, entre otros puntos.",
+      "text": "Los criterios para emitir la alerta señalan que la víctima debe ser menor de 18 años  y  estar  en  peligro  inminente  por  sustracción,  ausencia,  desaparición  o  no localización, entre otros puntos."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.75,
+            "t": 375.607,
+            "r": 502.496,
+            "b": 320.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            252
+          ]
+        }
+      ],
+      "orig": "Aunque  la  FGE  no  aclaró  qué  líneas  de  investigación  supuestamente  le impedían  emitir  la  Alerta  Ámber,  la  dependencia  tomó  declaración  a  Néstor Antonio Zermeño, padre de José Ángel, separado de la mamá del niño desde hace cinco años.",
+      "text": "Aunque  la  FGE  no  aclaró  qué  líneas  de  investigación  supuestamente  le impedían  emitir  la  Alerta  Ámber,  la  dependencia  tomó  declaración  a  Néstor Antonio Zermeño, padre de José Ángel, separado de la mamá del niño desde hace cinco años."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.75,
+            "t": 303.607,
+            "r": 502.326,
+            "b": 233.84299999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            343
+          ]
+        }
+      ],
+      "orig": "Juan  Manuel  Estrada,  presidente  de  la  Fundación  Find,  dedicada  a  localizar personas, sostuvo que la FGE debió activar la alerta el 3 de junio, cuando recibió la denuncia. 'No hay excusa, es una familia pobre, así que era improbable que se tratara de un secuestro. ¿A cuál sigilo se refieren si el niño fue hallado muerto?', preguntó.",
+      "text": "Juan  Manuel  Estrada,  presidente  de  la  Fundación  Find,  dedicada  a  localizar personas, sostuvo que la FGE debió activar la alerta el 3 de junio, cuando recibió la denuncia. 'No hay excusa, es una familia pobre, así que era improbable que se tratara de un secuestro. ¿A cuál sigilo se refieren si el niño fue hallado muerto?', preguntó."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.75,
+            "t": 216.322,
+            "r": 209.842,
+            "b": 204.11599999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Más De La Red",
+      "text": "Más De La Red",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.75,
+            "t": 187.59000000000003,
+            "r": 385.996,
+            "b": 176.60400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "After Losing 220lbs Precious Is Gorgeous Now!",
+      "text": "After Losing 220lbs Precious Is Gorgeous Now!",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.75,
+            "t": 167.65200000000004,
+            "r": 172.625,
+            "b": 160.93899999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "MedicareGranny",
+      "text": "MedicareGranny"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.75,
+            "t": 111.84000000000003,
+            "r": 470.746,
+            "b": 82.85400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "Here's How Minneapolis Residents Are Finding The Cheapest Local Pharmacy For Their Prescription",
+      "text": "Here's How Minneapolis Residents Are Finding The Cheapest Local Pharmacy For Their Prescription",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.75,
+            "t": 73.90200000000004,
+            "r": 193.162,
+            "b": 67.18899999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "RetailMeNot Rx Saver",
+      "text": "RetailMeNot Rx Saver"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 422.0,
+            "t": 211.42599999999993,
+            "r": 501.125,
+            "b": 204.42100000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Enlaces Patrocinados",
+      "text": "Enlaces Patrocinados"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.50400000000002,
+            "r": 238.582,
+            "b": 15.711999999999989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2014/06/16/estados/027n1est#",
+      "text": "https://www.jornada.com.mx/2014/06/16/estados/027n1est#"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.50400000000002,
+            "r": 585.512,
+            "b": 15.711999999999989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3/5",
+      "text": "3/5"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.33880615234375,
+            "t": 744.8354339599609,
+            "r": 234.01861572265625,
+            "b": 711.7515182495117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 109.77490234375,
+            "t": 510.2137451171875,
+            "r": 503.9544372558594,
+            "b": 246.721923828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 450.53070068359375,
+            "t": 743.0439529418945,
+            "r": 582.5499877929688,
+            "b": 719.9703750610352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 559.4640502929688,
+            "t": 672.5396423339844,
+            "r": 578.0979614257812,
+            "b": 653.4723510742188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    }
+  }
+}

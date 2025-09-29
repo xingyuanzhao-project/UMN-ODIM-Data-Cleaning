@@ -1,0 +1,1092 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "La Jornada_ Cuando desapareciste me mutilaron la vida, señala madre de una víctima",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 730426205900788554,
+    "filename": "La Jornada_ Cuando desapareciste me mutilaron la vida, señala madre de una víctima.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.915,
+            "t": 722.8170029101562,
+            "r": 289.151,
+            "b": 716.0450029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Al reportar, el MP siempre dice:",
+      "text": "Al reportar, el MP siempre dice:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 707.0590029101562,
+            "r": 243.533,
+            "b": 700.2870029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "'Seguro en algo andaban'",
+      "text": "'Seguro en algo andaban'",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 681.5270029101563,
+            "r": 306.916,
+            "b": 631.9790029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "'Cuando desapareciste me mutilaron la vida', señala madre de una víctima",
+      "text": "'Cuando desapareciste me mutilaron la vida', señala madre de una víctima",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 111.48,
+            "t": 613.1300029101562,
+            "r": 202.137,
+            "b": 606.9590029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "V B",
+      "text": "V B"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 350.22,
+            "t": 583.9730029101562,
+            "r": 496.134,
+            "b": 570.4410029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Periódico La Jornada Lunes 19 de septiembre de 2016, p. 12",
+      "text": "Periódico La Jornada Lunes 19 de septiembre de 2016, p. 12"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 558.9970029101562,
+            "r": 493.653,
+            "b": 525.9650029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "Los agentes del Ministerio Público en el país cuestionan, casi en su generalidad, a los padres, madres, esposos, hermanos, tíos o hermanos que acuden a denunciar la desaparición de un familiar: '¡Seguro en algo andaban!'",
+      "text": "Los agentes del Ministerio Público en el país cuestionan, casi en su generalidad, a los padres, madres, esposos, hermanos, tíos o hermanos que acuden a denunciar la desaparición de un familiar: '¡Seguro en algo andaban!'"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 506.47300291015625,
+            "r": 493.595,
+            "b": 446.42800291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            342
+          ]
+        }
+      ],
+      "orig": "Ante ese constante señalamiento apresurado, el representante de la Oficina en México  del  Alto  Comisionado  de  las  Naciones  Unidas  para  los  Derechos Humanos (Oacnudh), Jesús Peña, responde a los funcionarios públicos: '¡Sí, en algo  andaban…  estaban  en  su  casa,  en  su  trabajo,  en  una  fiesta  y  de  ahí  los fueron a sacar!'",
+      "text": "Ante ese constante señalamiento apresurado, el representante de la Oficina en México  del  Alto  Comisionado  de  las  Naciones  Unidas  para  los  Derechos Humanos (Oacnudh), Jesús Peña, responde a los funcionarios públicos: '¡Sí, en algo  andaban…  estaban  en  su  casa,  en  su  trabajo,  en  una  fiesta  y  de  ahí  los fueron a sacar!'"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 426.9360029101562,
+            "r": 312.702,
+            "b": 420.91600291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "La historia de Gloria Karina Oliva Ayala",
+      "text": "La historia de Gloria Karina Oliva Ayala",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 401.4240029101562,
+            "r": 493.612,
+            "b": 368.39200291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "'Karina no ha vuelto a casa desde el 7 de enero de 2015; fue a una entrevista de trabajo a un establecimiento de comida afuera del municipio de Ciudad Juárez, Chihuahua.",
+      "text": "'Karina no ha vuelto a casa desde el 7 de enero de 2015; fue a una entrevista de trabajo a un establecimiento de comida afuera del municipio de Ciudad Juárez, Chihuahua."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 348.9000029101562,
+            "r": 493.765,
+            "b": 315.8680029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "'La contrataron para presentarse al día siguiente; sin embargo, a la casa nunca llegó.  Un  empleado  fue  a  buscarla  para  preguntar  la  causa  de  su  ausencia,  y desde ahí empezaron las especulaciones.",
+      "text": "'La contrataron para presentarse al día siguiente; sin embargo, a la casa nunca llegó.  Un  empleado  fue  a  buscarla  para  preguntar  la  causa  de  su  ausencia,  y desde ahí empezaron las especulaciones."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 296.37500291015624,
+            "r": 493.753,
+            "b": 236.33100291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            364
+          ]
+        }
+      ],
+      "orig": "'Las  cámaras  de  seguridad  no  alcanzaron  a  distinguirla  después  de  su entrevista, y en la zona donde se le vio por última vez se notan los vestigios de lo que alguna vez fue un espacio comercial, escenario escalofriante que dejó a su paso  la  guerra  contra  el  narcotráfico',  señala  el  testimonio  escrito  hecho  por Eduardo, hermano de la víctima.",
+      "text": "'Las  cámaras  de  seguridad  no  alcanzaron  a  distinguirla  después  de  su entrevista, y en la zona donde se le vio por última vez se notan los vestigios de lo que alguna vez fue un espacio comercial, escenario escalofriante que dejó a su paso  la  guerra  contra  el  narcotráfico',  señala  el  testimonio  escrito  hecho  por Eduardo, hermano de la víctima."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 216.8380029101562,
+            "r": 493.735,
+            "b": 143.28800291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            452
+          ]
+        }
+      ],
+      "orig": "En el texto se lee: 'A Karina no se le echa de menos por su alegría. Se le extraña  por  ser  una  mujer  libre  y  auténtica,  adjetivos  que  casi  nunca  vienen juntos.  Sabe  mucho  de  sonrisas  y  poco  de  rencores.  La  armonía  física  que combinan  sus  ojos  cafés  claro,  su  complexión  delgada,  su  metro  sesenta  de estatura,  cabello  lacio  negro,  a  veces  de  colores,  como  su  personalidad,  hacen que su sencillez se agudice.",
+      "text": "En el texto se lee: 'A Karina no se le echa de menos por su alegría. Se le extraña  por  ser  una  mujer  libre  y  auténtica,  adjetivos  que  casi  nunca  vienen juntos.  Sabe  mucho  de  sonrisas  y  poco  de  rencores.  La  armonía  física  que combinan  sus  ojos  cafés  claro,  su  complexión  delgada,  su  metro  sesenta  de estatura,  cabello  lacio  negro,  a  veces  de  colores,  como  su  personalidad,  hacen que su sencillez se agudice."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 123.7950029101562,
+            "r": 493.73,
+            "b": 90.76300291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "'Cada principio de año simboliza un nuevo comienzo, pero el de Karina se quedó  pausado,  como  se  quedaron  pausados  sus  planes  de  juventud,  de conciertos de libertad...'",
+      "text": "'Cada principio de año simboliza un nuevo comienzo, pero el de Karina se quedó  pausado,  como  se  quedaron  pausados  sus  planes  de  juventud,  de conciertos de libertad...'"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 71.2710029101562,
+            "r": 493.642,
+            "b": 51.745002910156245,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "El de Irving Javier Mendoza de Alejandro, desaparecido el 17 de agosto de 2010, en Monterrey, Nuevo León, es otro caso.",
+      "text": "El de Irving Javier Mendoza de Alejandro, desaparecido el 17 de agosto de 2010, en Monterrey, Nuevo León, es otro caso."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 810.3640029101563,
+            "r": 493.818,
+            "b": 736.8130029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            440
+          ]
+        }
+      ],
+      "orig": "Su madre, Martha de Alejandro, escribió su historia. 'Hijo, me mutilaron la vida.  Hoy  te  hablo,  pero  no  me  contestas.  Cuando  entre  lágrimas  abrazo  tus fotos,  todas  mis  oraciones  son  en  tu  nombre.  Te  juro  que  tengo  miedo,  pero jamás dejaré de buscarte, mi amor. Cinco largos años han transcurrido, pero yo seguiré luchando para que se haga justicia. Verdad y castigo para los responsables, gritaré por todas partes'.",
+      "text": "Su madre, Martha de Alejandro, escribió su historia. 'Hijo, me mutilaron la vida.  Hoy  te  hablo,  pero  no  me  contestas.  Cuando  entre  lágrimas  abrazo  tus fotos,  todas  mis  oraciones  son  en  tu  nombre.  Te  juro  que  tengo  miedo,  pero jamás dejaré de buscarte, mi amor. Cinco largos años han transcurrido, pero yo seguiré luchando para que se haga justicia. Verdad y castigo para los responsables, gritaré por todas partes'."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 717.3210029101563,
+            "r": 493.589,
+            "b": 670.7830029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            296
+          ]
+        }
+      ],
+      "orig": "En el texto que preparó para un libro que relata las historias de 14 personas desaparecidas en México, la madre de Irving Javier relata: 'soñaba con ser piloto de avión cuando fuera grande. De pequeño me decía: 'te compraré todo lo que te hace falta'. A los 12 años decidió ya no ir a la escuela.",
+      "text": "En el texto que preparó para un libro que relata las historias de 14 personas desaparecidas en México, la madre de Irving Javier relata: 'soñaba con ser piloto de avión cuando fuera grande. De pequeño me decía: 'te compraré todo lo que te hace falta'. A los 12 años decidió ya no ir a la escuela."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 651.2900029101562,
+            "r": 493.782,
+            "b": 618.2580029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            234
+          ]
+        }
+      ],
+      "orig": "'A los 17 años, Irving se convirtió en padre de un niño, Uriel, quien vino a llenar  su  vida  y  a  cambiarlo  todo.  Todo  lo  que  hacia  estaba  enfocado  en  la felicidad de su hijo. Al año siguiente nació Ingrid, su otra hija...",
+      "text": "'A los 17 años, Irving se convirtió en padre de un niño, Uriel, quien vino a llenar  su  vida  y  a  cambiarlo  todo.  Todo  lo  que  hacia  estaba  enfocado  en  la felicidad de su hijo. Al año siguiente nació Ingrid, su otra hija..."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 598.7660029101562,
+            "r": 493.53,
+            "b": 538.7210029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            372
+          ]
+        }
+      ],
+      "orig": "'Su madrina recuerda que como dos semanas antes de que lo desaparecieran, andaba muy juguetón. Dos semanas después me llamó mi hermana para decirme que a Irving se lo llevaron unos hombres encapuchados. Fue terrible, pasaron las horas  y  los  días.  Siguen  pasando  los  años  y  aún  esperamos  noticias  de  él; queremos que regrese para que la familia esté completa'.",
+      "text": "'Su madrina recuerda que como dos semanas antes de que lo desaparecieran, andaba muy juguetón. Dos semanas después me llamó mi hermana para decirme que a Irving se lo llevaron unos hombres encapuchados. Fue terrible, pasaron las horas  y  los  días.  Siguen  pasando  los  años  y  aún  esperamos  noticias  de  él; queremos que regrese para que la familia esté completa'."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 519.2290029101563,
+            "r": 493.683,
+            "b": 486.19700291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "Estas  son  historias  del  libro La  presencia  de  la  ausencia ,  escritas  por  los familiares de los desaparecidos en el país, 'para que no se olviden, para que ellos no sean sólo números'.",
+      "text": "Estas  son  historias  del  libro La  presencia  de  la  ausencia ,  escritas  por  los familiares de los desaparecidos en el país, 'para que no se olviden, para que ellos no sean sólo números'."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 464.94000291015624,
+            "r": 201.778,
+            "b": 457.41600291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Más De La Red",
+      "text": "Más De La Red",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 413.249,
+            "t": 463.8160029101562,
+            "r": 496.206,
+            "b": 457.1380029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Enlaces Patrocinados",
+      "text": "Enlaces Patrocinados"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 438.94200291015625,
+            "r": 422.294,
+            "b": 432.92200291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Un ecuatoriano podrá participar y ganar millones esta semana",
+      "text": "Un ecuatoriano podrá participar y ganar millones esta semana",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 420.70000291015623,
+            "r": 151.589,
+            "b": 416.56200291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "theLotter.com",
+      "text": "theLotter.com"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 369.15900291015623,
+            "r": 437.008,
+            "b": 363.1400029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "Esta app de idiomas te ayudará a hablar en inglés en poco tiempo",
+      "text": "Esta app de idiomas te ayudará a hablar en inglés en poco tiempo",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 350.91800291015625,
+            "r": 126.929,
+            "b": 346.77900291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Babbel",
+      "text": "Babbel"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 299.3770029101563,
+            "r": 362.102,
+            "b": 293.3570029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Build a Beautiful City and Play With Your Friends",
+      "text": "Build a Beautiful City and Play With Your Friends",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 281.13500291015623,
+            "r": 235.26,
+            "b": 276.9970029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Forge of Empires - Free Online Game",
+      "text": "Forge of Empires - Free Online Game"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 229.59400291015618,
+            "r": 383.428,
+            "b": 223.57500291015617,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "¡No pierdas tu posibilidad de obtener una Green Card!",
+      "text": "¡No pierdas tu posibilidad de obtener una Green Card!",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 211.3530029101562,
+            "r": 147.555,
+            "b": 207.21500291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 433.438,
+            "t": 163.67700291015626,
+            "r": 479.698,
+            "b": 156.99900291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            11,
+            22
+          ]
+        }
+      ],
+      "orig": "GCLExperts por Taboola",
+      "text": "GCLExperts por Taboola"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 184.439,
+            "t": 803.2880029101563,
+            "r": 413.645,
+            "b": 782.6630029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203.",
+      "text": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.098661422729492,
+            "t": 795.1563339233398,
+            "r": 232.7235870361328,
+            "b": 753.7913131713867,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 433.5680847167969,
+            "t": 793.0377540588379,
+            "r": 566.2421875,
+            "b": 769.2652130126953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 542.7586669921875,
+            "t": 722.5090713500977,
+            "r": 560.9717407226562,
+            "b": 703.8577575683594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 3
+    }
+  }
+}

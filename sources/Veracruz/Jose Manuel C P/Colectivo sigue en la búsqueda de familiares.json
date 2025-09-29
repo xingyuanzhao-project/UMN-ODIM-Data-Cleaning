@@ -1,0 +1,92 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Colectivo sigue en la búsqueda de familiares",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5953439325874871556,
+    "filename": "Colectivo sigue en la búsqueda de familiares.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 687.0530075,
+            "r": 614.213,
+            "b": 6.996007500000019,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4074
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 30.273,
+            "t": 687.1148375,
+            "r": 632.273,
+            "b": 290.3398375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            4075,
+            6586
+          ]
+        }
+      ],
+      "orig": "Privacy error Your connection is not private Attackers might be trying to steal your information from liberal.com.mx (for example, passwords, messages, or credit cards). Learn more net::ERR_CERT_COMMON_NAME_INVALID Subject: www.liberal.com.mx Issuer: R13 Expires on: Dec 9, 2025 Current date: Sep 15, 2025 PEM encoded chain: -----BEGIN CERTIFICATE----MIIFADCCA+igAwIBAgISBS/nLpOikwUIT3msE9qCH79XMA0GCSqGSIb3DQEBCwUA MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD EwNSMTMwHhcNMjUwOTEwMTA0MzQ5WhcNMjUxMjA5MTA0MzQ4WjAdMRswGQYDVQQD ExJ3d3cubGliZXJhbC5jb20ubXgwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK AoIBAQDKeQCP0hOaONx88U/AQz5wmHnoWO+ILBsgWW57flqNin9e0pacX3dZmV09 S76+ZfvjbVtO/hqtUvg4lNWfa6QTN3aTaoZnPjup33JjIQiibU/a/wErxiyhL4x3 kbpPEoEgGj2KiPe9maqb2Ql9nV82we6hYSThvLsUDimLBn6B3671kLw1mqJWOi1m fSt3qhq0U0ZmB9LI5RAtBUhjZxEoGZS/S86kulXJraHSYdm8Ge+PWyZ94c5lEEru ETjS+znIAPc3p+io78zawNYLlcdA6rzFtuNhKflM2utVDIA5B/POPyTFYJM11WZG 8qOcNlUKfcdAh65hmT8LOZgCalR7AgMBAAGjggIiMIICHjAOBgNVHQ8BAf8EBAMC BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw HQYDVR0OBBYEFEXNngJzxAO0KGqZXfFAjYxIbyjkMB8GA1UdIwQYMBaAFOernw8s M6BT015PeMiyhA471pIzMDMGCCsGAQUFBwEBBCcwJTAjBggrBgEFBQcwAoYXaHR0 cDovL3IxMy5pLmxlbmNyLm9yZy8wHQYDVR0RBBYwFIISd3d3LmxpYmVyYWwuY29t Lm14MBMGA1UdIAQMMAowCAYGZ4EMAQIBMC4GA1UdHwQnMCUwI6AhoB+GHWh0dHA6 Ly9yMTMuYy5sZW5jci5vcmcvODguY3JsMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDw AHYAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGZM28KiAAABAMA RzBFAiEAp/j5vp3xfiO75ytSqMsFgdSuoKmCm0mVZ+tMD9V4p+cCIDtlM4kwycF2 6rPLqg7HyQLchk456KhhKEx9bRJcfKsLAHYApELFBklgYVSPD9TqnPt6LSZFTYep fy/fRVn2J086hFQAAAGZM28KiAAABAMARzBFAiA73/FqvXOYh3Z+N9eqX3NQHhl7 ETSbbCUjs9l2zUh87wIhANKdwVUTdY0E6AKITzxJuPW3ali1NIT8Dp3Dl+ZoBtJg MA0GCSqGSIb3DQEBCwUAA4IBAQBN90Ht5sikW9af1IrecFGSvX7K3haCNw825PGO 4OgUH6OsvB6wo87eWMpbCGa2wHKS4W6WnzYqm+zkj1gjSkLUmV80gkrrVsT+VvbL zwCkluwxQSAQ/j5yinvULY6/iyZKpbxVTGGAR+QVAelCKwMR+n29eeTT3sxx5URA wUm4xB3nmeQquY0qX/SKMtHoo6JZtcWWj9KIgvIh3f7S2pWCUugXYI6CdeGGllQg 92WOVa+vHhT65+m92DEcN+xnOEuvBh0Q5aW0A3mzCiAgVi16LAMlJjc36lzq3OU9 PbjG7X1peQMqel2KFBe6K+s38pyRDpG4X742FjPgaMJKvDb3 -----END CERTIFICATE----- -----BEGIN CERTIFICATE----- MIIFBTCCAu2gAwIBAgIQWgDyEtjUtIDzkkFX6imDBTANBgkqhkiG9w0BAQsFADBP MQswCQYDVQQGEwJVUzEpMCcGA1UEChMgSW50ZXJuZXQgU2VjdXJpdHkgUmVzZWFy Y2ggR3JvdXAxFTATBgNVBAMTDElTUkcgUm9vdCBYMTAeFw0yNDAzMTMwMDAwMDBa Fw0yNzAzMTIyMzU5NTlaMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBF bmNyeXB0MQwwCgYDVQQDEwNSMTMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK AoIBAQClZ3CN0FaBZBUXYc25BtStGZCMJlA3mBZjklTb2cyEBZPs0+wIG6BgUUNI fSvHSJaetC3ancgnO1ehn6vw1g7UDjDKb5ux0daknTI+WE41b0VYaHEX/D7YXYKg L7JRbLAaXbhZzjVlyIuhrxA3/+OcXcJJFzT/jCuLjfC8cSyTDB0FxLrHzarJXnzR yQH3nAP2/Apd9Np75tt2QnDr9E0i2gB3b9bJXxf92nUupVcM9upctuBzpWjPoXTi dYJ+EJ/B9aLrAek4sQpEzNPCifVJNYIKNLMc6YjCR06CDgo28EdPivEpBHXazeGa XP9enZiVuppD0EqiFwUBBDDTMrOPAgMBAAGjgfgwgfUwDgYDVR0PAQH/BAQDAgGG MB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDATASBgNVHRMBAf8ECDAGAQH/ AgEAMB0GA1UdDgQWBBTnq58PLDOgU9NeT3jIsoQOO9aSMzAfBgNVHSMEGDAWgBR5 tFnme7bl5AFzgAiIyBpY9umbbjAyBggrBgEFBQcBAQQmMCQwIgYIKwYBBQUHMAKG Fmh0dHA6Ly94MS5pLmxlbmNyLm9yZy8wEwYDVR0gBAwwCjAIBgZngQwBAgEwJwYD VR0fBCAwHjAcoBqgGIYWaHR0cDovL3gxLmMubGVuY3Iub3JnLzANBgkqhkiG9w0B AQsFAAOCAgEAUTdYUqEimzW7TbrOypLqCfL7VOwYf/Q79OH5cHLCZeggfQhDconl k7Kgh8b0vi+/XuWu7CN8n/UPeg1vo3G+taXirrytthQinAHGwc/UdbOygJa9zuBc VyqoH3CXTXDInT+8a+c3aEVMJ2St+pSn4ed+WkDp8ijsijvEyFwE47hulW0Ltzjg 9fOV5Pmrg/zxWbRuL+k0DBDHEJennCsAen7c35Pmx7jpmJ/HtgRhcnz0yjSBvyIw 6L1QIupkCv2SBODT/xDD3gfQQyKv6roV4G2EhfEyAsWpmojxjCUCGiyg97FvDtm/ NK2LSc9lybKxB73I2+P2G3CaWpvvpAiHCVu30jW8GCxKdfhsXtnIy2imskQqVZ2m 0Pmxobb28Tucr7xBK7CtwvPrb79os7u2XP3O5f9b/H66GNyRrglRXlrYjI1oGYL/ f4I1n/Sgusda6WvA6C190kxjU15Y12mHU4+BxyR9cx2hhGS9fAjMZKJss28qxvz6 Axu4CaDmRNZpK/pQrXF17yXCXkmEWgvSOEZy6Z9pcbLIVEGckV/iVeq0AOo2pkg9 p4QRIy0tK2diRENLSF2KysFwbY6B26BFeFs3v1sYVRhFW9nLkOrQVporCS0KyZmf wVD89qSTlnctLcZnIavjKsKUu1nA1iU0yYMdYepKR7lWbnwhdx3ewok= -----END CERTIFICATE----- -----BEGIN CERTIFICATE----- MIIFazCCA1OgAwIBAgIRAIIQz7DSQONZRGPgu2OCiwAwDQYJKoZIhvcNAQELBQAw TzELMAkGA1UEBhMCVVMxKTAnBgNVBAoTIEludGVybmV0IFNlY3VyaXR5IFJlc2Vh cmNoIEdyb3VwMRUwEwYDVQQDEwxJU1JHIFJvb3QgWDEwHhcNMTUwNjA0MTEwNDM4 WhcNMzUwNjA0MTEwNDM4WjBPMQswCQYDVQQGEwJVUzEpMCcGA1UEChMgSW50ZXJu ZXQgU2VjdXJpdHkgUmVzZWFyY2ggR3JvdXAxFTATBgNVBAMTDElTUkcgUm9vdCBY MTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAK3oJHP0FDfzm54rVygc h77ct984kIxuPOZXoHj3dcKi/vVqbvYATyjb3miGbESTtrFj/RQSa78f0uoxmyF+ 0TM8ukj13Xnfs7j/EvEhmkvBioZxaUpmZmyPfjxwv60pIgbz5MDmgK7iS4+3mX6U A5/TR5d8mUgjU+g4rk8Kb4Mu0UlXjIB0ttov0DiNewNwIRt18jA8+o+u3dpjq+sW T8KOEUt+zwvo/7V3LvSye0rgTBIlDHCNAymg4VMk7BPZ7hm/ELNKjD+Jo2FR3qyH B5T0Y3HsLuJvW5iB4YlcNHlsdu87kGJ55tukmi8mxdAQ4Q7e2RCOFvu396j3x+UC B5iPNgiV5+I3lg02dZ77DnKxHZu8A/lJBdiB3QW0KtZB6awBdpUKD9jf1b0SHzUv KBds0pjBqAlkd25HN7rOrFleaJ1/ctaJxQZBKT5ZPt0m9STJEadao0xAH0ahmbWn OlFuhjuefXKnEgV4We0+UXgVCwOPjdAvBbI+e0ocS3MFEvzG6uBQE3xDk3SzynTn jh8BCNAw1FtxNrQHusEwMFxIt4I7mKZ9YIqioymCzLq9gwQbooMDQaHWBfEbwrbw qHyGO0aoSCqI3Haadr8faqU9GY/rOPNk3sgrDQoo//fb4hVC1CLQJ13hef4Y53CI rU7m2Ys6xt0nUW7/vGT1M0NPAgMBAAGjQjBAMA4GA1UdDwEB/wQEAwIBBjAPBgNV HRMBAf8EBTADAQH/MB0GA1UdDgQWBBR5tFnme7bl5AFzgAiIyBpY9umbbjANBgkq hkiG9w0BAQsFAAOCAgEAVR9YqbyyqFDQDLHYGmkgJykIrGF1XIpu+ILlaS/V9lZL ubhzEFnTIZd+50xx+7LSYK05qAvqFyFWhfFQDlnrzuBZ6brJFe+GnY+EgPbk6ZGQ 3BebYhtF8GaV0nxvwuo77x/Py9auJ/GpsMiu/X1+mvoiBOv/2X/qkSsisRcOj/KK NFtY2PwByVS5uCbMiogziUwthDyC3+6WVwW6LLv3xLfHTjuCvjHIInNzktHCgKQ5 ORAzI4JMPJ+GslWYHb4phowim57iaztXOoJwTdwJx4nLCgdNbOhdjsnvzqvHu7Ur TkXWStAmzOVyyghqpZXjFaH3pO3JLF+l+/+sKAIuvtd7u+Nxe5AW0wdeRlN8NwdC jNPElpzVmbUq4JUagEiuTDkHzsxHpFKVK7q4+63SM1N95R1NbdWhscdCb+ZAJzVc oyi3B43njTOQ5yOf+1CceWxG1bQVs5ZufpsMljq4Ui0/1lvh+wjChP4kqKOJ2qxq 4RgqsahDYVvTH9w7jXbyLeiNdd8XM2w9U/t7y0Ff/9yi0GE44Za4rF2LN9d11TPA mRGunUHBcnWEvgJBQl9nJEiU0Zsnvgc/ubhPgXRR4Xq37Z0j4r7g1SgEEzwxA57d emyPxgcYxn/eR44/KJ4EBs+lVDR3veyJm+kXQ99b21/+jh5Xos1AnX5iItreGCc= -----END CERTIFICATE----Certificate Transparency: SCT Cloudflare 'Nimbus2025' (Embedded in certificate, Verified) SCT DigiCert 'Sphinx2025h2' Log (Embedded in certificate, Verified) Warnings may be common while websites update their security. This should improve soon. Help improve security on the web for everyone by sending URLs of some pages you visit, limited system information, and some page content to Google. Privacy policy Turn on enhanced protection to get Chrome's highest level of security Back to safety Advanced This server could not prove that it is liberal.com.mx ; its security certificate is from www.liberal.com.mx . This may be caused by a misconfiguration or an attacker intercepting your connection. Proceed to liberal.com.mx (unsafe)",
+      "text": "Privacy error Your connection is not private Attackers might be trying to steal your information from liberal.com.mx (for example, passwords, messages, or credit cards). Learn more net::ERR_CERT_COMMON_NAME_INVALID Subject: www.liberal.com.mx Issuer: R13 Expires on: Dec 9, 2025 Current date: Sep 15, 2025 PEM encoded chain: -----BEGIN CERTIFICATE----MIIFADCCA+igAwIBAgISBS/nLpOikwUIT3msE9qCH79XMA0GCSqGSIb3DQEBCwUA MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD EwNSMTMwHhcNMjUwOTEwMTA0MzQ5WhcNMjUxMjA5MTA0MzQ4WjAdMRswGQYDVQQD ExJ3d3cubGliZXJhbC5jb20ubXgwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK AoIBAQDKeQCP0hOaONx88U/AQz5wmHnoWO+ILBsgWW57flqNin9e0pacX3dZmV09 S76+ZfvjbVtO/hqtUvg4lNWfa6QTN3aTaoZnPjup33JjIQiibU/a/wErxiyhL4x3 kbpPEoEgGj2KiPe9maqb2Ql9nV82we6hYSThvLsUDimLBn6B3671kLw1mqJWOi1m fSt3qhq0U0ZmB9LI5RAtBUhjZxEoGZS/S86kulXJraHSYdm8Ge+PWyZ94c5lEEru ETjS+znIAPc3p+io78zawNYLlcdA6rzFtuNhKflM2utVDIA5B/POPyTFYJM11WZG 8qOcNlUKfcdAh65hmT8LOZgCalR7AgMBAAGjggIiMIICHjAOBgNVHQ8BAf8EBAMC BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw HQYDVR0OBBYEFEXNngJzxAO0KGqZXfFAjYxIbyjkMB8GA1UdIwQYMBaAFOernw8s M6BT015PeMiyhA471pIzMDMGCCsGAQUFBwEBBCcwJTAjBggrBgEFBQcwAoYXaHR0 cDovL3IxMy5pLmxlbmNyLm9yZy8wHQYDVR0RBBYwFIISd3d3LmxpYmVyYWwuY29t Lm14MBMGA1UdIAQMMAowCAYGZ4EMAQIBMC4GA1UdHwQnMCUwI6AhoB+GHWh0dHA6 Ly9yMTMuYy5sZW5jci5vcmcvODguY3JsMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDw AHYAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGZM28KiAAABAMA RzBFAiEAp/j5vp3xfiO75ytSqMsFgdSuoKmCm0mVZ+tMD9V4p+cCIDtlM4kwycF2 6rPLqg7HyQLchk456KhhKEx9bRJcfKsLAHYApELFBklgYVSPD9TqnPt6LSZFTYep fy/fRVn2J086hFQAAAGZM28KiAAABAMARzBFAiA73/FqvXOYh3Z+N9eqX3NQHhl7 ETSbbCUjs9l2zUh87wIhANKdwVUTdY0E6AKITzxJuPW3ali1NIT8Dp3Dl+ZoBtJg MA0GCSqGSIb3DQEBCwUAA4IBAQBN90Ht5sikW9af1IrecFGSvX7K3haCNw825PGO 4OgUH6OsvB6wo87eWMpbCGa2wHKS4W6WnzYqm+zkj1gjSkLUmV80gkrrVsT+VvbL zwCkluwxQSAQ/j5yinvULY6/iyZKpbxVTGGAR+QVAelCKwMR+n29eeTT3sxx5URA wUm4xB3nmeQquY0qX/SKMtHoo6JZtcWWj9KIgvIh3f7S2pWCUugXYI6CdeGGllQg 92WOVa+vHhT65+m92DEcN+xnOEuvBh0Q5aW0A3mzCiAgVi16LAMlJjc36lzq3OU9 PbjG7X1peQMqel2KFBe6K+s38pyRDpG4X742FjPgaMJKvDb3 -----END CERTIFICATE----- -----BEGIN CERTIFICATE----- MIIFBTCCAu2gAwIBAgIQWgDyEtjUtIDzkkFX6imDBTANBgkqhkiG9w0BAQsFADBP MQswCQYDVQQGEwJVUzEpMCcGA1UEChMgSW50ZXJuZXQgU2VjdXJpdHkgUmVzZWFy Y2ggR3JvdXAxFTATBgNVBAMTDElTUkcgUm9vdCBYMTAeFw0yNDAzMTMwMDAwMDBa Fw0yNzAzMTIyMzU5NTlaMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBF bmNyeXB0MQwwCgYDVQQDEwNSMTMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK AoIBAQClZ3CN0FaBZBUXYc25BtStGZCMJlA3mBZjklTb2cyEBZPs0+wIG6BgUUNI fSvHSJaetC3ancgnO1ehn6vw1g7UDjDKb5ux0daknTI+WE41b0VYaHEX/D7YXYKg L7JRbLAaXbhZzjVlyIuhrxA3/+OcXcJJFzT/jCuLjfC8cSyTDB0FxLrHzarJXnzR yQH3nAP2/Apd9Np75tt2QnDr9E0i2gB3b9bJXxf92nUupVcM9upctuBzpWjPoXTi dYJ+EJ/B9aLrAek4sQpEzNPCifVJNYIKNLMc6YjCR06CDgo28EdPivEpBHXazeGa XP9enZiVuppD0EqiFwUBBDDTMrOPAgMBAAGjgfgwgfUwDgYDVR0PAQH/BAQDAgGG MB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDATASBgNVHRMBAf8ECDAGAQH/ AgEAMB0GA1UdDgQWBBTnq58PLDOgU9NeT3jIsoQOO9aSMzAfBgNVHSMEGDAWgBR5 tFnme7bl5AFzgAiIyBpY9umbbjAyBggrBgEFBQcBAQQmMCQwIgYIKwYBBQUHMAKG Fmh0dHA6Ly94MS5pLmxlbmNyLm9yZy8wEwYDVR0gBAwwCjAIBgZngQwBAgEwJwYD VR0fBCAwHjAcoBqgGIYWaHR0cDovL3gxLmMubGVuY3Iub3JnLzANBgkqhkiG9w0B AQsFAAOCAgEAUTdYUqEimzW7TbrOypLqCfL7VOwYf/Q79OH5cHLCZeggfQhDconl k7Kgh8b0vi+/XuWu7CN8n/UPeg1vo3G+taXirrytthQinAHGwc/UdbOygJa9zuBc VyqoH3CXTXDInT+8a+c3aEVMJ2St+pSn4ed+WkDp8ijsijvEyFwE47hulW0Ltzjg 9fOV5Pmrg/zxWbRuL+k0DBDHEJennCsAen7c35Pmx7jpmJ/HtgRhcnz0yjSBvyIw 6L1QIupkCv2SBODT/xDD3gfQQyKv6roV4G2EhfEyAsWpmojxjCUCGiyg97FvDtm/ NK2LSc9lybKxB73I2+P2G3CaWpvvpAiHCVu30jW8GCxKdfhsXtnIy2imskQqVZ2m 0Pmxobb28Tucr7xBK7CtwvPrb79os7u2XP3O5f9b/H66GNyRrglRXlrYjI1oGYL/ f4I1n/Sgusda6WvA6C190kxjU15Y12mHU4+BxyR9cx2hhGS9fAjMZKJss28qxvz6 Axu4CaDmRNZpK/pQrXF17yXCXkmEWgvSOEZy6Z9pcbLIVEGckV/iVeq0AOo2pkg9 p4QRIy0tK2diRENLSF2KysFwbY6B26BFeFs3v1sYVRhFW9nLkOrQVporCS0KyZmf wVD89qSTlnctLcZnIavjKsKUu1nA1iU0yYMdYepKR7lWbnwhdx3ewok= -----END CERTIFICATE----- -----BEGIN CERTIFICATE----- MIIFazCCA1OgAwIBAgIRAIIQz7DSQONZRGPgu2OCiwAwDQYJKoZIhvcNAQELBQAw TzELMAkGA1UEBhMCVVMxKTAnBgNVBAoTIEludGVybmV0IFNlY3VyaXR5IFJlc2Vh cmNoIEdyb3VwMRUwEwYDVQQDEwxJU1JHIFJvb3QgWDEwHhcNMTUwNjA0MTEwNDM4 WhcNMzUwNjA0MTEwNDM4WjBPMQswCQYDVQQGEwJVUzEpMCcGA1UEChMgSW50ZXJu ZXQgU2VjdXJpdHkgUmVzZWFyY2ggR3JvdXAxFTATBgNVBAMTDElTUkcgUm9vdCBY MTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAK3oJHP0FDfzm54rVygc h77ct984kIxuPOZXoHj3dcKi/vVqbvYATyjb3miGbESTtrFj/RQSa78f0uoxmyF+ 0TM8ukj13Xnfs7j/EvEhmkvBioZxaUpmZmyPfjxwv60pIgbz5MDmgK7iS4+3mX6U A5/TR5d8mUgjU+g4rk8Kb4Mu0UlXjIB0ttov0DiNewNwIRt18jA8+o+u3dpjq+sW T8KOEUt+zwvo/7V3LvSye0rgTBIlDHCNAymg4VMk7BPZ7hm/ELNKjD+Jo2FR3qyH B5T0Y3HsLuJvW5iB4YlcNHlsdu87kGJ55tukmi8mxdAQ4Q7e2RCOFvu396j3x+UC B5iPNgiV5+I3lg02dZ77DnKxHZu8A/lJBdiB3QW0KtZB6awBdpUKD9jf1b0SHzUv KBds0pjBqAlkd25HN7rOrFleaJ1/ctaJxQZBKT5ZPt0m9STJEadao0xAH0ahmbWn OlFuhjuefXKnEgV4We0+UXgVCwOPjdAvBbI+e0ocS3MFEvzG6uBQE3xDk3SzynTn jh8BCNAw1FtxNrQHusEwMFxIt4I7mKZ9YIqioymCzLq9gwQbooMDQaHWBfEbwrbw qHyGO0aoSCqI3Haadr8faqU9GY/rOPNk3sgrDQoo//fb4hVC1CLQJ13hef4Y53CI rU7m2Ys6xt0nUW7/vGT1M0NPAgMBAAGjQjBAMA4GA1UdDwEB/wQEAwIBBjAPBgNV HRMBAf8EBTADAQH/MB0GA1UdDgQWBBR5tFnme7bl5AFzgAiIyBpY9umbbjANBgkq hkiG9w0BAQsFAAOCAgEAVR9YqbyyqFDQDLHYGmkgJykIrGF1XIpu+ILlaS/V9lZL ubhzEFnTIZd+50xx+7LSYK05qAvqFyFWhfFQDlnrzuBZ6brJFe+GnY+EgPbk6ZGQ 3BebYhtF8GaV0nxvwuo77x/Py9auJ/GpsMiu/X1+mvoiBOv/2X/qkSsisRcOj/KK NFtY2PwByVS5uCbMiogziUwthDyC3+6WVwW6LLv3xLfHTjuCvjHIInNzktHCgKQ5 ORAzI4JMPJ+GslWYHb4phowim57iaztXOoJwTdwJx4nLCgdNbOhdjsnvzqvHu7Ur TkXWStAmzOVyyghqpZXjFaH3pO3JLF+l+/+sKAIuvtd7u+Nxe5AW0wdeRlN8NwdC jNPElpzVmbUq4JUagEiuTDkHzsxHpFKVK7q4+63SM1N95R1NbdWhscdCb+ZAJzVc oyi3B43njTOQ5yOf+1CceWxG1bQVs5ZufpsMljq4Ui0/1lvh+wjChP4kqKOJ2qxq 4RgqsahDYVvTH9w7jXbyLeiNdd8XM2w9U/t7y0Ff/9yi0GE44Za4rF2LN9d11TPA mRGunUHBcnWEvgJBQl9nJEiU0Zsnvgc/ubhPgXRR4Xq37Z0j4r7g1SgEEzwxA57d emyPxgcYxn/eR44/KJ4EBs+lVDR3veyJm+kXQ99b21/+jh5Xos1AnX5iItreGCc= -----END CERTIFICATE----Certificate Transparency: SCT Cloudflare 'Nimbus2025' (Embedded in certificate, Verified) SCT DigiCert 'Sphinx2025h2' Log (Embedded in certificate, Verified) Warnings may be common while websites update their security. This should improve soon. Help improve security on the web for everyone by sending URLs of some pages you visit, limited system information, and some page content to Google. Privacy policy Turn on enhanced protection to get Chrome's highest level of security Back to safety Advanced This server could not prove that it is liberal.com.mx ; its security certificate is from www.liberal.com.mx . This may be caused by a misconfiguration or an attacker intercepting your connection. Proceed to liberal.com.mx (unsafe)"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 620.9889526367188,
+        "height": 725.0234375
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 2
+    }
+  }
+}

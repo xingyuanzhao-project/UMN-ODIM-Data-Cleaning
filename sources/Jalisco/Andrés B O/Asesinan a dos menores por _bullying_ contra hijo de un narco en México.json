@@ -1,0 +1,1201 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Asesinan a dos menores por _bullying_ contra hijo de un narco en México",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 16862730088855617418,
+    "filename": "Asesinan a dos menores por _bullying_ contra hijo de un narco en México.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 256.285,
+            "t": 799.3790029101563,
+            "r": 339.259,
+            "b": 793.8750029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "NARCOTRÁFICO",
+      "text": "NARCOTRÁFICO"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 132.923,
+            "t": 760.3250029101563,
+            "r": 442.202,
+            "b": 701.2960029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "Asesinan a dos menores por \"bullying\" contra hijo de un narco en México",
+      "text": "Asesinan a dos menores por \"bullying\" contra hijo de un narco en México",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 132.923,
+            "t": 682.2070029101562,
+            "r": 455.597,
+            "b": 636.1130029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "Dos jóvenes de 15 años fueron asesinados en Jalisco en venganza por la burla cometida contra el hijo de un miembro del cártel de Sinaloa.",
+      "text": "Dos jóvenes de 15 años fueron asesinados en Jalisco en venganza por la burla cometida contra el hijo de un miembro del cártel de Sinaloa."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 182.446,
+            "t": 610.2910029101563,
+            "r": 260.34,
+            "b": 604.7870029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "UNIVISION.COM",
+      "text": "UNIVISION.COM"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 182.446,
+            "t": 589.9320029101563,
+            "r": 282.274,
+            "b": 585.6080029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "3 JUL 2013 - 2:30 AM EDT",
+      "text": "3 JUL 2013 - 2:30 AM EDT"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 132.923,
+            "t": 550.1630029101563,
+            "r": 175.587,
+            "b": 545.8390029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "COMPARTE",
+      "text": "COMPARTE"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.007,
+            "t": 210.67100291015618,
+            "r": 523.638,
+            "b": 189.37500291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "Luis Antonio Ortiz y Andrés Barba tenían 15 años. La imágenes fueron tomadas de la cha emitida por las autoridades que lanzaron una alerta Amber.",
+      "text": "Luis Antonio Ortiz y Andrés Barba tenían 15 años. La imágenes fueron tomadas de la cha emitida por las autoridades que lanzaron una alerta Amber."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.007,
+            "t": 176.1550029101562,
+            "r": 163.787,
+            "b": 169.86600291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Crédito: Univision.com",
+      "text": "Crédito: Univision.com"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 132.923,
+            "t": 138.95500291015628,
+            "r": 344.315,
+            "b": 131.83600291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Los hechos ocurrieron en Jalisco",
+      "text": "Los hechos ocurrieron en Jalisco",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 132.923,
+            "t": 107.44000291015618,
+            "r": 462.653,
+            "b": 41.79400291015622,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 132.923,
+            "t": 807.5150029101562,
+            "r": 447.656,
+            "b": 761.3780029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            191,
+            295
+          ]
+        }
+      ],
+      "orig": "Los cuerpos de dos jóvenes de 15 años reportados como desaparecidos hace más de una semana en el estado mexicano de Jalisco fueron localizados el martes enterrados en una zona boscosa en las afueras de Guadalajara, capital estatal, informó el scal Luis Carlos Nájera, según The Associated Press.",
+      "text": "Los cuerpos de dos jóvenes de 15 años reportados como desaparecidos hace más de una semana en el estado mexicano de Jalisco fueron localizados el martes enterrados en una zona boscosa en las afueras de Guadalajara, capital estatal, informó el scal Luis Carlos Nájera, según The Associated Press."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 132.923,
+            "t": 736.9820029101562,
+            "r": 385.431,
+            "b": 729.8640029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Opina sobre esta nota en nuestro Foros.",
+      "text": "Opina sobre esta nota en nuestro Foros.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 132.923,
+            "t": 705.4680029101562,
+            "r": 459.916,
+            "b": 530.2710029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            349
+          ]
+        }
+      ],
+      "orig": "Los cadáveres de los menores Luis Antonio Ortiz y Andrés Barba, quienes desaparecieron el pasado 21 de junio en el centro comercial 'Plaza La Ciudadela' en el municipio de Zapopan, fueron hallados enterrados en el predio La Cebada, ubicado en el Bosque de la Primavera, reportó el diario Excélsior. (FGE), el móvil del caso apunta hacia una venganza",
+      "text": "Los cadáveres de los menores Luis Antonio Ortiz y Andrés Barba, quienes desaparecieron el pasado 21 de junio en el centro comercial 'Plaza La Ciudadela' en el municipio de Zapopan, fueron hallados enterrados en el predio La Cebada, ubicado en el Bosque de la Primavera, reportó el diario Excélsior. (FGE), el móvil del caso apunta hacia una venganza"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 132.923,
+            "t": 556.8990029101562,
+            "r": 448.619,
+            "b": 432.72600291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            253
+          ]
+        }
+      ],
+      "orig": "Para Luis Carlos Nájera, Fiscal General del Estado por una situación de bullying o violencia escolar contra un menor de edad, el cual fue identicado como familiar del extinto capo Ignacio \"Nacho\" Coronel Villarreal, aseguró el sitio web de El Universal.",
+      "text": "Para Luis Carlos Nájera, Fiscal General del Estado por una situación de bullying o violencia escolar contra un menor de edad, el cual fue identicado como familiar del extinto capo Ignacio \"Nacho\" Coronel Villarreal, aseguró el sitio web de El Universal."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 132.923,
+            "t": 408.3300029101562,
+            "r": 460.173,
+            "b": 245.13800291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            356
+          ]
+        }
+      ],
+      "orig": "Los detalles ofrecidos el martes por el scal general de Jalisco indican que los adolescentes hallados muertos, maltrataban a su compañero de escuela quien resultó ser uno de los hijos de José Ángel Carrasco Coronel, alías 'El Changel', y sobrino del abatido narcotracante 'Nacho' Coronel, quien fuera uno de los líderes del Cártel de Sinaloa, armó Proceso.",
+      "text": "Los detalles ofrecidos el martes por el scal general de Jalisco indican que los adolescentes hallados muertos, maltrataban a su compañero de escuela quien resultó ser uno de los hijos de José Ángel Carrasco Coronel, alías 'El Changel', y sobrino del abatido narcotracante 'Nacho' Coronel, quien fuera uno de los líderes del Cártel de Sinaloa, armó Proceso."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 132.923,
+            "t": 310.78400291015623,
+            "r": 462.211,
+            "b": 182.10900291015628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 132.923,
+            "t": 169.71900291015618,
+            "r": 454.086,
+            "b": 72.55800291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            142,
+            331
+          ]
+        }
+      ],
+      "orig": "detenido en la Ciudad de México hace varios meses Los muchachos fueron engañados, dice scal Esta información está basada en las declaraciones de un menor de edad (de 17 años) que fue detenido al estar presuntamente involucrado en la desaparición y muerte de los muchachos asesinados. La Fiscalía General del Estado (FGE) que conrmó",
+      "text": "detenido en la Ciudad de México hace varios meses Los muchachos fueron engañados, dice scal Esta información está basada en las declaraciones de un menor de edad (de 17 años) que fue detenido al estar presuntamente involucrado en la desaparición y muerte de los muchachos asesinados. La Fiscalía General del Estado (FGE) que conrmó"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 132.923,
+            "t": 60.16800291015625,
+            "r": 456.052,
+            "b": 53.04900291015622,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 132.923,
+            "t": 807.5150029101562,
+            "r": 460.391,
+            "b": 374.1980029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            51,
+            976
+          ]
+        }
+      ],
+      "orig": "este martes el hallazgo de los cadáveres de ambos, detalló que fueron asesinados pocas horas después de haber sido privados de su libertad el pasado viernes 21 de junio. Al respecto, el scal general de Jalisco, Luis Carlos Nájera, armó que los muchachos subieron por su propia voluntad al taxi en el que fueron transportados hasta el lugar de su muerte, como muestran los videos de seguridad del centro comercial del que fueron sustraídos, aunque fueron llevados con engaños. 'Estos dos jóvenes son privados de su libertad, son llevados bajo engaño a una de las ncas de este conjunto habitacional denominado La Cebada y en esa nca se les priva de la vida', agregó Nájera, según el sitio web de Excélsior. Según Proceso, Luis Carlos Nájera mostró a los reporteros la imagen de los dos adolescentes en el momento en que caminaban por la plaza en compañía de otro joven, al que se señala como el responsable de citar a los dos muchachos y quien actualmente se encuentra detenido.",
+      "text": "este martes el hallazgo de los cadáveres de ambos, detalló que fueron asesinados pocas horas después de haber sido privados de su libertad el pasado viernes 21 de junio. Al respecto, el scal general de Jalisco, Luis Carlos Nájera, armó que los muchachos subieron por su propia voluntad al taxi en el que fueron transportados hasta el lugar de su muerte, como muestran los videos de seguridad del centro comercial del que fueron sustraídos, aunque fueron llevados con engaños. 'Estos dos jóvenes son privados de su libertad, son llevados bajo engaño a una de las ncas de este conjunto habitacional denominado La Cebada y en esa nca se les priva de la vida', agregó Nájera, según el sitio web de Excélsior. Según Proceso, Luis Carlos Nájera mostró a los reporteros la imagen de los dos adolescentes en el momento en que caminaban por la plaza en compañía de otro joven, al que se señala como el responsable de citar a los dos muchachos y quien actualmente se encuentra detenido."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 132.923,
+            "t": 349.80200291015626,
+            "r": 401.242,
+            "b": 342.68400291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Los contactaron a través de redes sociales",
+      "text": "Los contactaron a través de redes sociales",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 132.923,
+            "t": 318.28800291015625,
+            "r": 457.292,
+            "b": 53.04900291015622,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            610
+          ]
+        }
+      ],
+      "orig": "Añadió que el detenido los había contactado a través de redes sociales y los invitó a formar parte de un grupo delictivo. Después de un tiempo, el joven los convenció de que se vieran en el centro comercial. Luis Antonio y Andrés dijeron a sus padres que irían al cine, y que luego de la función acudirían al colegio en el que estudiaban. No obstante ya no los volvieron a ver, publicó el diario El Universal. El rotativo agrega que tras la desaparición de los jóvenes sus familiares hicieron una ardua labor de búsqueda a través de Facebook y ante el reclamo a las autoridades, la scalía activó una pre-alerta",
+      "text": "Añadió que el detenido los había contactado a través de redes sociales y los invitó a formar parte de un grupo delictivo. Después de un tiempo, el joven los convenció de que se vieran en el centro comercial. Luis Antonio y Andrés dijeron a sus padres que irían al cine, y que luego de la función acudirían al colegio en el que estudiaban. No obstante ya no los volvieron a ver, publicó el diario El Universal. El rotativo agrega que tras la desaparición de los jóvenes sus familiares hicieron una ardua labor de búsqueda a través de Facebook y ante el reclamo a las autoridades, la scalía activó una pre-alerta"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 132.923,
+            "t": 807.5150029101562,
+            "r": 460.332,
+            "b": 561.7860029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            448
+          ]
+        }
+      ],
+      "orig": "Amber a 48 horas de haber desaparecido los menores. La investigación tuvo un avance importante cuando la policía cibernética aseguró la computadora portátil de Luis Antonio y descubrieron los nexos con el adolescente que los enganchó y que fue clave para el esclarecimiento de estas desapariciones. Las autoridades de Jalisco aún buscan a más personas por el crimen de los adolescentes, incluido al hijo de \"El Changel\", aseguró Luis Carlos Nájera.",
+      "text": "Amber a 48 horas de haber desaparecido los menores. La investigación tuvo un avance importante cuando la policía cibernética aseguró la computadora portátil de Luis Antonio y descubrieron los nexos con el adolescente que los enganchó y que fue clave para el esclarecimiento de estas desapariciones. Las autoridades de Jalisco aún buscan a más personas por el crimen de los adolescentes, incluido al hijo de \"El Changel\", aseguró Luis Carlos Nájera."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 132.923,
+            "t": 537.3900029101562,
+            "r": 387.379,
+            "b": 530.2710029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "¿Quién es José Ángel Carrasco Coronel?",
+      "text": "¿Quién es José Ángel Carrasco Coronel?",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 132.923,
+            "t": 505.87500291015624,
+            "r": 460.048,
+            "b": 143.09100291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            776
+          ]
+        }
+      ],
+      "orig": "El ejército mexicano había identicado en meses anteriores a José Ángel Carrasco Coronel, 'El Changel', como líder del cártel de Sinaloa en los estados de Jalisco y Colima, ambos en el oeste del país, según la agencia AP. \"Nacho\" Coronel, el tío de 'El Changel' era considerado hasta su muerte el tercero en la jerarquía del Cártel de Sinaloa, uno los grupos de narcotracantes de mayor poder en México y que actualmente está liderado por Ismael Zambada García, Joaquín 'El Chapo' Guzmán y Juan José Esparragoza Moreno. Jalisco es un estado que en años anteriores ha padecido diversos hechos de violencia atribuidos a una lucha entre grupos rivales del narcotráco, en particular después de la muerte de Ignacio \"Nacho\" Coronel en 2010 en un enfrentamiento con fuerzas federales.",
+      "text": "El ejército mexicano había identicado en meses anteriores a José Ángel Carrasco Coronel, 'El Changel', como líder del cártel de Sinaloa en los estados de Jalisco y Colima, ambos en el oeste del país, según la agencia AP. \"Nacho\" Coronel, el tío de 'El Changel' era considerado hasta su muerte el tercero en la jerarquía del Cártel de Sinaloa, uno los grupos de narcotracantes de mayor poder en México y que actualmente está liderado por Ismael Zambada García, Joaquín 'El Chapo' Guzmán y Juan José Esparragoza Moreno. Jalisco es un estado que en años anteriores ha padecido diversos hechos de violencia atribuidos a una lucha entre grupos rivales del narcotráco, en particular después de la muerte de Ignacio \"Nacho\" Coronel en 2010 en un enfrentamiento con fuerzas federales."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 148.305,
+            "t": 798.6280029101563,
+            "r": 221.898,
+            "b": 793.1250029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "¿QUÉ PIENSAS?",
+      "text": "¿QUÉ PIENSAS?",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 219.975,
+            "t": 763.1160029101562,
+            "r": 376.764,
+            "b": 754.8610029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Buscando preguntas...",
+      "text": "Buscando preguntas..."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 147.93,
+            "t": 578.6760029101563,
+            "r": 200.964,
+            "b": 574.3520029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "En alianza con",
+      "text": "En alianza con"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 284.587,
+            "t": 506.44000291015624,
+            "r": 311.424,
+            "b": 503.9240029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "PUBLICIDAD",
+      "text": "PUBLICIDAD"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 145.679,
+            "t": 463.85600291015623,
+            "r": 213.56,
+            "b": 456.7800029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "LO ÚLTIMO",
+      "text": "LO ÚLTIMO",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 287.495,
+            "t": 435.65900291015623,
+            "r": 448.695,
+            "b": 358.7650029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "Residentes del este de San José expresaron su descontento por el problema de tiraderos ilegales",
+      "text": "Residentes del este de San José expresaron su descontento por el problema de tiraderos ilegales"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 287.495,
+            "t": 331.36000291015625,
+            "r": 450.322,
+            "b": 271.7240029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "Corte de apelaciones de San Francisco falla a favor de DACA y ordena restituir el programa",
+      "text": "Corte de apelaciones de San Francisco falla a favor de DACA y ordena restituir el programa"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 287.495,
+            "t": 244.3200029101563,
+            "r": 376.826,
+            "b": 236.4580029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Sentimientos",
+      "text": "Sentimientos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 287.495,
+            "t": 219.55800291015623,
+            "r": 449.736,
+            "b": 159.92200291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "encontrados entre sobrevivientes y residentes de Thousand Oaks tras el tiroteo",
+      "text": "encontrados entre sobrevivientes y residentes de Thousand Oaks tras el tiroteo"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 287.495,
+            "t": 132.51800291015627,
+            "r": 458.229,
+            "b": 55.624002910156264,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "Comunidad rinde homenaje al sargento Ron Helus, fallecido en el tiroteo en de Thousand Oaks",
+      "text": "Comunidad rinde homenaje al sargento Ron Helus, fallecido en el tiroteo en de Thousand Oaks"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 127.16033935546875,
+            "t": 801.2525062561035,
+            "r": 140.3435516357422,
+            "b": 789.3408660888672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 156.60728454589844,
+            "t": 805.0010566711426,
+            "r": 174.7524871826172,
+            "b": 785.8224678039551,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 27.78213882446289,
+            "t": 522.8080444335938,
+            "r": 567.893798828125,
+            "b": 218.999267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 143.89332580566406,
+            "t": 736.3210601806641,
+            "r": 391.86346435546875,
+            "b": 499.6340637207031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 6
+    }
+  }
+}

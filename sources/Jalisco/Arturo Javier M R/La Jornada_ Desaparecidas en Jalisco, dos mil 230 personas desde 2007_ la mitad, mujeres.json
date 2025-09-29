@@ -1,0 +1,1970 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "La Jornada_ Desaparecidas en Jalisco, dos mil 230 personas desde 2007_ la mitad, mujeres",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 6474754631772763863,
+    "filename": "La Jornada_ Desaparecidas en Jalisco, dos mil 230 personas desde 2007_ la mitad, mujeres.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 772.935,
+            "r": 338.265,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "La Jornada: Desaparecidas en Jalisco, dos mil 230 personas desde 2007; la mitad, mujeres",
+      "text": "La Jornada: Desaparecidas en Jalisco, dos mil 230 personas desde 2007; la mitad, mujeres"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 534.408,
+            "t": 772.935,
+            "r": 593.762,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "4/23/20 4'57 PM",
+      "text": "4/23/20 4'57 PM"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.333333333333336,
+            "t": 733.6666666666666,
+            "r": 240.33333333333334,
+            "b": 689.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "ESTADOS",
+      "text": "ESTADOS"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 97.2,
+            "t": 652.133,
+            "r": 311.586,
+            "b": 621.822,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Apenas el 12 de junio fue plagiado un profesor de derecho",
+      "text": "Apenas el 12 de junio fue plagiado un profesor de derecho",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 97.2,
+            "t": 607.106,
+            "r": 318.035,
+            "b": 544.565,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "Desaparecidas en Jalisco, dos mil 230 personas desde 2007; la mitad, mujeres",
+      "text": "Desaparecidas en Jalisco, dos mil 230 personas desde 2007; la mitad, mujeres",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 106.525,
+            "t": 531.596,
+            "r": 192.055,
+            "b": 521.48,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "MAURICIO FERRER",
+      "text": "MAURICIO FERRER"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 97.2,
+            "t": 472.674,
+            "r": 250.032,
+            "b": 461.375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Guadalajara, Jal., 28 de junio.",
+      "text": "Guadalajara, Jal., 28 de junio."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 97.2,
+            "t": 445.474,
+            "r": 514.79,
+            "b": 376.575,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            404
+          ]
+        }
+      ],
+      "orig": "El 12 de junio pasado desapareció Arturo Javier Moreno Ramírez, profesor de derecho del Centro Universitario de Ciencias Sociales y Humanidades (Cucsh), y a  la  fecha  se  desconoce  su  paradero.  De  acuerdo  con  el  Registro  Nacional  de Personas  Desaparecidas  y  Extraviadas  de  2007  a  abril  de  este  año  hay  en  el estado 2 mil 230 personas desaparecidas, casi 50 por ciento son mujeres.",
+      "text": "El 12 de junio pasado desapareció Arturo Javier Moreno Ramírez, profesor de derecho del Centro Universitario de Ciencias Sociales y Humanidades (Cucsh), y a  la  fecha  se  desconoce  su  paradero.  De  acuerdo  con  el  Registro  Nacional  de Personas  Desaparecidas  y  Extraviadas  de  2007  a  abril  de  este  año  hay  en  el estado 2 mil 230 personas desaparecidas, casi 50 por ciento son mujeres."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 97.2,
+            "t": 360.674,
+            "r": 514.799,
+            "b": 320.575,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "El  maestro  había  quedado  con  su  padre  en  ver  la  inauguración  de  la  Copa Mundial de Futbol en la casa donde nació hace 47 años en el barrio Lomas de Polanco, al sur de la capital.",
+      "text": "El  maestro  había  quedado  con  su  padre  en  ver  la  inauguración  de  la  Copa Mundial de Futbol en la casa donde nació hace 47 años en el barrio Lomas de Polanco, al sur de la capital."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 97.2,
+            "t": 304.674,
+            "r": 514.79,
+            "b": 250.17499999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            311
+          ]
+        }
+      ],
+      "orig": "Ese día Arturo acudió al gimnasio de la avenida Lázaro Cárdenas. Durante hora y media realizó su rutina de pesas. Se bañó, se acicaló y salió media hora más tarde. Le marcó por teléfono a su pareja para decirle que iba a la Ciudad Judicial, en Zapopan, luego a comprar mariscos y más tarde a casa de sus padres.",
+      "text": "Ese día Arturo acudió al gimnasio de la avenida Lázaro Cárdenas. Durante hora y media realizó su rutina de pesas. Se bañó, se acicaló y salió media hora más tarde. Le marcó por teléfono a su pareja para decirle que iba a la Ciudad Judicial, en Zapopan, luego a comprar mariscos y más tarde a casa de sus padres."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 97.2,
+            "t": 234.274,
+            "r": 514.796,
+            "b": 194.17499999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "Su intención era ver por televisión, junto con su padre, el partido inicial del Mundial de Brasil. No se supo más de él. Arturo desapareció entre las 9:30 y las 10 horas.",
+      "text": "Su intención era ver por televisión, junto con su padre, el partido inicial del Mundial de Brasil. No se supo más de él. Arturo desapareció entre las 9:30 y las 10 horas."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 97.2,
+            "t": 178.274,
+            "r": 514.799,
+            "b": 109.375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            356
+          ]
+        }
+      ],
+      "orig": "Su padre, Javier Moreno, un pensionado de 70 años, dijo: 'Este trance ha sido de días de desesperación, angustia; timbra el teléfono, no dormimos', expresó. Relata  que  ese  día  fue  raro  para  él,  quien  tiene  cinco  hijos,  cuatro  de  ellos abogados. Reconoce que le desconcertó que su hijo tuviera apagado el teléfono celular, pues nunca lo hacía.",
+      "text": "Su padre, Javier Moreno, un pensionado de 70 años, dijo: 'Este trance ha sido de días de desesperación, angustia; timbra el teléfono, no dormimos', expresó. Relata  que  ese  día  fue  raro  para  él,  quien  tiene  cinco  hijos,  cuatro  de  ellos abogados. Reconoce que le desconcertó que su hijo tuviera apagado el teléfono celular, pues nunca lo hacía."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 97.2,
+            "t": 93.47400000000005,
+            "r": 514.781,
+            "b": 67.77499999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "El 13 de junio, cuando la llamada del progenitor fue enviada al buzón de voz, éste y el resto de sus hijos presentaron una denuncia ante la Fiscalía General del",
+      "text": "El 13 de junio, cuando la llamada del progenitor fue enviada al buzón de voz, éste y el resto de sus hijos presentaron una denuncia ante la Fiscalía General del"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 344.0,
+            "t": 641.888,
+            "r": 379.56,
+            "b": 634.927,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Facebook",
+      "text": "Facebook"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 404.362,
+            "t": 641.888,
+            "r": 427.906,
+            "b": 634.927,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Twitter",
+      "text": "Twitter"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 452.712,
+            "t": 641.888,
+            "r": 477.152,
+            "b": 634.927,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Correo",
+      "text": "Correo"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 479.3333333333333,
+            "t": 732.0,
+            "r": 596.3333333333334,
+            "b": 699.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "LaJornada",
+      "text": "LaJornada"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 501.962,
+            "t": 641.888,
+            "r": 523.898,
+            "b": 634.927,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Más...",
+      "text": "Más..."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 448.191,
+            "t": 519.654,
+            "r": 514.802,
+            "b": 508.934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Corresponsal",
+      "text": "Corresponsal"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 375.362,
+            "t": 501.086,
+            "r": 514.805,
+            "b": 482.263,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Periódico La Jornada Domingo 29 de junio de 2014, p. 25",
+      "text": "Periódico La Jornada Domingo 29 de junio de 2014, p. 25"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 47.934999999999945,
+            "r": 228.438,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2014/06/29/estados/025n2est",
+      "text": "https://www.jornada.com.mx/2014/06/29/estados/025n2est"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 546.921,
+            "t": 47.934999999999945,
+            "r": 593.792,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Página 1 de 4",
+      "text": "Página 1 de 4"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 772.935,
+            "r": 338.265,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "La Jornada: Desaparecidas en Jalisco, dos mil 230 personas desde 2007; la mitad, mujeres",
+      "text": "La Jornada: Desaparecidas en Jalisco, dos mil 230 personas desde 2007; la mitad, mujeres"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 534.408,
+            "t": 772.935,
+            "r": 593.762,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "4/23/20 4'57 PM",
+      "text": "4/23/20 4'57 PM"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 97.2,
+            "t": 746.274,
+            "r": 409.62,
+            "b": 734.975,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Estado (FGE). Para el día 15, ya había ampliado la denuncia.",
+      "text": "Estado (FGE). Para el día 15, ya había ampliado la denuncia."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 97.2,
+            "t": 719.074,
+            "r": 514.791,
+            "b": 650.175,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            378
+          ]
+        }
+      ],
+      "orig": "Días después Javier Moreno se reunió con las autoridades de la Universidad de  Guadalajara,  para  contarles  la  desaparición  de  su  hijo.  Le  prometieron  que intervendrían para agilizar la investigación. El 24 de junio, la casa de estudios emitió un comunicado en el que hizo pública la desaparición de Arturo Moreno y la petición a la FGE para localizar al universitario.",
+      "text": "Días después Javier Moreno se reunió con las autoridades de la Universidad de  Guadalajara,  para  contarles  la  desaparición  de  su  hijo.  Le  prometieron  que intervendrían para agilizar la investigación. El 24 de junio, la casa de estudios emitió un comunicado en el que hizo pública la desaparición de Arturo Moreno y la petición a la FGE para localizar al universitario."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 97.2,
+            "t": 634.274,
+            "r": 514.795,
+            "b": 536.575,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            542
+          ]
+        }
+      ],
+      "orig": "Su padre dice que su hijo trazó su camino en el estudio de derecho por cuenta propia.  Alguien  en  la  preparatoria  6  observó  su  talento  y  le  insistió  para  que ingresara a la Facultad de Derecho en la década de los 90. Al camino de Arturo le siguieron tres hermanos más, que también son abogados. Ya graduado empezó a  litigar,  luego  hizo  una  maestría  que  lo  encaminó  a  la  docencia.  Hace  años empezó con las clases en el Cucsh. A diario, al igual que sus hermanos, pasaba a casa de sus padres a desayunar, comer o cenar.",
+      "text": "Su padre dice que su hijo trazó su camino en el estudio de derecho por cuenta propia.  Alguien  en  la  preparatoria  6  observó  su  talento  y  le  insistió  para  que ingresara a la Facultad de Derecho en la década de los 90. Al camino de Arturo le siguieron tres hermanos más, que también son abogados. Ya graduado empezó a  litigar,  luego  hizo  una  maestría  que  lo  encaminó  a  la  docencia.  Hace  años empezó con las clases en el Cucsh. A diario, al igual que sus hermanos, pasaba a casa de sus padres a desayunar, comer o cenar."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 97.2,
+            "t": 520.674,
+            "r": 514.797,
+            "b": 466.175,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            261
+          ]
+        }
+      ],
+      "orig": "'Yo nunca me había puesto a pensar en eso de las desapariciones. No se lo deseo a nadie. Si yo tuviera enemigos, ni a ellos les desearía esto que me está pasando [...] Me desespera no tener noticias de él. Por mi mente pasa lo peor. No tengo paz', añade Javier.",
+      "text": "'Yo nunca me había puesto a pensar en eso de las desapariciones. No se lo deseo a nadie. Si yo tuviera enemigos, ni a ellos les desearía esto que me está pasando [...] Me desespera no tener noticias de él. Por mi mente pasa lo peor. No tengo paz', añade Javier."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 97.2,
+            "t": 450.274,
+            "r": 514.795,
+            "b": 410.175,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "¿Enemigos? Ninguno, afirma el padre. ¿Dinero por rescate? Tampoco. Para Javier, es  un  misterio.'¿Qué  pienso?  Lo  peor.  Yo  sólo  pido  que  me  lo devuelvan'.",
+      "text": "¿Enemigos? Ninguno, afirma el padre. ¿Dinero por rescate? Tampoco. Para Javier, es  un  misterio.'¿Qué  pienso?  Lo  peor.  Yo  sólo  pido  que  me  lo devuelvan'."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.6,
+            "t": 365.688,
+            "r": 332.664,
+            "b": 350.904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Nosotros ya no somos los mismos",
+      "text": "Nosotros ya no somos los mismos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.6,
+            "t": 343.074,
+            "r": 504.256,
+            "b": 298.167,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            164
+          ]
+        }
+      ],
+      "orig": "La Jornada l comentario de Javier Alatorre es tan estúpido e irracional que uno no puede evitar la sospecha de que hay algo más que cretinismo e irresponsabilidad.…",
+      "text": "La Jornada l comentario de Javier Alatorre es tan estúpido e irracional que uno no puede evitar la sospecha de que hay algo más que cretinismo e irresponsabilidad.…"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 103.6,
+            "t": 241.688,
+            "r": 502.842,
+            "b": 226.904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Famous NBA Players Who Are Best Friends Off the Court",
+      "text": "Famous NBA Players Who Are Best Friends Off the Court",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 103.6,
+            "t": 217.49800000000005,
+            "r": 180.93,
+            "b": 209.36699999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Sportinal | Sponsored",
+      "text": "Sportinal | Sponsored"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 103.6,
+            "t": 152.88800000000003,
+            "r": 370.275,
+            "b": 138.10400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "The Best Haircuts That Take Off Years",
+      "text": "The Best Haircuts That Take Off Years",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 103.6,
+            "t": 128.69799999999998,
+            "r": 187.105,
+            "b": 120.56700000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Dailyforest | Sponsored",
+      "text": "Dailyforest | Sponsored"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 103.6,
+            "t": 64.57899999999995,
+            "r": 496.554,
+            "b": 51.274,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "How do you stay close to your customers while a pandemic pulls",
+      "text": "How do you stay close to your customers while a pandemic pulls"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 47.934999999999945,
+            "r": 228.438,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2014/06/29/estados/025n2est",
+      "text": "https://www.jornada.com.mx/2014/06/29/estados/025n2est"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 545.957,
+            "t": 47.934999999999945,
+            "r": 593.787,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Página 2 de 4",
+      "text": "Página 2 de 4"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 18.0,
+            "t": 772.935,
+            "r": 338.265,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "La Jornada: Desaparecidas en Jalisco, dos mil 230 personas desde 2007; la mitad, mujeres",
+      "text": "La Jornada: Desaparecidas en Jalisco, dos mil 230 personas desde 2007; la mitad, mujeres"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 534.408,
+            "t": 772.935,
+            "r": 593.762,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "4/23/20 4'57 PM",
+      "text": "4/23/20 4'57 PM"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 103.6,
+            "t": 750.179,
+            "r": 496.554,
+            "b": 717.674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "How do you stay close to your customers while a pandemic pulls you apart?",
+      "text": "How do you stay close to your customers while a pandemic pulls you apart?",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 103.6,
+            "t": 709.41,
+            "r": 200.578,
+            "b": 701.992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Salesforce | Patrocinado",
+      "text": "Salesforce | Patrocinado"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 103.6,
+            "t": 688.579,
+            "r": 491.192,
+            "b": 675.274,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "2020 Hourly Rates of Lawyers in Lakeville Might Surprise You",
+      "text": "2020 Hourly Rates of Lawyers in Lakeville Might Surprise You",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 103.6,
+            "t": 667.01,
+            "r": 242.166,
+            "b": 659.592,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Lawyer | Search Ads | Patrocinado",
+      "text": "Lawyer | Search Ads | Patrocinado"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 103.6,
+            "t": 606.488,
+            "r": 341.646,
+            "b": 591.704,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Here's How to Detoxify Your Liver",
+      "text": "Here's How to Detoxify Your Liver",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 103.6,
+            "t": 582.298,
+            "r": 247.98,
+            "b": 574.167,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Health & Human Research | Sponsored",
+      "text": "Health & Human Research | Sponsored"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 103.6,
+            "t": 518.179,
+            "r": 438.066,
+            "b": 504.874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Difunden mapa de distribución municipal de Covid-19",
+      "text": "Difunden mapa de distribución municipal de Covid-19",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 103.6,
+            "t": 501.41,
+            "r": 150.532,
+            "b": 493.992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "La Jornada",
+      "text": "La Jornada"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 103.6,
+            "t": 437.379,
+            "r": 417.275,
+            "b": 424.074,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Karime Macías denuncia a ex tesorero de Veracruz",
+      "text": "Karime Macías denuncia a ex tesorero de Veracruz",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 103.6,
+            "t": 420.61,
+            "r": 150.532,
+            "b": 413.192,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "La Jornada",
+      "text": "La Jornada"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 103.6,
+            "t": 336.088,
+            "r": 473.56,
+            "b": 321.304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "15 Unique Bridal Shower Gifts Couples Actually Need",
+      "text": "15 Unique Bridal Shower Gifts Couples Actually Need",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 103.6,
+            "t": 311.898,
+            "r": 191.18,
+            "b": 303.767,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "BedsReview | Sponsored",
+      "text": "BedsReview | Sponsored"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 18.0,
+            "t": 47.934999999999945,
+            "r": 228.438,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2014/06/29/estados/025n2est",
+      "text": "https://www.jornada.com.mx/2014/06/29/estados/025n2est"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 545.796,
+            "t": 47.934999999999945,
+            "r": 593.787,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Página 3 de 4",
+      "text": "Página 3 de 4"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 18.0,
+            "t": 772.935,
+            "r": 338.265,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "La Jornada: Desaparecidas en Jalisco, dos mil 230 personas desde 2007; la mitad, mujeres",
+      "text": "La Jornada: Desaparecidas en Jalisco, dos mil 230 personas desde 2007; la mitad, mujeres"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 534.408,
+            "t": 772.935,
+            "r": 593.762,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "4/23/20 4'57 PM",
+      "text": "4/23/20 4'57 PM"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 184.92,
+            "t": 525.296,
+            "r": 427.088,
+            "b": 498.439,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Copyright ' 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203.",
+      "text": "Copyright ' 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 18.0,
+            "t": 47.934999999999945,
+            "r": 228.438,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2014/06/29/estados/025n2est",
+      "text": "https://www.jornada.com.mx/2014/06/29/estados/025n2est"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 545.68,
+            "t": 47.934999999999945,
+            "r": 593.79,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Página 4 de 4",
+      "text": "Página 4 de 4"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 17.17475700378418,
+            "t": 729.9961357116699,
+            "r": 236.58897399902344,
+            "b": 693.8775863647461,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 450.56121826171875,
+            "t": 727.9248580932617,
+            "r": 592.4773559570312,
+            "b": 703.105842590332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 567.6865234375,
+            "t": 651.8672943115234,
+            "r": 587.8233642578125,
+            "b": 632.1577606201172,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    }
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "MARCHAN MIEMBROS DE FUNDEC EN PIEDRAS NEGRAS POR SUS DESAPARECIDOS",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12213478930992492321,
+    "filename": "MARCHAN MIEMBROS DE FUNDEC EN PIEDRAS NEGRAS POR SUS DESAPARECIDOS.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 297.303,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "MARCHAN MIEMBROS DE FUNDEC EN PIEDRAS NEGRAS POR...",
+      "text": "MARCHAN MIEMBROS DE FUNDEC EN PIEDRAS NEGRAS POR..."
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 314.136,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "http://rancherita.com.mx/noticias/detalles/10230/marchan-miembros-de-...",
+      "text": "http://rancherita.com.mx/noticias/detalles/10230/marchan-miembros-de-..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 477.265,
+            "b": 664.04,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "MARCHAN MIEMBROS DE FUNDEC EN PIEDRAS NEGRAS POR SUS DESAPARECIDOS",
+      "text": "MARCHAN MIEMBROS DE FUNDEC EN PIEDRAS NEGRAS POR SUS DESAPARECIDOS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 635.575,
+            "r": 215.335,
+            "b": 627.035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "PIEDRAS NEGRAS 05 FEB-14",
+      "text": "PIEDRAS NEGRAS 05 FEB-14"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 607.501,
+            "r": 506.628,
+            "b": 583.874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "MARCHAN MIEMBROS DE FUNDEC EN PIEDRAS NEGRAS POR SUS DESAPARECIDOS",
+      "text": "MARCHAN MIEMBROS DE FUNDEC EN PIEDRAS NEGRAS POR SUS DESAPARECIDOS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 564.778,
+            "r": 530.53,
+            "b": 178.514,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2320
+          ]
+        }
+      ],
+      "orig": "Esta tarde, a pesar del frío y viento en Piedras Negras, cerca de 60 personas se reunieron en las instalaciones de la antigua feria del sol para marchar hasta el Palacio de Justicia para manifestarse con mantas, cartelones y globos de color blanco, manifestando la necesidad de paz, justicia y seguridad para los nigropetenses. La señora Hortencia Rivas, Presidenta de la asociación Fuerzas Unidas por Nuestros Desaparecidos en Coahuila (Fundec), indicó que están buscando que Piedras Negras vuelva a ser una ciudad tranquila como lo era. Explicó que tras la desaparición de su hijo y el estar batallando con las autoridades locales, las cuales nunca le dieron respuesta a sus reclamos y denuncias, decidió reunir a estas personas para que el grito de muchos por fin fuera escuchado. Indicó que entre sus miembros se cuentan familiares de por lo menos 40 personas desaparecidas de Piedras Negras, aunque aseguró, debe haber muchos más pues existe una gran cantidad de personas que por amenazas no se atreven a denunciar esta clase de ilícitos. Dijo que mantienen contacto con el Subprocurador de Justicia del Estado, Juan José Yáñez, desde que llegó a la región con el grupo de búsqueda de personas desaparecidas, algo que les ha dado esperanza de encontrar a sus seres queridos y a pesar de que por el momento ya no se encuentra este grupo en Piedras Negras, dijo que el funcionario les prometió que regresaran. AUTORIDADES NO APOYAN: MADRE AFECTADA La señora Yolanda Vargas, madre de la joven Brenda Melina Zúñiga Vargas, quien desapareció de su hogar en esta frontera desde el año 2010, dijo a Noticieros Rancherita del Aire que están cansados de la falta de labor por parte de las autoridades locales, ante las cuales denunció este hecho en su momento, pero nunca recibió respuesta. \"No han hecho nada las autoridades, creo que ni siquiera buscan a mi hija y si no hacen nada, no deberían de estar en ese lugar\", dijo la angustiada madre, quien argumentó tener cierta información sobre la persona con la que supuestamente se fue su hija, datos que compartió con la autoridad, pero ni así ha obtenido algún resultado positivo. Por fortuna, tras la fundación del Fundec (Fuerzas Unidas por Nuestros Desaparecidos en Coahuila), hemos visto que por lo menos nos escuchan y esto nos da esperanza, indicó la señora Vargas.",
+      "text": "Esta tarde, a pesar del frío y viento en Piedras Negras, cerca de 60 personas se reunieron en las instalaciones de la antigua feria del sol para marchar hasta el Palacio de Justicia para manifestarse con mantas, cartelones y globos de color blanco, manifestando la necesidad de paz, justicia y seguridad para los nigropetenses. La señora Hortencia Rivas, Presidenta de la asociación Fuerzas Unidas por Nuestros Desaparecidos en Coahuila (Fundec), indicó que están buscando que Piedras Negras vuelva a ser una ciudad tranquila como lo era. Explicó que tras la desaparición de su hijo y el estar batallando con las autoridades locales, las cuales nunca le dieron respuesta a sus reclamos y denuncias, decidió reunir a estas personas para que el grito de muchos por fin fuera escuchado. Indicó que entre sus miembros se cuentan familiares de por lo menos 40 personas desaparecidas de Piedras Negras, aunque aseguró, debe haber muchos más pues existe una gran cantidad de personas que por amenazas no se atreven a denunciar esta clase de ilícitos. Dijo que mantienen contacto con el Subprocurador de Justicia del Estado, Juan José Yáñez, desde que llegó a la región con el grupo de búsqueda de personas desaparecidas, algo que les ha dado esperanza de encontrar a sus seres queridos y a pesar de que por el momento ya no se encuentra este grupo en Piedras Negras, dijo que el funcionario les prometió que regresaran. AUTORIDADES NO APOYAN: MADRE AFECTADA La señora Yolanda Vargas, madre de la joven Brenda Melina Zúñiga Vargas, quien desapareció de su hogar en esta frontera desde el año 2010, dijo a Noticieros Rancherita del Aire que están cansados de la falta de labor por parte de las autoridades locales, ante las cuales denunció este hecho en su momento, pero nunca recibió respuesta. \"No han hecho nada las autoridades, creo que ni siquiera buscan a mi hija y si no hacen nada, no deberían de estar en ese lugar\", dijo la angustiada madre, quien argumentó tener cierta información sobre la persona con la que supuestamente se fue su hija, datos que compartió con la autoridad, pero ni así ha obtenido algún resultado positivo. Por fortuna, tras la fundación del Fundec (Fuerzas Unidas por Nuestros Desaparecidos en Coahuila), hemos visto que por lo menos nos escuchan y esto nos da esperanza, indicó la señora Vargas."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 109.919,
+            "t": 149.94000000000005,
+            "r": 166.159,
+            "b": 139.75400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Publicidad",
+      "text": "Publicidad"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:57 AM",
+      "text": "9/13/2019, 8:57 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

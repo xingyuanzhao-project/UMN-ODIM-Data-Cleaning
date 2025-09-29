@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Buscan a Otra Menor Desaparecida, Ahora en Apodaca",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 6551927508649680513,
+    "filename": "Buscan a Otra Menor Desaparecida, Ahora en Apodaca.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.52305234375,
+            "r": 632.311,
+            "b": 567.17005234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            399
+          ]
+        }
+      ],
+      "orig": "www.cronicaenlinea.com This site can t be reached www.cronicaenlinea.com s DNS address could not be found. Diagnosing the problem. Try running Windows Network Diagnostics . DNS_PROBE_STARTED null Reload 0) || diagnose\" jsvalues=\".detailsText:details; .hideDetailsText:hideDetails;\" jstcache=\"2\" style=\"display: none;\"> www.cronicaenlinea.com s DNS address could not be found. Diagnosing the problem.",
+      "text": "www.cronicaenlinea.com This site can t be reached www.cronicaenlinea.com s DNS address could not be found. Diagnosing the problem. Try running Windows Network Diagnostics . DNS_PROBE_STARTED null Reload 0) || diagnose\" jsvalues=\".detailsText:details; .hideDetailsText:hideDetails;\" jstcache=\"2\" style=\"display: none;\"> www.cronicaenlinea.com s DNS address could not be found. Diagnosing the problem."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

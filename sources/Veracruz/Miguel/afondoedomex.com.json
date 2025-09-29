@@ -1,0 +1,5515 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "afondoedomex.com",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 9796804804867995895,
+    "filename": "afondoedomex.com.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/texts/119"
+      },
+      {
+        "$ref": "#/texts/120"
+      },
+      {
+        "$ref": "#/texts/121"
+      },
+      {
+        "$ref": "#/texts/122"
+      },
+      {
+        "$ref": "#/texts/123"
+      },
+      {
+        "$ref": "#/texts/124"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/texts/129"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/texts/136"
+      },
+      {
+        "$ref": "#/texts/137"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/141"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/143"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/texts/147"
+      },
+      {
+        "$ref": "#/pictures/11"
+      },
+      {
+        "$ref": "#/pictures/12"
+      },
+      {
+        "$ref": "#/texts/150"
+      },
+      {
+        "$ref": "#/texts/151"
+      },
+      {
+        "$ref": "#/texts/152"
+      },
+      {
+        "$ref": "#/texts/153"
+      },
+      {
+        "$ref": "#/texts/154"
+      },
+      {
+        "$ref": "#/texts/155"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/142"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.73,
+            "r": 62.043,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "2/10/2019",
+      "text": "2/10/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 120.781,
+            "t": 775.73,
+            "r": 557.016,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/",
+      "text": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 40.25,
+            "t": 694.021,
+            "r": 170.982,
+            "b": 688.261,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "(https://afondoedomex.com)",
+      "text": "(https://afondoedomex.com)"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.5,
+            "t": 652.93,
+            "r": 465.479,
+            "b": 648.257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "Principal (https://afondoedomex.com/category/principal/) / Zona Oriente",
+      "text": "Principal (https://afondoedomex.com/category/principal/) / Zona Oriente"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.5,
+            "t": 626.68,
+            "r": 346.974,
+            "b": 622.007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "(https://afondoedomex.com/category/zona-oriente/)",
+      "text": "(https://afondoedomex.com/category/zona-oriente/)"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.5,
+            "t": 602.65,
+            "r": 521.327,
+            "b": 530.398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "Grupo armado secuestra a jóvenes de Ecatepec que se encontraban en Veracruz",
+      "text": "Grupo armado secuestra a jóvenes de Ecatepec que se encontraban en Veracruz",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.5,
+            "t": 497.17,
+            "r": 560.681,
+            "b": 472.506,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "POR: Redacción @ Fondo (https://afondoedomex.com/author/redaccion/) / 16 de mayo de 2017",
+      "text": "POR: Redacción @ Fondo (https://afondoedomex.com/author/redaccion/) / 16 de mayo de 2017"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.644,
+            "t": 428.41,
+            "r": 85.776,
+            "b": 424.256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "#whatsapp)",
+      "text": "#whatsapp)"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 20.487,
+            "t": 386.41,
+            "r": 521.259,
+            "b": 382.256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "m/share#url=https%3A%2F%2Fafondoedomex.com%2Fzona-oriente%2Fgrupo-armado-secuestra-a-",
+      "text": "m/share#url=https%3A%2F%2Fafondoedomex.com%2Fzona-oriente%2Fgrupo-armado-secuestra-a-"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.175,
+            "t": 326.41,
+            "r": 558.495,
+            "b": 322.256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "uestra%20a%20j%C3%B3venes%20de%20Ecatepec%20que%20se%20encontraban%20en%20Veracruz)",
+      "text": "uestra%20a%20j%C3%B3venes%20de%20Ecatepec%20que%20se%20encontraban%20en%20Veracruz)"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.0,
+            "t": 127.65999999999997,
+            "r": 335.474,
+            "b": 123.13300000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "(https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/?affid=167&u",
+      "text": "(https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/?affid=167&u"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.0,
+            "t": 107.303,
+            "r": 336.088,
+            "b": 87.88200000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "theLotter.com | Patrocinado (https://popup.taboola.com/es/?template=colorb ¡Ya está en México! ¡La mayor lotería del mundo llegó!",
+      "text": "theLotter.com | Patrocinado (https://popup.taboola.com/es/?template=colorb ¡Ya está en México! ¡La mayor lotería del mundo llegó!"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 496.742,
+            "t": 718.0,
+            "r": 511.742,
+            "b": 708.493,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.730000000000018,
+            "r": 462.688,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/",
+      "text": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.730000000000018,
+            "r": 585.512,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/7",
+      "text": "1/7"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.73,
+            "r": 62.043,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "2/10/2019",
+      "text": "2/10/2019"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 120.781,
+            "t": 775.73,
+            "r": 557.016,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/",
+      "text": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 51.5,
+            "t": 255.92499999999995,
+            "r": 530.912,
+            "b": 231.43100000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "Zahira Itzel fue secuestrada junto a su novio y dos amigos más  hace un mes en el estado de Veracruz, pero sus familiares aun ignoran su paradero.",
+      "text": "Zahira Itzel fue secuestrada junto a su novio y dos amigos más  hace un mes en el estado de Veracruz, pero sus familiares aun ignoran su paradero."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 51.5,
+            "t": 212.42499999999995,
+            "r": 552.982,
+            "b": 169.93100000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            249
+          ]
+        }
+      ],
+      "orig": "Fue la tarde del 14 de abril cuando los padres de Itzel tuvieron el último contacto con su hija a través de un mensaje de texto que decía 'ya llegue Mom', la joven hacía referencia a que ya se encontraba en el municipio de Tierra Blanca en Veracruz.",
+      "text": "Fue la tarde del 14 de abril cuando los padres de Itzel tuvieron el último contacto con su hija a través de un mensaje de texto que decía 'ya llegue Mom', la joven hacía referencia a que ya se encontraba en el municipio de Tierra Blanca en Veracruz."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.0,
+            "t": 150.92499999999995,
+            "r": 559.472,
+            "b": 87.88200000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            535
+          ]
+        }
+      ],
+      "orig": "A 33 días de su desaparición, se desconoce del paradero de Zahira Itzel, su novio Ergit y dos amigos Miguel y Eduardo al parecer todos elementos del Cuerpo de Seguridad Auxiliar y Urbana del Estado de México (CUSAEM), que en grupo había decidido pasar un n de semana en Veracruz y que fueron secuestrados por un grupo armado. (https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/?affid=167&u theLotter.com | Patrocinado (https://popup.taboola.com/es/?template=colorb ¡Ya está en México! ¡La mayor lotería del mundo llegó!",
+      "text": "A 33 días de su desaparición, se desconoce del paradero de Zahira Itzel, su novio Ergit y dos amigos Miguel y Eduardo al parecer todos elementos del Cuerpo de Seguridad Auxiliar y Urbana del Estado de México (CUSAEM), que en grupo había decidido pasar un n de semana en Veracruz y que fueron secuestrados por un grupo armado. (https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/?affid=167&u theLotter.com | Patrocinado (https://popup.taboola.com/es/?template=colorb ¡Ya está en México! ¡La mayor lotería del mundo llegó!"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.730000000000018,
+            "r": 462.688,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/",
+      "text": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.730000000000018,
+            "r": 585.512,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2/7",
+      "text": "2/7"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.73,
+            "r": 62.043,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "2/10/2019",
+      "text": "2/10/2019"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 120.781,
+            "t": 775.73,
+            "r": 557.016,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/",
+      "text": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 51.5,
+            "t": 758.425,
+            "r": 545.447,
+            "b": 697.931,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            299
+          ]
+        }
+      ],
+      "orig": "Zahira de 18 años de edad, con residencia en la colonia Carlos Hank González en el poblado de Xalostoc, estaba comisionada a la guardia del Instituto Nacional de Migración  (INM) ubicado en calles de la colonia Polanco en la Ciudad de México, su novio Ergit, al parecer tenía el grado de comandante.",
+      "text": "Zahira de 18 años de edad, con residencia en la colonia Carlos Hank González en el poblado de Xalostoc, estaba comisionada a la guardia del Instituto Nacional de Migración  (INM) ubicado en calles de la colonia Polanco en la Ciudad de México, su novio Ergit, al parecer tenía el grado de comandante."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 51.5,
+            "t": 678.925,
+            "r": 544.198,
+            "b": 618.431,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "Sus familiares manifestaron que la joven no tenía enemigos y que su rutina era del trabajo a su casa, ocasionalmente salía a divertirse con sus amigos, descartan el dinero como móvil del secuestro, ya que Zahira  no contaba con automóvil y viajaba en transporte público.",
+      "text": "Sus familiares manifestaron que la joven no tenía enemigos y que su rutina era del trabajo a su casa, ocasionalmente salía a divertirse con sus amigos, descartan el dinero como móvil del secuestro, ya que Zahira  no contaba con automóvil y viajaba en transporte público."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 51.5,
+            "t": 599.425,
+            "r": 534.278,
+            "b": 574.931,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "Añadieron que como seña particular, Zahira tiene un tatuaje de una or de girasol debajo de su hombro izquierdo con la leyenda 'Keep Smiling'.",
+      "text": "Añadieron que como seña particular, Zahira tiene un tatuaje de una or de girasol debajo de su hombro izquierdo con la leyenda 'Keep Smiling'."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 51.5,
+            "t": 555.925,
+            "r": 556.909,
+            "b": 531.431,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "El grupo de amigos, salió de sus casas el 13 de abril con destino al municipio de Tierra Blanca Veracruz, donde Ergit cuenta con algunos familiares.",
+      "text": "El grupo de amigos, salió de sus casas el 13 de abril con destino al municipio de Tierra Blanca Veracruz, donde Ergit cuenta con algunos familiares."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 51.5,
+            "t": 512.425,
+            "r": 551.147,
+            "b": 451.931,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            283
+          ]
+        }
+      ],
+      "orig": "Se dio a conocer que la tarde de su desaparición, Zahira, Ergit, Miguel y Eduardo se encontraba en un río en Tierra Blanca, incluso la joven todavía mandó un mensaje de texto a las 18:00 horas a su familia indicando que ya había llegado, después ya no tuvieron contacto con la joven.",
+      "text": "Se dio a conocer que la tarde de su desaparición, Zahira, Ergit, Miguel y Eduardo se encontraba en un río en Tierra Blanca, incluso la joven todavía mandó un mensaje de texto a las 18:00 horas a su familia indicando que ya había llegado, después ya no tuvieron contacto con la joven."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 51.5,
+            "t": 432.925,
+            "r": 548.303,
+            "b": 372.431,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            331
+          ]
+        }
+      ],
+      "orig": "Esa misma tarde, declararon los familiares de los desaparecidos, ante decenas de personas e incluso elementos de la policía y el ejército, un comando de hombres armados, a bordo de dos camionetas de las que no dieron las características para no entorpecer las investigaciones, 'levantó' al grupo de amigos y se retiraron del lugar.",
+      "text": "Esa misma tarde, declararon los familiares de los desaparecidos, ante decenas de personas e incluso elementos de la policía y el ejército, un comando de hombres armados, a bordo de dos camionetas de las que no dieron las características para no entorpecer las investigaciones, 'levantó' al grupo de amigos y se retiraron del lugar."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 51.5,
+            "t": 353.425,
+            "r": 546.148,
+            "b": 274.93100000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            361
+          ]
+        }
+      ],
+      "orig": "El hecho quedó asentado con el número ocio   UIPJ/DXVIII/TB/F5/415/2017-04, correspondiente a la denuncia interpuesta por los familiares de los jóvenes ante la Unidad Integral de Procuración de Justicia del XVIII Distrito de Cosamaloapan, perteneciente a la Fiscalía General del Estado de Veracruz por el delito de privación ilegal de la libertad con violencia.",
+      "text": "El hecho quedó asentado con el número ocio   UIPJ/DXVIII/TB/F5/415/2017-04, correspondiente a la denuncia interpuesta por los familiares de los jóvenes ante la Unidad Integral de Procuración de Justicia del XVIII Distrito de Cosamaloapan, perteneciente a la Fiscalía General del Estado de Veracruz por el delito de privación ilegal de la libertad con violencia."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 51.5,
+            "t": 255.92499999999995,
+            "r": 533.743,
+            "b": 213.43100000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "Con el expediente número de folio AF/1259/2017, el hecho quedó registrado en el Centro de Apoyo de Personas Extraviadas y Ausentes (CAPEA) de la Procuraduría General de Justicia de la Ciudad de México.",
+      "text": "Con el expediente número de folio AF/1259/2017, el hecho quedó registrado en el Centro de Apoyo de Personas Extraviadas y Ausentes (CAPEA) de la Procuraduría General de Justicia de la Ciudad de México."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 28.644,
+            "t": 168.90999999999997,
+            "r": 85.776,
+            "b": 164.75599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "#whatsapp)",
+      "text": "#whatsapp)",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 20.487,
+            "t": 127.65999999999997,
+            "r": 521.259,
+            "b": 122.75599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "m/share#url=https%3A%2F%2Fafondoedomex.com%2Fzona-oriente%2Fgrupo-armado-secuestra-a(https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/?affid=167&u",
+      "text": "m/share#url=https%3A%2F%2Fafondoedomex.com%2Fzona-oriente%2Fgrupo-armado-secuestra-a(https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/?affid=167&u"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "code",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 41.0,
+            "t": 107.303,
+            "r": 336.088,
+            "b": 87.88200000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "theLotter.com | Patrocinado (https://popup.taboola.com/es/?template=colorb ¡Ya está en México! ¡La mayor lotería del mundo llegó!",
+      "text": "theLotter.com | Patrocinado (https://popup.taboola.com/es/?template=colorb ¡Ya está en México! ¡La mayor lotería del mundo llegó!",
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "code_language": "unknown"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.175,
+            "t": 66.90999999999997,
+            "r": 558.495,
+            "b": 62.75599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "uestra%20a%20j%C3%B3venes%20de%20Ecatepec%20que%20se%20encontraban%20en%20Veracruz)",
+      "text": "uestra%20a%20j%C3%B3venes%20de%20Ecatepec%20que%20se%20encontraban%20en%20Veracruz)"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.730000000000018,
+            "r": 462.688,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/",
+      "text": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.730000000000018,
+            "r": 585.512,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3/7",
+      "text": "3/7"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.73,
+            "r": 62.043,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "2/10/2019",
+      "text": "2/10/2019"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 120.781,
+            "t": 775.73,
+            "r": 557.016,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/",
+      "text": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.75,
+            "t": 756.977,
+            "r": 104.0,
+            "b": 739.103,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.75,
+            "t": 655.766,
+            "r": 134.103,
+            "b": 650.01,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "1 comentario",
+      "text": "1 comentario",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 119.75,
+            "t": 601.346,
+            "r": 251.82,
+            "b": 594.762,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Agregar un comentario...",
+      "text": "Agregar un comentario..."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.75,
+            "t": 556.016,
+            "r": 184.865,
+            "b": 550.26,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Amaraj Sukero",
+      "text": "Amaraj Sukero",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.75,
+            "t": 538.771,
+            "r": 541.532,
+            "b": 504.511,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            237
+          ]
+        }
+      ],
+      "orig": "No pues a como esta nuestro país, la chica de 18 se sintió adulta se fue con el novio,pues ahí las consecuencias, y luego van a Veracruz dónde hay un alto índice de secuestro de ese tipo y luego siendo lo que ellos eran,pues que incautos",
+      "text": "No pues a como esta nuestro país, la chica de 18 se sintió adulta se fue con el novio,pues ahí las consecuencias, y luego van a Veracruz dónde hay un alto índice de secuestro de ese tipo y luego siendo lo que ellos eran,pues que incautos"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.75,
+            "t": 491.947,
+            "r": 234.803,
+            "b": 487.009,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Me gusta · Responder · 2 años",
+      "text": "Me gusta · Responder · 2 años"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 83.0,
+            "t": 464.41,
+            "r": 214.621,
+            "b": 459.883,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Plugin de comentarios de Facebook",
+      "text": "Plugin de comentarios de Facebook"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.75,
+            "t": 407.86,
+            "r": 393.115,
+            "b": 393.754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "(https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/? affid=167&utm_source=Taboola&utm_medium=Article&utm_campaign=mex1419_audiences_v9)",
+      "text": "(https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/? affid=167&utm_source=Taboola&utm_medium=Article&utm_campaign=mex1419_audiences_v9)"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.75,
+            "t": 379.237,
+            "r": 456.34,
+            "b": 371.014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "¡Ya está en México! ¡La mayor lotería del mundo llegó!",
+      "text": "¡Ya está en México! ¡La mayor lotería del mundo llegó!",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.25,
+            "t": 356.41,
+            "r": 546.511,
+            "b": 351.883,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm",
+      "text": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.75,
+            "t": 320.86,
+            "r": 308.651,
+            "b": 318.004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "(https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/?",
+      "text": "(https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/?"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.75,
+            "t": 309.61,
+            "r": 393.115,
+            "b": 306.754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "affid=167&utm_source=Taboola&utm_medium=Article&utm_campaign=mex1419_audiences_v9)",
+      "text": "affid=167&utm_source=Taboola&utm_medium=Article&utm_campaign=mex1419_audiences_v9)"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.75,
+            "t": 279.61,
+            "r": 304.502,
+            "b": 276.754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "(https://www.directexpose.com/fuga-alcatraz-sigue-siendo-misterio/?",
+      "text": "(https://www.directexpose.com/fuga-alcatraz-sigue-siendo-misterio/?"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.75,
+            "t": 268.36,
+            "r": 317.743,
+            "b": 265.504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "utm_source=talas&utm_campaign=A_TS_DE_MX_D_AlcatrazSP_v3_1905-",
+      "text": "utm_source=talas&utm_campaign=A_TS_DE_MX_D_AlcatrazSP_v3_1905-"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.75,
+            "t": 257.11,
+            "r": 547.678,
+            "b": 243.00400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.75,
+            "t": 234.61,
+            "r": 371.937,
+            "b": 231.75400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            161,
+            237
+          ]
+        }
+      ],
+      "orig": "Hombre+que+escapo+de+la+c%C3%A1rcel+de+alcatraz+le+env%C3%ADa+una+carta+al+FBI+despu%C3%A9s+de+estar+libre+por+50+a% https%3A%2F%2Fstorage.googleapis.com%2Fcaw- uploads%2F2e5c294f9c0c38aed430bc001f818a56.jpg&utm_term=afondoestadodemxico-",
+      "text": "Hombre+que+escapo+de+la+c%C3%A1rcel+de+alcatraz+le+env%C3%ADa+una+carta+al+FBI+despu%C3%A9s+de+estar+libre+por+50+a% https%3A%2F%2Fstorage.googleapis.com%2Fcaw- uploads%2F2e5c294f9c0c38aed430bc001f818a56.jpg&utm_term=afondoestadodemxico-"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.75,
+            "t": 223.36,
+            "r": 385.459,
+            "b": 220.50400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "afondoedomex&utm_medium=A_TS_DE_MX_D_AlcatrazSP_v3_1905&utm_content=newnext)",
+      "text": "afondoedomex&utm_medium=A_TS_DE_MX_D_AlcatrazSP_v3_1905&utm_content=newnext)"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.75,
+            "t": 206.414,
+            "r": 506.188,
+            "b": 181.01199999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "Hombre que escapo de la cárcel de alcatraz le envía una carta al FBI después de estar libre por 50 años",
+      "text": "Hombre que escapo de la cárcel de alcatraz le envía una carta al FBI después de estar libre por 50 años",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.25,
+            "t": 168.15999999999997,
+            "r": 546.511,
+            "b": 163.63300000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm",
+      "text": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.75,
+            "t": 154.36,
+            "r": 304.502,
+            "b": 151.50400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "(https://www.directexpose.com/fuga-alcatraz-sigue-siendo-misterio/?",
+      "text": "(https://www.directexpose.com/fuga-alcatraz-sigue-siendo-misterio/?"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.75,
+            "t": 143.11,
+            "r": 317.743,
+            "b": 140.25400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "utm_source=talas&utm_campaign=A_TS_DE_MX_D_AlcatrazSP_v3_1905-",
+      "text": "utm_source=talas&utm_campaign=A_TS_DE_MX_D_AlcatrazSP_v3_1905-"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 41.0,
+            "t": 131.86,
+            "r": 547.678,
+            "b": 117.75400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "Hombre+que+escapo+de+la+c%C3%A1rcel+de+alcatraz+le+env%C3%ADa+una+carta+al+FBI+despu%C3%A9s+de+estar+libre+por+50+a% https%3A%2F%2Fstorage.googleapis.com%2Fcaw(https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/?affid=167&u",
+      "text": "Hombre+que+escapo+de+la+c%C3%A1rcel+de+alcatraz+le+env%C3%ADa+una+carta+al+FBI+despu%C3%A9s+de+estar+libre+por+50+a% https%3A%2F%2Fstorage.googleapis.com%2Fcaw(https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/?affid=167&u"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 41.0,
+            "t": 109.36000000000001,
+            "r": 371.937,
+            "b": 101.13499999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "uploads%2F2e5c294f9c0c38aed430bc001f818a56.jpg&utm_term=afondoestadodemxico¡Ya está en México! ¡La mayor lotería del mundo llegó!",
+      "text": "uploads%2F2e5c294f9c0c38aed430bc001f818a56.jpg&utm_term=afondoestadodemxico¡Ya está en México! ¡La mayor lotería del mundo llegó!",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 41.0,
+            "t": 98.11000000000001,
+            "r": 385.459,
+            "b": 87.88300000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "afondoedomex&utm_medium=A_TS_DE_MX_D_AlcatrazSP_v3_1905&utm_content=newnext) theLotter.com | Patrocinado (https://popup.taboola.com/es/?template=colorb",
+      "text": "afondoedomex&utm_medium=A_TS_DE_MX_D_AlcatrazSP_v3_1905&utm_content=newnext) theLotter.com | Patrocinado (https://popup.taboola.com/es/?template=colorb"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.75,
+            "t": 86.86000000000001,
+            "r": 537.382,
+            "b": 72.75400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "(https://sportzbonanza.com/post-54413789/?dai=1Nhf9OsyKk2Ckmmqaao4sw&utm_source=taboola-g8&fp=zwr1b7tc&utm_campaign=g8mx-d-spb-russies-2384610&utm_medium=2384610_1122284)",
+      "text": "(https://sportzbonanza.com/post-54413789/?dai=1Nhf9OsyKk2Ckmmqaao4sw&utm_source=taboola-g8&fp=zwr1b7tc&utm_campaign=g8mx-d-spb-russies-2384610&utm_medium=2384610_1122284)"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.75,
+            "t": 58.66399999999999,
+            "r": 434.12,
+            "b": 51.261999999999944,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "27 fotos que muestran lo que realmente es vivir en Rusia",
+      "text": "27 fotos que muestran lo que realmente es vivir en Rusia",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 147.746,
+            "t": 759.4,
+            "r": 539.909,
+            "b": 685.757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            293
+          ]
+        }
+      ],
+      "orig": "Si quieres recibir gratis las noticias del estado de México en tu celular, solo tienes que mandarnos un mensaje de whatssapp con el nombre de tu municipio a nuestro telefono (55) 4404-1699 (https://api.whatsapp.com/send? phone=525544041699&text=¿Deseas recibir nuestras noticias por whatsapp?)",
+      "text": "Si quieres recibir gratis las noticias del estado de México en tu celular, solo tienes que mandarnos un mensaje de whatssapp con el nombre de tu municipio a nuestro telefono (55) 4404-1699 (https://api.whatsapp.com/send? phone=525544041699&text=¿Deseas recibir nuestras noticias por whatsapp?)"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 403.203,
+            "t": 655.771,
+            "r": 462.722,
+            "b": 650.011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Ordenar por",
+      "text": "Ordenar por"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 469.461,
+            "t": 653.942,
+            "r": 526.968,
+            "b": 649.008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Más antiguos",
+      "text": "Más antiguos"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.730000000000018,
+            "r": 462.688,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/",
+      "text": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.730000000000018,
+            "r": 585.512,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "4/7",
+      "text": "4/7"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.73,
+            "r": 62.043,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "2/10/2019",
+      "text": "2/10/2019"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 120.781,
+            "t": 775.73,
+            "r": 557.016,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/",
+      "text": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.25,
+            "t": 756.91,
+            "r": 546.511,
+            "b": 752.382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm",
+      "text": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 741.61,
+            "r": 537.382,
+            "b": 727.504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "(https://sportzbonanza.com/post-54413789/?dai=1Nhf9OsyKk2Ckmmqaao4sw&utm_source=taboola-g8&fp=zwr1b7tc&utm_campaign=g8mx-d-spb-russies-2384610&utm_medium=2384610_1122284)",
+      "text": "(https://sportzbonanza.com/post-54413789/?dai=1Nhf9OsyKk2Ckmmqaao4sw&utm_source=taboola-g8&fp=zwr1b7tc&utm_campaign=g8mx-d-spb-russies-2384610&utm_medium=2384610_1122284)"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 700.36,
+            "r": 519.612,
+            "b": 686.254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 677.86,
+            "r": 546.515,
+            "b": 663.754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            186,
+            338
+          ]
+        }
+      ],
+      "orig": "(http://bzwthqsft.ninjajournalist.com/entertainment/confusion-jaden-smith-tb?utm_campaign=Jaden%20Smith%20Johu%20Es%20%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Jaden+Smith%2C+hijo+de+Will+Smith%2C+y+su+curioso+estilo+de+vida+que+ha+dejado+a+todos+con+la+boc f08c-40fd-9fba-7c17890fb052.jpg)",
+      "text": "(http://bzwthqsft.ninjajournalist.com/entertainment/confusion-jaden-smith-tb?utm_campaign=Jaden%20Smith%20Johu%20Es%20%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Jaden+Smith%2C+hijo+de+Will+Smith%2C+y+su+curioso+estilo+de+vida+que+ha+dejado+a+todos+con+la+boc f08c-40fd-9fba-7c17890fb052.jpg)"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 649.237,
+            "r": 539.536,
+            "b": 620.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "Jaden Smith, hijo de Will Smith, y su curioso estilo de vida que ha dejado a todos con la boca abierta",
+      "text": "Jaden Smith, hijo de Will Smith, y su curioso estilo de vida que ha dejado a todos con la boca abierta",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.25,
+            "t": 606.16,
+            "r": 546.511,
+            "b": 601.633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm",
+      "text": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 590.86,
+            "r": 519.612,
+            "b": 576.754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 568.36,
+            "r": 546.515,
+            "b": 554.254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            186,
+            338
+          ]
+        }
+      ],
+      "orig": "(http://bzwthqsft.ninjajournalist.com/entertainment/confusion-jaden-smith-tb?utm_campaign=Jaden%20Smith%20Johu%20Es%20%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Jaden+Smith%2C+hijo+de+Will+Smith%2C+y+su+curioso+estilo+de+vida+que+ha+dejado+a+todos+con+la+boc f08c-40fd-9fba-7c17890fb052.jpg)",
+      "text": "(http://bzwthqsft.ninjajournalist.com/entertainment/confusion-jaden-smith-tb?utm_campaign=Jaden%20Smith%20Johu%20Es%20%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Jaden+Smith%2C+hijo+de+Will+Smith%2C+y+su+curioso+estilo+de+vida+que+ha+dejado+a+todos+con+la+boc f08c-40fd-9fba-7c17890fb052.jpg)"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 527.11,
+            "r": 207.449,
+            "b": 524.254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "(https://resuelvetudeuda.com/asesoria/?",
+      "text": "(https://resuelvetudeuda.com/asesoria/?"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 515.86,
+            "r": 509.728,
+            "b": 513.004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "utm_source=taboola&utm_medium=paid&utm_campaign=RTD_MX_desktop_emplazamientos_language_trafico_taboola_landing)",
+      "text": "utm_source=taboola&utm_medium=paid&utm_campaign=RTD_MX_desktop_emplazamientos_language_trafico_taboola_landing)"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 498.914,
+            "r": 344.063,
+            "b": 491.512,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "5 pasos para liquidar deudas por completo",
+      "text": "5 pasos para liquidar deudas por completo",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.25,
+            "t": 478.66,
+            "r": 546.511,
+            "b": 474.133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm",
+      "text": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 446.86,
+            "r": 207.449,
+            "b": 444.004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "(https://resuelvetudeuda.com/asesoria/?",
+      "text": "(https://resuelvetudeuda.com/asesoria/?"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 435.61,
+            "r": 509.728,
+            "b": 432.754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "utm_source=taboola&utm_medium=paid&utm_campaign=RTD_MX_desktop_emplazamientos_language_trafico_taboola_landing)",
+      "text": "utm_source=taboola&utm_medium=paid&utm_campaign=RTD_MX_desktop_emplazamientos_language_trafico_taboola_landing)"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 424.36,
+            "r": 326.191,
+            "b": 421.504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "(http://Up8n9skv.brain-sharper.com/entertainment/vida-gabriela-spanic-tb?",
+      "text": "(http://Up8n9skv.brain-sharper.com/entertainment/vida-gabriela-spanic-tb?"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 413.11,
+            "r": 317.091,
+            "b": 410.254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "utm_campaign=Gabriela%20Spanic%20Story%202%20Johu%20Es%20-",
+      "text": "utm_campaign=Gabriela%20Spanic%20Story%202%20Johu%20Es%20-"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 401.86,
+            "r": 353.812,
+            "b": 399.004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 390.61,
+            "r": 546.433,
+            "b": 376.504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            68,
+            262
+          ]
+        }
+      ],
+      "orig": "%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Gabriela+Spanic+confiesa+qui%C3%A9n+es+el+padre+de+su+hijo+y+el+porqu%C3%A9+no+forma+parte+de+s pubplus-uploads.s3.amazonaws.com%2Fa2db4a83-d7b7-4944-bfec-e6e5eec68df7.jpg)",
+      "text": "%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Gabriela+Spanic+confiesa+qui%C3%A9n+es+el+padre+de+su+hijo+y+el+porqu%C3%A9+no+forma+parte+de+s pubplus-uploads.s3.amazonaws.com%2Fa2db4a83-d7b7-4944-bfec-e6e5eec68df7.jpg)"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 362.414,
+            "r": 506.116,
+            "b": 337.012,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "Gabriela Spanic confiesa quién es el padre de su hijo y el porqué no forma parte de su vida",
+      "text": "Gabriela Spanic confiesa quién es el padre de su hijo y el porqué no forma parte de su vida",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.25,
+            "t": 324.16,
+            "r": 546.511,
+            "b": 319.633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm",
+      "text": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 310.36,
+            "r": 326.191,
+            "b": 307.504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "(http://Up8n9skv.brain-sharper.com/entertainment/vida-gabriela-spanic-tb?",
+      "text": "(http://Up8n9skv.brain-sharper.com/entertainment/vida-gabriela-spanic-tb?"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 299.11,
+            "r": 317.091,
+            "b": 296.254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "utm_campaign=Gabriela%20Spanic%20Story%202%20Johu%20Es%20-",
+      "text": "utm_campaign=Gabriela%20Spanic%20Story%202%20Johu%20Es%20-"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 287.86,
+            "r": 353.812,
+            "b": 285.004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 276.61,
+            "r": 546.433,
+            "b": 262.504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            68,
+            262
+          ]
+        }
+      ],
+      "orig": "%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Gabriela+Spanic+confiesa+qui%C3%A9n+es+el+padre+de+su+hijo+y+el+porqu%C3%A9+no+forma+parte+de+s pubplus-uploads.s3.amazonaws.com%2Fa2db4a83-d7b7-4944-bfec-e6e5eec68df7.jpg)",
+      "text": "%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Gabriela+Spanic+confiesa+qui%C3%A9n+es+el+padre+de+su+hijo+y+el+porqu%C3%A9+no+forma+parte+de+s pubplus-uploads.s3.amazonaws.com%2Fa2db4a83-d7b7-4944-bfec-e6e5eec68df7.jpg)"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 235.36,
+            "r": 484.12,
+            "b": 232.50400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 224.11,
+            "r": 454.866,
+            "b": 198.75400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            111,
+            358
+          ]
+        }
+      ],
+      "orig": "(http://cruisestrckr.com/cid/8b02c3ec-a9a8-4a95-8fd9-a041ba48934d?campaignid=2498200&site=afondoestadodemxico- afondoedomex&thumbnail=http%3A%2F%2Fcruisestrckr.com%2Fcontent%2Fabef7f50-4c02-46b0-8ac72d2cdd4e9fa5.bin&title=Mira+cu%C3%A1nto+pueden+costar+los+billetes+de+los+cruceros.&timestamp=2019-1003+03%3A54%3A49&platform=Desktop&campaignitemid=253728017)",
+      "text": "(http://cruisestrckr.com/cid/8b02c3ec-a9a8-4a95-8fd9-a041ba48934d?campaignid=2498200&site=afondoestadodemxico- afondoedomex&thumbnail=http%3A%2F%2Fcruisestrckr.com%2Fcontent%2Fabef7f50-4c02-46b0-8ac72d2cdd4e9fa5.bin&title=Mira+cu%C3%A1nto+pueden+costar+los+billetes+de+los+cruceros.&timestamp=2019-1003+03%3A54%3A49&platform=Desktop&campaignitemid=253728017)"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 184.23699999999997,
+            "r": 460.53,
+            "b": 176.014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Mira cuánto pueden costar los billetes de los cruceros.",
+      "text": "Mira cuánto pueden costar los billetes de los cruceros.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.25,
+            "t": 161.40999999999997,
+            "r": 546.511,
+            "b": 156.88300000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm",
+      "text": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 41.0,
+            "t": 127.65999999999997,
+            "r": 484.12,
+            "b": 123.00400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 41.0,
+            "t": 114.61000000000001,
+            "r": 454.866,
+            "b": 87.88300000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            189,
+            566
+          ]
+        }
+      ],
+      "orig": "(http://cruisestrckr.com/cid/8b02c3ec-a9a8-4a95-8fd9-a041ba48934d?campaignid=2498200&site=afondoestadodemxico(https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/?affid=167&u afondoedomex&thumbnail=http%3A%2F%2Fcruisestrckr.com%2Fcontent%2Fabef7f50-4c02-46b0-8ac72d2cdd4e9fa5.bin&title=Mira+cu%C3%A1nto+pueden+costar+los+billetes+de+los+cruceros.&timestamp=2019-1003+03%3A54%3A49&platform=Desktop&campaignitemid=253728017) theLotter.com | Patrocinado (https://popup.taboola.com/es/?template=colorb ¡Ya está en México! ¡La mayor lotería del mundo llegó!",
+      "text": "(http://cruisestrckr.com/cid/8b02c3ec-a9a8-4a95-8fd9-a041ba48934d?campaignid=2498200&site=afondoestadodemxico(https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/?affid=167&u afondoedomex&thumbnail=http%3A%2F%2Fcruisestrckr.com%2Fcontent%2Fabef7f50-4c02-46b0-8ac72d2cdd4e9fa5.bin&title=Mira+cu%C3%A1nto+pueden+costar+los+billetes+de+los+cruceros.&timestamp=2019-1003+03%3A54%3A49&platform=Desktop&campaignitemid=253728017) theLotter.com | Patrocinado (https://popup.taboola.com/es/?template=colorb ¡Ya está en México! ¡La mayor lotería del mundo llegó!"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 62.110000000000014,
+            "r": 313.189,
+            "b": 59.25400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "(https://estudios.cellinnov.es/d/fpe/taboola/5-activos-naturales-latam/?",
+      "text": "(https://estudios.cellinnov.es/d/fpe/taboola/5-activos-naturales-latam/?"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.75,
+            "t": 50.860000000000014,
+            "r": 538.265,
+            "b": 36.75400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "utm_source=Taboola&utm_medium=Native&utm_term=5activos&utm_campaign=PCINUAD8-CIN-TAB-ES-D-FPE-1Step-5Activos-FPE002LATAM)",
+      "text": "utm_source=Taboola&utm_medium=Native&utm_term=5activos&utm_campaign=PCINUAD8-CIN-TAB-ES-D-FPE-1Step-5Activos-FPE002LATAM)"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.730000000000018,
+            "r": 462.688,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/",
+      "text": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.730000000000018,
+            "r": 585.512,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "5/7",
+      "text": "5/7"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.73,
+            "r": 62.043,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "2/10/2019",
+      "text": "2/10/2019"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 120.781,
+            "t": 775.73,
+            "r": 557.016,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/",
+      "text": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 759.164,
+            "r": 461.891,
+            "b": 751.762,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Próstata: evite este error cometido por 9 hombres de cada 10",
+      "text": "Próstata: evite este error cometido por 9 hombres de cada 10",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.25,
+            "t": 738.91,
+            "r": 546.511,
+            "b": 734.382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm",
+      "text": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 707.11,
+            "r": 313.189,
+            "b": 704.254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "(https://estudios.cellinnov.es/d/fpe/taboola/5-activos-naturales-latam/?",
+      "text": "(https://estudios.cellinnov.es/d/fpe/taboola/5-activos-naturales-latam/?"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 695.86,
+            "r": 538.265,
+            "b": 681.754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "utm_source=Taboola&utm_medium=Native&utm_term=5activos&utm_campaign=PCINUAD8-CIN-TAB-ES-D-FPE-1Step-5Activos-FPE002LATAM)",
+      "text": "utm_source=Taboola&utm_medium=Native&utm_term=5activos&utm_campaign=PCINUAD8-CIN-TAB-ES-D-FPE-1Step-5Activos-FPE002LATAM)"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 673.36,
+            "r": 536.541,
+            "b": 659.254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 650.86,
+            "r": 544.898,
+            "b": 636.754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            188,
+            336
+          ]
+        }
+      ],
+      "orig": "(http://l0127zj6.drivepedia.com/trending/famosos-trabajo-normal-tb/?utm_campaign=Trabajos%20normales%202T%20Johu%20Es%20%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Fue+una+de+las+actrices+m%C3%A1s+populares+de+telenovela%2C+pero+se+lo+dej%C3%B3+por+un+emple c5cd-4ef7-9bec-643bdf3d51a5.png)",
+      "text": "(http://l0127zj6.drivepedia.com/trending/famosos-trabajo-normal-tb/?utm_campaign=Trabajos%20normales%202T%20Johu%20Es%20%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Fue+una+de+las+actrices+m%C3%A1s+populares+de+telenovela%2C+pero+se+lo+dej%C3%B3+por+un+emple c5cd-4ef7-9bec-643bdf3d51a5.png)"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 622.664,
+            "r": 533.907,
+            "b": 597.262,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "Fue una de las actrices más populares de telenovela, pero se lo dejó por un empleo normal",
+      "text": "Fue una de las actrices más populares de telenovela, pero se lo dejó por un empleo normal",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.25,
+            "t": 584.41,
+            "r": 546.511,
+            "b": 579.883,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm",
+      "text": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 570.61,
+            "r": 536.541,
+            "b": 556.504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 548.11,
+            "r": 544.898,
+            "b": 534.004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            188,
+            336
+          ]
+        }
+      ],
+      "orig": "(http://l0127zj6.drivepedia.com/trending/famosos-trabajo-normal-tb/?utm_campaign=Trabajos%20normales%202T%20Johu%20Es%20%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Fue+una+de+las+actrices+m%C3%A1s+populares+de+telenovela%2C+pero+se+lo+dej%C3%B3+por+un+emple c5cd-4ef7-9bec-643bdf3d51a5.png)",
+      "text": "(http://l0127zj6.drivepedia.com/trending/famosos-trabajo-normal-tb/?utm_campaign=Trabajos%20normales%202T%20Johu%20Es%20%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Fue+una+de+las+actrices+m%C3%A1s+populares+de+telenovela%2C+pero+se+lo+dej%C3%B3+por+un+emple c5cd-4ef7-9bec-643bdf3d51a5.png)"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 506.86,
+            "r": 515.272,
+            "b": 492.754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 484.36,
+            "r": 545.03,
+            "b": 470.254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            182,
+            380
+          ]
+        }
+      ],
+      "orig": "(http://i2yjobzx.noteabley.com/culture/secretos-adela-noriega-tb?utm_campaign=Adela%20Noriega%20NTB%20Johu%20Es%20%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Los+secretos+de+la+vida+de+Adela+Noriega+que+la+actriz+siempre+mantuvo+bajo+llave&utm_content=https pubplus-uploads.s3.amazonaws.com%2F8c05a0c5-4e59-4ca8-b263-a1e6240354e7.jpg)",
+      "text": "(http://i2yjobzx.noteabley.com/culture/secretos-adela-noriega-tb?utm_campaign=Adela%20Noriega%20NTB%20Johu%20Es%20%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Los+secretos+de+la+vida+de+Adela+Noriega+que+la+actriz+siempre+mantuvo+bajo+llave&utm_content=https pubplus-uploads.s3.amazonaws.com%2F8c05a0c5-4e59-4ca8-b263-a1e6240354e7.jpg)"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 455.737,
+            "r": 528.078,
+            "b": 447.514,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Los secretos de la vida de Adela Noriega que la actriz siempre…",
+      "text": "Los secretos de la vida de Adela Noriega que la actriz siempre…",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.25,
+            "t": 432.91,
+            "r": 546.511,
+            "b": 428.383,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm",
+      "text": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 397.36,
+            "r": 515.272,
+            "b": 383.254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 374.86,
+            "r": 545.03,
+            "b": 360.754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            182,
+            380
+          ]
+        }
+      ],
+      "orig": "(http://i2yjobzx.noteabley.com/culture/secretos-adela-noriega-tb?utm_campaign=Adela%20Noriega%20NTB%20Johu%20Es%20%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Los+secretos+de+la+vida+de+Adela+Noriega+que+la+actriz+siempre+mantuvo+bajo+llave&utm_content=https pubplus-uploads.s3.amazonaws.com%2F8c05a0c5-4e59-4ca8-b263-a1e6240354e7.jpg)",
+      "text": "(http://i2yjobzx.noteabley.com/culture/secretos-adela-noriega-tb?utm_campaign=Adela%20Noriega%20NTB%20Johu%20Es%20%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Los+secretos+de+la+vida+de+Adela+Noriega+que+la+actriz+siempre+mantuvo+bajo+llave&utm_content=https pubplus-uploads.s3.amazonaws.com%2F8c05a0c5-4e59-4ca8-b263-a1e6240354e7.jpg)"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 333.61,
+            "r": 397.347,
+            "b": 330.754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "(http://vr8rqolt.thefashionball.com/celebrity/asistentes-personales-estrellas-revelan-secretos-tb?",
+      "text": "(http://vr8rqolt.thefashionball.com/celebrity/asistentes-personales-estrellas-revelan-secretos-tb?"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 322.36,
+            "r": 355.388,
+            "b": 319.504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "utm_campaign=Personal%20Assistant%20Secrets%20USMX2%20Johu%20Es%20-",
+      "text": "utm_campaign=Personal%20Assistant%20Secrets%20USMX2%20Johu%20Es%20-"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 311.11,
+            "r": 353.812,
+            "b": 308.254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 299.86,
+            "r": 546.416,
+            "b": 285.754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            68,
+            262
+          ]
+        }
+      ],
+      "orig": "%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Los+empleados+de+los+famosos+revelan+sus+secretos+mejor+guardados+y+curiosidades+m%C3%A1s+ins%C pubplus-uploads.s3.amazonaws.com%2Faa8e3266-4bfb-4851-9460-79651027fecf.jpg)",
+      "text": "%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Los+empleados+de+los+famosos+revelan+sus+secretos+mejor+guardados+y+curiosidades+m%C3%A1s+ins%C pubplus-uploads.s3.amazonaws.com%2Faa8e3266-4bfb-4851-9460-79651027fecf.jpg)"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 271.664,
+            "r": 530.921,
+            "b": 246.26199999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "Los empleados de los famosos revelan sus secretos mejor guardados y curiosidades más insólitas",
+      "text": "Los empleados de los famosos revelan sus secretos mejor guardados y curiosidades más insólitas",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 70.25,
+            "t": 233.40999999999997,
+            "r": 546.511,
+            "b": 228.88300000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm",
+      "text": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 219.61,
+            "r": 397.347,
+            "b": 216.75400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "(http://vr8rqolt.thefashionball.com/celebrity/asistentes-personales-estrellas-revelan-secretos-tb?",
+      "text": "(http://vr8rqolt.thefashionball.com/celebrity/asistentes-personales-estrellas-revelan-secretos-tb?"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 208.36,
+            "r": 355.388,
+            "b": 205.50400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "utm_campaign=Personal%20Assistant%20Secrets%20USMX2%20Johu%20Es%20-",
+      "text": "utm_campaign=Personal%20Assistant%20Secrets%20USMX2%20Johu%20Es%20-"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 197.11,
+            "r": 353.812,
+            "b": 194.25400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 185.86,
+            "r": 546.416,
+            "b": 171.75400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            68,
+            262
+          ]
+        }
+      ],
+      "orig": "%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Los+empleados+de+los+famosos+revelan+sus+secretos+mejor+guardados+y+curiosidades+m%C3%A1s+ins%C pubplus-uploads.s3.amazonaws.com%2Faa8e3266-4bfb-4851-9460-79651027fecf.jpg)",
+      "text": "%20Desktop%20MEX&utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_term=Los+empleados+de+los+famosos+revelan+sus+secretos+mejor+guardados+y+curiosidades+m%C3%A1s+ins%C pubplus-uploads.s3.amazonaws.com%2Faa8e3266-4bfb-4851-9460-79651027fecf.jpg)"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 163.36,
+            "r": 416.173,
+            "b": 149.25400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 140.86,
+            "r": 546.796,
+            "b": 138.00400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            153,
+            267
+          ]
+        }
+      ],
+      "orig": "(http://likeitviral.com/trending/45-artistas-latinos-que-han-acumulado-una-gran-fortuna-en-sus-vidas? utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_campaign=2518034&utm_term=La+riqueza+de+Shakira+es+incre%C3%ADble%2C+mira+cu%C3%A1nto+vale&utm_co",
+      "text": "(http://likeitviral.com/trending/45-artistas-latinos-que-han-acumulado-una-gran-fortuna-en-sus-vidas? utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_campaign=2518034&utm_term=La+riqueza+de+Shakira+es+incre%C3%ADble%2C+mira+cu%C3%A1nto+vale&utm_co"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 41.0,
+            "t": 127.65999999999997,
+            "r": 399.638,
+            "b": 116.51199999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "La riqueza de Shakira es increíble, mira cuánto vale (https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/?affid=167&u",
+      "text": "La riqueza de Shakira es increíble, mira cuánto vale (https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/?affid=167&u",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 41.0,
+            "t": 107.303,
+            "r": 546.511,
+            "b": 99.13300000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm ¡Ya está en México! ¡La mayor lotería del mundo llegó!",
+      "text": "| Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=afondoestadodemxico-afondoedomex&utm ¡Ya está en México! ¡La mayor lotería del mundo llegó!",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 41.0,
+            "t": 92.40999999999997,
+            "r": 336.088,
+            "b": 87.88300000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "theLotter.com | Patrocinado (https://popup.taboola.com/es/?template=colorb",
+      "text": "theLotter.com | Patrocinado (https://popup.taboola.com/es/?template=colorb"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 71.86000000000001,
+            "r": 416.173,
+            "b": 57.75400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.75,
+            "t": 49.360000000000014,
+            "r": 546.796,
+            "b": 46.50400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            153,
+            267
+          ]
+        }
+      ],
+      "orig": "(http://likeitviral.com/trending/45-artistas-latinos-que-han-acumulado-una-gran-fortuna-en-sus-vidas? utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_campaign=2518034&utm_term=La+riqueza+de+Shakira+es+incre%C3%ADble%2C+mira+cu%C3%A1nto+vale&utm_co",
+      "text": "(http://likeitviral.com/trending/45-artistas-latinos-que-han-acumulado-una-gran-fortuna-en-sus-vidas? utm_source=taboola&utm_medium=afondoestadodemxico- afondoedomex&utm_campaign=2518034&utm_term=La+riqueza+de+Shakira+es+incre%C3%ADble%2C+mira+cu%C3%A1nto+vale&utm_co"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.730000000000018,
+            "r": 462.688,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/",
+      "text": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.730000000000018,
+            "r": 585.512,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "6/7",
+      "text": "6/7"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.73,
+            "r": 62.043,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "2/10/2019",
+      "text": "2/10/2019"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 120.781,
+            "t": 775.73,
+            "r": 557.016,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/",
+      "text": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.75,
+            "t": 761.11,
+            "r": 529.108,
+            "b": 747.004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "(https://afondoedomex.com/valle-de-mexico/video-graban-la-muerte-de-joven-asaltante-familiares-y-amigos-lo-despiden-con-llanto-ybalazos/)",
+      "text": "(https://afondoedomex.com/valle-de-mexico/video-graban-la-muerte-de-joven-asaltante-familiares-y-amigos-lo-despiden-con-llanto-ybalazos/)"
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.75,
+            "t": 732.913,
+            "r": 520.361,
+            "b": 707.512,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "»VIDEO: Graban la muerte de joven asaltante; lo despiden con llanto y balazos",
+      "text": "»VIDEO: Graban la muerte de joven asaltante; lo despiden con llanto y balazos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.75,
+            "t": 694.655,
+            "r": 128.792,
+            "b": 690.132,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Afondoedomex",
+      "text": "Afondoedomex"
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.75,
+            "t": 662.86,
+            "r": 529.108,
+            "b": 648.754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "(https://afondoedomex.com/valle-de-mexico/video-graban-la-muerte-de-joven-asaltante-familiares-y-amigos-lo-despiden-con-llanto-ybalazos/)",
+      "text": "(https://afondoedomex.com/valle-de-mexico/video-graban-la-muerte-de-joven-asaltante-familiares-y-amigos-lo-despiden-con-llanto-ybalazos/)"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.75,
+            "t": 640.36,
+            "r": 507.74,
+            "b": 637.504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "(https://afondoedomex.com/zona-oriente/locura-padres-abusan-sexualmente-de-nina-de-8-anos-y-lo-transmiten-por-facebook/)",
+      "text": "(https://afondoedomex.com/zona-oriente/locura-padres-abusan-sexualmente-de-nina-de-8-anos-y-lo-transmiten-por-facebook/)"
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.75,
+            "t": 623.413,
+            "r": 533.129,
+            "b": 598.012,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "LOCURA: Padres abusan sexualmente de niña de 8 años y lo transmiten por Facebook",
+      "text": "LOCURA: Padres abusan sexualmente de niña de 8 años y lo transmiten por Facebook",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.75,
+            "t": 585.155,
+            "r": 128.792,
+            "b": 580.632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Afondoedomex",
+      "text": "Afondoedomex"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.75,
+            "t": 553.36,
+            "r": 507.74,
+            "b": 550.504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "(https://afondoedomex.com/zona-oriente/locura-padres-abusan-sexualmente-de-nina-de-8-anos-y-lo-transmiten-por-facebook/)",
+      "text": "(https://afondoedomex.com/zona-oriente/locura-padres-abusan-sexualmente-de-nina-de-8-anos-y-lo-transmiten-por-facebook/)"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 207.125,
+            "t": 494.573,
+            "r": 508.751,
+            "b": 467.506,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "(https://afondoedomex.com/category/zona-norte/) b Zona Norte",
+      "text": "(https://afondoedomex.com/category/zona-norte/) b Zona Norte",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 207.125,
+            "t": 457.073,
+            "r": 306.843,
+            "b": 438.177,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "c Zona Oriente",
+      "text": "c Zona Oriente",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 222.781,
+            "t": 434.68,
+            "r": 518.255,
+            "b": 430.006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "(https://afondoedomex.com/category/zona-oriente/)",
+      "text": "(https://afondoedomex.com/category/zona-oriente/)"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 207.125,
+            "t": 419.573,
+            "r": 283.42,
+            "b": 400.677,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "d Zona Sur",
+      "text": "d Zona Sur",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 222.781,
+            "t": 397.18,
+            "r": 496.129,
+            "b": 392.506,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "(https://afondoedomex.com/category/zona-sur/)",
+      "text": "(https://afondoedomex.com/category/zona-sur/)"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 195.875,
+            "t": 382.073,
+            "r": 469.939,
+            "b": 336.256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "(https://afondoedomex.com/category/zonavolcanes/) f Zona Volcanes",
+      "text": "(https://afondoedomex.com/category/zonavolcanes/) f Zona Volcanes",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 195.875,
+            "t": 325.823,
+            "r": 486.868,
+            "b": 280.006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "(https://afondoedomex.com/category/valle-detoluca/) e Valle de Toluca",
+      "text": "(https://afondoedomex.com/category/valle-detoluca/) e Valle de Toluca",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 207.125,
+            "t": 269.573,
+            "r": 320.356,
+            "b": 250.67700000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "a Valle de México",
+      "text": "a Valle de México",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 195.875,
+            "t": 247.18000000000006,
+            "r": 486.868,
+            "b": 223.75599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "(https://afondoedomex.com/category/valle-demexico/)",
+      "text": "(https://afondoedomex.com/category/valle-demexico/)"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 188.375,
+            "t": 201.909,
+            "r": 206.094,
+            "b": 189.84400000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/pictures/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 282.594,
+            "t": 201.909,
+            "r": 300.312,
+            "b": 189.84400000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 184.625,
+            "t": 178.18000000000006,
+            "r": 484.651,
+            "b": 173.50599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "(https://www.facebook.com/AFondoEdomex/) (https://twitter.com/AFondoEdomex)",
+      "text": "(https://www.facebook.com/AFondoEdomex/) (https://twitter.com/AFondoEdomex)"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 41.0,
+            "t": 127.65899999999999,
+            "r": 335.474,
+            "b": 112.26099999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "Copyright 2019© afondoedomex.com (https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/?affid=167&u",
+      "text": "Copyright 2019© afondoedomex.com (https://www.thelotter.com/es/jugar-loteria-powerball-desde-mexico/?affid=167&u"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 41.0,
+            "t": 107.303,
+            "r": 554.613,
+            "b": 37.26099999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            583
+          ]
+        }
+      ],
+      "orig": "Este material cuenta con derechos de propiedad intelectual por parte de A Fondo Estado de México, queda expresamente prohibida la publicación, retransmisión, distribución, venta, edición y cualquier otro uso de los contenidos de texto, fotografías, audios, videos y logotipos. Si desea hacer uso de este contenido por favor comunicarse a nuestro servicio de agencia de noticias A Fondo Estado de México al (55) 63476666 (tel:+5563476666) Muchas gracias. theLotter.com | Patrocinado (https://popup.taboola.com/es/?template=colorb ¡Ya está en México! ¡La mayor lotería del mundo llegó!",
+      "text": "Este material cuenta con derechos de propiedad intelectual por parte de A Fondo Estado de México, queda expresamente prohibida la publicación, retransmisión, distribución, venta, edición y cualquier otro uso de los contenidos de texto, fotografías, audios, videos y logotipos. Si desea hacer uso de este contenido por favor comunicarse a nuestro servicio de agencia de noticias A Fondo Estado de México al (55) 63476666 (tel:+5563476666) Muchas gracias. theLotter.com | Patrocinado (https://popup.taboola.com/es/?template=colorb ¡Ya está en México! ¡La mayor lotería del mundo llegó!"
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 40.25,
+            "t": 393.271,
+            "r": 170.982,
+            "b": 387.51,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "(https://afondoedomex.com)",
+      "text": "(https://afondoedomex.com)"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.730000000000018,
+            "r": 462.688,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/",
+      "text": "https://afondoedomex.com/zona-oriente/grupo-armado-secuestra-a-jovenes-de-ecatepec-que-se-encontraban-en-veracruz/"
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.730000000000018,
+            "r": 585.512,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "7/7",
+      "text": "7/7"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 490.4365539550781,
+            "t": 729.8701362609863,
+            "r": 517.5515747070312,
+            "b": 695.0694732666016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 50.6824836730957,
+            "t": 764.5055446624756,
+            "r": 561.9827270507812,
+            "b": 459.7286682128906,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 76.25778198242188,
+            "t": 761.821683883667,
+            "r": 104.58672332763672,
+            "b": 733.612548828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 67.75777435302734,
+            "t": 618.4003601074219,
+            "r": 105.31011199951172,
+            "b": 580.7235412597656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 67.84276580810547,
+            "t": 560.2394866943359,
+            "r": 105.7116470336914,
+            "b": 522.6245727539062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 207.252685546875,
+            "t": 496.17169189453125,
+            "r": 225.92236328125,
+            "b": 475.86981201171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 208.1197052001953,
+            "t": 457.4151306152344,
+            "r": 224.5713348388672,
+            "b": 438.0729675292969,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 206.03439331054688,
+            "t": 418.8187561035156,
+            "r": 226.78419494628906,
+            "b": 400.94415283203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 208.31979370117188,
+            "t": 383.0655517578125,
+            "r": 223.91455078125,
+            "b": 363.4857482910156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 210.5470428466797,
+            "t": 327.0369873046875,
+            "r": 221.43939208984375,
+            "b": 306.5965881347656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 206.75152587890625,
+            "t": 269.793212890625,
+            "r": 225.97830200195312,
+            "b": 251.632080078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/148"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 186.74472045898438,
+            "t": 205.810546875,
+            "r": 206.1770477294922,
+            "b": 186.4412841796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/149"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 281.3209533691406,
+            "t": 205.51739501953125,
+            "r": 300.20416259765625,
+            "b": 186.75006103515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    }
+  }
+}

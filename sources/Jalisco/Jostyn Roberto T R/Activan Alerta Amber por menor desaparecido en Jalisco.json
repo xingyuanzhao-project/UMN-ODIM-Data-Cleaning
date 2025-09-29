@@ -1,0 +1,819 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Activan Alerta Amber por menor desaparecido en Jalisco",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8834002367030987888,
+    "filename": "Activan Alerta Amber por menor desaparecido en Jalisco.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 772.935,
+            "r": 217.441,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Activan Alerta Amber por menor desaparecido en Jalisco",
+      "text": "Activan Alerta Amber por menor desaparecido en Jalisco"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.829,
+            "t": 772.935,
+            "r": 593.77,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "4/26/20 12(26 PM",
+      "text": "4/26/20 12(26 PM"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 17.2,
+            "t": 745.954,
+            "r": 600.727,
+            "b": 718.48,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Activan Alerta Amber por menor desaparecido en",
+      "text": "Activan Alerta Amber por menor desaparecido en",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 17.2,
+            "t": 710.141,
+            "r": 209.85,
+            "b": 703.591,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Por Redacción Así Sucede - 9 septiembre 2016 @ 19:15",
+      "text": "Por Redacción Así Sucede - 9 septiembre 2016 @ 19:15"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 17.2,
+            "t": 680.066,
+            "r": 606.756,
+            "b": 645.88,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "Activan Alerta Amber México de Jostyn Roberto Treviño Rizo, de 4 años de edad, que fue rep localizado en el estado de Jalisco.",
+      "text": "Activan Alerta Amber México de Jostyn Roberto Treviño Rizo, de 4 años de edad, que fue rep localizado en el estado de Jalisco."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 17.2,
+            "t": 629.029,
+            "r": 529.478,
+            "b": 540.29,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            501
+          ]
+        }
+      ],
+      "orig": "El 07 de septiembre de 2016, el ni-o Jostyn Roberto Trevi-o Rizo, se encontraba en el Rancho los Pocitos , Jalisco en compa-'a de su abuelo paterno cuando dos hombres agredieron a su abuelo y lo sustrajeron, huyendo del lugar a bordo de una camioneta roja, marca FORD, tipo EXPLORED, modelo 96 propiedad de la familia, sin que hasta el momento se tengan noticias de su paradero. Se considera que la integridad del ni-o se encuentra en riesgo toda vez que puede ser v'ctima de la comisi-n de un delito.",
+      "text": "El 07 de septiembre de 2016, el ni-o Jostyn Roberto Trevi-o Rizo, se encontraba en el Rancho los Pocitos , Jalisco en compa-'a de su abuelo paterno cuando dos hombres agredieron a su abuelo y lo sustrajeron, huyendo del lugar a bordo de una camioneta roja, marca FORD, tipo EXPLORED, modelo 96 propiedad de la familia, sin que hasta el momento se tengan noticias de su paradero. Se considera que la integridad del ni-o se encuentra en riesgo toda vez que puede ser v'ctima de la comisi-n de un delito."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 17.2,
+            "t": 408.6,
+            "r": 71.915,
+            "b": 401.346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Relacionado",
+      "text": "Relacionado",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 17.2,
+            "t": 385.226,
+            "r": 160.233,
+            "b": 364.415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Activan Alerta Amber por menor desaparecida en Jalisco",
+      "text": "Activan Alerta Amber por menor desaparecida en Jalisco"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 17.2,
+            "t": 359.626,
+            "r": 131.758,
+            "b": 338.815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "20 octubre 2015 @ 19:50 En ÇSeguridadÈ",
+      "text": "20 octubre 2015 @ 19:50 En ÇSeguridadÈ"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 17.2,
+            "t": 308.866,
+            "r": 99.539,
+            "b": 293.88,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Comentarios",
+      "text": "Comentarios",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 17.2,
+            "t": 277.029,
+            "r": 85.745,
+            "b": 268.28999999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "0 comentarios",
+      "text": "0 comentarios"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.35,
+            "t": 65.11199999999997,
+            "r": 390.565,
+            "b": 57.83400000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "Privacidad y cookies: este sitio utiliza cookies. Al continuar utilizando esta web, aceptas su uso.",
+      "text": "Privacidad y cookies: este sitio utiliza cookies. Al continuar utilizando esta web, aceptas su uso."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 468.3,
+            "t": 385.226,
+            "r": 611.333,
+            "b": 364.415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Activan Alerta Amber por menor desaparecido en Ecatepec",
+      "text": "Activan Alerta Amber por menor desaparecido en Ecatepec"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 468.3,
+            "t": 359.626,
+            "r": 568.77,
+            "b": 338.815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "25 abril 2016 @ 19:55 En ÇDestacadasÈ",
+      "text": "25 abril 2016 @ 19:55 En ÇDestacadasÈ"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 242.75,
+            "t": 385.226,
+            "r": 385.783,
+            "b": 364.415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Activan Alerta Amber por menor desaparecido en Tultitl‡n",
+      "text": "Activan Alerta Amber por menor desaparecido en Tultitl‡n"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 242.75,
+            "t": 359.626,
+            "r": 347.774,
+            "b": 338.815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "5 agosto 2016 @ 14:08 En ÇDestacadasÈ",
+      "text": "5 agosto 2016 @ 14:08 En ÇDestacadasÈ"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 47.934999999999945,
+            "r": 290.545,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "https://asisucede.com.mx/activan-alerta-amber-menor-desaparecido-jalisco/",
+      "text": "https://asisucede.com.mx/activan-alerta-amber-menor-desaparecido-jalisco/"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 547.198,
+            "t": 47.934999999999945,
+            "r": 593.788,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Página 1 de 2",
+      "text": "Página 1 de 2"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 772.935,
+            "r": 217.441,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Activan Alerta Amber por menor desaparecido en Jalisco",
+      "text": "Activan Alerta Amber por menor desaparecido en Jalisco"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 530.829,
+            "t": 772.935,
+            "r": 593.77,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "4/26/20 12(26 PM",
+      "text": "4/26/20 12(26 PM"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.35,
+            "t": 750.712,
+            "r": 412.92,
+            "b": 731.434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "Privacidad y cookies: este sitio utiliza cookies. Al continuar utilizando esta web, aceptas su uso. Para obtener más información, incluido cómo controlar las cookies, consulta aquí: Política de cookies",
+      "text": "Privacidad y cookies: este sitio utiliza cookies. Al continuar utilizando esta web, aceptas su uso. Para obtener más información, incluido cómo controlar las cookies, consulta aquí: Política de cookies"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 505.764,
+            "t": 744.883,
+            "r": 571.936,
+            "b": 736.878,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Cerrar y aceptar",
+      "text": "Cerrar y aceptar"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 47.934999999999945,
+            "r": 290.545,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "https://asisucede.com.mx/activan-alerta-amber-menor-desaparecido-jalisco/",
+      "text": "https://asisucede.com.mx/activan-alerta-amber-menor-desaparecido-jalisco/"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 546.234,
+            "t": 47.934999999999945,
+            "r": 593.784,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Página 2 de 2",
+      "text": "Página 2 de 2"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 552.3014526367188,
+            "t": 629.5545501708984,
+            "r": 595.1290893554688,
+            "b": 436.68206787109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

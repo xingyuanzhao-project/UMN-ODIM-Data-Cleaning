@@ -1,0 +1,772 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Qué me digan si mi hija está muerta",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8133723554361995318,
+    "filename": "Qué me digan si mi hija está muerta.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 153.014,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "'Que me digan si mi hija está muerta'",
+      "text": "'Que me digan si mi hija está muerta'"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 313.937,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "https://www.zocalo.com.mx/seccion/articulo/que-me-digan-si-mi-hija-es...",
+      "text": "https://www.zocalo.com.mx/seccion/articulo/que-me-digan-si-mi-hija-es..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 450.935,
+            "b": 711.806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "'Que me digan si mi hija está muerta'",
+      "text": "'Que me digan si mi hija está muerta'",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.04,
+            "t": 683.195,
+            "r": 130.033,
+            "b": 673.935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Redacción",
+      "text": "Redacción"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 646.378,
+            "r": 519.015,
+            "b": 609.316,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "Saltillo, Coah.Mientras continúa el hermetismo en el caso de la pareja baleada y desaparecida la madrugada del martes, la mamá de la mujer sigue sin encontrar respuestas ni consuelo.",
+      "text": "Saltillo, Coah.Mientras continúa el hermetismo en el caso de la pareja baleada y desaparecida la madrugada del martes, la mamá de la mujer sigue sin encontrar respuestas ni consuelo."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 594.061,
+            "r": 526.966,
+            "b": 543.553,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        }
+      ],
+      "orig": "'Quisiera que alguien me dijera si mi hija está muerta, golpeada, si mi nieto está bien o dónde está, nadie quiere dar información; ella no es una delincuente, vivimos juntas', son las palabras que en medio de las lágrimas salen de la boca de María de la Luz Ramírez.",
+      "text": "'Quisiera que alguien me dijera si mi hija está muerta, golpeada, si mi nieto está bien o dónde está, nadie quiere dar información; ella no es una delincuente, vivimos juntas', son las palabras que en medio de las lágrimas salen de la boca de María de la Luz Ramírez."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 528.419,
+            "r": 524.816,
+            "b": 491.351,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            246
+          ]
+        }
+      ],
+      "orig": "Y es que desde la madrugada del martes, la desesperación por no saber dónde se encuentra Cecilia López Ramírez, quien tiene siete meses de gestación y su esposo Pablo César Ortiz Rodríguez, mantienen a la madre de familia al borde de la histeria.",
+      "text": "Y es que desde la madrugada del martes, la desesperación por no saber dónde se encuentra Cecilia López Ramírez, quien tiene siete meses de gestación y su esposo Pablo César Ortiz Rodríguez, mantienen a la madre de familia al borde de la histeria."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 462.783,
+            "r": 242.071,
+            "b": 452.596,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "\"TODO VA A SALIR BIEN\"",
+      "text": "\"TODO VA A SALIR BIEN\"",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 437.341,
+            "r": 529.022,
+            "b": 400.272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            243
+          ]
+        }
+      ],
+      "orig": "'Dios te bendiga hija, todo va salir bien, sólo confía en Dios, yo me encargo de Andrés', fueron las palabras que María de la Luz dijo a Cecilia la noche que salió para acudir a las instalaciones de Cruz Roja por un fuerte dolor en el vientre.",
+      "text": "'Dios te bendiga hija, todo va salir bien, sólo confía en Dios, yo me encargo de Andrés', fueron las palabras que María de la Luz dijo a Cecilia la noche que salió para acudir a las instalaciones de Cruz Roja por un fuerte dolor en el vientre."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 385.137,
+            "r": 526.836,
+            "b": 348.072,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "Tras conocer la noticia en los medios de comunicación de la agresión que fue víctima la pareja de esposos, comenzó una incansable búsqueda por los nosocomios sin tener resultado.",
+      "text": "Tras conocer la noticia en los medios de comunicación de la agresión que fue víctima la pareja de esposos, comenzó una incansable búsqueda por los nosocomios sin tener resultado."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 332.938,
+            "r": 521.062,
+            "b": 295.872,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "Al saber que fueron elementos de la Secretaría de la Defensa Nacional quienes propiciaron la agresión, entró a todas las demarcaciones policiacas que existen en la ciudad.",
+      "text": "Al saber que fueron elementos de la Secretaría de la Defensa Nacional quienes propiciaron la agresión, entró a todas las demarcaciones policiacas que existen en la ciudad."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 280.622,
+            "r": 199.529,
+            "b": 270.43499999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "NADIE DICE NADA",
+      "text": "NADIE DICE NADA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 255.30099999999993,
+            "r": 523.082,
+            "b": 218.23199999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            244
+          ]
+        }
+      ],
+      "orig": "Procuraduría General de la República, Fiscalía General del Estado, las tres delegaciones de la Policía Municipal, además del 69 Batallón de Infantería y la Sexta Zona fueron a los lugares donde, con el pequeño en brazos, acudió María de la Luz.",
+      "text": "Procuraduría General de la República, Fiscalía General del Estado, las tres delegaciones de la Policía Municipal, además del 69 Batallón de Infantería y la Sexta Zona fueron a los lugares donde, con el pequeño en brazos, acudió María de la Luz."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 203.09799999999996,
+            "r": 508.422,
+            "b": 166.03200000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "'Nadie quiere decir qué pasó, qué fue lo que hicieron, por qué los desaparecieron, quizá si me expliquen podría entenderlo, pero es muy difícil, eso sólo lo hacen los delincuentes', exclamó la mujer.",
+      "text": "'Nadie quiere decir qué pasó, qué fue lo que hicieron, por qué los desaparecieron, quizá si me expliquen podría entenderlo, pero es muy difícil, eso sólo lo hacen los delincuentes', exclamó la mujer."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 150.78200000000004,
+            "r": 526.836,
+            "b": 113.71199999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "Por otra parte, personal de los nosocomios de la localidad aseguran que ninguno de los dos ingresó, ni siquiera al área de urgencias, pues no todos los días se atiende un herido por arma de fuego y en ese caso de inmediato se da aviso a la Fiscalía General.",
+      "text": "Por otra parte, personal de los nosocomios de la localidad aseguran que ninguno de los dos ingresó, ni siquiera al área de urgencias, pues no todos los días se atiende un herido por arma de fuego y en ese caso de inmediato se da aviso a la Fiscalía General."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 98.57799999999997,
+            "r": 246.455,
+            "b": 88.39099999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "NOTICAS RELACIONADAS",
+      "text": "NOTICAS RELACIONADAS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 73.25700000000006,
+            "r": 446.253,
+            "b": 49.63099999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "Sin rastro de la pareja baleada; no hay pistas ni denuncia Confirman auxilio del Ejército en la Secretaría de la Defensa Nacional",
+      "text": "Sin rastro de la pareja baleada; no hay pistas ni denuncia Confirman auxilio del Ejército en la Secretaría de la Defensa Nacional"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 2",
+      "text": "1 of 2"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 9:38 AM",
+      "text": "9/13/2019, 9:38 AM"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 313.937,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "https://www.zocalo.com.mx/seccion/articulo/que-me-digan-si-mi-hija-es...",
+      "text": "https://www.zocalo.com.mx/seccion/articulo/que-me-digan-si-mi-hija-es..."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 153.014,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "'Que me digan si mi hija está muerta'",
+      "text": "'Que me digan si mi hija está muerta'"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 753.298,
+            "r": 390.132,
+            "b": 662.475,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            291
+          ]
+        }
+      ],
+      "orig": "Aún no hay denuncia por desaparición de jóvenes baleados 'Que me digan si mi hija está muerta' Balean a pareja en Centro de Saltillo No hay rastro de la pareja baleada Cubre hermetismo balacera en Saltillo Viacrucis en busca de su hija desaparecida Crónica: Ataque rompe el silencio nocturno",
+      "text": "Aún no hay denuncia por desaparición de jóvenes baleados 'Que me digan si mi hija está muerta' Balean a pareja en Centro de Saltillo No hay rastro de la pareja baleada Cubre hermetismo balacera en Saltillo Viacrucis en busca de su hija desaparecida Crónica: Ataque rompe el silencio nocturno"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2 of 2",
+      "text": "2 of 2"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 9:38 AM",
+      "text": "9/13/2019, 9:38 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

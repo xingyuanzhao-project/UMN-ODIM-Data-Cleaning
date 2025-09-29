@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Reportan desaparecido a comerciante",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 11642086854929477487,
+    "filename": "Reportan desaparecido a comerciante.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.17905234375,
+            "r": 626.253,
+            "b": 577.81305234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            329
+          ]
+        }
+      ],
+      "orig": "Reportan desaparecido a comerciante edición impresa 0 ESTADOS Reportan desaparecido a comerciante Jesús Guerrero Chilpancingo, México (20 noviembre 2017) .-15:57 hrs El comerciante Armando García González, quien hace cuatro días salió rumbo a Tierra Caliente, se encuentra desaparecido, denunció su hermano José Francisco García.",
+      "text": "Reportan desaparecido a comerciante edición impresa 0 ESTADOS Reportan desaparecido a comerciante Jesús Guerrero Chilpancingo, México (20 noviembre 2017) .-15:57 hrs El comerciante Armando García González, quien hace cuatro días salió rumbo a Tierra Caliente, se encuentra desaparecido, denunció su hermano José Francisco García."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 633.0202026367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

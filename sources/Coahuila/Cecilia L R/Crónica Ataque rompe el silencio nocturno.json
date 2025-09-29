@@ -1,0 +1,524 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Crónica Ataque rompe el silencio nocturno",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 11039947841028170547,
+    "filename": "Crónica Ataque rompe el silencio nocturno.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 175.095,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Crónica: Ataque rompe el silencio nocturno",
+      "text": "Crónica: Ataque rompe el silencio nocturno"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 315.132,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "https://www.zocalo.com.mx/seccion/articulo/cronica-ataque-rompe-el-si...",
+      "text": "https://www.zocalo.com.mx/seccion/articulo/cronica-ataque-rompe-el-si..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 508.29,
+            "b": 711.806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Crónica: Ataque rompe el silencio nocturno",
+      "text": "Crónica: Ataque rompe el silencio nocturno",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.04,
+            "t": 683.195,
+            "r": 130.033,
+            "b": 673.935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Redacción",
+      "text": "Redacción"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 646.378,
+            "r": 524.563,
+            "b": 595.876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            258
+          ]
+        }
+      ],
+      "orig": "Saltillo, Coah.Mientras la ciudad estaba en completa calma, una balacera rompió con el silencio la madrugada de ayer, en plena Zona Centro, cuando desconocidos accionaron sus armas de grueso calibre en contra de una pareja de jóvenes que viajaba en un coche.",
+      "text": "Saltillo, Coah.Mientras la ciudad estaba en completa calma, una balacera rompió con el silencio la madrugada de ayer, en plena Zona Centro, cuando desconocidos accionaron sus armas de grueso calibre en contra de una pareja de jóvenes que viajaba en un coche."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 580.62,
+            "r": 513.447,
+            "b": 543.553,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "El incidente, que ocurrió a las 02:30 horas, movilizó a las diferentes corporaciones policiacas locales, cuyos elementos arribaron al lugar de la escena fuertemente armados para realizar las investigaciones correspondientes.",
+      "text": "El incidente, que ocurrió a las 02:30 horas, movilizó a las diferentes corporaciones policiacas locales, cuyos elementos arribaron al lugar de la escena fuertemente armados para realizar las investigaciones correspondientes."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 526.98,
+            "r": 154.539,
+            "b": 516.794,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "EL ATAQUE",
+      "text": "EL ATAQUE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 501.538,
+            "r": 524.46,
+            "b": 464.476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "Según policías municipales, todo inició cuando la pareja viajaba en un Nissan blanco y fue atacada por un automóvil sedán color obscuro en las calles de Obregón e Ildefonso Fuentes para luego darse a la fuga.",
+      "text": "Según policías municipales, todo inició cuando la pareja viajaba en un Nissan blanco y fue atacada por un automóvil sedán color obscuro en las calles de Obregón e Ildefonso Fuentes para luego darse a la fuga."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 449.342,
+            "r": 529.331,
+            "b": 425.715,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "El conductor, al temer por su vida, pisó a fondo el acelerador en sentido contrario por la calle de Obregón hacia el norte.",
+      "text": "El conductor, al temer por su vida, pisó a fondo el acelerador en sentido contrario por la calle de Obregón hacia el norte."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 410.458,
+            "r": 530.435,
+            "b": 373.515,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "En la persecución, los atacantes detonaron sus armas de alto poder, rociando de balas el coche, obligando al conductor a detenerse en el cruce del bulevar Francisco Coss, a un costado del Congreso del Estado, mientras el comando armado huía.",
+      "text": "En la persecución, los atacantes detonaron sus armas de alto poder, rociando de balas el coche, obligando al conductor a detenerse en el cruce del bulevar Francisco Coss, a un costado del Congreso del Estado, mientras el comando armado huía."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 358.258,
+            "r": 526.765,
+            "b": 321.192,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "Las víctimas habrían resultado heridas de bala en distintas partes de su cuerpo, y habrían sido llevadas por una patrulla del Ejército a algún nosocomio saltillense para su atención médica.",
+      "text": "Las víctimas habrían resultado heridas de bala en distintas partes de su cuerpo, y habrían sido llevadas por una patrulla del Ejército a algún nosocomio saltillense para su atención médica."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 306.058,
+            "r": 530.043,
+            "b": 255.55600000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            324
+          ]
+        }
+      ],
+      "orig": "Esparcidos en la vía pública había varios casquillos percutidos como prueba del brutal ataque. Las balas traspasaron la carrocería del auto compacto y destrozaron el medallón trasero, incrustándose en los asientos, evidencias que fueron analizadas por los elementos de Servicios Periciales de la Fiscalía General del Estado.",
+      "text": "Esparcidos en la vía pública había varios casquillos percutidos como prueba del brutal ataque. Las balas traspasaron la carrocería del auto compacto y destrozaron el medallón trasero, incrustándose en los asientos, evidencias que fueron analizadas por los elementos de Servicios Periciales de la Fiscalía General del Estado."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 240.42200000000003,
+            "r": 246.455,
+            "b": 230.236,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "NOTICAS RELACIONADAS",
+      "text": "NOTICAS RELACIONADAS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 214.97800000000007,
+            "r": 308.837,
+            "b": 151.029,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "Balean a pareja en Centro de Saltillo No hay rastro de la pareja baleada Cubre hermetismo balacera en Saltillo Viacrucis en busca de su hija desaparecida Crónica: Ataque rompe el silencio nocturno",
+      "text": "Balean a pareja en Centro de Saltillo No hay rastro de la pareja baleada Cubre hermetismo balacera en Saltillo Viacrucis en busca de su hija desaparecida Crónica: Ataque rompe el silencio nocturno"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 9:41 AM",
+      "text": "9/13/2019, 9:41 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

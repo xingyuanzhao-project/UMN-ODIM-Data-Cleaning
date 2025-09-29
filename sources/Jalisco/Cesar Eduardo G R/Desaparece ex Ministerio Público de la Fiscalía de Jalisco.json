@@ -1,0 +1,4218 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Desaparece ex Ministerio Público de la Fiscalía de Jalisco",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 11685391559313584838,
+    "filename": "Desaparece ex Ministerio Público de la Fiscalía de Jalisco.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/pictures/11"
+      },
+      {
+        "$ref": "#/pictures/12"
+      },
+      {
+        "$ref": "#/pictures/13"
+      },
+      {
+        "$ref": "#/pictures/14"
+      },
+      {
+        "$ref": "#/pictures/15"
+      },
+      {
+        "$ref": "#/pictures/16"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/pictures/17"
+      },
+      {
+        "$ref": "#/pictures/18"
+      },
+      {
+        "$ref": "#/pictures/19"
+      },
+      {
+        "$ref": "#/pictures/20"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/pictures/21"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/52"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/59"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.987,
+            "t": 794.4470029101562,
+            "r": 212.512,
+            "b": 789.4090029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "(https://heraldodemexico.com.mx/)",
+      "text": "(https://heraldodemexico.com.mx/)"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 547.545,
+            "t": 801.6420029101563,
+            "r": 556.456,
+            "b": 796.0460029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.998,
+            "t": 774.0540029101562,
+            "r": 460.688,
+            "b": 766.0110029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Desaparece ex Ministerio Público de la Fiscalía de Jalisco",
+      "text": "Desaparece ex Ministerio Público de la Fiscalía de Jalisco",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.998,
+            "t": 744.5450029101562,
+            "r": 537.479,
+            "b": 738.3580029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "Sus familiares interpusieron la denuncia correspondiente por este hecho el sábado pasado",
+      "text": "Sus familiares interpusieron la denuncia correspondiente por este hecho el sábado pasado"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 40.996,
+            "t": 385.09900291015623,
+            "r": 79.868,
+            "b": 381.63500291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Foto: Especial",
+      "text": "Foto: Especial"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 128.722,
+            "t": 361.10800291015624,
+            "r": 467.279,
+            "b": 357.25900291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "POR HERALDO DE MÉXICO (HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/REDACCION/)  JUNIO 3, 2018",
+      "text": "POR HERALDO DE MÉXICO (HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/REDACCION/)  JUNIO 3, 2018"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.998,
+            "t": 331.2390029101562,
+            "r": 555.947,
+            "b": 311.58500291015616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "Desde el pasado 1 de junio, César Eduardo García Rodríguez , quien se desempeñaba como Ministerio Público de la Fiscalía General de Jalisco hace poco menos de un año, se encuentra desaparecido.",
+      "text": "Desde el pasado 1 de junio, César Eduardo García Rodríguez , quien se desempeñaba como Ministerio Público de la Fiscalía General de Jalisco hace poco menos de un año, se encuentra desaparecido."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.998,
+            "t": 295.8520029101562,
+            "r": 539.852,
+            "b": 276.1980029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "César tuvo cargos como agente investigador en el Área de Homicidios Intencionales de esta dependencia estatal, director del área de robo a vehículos y un cargo de coordinación en Ciudad Niñez del Sistema DIF Jalisco.",
+      "text": "César tuvo cargos como agente investigador en el Área de Homicidios Intencionales de esta dependencia estatal, director del área de robo a vehículos y un cargo de coordinación en Ciudad Niñez del Sistema DIF Jalisco."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.998,
+            "t": 260.4650029101563,
+            "r": 556.972,
+            "b": 240.81200291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "Sus familiares interpusieron la denuncia correspondiente por este hecho el sábado pasado, pero además han pedido apoyo para su localización a través de redes sociales.",
+      "text": "Sus familiares interpusieron la denuncia correspondiente por este hecho el sábado pasado, pero además han pedido apoyo para su localización a través de redes sociales."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.998,
+            "t": 225.0790029101563,
+            "r": 551.823,
+            "b": 191.0300029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            337
+          ]
+        }
+      ],
+      "orig": "Según los datos aportados ahí, César fue visto por última vez el 1 de junio a las 8:30 de la mañana en la calle Arturo Chaires de la colonia Paseos del Sol en Zapopan, Jalisco, cuando salió en su camioneta Ford Ecosport 2005 color negra para atender una cita de trabajo, pues tras su salida de la dependencia estatal fungía como abogado.",
+      "text": "Según los datos aportados ahí, César fue visto por última vez el 1 de junio a las 8:30 de la mañana en la calle Arturo Chaires de la colonia Paseos del Sol en Zapopan, Jalisco, cuando salió en su camioneta Ford Ecosport 2005 color negra para atender una cita de trabajo, pues tras su salida de la dependencia estatal fungía como abogado."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.998,
+            "t": 175.29700291015627,
+            "r": 552.485,
+            "b": 126.85400291015628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            360
+          ]
+        }
+      ],
+      "orig": "La Fiscalía General no ha hecho ningún pronunciamiento al respecto, sin embargo, de manera extraoficial se informó que al ex ministerio público le tocó llevar la investigación del asesinato del entonces titular de la Secretaría de Turismo, Jesús Gallegos Álvarez, la cual derivó en el esclarecimiento del homicidio y la detención de los presuntos responsables.",
+      "text": "La Fiscalía General no ha hecho ningún pronunciamiento al respecto, sin embargo, de manera extraoficial se informó que al ex ministerio público le tocó llevar la investigación del asesinato del entonces titular de la Secretaría de Turismo, Jesús Gallegos Álvarez, la cual derivó en el esclarecimiento del homicidio y la detención de los presuntos responsables."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.998,
+            "t": 111.12100291015622,
+            "r": 557.71,
+            "b": 91.46700291015622,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "La investigación que realizó el ex funcionario fue cuando Luis Carlos Nájera Gutiérrez de Velasco era fiscal general de Jalisco.",
+      "text": "La investigación que realizó el ex funcionario fue cuando Luis Carlos Nájera Gutiérrez de Velasco era fiscal general de Jalisco."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.998,
+            "t": 75.73400291015628,
+            "r": 553.271,
+            "b": 56.08000291015628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "Su familia reporta que el día de su desaparición vestía camisa de cuadros color roja y azul, un pantalón de mezclilla y unos mocasines color café. Además, tiene una cicatriz en el oído izquierdo con longitud hacia la nuca.",
+      "text": "Su familia reporta que el día de su desaparición vestía camisa de cuadros color roja y azul, un pantalón de mezclilla y unos mocasines color café. Además, tiene una cicatriz en el oído izquierdo con longitud hacia la nuca."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 226.289,
+            "t": 44.124002910156264,
+            "r": 235.2,
+            "b": 38.52800291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 361.136,
+            "t": 44.124002910156264,
+            "r": 369.361,
+            "b": 38.52800291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 495.636,
+            "t": 44.124002910156264,
+            "r": 503.861,
+            "b": 38.52800291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.998,
+            "t": 44.124002910156264,
+            "r": 190.938,
+            "b": 35.088002910156206,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Por: Fátima Aguilar / Corresponsal ",
+      "text": "Por: Fátima Aguilar / Corresponsal "
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 89.006,
+            "t": 805.3630029101563,
+            "r": 501.001,
+            "b": 801.5840029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "CÉSAR EDUARDO GARCÍA RODRÍGUEZ (HTTPS://HERALDODEMEXICO.COM.MX/TAG/CESAR-EDUARDO-GARCIA-RODRIGUEZ/)",
+      "text": "CÉSAR EDUARDO GARCÍA RODRÍGUEZ (HTTPS://HERALDODEMEXICO.COM.MX/TAG/CESAR-EDUARDO-GARCIA-RODRIGUEZ/)"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 145.975,
+            "t": 779.5720029101562,
+            "r": 443.944,
+            "b": 775.7940029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "FISCALÍA DE JALISCO (HTTPS://HERALDODEMEXICO.COM.MX/TAG/FISCALIA-DE-JALISCO/)",
+      "text": "FISCALÍA DE JALISCO (HTTPS://HERALDODEMEXICO.COM.MX/TAG/FISCALIA-DE-JALISCO/)"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.543,
+            "t": 677.4880029101563,
+            "r": 122.769,
+            "b": 671.8920029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 293.53,
+            "t": 677.4880029101563,
+            "r": 302.441,
+            "b": 671.8920029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 473.191,
+            "t": 677.4880029101563,
+            "r": 481.417,
+            "b": 671.8920029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 226.627,
+            "t": 746.9440029101562,
+            "r": 369.373,
+            "b": 740.7570029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "¿Te gustó este contenido?",
+      "text": "¿Te gustó este contenido?",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 234.124,
+            "t": 718.3390029101563,
+            "r": 314.284,
+            "b": 714.0640029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Guardar en Facebook",
+      "text": "Guardar en Facebook"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 338.682,
+            "t": 718.3390029101563,
+            "r": 372.474,
+            "b": 714.0640029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Me gusta",
+      "text": "Me gusta"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 177.763,
+            "t": 613.9140029101562,
+            "r": 460.225,
+            "b": 608.8760029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "(HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/REDACCION/)",
+      "text": "(HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/REDACCION/)"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 241.555,
+            "t": 579.7270029101562,
+            "r": 354.444,
+            "b": 574.6890029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "REDACCIÓN EL HERALDO",
+      "text": "REDACCIÓN EL HERALDO",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 34.998,
+            "t": 566.5320029101563,
+            "r": 314.954,
+            "b": 561.4930029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "(HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/REDACCION/)",
+      "text": "(HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/REDACCION/)"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 34.998,
+            "t": 547.6990029101562,
+            "r": 131.973,
+            "b": 543.3680029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "El diario que piensa joven.",
+      "text": "El diario que piensa joven."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.099,
+            "t": 523.9450029101563,
+            "r": 67.01,
+            "b": 518.3490029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 67.011,
+            "t": 523.9470029101562,
+            "r": 531.894,
+            "b": 518.3490029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "(HTTPS://TWITTER.COM/ELHERALDO_MX) (HTTPS://WWW.FACEBOOK.COM/ELHERALDOMEXICO/) ",
+      "text": "(HTTPS://TWITTER.COM/ELHERALDO_MX) (HTTPS://WWW.FACEBOOK.COM/ELHERALDOMEXICO/) ",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 180.659,
+            "t": 502.35500291015626,
+            "r": 409.327,
+            "b": 496.75700291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "(HTTPS://INSTAGRAM.COM/HERALDODEMEXICO) ",
+      "text": "(HTTPS://INSTAGRAM.COM/HERALDODEMEXICO) ",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 162.207,
+            "t": 480.7630029101562,
+            "r": 427.779,
+            "b": 475.16500291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "(HTTPS://PLUS.GOOGLE.COM/101820205572868975077/) ",
+      "text": "(HTTPS://PLUS.GOOGLE.COM/101820205572868975077/) ",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 150.296,
+            "t": 449.87500291015624,
+            "r": 445.695,
+            "b": 446.41100291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "VER OTROS 38693 ARTÍCULOS (HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/REDACCION/)",
+      "text": "VER OTROS 38693 ARTÍCULOS (HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/REDACCION/)"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 39.796,
+            "t": 403.28500291015627,
+            "r": 96.729,
+            "b": 398.68200291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "0 comentarios",
+      "text": "0 comentarios",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 47.05,
+            "t": 359.7650029101562,
+            "r": 152.61,
+            "b": 354.50000291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Agregar un comentario...",
+      "text": "Agregar un comentario..."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 51.192,
+            "t": 318.6310029101562,
+            "r": 156.45,
+            "b": 315.0120029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Plugin de comentarios de Facebook",
+      "text": "Plugin de comentarios de Facebook"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 34.998,
+            "t": 287.0360029101562,
+            "r": 147.535,
+            "b": 281.9970029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "LO MEJOR DEL IMPRESO",
+      "text": "LO MEJOR DEL IMPRESO",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.996,
+            "t": 133.4930029101563,
+            "r": 382.014,
+            "b": 128.54300291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "(https:/ /heraldodemexico.com.mx/estados/llama-dif-a-cuidar-de-las-mujeres/)",
+      "text": "(https:/ /heraldodemexico.com.mx/estados/llama-dif-a-cuidar-de-las-mujeres/)"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 46.993,
+            "t": 127.13500291015623,
+            "r": 312.015,
+            "b": 118.4730029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Llama DIF a cuidar de las mujeres",
+      "text": "Llama DIF a cuidar de las mujeres"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 46.993,
+            "t": 109.14200291015618,
+            "r": 535.221,
+            "b": 82.48600291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "(https:/ /heraldodemexico.com.mx/estados/llama-dif-a-cuidarde-las-mujeres/)",
+      "text": "(https:/ /heraldodemexico.com.mx/estados/llama-dif-a-cuidarde-las-mujeres/)"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 46.993,
+            "t": 68.41700291015627,
+            "r": 243.282,
+            "b": 64.95300291015621,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "/ESTADOS (HTTPS://HERALDODEMEXICO.COM.MX/ESTADOS/)",
+      "text": "/ESTADOS (HTTPS://HERALDODEMEXICO.COM.MX/ESTADOS/)"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 226.289,
+            "t": 44.124002910156264,
+            "r": 235.2,
+            "b": 38.52800291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 460.202,
+            "t": 403.2890029101562,
+            "r": 507.8,
+            "b": 398.68300291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Ordenar por",
+      "text": "Ordenar por"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 513.189,
+            "t": 401.82700291015624,
+            "r": 559.177,
+            "b": 397.8810029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Más antiguos",
+      "text": "Más antiguos"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 92.136,
+            "t": 44.124002910156264,
+            "r": 100.361,
+            "b": 38.52800291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 253.87,
+            "t": 39.80700291015626,
+            "r": 342.133,
+            "b": 33.51000291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Minuto a Minuto",
+      "text": "Minuto a Minuto"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 361.136,
+            "t": 44.124002910156264,
+            "r": 369.361,
+            "b": 38.52800291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 495.636,
+            "t": 44.124002910156264,
+            "r": 503.861,
+            "b": 38.52800291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 145.554,
+            "t": 786.6500029101562,
+            "r": 187.452,
+            "b": 781.6120029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "El Heraldo",
+      "text": "El Heraldo"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 413.242,
+            "t": 786.6500029101562,
+            "r": 445.764,
+            "b": 781.6120029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Estados",
+      "text": "Estados"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 40.996,
+            "t": 750.0630029101562,
+            "r": 503.255,
+            "b": 745.1140029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "(https:/ /heraldodemexico.com.mx/tendencias/fher-de-mana-sorprende-con-rostro-modificado-en-los-",
+      "text": "(https:/ /heraldodemexico.com.mx/tendencias/fher-de-mana-sorprende-con-rostro-modificado-en-los-"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.998,
+            "t": 760.2590029101563,
+            "r": 350.106,
+            "b": 734.9170029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "Fher de Maná sorprende con rostro modificado en los #LatinGrammy latingrammy/) ",
+      "text": "Fher de Maná sorprende con rostro modificado en los #LatinGrammy latingrammy/) ",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 40.996,
+            "t": 725.1730029101562,
+            "r": 311.512,
+            "b": 721.3240029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "/TENDENCIAS (HTTPS://HERALDODEMEXICO.COM.MX/TENDENCIAS/)  HACE 2 MINS",
+      "text": "/TENDENCIAS (HTTPS://HERALDODEMEXICO.COM.MX/TENDENCIAS/)  HACE 2 MINS"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.998,
+            "t": 703.8800029101562,
+            "r": 550.562,
+            "b": 688.7340029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "Comisionado de la MLS confirma a Martino como DT del Tri (https:/ /heraldodemexico.com.mx/meta/comisionadode-la-mls-confirma-a-martino-como-dt-del-tri/) ",
+      "text": "Comisionado de la MLS confirma a Martino como DT del Tri (https:/ /heraldodemexico.com.mx/meta/comisionadode-la-mls-confirma-a-martino-como-dt-del-tri/) ",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 40.996,
+            "t": 678.9900029101562,
+            "r": 269.675,
+            "b": 675.1410029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "/META (HTTPS://HERALDODEMEXICO.COM.MX/META/)  HACE 24 MINS",
+      "text": "/META (HTTPS://HERALDODEMEXICO.COM.MX/META/)  HACE 24 MINS"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.998,
+            "t": 657.6980029101562,
+            "r": 541.38,
+            "b": 639.7540029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "Un viaje por la cocina mexicana (https:/ /heraldodemexico.com.mx/gastrolab/un-viaje-por-la-cocina-mexicana/) /GASTROLAB (HTTPS://HERALDODEMEXICO.COM.MX/GASTROLAB/)  HACE 33 MINS ",
+      "text": "Un viaje por la cocina mexicana (https:/ /heraldodemexico.com.mx/gastrolab/un-viaje-por-la-cocina-mexicana/) /GASTROLAB (HTTPS://HERALDODEMEXICO.COM.MX/GASTROLAB/)  HACE 33 MINS ",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.998,
+            "t": 622.3110029101563,
+            "r": 548.355,
+            "b": 607.1650029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "Onda gélida deja caída de aguanieve en 14 municipios de Hidalgo (https:/ /heraldodemexico.com.mx/estados/ondagelida-deja-caida-de-aguanieve-en-14-municipios-de-hidalgo/) ",
+      "text": "Onda gélida deja caída de aguanieve en 14 municipios de Hidalgo (https:/ /heraldodemexico.com.mx/estados/ondagelida-deja-caida-de-aguanieve-en-14-municipios-de-hidalgo/) ",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 40.996,
+            "t": 597.4200029101562,
+            "r": 293.995,
+            "b": 593.5710029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "/ESTADOS (HTTPS://HERALDODEMEXICO.COM.MX/ESTADOS/)  HACE 48 MINS",
+      "text": "/ESTADOS (HTTPS://HERALDODEMEXICO.COM.MX/ESTADOS/)  HACE 48 MINS"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.998,
+            "t": 576.1280029101563,
+            "r": 531.21,
+            "b": 550.7860029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "Congreso de la CDMX, a un paso del desacato por Ley Orgánica de Fiscalía (https:/ /heraldodemexico.com.mx/cdmx/congreso-de-la-cdmx-a-un-paso-del-desacato-por-ley-organica-defiscalia/) ",
+      "text": "Congreso de la CDMX, a un paso del desacato por Ley Orgánica de Fiscalía (https:/ /heraldodemexico.com.mx/cdmx/congreso-de-la-cdmx-a-un-paso-del-desacato-por-ley-organica-defiscalia/) ",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 40.996,
+            "t": 541.0410029101563,
+            "r": 268.602,
+            "b": 537.1920029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "/CDMX (HTTPS://HERALDODEMEXICO.COM.MX/CDMX/)  HACE 1 HORA",
+      "text": "/CDMX (HTTPS://HERALDODEMEXICO.COM.MX/CDMX/)  HACE 1 HORA"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 257.44,
+            "t": 517.8300029101563,
+            "r": 338.554,
+            "b": 511.5320029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "La opinión de…",
+      "text": "La opinión de…",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.984,
+            "t": 478.06400291015626,
+            "r": 313.309,
+            "b": 474.60100291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "SACAPUNTAS (HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/SACAPUNTAS/)",
+      "text": "SACAPUNTAS (HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/SACAPUNTAS/)"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.984,
+            "t": 468.7680029101562,
+            "r": 121.682,
+            "b": 463.8180029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Sacapuntas",
+      "text": "Sacapuntas",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.984,
+            "t": 457.9720029101562,
+            "r": 330.481,
+            "b": 453.02200291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "(https:/ /heraldodemexico.com.mx/opinion/sacapuntas-538/)",
+      "text": "(https:/ /heraldodemexico.com.mx/opinion/sacapuntas-538/)"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.998,
+            "t": 450.17500291015625,
+            "r": 269.813,
+            "b": 445.22500291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "(https:/ /heraldodemexico.com.mx/author/sacapuntas/)",
+      "text": "(https:/ /heraldodemexico.com.mx/author/sacapuntas/)"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.984,
+            "t": 430.08200291015623,
+            "r": 331.687,
+            "b": 426.61900291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "MARTHA ANAYA (HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/MARTHA-ANAYA/)",
+      "text": "MARTHA ANAYA (HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/MARTHA-ANAYA/)"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.984,
+            "t": 420.78600291015624,
+            "r": 187.111,
+            "b": 415.83600291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "La seguridad en el sureste",
+      "text": "La seguridad en el sureste",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.984,
+            "t": 409.99000291015625,
+            "r": 417.127,
+            "b": 405.04000291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "(https:/ /heraldodemexico.com.mx/opinion/alhajero-la-seguridad-en-el-sureste/)",
+      "text": "(https:/ /heraldodemexico.com.mx/opinion/alhajero-la-seguridad-en-el-sureste/)"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.998,
+            "t": 402.1930029101562,
+            "r": 250.246,
+            "b": 397.24300291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "(https:/ /heraldodemexico.com.mx/author/martha-",
+      "text": "(https:/ /heraldodemexico.com.mx/author/martha-"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.998,
+            "t": 388.99800291015623,
+            "r": 67.127,
+            "b": 384.04800291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "anaya/)",
+      "text": "anaya/)"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.984,
+            "t": 382.10000291015626,
+            "r": 346.66,
+            "b": 378.63600291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "ALBERTO AGUILAR (HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/ALBERTO-AGUILAR/)",
+      "text": "ALBERTO AGUILAR (HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/ALBERTO-AGUILAR/)"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.998,
+            "t": 372.8040029101562,
+            "r": 550.642,
+            "b": 343.86300291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            322
+          ]
+        }
+      ],
+      "orig": "ROKU todo el acelerador en Buen Fin y Navidad tras alto por lío y México nodal en su expansión global (https:/ /heraldodemexico.com.mx/opinion/roku-todo-el-acelerador-en-buen-fin-y-navidad-tras-alto-por-lio-y- mexico-nodal-en-su-expansion-global-nombres-nombres-y-nombres/) (https:/ /heraldodemexico.com.mx/author/alberto-",
+      "text": "ROKU todo el acelerador en Buen Fin y Navidad tras alto por lío y México nodal en su expansión global (https:/ /heraldodemexico.com.mx/opinion/roku-todo-el-acelerador-en-buen-fin-y-navidad-tras-alto-por-lio-y- mexico-nodal-en-su-expansion-global-nombres-nombres-y-nombres/) (https:/ /heraldodemexico.com.mx/author/alberto-"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.998,
+            "t": 341.0150029101562,
+            "r": 71.339,
+            "b": 336.0660029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "aguilar/)",
+      "text": "aguilar/)"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.984,
+            "t": 320.92300291015624,
+            "r": 320.746,
+            "b": 317.4590029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "CARLOS MOTA (HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/CARLOS-MOTA/)",
+      "text": "CARLOS MOTA (HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/CARLOS-MOTA/)"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.984,
+            "t": 311.6260029101562,
+            "r": 204.998,
+            "b": 306.67700291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "La noche del 30 de noviembre",
+      "text": "La noche del 30 de noviembre",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.998,
+            "t": 300.8300029101563,
+            "r": 491.586,
+            "b": 288.0830029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "(https:/ /heraldodemexico.com.mx/opinion/la-noche-del-30-de-noviembre-un-monton-de-plata/) (https:/ /heraldodemexico.com.mx/author/carlos-",
+      "text": "(https:/ /heraldodemexico.com.mx/opinion/la-noche-del-30-de-noviembre-un-monton-de-plata/) (https:/ /heraldodemexico.com.mx/author/carlos-"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.998,
+            "t": 279.8380029101563,
+            "r": 63.96,
+            "b": 274.8880029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "mota/)",
+      "text": "mota/)"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.984,
+            "t": 272.94100291015616,
+            "r": 356.535,
+            "b": 269.4770029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "COLUMNA INVITADA (HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/COLUMNA-INVITADA/)",
+      "text": "COLUMNA INVITADA (HTTPS://HERALDODEMEXICO.COM.MX/AUTHOR/COLUMNA-INVITADA/)"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.984,
+            "t": 263.64400291015625,
+            "r": 271.77,
+            "b": 258.6940029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "Eduardo Ruiz Vega: ¿Resetear, o no resetear?",
+      "text": "Eduardo Ruiz Vega: ¿Resetear, o no resetear?",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.984,
+            "t": 252.8480029101563,
+            "r": 445.168,
+            "b": 247.89800291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "(https:/ /heraldodemexico.com.mx/opinion/eduardo-ruiz-vega-resetear-o-no-resetear/)",
+      "text": "(https:/ /heraldodemexico.com.mx/opinion/eduardo-ruiz-vega-resetear-o-no-resetear/)"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.998,
+            "t": 245.05100291015628,
+            "r": 256.426,
+            "b": 240.10100291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "(https:/ /heraldodemexico.com.mx/author/columna-",
+      "text": "(https:/ /heraldodemexico.com.mx/author/columna-"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.998,
+            "t": 231.85600291015623,
+            "r": 75.869,
+            "b": 226.9060029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "invitada/)",
+      "text": "invitada/)"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 239.925,
+            "t": 212.85000291015626,
+            "r": 356.066,
+            "b": 202.62500291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "MÁS LEÍDO",
+      "text": "MÁS LEÍDO",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 104.966,
+            "t": 188.07200291015624,
+            "r": 543.896,
+            "b": 183.1220029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "Salinas advierte (https:/ /heraldodemexico.com.mx/opinion/agenda-confidencial-salinas-advierte/)",
+      "text": "Salinas advierte (https:/ /heraldodemexico.com.mx/opinion/agenda-confidencial-salinas-advierte/)"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 104.966,
+            "t": 170.97900291015628,
+            "r": 350.703,
+            "b": 167.13000291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "/OPINIÓN (HTTPS://HERALDODEMEXICO.COM.MX/OPINION/)  14/NOV/2018",
+      "text": "/OPINIÓN (HTTPS://HERALDODEMEXICO.COM.MX/OPINION/)  14/NOV/2018"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 41.989,
+            "t": 126.89500291015622,
+            "r": 261.008,
+            "b": 121.94500291015629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "(https:/ /heraldodemexico.com.mx/opinion/agenda-",
+      "text": "(https:/ /heraldodemexico.com.mx/opinion/agenda-"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 41.989,
+            "t": 113.70000291015629,
+            "r": 549.076,
+            "b": 95.55500291015619,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "Línea 2 del Metro: ¿Está funcionando normal? (https:/ /heraldodemexico.com.mx/cdmx/linea-2-del- metro-esta-funcionando-normal/) confidencial- salinas-",
+      "text": "Línea 2 del Metro: ¿Está funcionando normal? (https:/ /heraldodemexico.com.mx/cdmx/linea-2-del- metro-esta-funcionando-normal/) confidencial- salinas-"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 104.966,
+            "t": 86.41000291015621,
+            "r": 340.357,
+            "b": 82.56100291015628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "/CDMX (HTTPS://HERALDODEMEXICO.COM.MX/CDMX/)  HACE 14 HORAS",
+      "text": "/CDMX (HTTPS://HERALDODEMEXICO.COM.MX/CDMX/)  HACE 14 HORAS"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 41.989,
+            "t": 87.3100029101563,
+            "r": 83.801,
+            "b": 82.36000291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "advierte/)",
+      "text": "advierte/)"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 41.989,
+            "t": 39.328002910156215,
+            "r": 69.051,
+            "b": 34.37800291015628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2-del-",
+      "text": "2-del-"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 92.136,
+            "t": 44.124002910156264,
+            "r": 100.361,
+            "b": 38.527002910156284,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 226.289,
+            "t": 44.124002910156264,
+            "r": 235.2,
+            "b": 38.527002910156284,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 495.636,
+            "t": 44.124002910156264,
+            "r": 503.861,
+            "b": 38.527002910156284,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.998,
+            "t": 388.99800291015623,
+            "r": 67.127,
+            "b": 384.04800291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "anaya/)",
+      "text": "anaya/)"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/pictures/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.998,
+            "t": 279.8380029101563,
+            "r": 63.96,
+            "b": 274.8880029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "mota/)",
+      "text": "mota/)"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 41.989,
+            "t": 52.523002910156265,
+            "r": 243.533,
+            "b": 47.57300291015622,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "(https:/ /heraldodemexico.com.mx/cdmx/linea-",
+      "text": "(https:/ /heraldodemexico.com.mx/cdmx/linea-"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 361.136,
+            "t": 44.124002910156264,
+            "r": 369.361,
+            "b": 38.527002910156284,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "code",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 34.998,
+            "t": 811.2410029101562,
+            "r": 567.504,
+            "b": 504.60300291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1117
+          ]
+        }
+      ],
+      "orig": "(https:/ /www.facebook.com/elheraldomexico/) (https:/ /twitter.com/elheraldo_mx/) (https:/ /instagram.com/heraldodemexico/) (https:/ /www.youtube.com/channel/UC7E9Dj_lmrJdDr (https:/ /heraldodemexico.com.mx/)     AMLO eliminaría inglés en escuelas (https:/ /heraldodemexico.com.mx/opinion/amlo-eliminariaingles-en-escuelas-un-monton-de-plata/) /OPINIÓN (HTTPS://HERALDODEMEXICO.COM.MX/OPINION/)  HACE 2 DÍAS ¿Qué significa ser fifí? (https:/ /heraldodemexico.com.mx/tendencias/que-significa-ser-fifi/) /TENDENCIAS (HTTPS://HERALDODEMEXICO.COM.MX/TENDENCIAS/)  11/NOV/2018 Trabajadores de SCT acusan impacto por Ley de Remuneraciones de AMLO (https:/ /heraldodemexico.com.mx/mer-k-2/trabajadores-de-sct-acusan-impacto-por-ley-deremuneraciones-de-amlo/) /MER K-2 (HTTPS://HERALDODEMEXICO.COM.MX/MER-K-2/)  13/NOV/2018 metro-estafuncionandonormal/) (https:/ /heraldodemexico.com.mx/opinion/amloeliminariaingles-enescuelas-unmonton-deplata/) (https:/ /heraldodemexico.com.mx/tendencias/quesignifica-serfifi/) (https:/ /heraldodemexico.com.mx/merk2/trabajadoresde-sctacusanimpactopor-ley-deremuneracionesde-amlo/) ",
+      "text": "(https:/ /www.facebook.com/elheraldomexico/) (https:/ /twitter.com/elheraldo_mx/) (https:/ /instagram.com/heraldodemexico/) (https:/ /www.youtube.com/channel/UC7E9Dj_lmrJdDr (https:/ /heraldodemexico.com.mx/)     AMLO eliminaría inglés en escuelas (https:/ /heraldodemexico.com.mx/opinion/amlo-eliminariaingles-en-escuelas-un-monton-de-plata/) /OPINIÓN (HTTPS://HERALDODEMEXICO.COM.MX/OPINION/)  HACE 2 DÍAS ¿Qué significa ser fifí? (https:/ /heraldodemexico.com.mx/tendencias/que-significa-ser-fifi/) /TENDENCIAS (HTTPS://HERALDODEMEXICO.COM.MX/TENDENCIAS/)  11/NOV/2018 Trabajadores de SCT acusan impacto por Ley de Remuneraciones de AMLO (https:/ /heraldodemexico.com.mx/mer-k-2/trabajadores-de-sct-acusan-impacto-por-ley-deremuneraciones-de-amlo/) /MER K-2 (HTTPS://HERALDODEMEXICO.COM.MX/MER-K-2/)  13/NOV/2018 metro-estafuncionandonormal/) (https:/ /heraldodemexico.com.mx/opinion/amloeliminariaingles-enescuelas-unmonton-deplata/) (https:/ /heraldodemexico.com.mx/tendencias/quesignifica-serfifi/) (https:/ /heraldodemexico.com.mx/merk2/trabajadoresde-sctacusanimpactopor-ley-deremuneracionesde-amlo/) ",
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "code_language": "unknown"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 34.998,
+            "t": 485.32200291015624,
+            "r": 92.399,
+            "b": 480.9140029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "INFORMACIÓN",
+      "text": "INFORMACIÓN",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 34.998,
+            "t": 459.5320029101562,
+            "r": 256.614,
+            "b": 455.20100291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Acerca de (https:/ /heraldodemexico.com.mx/acerca-de/)",
+      "text": "Acerca de (https:/ /heraldodemexico.com.mx/acerca-de/)"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 34.998,
+            "t": 441.53800291015625,
+            "r": 257.834,
+            "b": 437.20700291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Directorio (https:/ /heraldodemexico.com.mx/directorio/)",
+      "text": "Directorio (https:/ /heraldodemexico.com.mx/directorio/)"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 34.998,
+            "t": 423.54500291015626,
+            "r": 358.106,
+            "b": 419.21400291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "Políticas de Privacidad (https:/ /heraldodemexico.com.mx/politicas-de-privacidad/)",
+      "text": "Políticas de Privacidad (https:/ /heraldodemexico.com.mx/politicas-de-privacidad/)"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "code",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 34.998,
+            "t": 405.55200291015626,
+            "r": 246.642,
+            "b": 401.22100291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Contacto (https:/ /heraldodemexico.com.mx/contacto/)",
+      "text": "Contacto (https:/ /heraldodemexico.com.mx/contacto/)",
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "code_language": "unknown"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/pictures/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 34.998,
+            "t": 319.7240029101563,
+            "r": 278.111,
+            "b": 316.26000291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "© 2018 El Heraldo de México (https://heraldodemexico.com.mx/) - All rights reserved",
+      "text": "© 2018 El Heraldo de México (https://heraldodemexico.com.mx/) - All rights reserved"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 226.289,
+            "t": 44.124002910156264,
+            "r": 235.2,
+            "b": 38.52800291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 92.136,
+            "t": 44.124002910156264,
+            "r": 100.361,
+            "b": 38.52800291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 361.136,
+            "t": 44.124002910156264,
+            "r": 369.361,
+            "b": 38.52800291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 495.636,
+            "t": 44.124002910156264,
+            "r": 503.861,
+            "b": 38.52800291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.55215072631836,
+            "t": 723.0550079345703,
+            "r": 561.706298828125,
+            "b": 392.2397155761719,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 88.48434448242188,
+            "t": 46.633544921875,
+            "r": 121.19268035888672,
+            "b": 30.73797607421875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 225.02029418945312,
+            "t": 45.14959716796875,
+            "r": 235.1099090576172,
+            "b": 36.22955322265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 359.8668518066406,
+            "t": 45.77978515625,
+            "r": 369.692626953125,
+            "b": 35.950439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 494.2742614746094,
+            "t": 46.191650390625,
+            "r": 504.0615234375,
+            "b": 36.0740966796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.88835525512695,
+            "t": 746.4830703735352,
+            "r": 561.266845703125,
+            "b": 654.5383453369141,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/42"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 224.821044921875,
+            "t": 45.03240966796875,
+            "r": 235.1897430419922,
+            "b": 36.56817626953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/83"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 240.06349182128906,
+            "t": 219.71490478515625,
+            "r": 355.8910217285156,
+            "b": 198.44317626953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/90"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 38.79844284057617,
+            "t": 41.94451904296875,
+            "r": 68.88141632080078,
+            "b": 29.01226806640625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/91"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.83482360839844,
+            "t": 46.3809814453125,
+            "r": 101.05435180664062,
+            "b": 36.31292724609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/93"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 494.3643798828125,
+            "t": 46.16015625,
+            "r": 503.926513671875,
+            "b": 36.2896728515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.99849319458008,
+            "t": 480.0122375488281,
+            "r": 65.8187255859375,
+            "b": 456.2113037109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 33.59574890136719,
+            "t": 434.3009033203125,
+            "r": 66.17545318603516,
+            "b": 403.915771484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/94"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 33.82185745239258,
+            "t": 388.73760986328125,
+            "r": 66.6092529296875,
+            "b": 355.18060302734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 33.29522705078125,
+            "t": 325.42083740234375,
+            "r": 65.92831420898438,
+            "b": 294.85516357421875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/95"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.10029602050781,
+            "t": 282.03509521484375,
+            "r": 64.12972259521484,
+            "b": 272.109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.87124252319336,
+            "t": 273.998046875,
+            "r": 62.50291442871094,
+            "b": 250.71258544921875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 241.63612365722656,
+            "t": 544.394287109375,
+            "r": 266.9163513183594,
+            "b": 518.2926025390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 271.8963623046875,
+            "t": 544.3941040039062,
+            "r": 297.0456848144531,
+            "b": 518.5885314941406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 301.6551513671875,
+            "t": 544.4814147949219,
+            "r": 326.8870544433594,
+            "b": 518.9075317382812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 331.4092102050781,
+            "t": 544.1283264160156,
+            "r": 356.6742248535156,
+            "b": 518.2041931152344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/104"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.68840026855469,
+            "t": 374.930419921875,
+            "r": 67.46202850341797,
+            "b": 346.623291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [
+        {
+          "$ref": "#/texts/104"
+        }
+      ],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 4
+    }
+  }
+}

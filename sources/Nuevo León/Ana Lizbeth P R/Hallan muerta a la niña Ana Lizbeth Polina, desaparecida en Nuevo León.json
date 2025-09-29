@@ -1,0 +1,1035 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Hallan muerta a la niña Ana Lizbeth Polina, desaparecida en Nuevo León",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4531331461118497380,
+    "filename": "Hallan muerta a la niña Ana Lizbeth Polina, desaparecida en Nuevo León.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.503,
+            "t": 795.2570029101562,
+            "r": 451.036,
+            "b": 771.4130029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "Hallan muerta a la niña Ana Lizbeth Polina, We'd like to show you notifications for the latest news and updates.",
+      "text": "Hallan muerta a la niña Ana Lizbeth Polina, We'd like to show you notifications for the latest news and updates."
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.503,
+            "t": 763.3880029101563,
+            "r": 310.236,
+            "b": 752.5010029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "desaparecida en Nuevo León",
+      "text": "desaparecida en Nuevo León",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.503,
+            "t": 736.2740029101562,
+            "r": 130.449,
+            "b": 731.9970029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Por DDD -  17 julio, 2018",
+      "text": "Por DDD -  17 julio, 2018"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 291.259,
+            "t": 725.1500029101562,
+            "r": 356.746,
+            "b": 719.3870029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "NO THANKS",
+      "text": "NO THANKS"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 408.29,
+            "t": 725.1500029101562,
+            "r": 447.168,
+            "b": 719.3870029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "ALLOW",
+      "text": "ALLOW"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.503,
+            "t": 685.7840029101562,
+            "r": 542.37,
+            "b": 656.6360029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "Ana Lizbeth Polina Ramírez, fue encontrada muerta y envuelta en una cobija en un lote baldío de la Colonia Vistas del Río, en Juárez, Nuevo León",
+      "text": "Ana Lizbeth Polina Ramírez, fue encontrada muerta y envuelta en una cobija en un lote baldío de la Colonia Vistas del Río, en Juárez, Nuevo León"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 296.6666666666667,
+            "t": 553.2533162434895,
+            "r": 547.0,
+            "b": 523.586649576823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "En Alcance @ la AANL 007 en video obtenido de una caseta de seguridad se observa que la menor se retira con una persona masculina de tez blanca barba Y bigote negros, cachucha",
+      "text": "En Alcance @ la AANL 007 en video obtenido de una caseta de seguridad se observa que la menor se retira con una persona masculina de tez blanca barba Y bigote negros, cachucha"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 199.66666666666666,
+            "t": 464.91998291015625,
+            "r": 281.0,
+            "b": 335.58664957682294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "08 AÑOS MEXICANA CASTAÑO [ARGO LACIO MORENA CLARA ReGULARES CAFÉ OSCURO MEDIANA PEQUEÑA DELGADA 15/07/2018 COL VISIAS DEL Rio CD 8. JUÁREZ NL (MADRE) COL VISTAS DEL Rio CDBJUÁREL NL",
+      "text": "08 AÑOS MEXICANA CASTAÑO [ARGO LACIO MORENA CLARA ReGULARES CAFÉ OSCURO MEDIANA PEQUEÑA DELGADA 15/07/2018 COL VISIAS DEL Rio CD 8. JUÁREZ NL (MADRE) COL VISTAS DEL Rio CDBJUÁREL NL"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 137.0,
+            "t": 441.5866495768229,
+            "r": 165.66666666666666,
+            "b": 433.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "CABELLO",
+      "text": "CABELLO"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 137.33333333333331,
+            "t": 410.5866495768229,
+            "r": 156.66666666666666,
+            "b": 403.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "BOCA",
+      "text": "BOCA"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 137.0,
+            "t": 396.91998291015625,
+            "r": 179.66666666666666,
+            "b": 388.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "COMPLEXION",
+      "text": "COMPLEXION"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.66666666666666,
+            "t": 365.5866495768229,
+            "r": 114.33333333333333,
+            "b": 357.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Analizbeih",
+      "text": "Analizbeih"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.503,
+            "t": 303.56700291015625,
+            "r": 547.211,
+            "b": 261.50800291015616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            260
+          ]
+        }
+      ],
+      "orig": "Regeneración, 17 de julio de 2018 . Ana Lizbeth Polina Ramírez, la niña de ocho años que había sido secuestrada el pasado domingo 15 de julio, fue encontrada muerta y envuelta en una cobija en un lote baldío de la Colonia Vistas del Río, en Juárez, Nuevo León.",
+      "text": "Regeneración, 17 de julio de 2018 . Ana Lizbeth Polina Ramírez, la niña de ocho años que había sido secuestrada el pasado domingo 15 de julio, fue encontrada muerta y envuelta en una cobija en un lote baldío de la Colonia Vistas del Río, en Juárez, Nuevo León."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.503,
+            "t": 231.53400291015623,
+            "r": 556.946,
+            "b": 207.4830029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "Autoridades policíacas y rescatistas buscaron a la menor de edad en casas abandonada y terrenos hasta que su cuerpo fue hallado en el lugar antes referido.",
+      "text": "Autoridades policíacas y rescatistas buscaron a la menor de edad en casas abandonada y terrenos hasta que su cuerpo fue hallado en el lugar antes referido."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 121.609,
+            "t": 165.36500291015625,
+            "r": 121.609,
+            "b": 159.92100291015618,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "GLYPH<c=3,font=/OpenSans-Bold>",
+      "text": "GLYPH<c=3,font=/OpenSans-Bold>"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.01,
+            "t": 166.43600291015628,
+            "r": 360.777,
+            "b": 141.45600291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "/(S NÈ6: /fYboubspo b pdip kyYfoft z nbubspo b vop fo -bmjtdp",
+      "text": "/(S NÈ6: /fYboubspo b pdip kyYfoft z nbubspo b vop fo -bmjtdp",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.503,
+            "t": 106.97600291015624,
+            "r": 543.528,
+            "b": 82.9250029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "El pasado domingo 15 de julio, la menor Ana Lizbeth salió de su casa acompañada de su madre rumbo al trabajo de ésta última.",
+      "text": "El pasado domingo 15 de julio, la menor Ana Lizbeth salió de su casa acompañada de su madre rumbo al trabajo de ésta última."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.503,
+            "t": 52.95100291015626,
+            "r": 513.116,
+            "b": 46.908002910156256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "En cierto momento, cuando la niña se dirigió sola a una caseta de la colonia, desapareció.",
+      "text": "En cierto momento, cuando la niña se dirigió sola a una caseta de la colonia, desapareció."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.503,
+            "t": 807.8020029101563,
+            "r": 549.186,
+            "b": 801.7590029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "El video de una cámara de vigilancia muestra a un hombre de tez blanca, barba y bigote negros,",
+      "text": "El video de una cámara de vigilancia muestra a un hombre de tez blanca, barba y bigote negros,"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.503,
+            "t": 789.7930029101562,
+            "r": 457.145,
+            "b": 783.7510029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "vestido con bermuda azul y cachucha negra retirándose del lugar con la menor.",
+      "text": "vestido con bermuda azul y cachucha negra retirándose del lugar con la menor."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.503,
+            "t": 717.7600029101562,
+            "r": 142.732,
+            "b": 711.7170029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Con información de",
+      "text": "Con información de"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 142.725,
+            "t": 717.7600029101562,
+            "r": 192.92,
+            "b": 711.7170029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Reforma",
+      "text": "Reforma"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 408.29,
+            "t": 725.1500029101562,
+            "r": 447.168,
+            "b": 719.3870029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "ALLOW ALLOW",
+      "text": "ALLOW ALLOW"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 291.259,
+            "t": 725.1500029101562,
+            "r": 356.746,
+            "b": 719.3870029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "NO THANKS NO THANKS",
+      "text": "NO THANKS NO THANKS"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 199.388,
+            "t": 795.2570029101562,
+            "r": 451.036,
+            "b": 788.6710029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "We'd like to show you notifications for the latest",
+      "text": "We'd like to show you notifications for the latest"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 199.388,
+            "t": 777.9990029101563,
+            "r": 300.175,
+            "b": 771.4130029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "news and updates.",
+      "text": "news and updates."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 117.611,
+            "t": 620.6090029101563,
+            "r": 478.384,
+            "b": 612.0550029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Si quieres informarte más, visita: Regeneración",
+      "text": "Si quieres informarte más, visita: Regeneración"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 29.0,
+            "t": 583.8570029101562,
+            "r": 71.559,
+            "b": 578.6780029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "loading...",
+      "text": "loading..."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 29.0,
+            "t": 541.1770029101563,
+            "r": 287.082,
+            "b": 528.7340029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Comentar con facebook",
+      "text": "Comentar con facebook",
+      "level": 1
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 127.32917022705078,
+            "t": 800.456657409668,
+            "r": 180.57456970214844,
+            "b": 739.2118759155273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.763980865478516,
+            "t": 601.3466186523438,
+            "r": 559.8898315429688,
+            "b": 326.43670654296875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 29.815174102783203,
+            "t": 814.1271457672119,
+            "r": 564.3422241210938,
+            "b": 687.4866333007812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 2
+    }
+  }
+}

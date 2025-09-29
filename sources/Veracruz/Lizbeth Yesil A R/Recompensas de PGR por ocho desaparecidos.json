@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Recompensas de PGR por ocho desaparecidos",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 9697857128645200483,
+    "filename": "Recompensas de PGR por ocho desaparecidos.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.52305234375,
+            "r": 626.253,
+            "b": 347.57905234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1484
+          ]
+        }
+      ],
+      "orig": "PressReader.com - Digital Newspaper & Magazine Subscriptions Skip to main content Switch To Accessibility Mode Catalog For You More HotSpot map Work with us Blog Help center HotSpot map Work with us Blog Help center PressReader Gift Cards Buy Gift Card Redeem Gift Card Buttons.Search Sign in Sign up Options Aa Aa Aa Aa Aa Aa Aa Aa Aa Language & Region For You Following Publications Edit You are not following any publications. Sections Edit No sections added. Interests Edit You are not following any interests. Reporters Edit No updates Saved Searches My Topics Edit No new stories Add another Topic Prev Next Paper Text Prev Next Navigated English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English",
+      "text": "PressReader.com - Digital Newspaper & Magazine Subscriptions Skip to main content Switch To Accessibility Mode Catalog For You More HotSpot map Work with us Blog Help center HotSpot map Work with us Blog Help center PressReader Gift Cards Buy Gift Card Redeem Gift Card Buttons.Search Sign in Sign up Options Aa Aa Aa Aa Aa Aa Aa Aa Aa Language & Region For You Following Publications Edit You are not following any publications. Sections Edit No sections added. Interests Edit You are not following any interests. Reporters Edit No updates Saved Searches My Topics Edit No new stories Add another Topic Prev Next Paper Text Prev Next Navigated English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 633.0202026367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Buscan a dos hermanas del ‘niño de La Alianza’",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12084163878867691616,
+    "filename": "Buscan a dos hermanas del ‘niño de La Alianza’.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.17905234375,
+            "r": 632.273,
+            "b": 447.06005234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1390
+          ]
+        }
+      ],
+      "orig": "No se encontró la página Periódico Zócalo | Noticias de Saltillo, Torreón, Piedras Negras, Monclova, Acuña Secciones Tele Saltillo Super Channel Nacional Internacional Seguridad Negocios Video Deportes Opinión Edición Impresa Videos Ciudades Saltillo Monclova Piedras Negras Acuña Carbonífera Torreón Estilo Elite Sociales Zocalito Vida Tecnología Flash Arte Horóscopo Otros Directorio Términos y Condiciones Políticas de Privacidad Saltillo | Monclova | Piedras Negras | Acuña | Carbonífera | Torreón Edición Impresa Edición Impresa Menú ||| Televisión Puentes Internacionales buscar Z Nacional Internacional Seguridad Negocios Video Deportes Autos | Clasificados Opinión Flash! Sociales Sociales Elite Zocalito Vida Tecnología Arte       Página No Encontrada The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place. --> SECCIONES Nacional Internacional Seguridad Negocios Video Deportes Opinión Sociales CIUDADES Saltillo Monclova Piedras Negras Acuña Torreón ESTILO Vida Tecnología Flash! Arte Sociales Elite Zocalito Horóscopo OTROS COPYRIGHT © 2025 ZÓCALO SALTILLO Directorio Mapa del Sitio Términos y Condiciones Aviso de Privacidad Este sitio usa Cookies para mejorar la experiencia del usuario, puedes revisar nuestro Aviso de Privacidad , y nuestros Términos y Condiciones para más información. Aceptar y continuar",
+      "text": "No se encontró la página Periódico Zócalo | Noticias de Saltillo, Torreón, Piedras Negras, Monclova, Acuña Secciones Tele Saltillo Super Channel Nacional Internacional Seguridad Negocios Video Deportes Opinión Edición Impresa Videos Ciudades Saltillo Monclova Piedras Negras Acuña Carbonífera Torreón Estilo Elite Sociales Zocalito Vida Tecnología Flash Arte Horóscopo Otros Directorio Términos y Condiciones Políticas de Privacidad Saltillo | Monclova | Piedras Negras | Acuña | Carbonífera | Torreón Edición Impresa Edición Impresa Menú ||| Televisión Puentes Internacionales buscar Z Nacional Internacional Seguridad Negocios Video Deportes Autos | Clasificados Opinión Flash! Sociales Sociales Elite Zocalito Vida Tecnología Arte       Página No Encontrada The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place. --> SECCIONES Nacional Internacional Seguridad Negocios Video Deportes Opinión Sociales CIUDADES Saltillo Monclova Piedras Negras Acuña Torreón ESTILO Vida Tecnología Flash! Arte Sociales Elite Zocalito Horóscopo OTROS COPYRIGHT © 2025 ZÓCALO SALTILLO Directorio Mapa del Sitio Términos y Condiciones Aviso de Privacidad Este sitio usa Cookies para mejorar la experiencia del usuario, puedes revisar nuestro Aviso de Privacidad , y nuestros Términos y Condiciones para más información. Aceptar y continuar"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

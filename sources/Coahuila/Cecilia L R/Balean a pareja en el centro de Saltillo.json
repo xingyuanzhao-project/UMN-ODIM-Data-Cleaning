@@ -1,0 +1,523 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Balean a pareja en el centro de Saltillo",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 14455525965669524002,
+    "filename": "Balean a pareja en el centro de Saltillo.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 146.61,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Balean a pareja en Centro de Saltillo",
+      "text": "Balean a pareja en Centro de Saltillo"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 312.343,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "https://www.zocalo.com.mx/seccion/articulo/balean-a-pareja-en-centro-d...",
+      "text": "https://www.zocalo.com.mx/seccion/articulo/balean-a-pareja-en-centro-d..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 436.358,
+            "b": 711.806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Balean a pareja en Centro de Saltillo",
+      "text": "Balean a pareja en Centro de Saltillo",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.04,
+            "t": 683.195,
+            "r": 130.033,
+            "b": 673.935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Redacción",
+      "text": "Redacción"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 646.378,
+            "r": 530.194,
+            "b": 609.316,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            210
+          ]
+        }
+      ],
+      "orig": "Saltillo, Coah.Diversas versiones corren en relación con una balacera registrada la madrugada de ayer en pleno Centro de la ciudad, en la que una pareja resultó lesionada y habría sido detenida por el Ejército.",
+      "text": "Saltillo, Coah.Diversas versiones corren en relación con una balacera registrada la madrugada de ayer en pleno Centro de la ciudad, en la que una pareja resultó lesionada y habría sido detenida por el Ejército."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 594.061,
+            "r": 524.971,
+            "b": 543.553,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            306
+          ]
+        }
+      ],
+      "orig": "Pablo César Ortiz y su esposa, Cecilia López -de quienes se desconoce su paradero, y que estarían vinculados con el crimen organizado- fueron atacados a balazos, al parecer por un comando armado a bordo de un vehículo, tras una persecución por el primer cuadro de la ciudad que terminó en la calle de Coss.",
+      "text": "Pablo César Ortiz y su esposa, Cecilia López -de quienes se desconoce su paradero, y que estarían vinculados con el crimen organizado- fueron atacados a balazos, al parecer por un comando armado a bordo de un vehículo, tras una persecución por el primer cuadro de la ciudad que terminó en la calle de Coss."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 528.419,
+            "r": 528.737,
+            "b": 477.911,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            266
+          ]
+        }
+      ],
+      "orig": "Hasta anoche no hubo autoridad que confirmara la detención de la pareja en alguna instalación militar o federal. En tanto, la Fiscalía General del Estado mantiene bajo resguardo el vehículo en que viajaban, y que presenta nueve impactos producidos por arma de fuego.",
+      "text": "Hasta anoche no hubo autoridad que confirmara la detención de la pareja en alguna instalación militar o federal. En tanto, la Fiscalía General del Estado mantiene bajo resguardo el vehículo en que viajaban, y que presenta nueve impactos producidos por arma de fuego."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 462.783,
+            "r": 525.695,
+            "b": 425.715,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "Algunas fuentes señalan que la pareja iba siguiendo a la unidad militar luego de que ésta participó en el cateo a una vivienda de la colonia Benito Juárez, hecho que no ha sido confirmado.",
+      "text": "Algunas fuentes señalan que la pareja iba siguiendo a la unidad militar luego de que ésta participó en el cateo a una vivienda de la colonia Benito Juárez, hecho que no ha sido confirmado."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 410.458,
+            "r": 505.214,
+            "b": 360.072,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            252
+          ]
+        }
+      ],
+      "orig": "Lo cierto es que la policía reportó, alrededor de las 02:30 horas, detonaciones de arma de fuego, lo que provocó intensa movilización policiaca de diferentes corporaciones que se concentraron en el bulevar Francisco Coss, frente al recinto legislativo.",
+      "text": "Lo cierto es que la policía reportó, alrededor de las 02:30 horas, detonaciones de arma de fuego, lo que provocó intensa movilización policiaca de diferentes corporaciones que se concentraron en el bulevar Francisco Coss, frente al recinto legislativo."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 344.818,
+            "r": 529.687,
+            "b": 307.749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            252
+          ]
+        }
+      ],
+      "orig": "En el lugar, presuntos elementos del Ejército abordaron a la pareja a una camioneta Cheyenne, color verde militar, sin logotipos ni matrícula, y se alejaron a toda velocidad del sitio, al parecer rumbo a la Cruz Roja para la atención de los lesionados.",
+      "text": "En el lugar, presuntos elementos del Ejército abordaron a la pareja a una camioneta Cheyenne, color verde militar, sin logotipos ni matrícula, y se alejaron a toda velocidad del sitio, al parecer rumbo a la Cruz Roja para la atención de los lesionados."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 292.622,
+            "r": 505.974,
+            "b": 255.55600000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "Según la Fiscalía General del Estado, cuando sus elementos arribaron al lugar encontraron el Tsuru, placas SEU-27-48 de Nuevo León, con impactos de bala de grueso calibre.",
+      "text": "Según la Fiscalía General del Estado, cuando sus elementos arribaron al lugar encontraron el Tsuru, placas SEU-27-48 de Nuevo León, con impactos de bala de grueso calibre."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 240.42200000000003,
+            "r": 530.4,
+            "b": 176.47299999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            361
+          ]
+        }
+      ],
+      "orig": "La persecución habría iniciado en las calles Obregón e Ildefonso Fuentes, en el Centro, donde los militares visualizaron el vehículo y le marcaron un alto que no fue atendido por el conductor del Tsuru, quien aceleró su marcha por Obregón en sentido contrario, hasta el cruce con el bulevar Coss, donde fueron alcanzados y apresados por los presuntos militares.",
+      "text": "La persecución habría iniciado en las calles Obregón e Ildefonso Fuentes, en el Centro, donde los militares visualizaron el vehículo y le marcaron un alto que no fue atendido por el conductor del Tsuru, quien aceleró su marcha por Obregón en sentido contrario, hasta el cruce con el bulevar Coss, donde fueron alcanzados y apresados por los presuntos militares."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 161.216,
+            "r": 246.455,
+            "b": 151.029,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "NOTICAS RELACIONADAS",
+      "text": "NOTICAS RELACIONADAS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 135.89499999999998,
+            "r": 308.837,
+            "b": 71.95299999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "Balean a pareja en Centro de Saltillo No hay rastro de la pareja baleada Cubre hermetismo balacera en Saltillo Viacrucis en busca de su hija desaparecida Crónica: Ataque rompe el silencio nocturno",
+      "text": "Balean a pareja en Centro de Saltillo No hay rastro de la pareja baleada Cubre hermetismo balacera en Saltillo Viacrucis en busca de su hija desaparecida Crónica: Ataque rompe el silencio nocturno"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 9:39 AM",
+      "text": "9/13/2019, 9:39 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

@@ -1,0 +1,651 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "¿Dónde está María José_ Se cumplen 9 días desde que desapareció en Puerto Vallarta - NTV",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5701417637855834707,
+    "filename": "¿Dónde está María José_ Se cumplen 9 días desde que desapareció en Puerto Vallarta - NTV.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 772.935,
+            "r": 344.514,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "¿Dónde está María José? Se cumplen 9 días desde que desapareció en Puerto Vallarta - NTV",
+      "text": "¿Dónde está María José? Se cumplen 9 días desde que desapareció en Puerto Vallarta - NTV"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.481,
+            "t": 772.935,
+            "r": 593.762,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "3/29/19, 11(49 AM",
+      "text": "3/29/19, 11(49 AM"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 74.947,
+            "t": 747.342,
+            "r": 600.418,
+            "b": 690.057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "¿Dónde está María José? Se cumplen 9 días de desapareció en Puerto Vallarta",
+      "text": "¿Dónde está María José? Se cumplen 9 días de desapareció en Puerto Vallarta",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 74.947,
+            "t": 682.212,
+            "r": 610.981,
+            "b": 659.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "· No se sabe nada del paradero de la joven nayarita nacida en Tepic, quien fue vista por última vez el 2 de julio cuando se su camioneta.",
+      "text": "· No se sabe nada del paradero de la joven nayarita nacida en Tepic, quien fue vista por última vez el 2 de julio cuando se su camioneta."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 74.947,
+            "t": 646.947,
+            "r": 221.601,
+            "b": 639.66,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Por Redacción de NTV - 11 julio, 2018",
+      "text": "Por Redacción de NTV - 11 julio, 2018"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 74.947,
+            "t": 253.101,
+            "r": 608.472,
+            "b": 230.61400000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "Ya se han cumplido nueve d'as desde que desapareci- Mar'a JosŽ Verd'as Carrillo, joven nayarita nacida en Tepic, quien f vez el lunes 2 de julio en Puerto Vallarta, Jalisco, donde actualmente radica.",
+      "text": "Ya se han cumplido nueve d'as desde que desapareci- Mar'a JosŽ Verd'as Carrillo, joven nayarita nacida en Tepic, quien f vez el lunes 2 de julio en Puerto Vallarta, Jalisco, donde actualmente radica."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 74.947,
+            "t": 208.68100000000004,
+            "r": 608.53,
+            "b": 171.63099999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            248
+          ]
+        }
+      ],
+      "orig": "De acuerdo con el reporte del Protocolo Alba para personas extraviadas, Mar'a JosŽ abord- una camioneta tipo pick up d marca Nissan, tipo Frontier, en la colonia La Aurora de Puerto Vallarta, alrededor de las 6 de la tarde, y despuŽs de eso y casa.",
+      "text": "De acuerdo con el reporte del Protocolo Alba para personas extraviadas, Mar'a JosŽ abord- una camioneta tipo pick up d marca Nissan, tipo Frontier, en la colonia La Aurora de Puerto Vallarta, alrededor de las 6 de la tarde, y despuŽs de eso y casa."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 74.947,
+            "t": 150.42599999999993,
+            "r": 607.78,
+            "b": 142.50299999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "Autoridades, estiman que la integridad de la muchacha estar'a en riesgo, ya que podr'a ser v'ctima de la comisi-n de alg",
+      "text": "Autoridades, estiman que la integridad de la muchacha estar'a en riesgo, ya que podr'a ser v'ctima de la comisi-n de alg"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 74.947,
+            "t": 120.56999999999994,
+            "r": 578.018,
+            "b": 112.64700000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "En redes sociales, decenas de amigos, familiares y usuarios, han compartido su fotograf'a para poder encontrarla.",
+      "text": "En redes sociales, decenas de amigos, familiares y usuarios, han compartido su fotograf'a para poder encontrarla."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 74.947,
+            "t": 90.71399999999994,
+            "r": 608.561,
+            "b": 68.22699999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "Mar'a JosŽ, de 20 a-os de edad, naci- el 11 de agosto de 1997, cuenta con cabello negro lacio, ojos negros, labios grues metros, pesa 70 kilos, de complexi-n delgada y tez blanca.",
+      "text": "Mar'a JosŽ, de 20 a-os de edad, naci- el 11 de agosto de 1997, cuenta con cabello negro lacio, ojos negros, labios grues metros, pesa 70 kilos, de complexi-n delgada y tez blanca."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 47.934999999999945,
+            "r": 456.746,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "https://www.ntv.com.mx/2018/07/11/donde-esta-maria-jose-se-cumplen-9-dias-desde-que-desaparecio-en-puerto-vallarta/",
+      "text": "https://www.ntv.com.mx/2018/07/11/donde-esta-maria-jose-se-cumplen-9-dias-desde-que-desaparecio-en-puerto-vallarta/"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 554.957,
+            "t": 47.934999999999945,
+            "r": 593.786,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Page 1 of 2",
+      "text": "Page 1 of 2"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 772.935,
+            "r": 344.514,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "¿Dónde está María José? Se cumplen 9 días desde que desapareció en Puerto Vallarta - NTV",
+      "text": "¿Dónde está María José? Se cumplen 9 días desde que desapareció en Puerto Vallarta - NTV"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 530.481,
+            "t": 772.935,
+            "r": 593.762,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "3/29/19, 11(49 AM",
+      "text": "3/29/19, 11(49 AM"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 74.947,
+            "t": 745.359,
+            "r": 611.724,
+            "b": 722.872,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "Al momento de su desaparici-n, vest'a un pantal-n de mezclilla azul, blusa rosa y huaraches cafŽs; tiene un tatuaje en fo la mu-eca derecha, una cicatriz de ces‡rea y otra cicatriz por cirug'a de apŽndice.",
+      "text": "Al momento de su desaparici-n, vest'a un pantal-n de mezclilla azul, blusa rosa y huaraches cafŽs; tiene un tatuaje en fo la mu-eca derecha, una cicatriz de ces‡rea y otra cicatriz por cirug'a de apŽndice."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 74.947,
+            "t": 700.939,
+            "r": 610.579,
+            "b": 693.016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "El Protocolo Alba, pide a ciudadanos de la regi-n llamar al telŽfono 3030 4949 para proporcinar informaci-n que ayude a",
+      "text": "El Protocolo Alba, pide a ciudadanos de la regi-n llamar al telŽfono 3030 4949 para proporcinar informaci-n que ayude a"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 47.934999999999945,
+            "r": 456.746,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "https://www.ntv.com.mx/2018/07/11/donde-esta-maria-jose-se-cumplen-9-dias-desde-que-desaparecio-en-puerto-vallarta/",
+      "text": "https://www.ntv.com.mx/2018/07/11/donde-esta-maria-jose-se-cumplen-9-dias-desde-que-desaparecio-en-puerto-vallarta/"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 553.993,
+            "t": 47.934999999999945,
+            "r": 593.781,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Page 2 of 2",
+      "text": "Page 2 of 2"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 73.64935302734375,
+            "t": 623.5772857666016,
+            "r": 537.3909301757812,
+            "b": 272.23419189453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

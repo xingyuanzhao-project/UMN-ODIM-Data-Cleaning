@@ -1,0 +1,567 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "La Jornada_ Ubican, asesinado, a funcionario de Coahuila",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 209389346963669166,
+    "filename": "La Jornada_ Ubican, asesinado, a funcionario de Coahuila.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 595.293,
+            "r": 62.605,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "28/11/2019",
+      "text": "28/11/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 336.891,
+            "t": 595.293,
+            "r": 521.492,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "La Jornada: Ubican, asesinado, a funcionario de Coahuila",
+      "text": "La Jornada: Ubican, asesinado, a funcionario de Coahuila"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 483.596,
+            "r": 472.841,
+            "b": 454.467,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "Ubican, asesinado, a funcionario de Coahuila",
+      "text": "Ubican, asesinado, a funcionario de Coahuila",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 209.94,
+            "t": 434.452,
+            "r": 294.123,
+            "b": 427.776,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "LEOPOLDO RAMOS",
+      "text": "LEOPOLDO RAMOS"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 454.102,
+            "t": 422.672,
+            "r": 516.59,
+            "b": 417.386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Corresponsal",
+      "text": "Corresponsal",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 440.944,
+            "t": 405.296,
+            "r": 592.387,
+            "b": 391.387,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "Periódico La Jornada Miércoles 19 de diciembre de 2012, p. 20",
+      "text": "Periódico La Jornada Miércoles 19 de diciembre de 2012, p. 20"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 378.8,
+            "r": 592.318,
+            "b": 211.394,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1011
+          ]
+        }
+      ],
+      "orig": "Saltillo,  Coah. El  secretario  ejecutivo  del  Instituto  Electoral  y  de  Participación Ciudadana de Coahuila (IEPCC), Natanael Rivera Gutiérrez, murió asesinado a balazos  y  su  cadáver  fue  hallado  el  lunes  anterior  semienterrado  en  el  ejido Guadalupe Victoria, al sur de esta ciudad. Este martes se logró la identificación del cuerpo, informó la vocería del gobierno del estado para temas de seguridad. La desaparición de Rivera Gutiérrez, de 32 años de edad, fue reportada el 6 de diciembre  por  sus  familiares  ante  la  Subprocuraduría  para  la  Investigación  y Búsqueda de Personas No Localizadas. En un comunicado se detalló que en la fosa  clandestina  estaban  otros  cinco  cadáveres,  cuatro  de  los  cuales  están identificados  y  corresponden  a  Adriana  Zermeño  López,  de  36  años;  Olga Cabrera Hernández, de 47; Juana María Rosales Gallegos, de 66, e Iván Esparza Rosales, de 25. Peritos estatales y federales trabajan en la identificación del sexto cadáver, de un varón.",
+      "text": "Saltillo,  Coah. El  secretario  ejecutivo  del  Instituto  Electoral  y  de  Participación Ciudadana de Coahuila (IEPCC), Natanael Rivera Gutiérrez, murió asesinado a balazos  y  su  cadáver  fue  hallado  el  lunes  anterior  semienterrado  en  el  ejido Guadalupe Victoria, al sur de esta ciudad. Este martes se logró la identificación del cuerpo, informó la vocería del gobierno del estado para temas de seguridad. La desaparición de Rivera Gutiérrez, de 32 años de edad, fue reportada el 6 de diciembre  por  sus  familiares  ante  la  Subprocuraduría  para  la  Investigación  y Búsqueda de Personas No Localizadas. En un comunicado se detalló que en la fosa  clandestina  estaban  otros  cinco  cadáveres,  cuatro  de  los  cuales  están identificados  y  corresponden  a  Adriana  Zermeño  López,  de  36  años;  Olga Cabrera Hernández, de 47; Juana María Rosales Gallegos, de 66, e Iván Esparza Rosales, de 25. Peritos estatales y federales trabajan en la identificación del sexto cadáver, de un varón."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.293000000000006,
+            "r": 230.641,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "https://ecologica.jornada.com.mx/2012/12/19/politica/020n3pol",
+      "text": "https://ecologica.jornada.com.mx/2012/12/19/politica/020n3pol"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 755.312,
+            "t": 22.293000000000006,
+            "r": 765.531,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/2",
+      "text": "1/2"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 595.293,
+            "r": 62.605,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "28/11/2019",
+      "text": "28/11/2019"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 336.891,
+            "t": 595.293,
+            "r": 521.492,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "La Jornada: Ubican, asesinado, a funcionario de Coahuila",
+      "text": "La Jornada: Ubican, asesinado, a funcionario de Coahuila"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 282.915,
+            "t": 382.243,
+            "r": 510.094,
+            "b": 360.455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203.",
+      "text": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.293000000000006,
+            "r": 230.641,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "https://ecologica.jornada.com.mx/2012/12/19/politica/020n3pol",
+      "text": "https://ecologica.jornada.com.mx/2012/12/19/politica/020n3pol"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 755.312,
+            "t": 22.293000000000006,
+            "r": 765.531,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2/2",
+      "text": "2/2"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.225202560424805,
+            "t": 565.5139236450195,
+            "r": 231.1432342529297,
+            "b": 525.1223526000977,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 630.9157104492188,
+            "t": 563.8937797546387,
+            "r": 764.1455688476562,
+            "b": 540.419548034668,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 740.4503173828125,
+            "t": 493.1599426269531,
+            "r": 759.0932006835938,
+            "b": 473.8877410888672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 2
+    }
+  }
+}

@@ -1,0 +1,1100 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "¿En dónde está Arturo Javier Moreno_",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13723715466448979017,
+    "filename": "¿En dónde está Arturo Javier Moreno_.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 758.35,
+            "r": 369.998,
+            "b": 749.321,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "¿En dónde está Arturo Javier Moreno?",
+      "text": "¿En dónde está Arturo Javier Moreno?",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.5,
+            "t": 728.734,
+            "r": 168.402,
+            "b": 723.385,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "JALISCO 12 junio, 2015",
+      "text": "JALISCO 12 junio, 2015"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 270.058,
+            "r": 232.317,
+            "b": 263.885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Por: Darwin Franco (@darwinfranco)",
+      "text": "Por: Darwin Franco (@darwinfranco)"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 246.058,
+            "r": 568.816,
+            "b": 206.88599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            266
+          ]
+        }
+      ],
+      "orig": "12 de junio 2015.Arturo Javier Moreno Ramírez salió de su casa como muchos otros días, tenía una agenda previamente organizada para ese día tanto como para actividades académicas como laborales, además de un compromiso familiar acordado para ese 12 de junio de 2014.",
+      "text": "12 de junio 2015.Arturo Javier Moreno Ramírez salió de su casa como muchos otros días, tenía una agenda previamente organizada para ese día tanto como para actividades académicas como laborales, además de un compromiso familiar acordado para ese 12 de junio de 2014."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 189.058,
+            "r": 568.65,
+            "b": 133.385,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            340
+          ]
+        }
+      ],
+      "orig": "Salió ese día de su casa, como muchos de nosotros lo hacemos a diario, para hacer ejercicio y cumplir con sus labores como abogado y docente. Llamó a su prometida para ultimar detalles del compromiso familiar  acordando  la  hora  exacta  en  que  se  reunirían;  sin  embargo,  ella  se  quedó  esperando  pues Arturo nunca regreso a casa.",
+      "text": "Salió ese día de su casa, como muchos de nosotros lo hacemos a diario, para hacer ejercicio y cumplir con sus labores como abogado y docente. Llamó a su prometida para ultimar detalles del compromiso familiar  acordando  la  hora  exacta  en  que  se  reunirían;  sin  embargo,  ella  se  quedó  esperando  pues Arturo nunca regreso a casa."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 115.55799999999999,
+            "r": 569.009,
+            "b": 59.88599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            314
+          ]
+        }
+      ],
+      "orig": "Arturo  Moreno  es  abogado  y  hasta  antes  de  su  desaparición  laboraba  desde  hace  14  años  como profesor en la División de Estudios Jurídicos de adscrito al departamento de Derecho Social, dentro del Centro Universitario de Ciencias Sociales y Humanidades de la Universidad de Guadalajara, su alma mater.",
+      "text": "Arturo  Moreno  es  abogado  y  hasta  antes  de  su  desaparición  laboraba  desde  hace  14  años  como profesor en la División de Estudios Jurídicos de adscrito al departamento de Derecho Social, dentro del Centro Universitario de Ciencias Sociales y Humanidades de la Universidad de Guadalajara, su alma mater."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.0,
+            "t": 759.059,
+            "r": 568.791,
+            "b": 686.886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            525
+          ]
+        }
+      ],
+      "orig": "Proveniente  de  una  familia  siempre  unida  con  base  firme  en  el  trabajo  y  la  ayuda  al  prójimo,  Arturo estudió derecho en la Universidad de Guadalajara y antes de desaparecer cursaba el último año de un doctorado, del cual por cierto  sus  compañeros están próximos a graduarse en unos días. En ese doctorado aún  sigue  su  lugar  vacío  en  el  aula ,  ya  que  la  idea  de  Arturo  era  seguir  produciendo conocimiento en pos de la justicia. Su sueño de convertirse en Doctor en Derecho aún está pendiente.",
+      "text": "Proveniente  de  una  familia  siempre  unida  con  base  firme  en  el  trabajo  y  la  ayuda  al  prójimo,  Arturo estudió derecho en la Universidad de Guadalajara y antes de desaparecer cursaba el último año de un doctorado, del cual por cierto  sus  compañeros están próximos a graduarse en unos días. En ese doctorado aún  sigue  su  lugar  vacío  en  el  aula ,  ya  que  la  idea  de  Arturo  era  seguir  produciendo conocimiento en pos de la justicia. Su sueño de convertirse en Doctor en Derecho aún está pendiente."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.0,
+            "t": 669.059,
+            "r": 568.862,
+            "b": 563.885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            708
+          ]
+        }
+      ],
+      "orig": "Durante su época estudiantil, en la carrera de abogado en la Universidad de Guadalajara, compartió las aulas  y  las  actividades  políticas  escolares  con  el  actual  gobernador, Aristóteles  Sandoval. Sin embargo,  esto  poco  ha  valido  para  su  familia  pues  ni  'la  preocupación  del  gobernador  por  su compañero' ni la manifestación pública que la Universidad de Guadalajara hiciera 12 días después de su desaparición, han servido para que la Averiguación Previa que se inició el inmediatamente con motivo de su desaparición tenga resultados, pues a un año las pesquisas de los agentes investigadores de la Agencia del Ministerio Público Número 12/C, especializada en desapariciones, son nulas.",
+      "text": "Durante su época estudiantil, en la carrera de abogado en la Universidad de Guadalajara, compartió las aulas  y  las  actividades  políticas  escolares  con  el  actual  gobernador, Aristóteles  Sandoval. Sin embargo,  esto  poco  ha  valido  para  su  familia  pues  ni  'la  preocupación  del  gobernador  por  su compañero' ni la manifestación pública que la Universidad de Guadalajara hiciera 12 días después de su desaparición, han servido para que la Averiguación Previa que se inició el inmediatamente con motivo de su desaparición tenga resultados, pues a un año las pesquisas de los agentes investigadores de la Agencia del Ministerio Público Número 12/C, especializada en desapariciones, son nulas."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.0,
+            "t": 546.059,
+            "r": 568.998,
+            "b": 506.886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "Sus  padres  y  su  prometida  son  los  que  han  investigado  por  sus  propios  medios qué  podría  haber pasado con Arturo Moreno. No obstante no dejan darle el debido seguimiento a su investigación ante la Fiscalía General de Jalisco.",
+      "text": "Sus  padres  y  su  prometida  son  los  que  han  investigado  por  sus  propios  medios qué  podría  haber pasado con Arturo Moreno. No obstante no dejan darle el debido seguimiento a su investigación ante la Fiscalía General de Jalisco."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 136.0,
+            "t": 481.3333333333333,
+            "r": 475.6666666666667,
+            "b": 436.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "#NosFaltaArturo",
+      "text": "#NosFaltaArturo",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 273.65212129980966,
+            "t": 419.953817857371,
+            "r": 468.3333333333333,
+            "b": 405.046182142629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "se cumple un año de la desaparición de Hoy",
+      "text": "se cumple un año de la desaparición de Hoy"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 230.66666666666666,
+            "t": 382.6666666666667,
+            "r": 511.0,
+            "b": 361.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Arturo Javier Moreno Ramírez",
+      "text": "Arturo Javier Moreno Ramírez",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 233.0,
+            "t": 334.33333333333337,
+            "r": 507.6666666666667,
+            "b": 267.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "Desde FUNDEJ exigimos a las autoridades búsqueda y justicia. Arturo Javier desapareció en Guadalajara, Jalisco, El 12 de junio del 2014 Contacto: arturojaviermoreno@Hotmail.com",
+      "text": "Desde FUNDEJ exigimos a las autoridades búsqueda y justicia. Arturo Javier desapareció en Guadalajara, Jalisco, El 12 de junio del 2014 Contacto: arturojaviermoreno@Hotmail.com"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 280.33333333333337,
+            "t": 224.33333333333326,
+            "r": 310.0,
+            "b": 211.66666666666674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "FNDEJ",
+      "text": "FNDEJ"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 208.0,
+            "t": 209.66666666666674,
+            "r": 385.3333333333333,
+            "b": 200.33333333333326,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Familias Unidas por Nuestros Desaparecidos Jalisco",
+      "text": "Familias Unidas por Nuestros Desaparecidos Jalisco"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.0,
+            "t": 185.308,
+            "r": 568.994,
+            "b": 113.13499999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            499
+          ]
+        }
+      ],
+      "orig": "La familia de Arturo Moreno se ha incorporado a Familias Unidas por Nuestros Desaparecidos Jalisco (FUNDEJ), ahí han estado presentes en sus manifestaciones y en las exigencias que este colectivo ha hecho al gobierno de Aristóteles Sandoval. El 18 de marzo, día en que FUNDEJ solicitó al gobernador una reunión, su padre Javier Moreno se presentó a las afueras de Palacio de Gobierno con la foto de Arturo Javier y con firmeza mencionó: 'en el caso de mi hijo no ha existido voluntad de investigar'.",
+      "text": "La familia de Arturo Moreno se ha incorporado a Familias Unidas por Nuestros Desaparecidos Jalisco (FUNDEJ), ahí han estado presentes en sus manifestaciones y en las exigencias que este colectivo ha hecho al gobierno de Aristóteles Sandoval. El 18 de marzo, día en que FUNDEJ solicitó al gobernador una reunión, su padre Javier Moreno se presentó a las afueras de Palacio de Gobierno con la foto de Arturo Javier y con firmeza mencionó: 'en el caso de mi hijo no ha existido voluntad de investigar'."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.0,
+            "t": 95.30799999999999,
+            "r": 568.938,
+            "b": 39.63599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            413
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 759.058,
+            "r": 568.942,
+            "b": 719.886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            414,
+            680
+          ]
+        }
+      ],
+      "orig": "La familia Moreno Ramírez ha venido batallando y sufriendo los estragos de la lenta investigación, pues tanto el padre de Arturo Javier como sus hermanos abogados han dado muchas vueltas a las oficinas de la  Fiscalía General de Jalisco y son tantas las veces que de las autoridades ha escuchado: 'estamos investigando',  'aún  no  tenemos  la  información',  'cambiaron  al  encargado  de  su  caso,  le  pedimos comprensión', 'tengan paciencia'. ¿Tenga paciencia? Si  paciencia es lo menos pueden tener cuando no saben ni por qué desapareció su ser querido. Paciencia es justo lo que NO se puede generar ante la ineficacia de las autoridades que dicen buscarlo pero no lo hacen.",
+      "text": "La familia Moreno Ramírez ha venido batallando y sufriendo los estragos de la lenta investigación, pues tanto el padre de Arturo Javier como sus hermanos abogados han dado muchas vueltas a las oficinas de la  Fiscalía General de Jalisco y son tantas las veces que de las autoridades ha escuchado: 'estamos investigando',  'aún  no  tenemos  la  información',  'cambiaron  al  encargado  de  su  caso,  le  pedimos comprensión', 'tengan paciencia'. ¿Tenga paciencia? Si  paciencia es lo menos pueden tener cuando no saben ni por qué desapareció su ser querido. Paciencia es justo lo que NO se puede generar ante la ineficacia de las autoridades que dicen buscarlo pero no lo hacen."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 702.058,
+            "r": 569.005,
+            "b": 613.385,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            622
+          ]
+        }
+      ],
+      "orig": "Sin embargo, los seres más cercanos a Arturo Moreno han sacado la casta y junto con las familias de FUNDEJ siguen exigiendo que las promesas que recibieron en voz del gobernador , el pasado 15 de mayo,  se  hagan  realidad,  pues  de  las  mesas  de  trabajo  que  se  han  dado  desde  entonces  entre  las familias de los desaparecidos de Jalisco y las autoridades del estado, sí se ha logrado modificar el trato y  la  atención  a  las  víctimas;  sin  embargo,  la  esencia  de  sus  demandas  no  se  han  cumplido,  ya  que siguen sin tener acceso a sus expedientes y no hay avances de la búsqueda de sus familiares.",
+      "text": "Sin embargo, los seres más cercanos a Arturo Moreno han sacado la casta y junto con las familias de FUNDEJ siguen exigiendo que las promesas que recibieron en voz del gobernador , el pasado 15 de mayo,  se  hagan  realidad,  pues  de  las  mesas  de  trabajo  que  se  han  dado  desde  entonces  entre  las familias de los desaparecidos de Jalisco y las autoridades del estado, sí se ha logrado modificar el trato y  la  atención  a  las  víctimas;  sin  embargo,  la  esencia  de  sus  demandas  no  se  han  cumplido,  ya  que siguen sin tener acceso a sus expedientes y no hay avances de la búsqueda de sus familiares."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 195.33333333333334,
+            "t": 583.6666666666666,
+            "r": 414.66666666666663,
+            "b": 557.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "DESAPARECIDO",
+      "text": "DESAPARECIDO",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 209.66666666666666,
+            "t": 295.3333333333333,
+            "r": 401.66666666666663,
+            "b": 212.66666666666674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "Arturo Javier Moreno Ramirez Profesor del Centro Universitario de Cicncias Socialcs y Humanidadcs (CUCSH) Fuc visto por ultima vCz cl jueves 12 dejunio de 2014 Guadalajara Jalisco México uniondcabogadosdejaliscoloutlook com",
+      "text": "Arturo Javier Moreno Ramirez Profesor del Centro Universitario de Cicncias Socialcs y Humanidadcs (CUCSH) Fuc visto por ultima vCz cl jueves 12 dejunio de 2014 Guadalajara Jalisco México uniondcabogadosdejaliscoloutlook com"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 199.558,
+            "r": 568.929,
+            "b": 127.38599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            461
+          ]
+        }
+      ],
+      "orig": "Hoy se cumple un año de la desaparición de Arturo Javier Moreno Ramírez, profesor de la Universidad de  Guadalajara,  hoy  se  cumple  año  desde  que  esta  institución  prometió  estar  cercana  a  las investigaciones de su catedrático. Hoy se cumple un año desde que el Fiscal, Luis Carlos Nájera , se comprometió ir al fondo de este caso. Hoy se cumple un año de que su familia y su prometida siguen sin saber dónde está y por qué motivos lo desaparecieron.",
+      "text": "Hoy se cumple un año de la desaparición de Arturo Javier Moreno Ramírez, profesor de la Universidad de  Guadalajara,  hoy  se  cumple  año  desde  que  esta  institución  prometió  estar  cercana  a  las investigaciones de su catedrático. Hoy se cumple un año desde que el Fiscal, Luis Carlos Nájera , se comprometió ir al fondo de este caso. Hoy se cumple un año de que su familia y su prometida siguen sin saber dónde está y por qué motivos lo desaparecieron."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 109.55799999999999,
+            "r": 568.419,
+            "b": 37.38499999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            443
+          ]
+        }
+      ],
+      "orig": "Ante estas dudas, su prometida desde el amor que se gesta por su búsqueda le escribe: 'Mtro. Arturo Javier Moreno Ramírez… Jamás había experimentado un dolor tan grande, una impotencia tan amplia como mi capacidad de amar, una soledad más intensa que mis propias ganas de luchar… Son doce meses de angustia, rabia y desesperación… Son doce meses de ausencia, frustración y silencio… Son doce meses… son doce meses… Y sólo quedan las huellas…'.",
+      "text": "Ante estas dudas, su prometida desde el amor que se gesta por su búsqueda le escribe: 'Mtro. Arturo Javier Moreno Ramírez… Jamás había experimentado un dolor tan grande, una impotencia tan amplia como mi capacidad de amar, una soledad más intensa que mis propias ganas de luchar… Son doce meses de angustia, rabia y desesperación… Son doce meses de ausencia, frustración y silencio… Son doce meses… son doce meses… Y sólo quedan las huellas…'."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 50.0,
+            "t": 665.516,
+            "r": 113.015,
+            "b": 659.76,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "0 Comments",
+      "text": "0 Comments",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 59.07,
+            "t": 611.096,
+            "r": 153.043,
+            "b": 604.512,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Add a comment...",
+      "text": "Add a comment..."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.25,
+            "t": 559.66,
+            "r": 167.883,
+            "b": 555.133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Facebook Comments Plugin",
+      "text": "Facebook Comments Plugin"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 399.805,
+            "t": 665.521,
+            "r": 435.98,
+            "b": 659.761,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Sort by",
+      "text": "Sort by"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 442.719,
+            "t": 663.692,
+            "r": 470.725,
+            "b": 658.758,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Oldest",
+      "text": "Oldest"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.47494888305664,
+            "t": 687.4241561889648,
+            "r": 569.7298583984375,
+            "b": 292.3685302734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.43476104736328,
+            "t": 430.1500549316406,
+            "r": 220.0573272705078,
+            "b": 267.7344970703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 275.9103088378906,
+            "t": 260.38165283203125,
+            "r": 316.9797668457031,
+            "b": 214.0093994140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 485.7898864746094,
+            "t": 494.5837097167969,
+            "r": 569.6008911132812,
+            "b": 196.52130126953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 194.37872314453125,
+            "t": 594.9787445068359,
+            "r": 418.32281494140625,
+            "b": 544.6447906494141,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 194.07931518554688,
+            "t": 542.9717712402344,
+            "r": 418.7402648925781,
+            "b": 296.1480712890625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    }
+  }
+}

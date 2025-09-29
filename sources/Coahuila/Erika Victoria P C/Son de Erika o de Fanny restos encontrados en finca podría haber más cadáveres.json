@@ -1,0 +1,1342 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Son de Erika o de Fanny restos encontrados en finca podría haber más cadáveres",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15869633031934568261,
+    "filename": "Son de Erika o de Fanny restos encontrados en finca podría haber más cadáveres.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 297.303,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "¿Son de Erika o de Fanny restos encontrados en finca? podría haber más...",
+      "text": "¿Son de Erika o de Fanny restos encontrados en finca? podría haber más..."
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 98.042,
+            "t": 614.669,
+            "r": 118.594,
+            "b": 606.935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Inicio",
+      "text": "Inicio"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 132.12,
+            "t": 614.669,
+            "r": 177.901,
+            "b": 606.935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Información",
+      "text": "Información"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 191.401,
+            "t": 614.669,
+            "r": 228.982,
+            "b": 606.935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "columnas",
+      "text": "columnas"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 242.524,
+            "t": 614.669,
+            "r": 305.912,
+            "b": 606.935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Versión Impresa",
+      "text": "Versión Impresa"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 310.55,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "https://democratacoahuila.com/2018/07/20/son-de-erika-o-de-fanny-resto...",
+      "text": "https://democratacoahuila.com/2018/07/20/son-de-erika-o-de-fanny-resto..."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 319.444,
+            "t": 614.669,
+            "r": 357.989,
+            "b": 606.935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Facebook",
+      "text": "Facebook"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 371.527,
+            "t": 614.669,
+            "r": 466.189,
+            "b": 606.935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Noticieros El Demócrata",
+      "text": "Noticieros El Demócrata"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 98.037,
+            "t": 562.786,
+            "r": 470.848,
+            "b": 464.415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "¿Son de Erika o de Fanny restos encontrados en finca? podría haber más cadáveres",
+      "text": "¿Son de Erika o de Fanny restos encontrados en finca? podría haber más cadáveres",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 98.039,
+            "t": 446.155,
+            "r": 204.76,
+            "b": 439.056,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "El Demócrata / 20 julio, 2018",
+      "text": "El Demócrata / 20 julio, 2018"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 98.042,
+            "t": 421.227,
+            "r": 491.95,
+            "b": 400.054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "*** Padres de Stephanie aseguran que recibieron información anónima indicándoles que en esa finca estaba enterrado el cuerpo de su hija.-",
+      "text": "*** Padres de Stephanie aseguran que recibieron información anónima indicándoles que en esa finca estaba enterrado el cuerpo de su hija.-",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 98.042,
+            "t": 381.148,
+            "r": 502.287,
+            "b": 359.852,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "***Las autoridades se negaron a buscar por no contar con pruebas para entrar a la vivienda; ahora para buscar la familia debe pagar lo que se destruya.-",
+      "text": "***Las autoridades se negaron a buscar por no contar con pruebas para entrar a la vivienda; ahora para buscar la familia debe pagar lo que se destruya.-",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 98.042,
+            "t": 107.05999999999995,
+            "r": 504.424,
+            "b": 72.327,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "Torreón, Coah., 20 de julio 2018.- ¿A quién pertenecían los restos humanos encontrados en una finca cuando realizaban trabajos de albañilería? ¿Son en realidad de Erika Victoria Prone Ceniceros o son los de Stephanie Sánchez Viesca 'Fanny?",
+      "text": "Torreón, Coah., 20 de julio 2018.- ¿A quién pertenecían los restos humanos encontrados en una finca cuando realizaban trabajos de albañilería? ¿Son en realidad de Erika Victoria Prone Ceniceros o son los de Stephanie Sánchez Viesca 'Fanny?"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 98.042,
+            "t": 53.422000000000025,
+            "r": 478.371,
+            "b": 45.68700000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "La duda volvió a aparecer luego de que los padres de Fanny, Silvia Ortiz y Oscar Sánchez Viesca",
+      "text": "La duda volvió a aparecer luego de que los padres de Fanny, Silvia Ortiz y Oscar Sánchez Viesca"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 5",
+      "text": "1 of 5"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 531.716,
+            "t": 8.63900000000001,
+            "r": 611.983,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "7/14/2019, 7:33 PM",
+      "text": "7/14/2019, 7:33 PM"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 297.303,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "¿Son de Erika o de Fanny restos encontrados en finca? podría haber más...",
+      "text": "¿Son de Erika o de Fanny restos encontrados en finca? podría haber más..."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 310.55,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "https://democratacoahuila.com/2018/07/20/son-de-erika-o-de-fanny-resto...",
+      "text": "https://democratacoahuila.com/2018/07/20/son-de-erika-o-de-fanny-resto..."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 98.042,
+            "t": 752.431,
+            "r": 500.71,
+            "b": 731.137,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "recibieron una llamada anónima en donde se les aseguraba que el cuerpo de la joven estaba enterrado justamente en esa finca donde hoy se dice que los restos son de Erika.",
+      "text": "recibieron una llamada anónima en donde se les aseguraba que el cuerpo de la joven estaba enterrado justamente en esa finca donde hoy se dice que los restos son de Erika."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 98.042,
+            "t": 712.232,
+            "r": 497.556,
+            "b": 690.938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "La vocera del Grupo Pro Vida y madre de Fanny dio a conocer que después de recibir esa información anónima dio aviso a las autoridades pero éstas ignoraron los datos por carecer de pruebas.",
+      "text": "La vocera del Grupo Pro Vida y madre de Fanny dio a conocer que después de recibir esa información anónima dio aviso a las autoridades pero éstas ignoraron los datos por carecer de pruebas."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 98.042,
+            "t": 672.029,
+            "r": 512.01,
+            "b": 623.856,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            410
+          ]
+        }
+      ],
+      "orig": "'Hace mucho tiempo hace más de dos años, nos llega la información y nosotros la proporcionamos a las autoridades y nos dicen seguramente, que se necesitan testigos, que se necesita esto, lo otro y tener que esperar a que alguien rente la casa o la compre o yo no sé qué sucedió y quiera remodelar y se dé cuenta que está ahí. Me duele más porque de mi hija dicen lo mismo', comentó Ortiz a El Siglo de Torreón.",
+      "text": "'Hace mucho tiempo hace más de dos años, nos llega la información y nosotros la proporcionamos a las autoridades y nos dicen seguramente, que se necesitan testigos, que se necesita esto, lo otro y tener que esperar a que alguien rente la casa o la compre o yo no sé qué sucedió y quiera remodelar y se dé cuenta que está ahí. Me duele más porque de mi hija dicen lo mismo', comentó Ortiz a El Siglo de Torreón."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 98.042,
+            "t": 604.831,
+            "r": 511.231,
+            "b": 516.094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            725
+          ]
+        }
+      ],
+      "orig": "Aclara además: 'una persona, que yo no sé si es verdad, pero dijo que 'tu hija está enterrada en tal lugar', y yo solicité la intervención y dicen que requerimos el testimonio de un testigo, no lo han hecho', por lo que señala que como sucedió en el caso de Érika deberá esperar 'Me voy a quedar así hasta que a alguien se le ocurra remodelar o hacer algo. Es un lugar en Torreón. A mí me duele, me tienen así, yo no sé si es verdad, pero como madre les he pedido la intervención y me dicen que no se puede realizar que si ellos van y hacen una intervención en el lugar, primero necesitan justificarlo ante un juez para autorizarla, segundo que si hacemos daño en el lugar todos los gastos serían para mí', dijo con tristeza.",
+      "text": "Aclara además: 'una persona, que yo no sé si es verdad, pero dijo que 'tu hija está enterrada en tal lugar', y yo solicité la intervención y dicen que requerimos el testimonio de un testigo, no lo han hecho', por lo que señala que como sucedió en el caso de Érika deberá esperar 'Me voy a quedar así hasta que a alguien se le ocurra remodelar o hacer algo. Es un lugar en Torreón. A mí me duele, me tienen así, yo no sé si es verdad, pero como madre les he pedido la intervención y me dicen que no se puede realizar que si ellos van y hacen una intervención en el lugar, primero necesitan justificarlo ante un juez para autorizarla, segundo que si hacemos daño en el lugar todos los gastos serían para mí', dijo con tristeza."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 98.042,
+            "t": 497.191,
+            "r": 495.278,
+            "b": 462.453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "La madre de Fanny eplica: 'Para mí es terrible esta situación por la similitud de los casos, es algo que daña, y que se puede quedar así por siempre. Mientras tanto queda ese hueco de angustia y de incertidumbre de que querer hacer algo'.",
+      "text": "La madre de Fanny eplica: 'Para mí es terrible esta situación por la similitud de los casos, es algo que daña, y que se puede quedar así por siempre. Mientras tanto queda ese hueco de angustia y de incertidumbre de que querer hacer algo'."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 98.042,
+            "t": 443.547,
+            "r": 513.762,
+            "b": 408.814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            280
+          ]
+        }
+      ],
+      "orig": "Recuerda que la noche del viernes 05 de noviembre del 2004 fue la última vez que vieron a Fanny caminando por la calle Carmen Salinas, entre las avenidas Morelos y Matamoros. Había salido del Colegio Español, donde estudiaba preparatoria, y se dirigía a su casa, pero nunca llegó.",
+      "text": "Recuerda que la noche del viernes 05 de noviembre del 2004 fue la última vez que vieron a Fanny caminando por la calle Carmen Salinas, entre las avenidas Morelos y Matamoros. Había salido del Colegio Español, donde estudiaba preparatoria, y se dirigía a su casa, pero nunca llegó."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 98.042,
+            "t": 389.909,
+            "r": 506.842,
+            "b": 355.17,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            266
+          ]
+        }
+      ],
+      "orig": "Las pesquisas para dar con el paradero de Fanny, tras recuperar sus huellas dactilares que contenían su mochila y alguno de sus libros de escuela, dieron nuevas esperanzas a sus padres. Los objetos fueron enviados a la SEIDO hace ocho meses y aun esperan respuestas.",
+      "text": "Las pesquisas para dar con el paradero de Fanny, tras recuperar sus huellas dactilares que contenían su mochila y alguno de sus libros de escuela, dieron nuevas esperanzas a sus padres. Los objetos fueron enviados a la SEIDO hace ocho meses y aun esperan respuestas."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 98.042,
+            "t": 336.265,
+            "r": 512.807,
+            "b": 287.973,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            343
+          ]
+        }
+      ],
+      "orig": "'Qué significa esto, que viene una búsqueda nueva, una búsqueda diferente, una búsqueda en NN (No identificados), que le han sacado dactilares en INE (Instituto Nacional Electoral), en Relaciones Exteriores, por algún pasaporte, alguna visa; viene una búsqueda que nos llena totalmente de esperanza y estamos muy contentos', dice Silvia Ortiz.",
+      "text": "'Qué significa esto, que viene una búsqueda nueva, una búsqueda diferente, una búsqueda en NN (No identificados), que le han sacado dactilares en INE (Instituto Nacional Electoral), en Relaciones Exteriores, por algún pasaporte, alguna visa; viene una búsqueda que nos llena totalmente de esperanza y estamos muy contentos', dice Silvia Ortiz."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 98.042,
+            "t": 269.0640000000001,
+            "r": 498.345,
+            "b": 247.89099999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "Ahora, prefiere no ahondar en la confusión que generó el hallazgo del cadáver en el patio de la casa la casa marcada con el número 531 de la calle Paseo Ciclón de la colonia Ampliación La Rosita.",
+      "text": "Ahora, prefiere no ahondar en la confusión que generó el hallazgo del cadáver en el patio de la casa la casa marcada con el número 531 de la calle Paseo Ciclón de la colonia Ampliación La Rosita."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 98.042,
+            "t": 228.865,
+            "r": 457.26,
+            "b": 221.13,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "La denuncia anónima hace volar la imaginación ¿hay más mujeres enterradas en esa finca?",
+      "text": "La denuncia anónima hace volar la imaginación ¿hay más mujeres enterradas en esa finca?"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 98.042,
+            "t": 202.22500000000002,
+            "r": 505.615,
+            "b": 181.05099999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "Las autoridades no quieren buscar. Aseguran que si lo hacen, la destrucción que causen en la finca será con cargo a los padres de Fanny y estos no cuentan con recursos para pagar los daños.",
+      "text": "Las autoridades no quieren buscar. Aseguran que si lo hacen, la destrucción que causen en la finca será con cargo a los padres de Fanny y estos no cuentan con recursos para pagar los daños."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 98.042,
+            "t": 162.02199999999993,
+            "r": 504.564,
+            "b": 140.84899999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "Mientras, queda la duda, la gran duda… ¿de quién son los restos encontrados? ¿hay más cadáveres en ese lugar?",
+      "text": "Mientras, queda la duda, la gran duda… ¿de quién son los restos encontrados? ¿hay más cadáveres en ese lugar?"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 98.039,
+            "t": 110.43799999999999,
+            "r": 150.436,
+            "b": 103.54399999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Compártelo:",
+      "text": "Compártelo:"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 113.64,
+            "t": 90.65700000000004,
+            "r": 139.628,
+            "b": 84.08899999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Twittear",
+      "text": "Twittear"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 167.398,
+            "t": 90.05100000000004,
+            "r": 202.953,
+            "b": 83.49099999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Compartir",
+      "text": "Compartir"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 205.556,
+            "t": 90.05799999999999,
+            "r": 217.356,
+            "b": 83.48900000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "116",
+      "text": "116"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 248.4,
+            "t": 90.95100000000002,
+            "r": 314.537,
+            "b": 83.85199999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Correo electrónico",
+      "text": "Correo electrónico"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 345.122,
+            "t": 90.95100000000002,
+            "r": 382.476,
+            "b": 83.85199999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "WhatsApp",
+      "text": "WhatsApp"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 410.992,
+            "t": 90.05899999999997,
+            "r": 429.823,
+            "b": 83.64499999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Share",
+      "text": "Share"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2 of 5",
+      "text": "2 of 5"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 531.716,
+            "t": 8.63900000000001,
+            "r": 611.983,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "7/14/2019, 7:33 PM",
+      "text": "7/14/2019, 7:33 PM"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 97.0627670288086,
+            "t": 345.1366271972656,
+            "r": 514.3370971679688,
+            "b": 124.7425537109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 151.30474853515625,
+            "t": 95.22296142578125,
+            "r": 220.07046508789062,
+            "b": 80.8411865234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 394.2734680175781,
+            "t": 95.38262939453125,
+            "r": 435.0274658203125,
+            "b": 80.9283447265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

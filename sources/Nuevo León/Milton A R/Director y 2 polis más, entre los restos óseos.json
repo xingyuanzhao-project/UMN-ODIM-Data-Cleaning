@@ -1,0 +1,800 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Director y 2 polis más, entre los restos óseos",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 14594157094202093116,
+    "filename": "Director y 2 polis más, entre los restos óseos.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 178.472,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Director y 2 polis más, entre los restos óseos",
+      "text": "Director y 2 polis más, entre los restos óseos"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 313.339,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "https://www.milenio.com/estados/director-y-2-polis-mas-entre-los-restos...",
+      "text": "https://www.milenio.com/estados/director-y-2-polis-mas-entre-los-restos..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 515.483,
+            "b": 711.806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Director y 2 polis más, entre los restos óseos",
+      "text": "Director y 2 polis más, entre los restos óseos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.04,
+            "t": 683.195,
+            "r": 160.402,
+            "b": 673.935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Lorenzo Encinas",
+      "text": "Lorenzo Encinas"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 646.378,
+            "r": 528.737,
+            "b": 609.316,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            252
+          ]
+        }
+      ],
+      "orig": "Milton Alvarado Rojas, quien fuera director de Policía de Apodaca en 2011, y por lo menos otros dos elementos policiacos municipales, se encuentran entre los restos óseos localizados el 24 de mayo en un paraje del ejido Las Abejas, en Salinas Victoria.",
+      "text": "Milton Alvarado Rojas, quien fuera director de Policía de Apodaca en 2011, y por lo menos otros dos elementos policiacos municipales, se encuentran entre los restos óseos localizados el 24 de mayo en un paraje del ejido Las Abejas, en Salinas Victoria."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 594.061,
+            "r": 530.162,
+            "b": 543.553,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            271
+          ]
+        }
+      ],
+      "orig": "El procurador de Justicia, Roberto Flores Treviño, reveló los nombres de las víctimas, según las pruebas de ADN, y además de Alvarado Rojas, mencionó a Ricardo Rangel García y Alejandro Guadalupe Zamora Vaca, policías de quienes se sabía su desaparición por estos hechos.",
+      "text": "El procurador de Justicia, Roberto Flores Treviño, reveló los nombres de las víctimas, según las pruebas de ADN, y además de Alvarado Rojas, mencionó a Ricardo Rangel García y Alejandro Guadalupe Zamora Vaca, policías de quienes se sabía su desaparición por estos hechos."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 528.419,
+            "r": 529.366,
+            "b": 491.351,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "Cabe destacar que aunque el 28 de abril de 2011 fueron secuestrados el director de Policía yde Apodaca y diez elementos más, sólo encontraron restos del jefe policiaco y los otros dos policías ya mencionados.",
+      "text": "Cabe destacar que aunque el 28 de abril de 2011 fueron secuestrados el director de Policía yde Apodaca y diez elementos más, sólo encontraron restos del jefe policiaco y los otros dos policías ya mencionados."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 476.217,
+            "r": 528.38,
+            "b": 412.276,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            364
+          ]
+        }
+      ],
+      "orig": "Por medio de un video que publicó en su cuenta de Facebook, Flores Treviño informó también los nombres de Isidra Soto Buenrostro, Crispín Servín Suchele, Brayan Mendoza Noriega, Diego García Viera, Adrián Guadalupe García Hernández, Francisco Javier González Sánchez y José Guadalupe Herrera Sustaita, quienes no estarían relacionados con la corporación policiaca.",
+      "text": "Por medio de un video que publicó en su cuenta de Facebook, Flores Treviño informó también los nombres de Isidra Soto Buenrostro, Crispín Servín Suchele, Brayan Mendoza Noriega, Diego García Viera, Adrián Guadalupe García Hernández, Francisco Javier González Sánchez y José Guadalupe Herrera Sustaita, quienes no estarían relacionados con la corporación policiaca."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 397.018,
+            "r": 491.992,
+            "b": 373.515,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "Los restos carbonizados fueron procesados con la finalidad de obtener el perfil genético, el ADN, para facilitar su identificación.",
+      "text": "Los restos carbonizados fueron procesados con la finalidad de obtener el perfil genético, el ADN, para facilitar su identificación."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 358.258,
+            "r": 521.882,
+            "b": 321.192,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "El funcionario estatal comentó que el pasado 24 de mayo les fueron entregados a las víctimas indirectas las correspondientes órdenes de inhumación a fin de que se realizaran los trámites correspondientes.",
+      "text": "El funcionario estatal comentó que el pasado 24 de mayo les fueron entregados a las víctimas indirectas las correspondientes órdenes de inhumación a fin de que se realizaran los trámites correspondientes."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 306.058,
+            "r": 521.609,
+            "b": 255.55600000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            272
+          ]
+        }
+      ],
+      "orig": "Explicó que a los familiares de las personas identificadas se les otorgaron el carácter de victimas para que pudieran acceder al fondo económico con que cuenta la Comisión Ejecutiva Estatal de Atención a Víctimas con el fin de que se les proporcione los gastos funerarios.",
+      "text": "Explicó que a los familiares de las personas identificadas se les otorgaron el carácter de victimas para que pudieran acceder al fondo económico con que cuenta la Comisión Ejecutiva Estatal de Atención a Víctimas con el fin de que se les proporcione los gastos funerarios."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 240.42200000000003,
+            "r": 513.685,
+            "b": 203.35199999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "El procurador de Justicia dijo que a los deudos se les brindó apoyo especial con las instancias correspondientes para que reciban apoyo psicológico y detectar necesidades de orientación legal.",
+      "text": "El procurador de Justicia dijo que a los deudos se les brindó apoyo especial con las instancias correspondientes para que reciban apoyo psicológico y detectar necesidades de orientación legal."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 188.09899999999993,
+            "r": 520.658,
+            "b": 137.59000000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            287
+          ]
+        }
+      ],
+      "orig": "\"A los nueve presuntos culpables de la desaparición de estas víctimas se les ejerció acción penal en su contra por los delitos de secuestro agravado y robo con violencia, los implicados se encuentran procesados en el penal del Topo Chico\", afirmó el procurador de Justicia de Nuevo León.",
+      "text": "\"A los nueve presuntos culpables de la desaparición de estas víctimas se les ejerció acción penal en su contra por los delitos de secuestro agravado y robo con violencia, los implicados se encuentran procesados en el penal del Topo Chico\", afirmó el procurador de Justicia de Nuevo León."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 122.46299999999997,
+            "r": 528.261,
+            "b": 85.39300000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "El pasado miércoles, la titular de Ciudadanos en Apoyo a los Derechos Humanos, AC, Consuelo Morales, había revelado que habían encontrado restos de policías de Apodaca que presuntamente fueron raptados por elementos de Juárez.",
+      "text": "El pasado miércoles, la titular de Ciudadanos en Apoyo a los Derechos Humanos, AC, Consuelo Morales, había revelado que habían encontrado restos de policías de Apodaca que presuntamente fueron raptados por elementos de Juárez."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 70.25900000000001,
+            "r": 506.925,
+            "b": 46.63300000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "\"Han encontrado a varios de ellos mismos, fueron a 10 policías que se llevaron de Apodaca y fueron los policías de Juárez quienes se los llevaron\", puntualizó la",
+      "text": "\"Han encontrado a varios de ellos mismos, fueron a 10 policías que se llevaron de Apodaca y fueron los policías de Juárez quienes se los llevaron\", puntualizó la"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 2",
+      "text": "1 of 2"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 525.479,
+            "t": 8.63900000000001,
+            "r": 611.921,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "8/30/2019, 11:51 AM",
+      "text": "8/30/2019, 11:51 AM"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 178.472,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Director y 2 polis más, entre los restos óseos",
+      "text": "Director y 2 polis más, entre los restos óseos"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 313.339,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "https://www.milenio.com/estados/director-y-2-polis-mas-entre-los-restos...",
+      "text": "https://www.milenio.com/estados/director-y-2-polis-mas-entre-los-restos..."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 753.298,
+            "r": 205.956,
+            "b": 743.112,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "integrante de CADHAC.",
+      "text": "integrante de CADHAC.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 727.862,
+            "r": 527.359,
+            "b": 690.794,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": "En su momento se informó que tres elementos de Apodaca fueron plagiados y uno de ellos se comunicó con el jefe policiaco de Apodaca, Milton Alvarado, para negociar su liberación con un grupo de la delincuencia organizada.",
+      "text": "En su momento se informó que tres elementos de Apodaca fueron plagiados y uno de ellos se comunicó con el jefe policiaco de Apodaca, Milton Alvarado, para negociar su liberación con un grupo de la delincuencia organizada."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 675.66,
+            "r": 484.59,
+            "b": 652.033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "Ante ello, el director apodaquense y otros siete elementos salieron a tratar de rescatarlos, sin embargo todos fueron desaparecidos.",
+      "text": "Ante ello, el director apodaquense y otros siete elementos salieron a tratar de rescatarlos, sin embargo todos fueron desaparecidos."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 636.899,
+            "r": 505.143,
+            "b": 613.273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "Este plagio ocurrió en abril de 2011 justo cuando se encontraba el problema de la inseguridad a su máxima expresión.",
+      "text": "Este plagio ocurrió en abril de 2011 justo cuando se encontraba el problema de la inseguridad a su máxima expresión."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2 of 2",
+      "text": "2 of 2"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 525.479,
+            "t": 8.63900000000001,
+            "r": 611.921,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "8/30/2019, 11:51 AM",
+      "text": "8/30/2019, 11:51 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

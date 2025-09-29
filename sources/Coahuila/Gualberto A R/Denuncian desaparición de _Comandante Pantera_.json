@@ -1,0 +1,403 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Denuncian desaparición de _Comandante Pantera_",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 888235577643104453,
+    "filename": "Denuncian desaparición de _Comandante Pantera_.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 297.732,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Denuncian desaparición de \"Comandante Pantera\" - El Diario de Coahuila",
+      "text": "Denuncian desaparición de \"Comandante Pantera\" - El Diario de Coahuila"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 314.534,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "https://www.eldiariodecoahuila.com.mx/locales/policiaca/2009/9/2/denu...",
+      "text": "https://www.eldiariodecoahuila.com.mx/locales/policiaca/2009/9/2/denu..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 488.561,
+            "b": 687.918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Denuncian desaparición de \"Comandante Pantera\" - El Diario de Coahuila",
+      "text": "Denuncian desaparición de \"Comandante Pantera\" - El Diario de Coahuila",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 660.781,
+            "r": 131.171,
+            "b": 650.595,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Especial",
+      "text": "Especial",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 635.339,
+            "r": 514.005,
+            "b": 558.072,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            406
+          ]
+        }
+      ],
+      "orig": "Hasta el lunes por la tarde fue denunciada por sus familiares la desaparición de Esteban Acosta Rodríguez, el \"Comandante Pantera\", quien se desempeñaba como jefe de seguridad del Cereso varonil de Saltillo, pero la Fiscalía General del Estado aún no tiene rastro alguno de él, de dos hermanos y su hijo de ocho años, que también fueron levantados la mañana del sábado frente al aeropuerto de Ramos Arizpe.",
+      "text": "Hasta el lunes por la tarde fue denunciada por sus familiares la desaparición de Esteban Acosta Rodríguez, el \"Comandante Pantera\", quien se desempeñaba como jefe de seguridad del Cereso varonil de Saltillo, pero la Fiscalía General del Estado aún no tiene rastro alguno de él, de dos hermanos y su hijo de ocho años, que también fueron levantados la mañana del sábado frente al aeropuerto de Ramos Arizpe."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 542.822,
+            "r": 526.717,
+            "b": 492.314,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            287
+          ]
+        }
+      ],
+      "orig": "La desaparición fue reportada cuatro días después ante el grupo especializado de combate al secuestro, por eso la delegada de la Región Sureste, Claudia Brondo, negó tal información en la entrevista con EL DIARIO de Coahuila, según justificaron fuentes de la Fiscalía General del Estado.",
+      "text": "La desaparición fue reportada cuatro días después ante el grupo especializado de combate al secuestro, por eso la delegada de la Región Sureste, Claudia Brondo, negó tal información en la entrevista con EL DIARIO de Coahuila, según justificaron fuentes de la Fiscalía General del Estado."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 477.18,
+            "r": 529.141,
+            "b": 413.233,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            330
+          ]
+        }
+      ],
+      "orig": "Así mismo se comentó que tratan de comprobar una relación entre el vehículo encontrado el día de los hechos en el bulevar Óscar Flores Tapia, mismo que presenta manchas de sangre, y a unos cuantos metros fueron localizados casquillos percutidos calibre 223, así como un tenis ensangrentado, al parecer perteneciente al comandante.",
+      "text": "Así mismo se comentó que tratan de comprobar una relación entre el vehículo encontrado el día de los hechos en el bulevar Óscar Flores Tapia, mismo que presenta manchas de sangre, y a unos cuantos metros fueron localizados casquillos percutidos calibre 223, así como un tenis ensangrentado, al parecer perteneciente al comandante."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 398.099,
+            "r": 528.535,
+            "b": 334.157,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            351
+          ]
+        }
+      ],
+      "orig": "Por otra parte, autoridades que llevan el caso no han tenido acceso a los supuestos videos que hay sobre el hecho, aunque desde el sábado se aseguró por las autoridades que no se había podido captar nada, ya que una de las cámaras cercanas al lugar se encontraba dañada, después de los ataques cometidos en Ramos Arizpe contra algunas cámaras urbanas.",
+      "text": "Por otra parte, autoridades que llevan el caso no han tenido acceso a los supuestos videos que hay sobre el hecho, aunque desde el sábado se aseguró por las autoridades que no se había podido captar nada, ya que una de las cámaras cercanas al lugar se encontraba dañada, después de los ataques cometidos en Ramos Arizpe contra algunas cámaras urbanas."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 318.9,
+            "r": 529.331,
+            "b": 281.953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            247
+          ]
+        }
+      ],
+      "orig": "Según comentaron familiares al poner su denuncia, ellos desconocían si días antes de la desaparición, el \"Comandante Pantera\" había recibido amenazas por su trabajo como jefe de seguridad, ya que su comportamiento había sido normal hasta entonces.",
+      "text": "Según comentaron familiares al poner su denuncia, ellos desconocían si días antes de la desaparición, el \"Comandante Pantera\" había recibido amenazas por su trabajo como jefe de seguridad, ya que su comportamiento había sido normal hasta entonces."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 266.70000000000005,
+            "r": 529.129,
+            "b": 216.19000000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            246
+          ]
+        }
+      ],
+      "orig": "Como parte de la poca información que proporcionaron al interponer la denuncia, los familiares dijeron que Acosta Rodríguez iba rumbo al aeropuerto de Monterrey, Nuevo León, para llevar a sus hermanos que viajarían, pero se desconoce hacia dónde.",
+      "text": "Como parte de la poca información que proporcionaron al interponer la denuncia, los familiares dijeron que Acosta Rodríguez iba rumbo al aeropuerto de Monterrey, Nuevo León, para llevar a sus hermanos que viajarían, pero se desconoce hacia dónde."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/10/2019, 9:48 AM",
+      "text": "9/10/2019, 9:48 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Venían de Sinaloa ¡Desaparecieron!",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 6446519473227570577,
+    "filename": "Venían de Sinaloa ¡Desaparecieron!.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.17905234375,
+            "r": 632.273,
+            "b": 450.76605234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1366
+          ]
+        }
+      ],
+      "orig": "Página no encontrada - Diario de Chiapas Ir al contenido 25 de septiembre de 2025 Facebook X-twitter Instagram Youtube Spotify Whatsapp \",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Editorial Portada Metrópoli Región La Roja Deportes BOGA A&S Opinión Trascendió Última hora Reportajes Diario TV Editorial Portada Metrópoli Región La Roja Deportes BOGA A&S Opinión Trascendió Última hora Reportajes Diario TV Facebook X-twitter Instagram Youtube Spotify Whatsapp \",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Editorial Portada Metrópoli Región La Roja Deportes BOGA A&S Opinión Trascendió Última hora Reportajes Diario TV Editorial Portada Metrópoli Región La Roja Deportes BOGA A&S Opinión Trascendió Última hora Reportajes Diario TV PAGINA NO ECONTRADA SECCIONES \",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Editorial Portada Metrópoli Región La Roja Deportes BOGA A&S Opinión Trascendió Última hora Reportajes Diario TV Editorial Portada Metrópoli Región La Roja Deportes BOGA A&S Opinión Trascendió Última hora Reportajes Diario TV Empresa editorial con más de 50 años de experiencia, que se encarga de difundir la verdad ante sus miles de lectores. Directorio Contacto © 2022 Diario de Chiapas. Todos los derechos Reservados. | Desarrollado por Host Latino",
+      "text": "Página no encontrada - Diario de Chiapas Ir al contenido 25 de septiembre de 2025 Facebook X-twitter Instagram Youtube Spotify Whatsapp \",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Editorial Portada Metrópoli Región La Roja Deportes BOGA A&S Opinión Trascendió Última hora Reportajes Diario TV Editorial Portada Metrópoli Región La Roja Deportes BOGA A&S Opinión Trascendió Última hora Reportajes Diario TV Facebook X-twitter Instagram Youtube Spotify Whatsapp \",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Editorial Portada Metrópoli Región La Roja Deportes BOGA A&S Opinión Trascendió Última hora Reportajes Diario TV Editorial Portada Metrópoli Región La Roja Deportes BOGA A&S Opinión Trascendió Última hora Reportajes Diario TV PAGINA NO ECONTRADA SECCIONES \",\"library\":\"fa-solid\"},\"toggle\":\"burger\"}\" data-widget_type=\"nav-menu.default\"> Editorial Portada Metrópoli Región La Roja Deportes BOGA A&S Opinión Trascendió Última hora Reportajes Diario TV Editorial Portada Metrópoli Región La Roja Deportes BOGA A&S Opinión Trascendió Última hora Reportajes Diario TV Empresa editorial con más de 50 años de experiencia, que se encarga de difundir la verdad ante sus miles de lectores. Directorio Contacto © 2022 Diario de Chiapas. Todos los derechos Reservados. | Desarrollado por Host Latino"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

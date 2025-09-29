@@ -1,0 +1,861 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Botas, pelucas, tacones... y reclamos sociales, así fue GDL Pride 2018 - UDG TV",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12555777336759389553,
+    "filename": "Botas, pelucas, tacones... y reclamos sociales, así fue GDL Pride 2018 - UDG TV.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 772.935,
+            "r": 300.822,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "Botas, pelucas, tacones... y reclamos sociales, así fue GDL Pride 2018 - UDG TV",
+      "text": "Botas, pelucas, tacones... y reclamos sociales, así fue GDL Pride 2018 - UDG TV"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 533.991,
+            "t": 772.935,
+            "r": 593.772,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "4/24/20 8'09 PM",
+      "text": "4/24/20 8'09 PM"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 23.808,
+            "t": 745.967,
+            "r": 572.567,
+            "b": 693.283,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "Botas, pelucas, tacones… y reclamos sociales, así fue GDL Pride 2018",
+      "text": "Botas, pelucas, tacones… y reclamos sociales, así fue GDL Pride 2018",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 23.808,
+            "t": 688.523,
+            "r": 170.404,
+            "b": 681.493,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Por Jade Ramírez Cuevas Villanueva -3 junio, 2018",
+      "text": "Por Jade Ramírez Cuevas Villanueva -3 junio, 2018"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 82.0,
+            "t": 293.6666666666667,
+            "r": 126.33333333333333,
+            "b": 267.66666666666674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "LIVE",
+      "text": "LIVE"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.067,
+            "t": 112.44100000000003,
+            "r": 105.592,
+            "b": 105.231,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Escuchar la nota",
+      "text": "Escuchar la nota"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 23.808,
+            "t": 88.00300000000004,
+            "r": 107.905,
+            "b": 78.66300000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Guadalajara, Jalisco.",
+      "text": "Guadalajara, Jalisco."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 47.934999999999945,
+            "r": 190.557,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "http://udgtv.com/noticias/jalisco/gdl-pride-2018/",
+      "text": "http://udgtv.com/noticias/jalisco/gdl-pride-2018/"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 547.198,
+            "t": 47.934999999999945,
+            "r": 593.788,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Página 1 de 2",
+      "text": "Página 1 de 2"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 772.935,
+            "r": 300.822,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "Botas, pelucas, tacones... y reclamos sociales, así fue GDL Pride 2018 - UDG TV",
+      "text": "Botas, pelucas, tacones... y reclamos sociales, así fue GDL Pride 2018 - UDG TV"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 533.991,
+            "t": 772.935,
+            "r": 593.772,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "4/24/20 8'09 PM",
+      "text": "4/24/20 8'09 PM"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 23.808,
+            "t": 744.932,
+            "r": 587.665,
+            "b": 710.269,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            398
+          ]
+        }
+      ],
+      "orig": "El  Guadalajara  Pride  2018  no  dej-  de  exhibir  jœbilo,  fiesta,  impetu  de  increpar  las  miradas  de  inquisidores.  La  mœsica  electr-nica  y  los bailarines  gogos  con  solo  un  calzoncillo  encima  bailando  en  una  tarima, sobresal'an en el ambiente previo a la marcha de carros aleg-ricos y contingentes a pie, de lo que fue la primera de dos marchas del orgullo gay en la ciudad.",
+      "text": "El  Guadalajara  Pride  2018  no  dej-  de  exhibir  jœbilo,  fiesta,  impetu  de  increpar  las  miradas  de  inquisidores.  La  mœsica  electr-nica  y  los bailarines  gogos  con  solo  un  calzoncillo  encima  bailando  en  una  tarima, sobresal'an en el ambiente previo a la marcha de carros aleg-ricos y contingentes a pie, de lo que fue la primera de dos marchas del orgullo gay en la ciudad."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 23.808,
+            "t": 690.025,
+            "r": 587.665,
+            "b": 669.089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "Los  Vaqueros  Maduros  MŽxico  vestidos  con  camisa  roja  y  texana  negra,  se  resguardaban  bajo  la  sombra  de  un  ‡rbol  sobre  la  avenida Vallarta a unos pasos de la glorieta de la Minerva.",
+      "text": "Los  Vaqueros  Maduros  MŽxico  vestidos  con  camisa  roja  y  texana  negra,  se  resguardaban  bajo  la  sombra  de  un  ‡rbol  sobre  la  avenida Vallarta a unos pasos de la glorieta de la Minerva."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 23.808,
+            "t": 648.844,
+            "r": 587.668,
+            "b": 627.913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "De  la  Minerva  a  la  plaza  Liberaci-n  la  marcha  GDL  Pride  2018, ten'a  como  consigna  divertirse  entre  todas  orientaciones  y preferencias sexuales.",
+      "text": "De  la  Minerva  a  la  plaza  Liberaci-n  la  marcha  GDL  Pride  2018, ten'a  como  consigna  divertirse  entre  todas  orientaciones  y preferencias sexuales."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 23.808,
+            "t": 607.664,
+            "r": 587.658,
+            "b": 586.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "Los arcoiris y las banderas me llevaron a platicar con un grupo de j-venes altamente emocionados por estar ah'. Una chica portaba una corona pero no de certamen de belleza, sino de liberaci-n.",
+      "text": "Los arcoiris y las banderas me llevaron a platicar con un grupo de j-venes altamente emocionados por estar ah'. Una chica portaba una corona pero no de certamen de belleza, sino de liberaci-n."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 23.808,
+            "t": 566.483,
+            "r": 587.66,
+            "b": 545.552,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "Le preguntŽ c-mo ha vivido el acoso sexual y narr- un episodio traum‡tico mientras iba a su escuela, el Conalep de Juanacatl‡n, donde pretendieron agredirla sexualmente y afirma que lo mejor es no guardarse.",
+      "text": "Le preguntŽ c-mo ha vivido el acoso sexual y narr- un episodio traum‡tico mientras iba a su escuela, el Conalep de Juanacatl‡n, donde pretendieron agredirla sexualmente y afirma que lo mejor es no guardarse."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 23.808,
+            "t": 525.303,
+            "r": 587.663,
+            "b": 463.186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            614
+          ]
+        }
+      ],
+      "orig": "La autodefinici-n y la libertad, son dos componentes imprescindibles en una marcha de orgullo gay, pero el Pride 2018 no fue en su totalidad un evento de jœbilo . Patricia Margarita junto a su familia, sosten'a lonas con el rostro de su hijo Jesœs Eduardo Flores Campos ÒEl PolloÓ. ÒEra del ambiente de la comunidadÓ, me cont-, pero hace tres a-os acompa-- a su amigo Crist-bal, un travesti llamado La China a dar un espect‡culo particular, y nunca volvieron. Ella sale a caminar en medio de la celebraci-n gay, con la esperanza de pescar indicios que la ayuden a entender porque su hijo desapareci- y encontrarlo.",
+      "text": "La autodefinici-n y la libertad, son dos componentes imprescindibles en una marcha de orgullo gay, pero el Pride 2018 no fue en su totalidad un evento de jœbilo . Patricia Margarita junto a su familia, sosten'a lonas con el rostro de su hijo Jesœs Eduardo Flores Campos ÒEl PolloÓ. ÒEra del ambiente de la comunidadÓ, me cont-, pero hace tres a-os acompa-- a su amigo Crist-bal, un travesti llamado La China a dar un espect‡culo particular, y nunca volvieron. Ella sale a caminar en medio de la celebraci-n gay, con la esperanza de pescar indicios que la ayuden a entender porque su hijo desapareci- y encontrarlo."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 23.808,
+            "t": 442.941,
+            "r": 561.005,
+            "b": 435.732,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "Por la tarde Guadalajara el Pride 2018 de avanzada, pint- de arcoiris el centro rumbo a la macro Marcha del Orgullo Gay el 9 de junio.",
+      "text": "Por la tarde Guadalajara el Pride 2018 de avanzada, pint- de arcoiris el centro rumbo a la macro Marcha del Orgullo Gay el 9 de junio."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 47.934999999999945,
+            "r": 190.557,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "http://udgtv.com/noticias/jalisco/gdl-pride-2018/",
+      "text": "http://udgtv.com/noticias/jalisco/gdl-pride-2018/"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 546.234,
+            "t": 47.934999999999945,
+            "r": 593.784,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Página 2 de 2",
+      "text": "Página 2 de 2"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 22.886232376098633,
+            "t": 673.0049133300781,
+            "r": 565.2239990234375,
+            "b": 129.9793701171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 23.695188522338867,
+            "t": 403.7923278808594,
+            "r": 588.52001953125,
+            "b": 297.9473876953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 29.615,
+              "t": 392.837,
+              "r": 65.271,
+              "b": 398.946,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Acerca de",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 78.793,
+              "t": 392.837,
+              "r": 134.246,
+              "b": 398.946,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "òltimas noticias",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 81.355,
+              "t": 408.962,
+              "r": 361.939,
+              "b": 486.062,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Jade Ramírez Cuevas Villanueva Reportera en Canal 44 Desde la adolescencia reportera y radialista autodidacta. Enfocada a la cobertura de temas sobre derechos humanos, conflictos socio-ambientales, violencia del Estado y cultura. Premio Internacional de Periodismo Rey de Espa-a 2009 por el radiorreportaje \"La discriminaci-n vuela por Avianca\". Formo parte de los medios universitarios desde 1995.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 2,
+        "num_cols": 2,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 29.615,
+                "t": 392.837,
+                "r": 65.271,
+                "b": 398.946,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Acerca de",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 78.793,
+                "t": 392.837,
+                "r": 134.246,
+                "b": 398.946,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "òltimas noticias",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 81.355,
+                "t": 408.962,
+                "r": 361.939,
+                "b": 486.062,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Jade Ramírez Cuevas Villanueva Reportera en Canal 44 Desde la adolescencia reportera y radialista autodidacta. Enfocada a la cobertura de temas sobre derechos humanos, conflictos socio-ambientales, violencia del Estado y cultura. Premio Internacional de Periodismo Rey de Espa-a 2009 por el radiorreportaje \"La discriminaci-n vuela por Avianca\". Formo parte de los medios universitarios desde 1995.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

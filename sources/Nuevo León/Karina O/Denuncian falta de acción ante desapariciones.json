@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Denuncian falta de acción ante desapariciones",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7758464935885064247,
+    "filename": "Denuncian falta de acción ante desapariciones.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 622.72605234375,
+            "r": 632.292,
+            "b": 494.36305234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1049
+          ]
+        }
+      ],
+      "orig": "Pagina no encontrada - EL HORIZONTE SUSCRÍBETE Impreso Hemeroteca Iniciar Sesión Lunes, Septiembre 15, 2025 Nuevo León Tamaulipas Coahuila Nacional Internacional Finanzas Opinión Deportes Espectáculos Estilo de Vida Cerrar X Nuevo León Tamaulipas Coahuila Nacional Internacional Finanzas Opinión Deportes Espectáculos Estilo de Vida Contacto Newsletter Hemeroteca Suplementos oops página no encontrada Lo sentimos, la página a la que estas tratando de acceder no existe o ha cambiado de ruta. Lo sentimos no hay resultados para su [Palabra clave buscada] \"Por favor, modifique sus filtros de búsqueda o restablézcalos. O intente con otra palabra clave diferente\" --> Información Comercial Suscribete al Newsletter APPS EL HORIZONTE Nuevo León Tamaulipas Coahuila Nacional Internacional Finanzas Opinión Deportes Espectáculos Estilo de Vida El Horizonte 2025 © Todos los Derechos Reservados. El registro o el uso de este sitio constituye la aceptación de nuestro Términos de Servicio, Política de Privacidad y Política de Cookies | Aviso Privacidad ×",
+      "text": "Pagina no encontrada - EL HORIZONTE SUSCRÍBETE Impreso Hemeroteca Iniciar Sesión Lunes, Septiembre 15, 2025 Nuevo León Tamaulipas Coahuila Nacional Internacional Finanzas Opinión Deportes Espectáculos Estilo de Vida Cerrar X Nuevo León Tamaulipas Coahuila Nacional Internacional Finanzas Opinión Deportes Espectáculos Estilo de Vida Contacto Newsletter Hemeroteca Suplementos oops página no encontrada Lo sentimos, la página a la que estas tratando de acceder no existe o ha cambiado de ruta. Lo sentimos no hay resultados para su [Palabra clave buscada] \"Por favor, modifique sus filtros de búsqueda o restablézcalos. O intente con otra palabra clave diferente\" --> Información Comercial Suscribete al Newsletter APPS EL HORIZONTE Nuevo León Tamaulipas Coahuila Nacional Internacional Finanzas Opinión Deportes Espectáculos Estilo de Vida El Horizonte 2025 © Todos los Derechos Reservados. El registro o el uso de este sitio constituye la aceptación de nuestro Términos de Servicio, Política de Privacidad y Política de Cookies | Aviso Privacidad ×"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

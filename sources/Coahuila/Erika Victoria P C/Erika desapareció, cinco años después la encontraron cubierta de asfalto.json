@@ -1,0 +1,830 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Erika desapareció, cinco años después la encontraron cubierta de asfalto",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2621901604858570860,
+    "filename": "Erika desapareció, cinco años después la encontraron cubierta de asfalto.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 288.638,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Erika desapareció, cinco años después la encontraron cubierta de asfalto",
+      "text": "Erika desapareció, cinco años después la encontraron cubierta de asfalto"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 313.339,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "http://antenasanluis.mx/erika-desaparecio-cinco-anos-despues-la-encontr...",
+      "text": "http://antenasanluis.mx/erika-desaparecio-cinco-anos-despues-la-encontr..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.837,
+            "t": 730.88,
+            "r": 437.078,
+            "b": 694.463,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Erika desapareció, cinco años después la encontraron cubierta de asfalto",
+      "text": "Erika desapareció, cinco años después la encontraron cubierta de asfalto",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.838,
+            "t": 668.407,
+            "r": 152.296,
+            "b": 660.073,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "MC julio 26, 2018",
+      "text": "MC julio 26, 2018"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 354.399,
+            "r": 420.349,
+            "b": 345.138,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Erika desapareció, cinco años después la encontraron cubierta de asfalto",
+      "text": "Erika desapareció, cinco años después la encontraron cubierta de asfalto"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 331.476,
+            "r": 528.029,
+            "b": 310.096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "México. El pasado 14 de diciembre de 2012 fue el último día que se le vio con vida a Erika Victoria Prone Ceniceros de 23 años de edad.",
+      "text": "México. El pasado 14 de diciembre de 2012 fue el último día que se le vio con vida a Erika Victoria Prone Ceniceros de 23 años de edad."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 296.437,
+            "r": 532.686,
+            "b": 250.69799999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            364
+          ]
+        }
+      ],
+      "orig": "Aquel día la única que la vio salir fue su madre. Erika le comentó que iría a casa de una amiga en Torreón, Coahuila. Después de su partida siempre estuvieron en contacto, sin embargo, la amiga de la joven reportó que no estuvo con ella. Del día 14 al 24 de diciembre Erika no estuvo con ella y hasta ese momento se desconocía su paradero y se informó a su padres.",
+      "text": "Aquel día la única que la vio salir fue su madre. Erika le comentó que iría a casa de una amiga en Torreón, Coahuila. Después de su partida siempre estuvieron en contacto, sin embargo, la amiga de la joven reportó que no estuvo con ella. Del día 14 al 24 de diciembre Erika no estuvo con ella y hasta ese momento se desconocía su paradero y se informó a su padres."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 237.039,
+            "r": 522.872,
+            "b": 215.538,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "A partir de ese día la familia inició las acciones correspondientes ante las autoridades, además de buscarla por internet, en calles y pedir apoyo a vecinos del lugar.",
+      "text": "A partir de ese día la familia inició las acciones correspondientes ante las autoridades, además de buscarla por internet, en calles y pedir apoyo a vecinos del lugar."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 201.875,
+            "r": 503.803,
+            "b": 180.49599999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "Después de cinco años, justo el 1 de mayo de 2018 albañiles localizaron en una casa que remodelaban en la colonia La Rosita en Torreón , el cadáver de una mujer.",
+      "text": "Después de cinco años, justo el 1 de mayo de 2018 albañiles localizaron en una casa que remodelaban en la colonia La Rosita en Torreón , el cadáver de una mujer."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 51.399,
+            "r": 521.017,
+            "b": 42.13900000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "El cuerpo se encontraba envuelto en una bolsa de plástico en la casa ubicada en Paseo del",
+      "text": "El cuerpo se encontraba envuelto en una bolsa de plástico en la casa ubicada en Paseo del"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 2",
+      "text": "1 of 2"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 531.716,
+            "t": 8.63900000000001,
+            "r": 611.983,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "7/14/2019, 7:34 PM",
+      "text": "7/14/2019, 7:34 PM"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 288.638,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Erika desapareció, cinco años después la encontraron cubierta de asfalto",
+      "text": "Erika desapareció, cinco años después la encontraron cubierta de asfalto"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 313.339,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "http://antenasanluis.mx/erika-desaparecio-cinco-anos-despues-la-encontr...",
+      "text": "http://antenasanluis.mx/erika-desaparecio-cinco-anos-despues-la-encontr..."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.842,
+            "t": 753.632,
+            "r": 320.422,
+            "b": 744.372,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Ciclón número 531 en Ampliación La Rosita .",
+      "text": "Ciclón número 531 en Ampliación La Rosita .",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.842,
+            "t": 730.592,
+            "r": 529.495,
+            "b": 697.096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "Además de haber sido envuelto en plástico, el cuerpo se encontraba cubierto por una capa de asfalto . Autoridades llegaron al lugar. Las investigaciones comenzaron, se hicieron pruebas de ADN y así fue como descubrieron que realmente se trataba de la joven.",
+      "text": "Además de haber sido envuelto en plástico, el cuerpo se encontraba cubierto por una capa de asfalto . Autoridades llegaron al lugar. Las investigaciones comenzaron, se hicieron pruebas de ADN y así fue como descubrieron que realmente se trataba de la joven."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.842,
+            "t": 683.432,
+            "r": 524.756,
+            "b": 637.696,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            282
+          ]
+        }
+      ],
+      "orig": "El pasado 18 de julio el cuerpo de Erika fue entregado a su familia cinco años después de su desaparición. La necropsia indicó que no se encontraron huellas de violencia, pese a ello las preguntas que quedan al aire son: ¿Quién mató a Erika? ¿Por qué la mataron?¿Cómo fue que murió?",
+      "text": "El pasado 18 de julio el cuerpo de Erika fue entregado a su familia cinco años después de su desaparición. La necropsia indicó que no se encontraron huellas de violencia, pese a ello las preguntas que quedan al aire son: ¿Quién mató a Erika? ¿Por qué la mataron?¿Cómo fue que murió?"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.842,
+            "t": 624.033,
+            "r": 517.159,
+            "b": 602.533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "Erika dejó a dos pequeñas huérfanas y a una familia inconsolable, piden a gritos justicia para que este caso no quede impune.",
+      "text": "Erika dejó a dos pequeñas huérfanas y a una familia inconsolable, piden a gritos justicia para que este caso no quede impune."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.842,
+            "t": 588.875,
+            "r": 530.119,
+            "b": 555.373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "Es por eso que pedimos a las autoridades justicia para sus hijas, para su familia y sobre todo para Erika. Que se descubra quién fue su asesino y sobre todo por qué la mató. Él no se imagina el vació que dejó en la familia de la joven ni en el de sus hijas.",
+      "text": "Es por eso que pedimos a las autoridades justicia para sus hijas, para su familia y sobre todo para Erika. Que se descubra quién fue su asesino y sobre todo por qué la mató. Él no se imagina el vació que dejó en la familia de la joven ni en el de sus hijas."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.842,
+            "t": 541.594,
+            "r": 225.993,
+            "b": 532.333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Con información de: Letra Roja",
+      "text": "Con información de: Letra Roja"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.842,
+            "t": 518.676,
+            "r": 142.283,
+            "b": 509.415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Related Items",
+      "text": "Related Items"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2 of 2",
+      "text": "2 of 2"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 531.716,
+            "t": 8.63900000000001,
+            "r": 611.983,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "7/14/2019, 7:34 PM",
+      "text": "7/14/2019, 7:34 PM"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 73.94918060302734,
+            "t": 638.7243804931641,
+            "r": 576.3685913085938,
+            "b": 367.2546081542969,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 74.14541625976562,
+            "t": 168.8995361328125,
+            "r": 576.6104736328125,
+            "b": 64.687744140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Copy of Denuncia PRD que seguridad aún es tema pendiente a nivel estatal _ Informarte",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 10353419754761618430,
+    "filename": "Copy of Denuncia PRD que seguridad aún es tema pendiente a nivel estatal _ Informarte.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.5,
+            "t": 756.062,
+            "r": 482.117,
+            "b": 716.489,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "Denuncia PRD que seguridad aún es tema pendiente a nivel estatal",
+      "text": "Denuncia PRD que seguridad aún es tema pendiente a nivel estatal",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.5,
+            "t": 696.889,
+            "r": 152.814,
+            "b": 692.614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Por Informarte - Mar 4, 2015",
+      "text": "Por Informarte - Mar 4, 2015"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.5,
+            "t": 446.429,
+            "r": 187.93,
+            "b": 439.958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Gabriela Godínez García",
+      "text": "Gabriela Godínez García",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.5,
+            "t": 368.429,
+            "r": 557.203,
+            "b": 303.458,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            311
+          ]
+        }
+      ],
+      "orig": "El presidente estatal del Partido de la Revolución Democrática Raúl Vargas López, denuncio que a dos años de la actual administración, el tema de la inseguridad es un factor que preocupa a la sociedad jalisciense, por lo que debería de considerar no solo estrategias sino inclusive hacer cambios en la Fiscalía.",
+      "text": "El presidente estatal del Partido de la Revolución Democrática Raúl Vargas López, denuncio que a dos años de la actual administración, el tema de la inseguridad es un factor que preocupa a la sociedad jalisciense, por lo que debería de considerar no solo estrategias sino inclusive hacer cambios en la Fiscalía."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.5,
+            "t": 270.929,
+            "r": 575.945,
+            "b": 186.45799999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            448
+          ]
+        }
+      ],
+      "orig": "Señaló que el tema nunca se había atendido de una manera tan irresponsable y que una muestra de ello están los hechos de personajes de su propio partido como es el caso de Oscar López Susarrey quien se encuentra desaparecido desde hace 6 meses y aún no hay respuesta sobre su paradero, además de los casos que se han presentado en el municipio de Tonalá en el cerro del Gato para ser más específicos en donde se han encontrado en la zona cadáveres.",
+      "text": "Señaló que el tema nunca se había atendido de una manera tan irresponsable y que una muestra de ello están los hechos de personajes de su propio partido como es el caso de Oscar López Susarrey quien se encuentra desaparecido desde hace 6 meses y aún no hay respuesta sobre su paradero, además de los casos que se han presentado en el municipio de Tonalá en el cerro del Gato para ser más específicos en donde se han encontrado en la zona cadáveres."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.5,
+            "t": 153.92899999999997,
+            "r": 569.721,
+            "b": 69.45799999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            403
+          ]
+        }
+      ],
+      "orig": "Asimismo indicó que de acuerdo con el INEGI Jalisco es el cuarto lugar nacional en homicidios dolosos, por lo que consideró que ñas medidas tomadas por las autoridades en materia de seguridad no han surtido efecto positivo para la recuperación de la tranquilidad en Jalisco  y que tras siete meses de operación de la Fuerza Única Regional, no cuenta con ninguna de las 19 bases de operación proyectadas.",
+      "text": "Asimismo indicó que de acuerdo con el INEGI Jalisco es el cuarto lugar nacional en homicidios dolosos, por lo que consideró que ñas medidas tomadas por las autoridades en materia de seguridad no han surtido efecto positivo para la recuperación de la tranquilidad en Jalisco  y que tras siete meses de operación de la Fuerza Única Regional, no cuenta con ninguna de las 19 bases de operación proyectadas."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.5,
+            "t": 756.929,
+            "r": 569.051,
+            "b": 691.958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            348
+          ]
+        }
+      ],
+      "orig": "Vargas López agregó que es hora de que el Gobierno reconozca que no se ha podido contra la inseguridad en el Estado, y que no es posible vivir así y que en el caso de las solicitudes de remoción del Fiscal General Luis Carlos Nájera han sido como llamadas a misa, requiriendo una actitud más proactiva para el combate de la delincuencia organizada.",
+      "text": "Vargas López agregó que es hora de que el Gobierno reconozca que no se ha podido contra la inseguridad en el Estado, y que no es posible vivir así y que en el caso de las solicitudes de remoción del Fiscal General Luis Carlos Nájera han sido como llamadas a misa, requiriendo una actitud más proactiva para el combate de la delincuencia organizada."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 275.48,
+            "t": 627.781,
+            "r": 337.509,
+            "b": 621.951,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Informarte",
+      "text": "Informarte",
+      "level": 1
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.93669891357422,
+            "t": 676.536491394043,
+            "r": 279.8802185058594,
+            "b": 471.3192443847656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

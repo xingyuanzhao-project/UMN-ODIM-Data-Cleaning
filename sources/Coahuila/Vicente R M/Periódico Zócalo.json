@@ -1,0 +1,593 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Periódico Zócalo",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2325594259270012269,
+    "filename": "Periódico Zócalo.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 675.495,
+            "r": 395.191,
+            "b": 664.393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "11 desaparecidos en Piedras Negras",
+      "text": "11 desaparecidos en Piedras Negras",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 653.736,
+            "r": 136.106,
+            "b": 648.991,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Por Leticia Espinoza",
+      "text": "Por Leticia Espinoza"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 643.66,
+            "r": 127.934,
+            "b": 639.133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "12/20/2009 - 10:05 AM",
+      "text": "12/20/2009 - 10:05 AM"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 634.66,
+            "r": 335.481,
+            "b": 630.133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "http://www.zocalo.com.mx/seccion/articulo/11-desaparecidos-en-piedras-negras",
+      "text": "http://www.zocalo.com.mx/seccion/articulo/11-desaparecidos-en-piedras-negras"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 614.505,
+            "r": 562.338,
+            "b": 595.115,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "Saltillo, Coah . - Familiares de por lo menos 21 personas desaparecidas a lo largo del año en Coahuila unieron sus voces para exigir justicia a la Fiscalía General del Estado.",
+      "text": "Saltillo, Coah . - Familiares de por lo menos 21 personas desaparecidas a lo largo del año en Coahuila unieron sus voces para exigir justicia a la Fiscalía General del Estado."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 571.755,
+            "r": 567.591,
+            "b": 552.365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "Entre quienes exigían información estaba la esposa del jefe de celadores en el Cereso varonil de Saltillo, quien desapareció hace unos meses.",
+      "text": "Entre quienes exigían información estaba la esposa del jefe de celadores en el Cereso varonil de Saltillo, quien desapareció hace unos meses."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 529.005,
+            "r": 541.945,
+            "b": 509.615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "Ella, al igual que los presentes, provenientes del Estado de México y de Parras de la Fuente, denunciaron que no hay avances en las investigaciones de ninguno de los casos reportados en marzo y abril pasados.",
+      "text": "Ella, al igual que los presentes, provenientes del Estado de México y de Parras de la Fuente, denunciaron que no hay avances en las investigaciones de ninguno de los casos reportados en marzo y abril pasados."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 486.255,
+            "r": 537.565,
+            "b": 452.615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            327
+          ]
+        }
+      ],
+      "orig": "En rueda de prensa convocada por el Centro Diocesano para los Derechos Humanos Fray Juan de Larios, Yolanda Verástegui González denunció públicamente la desaparición de Antonio Verástegui González y de Antonio de Jesús Verástegui Escobedo, quienes desde el 24 de enero de 2009 no han regresado a su casa en Parras de la Fuente.",
+      "text": "En rueda de prensa convocada por el Centro Diocesano para los Derechos Humanos Fray Juan de Larios, Yolanda Verástegui González denunció públicamente la desaparición de Antonio Verástegui González y de Antonio de Jesús Verástegui Escobedo, quienes desde el 24 de enero de 2009 no han regresado a su casa en Parras de la Fuente."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 429.255,
+            "r": 567.187,
+            "b": 395.615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            295
+          ]
+        }
+      ],
+      "orig": "Agustín Núñez, proveniente de Ecatepec, Estado de México, exigió la investigación del caso de su hijo Agustín Alberto Núñez Magaña y sus compañeros Sergio Cárdenas Córdoba y José Flores Rodríguez, desaparecidos el 22 de abril en Nava, Coahuila, quienes se dedicaban a la venta de joyería de oro.",
+      "text": "Agustín Núñez, proveniente de Ecatepec, Estado de México, exigió la investigación del caso de su hijo Agustín Alberto Núñez Magaña y sus compañeros Sergio Cárdenas Córdoba y José Flores Rodríguez, desaparecidos el 22 de abril en Nava, Coahuila, quienes se dedicaban a la venta de joyería de oro."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 372.255,
+            "r": 564.035,
+            "b": 338.615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "Arturo Rojo Flores denunció la desaparición de su hijo Vicente Rojo Martínez, aparentemente secuestrado el 21 de marzo en Piedras Negras, junto con 11 personas más que se dedicaban a la venta de pintura casa por casa. Todos radicaban en el Estado de México.",
+      "text": "Arturo Rojo Flores denunció la desaparición de su hijo Vicente Rojo Martínez, aparentemente secuestrado el 21 de marzo en Piedras Negras, junto con 11 personas más que se dedicaban a la venta de pintura casa por casa. Todos radicaban en el Estado de México."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 315.255,
+            "r": 568.481,
+            "b": 281.615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            251
+          ]
+        }
+      ],
+      "orig": "De Saltillo, Lourdes Herrera se unió a las voces que clamaron justicia. Ella suplicó información de su niño Brandon Acosta Herrera; su esposo, Esteban Acosta, y los hermanos de éste, que fueron levantados por un convoy en Ramos Arizpe el 29 de agosto.",
+      "text": "De Saltillo, Lourdes Herrera se unió a las voces que clamaron justicia. Ella suplicó información de su niño Brandon Acosta Herrera; su esposo, Esteban Acosta, y los hermanos de éste, que fueron levantados por un convoy en Ramos Arizpe el 29 de agosto."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 258.255,
+            "r": 568.719,
+            "b": 224.615,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            297
+          ]
+        }
+      ],
+      "orig": "Los familiares de los 21 desaparecidos relataron el viacrucis que ha sido enfrentarse a las autoridades, que nada han hecho para resolver esos asuntos. Explicaron que luego de meses la petición fue escuchada por el fiscal Jesús Torres Charles y por el secretario de Gobierno, Armando Luna Canales.",
+      "text": "Los familiares de los 21 desaparecidos relataron el viacrucis que ha sido enfrentarse a las autoridades, que nada han hecho para resolver esos asuntos. Explicaron que luego de meses la petición fue escuchada por el fiscal Jesús Torres Charles y por el secretario de Gobierno, Armando Luna Canales."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 201.255,
+            "r": 553.609,
+            "b": 181.865,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "Esto fue posible gracias a la gestión del diputado federal Rubén Moreira, y se consiguió además abrir una investigación especial para brindar informes mensuales de los avances de las investigaciones.",
+      "text": "Esto fue posible gracias a la gestión del diputado federal Rubén Moreira, y se consiguió además abrir una investigación especial para brindar informes mensuales de los avances de las investigaciones."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 158.505,
+            "r": 564.74,
+            "b": 124.86500000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            286
+          ]
+        }
+      ],
+      "orig": "Con el cansancio reflejado en el rostro y la tristeza por la incertidumbre de meses sin saber dónde están sus 'desaparecidos', las familias de las víctimas hicieron un llamado a todas las personas que también están pasando por una situación similar para unirse a esta causa en Coahuila.",
+      "text": "Con el cansancio reflejado en el rostro y la tristeza por la incertidumbre de meses sin saber dónde están sus 'desaparecidos', las familias de las víctimas hicieron un llamado a todas las personas que también están pasando por una situación similar para unirse a esta causa en Coahuila."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 101.505,
+            "r": 564.854,
+            "b": 67.86500000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            285
+          ]
+        }
+      ],
+      "orig": "Por su parte, el Centro Diocesano para los Derechos Humanos Fray Juan de Larios del Obispado, en Saltillo, estará acompañando la lucha de los familiares, ya que sostienen que las acciones deben ser inmediatas, pues las autoridades 'no pueden estar sólo sumando más casos a las listas'.",
+      "text": "Por su parte, el Centro Diocesano para los Derechos Humanos Fray Juan de Larios del Obispado, en Saltillo, estará acompañando la lucha de los familiares, ya que sostienen que las acciones deben ser inmediatas, pues las autoridades 'no pueden estar sólo sumando más casos a las listas'."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 35.40499999999997,
+            "r": 147.286,
+            "b": 30.881999999999948,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "http://www.zocalo.com.mx",
+      "text": "http://www.zocalo.com.mx"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.0,
+            "t": 751.656,
+            "r": 198.897,
+            "b": 747.132,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "COPYRIGHT ©2019 ZÓCALO SALTILLO",
+      "text": "COPYRIGHT ©2019 ZÓCALO SALTILLO",
+      "level": 1
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.52957534790039,
+            "t": 749.5076942443848,
+            "r": 469.5684814453125,
+            "b": 690.1827392578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

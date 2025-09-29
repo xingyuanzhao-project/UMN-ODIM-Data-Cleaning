@@ -1,0 +1,1805 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "La Jornada_ Hay 4 mil desaparecidos en este sexenio_ podrían ser más, dice la Afadem",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7241229624343510672,
+    "filename": "La Jornada_ Hay 4 mil desaparecidos en este sexenio_ podrían ser más, dice la Afadem.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 61.666666666666664,
+            "t": 796.9199829101562,
+            "r": 235.66666666666666,
+            "b": 748.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "POLITICA",
+      "text": "POLITICA"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 722.3100029101562,
+            "r": 288.928,
+            "b": 714.7850029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Saldos de la guerra antinarco",
+      "text": "Saldos de la guerra antinarco",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 695.0330029101563,
+            "r": 311.928,
+            "b": 645.4850029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "Hay 4 mil desaparecidos en este sexenio; 'podrían ser más', dice la Afadem",
+      "text": "Hay 4 mil desaparecidos en este sexenio; 'podrían ser más', dice la Afadem",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 626.0220029101563,
+            "r": 481.299,
+            "b": 603.4920029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "Hay quienes hablan de que la cifra sería de 20 mil, señala secretario del organismo",
+      "text": "Hay quienes hablan de que la cifra sería de 20 mil, señala secretario del organismo",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 590.0050029101562,
+            "r": 485.449,
+            "b": 567.4760029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "Faltan datos oficiales o un censo; se catalogan como levantones para no indagar",
+      "text": "Faltan datos oficiales o un censo; se catalogan como levantones para no indagar",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.159,
+            "t": 286.08500291015616,
+            "r": 476.218,
+            "b": 281.55600291015617,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "Manifestación en demanda de información sobre las personas desaparecidas Foto Víctor Camacho",
+      "text": "Manifestación en demanda de información sobre las personas desaparecidas Foto Víctor Camacho"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 483.0,
+            "t": 415.2533162434896,
+            "r": 492.3333333333333,
+            "b": 403.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "C",
+      "text": "C"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 261.85739549097264,
+            "t": 479.91035804710054,
+            "r": 312.47593784236074,
+            "b": 476.59627443987864,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "'cstan?",
+      "text": "'cstan?"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 332.516,
+            "t": 713.3530029101562,
+            "r": 366.127,
+            "b": 709.1550029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Facebook",
+      "text": "Facebook"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 389.39,
+            "t": 713.3530029101562,
+            "r": 411.928,
+            "b": 709.1550029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Twitter",
+      "text": "Twitter"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 435.197,
+            "t": 713.3530029101562,
+            "r": 456.035,
+            "b": 709.1550029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Más...",
+      "text": "Más..."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 460.0,
+            "t": 796.5866495768229,
+            "r": 569.6666666666666,
+            "b": 766.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "LaJornada",
+      "text": "LaJornada"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 502.9360029101562,
+            "r": 493.12,
+            "b": 490.1520029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "María Teresa Núñez Moreno muestra la foto de su hijo Carlos Enrique Ruiz Núñez. A la derecha, Josefina de Jesús Fiol también presenta imágenes de su esposo Foto Sanjuana Martínez",
+      "text": "María Teresa Núñez Moreno muestra la foto de su hijo Carlos Enrique Ruiz Núñez. A la derecha, Josefina de Jesús Fiol también presenta imágenes de su esposo Foto Sanjuana Martínez"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 111.48,
+            "t": 477.31700291015625,
+            "r": 220.372,
+            "b": 471.14600291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "S M",
+      "text": "S M",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 374.711,
+            "t": 465.5300029101562,
+            "r": 493.845,
+            "b": 459.76700291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Especial para La Jornada",
+      "text": "Especial para La Jornada",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 371.018,
+            "t": 448.16000291015627,
+            "r": 496.134,
+            "b": 434.6280029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Periódico La Jornada Domingo 31 de julio de 2011, p. 2",
+      "text": "Periódico La Jornada Domingo 31 de julio de 2011, p. 2"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 423.18400291015627,
+            "r": 493.806,
+            "b": 363.1400029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            383
+          ]
+        }
+      ],
+      "orig": "¿Cuántas personas han desaparecido en México en los pasados cinco años?... No hay estadísticas oficiales, no hay cifras institucionales, no hay un censo nacional, mucho  menos  un  protocolo  de  investigación  de  los  casos,  ni  siquiera  un programa  federal  que  atienda  a  los  familiares  de  los  miles  de  desaparecidos registrados durante el gobierno de Felipe Calderón.",
+      "text": "¿Cuántas personas han desaparecido en México en los pasados cinco años?... No hay estadísticas oficiales, no hay cifras institucionales, no hay un censo nacional, mucho  menos  un  protocolo  de  investigación  de  los  casos,  ni  siquiera  un programa  federal  que  atienda  a  los  familiares  de  los  miles  de  desaparecidos registrados durante el gobierno de Felipe Calderón."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 343.64700291015623,
+            "r": 493.659,
+            "b": 283.6030029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            325
+          ]
+        }
+      ],
+      "orig": "Los mal llamados levantones tienen cuatro cosas en común: una connotación negativa, porque a las víctimas se les relaciona muchas veces con la actividad criminal; una desatención de las autoridades, la indolencia de las instituciones de seguridad que se supone deberían investigar y un bajísimo porcentaje de casos resueltos.",
+      "text": "Los mal llamados levantones tienen cuatro cosas en común: una connotación negativa, porque a las víctimas se les relaciona muchas veces con la actividad criminal; una desatención de las autoridades, la indolencia de las instituciones de seguridad que se supone deberían investigar y un bajísimo porcentaje de casos resueltos."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 264.11000291015625,
+            "r": 493.847,
+            "b": 163.54700291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            591
+          ]
+        }
+      ],
+      "orig": "'Muchas veces para la autoridad el levantado es la gente involucrada con el narcotráfico  y  es  mentira.  La  palabra  la  han  inventado  para  que  el  Ministerio Público no realice investigaciones. Es una manera fácil de etiquetar un caso y dejarlo sólo como registro. Normalmente están involucrados grupos policiacos, militares  o  paramilitares  y  al  decir levantón descalifican  a  la  víctima',  afirmó Julio  Mata  Montiel,  secretario  ejecutivo  de  la  Asociación  de  Familiares  de Detenidos Desaparecidos y Víctimas de Violaciones de los Derechos Humanos en México (Afadem).",
+      "text": "'Muchas veces para la autoridad el levantado es la gente involucrada con el narcotráfico  y  es  mentira.  La  palabra  la  han  inventado  para  que  el  Ministerio Público no realice investigaciones. Es una manera fácil de etiquetar un caso y dejarlo sólo como registro. Normalmente están involucrados grupos policiacos, militares  o  paramilitares  y  al  decir levantón descalifican  a  la  víctima',  afirmó Julio  Mata  Montiel,  secretario  ejecutivo  de  la  Asociación  de  Familiares  de Detenidos Desaparecidos y Víctimas de Violaciones de los Derechos Humanos en México (Afadem)."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 144.0550029101562,
+            "r": 493.794,
+            "b": 70.50400291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            428
+          ]
+        }
+      ],
+      "orig": "Desbordados  por  los  miles  de  casos  de  desapariciones  que  se  registran  en todo el país desde que Felipe Calderón declaró la guerra contra el narcotráfico, Mata Montiel aseguró que tienen expedientes de más de 4 mil desaparecidos en este sexenio, pero reconoce que la cifra puede ser mucho mayor: 'Hay gente que habla de 10 mil o 20 mil, pero es muy difícil determinar la cifra exacta. Es una labor enorme; nos rebasa'.",
+      "text": "Desbordados  por  los  miles  de  casos  de  desapariciones  que  se  registran  en todo el país desde que Felipe Calderón declaró la guerra contra el narcotráfico, Mata Montiel aseguró que tienen expedientes de más de 4 mil desaparecidos en este sexenio, pero reconoce que la cifra puede ser mucho mayor: 'Hay gente que habla de 10 mil o 20 mil, pero es muy difícil determinar la cifra exacta. Es una labor enorme; nos rebasa'."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.159,
+            "t": 51.01100291015621,
+            "r": 171.859,
+            "b": 44.9920029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Muchos ADN",
+      "text": "Muchos ADN"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 102.159,
+            "t": 810.3640029101563,
+            "r": 493.313,
+            "b": 750.3200029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            389
+          ]
+        }
+      ],
+      "orig": "Kristian Karim Flores, de 25 años, salió de su casa de Juárez, Nuevo León, a las cuatro de la mañana junto a su cuñado Martín Alejandro Fiol Alfaro, de 20. Era 12 de agosto del año pasado y ambos trabajaban para la empresa de transportes Fletes Garza y la Distribuidora Esporteo. Tenían que repartir chocolates Ferrero y Kínder Sorpresa en Piedras Negras, Múzquiz y Nueva Rosita, Coahuila.",
+      "text": "Kristian Karim Flores, de 25 años, salió de su casa de Juárez, Nuevo León, a las cuatro de la mañana junto a su cuñado Martín Alejandro Fiol Alfaro, de 20. Era 12 de agosto del año pasado y ambos trabajaban para la empresa de transportes Fletes Garza y la Distribuidora Esporteo. Tenían que repartir chocolates Ferrero y Kínder Sorpresa en Piedras Negras, Múzquiz y Nueva Rosita, Coahuila."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 102.159,
+            "t": 730.8270029101562,
+            "r": 493.689,
+            "b": 670.7830029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            346
+          ]
+        }
+      ],
+      "orig": "'Ya se había ido, pero regresó a darme un beso', dice Josefina de Jesús Fiol Alfaro,  que  en  ese  momento  tenía  un  embarazo  de  unos  ocho  meses.  Dos semanas después dio a luz a su hijo que ahora tiene 10 meses. El pequeño está sentado a su lado en una carriola, se pone de pie e intenta quitarle la foto del padre que no llegó a conocer.",
+      "text": "'Ya se había ido, pero regresó a darme un beso', dice Josefina de Jesús Fiol Alfaro,  que  en  ese  momento  tenía  un  embarazo  de  unos  ocho  meses.  Dos semanas después dio a luz a su hijo que ahora tiene 10 meses. El pequeño está sentado a su lado en una carriola, se pone de pie e intenta quitarle la foto del padre que no llegó a conocer."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 102.159,
+            "t": 651.2900029101562,
+            "r": 493.671,
+            "b": 591.2460029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            365
+          ]
+        }
+      ],
+      "orig": "'Ellos no salieron de Juárez porque a las 4:20 intenté comunicarme con ellos. Les estaba mandando mensajes y les estaba marcando y nunca me contestaron. Pusimos una denuncia en Juárez, pero vimos que no hacían nada. No se están moviendo.  Nos  dicen  que  hay  muchos  casos.  Cuando  voy,  los  policías  me preguntan a mí si he sabido algo de ellos, es el colmo'.",
+      "text": "'Ellos no salieron de Juárez porque a las 4:20 intenté comunicarme con ellos. Les estaba mandando mensajes y les estaba marcando y nunca me contestaron. Pusimos una denuncia en Juárez, pero vimos que no hacían nada. No se están moviendo.  Nos  dicen  que  hay  muchos  casos.  Cuando  voy,  los  policías  me preguntan a mí si he sabido algo de ellos, es el colmo'."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 102.159,
+            "t": 571.7530029101563,
+            "r": 493.489,
+            "b": 498.20200291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            421
+          ]
+        }
+      ],
+      "orig": "A Josefina la acompaña su suegra, la madre de Kristian Karim: 'Cuando mi hijo  salió  de  casa  mandó  una  alerta  por  teléfono  a  un  compañero.  Estamos seguros que no alcanzaron a salir de Juárez. En aquel entonces la policía estaba totalmente coludida con el crimen organizado y sabíamos que andaba levantando muchachos. Estamos seguros que fueron ellos. Mi instinto de madre me dice que mi hijo no salió de allí'.",
+      "text": "A Josefina la acompaña su suegra, la madre de Kristian Karim: 'Cuando mi hijo  salió  de  casa  mandó  una  alerta  por  teléfono  a  un  compañero.  Estamos seguros que no alcanzaron a salir de Juárez. En aquel entonces la policía estaba totalmente coludida con el crimen organizado y sabíamos que andaba levantando muchachos. Estamos seguros que fueron ellos. Mi instinto de madre me dice que mi hijo no salió de allí'."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 102.159,
+            "t": 478.7100029101562,
+            "r": 493.829,
+            "b": 391.65300291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            529
+          ]
+        }
+      ],
+      "orig": "Ambas han decidido romper el silencio y denunciar la desaparición de los dos jóvenes ante la Procuraduría de Justicia de Nuevo León: 'No habíamos dado a conocer el caso porque el Ejército nos dijo que no lo hiciéramos, 'pues si sus captores se enteran y aún los tienen vivos, los matan'. Pero ya pasó un año. Ya me cansé. Toco puertas y puertas y no veo nada. Mínimo que sepan que estoy buscando a mi hijo. Que no me he quedado sentada. Quiero que él, donde esté, se dé cuenta de que lo estoy buscando. Ya no nos podemos callar'.",
+      "text": "Ambas han decidido romper el silencio y denunciar la desaparición de los dos jóvenes ante la Procuraduría de Justicia de Nuevo León: 'No habíamos dado a conocer el caso porque el Ejército nos dijo que no lo hiciéramos, 'pues si sus captores se enteran y aún los tienen vivos, los matan'. Pero ya pasó un año. Ya me cansé. Toco puertas y puertas y no veo nada. Mínimo que sepan que estoy buscando a mi hijo. Que no me he quedado sentada. Quiero que él, donde esté, se dé cuenta de que lo estoy buscando. Ya no nos podemos callar'."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 102.159,
+            "t": 372.16000291015627,
+            "r": 493.847,
+            "b": 244.58500291015628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            737
+          ]
+        }
+      ],
+      "orig": "A falta de un padrón nacional que cruce datos de desaparecidos con muestras de  ADN,  las  dos  familias  iniciaron  el  peregrinar  por  anfiteatros  y  servicios periciales  de  otros  estados  vecinos  para  proporcionar  los  datos  genéticos:  'Me hice la prueba de ADN en Periciales del fuero común de Nuevo León y la misma prueba en la PGR hace tres semanas. ¿Cómo van a hacer coincidir los resultados de ADN con los cuerpos encontrados en las narcofosas? No saben. Es imposible andar  de  ciudad  en  ciudad  para  hacernos  esa  pruebas.  Se  necesita  dinero. Trabajamos para vivir. No hay manera. Pedí mis vacaciones y alcancé a llegar a Reynosa,  Matamoros,  San  Fernando,  Nuevo  Laredo  y  Saltillo  y  párale  de contar'.",
+      "text": "A falta de un padrón nacional que cruce datos de desaparecidos con muestras de  ADN,  las  dos  familias  iniciaron  el  peregrinar  por  anfiteatros  y  servicios periciales  de  otros  estados  vecinos  para  proporcionar  los  datos  genéticos:  'Me hice la prueba de ADN en Periciales del fuero común de Nuevo León y la misma prueba en la PGR hace tres semanas. ¿Cómo van a hacer coincidir los resultados de ADN con los cuerpos encontrados en las narcofosas? No saben. Es imposible andar  de  ciudad  en  ciudad  para  hacernos  esa  pruebas.  Se  necesita  dinero. Trabajamos para vivir. No hay manera. Pedí mis vacaciones y alcancé a llegar a Reynosa,  Matamoros,  San  Fernando,  Nuevo  Laredo  y  Saltillo  y  párale  de contar'."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 102.159,
+            "t": 225.09200291015622,
+            "r": 493.507,
+            "b": 111.02200291015629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            701
+          ]
+        }
+      ],
+      "orig": "La madre de Kristian Karim se quiebra. El nudo en la garganta con el que hablaba,  aguantando  la  intensidad  del  recuerdo,  se  deshace  y  se  convierte  en llanto profundo. Llora inconsolable a las puertas de las procuraduría: 'Se fue una parte de mi corazón con él. Todos los días es dormirme pensando en él. Soñar con él. Decirle que lo amo, que me hace mucha falta... No hay voluntad política para resolver los casos, no hay derechos para un bebé que se quedó sin su papá; para mi hijo, un trabajador que ya dieron de baja en el Seguro Social. El patrón perdió la camioneta de su empresa, pero me dijo: 'Yo ya recuperé el dinero del seguro y este asunto se acabó'. No nos dio ni un solo peso'.",
+      "text": "La madre de Kristian Karim se quiebra. El nudo en la garganta con el que hablaba,  aguantando  la  intensidad  del  recuerdo,  se  deshace  y  se  convierte  en llanto profundo. Llora inconsolable a las puertas de las procuraduría: 'Se fue una parte de mi corazón con él. Todos los días es dormirme pensando en él. Soñar con él. Decirle que lo amo, que me hace mucha falta... No hay voluntad política para resolver los casos, no hay derechos para un bebé que se quedó sin su papá; para mi hijo, un trabajador que ya dieron de baja en el Seguro Social. El patrón perdió la camioneta de su empresa, pero me dijo: 'Yo ya recuperé el dinero del seguro y este asunto se acabó'. No nos dio ni un solo peso'."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 102.159,
+            "t": 91.53000291015621,
+            "r": 493.782,
+            "b": 44.9920029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            327
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 102.159,
+            "t": 810.3640029101563,
+            "r": 493.817,
+            "b": 763.8260029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            328,
+            663
+          ]
+        }
+      ],
+      "orig": "El  empresario  Ernesto  Garza  dio  de  baja  a  Kristian  Karim  y  a  Martín Alejandro  el  pasado  23  de  febrero.  Ya  no  son  sus  empleados.  El  bebé  de  10 meses no puede tener papá en los documentos de identidad hasta que pasen cinco años de su desaparición. Josefina de Jesús sigue esperando un milagro a pesar de todo: 'Estamos en ceros. No sabemos nada. Ni apareció la camioneta, ni la ropa, ni  las  carteras.  Nada.  Estamos  en  blanco...  Siempre  pienso  en  mi  hermano;  a Kristian  lo  tengo  muy  presente  y  me  duele  que  no  conozca  a  su  hijo.  Tengo esperanza. Hasta que no vea sus cuerpos o algo de ellos no voy a estar en paz'.",
+      "text": "El  empresario  Ernesto  Garza  dio  de  baja  a  Kristian  Karim  y  a  Martín Alejandro  el  pasado  23  de  febrero.  Ya  no  son  sus  empleados.  El  bebé  de  10 meses no puede tener papá en los documentos de identidad hasta que pasen cinco años de su desaparición. Josefina de Jesús sigue esperando un milagro a pesar de todo: 'Estamos en ceros. No sabemos nada. Ni apareció la camioneta, ni la ropa, ni  las  carteras.  Nada.  Estamos  en  blanco...  Siempre  pienso  en  mi  hermano;  a Kristian  lo  tengo  muy  presente  y  me  duele  que  no  conozca  a  su  hijo.  Tengo esperanza. Hasta que no vea sus cuerpos o algo de ellos no voy a estar en paz'."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 102.159,
+            "t": 744.3340029101562,
+            "r": 194.2,
+            "b": 738.3140029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Buscar en silencio",
+      "text": "Buscar en silencio",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 102.159,
+            "t": 718.8220029101562,
+            "r": 493.806,
+            "b": 672.2830029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            317
+          ]
+        }
+      ],
+      "orig": "Ricarda Durón Torres tiene 54 años y seis hijos. Uno desapareció el pasado 3 de febrero. Anselmo Salazar Durón tiene 29 años, es casado y tiene tres hijos, de ocho,  seis  y  cinco,  con  residencia  en  la  colonia  Camino  Real  en  Guadalupe, Nuevo León, uno de los municipios más violentos del área metropolitana.",
+      "text": "Ricarda Durón Torres tiene 54 años y seis hijos. Uno desapareció el pasado 3 de febrero. Anselmo Salazar Durón tiene 29 años, es casado y tiene tres hijos, de ocho,  seis  y  cinco,  con  residencia  en  la  colonia  Camino  Real  en  Guadalupe, Nuevo León, uno de los municipios más violentos del área metropolitana."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 102.159,
+            "t": 652.7910029101563,
+            "r": 493.788,
+            "b": 565.7340029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            525
+          ]
+        }
+      ],
+      "orig": "'Mi hijo estaba en la tienda de abarrotes y carnicería que tenemos. Salió a un mandado y ya no regresó. Lo levantaron con su camioneta. Unos vecinos vieron cómo  unos  hombres  en  una  camioneta  negra  lo  bajaron  de  su  vehículo  y  lo subieron a otro... Quiero que me lo regresen. Mi hijo es víctima de ellos, es una persona  inocente  y  noble;  es  un  trabajador.  No  somos  muebles  ni  animales nomás para que nos levanten. Nomás levantan personas porque no hay quien las defienda. ¿Con quién nos vamos a quejar?'",
+      "text": "'Mi hijo estaba en la tienda de abarrotes y carnicería que tenemos. Salió a un mandado y ya no regresó. Lo levantaron con su camioneta. Unos vecinos vieron cómo  unos  hombres  en  una  camioneta  negra  lo  bajaron  de  su  vehículo  y  lo subieron a otro... Quiero que me lo regresen. Mi hijo es víctima de ellos, es una persona  inocente  y  noble;  es  un  trabajador.  No  somos  muebles  ni  animales nomás para que nos levanten. Nomás levantan personas porque no hay quien las defienda. ¿Con quién nos vamos a quejar?'"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 102.159,
+            "t": 546.2410029101562,
+            "r": 493.8,
+            "b": 459.18400291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            538
+          ]
+        }
+      ],
+      "orig": "A Ricarda la acompaña su esposo, pero él no habla. Generalmente son ellas las  que  deambulan  por  las  oficinas  de  las  procuradurías  o  los  anfiteatros buscando en silencio a sus desaparecidos. Ella llora desconsoladamente, ocultando  el  rostro,  secando  las  lágrimas.  Él  la  mira  con  semblante  rígido,  en silencio. Ricarda se repone, suspira: 'Sus hijos me preguntan por él y les digo que ya va a regresar. Tengo mucha fe en Dios... Pero si me lo mataron... yo sé que mi hijo está con Dios y ellos están muertos en vida'.",
+      "text": "A Ricarda la acompaña su esposo, pero él no habla. Generalmente son ellas las  que  deambulan  por  las  oficinas  de  las  procuradurías  o  los  anfiteatros buscando en silencio a sus desaparecidos. Ella llora desconsoladamente, ocultando  el  rostro,  secando  las  lágrimas.  Él  la  mira  con  semblante  rígido,  en silencio. Ricarda se repone, suspira: 'Sus hijos me preguntan por él y les digo que ya va a regresar. Tengo mucha fe en Dios... Pero si me lo mataron... yo sé que mi hijo está con Dios y ellos están muertos en vida'."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 102.159,
+            "t": 439.69200291015625,
+            "r": 493.777,
+            "b": 352.63500291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            520
+          ]
+        }
+      ],
+      "orig": "Las desapariciones suceden en la calle, en las casas, en los negocios. Carlos Enrique Ruiz Núñez platicaba afuera de su casa con sus tíos el 20 de mayo del año pasado. Estaban en la banqueta, relajados, cuando una camioneta Cherokee se paró. Iban hombres fuertemente armados a cara descubierta. Uno se bajó y le dijo 'súbete'. 'Con chica ametralladora pues cómo no se iba a subir y por temor a que le hicieran algo a sus tíos, mi hijo se subió y ya no volvimos a saber de él', dice María Teresa Núñez Moreno, de 60 años.",
+      "text": "Las desapariciones suceden en la calle, en las casas, en los negocios. Carlos Enrique Ruiz Núñez platicaba afuera de su casa con sus tíos el 20 de mayo del año pasado. Estaban en la banqueta, relajados, cuando una camioneta Cherokee se paró. Iban hombres fuertemente armados a cara descubierta. Uno se bajó y le dijo 'súbete'. 'Con chica ametralladora pues cómo no se iba a subir y por temor a que le hicieran algo a sus tíos, mi hijo se subió y ya no volvimos a saber de él', dice María Teresa Núñez Moreno, de 60 años."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 102.159,
+            "t": 333.14200291015624,
+            "r": 493.776,
+            "b": 246.08500291015628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            517
+          ]
+        }
+      ],
+      "orig": "Carlos Enrique está casado y tiene cuatro niños. Trabajaba como taxista: 'En las noticias nacionales por la televisión vimos cuando la policía lo sacaba de una casa de seguridad federal. Suponemos que está en México, en alguna delegación de  allá,  pero  no  sabemos  nada.  Interpusimos  una  denuncia  en  Averiguaciones Previas de la Procuraduría de Justicia de Nuevo León, pero siempre nos dicen que  no  han  tenido  respuesta,  que  hay  muchos levantones. Voy  a seguir buscándolo. No me canso, ni me cansaré'.",
+      "text": "Carlos Enrique está casado y tiene cuatro niños. Trabajaba como taxista: 'En las noticias nacionales por la televisión vimos cuando la policía lo sacaba de una casa de seguridad federal. Suponemos que está en México, en alguna delegación de  allá,  pero  no  sabemos  nada.  Interpusimos  una  denuncia  en  Averiguaciones Previas de la Procuraduría de Justicia de Nuevo León, pero siempre nos dicen que  no  han  tenido  respuesta,  que  hay  muchos levantones. Voy  a seguir buscándolo. No me canso, ni me cansaré'."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 102.159,
+            "t": 226.5930029101562,
+            "r": 190.87,
+            "b": 220.5740029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Un mismo código",
+      "text": "Un mismo código",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 102.159,
+            "t": 201.08100291015626,
+            "r": 493.8,
+            "b": 100.51800291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            641
+          ]
+        }
+      ],
+      "orig": "'Nada se está investigando, no investigan las desapariciones. Es una forma en la que el Estado evade su responsabilidad. Con la palabra levantón, unida a la de narcotráfico,  la  respuesta  para  referirse  a  los  desaparecidos  es  la  misma:  el descrédito: 'algo debían', 'se lo merecían', 'en algo malo andaban'... Y no hay investigación;  conocemos  personas  que  no  estaban  involucradas  en  nada: abogados, ingenieros, transportistas,  choferes  de  mudanzas,  trabajadores,  gente que salió a cumplir con su trabajo y en el camino desapareció y ya no se supo de ellos', dice Julio Mata Montiel, secretario ejecutivo de la Afadem.",
+      "text": "'Nada se está investigando, no investigan las desapariciones. Es una forma en la que el Estado evade su responsabilidad. Con la palabra levantón, unida a la de narcotráfico,  la  respuesta  para  referirse  a  los  desaparecidos  es  la  misma:  el descrédito: 'algo debían', 'se lo merecían', 'en algo malo andaban'... Y no hay investigación;  conocemos  personas  que  no  estaban  involucradas  en  nada: abogados, ingenieros, transportistas,  choferes  de  mudanzas,  trabajadores,  gente que salió a cumplir con su trabajo y en el camino desapareció y ya no se supo de ellos', dice Julio Mata Montiel, secretario ejecutivo de la Afadem."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 102.159,
+            "t": 81.02500291015622,
+            "r": 493.788,
+            "b": 47.99300291015629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "Desde 1999 ofrecieron un proyecto de ley sobre la desaparición forzada que nunca fue atendido. Incluye la creación de un organismo donde sean denunciados todos los casos, una ventanilla única cotejada con un banco de ADN. Este año el",
+      "text": "Desde 1999 ofrecieron un proyecto de ley sobre la desaparición forzada que nunca fue atendido. Incluye la creación de un organismo donde sean denunciados todos los casos, una ventanilla única cotejada con un banco de ADN. Este año el"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 810.3640029101563,
+            "r": 493.495,
+            "b": 790.8380029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "PRD lo intentó nuevamente, pero la ley sigue esperando. Mata Montiel lo tiene muy claro: 'No hay voluntad política de que se conozca la verdad'.",
+      "text": "PRD lo intentó nuevamente, pero la ley sigue esperando. Mata Montiel lo tiene muy claro: 'No hay voluntad política de que se conozca la verdad'."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 769.5820029101562,
+            "r": 201.778,
+            "b": 762.0570029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Más De La Red",
+      "text": "Más De La Red",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 413.249,
+            "t": 766.3080029101562,
+            "r": 493.083,
+            "b": 761.7800029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Enlaces Patrocinados",
+      "text": "Enlaces Patrocinados"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 743.5830029101562,
+            "r": 464.771,
+            "b": 737.5640029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "¿1,6 billones de dólares? ¡La mayor lotería del mundo llega a Ecuador!",
+      "text": "¿1,6 billones de dólares? ¡La mayor lotería del mundo llega a Ecuador!",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 725.3420029101562,
+            "r": 151.589,
+            "b": 721.2030029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "theLotter.com",
+      "text": "theLotter.com"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 673.8010029101563,
+            "r": 441.023,
+            "b": 667.7810029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Build a City, Trade With Your Neighbors, Play With Your Friends",
+      "text": "Build a City, Trade With Your Neighbors, Play With Your Friends",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 655.5590029101562,
+            "r": 235.26,
+            "b": 651.4210029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Forge of Empires - Free Online Game",
+      "text": "Forge of Empires - Free Online Game"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 604.0180029101563,
+            "r": 380.357,
+            "b": 597.9990029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "People from Ecuador cannot believe these flight prices",
+      "text": "People from Ecuador cannot believe these flight prices",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 585.7770029101563,
+            "r": 146.427,
+            "b": 581.6390029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Flights Shop",
+      "text": "Flights Shop"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 534.2360029101562,
+            "r": 306.963,
+            "b": 528.2160029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "This Woman Reads 100 Books A Month",
+      "text": "This Woman Reads 100 Books A Month"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.159,
+            "t": 515.9950029101562,
+            "r": 129.685,
+            "b": 511.85600291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 449.946,
+            "t": 468.42000291015626,
+            "r": 493.081,
+            "b": 463.89100291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            9,
+            20
+          ]
+        }
+      ],
+      "orig": "Blinkist por Taboola",
+      "text": "Blinkist por Taboola"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 184.439,
+            "t": 803.2880029101563,
+            "r": 413.645,
+            "b": 782.6640029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203.",
+      "text": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.425947189331055,
+            "t": 794.9572563171387,
+            "r": 232.5646514892578,
+            "b": 753.6635131835938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 101.67427062988281,
+            "t": 553.9280090332031,
+            "r": 495.96917724609375,
+            "b": 289.66400146484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 433.6726989746094,
+            "t": 792.8967666625977,
+            "r": 566.1139526367188,
+            "b": 769.1157531738281,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 542.729248046875,
+            "t": 722.4968185424805,
+            "r": 560.9325561523438,
+            "b": 703.7439727783203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 101.38002014160156,
+            "t": 814.2667846679688,
+            "r": 496.9569396972656,
+            "b": 506.79046630859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 6
+    }
+  }
+}

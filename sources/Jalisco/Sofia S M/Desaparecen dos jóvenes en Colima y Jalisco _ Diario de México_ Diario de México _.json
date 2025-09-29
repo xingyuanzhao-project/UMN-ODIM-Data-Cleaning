@@ -1,0 +1,1738 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Desaparecen dos jóvenes en Colima y Jalisco _ Diario de México_ Diario de México _",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7789270784591489188,
+    "filename": "Desaparecen dos jóvenes en Colima y Jalisco _ Diario de México_ Diario de México _.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 595.406,
+            "r": 58.605,
+            "b": 591.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "11/2/2018",
+      "text": "11/2/2018"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 291.719,
+            "t": 595.406,
+            "r": 562.664,
+            "b": 591.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "Desaparecen dos jóvenes en Colima y Jalisco | Diario de México| Diario de México |",
+      "text": "Desaparecen dos jóvenes en Colima y Jalisco | Diario de México| Diario de México |"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 81.661,
+            "t": 448.941,
+            "r": 100.424,
+            "b": 437.031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 39.613,
+            "t": 405.092,
+            "r": 238.044,
+            "b": 400.328,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Inicio (/) Desaparecen Dos Jóvenes En Colima Y Jalisco ",
+      "text": "Inicio (/) Desaparecen Dos Jóvenes En Colima Y Jalisco "
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.515,
+            "t": 376.263,
+            "r": 348.859,
+            "b": 364.772,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Desaparecen dos jóvenes en Colima y Jalisco",
+      "text": "Desaparecen dos jóvenes en Colima y Jalisco",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.966,
+            "t": 564.518,
+            "r": 475.045,
+            "b": 559.233,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "(https://www.diariodemexico.com)",
+      "text": "(https://www.diariodemexico.com)"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 296.049,
+            "t": 485.715,
+            "r": 496.946,
+            "b": 480.429,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "(https://www.diariodemexico.com/node/56/)",
+      "text": "(https://www.diariodemexico.com/node/56/)"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 733.537,
+            "t": 44.24300000000005,
+            "r": 733.537,
+            "b": 38.83299999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ů",
+      "text": "ů"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.40599999999995,
+            "r": 308.066,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "https://www.diariodemexico.com/desaparecen-dos-j%C3%B3venes-en-colima-y-jalisco",
+      "text": "https://www.diariodemexico.com/desaparecen-dos-j%C3%B3venes-en-colima-y-jalisco"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 751.594,
+            "t": 22.40599999999995,
+            "r": 765.519,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1/11",
+      "text": "1/11"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 595.406,
+            "r": 58.605,
+            "b": 591.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "11/2/2018",
+      "text": "11/2/2018"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 291.719,
+            "t": 595.406,
+            "r": 562.664,
+            "b": 591.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "Desaparecen dos jóvenes en Colima y Jalisco | Diario de México| Diario de México |",
+      "text": "Desaparecen dos jóvenes en Colima y Jalisco | Diario de México| Diario de México |"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.779,
+            "t": 227.664,
+            "r": 281.906,
+            "b": 216.173,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "/ SEP 13, 2017 MI NACIÓN (/CATEGORIES/MI-NACI%C3%B3N) FOTO:",
+      "text": "/ SEP 13, 2017 MI NACIÓN (/CATEGORIES/MI-NACI%C3%B3N) FOTO:"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 63.0,
+            "t": 161.0,
+            "r": 227.0,
+            "b": 112.66666666666669,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "CleanMyMac X Tu Mac, como nuevo_",
+      "text": "CleanMyMac X Tu Mac, como nuevo_"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 424.3333333333333,
+            "t": 148.0,
+            "r": 521.3333333333333,
+            "b": 129.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Prúebalo gratis",
+      "text": "Prúebalo gratis"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 733.537,
+            "t": 44.24300000000005,
+            "r": 733.537,
+            "b": 38.83299999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ů",
+      "text": "ů"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.40599999999995,
+            "r": 308.066,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "https://www.diariodemexico.com/desaparecen-dos-j%C3%B3venes-en-colima-y-jalisco",
+      "text": "https://www.diariodemexico.com/desaparecen-dos-j%C3%B3venes-en-colima-y-jalisco"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 751.594,
+            "t": 22.40599999999995,
+            "r": 765.519,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2/11",
+      "text": "2/11"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 595.406,
+            "r": 58.605,
+            "b": 591.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "11/2/2018",
+      "text": "11/2/2018"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 291.719,
+            "t": 595.406,
+            "r": 562.664,
+            "b": 591.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "Desaparecen dos jóvenes en Colima y Jalisco | Diario de México| Diario de México |",
+      "text": "Desaparecen dos jóvenes en Colima y Jalisco | Diario de México| Diario de México |"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 39.258,
+            "t": 579.459,
+            "r": 670.579,
+            "b": 571.302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "COMPARTIR EN: Facebook (http://www.facebook.com/sharer.php?u=https://www.diariodemexico.com/desaparecen-dos-j%C3%B3venes-en-colima-y-jalisco) ",
+      "text": "COMPARTIR EN: Facebook (http://www.facebook.com/sharer.php?u=https://www.diariodemexico.com/desaparecen-dos-j%C3%B3venes-en-colima-y-jalisco) ",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 39.258,
+            "t": 555.443,
+            "r": 730.187,
+            "b": 531.295,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "Twitter (https://twitter.com/intent/tweet?text=Desaparecen dos jóvenes en Colima y Jalisco &url=https://www.diariodemexico.com/desaparecen-dos-j%C3%B3venes-encolima-y-jalisco&via=DDMexico) ",
+      "text": "Twitter (https://twitter.com/intent/tweet?text=Desaparecen dos jóvenes en Colima y Jalisco &url=https://www.diariodemexico.com/desaparecen-dos-j%C3%B3venes-encolima-y-jalisco&via=DDMexico) ",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.511,
+            "t": 517.167,
+            "r": 587.559,
+            "b": 509.068,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "Google + (http://plus.google.com/share?url=https://www.diariodemexico.com/desaparecen-dos-j%C3%B3venes-en-colima-y-jalisco) ",
+      "text": "Google + (http://plus.google.com/share?url=https://www.diariodemexico.com/desaparecen-dos-j%C3%B3venes-en-colima-y-jalisco) ",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 50.515,
+            "t": 470.053,
+            "r": 728.567,
+            "b": 443.588,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "Un joven en el estado de Colima desapareció desde el día 1 de septiembre, luego de salir con sus amigos a un bar y no regresar. Los familiares del joven temen que haya sido víctima de la delincuencia.",
+      "text": "Un joven en el estado de Colima desapareció desde el día 1 de septiembre, luego de salir con sus amigos a un bar y no regresar. Los familiares del joven temen que haya sido víctima de la delincuencia."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 50.515,
+            "t": 418.169,
+            "r": 730.97,
+            "b": 396.372,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "Con 12 días desaparecidos, la familia de Jorge Luis Árcega ha solicitado el apoyo de medios de comunicación y de las autoridades estatales para con su paradero, también han pedido ayuda de la población para buscarlo.",
+      "text": "Con 12 días desaparecidos, la familia de Jorge Luis Árcega ha solicitado el apoyo de medios de comunicación y de las autoridades estatales para con su paradero, también han pedido ayuda de la población para buscarlo."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 50.515,
+            "t": 374.64,
+            "r": 734.499,
+            "b": 352.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            281
+          ]
+        }
+      ],
+      "orig": "De acuerdo con los hechos, el joven salió con sus amigos a un bar llamado 'La Boquita', ubicado en la calles Ignacio Sandoval 1943, Paseo de La Cantera, pero al salir del establecimiento a las 2:00 horas de la madrugada a bordo de su vehículo Spark color rojo no volvió a regresar.",
+      "text": "De acuerdo con los hechos, el joven salió con sus amigos a un bar llamado 'La Boquita', ubicado en la calles Ignacio Sandoval 1943, Paseo de La Cantera, pero al salir del establecimiento a las 2:00 horas de la madrugada a bordo de su vehículo Spark color rojo no volvió a regresar."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 50.515,
+            "t": 331.11,
+            "r": 596.044,
+            "b": 325.824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "La última vez que fue visto fue esa misma noche, donde uno de sus amigos dice que se dirigía a buscar a una mujer.",
+      "text": "La última vez que fue visto fue esa misma noche, donde uno de sus amigos dice que se dirigía a buscar a una mujer."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 50.515,
+            "t": 304.092,
+            "r": 740.825,
+            "b": 265.784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            345
+          ]
+        }
+      ],
+      "orig": "El aumento de las desapariciones y los actos delictivos por la venta y consumo de la droga 'cristal', ha sido señalada como una de las causa de la desaparición de Jorge, sin embargo, sus familiares descartan tal motivo. Por el momento las autoridades de Colima se muestran inaccesibles con el caso, ya que no han aportado avances de la búsqueda.",
+      "text": "El aumento de las desapariciones y los actos delictivos por la venta y consumo de la droga 'cristal', ha sido señalada como una de las causa de la desaparición de Jorge, sin embargo, sus familiares descartan tal motivo. Por el momento las autoridades de Colima se muestran inaccesibles con el caso, ya que no han aportado avances de la búsqueda."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 50.515,
+            "t": 245.15700000000004,
+            "r": 316.77,
+            "b": 239.096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Desaparece estudiante de turismo en Zapopan",
+      "text": "Desaparece estudiante de turismo en Zapopan",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 50.515,
+            "t": 217.03300000000002,
+            "r": 721.078,
+            "b": 195.236,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "Sofía Sandoval Márquez de 21 años de edad es otra joven desaparecida, quien fue vista por última vez el pasado 7 de septiembre en Zapopan, Jalisco.",
+      "text": "Sofía Sandoval Márquez de 21 años de edad es otra joven desaparecida, quien fue vista por última vez el pasado 7 de septiembre en Zapopan, Jalisco."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 50.515,
+            "t": 173.503,
+            "r": 740.887,
+            "b": 135.195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            363
+          ]
+        }
+      ],
+      "orig": "Alrededor de las 13:00 horas, Sofi, como le dicen sus familiares, fue vista en el Hotel HM de punta de Sao Paulo, ubicado cerca del centro comercial Punta Sao Paulo, donde realizaba sus prácticas profesionales. La joven es estudiante de la Universidad Autónoma de Guadalajara (UAG) donde estudia la carrera Turismo y hasta el momento no saben nada de su paradero.",
+      "text": "Alrededor de las 13:00 horas, Sofi, como le dicen sus familiares, fue vista en el Hotel HM de punta de Sao Paulo, ubicado cerca del centro comercial Punta Sao Paulo, donde realizaba sus prácticas profesionales. La joven es estudiante de la Universidad Autónoma de Guadalajara (UAG) donde estudia la carrera Turismo y hasta el momento no saben nada de su paradero."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 50.515,
+            "t": 113.46199999999999,
+            "r": 673.201,
+            "b": 91.66599999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "Los familiares exigen que las autoridades brinden atención puntal del caso, debido a que hasta la fecha han aumentado el número de desaparecidos en la entidad.",
+      "text": "Los familiares exigen que las autoridades brinden atención puntal del caso, debido a que hasta la fecha han aumentado el número de desaparecidos en la entidad."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 733.537,
+            "t": 44.24300000000005,
+            "r": 733.537,
+            "b": 38.83299999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ů",
+      "text": "ů"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.40599999999995,
+            "r": 308.066,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "https://www.diariodemexico.com/desaparecen-dos-j%C3%B3venes-en-colima-y-jalisco",
+      "text": "https://www.diariodemexico.com/desaparecen-dos-j%C3%B3venes-en-colima-y-jalisco"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 751.594,
+            "t": 22.40599999999995,
+            "r": 765.519,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "3/11",
+      "text": "3/11"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 26.453,
+            "t": 595.406,
+            "r": 58.605,
+            "b": 591.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "11/2/2018",
+      "text": "11/2/2018"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 291.719,
+            "t": 595.406,
+            "r": 562.664,
+            "b": 591.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "Desaparecen dos jóvenes en Colima y Jalisco | Diario de México| Diario de México |",
+      "text": "Desaparecen dos jóvenes en Colima y Jalisco | Diario de México| Diario de México |"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 56.519,
+            "t": 572.799,
+            "r": 127.761,
+            "b": 567.496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "0 comentarios",
+      "text": "0 comentarios",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 107.624,
+            "t": 519.063,
+            "r": 239.714,
+            "b": 513.023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Agregar un comentario...",
+      "text": "Agregar un comentario..."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.779,
+            "t": 467.589,
+            "r": 202.49,
+            "b": 463.436,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Plugin de comentarios de Facebook",
+      "text": "Plugin de comentarios de Facebook"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 78.284,
+            "t": 439.219,
+            "r": 181.406,
+            "b": 433.639,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "TAGS EN ESTA NOTA:",
+      "text": "TAGS EN ESTA NOTA:"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.799,
+            "t": 231.60699999999997,
+            "r": 130.466,
+            "b": 226.873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "0:00 / 0:00",
+      "text": "0:00 / 0:00"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 366.655,
+            "t": 572.774,
+            "r": 426.215,
+            "b": 567.488,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Ordenar por",
+      "text": "Ordenar por"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 432.958,
+            "t": 570.969,
+            "r": 492.531,
+            "b": 566.423,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Más recientes",
+      "text": "Más recientes"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 733.537,
+            "t": 44.24300000000005,
+            "r": 733.537,
+            "b": 38.83299999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ů",
+      "text": "ů"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.40599999999995,
+            "r": 308.066,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "https://www.diariodemexico.com/desaparecen-dos-j%C3%B3venes-en-colima-y-jalisco",
+      "text": "https://www.diariodemexico.com/desaparecen-dos-j%C3%B3venes-en-colima-y-jalisco"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 751.594,
+            "t": 22.40599999999995,
+            "r": 765.519,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "4/11",
+      "text": "4/11"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.35504150390625,
+            "t": 450.4374237060547,
+            "r": 101.04447174072266,
+            "b": 434.2989501953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 280.49188232421875,
+            "t": 569.1679191589355,
+            "r": 511.84649658203125,
+            "b": 501.0448455810547,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 49.56382369995117,
+            "t": 584.7171421051025,
+            "r": 397.4936828613281,
+            "b": 194.04751586914062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 294.98968505859375,
+            "t": 167.9290771484375,
+            "r": 368.8653564453125,
+            "b": 109.08575439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 402.8671875,
+            "t": 585.0108261108398,
+            "r": 743.2356567382812,
+            "b": 194.13656616210938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 549.9002075195312,
+            "t": 172.18826293945312,
+            "r": 574.3470458984375,
+            "b": 160.53717041015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 55.188087463378906,
+            "t": 535.0237884521484,
+            "r": 92.63070678710938,
+            "b": 497.16424560546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 4
+    }
+  }
+}

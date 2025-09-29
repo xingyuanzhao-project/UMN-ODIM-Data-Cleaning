@@ -1,0 +1,980 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "La Jornada_ Cumple ocho años secuestro de ingeniero de la empresa Ica Fluor",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13141454975230819395,
+    "filename": "La Jornada_ Cumple ocho años secuestro de ingeniero de la empresa Ica Fluor.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 595.293,
+            "r": 62.605,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "28/11/2019",
+      "text": "28/11/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 304.344,
+            "t": 595.293,
+            "r": 554.035,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "La Jornada: Cumple ocho años secuestro de ingeniero de la empresa Ica Fluor",
+      "text": "La Jornada: Cumple ocho años secuestro de ingeniero de la empresa Ica Fluor"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 493.12,
+            "r": 493.19,
+            "b": 470.65,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Las autoridades no han hecho nada para localizarlo, dice su madre",
+      "text": "Las autoridades no han hecho nada para localizarlo, dice su madre",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 450.574,
+            "r": 515.681,
+            "b": 421.444,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Cumple ocho años secuestro de ingeniero de la empresa Ica Fluor",
+      "text": "Cumple ocho años secuestro de ingeniero de la empresa Ica Fluor",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 209.94,
+            "t": 401.429,
+            "r": 313.327,
+            "b": 394.754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "JOSÉ ANTONIO ROMÁN",
+      "text": "JOSÉ ANTONIO ROMÁN"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 471.223,
+            "t": 372.274,
+            "r": 592.392,
+            "b": 358.364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Periódico La Jornada Lunes 13 de marzo de 2017, p. 5",
+      "text": "Periódico La Jornada Lunes 13 de marzo de 2017, p. 5"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 345.778,
+            "r": 592.125,
+            "b": 286.445,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            368
+          ]
+        }
+      ],
+      "orig": "Contratado como ingeniero ''foráneo'' por la empresa Ica Fluor, subsidiaria del corporativo ICA, José Antonio Robledo, de 32 años de edad, tenía ya un año de vivir en Monclova, Coahuila, cuando el 25 de enero de 2009 fue raptado por un grupo  de  hombres  armados  a  plena  luz  del  día.  A  más  de  ocho  años  de  esos hechos su paradero sigue siendo desconocido.",
+      "text": "Contratado como ingeniero ''foráneo'' por la empresa Ica Fluor, subsidiaria del corporativo ICA, José Antonio Robledo, de 32 años de edad, tenía ya un año de vivir en Monclova, Coahuila, cuando el 25 de enero de 2009 fue raptado por un grupo  de  hombres  armados  a  plena  luz  del  día.  A  más  de  ocho  años  de  esos hechos su paradero sigue siendo desconocido."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 266.224,
+            "r": 592.365,
+            "b": 193.382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            450
+          ]
+        }
+      ],
+      "orig": "María Guadalupe Fernández, su madre, narra que a pesar de haber entregado a  la  policía  estatal  información  confidencial  sobre  las  últimas  llamadas  del celular de su hijo, incluso días después de su desaparición, nunca se hizo nada. La empresa no sólo se deslindó de cualquier responsabilidad, sino obstruyó de manera  importante  la  investigación,  donde  dos  compañeros  de  su  hijo  están presos, pero no tiene noticias de su familiar.",
+      "text": "María Guadalupe Fernández, su madre, narra que a pesar de haber entregado a  la  policía  estatal  información  confidencial  sobre  las  últimas  llamadas  del celular de su hijo, incluso días después de su desaparición, nunca se hizo nada. La empresa no sólo se deslindó de cualquier responsabilidad, sino obstruyó de manera  importante  la  investigación,  donde  dos  compañeros  de  su  hijo  están presos, pero no tiene noticias de su familiar."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 173.161,
+            "r": 592.113,
+            "b": 127.33699999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            298
+          ]
+        }
+      ],
+      "orig": "Han  pasado  ya  ocho  años,  un  mes  y  12  días  de  la  ausencia  de  su  hijo, recuerda la señora Fernández. El día de su desaparición, José Antonio estacionó su vehículo frente a un servicio de autopartes en Monclova; hablaba vía celular con su novia, con quien ya había planes de matrimonio.",
+      "text": "Han  pasado  ya  ocho  años,  un  mes  y  12  días  de  la  ausencia  de  su  hijo, recuerda la señora Fernández. El día de su desaparición, José Antonio estacionó su vehículo frente a un servicio de autopartes en Monclova; hablaba vía celular con su novia, con quien ya había planes de matrimonio."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 107.11599999999999,
+            "r": 592.289,
+            "b": 61.29200000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "En ese momento hombres armados le hicieron varias preguntas, le exigieron las llaves de su automóvil y le ordenaron enmedio de golpes subir a la unidad. Durante varios minutos la novia escuchó todo lo que ocurría a través del celular, hasta que fue apagado.",
+      "text": "En ese momento hombres armados le hicieron varias preguntas, le exigieron las llaves de su automóvil y le ordenaron enmedio de golpes subir a la unidad. Durante varios minutos la novia escuchó todo lo que ocurría a través del celular, hasta que fue apagado."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.293000000000006,
+            "r": 216.805,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2017/03/13/politica/005n2pol",
+      "text": "https://www.jornada.com.mx/2017/03/13/politica/005n2pol"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 755.312,
+            "t": 22.293000000000006,
+            "r": 765.531,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/3",
+      "text": "1/3"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 595.293,
+            "r": 62.605,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "28/11/2019",
+      "text": "28/11/2019"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 304.344,
+            "t": 595.293,
+            "r": 554.035,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "La Jornada: Cumple ocho años secuestro de ingeniero de la empresa Ica Fluor",
+      "text": "La Jornada: Cumple ocho años secuestro de ingeniero de la empresa Ica Fluor"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 581.438,
+            "r": 592.213,
+            "b": 522.104,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            359
+          ]
+        }
+      ],
+      "orig": "José  Antonio  Robledo  y  María  Guadalupe  Fernández,  padres  del  ingeniero desaparecido,  se  trasladaron  a  Monclova  desde  la  Ciudad  de  México.  De entonces a la fecha han empleado su tiempo en hacer labores de investigación, más por intuición que por conocimiento, supliendo la deficiencia del Ministerio Público y la inoperancia de las policías.",
+      "text": "José  Antonio  Robledo  y  María  Guadalupe  Fernández,  padres  del  ingeniero desaparecido,  se  trasladaron  a  Monclova  desde  la  Ciudad  de  México.  De entonces a la fecha han empleado su tiempo en hacer labores de investigación, más por intuición que por conocimiento, supliendo la deficiencia del Ministerio Público y la inoperancia de las policías."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 501.884,
+            "r": 592.201,
+            "b": 429.041,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            479
+          ]
+        }
+      ],
+      "orig": "En cuestión de días, los padres de José Antonio pudieron obtener, a través de una amistad, las llamadas sábanas de llamadas del celular de su hijo, de los días previos y posteriores al 25 de febrero, pero nada. El registro de estos números indica que desde las oficinas de Ica Fluor, tanto de la Ciudad de México como de Monclova, salieron llamadas al celular de José Antonio en los días posteriores a su rapto. Pero las autoridades tanto federales como estatales nada han hecho.",
+      "text": "En cuestión de días, los padres de José Antonio pudieron obtener, a través de una amistad, las llamadas sábanas de llamadas del celular de su hijo, de los días previos y posteriores al 25 de febrero, pero nada. El registro de estos números indica que desde las oficinas de Ica Fluor, tanto de la Ciudad de México como de Monclova, salieron llamadas al celular de José Antonio en los días posteriores a su rapto. Pero las autoridades tanto federales como estatales nada han hecho."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 408.821,
+            "r": 592.242,
+            "b": 322.432,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            508
+          ]
+        }
+      ],
+      "orig": "A  ocho  años,  el  caso  está  empantanado  en  la  Procuraduría  General  de  la República (PGR), pese a que hay un ofrecimiento de recompensa para quien dé información sobre el paradero del ingeniero. Incluso, la señora Fernández narra que tras  la  entrega  de  la  información  del  celular,  su  esposo  y  ella  tuvieron  un encuentro  con  jefes de la seguridad privada de Ica Fluor y un par  de ''empresarios'' que tenían contratos con la empresa, quienes se presentaron como miembros de Los Zetas .",
+      "text": "A  ocho  años,  el  caso  está  empantanado  en  la  Procuraduría  General  de  la República (PGR), pese a que hay un ofrecimiento de recompensa para quien dé información sobre el paradero del ingeniero. Incluso, la señora Fernández narra que tras  la  entrega  de  la  información  del  celular,  su  esposo  y  ella  tuvieron  un encuentro  con  jefes de la seguridad privada de Ica Fluor y un par  de ''empresarios'' que tenían contratos con la empresa, quienes se presentaron como miembros de Los Zetas ."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 302.248,
+            "r": 592.318,
+            "b": 256.424,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            331
+          ]
+        }
+      ],
+      "orig": "''Nos advirtieron que no buscáramos más'' e incluso les dijeron que ya tenían conocimiento de la  información  entregada  a  la  policía  respecto  de  la  telefonía celular  de  su  hijo,  la  cual  se  suponía  -añade  la  señora  Fernández-  que  era ''confidencial'' para que las autoridades pudieran realizar la investigación.",
+      "text": "''Nos advirtieron que no buscáramos más'' e incluso les dijeron que ya tenían conocimiento de la  información  entregada  a  la  policía  respecto  de  la  telefonía celular  de  su  hijo,  la  cual  se  suponía  -añade  la  señora  Fernández-  que  era ''confidencial'' para que las autoridades pudieran realizar la investigación."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 236.204,
+            "r": 592.183,
+            "b": 190.37900000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            303
+          ]
+        }
+      ],
+      "orig": "''Esto  nos  demostró  desde  el  principio  que  había  complicidad  entre  la empresa  Ica  Fluor,  los  integrantes  de Los  Zetas y  las  autoridades  policiacas. Hemos  ido  de  engaño  en  engaño  en  todas  las  instancias  de  procuración  de justicia. La corrupción es la madre de la impunidad.",
+      "text": "''Esto  nos  demostró  desde  el  principio  que  había  complicidad  entre  la empresa  Ica  Fluor,  los  integrantes  de Los  Zetas y  las  autoridades  policiacas. Hemos  ido  de  engaño  en  engaño  en  todas  las  instancias  de  procuración  de justicia. La corrupción es la madre de la impunidad."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 170.159,
+            "r": 592.16,
+            "b": 97.31600000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            411
+          ]
+        }
+      ],
+      "orig": "''Pero  mi  convicción,  por  amor,  es  encontrarlo,  seguirlo  buscando.  Y  no porque  diga  que  lo  busco  muerto  ya  no  lo  voy  a  buscar.  El  tamaño  del sufrimiento  y  la  incertidumbre  es  tanta  que  a  nadie  se  le  desea'',  dice  María Guadalupe Fernández, quien hoy, junto con su esposo, forma parte del colectivo Fuerzas Unidas por Nuestros Desaparecidos en Coahuila y en México (FundecM).",
+      "text": "''Pero  mi  convicción,  por  amor,  es  encontrarlo,  seguirlo  buscando.  Y  no porque  diga  que  lo  busco  muerto  ya  no  lo  voy  a  buscar.  El  tamaño  del sufrimiento  y  la  incertidumbre  es  tanta  que  a  nadie  se  le  desea'',  dice  María Guadalupe Fernández, quien hoy, junto con su esposo, forma parte del colectivo Fuerzas Unidas por Nuestros Desaparecidos en Coahuila y en México (FundecM)."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.293000000000006,
+            "r": 216.805,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2017/03/13/politica/005n2pol",
+      "text": "https://www.jornada.com.mx/2017/03/13/politica/005n2pol"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 755.312,
+            "t": 22.293000000000006,
+            "r": 765.531,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2/3",
+      "text": "2/3"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 595.293,
+            "r": 62.605,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "28/11/2019",
+      "text": "28/11/2019"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 304.344,
+            "t": 595.293,
+            "r": 554.035,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "La Jornada: Cumple ocho años secuestro de ingeniero de la empresa Ica Fluor",
+      "text": "La Jornada: Cumple ocho años secuestro de ingeniero de la empresa Ica Fluor"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 282.915,
+            "t": 382.243,
+            "r": 510.094,
+            "b": 360.455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203.",
+      "text": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.293000000000006,
+            "r": 216.805,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2017/03/13/politica/005n2pol",
+      "text": "https://www.jornada.com.mx/2017/03/13/politica/005n2pol"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 755.312,
+            "t": 22.293000000000006,
+            "r": 765.531,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3/3",
+      "text": "3/3"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.263959884643555,
+            "t": 565.439151763916,
+            "r": 231.24398803710938,
+            "b": 525.1718292236328,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 631.0570678710938,
+            "t": 563.933464050293,
+            "r": 764.1128540039062,
+            "b": 540.4547882080078,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 740.274658203125,
+            "t": 493.1312484741211,
+            "r": 759.1898803710938,
+            "b": 473.8133087158203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 3
+    }
+  }
+}

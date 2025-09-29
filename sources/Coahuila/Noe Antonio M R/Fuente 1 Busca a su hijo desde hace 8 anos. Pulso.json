@@ -1,0 +1,608 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Fuente 1 Busca a su hijo desde hace 8 anos. Pulso",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 17697517116436232858,
+    "filename": "Fuente 1 Busca a su hijo desde hace 8 anos. Pulso.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 61.5,
+            "t": 730.133,
+            "r": 482.79,
+            "b": 708.608,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Busca a su hijo Noé, desde hace 8 años",
+      "text": "Busca a su hijo Noé, desde hace 8 años",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 63.0,
+            "t": 698.172,
+            "r": 238.389,
+            "b": 690.001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "PULSO -  Jueves, 10 mayo 2018 03:00 a.m.",
+      "text": "PULSO -  Jueves, 10 mayo 2018 03:00 a.m."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.333333333333336,
+            "t": 681.3333333333334,
+            "r": 188.33333333333334,
+            "b": 647.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "AUTÓNOMA",
+      "text": "AUTÓNOMA"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 302.66666666666663,
+            "t": 682.0,
+            "r": 447.3333333333333,
+            "b": 634.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "DEDE",
+      "text": "DEDE"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 61.333333333333336,
+            "t": 654.6666666666666,
+            "r": 191.0,
+            "b": 627.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "E MORELOS",
+      "text": "E MORELOS"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 462.082,
+            "t": 415.988,
+            "r": 472.936,
+            "b": 407.426,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "A-",
+      "text": "A-"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 61.5,
+            "t": 399.611,
+            "r": 443.179,
+            "b": 370.232,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "Ciudad de México.- Noé Antonio Méndez Romo fue visto por última vez cuando iba a visitar a su novia en Torreón, Coahuila.",
+      "text": "Ciudad de México.- Noé Antonio Méndez Romo fue visto por última vez cuando iba a visitar a su novia en Torreón, Coahuila."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 61.5,
+            "t": 341.111,
+            "r": 360.671,
+            "b": 331.232,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Ya pasaron casi ocho años y aún no hay rastro de él.",
+      "text": "Ya pasaron casi ocho años y aún no hay rastro de él."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 61.5,
+            "t": 302.111,
+            "r": 552.491,
+            "b": 214.23199999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            376
+          ]
+        }
+      ],
+      "orig": "Ana Luisa Romo Díaz, su madre, ha superado la depresión que la mantenía bajo medicamentos y ahora lo busca por todo el país. La señora Romo formó parte del contingente de familiares de víctimas de la inseguridad que desde Coahuila vinieron a la Universidad del Claustro de Sor Juana, en el centro de la Ciudad de México, para la presentación del informe 'Corrupción que mata'.",
+      "text": "Ana Luisa Romo Díaz, su madre, ha superado la depresión que la mantenía bajo medicamentos y ahora lo busca por todo el país. La señora Romo formó parte del contingente de familiares de víctimas de la inseguridad que desde Coahuila vinieron a la Universidad del Claustro de Sor Juana, en el centro de la Ciudad de México, para la presentación del informe 'Corrupción que mata'."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 61.5,
+            "t": 185.111,
+            "r": 418.691,
+            "b": 175.23199999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Noé Antonio Méndez Romo tenía 18 años. Es alto y corpulento.",
+      "text": "Noé Antonio Méndez Romo tenía 18 años. Es alto y corpulento."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 61.5,
+            "t": 146.111,
+            "r": 538.751,
+            "b": 116.73199999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "Vivía en Durango, en los límites con Coahuila. Era desempleado, poco tiempo antes de su desaparición había renunciado a su trabajo en la Plaza Galerías.",
+      "text": "Vivía en Durango, en los límites con Coahuila. Era desempleado, poco tiempo antes de su desaparición había renunciado a su trabajo en la Plaza Galerías."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 61.5,
+            "t": 87.61099999999999,
+            "r": 552.724,
+            "b": 58.23199999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            164
+          ]
+        }
+      ],
+      "orig": "Fue la mañana del 27 de junio de 2010 cuando el apenas adulto acudió a jugar. Regresó al medio día, se arregló y entre las 5:00 o 5:30 de la tarde salió de nuevo de",
+      "text": "Fue la mañana del 27 de junio de 2010 cuando el apenas adulto acudió a jugar. Regresó al medio día, se arregló y entre las 5:00 o 5:30 de la tarde salió de nuevo de"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 482.3333333333333,
+            "t": 665.3333333333334,
+            "r": 553.6666666666667,
+            "b": 609.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "La difi ausen de Na",
+      "text": "La difi ausen de Na",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 483.3333333333333,
+            "t": 596.6666666666667,
+            "r": 551.6666666666667,
+            "b": 563.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 483.3333333333333,
+            "t": 525.3333333333334,
+            "r": 551.3333333333333,
+            "b": 516.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            23,
+            38
+          ]
+        }
+      ],
+      "orig": "cio hareochoano: p los shoralobuscaDor",
+      "text": "cio hareochoano: p los shoralobuscaDor"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 495.435,
+            "t": 415.988,
+            "r": 502.094,
+            "b": 407.426,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "A",
+      "text": "A"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 524.602,
+            "t": 415.988,
+            "r": 539.245,
+            "b": 407.426,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "A+",
+      "text": "A+"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 61.5,
+            "t": 731.959,
+            "r": 551.831,
+            "b": 566.079,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            397
+          ]
+        }
+      ],
+      "orig": "su casa para ir a ver a su novia al municipio de Torreón, Coahuila. El viaje en camión desde su hogar al de su pareja le llevaba alrededor de 45 minutos. 'Mami, ya voy para allá. Te aviso cuando vaya llegando', escribió Noé a su madre a las 9:27 de la noche de ese domingo. 'Desde ahí sigo esperando su siguiente mensaje, su siguiente llamada. Han sido ocho años terribles para mí', narra su mamá.",
+      "text": "su casa para ir a ver a su novia al municipio de Torreón, Coahuila. El viaje en camión desde su hogar al de su pareja le llevaba alrededor de 45 minutos. 'Mami, ya voy para allá. Te aviso cuando vaya llegando', escribió Noé a su madre a las 9:27 de la noche de ese domingo. 'Desde ahí sigo esperando su siguiente mensaje, su siguiente llamada. Han sido ocho años terribles para mí', narra su mamá."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.09856033325195,
+            "t": 677.8499298095703,
+            "r": 472.7409973144531,
+            "b": 444.4410400390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

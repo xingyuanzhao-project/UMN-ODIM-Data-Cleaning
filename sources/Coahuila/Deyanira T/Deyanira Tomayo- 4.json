@@ -1,0 +1,1667 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Deyanira Tomayo- 4",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5720047947801854290,
+    "filename": "Deyanira Tomayo- 4.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.475,
+            "t": 774.5299980273437,
+            "r": 62.094,
+            "b": 767.7329980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "4/25/2019",
+      "text": "4/25/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.049,
+            "t": 772.7409980273437,
+            "r": 31.176,
+            "b": 760.1269980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.166,
+            "t": 767.7159980273437,
+            "r": 210.49,
+            "b": 758.6799980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "(https://twitter.com/rancheritaxemu)",
+      "text": "(https://twitter.com/rancheritaxemu)"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.475,
+            "t": 774.5299980273437,
+            "r": 62.094,
+            "b": 767.7329980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "4/25/2019",
+      "text": "4/25/2019"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 132.296,
+            "t": 774.5299980273437,
+            "r": 545.059,
+            "b": 767.7329980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "\"Estuve en el sistema por 12 años y sé de lo que son capaces\": Ex policía Deyanira Tamayo | La Rancherita del Aire",
+      "text": "\"Estuve en el sistema por 12 años y sé de lo que son capaces\": Ex policía Deyanira Tamayo | La Rancherita del Aire"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.049,
+            "t": 772.7409980273437,
+            "r": 31.176,
+            "b": 760.1269980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.166,
+            "t": 767.7159980273437,
+            "r": 210.49,
+            "b": 758.6799980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "(https://twitter.com/rancheritaxemu)",
+      "text": "(https://twitter.com/rancheritaxemu)"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 215.556,
+            "t": 772.7409980273437,
+            "r": 228.683,
+            "b": 760.1269980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 228.672,
+            "t": 767.7159980273437,
+            "r": 452.52,
+            "b": 758.6799980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "(https://www.facebook.com/rancheritadelaire)",
+      "text": "(https://www.facebook.com/rancheritadelaire)"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 13.0,
+            "t": 744.8099980273437,
+            "r": 423.287,
+            "b": 736.5439980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "Escúchanos en tu reproductor: (https://rancherita.com.mx/components/transmision/envivo.asx)",
+      "text": "Escúchanos en tu reproductor: (https://rancherita.com.mx/components/transmision/envivo.asx)"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.464,
+            "t": 730.6729980273437,
+            "r": 290.762,
+            "b": 722.4069980273438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "(https://rancherita.com.mx/components/transmision/listen.m3u)",
+      "text": "(https://rancherita.com.mx/components/transmision/listen.m3u)"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.306,
+            "t": 730.6729980273437,
+            "r": 573.643,
+            "b": 722.4069980273438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "(https://rancherita.com.mx/components/transmision/playlist.qtl)",
+      "text": "(https://rancherita.com.mx/components/transmision/playlist.qtl)"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.464,
+            "t": 716.5359980273437,
+            "r": 294.667,
+            "b": 708.2699980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "(https://rancherita.com.mx/components/transmision/playlist.ram)",
+      "text": "(https://rancherita.com.mx/components/transmision/playlist.ram)"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 13.0,
+            "t": 513.2509980273437,
+            "r": 149.025,
+            "b": 504.21599802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "(https://rancherita.com.mx/)",
+      "text": "(https://rancherita.com.mx/)"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 13.631,
+            "t": 480.91999802734375,
+            "r": 221.852,
+            "b": 472.65399802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "NOTICIAS (HTTPS://RANCHERITA.COM.MX/NOTICIAS.HTML)",
+      "text": "NOTICIAS (HTTPS://RANCHERITA.COM.MX/NOTICIAS.HTML)"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 242.063,
+            "t": 480.91999802734375,
+            "r": 590.126,
+            "b": 472.65399802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "PIEDRAS NEGRAS (HTTPS://RANCHERITA.COM.MX/NOTICIAS/CATEGORIA/2/PIEDRAS-NEGRAS.HTML)",
+      "text": "PIEDRAS NEGRAS (HTTPS://RANCHERITA.COM.MX/NOTICIAS/CATEGORIA/2/PIEDRAS-NEGRAS.HTML)"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 13.631,
+            "t": 450.62699802734375,
+            "r": 316.914,
+            "b": 442.3609980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "POLICIACA (HTTPS://RANCHERITA.COM.MX/NOTICIAS/CATEGORIA/7/POLICIACA.HTML)",
+      "text": "POLICIACA (HTTPS://RANCHERITA.COM.MX/NOTICIAS/CATEGORIA/7/POLICIACA.HTML)"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 13.631,
+            "t": 420.33299802734376,
+            "r": 323.479,
+            "b": 412.06699802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "EAGLE PASS (HTTPS://RANCHERITA.COM.MX/NOTICIAS/CATEGORIA/4/EAGLE-PASS.HTML)",
+      "text": "EAGLE PASS (HTTPS://RANCHERITA.COM.MX/NOTICIAS/CATEGORIA/4/EAGLE-PASS.HTML)"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 13.631,
+            "t": 390.03999802734376,
+            "r": 369.079,
+            "b": 381.77399802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "REGION Y ESTADO (HTTPS://RANCHERITA.COM.MX/NOTICIAS/CATEGORIA/3/REGION-Y-ESTADO.HTML)",
+      "text": "REGION Y ESTADO (HTTPS://RANCHERITA.COM.MX/NOTICIAS/CATEGORIA/3/REGION-Y-ESTADO.HTML)"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 13.631,
+            "t": 359.7459980273437,
+            "r": 393.546,
+            "b": 351.47999802734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "MEXICO Y EL MUNDO (HTTPS://RANCHERITA.COM.MX/NOTICIAS/CATEGORIA/5/MEXICO-Y-EL-MUNDO.HTML)",
+      "text": "MEXICO Y EL MUNDO (HTTPS://RANCHERITA.COM.MX/NOTICIAS/CATEGORIA/5/MEXICO-Y-EL-MUNDO.HTML)"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 505.731,
+            "t": 329.5009980273437,
+            "r": 597.371,
+            "b": 320.3159980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Jueves 25 de Abril 2019",
+      "text": "Jueves 25 de Abril 2019"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 22.467,
+            "t": 302.54299802734374,
+            "r": 323.355,
+            "b": 293.5079980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "La Rancherita del Aire, desde Piedras Negras, Coahuila, México",
+      "text": "La Rancherita del Aire, desde Piedras Negras, Coahuila, México"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 23.098,
+            "t": 693.6469980273438,
+            "r": 410.101,
+            "b": 685.3809980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "INICIO (HTTPS://RANCHERITA.COM.MX/) COBERTURA (HTTPS://RANCHERITA.COM.MX/COBERTURA.HTML)",
+      "text": "INICIO (HTTPS://RANCHERITA.COM.MX/) COBERTURA (HTTPS://RANCHERITA.COM.MX/COBERTURA.HTML)"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 23.098,
+            "t": 663.3539980273438,
+            "r": 282.275,
+            "b": 655.0879980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "PROGRAMACIÓN (HTTPS://RANCHERITA.COM.MX/PROGRAMACION.HTML)",
+      "text": "PROGRAMACIÓN (HTTPS://RANCHERITA.COM.MX/PROGRAMACION.HTML)"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 302.481,
+            "t": 663.3539980273438,
+            "r": 523.887,
+            "b": 655.0879980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "LOCUTORES (HTTPS://RANCHERITA.COM.MX/LOCUTORES.HTML)",
+      "text": "LOCUTORES (HTTPS://RANCHERITA.COM.MX/LOCUTORES.HTML)"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 23.098,
+            "t": 633.0599980273437,
+            "r": 249.606,
+            "b": 624.7949980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "PUBLICIDAD (HTTPS://RANCHERITA.COM.MX/PUBLICIDAD.HTML)",
+      "text": "PUBLICIDAD (HTTPS://RANCHERITA.COM.MX/PUBLICIDAD.HTML)"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 269.821,
+            "t": 633.0599980273437,
+            "r": 529.643,
+            "b": 624.7949980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "SERVICIO SOCIAL (HTTPS://RANCHERITA.COM.MX/SERVICIO-SOCIAL.HTML)",
+      "text": "SERVICIO SOCIAL (HTTPS://RANCHERITA.COM.MX/SERVICIO-SOCIAL.HTML)"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 23.098,
+            "t": 602.7669980273438,
+            "r": 230.264,
+            "b": 594.5009980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "EL CLIMA (HTTPS://RANCHERITA.COM.MX/EL-CLIMA.HTML)",
+      "text": "EL CLIMA (HTTPS://RANCHERITA.COM.MX/EL-CLIMA.HTML)"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 250.477,
+            "t": 602.7669980273438,
+            "r": 466.362,
+            "b": 594.5009980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "CONTACTO (HTTPS://RANCHERITA.COM.MX/CONTACTO.HTML)",
+      "text": "CONTACTO (HTTPS://RANCHERITA.COM.MX/CONTACTO.HTML)"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.475,
+            "t": 22.023998027343737,
+            "r": 562.679,
+            "b": 15.116998027343698,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "https://rancherita.com.mx/noticias/detalles/52477/estuve-en-el-sistema-por--anos-y-se-de-lo-que-son-capaces-ex-policia-deyanira-tamayo.html#.XMJ…",
+      "text": "https://rancherita.com.mx/noticias/detalles/52477/estuve-en-el-sistema-por--anos-y-se-de-lo-que-son-capaces-ex-policia-deyanira-tamayo.html#.XMJ…"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 573.876,
+            "t": 21.9149980273437,
+            "r": 584.99,
+            "b": 15.116998027343698,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/4",
+      "text": "1/4"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 215.556,
+            "t": 772.7409980273437,
+            "r": 228.683,
+            "b": 760.1269980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.483,
+            "t": 763.0039980273438,
+            "r": 106.299,
+            "b": 753.9679980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "POLICIACA 22 JUN-18",
+      "text": "POLICIACA 22 JUN-18"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.475,
+            "t": 774.5299980273437,
+            "r": 62.094,
+            "b": 767.7329980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "4/25/2019",
+      "text": "4/25/2019"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 132.296,
+            "t": 774.5299980273437,
+            "r": 545.059,
+            "b": 767.7329980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "\"Estuve en el sistema por 12 años y sé de lo que son capaces\": Ex policía Deyanira Tamayo | La Rancherita del Aire",
+      "text": "\"Estuve en el sistema por 12 años y sé de lo que son capaces\": Ex policía Deyanira Tamayo | La Rancherita del Aire"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 23.098,
+            "t": 743.3789980273438,
+            "r": 549.764,
+            "b": 712.1579980273438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "\"Estuve en el sistema por 12 años y sé de lo que son capaces\": Ex policía Deyanira Tamayo",
+      "text": "\"Estuve en el sistema por 12 años y sé de lo que son capaces\": Ex policía Deyanira Tamayo",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.464,
+            "t": 674.3739980273438,
+            "r": 580.797,
+            "b": 620.7989980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            402
+          ]
+        }
+      ],
+      "orig": "A horas de presentarse ante la Fiscalía General del Estado (FGE) para comparecer por la denuncia presentada por su desaparición y donde denunció haber sido privada de su libertad, torturada y amenazada; Deyanira Tamayo Abrego reveló en una entrevista, que dichas acciones fueron realizadas por agentes de corporaciones de seguridad y la forma en como investigan el homicidio de Fernando Purón Johnston.",
+      "text": "A horas de presentarse ante la Fiscalía General del Estado (FGE) para comparecer por la denuncia presentada por su desaparición y donde denunció haber sido privada de su libertad, torturada y amenazada; Deyanira Tamayo Abrego reveló en una entrevista, que dichas acciones fueron realizadas por agentes de corporaciones de seguridad y la forma en como investigan el homicidio de Fernando Purón Johnston."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.464,
+            "t": 600.3239980273437,
+            "r": 566.66,
+            "b": 546.7479980273438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            327
+          ]
+        }
+      ],
+      "orig": "Hasta el momento de su desaparición Deyanira Tamayo se desempeñaba como supervisora en una empresa de seguridad privada en Ciudad Acuña, donde fue privada de su libertad la semana pasada, cuando se encontraba trabajando. Cabe mencionar que Tamayo Abrego perteneció por 12 años a la policía investigadora del Estado de Coahuila.",
+      "text": "Hasta el momento de su desaparición Deyanira Tamayo se desempeñaba como supervisora en una empresa de seguridad privada en Ciudad Acuña, donde fue privada de su libertad la semana pasada, cuando se encontraba trabajando. Cabe mencionar que Tamayo Abrego perteneció por 12 años a la policía investigadora del Estado de Coahuila."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.464,
+            "t": 526.2729980273438,
+            "r": 584.163,
+            "b": 487.5079980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            272
+          ]
+        }
+      ],
+      "orig": "En su relato, Deyanira Tamayo refiere que al transitar por las calles de Ciudad Acuña en su actividad como supervisora fue interceptada por dos vehículos particulares, de los cuáles descendieron varias personas y la bajaron con lujo de violencia de la unidad que conducía.",
+      "text": "En su relato, Deyanira Tamayo refiere que al transitar por las calles de Ciudad Acuña en su actividad como supervisora fue interceptada por dos vehículos particulares, de los cuáles descendieron varias personas y la bajaron con lujo de violencia de la unidad que conducía."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.464,
+            "t": 467.03299802734375,
+            "r": 581.47,
+            "b": 428.26699802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            307
+          ]
+        }
+      ],
+      "orig": "La ex agente de la policía investigadora refiere haber reconocido al menos a tres de las personas que la privaron de su libertad, refiere que uno de ellos pertenece a la policía municipal de Ciudad Acuña y los otros dos, los identifica plenamente como personas que laboran en el Grupo de Operación Especial.",
+      "text": "La ex agente de la policía investigadora refiere haber reconocido al menos a tres de las personas que la privaron de su libertad, refiere que uno de ellos pertenece a la policía municipal de Ciudad Acuña y los otros dos, los identifica plenamente como personas que laboran en el Grupo de Operación Especial."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.464,
+            "t": 407.7919980273437,
+            "r": 559.928,
+            "b": 383.8369980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "Detalla que la sometieron, la subieron a otro vehículo, le vendaron los ojos y la trajeron paseando por terracería hasta llegar a un lugar que ubica como despoblado, donde comenzaron a golpearla.",
+      "text": "Detalla que la sometieron, la subieron a otro vehículo, le vendaron los ojos y la trajeron paseando por terracería hasta llegar a un lugar que ubica como despoblado, donde comenzaron a golpearla."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.464,
+            "t": 363.36199802734376,
+            "r": 568.006,
+            "b": 309.78599802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            335
+          ]
+        }
+      ],
+      "orig": "'Me preguntaban que dijera nombres de policías, ex policías que pudieran estar vinculados y que pudieran haber participado en el homicidio del licenciado Purón y yo les conteste que estaban con la persona equivocada, que tenían que hacer sus investigaciones y me empezaron a golpear, me golpearon con un barrote', relató Tamayo Abrego.",
+      "text": "'Me preguntaban que dijera nombres de policías, ex policías que pudieran estar vinculados y que pudieran haber participado en el homicidio del licenciado Purón y yo les conteste que estaban con la persona equivocada, que tenían que hacer sus investigaciones y me empezaron a golpear, me golpearon con un barrote', relató Tamayo Abrego."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.464,
+            "t": 289.3109980273437,
+            "r": 583.49,
+            "b": 250.54599802734378,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            252
+          ]
+        }
+      ],
+      "orig": "La ex agente de la policía investigadora refirió que posteriormente la trasladaron a otro lugar, en donde presume que la dieron por muerta debido a los golpes que recibió y porque le realizaron un disparo; aunque desconoce cómo es que fallaron el tiro.",
+      "text": "La ex agente de la policía investigadora refirió que posteriormente la trasladaron a otro lugar, en donde presume que la dieron por muerta debido a los golpes que recibió y porque le realizaron un disparo; aunque desconoce cómo es que fallaron el tiro."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.464,
+            "t": 230.07099802734376,
+            "r": 580.124,
+            "b": 176.49499802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            354
+          ]
+        }
+      ],
+      "orig": "Refirió que fue alrededor de las tres de la mañana cuando recobró el conocimiento, se levantó y pese a encontrarse descalza, se dirigió a la carretera y fue auxiliada por una persona que la ayudó a trasladarse a la ciudad de Monclova ante el temor generado. Señaló que el paraje en donde la dejaron tirada y la dieron por muerta fue en el ejido El Moral.",
+      "text": "Refirió que fue alrededor de las tres de la mañana cuando recobró el conocimiento, se levantó y pese a encontrarse descalza, se dirigió a la carretera y fue auxiliada por una persona que la ayudó a trasladarse a la ciudad de Monclova ante el temor generado. Señaló que el paraje en donde la dejaron tirada y la dieron por muerta fue en el ejido El Moral."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.464,
+            "t": 156.01999802734372,
+            "r": 578.777,
+            "b": 132.0649980273438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "Entre las lesiones que presenta Deyanira Tamayo, se encuentra un esguince cervical, fractura de su dedo índice de la mano derecha, así como diversos hematomas en diferentes partes del cuerpo.",
+      "text": "Entre las lesiones que presenta Deyanira Tamayo, se encuentra un esguince cervical, fractura de su dedo índice de la mano derecha, así como diversos hematomas en diferentes partes del cuerpo."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.464,
+            "t": 111.58999802734377,
+            "r": 586.856,
+            "b": 72.82399802734369,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "'Me quedo sin palabras. Pertenecía al sistema durante 12 años y sé de lo que son capaces y las órdenes de obedecen, así como me decían antes a mí', respondió Deyanira Tamayo al cuestionarle su opinión sobre el actuar de sus ex compañeros.",
+      "text": "'Me quedo sin palabras. Pertenecía al sistema durante 12 años y sé de lo que son capaces y las órdenes de obedecen, así como me decían antes a mí', respondió Deyanira Tamayo al cuestionarle su opinión sobre el actuar de sus ex compañeros."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.475,
+            "t": 22.023998027343737,
+            "r": 562.679,
+            "b": 15.116998027343698,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "https://rancherita.com.mx/noticias/detalles/52477/estuve-en-el-sistema-por--anos-y-se-de-lo-que-son-capaces-ex-policia-deyanira-tamayo.html#.XMJ…",
+      "text": "https://rancherita.com.mx/noticias/detalles/52477/estuve-en-el-sistema-por--anos-y-se-de-lo-que-son-capaces-ex-policia-deyanira-tamayo.html#.XMJ…"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 573.876,
+            "t": 21.9149980273437,
+            "r": 584.99,
+            "b": 15.116998027343698,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2/4",
+      "text": "2/4"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 16.684497833251953,
+            "t": 776.2031230926514,
+            "r": 211.5662078857422,
+            "b": 757.9116516113281,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 11.555756568908691,
+            "t": 735.141918182373,
+            "r": 28.568912506103516,
+            "b": 705.1419906616211,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 144.89195251464844,
+            "t": 749.7060012817383,
+            "r": 161.05397033691406,
+            "b": 733.7473602294922,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 296.4713439941406,
+            "t": 734.5380706787109,
+            "r": 313.28985595703125,
+            "b": 719.593132019043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 213.27589416503906,
+            "t": 775.0188598632812,
+            "r": 229.65060424804688,
+            "b": 759.2819156646729,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 611.0399780273438,
+        "height": 791.0399780273438
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 611.0399780273438,
+        "height": 791.0399780273438
+      },
+      "page_no": 2
+    }
+  }
+}

@@ -1,0 +1,780 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Geografía del dolor_, historias de desaparecidos en México",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15352024791154135970,
+    "filename": "Geografía del dolor_, historias de desaparecidos en México.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 236.249,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "'Geografía del dolor', historias de desaparecidos en México",
+      "text": "'Geografía del dolor', historias de desaparecidos en México"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.646,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "https://www.milenio.com/cultura/geografia-del-dolor-historias-de-desapa...",
+      "text": "https://www.milenio.com/cultura/geografia-del-dolor-historias-de-desapa..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 406.707,
+            "b": 687.918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "'Geografía del dolor', historias de desaparecidos en México",
+      "text": "'Geografía del dolor', historias de desaparecidos en México",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.04,
+            "t": 659.317,
+            "r": 165.759,
+            "b": 650.057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Emiliano Balerini",
+      "text": "Emiliano Balerini"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 622.502,
+            "r": 530.4,
+            "b": 585.434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            248
+          ]
+        }
+      ],
+      "orig": "Geografía del dolor es un retrato de los desaparecidos en México. El proyecto de Mónica González, Javier García, Iván Castaneira y Alejandra Saavedra fue presentado ayer a las 17:00 horas, en la Facultad de Ciencias Políticas y Sociales de la UNAM.",
+      "text": "Geografía del dolor es un retrato de los desaparecidos en México. El proyecto de Mónica González, Javier García, Iván Castaneira y Alejandra Saavedra fue presentado ayer a las 17:00 horas, en la Facultad de Ciencias Políticas y Sociales de la UNAM."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 570.179,
+            "r": 528.63,
+            "b": 506.236,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            382
+          ]
+        }
+      ],
+      "orig": "Hasta el lugar llegaron familiares de desaparecidos, como Ivone Ramírez Alvarado, hermana de Mónica Alejandra Ramírez Alvarado, secuestrada el 14 de diciembre de 2004; también Brenda Rangel Ortiz, quien es hermana de Héctor Rangel Ortiz, quien fue secuestrado en Monclova, Coahuila, el 10 de noviembre de 2009, junto con sus amigos Milton Hugo Aguilar Torres e Irene Lugo Hernández.",
+      "text": "Hasta el lugar llegaron familiares de desaparecidos, como Ivone Ramírez Alvarado, hermana de Mónica Alejandra Ramírez Alvarado, secuestrada el 14 de diciembre de 2004; también Brenda Rangel Ortiz, quien es hermana de Héctor Rangel Ortiz, quien fue secuestrado en Monclova, Coahuila, el 10 de noviembre de 2009, junto con sus amigos Milton Hugo Aguilar Torres e Irene Lugo Hernández."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 491.102,
+            "r": 526.242,
+            "b": 454.035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "El proyecto -que se divide en un web documental, un libro y una exposición fotográfica- surgió cuando Mónica cubrió como fotógrafa de MILENIO la Caravana por la Paz con Justicia y Dignidad que encabezó hace tres años el poeta Javier Sicilia.",
+      "text": "El proyecto -que se divide en un web documental, un libro y una exposición fotográfica- surgió cuando Mónica cubrió como fotógrafa de MILENIO la Caravana por la Paz con Justicia y Dignidad que encabezó hace tres años el poeta Javier Sicilia."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 438.901,
+            "r": 499.631,
+            "b": 401.834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            231
+          ]
+        }
+      ],
+      "orig": "González -quien ganó el Premio Nacional de Periodismo con este trabajo en la Caravana- se encontró con historias de personas desaparecidas, secuestradas o asesinadas, lo que la impulsó, junto a sus compañeros, a difundir los casos.",
+      "text": "González -quien ganó el Premio Nacional de Periodismo con este trabajo en la Caravana- se encontró con historias de personas desaparecidas, secuestradas o asesinadas, lo que la impulsó, junto a sus compañeros, a difundir los casos."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 386.577,
+            "r": 522.25,
+            "b": 309.311,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            448
+          ]
+        }
+      ],
+      "orig": "Al iniciar el trabajo, la fotógrafa le pidió a la gente que no solo le dieran sus datos para contactarlos, sino que escribieran frases que le dirían a sus desaparecidos en distintas postales: \"Dos de las que más me impactaron fueron la de un niño de Durango que escribió: 'No entiendo por qué la gente mata', y otra de de una chica de Xalapa, Veracruz, que me pidió varias postales para narrar lo que sentía por el secuestro de su hija de 17 años\".",
+      "text": "Al iniciar el trabajo, la fotógrafa le pidió a la gente que no solo le dieran sus datos para contactarlos, sino que escribieran frases que le dirían a sus desaparecidos en distintas postales: \"Dos de las que más me impactaron fueron la de un niño de Durango que escribió: 'No entiendo por qué la gente mata', y otra de de una chica de Xalapa, Veracruz, que me pidió varias postales para narrar lo que sentía por el secuestro de su hija de 17 años\"."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 294.061,
+            "r": 531.754,
+            "b": 230.236,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            378
+          ]
+        }
+      ],
+      "orig": "\"Nosotros queremos documentar cómo se sobrepone ese niño de siete años, que sabe que su papá apareció encobijado; cómo se sobrepone una madre soltera a la que le secuestraron a su hija en Tamaulipas; queremos contar la historia de lo que pasa anímica, económica, socialmente en estas familias que se quedan en una atmósfera de violencia, soledad y ausencia\", dice en entrevista.",
+      "text": "\"Nosotros queremos documentar cómo se sobrepone ese niño de siete años, que sabe que su papá apareció encobijado; cómo se sobrepone una madre soltera a la que le secuestraron a su hija en Tamaulipas; queremos contar la historia de lo que pasa anímica, económica, socialmente en estas familias que se quedan en una atmósfera de violencia, soledad y ausencia\", dice en entrevista.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 214.97800000000007,
+            "r": 383.669,
+            "b": 204.79200000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "-¿Cómo se acercaron a las familias de los desaparecidos?",
+      "text": "-¿Cómo se acercaron a las familias de los desaparecidos?",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 189.65800000000002,
+            "r": 525.458,
+            "b": 139.14800000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            285
+          ]
+        }
+      ],
+      "orig": "-Lo que intentamos hacer, de manera sutil, es convencerlos de que es momento de contar lo que pasa actualmente. Hubo familiares que se acercaron a nosotros, hubo a quien contactamos en el Foro de Desaparición Forzada, en Saltillo, Coahuila. Hubo un voto de confianza a nuestro trabajo.",
+      "text": "-Lo que intentamos hacer, de manera sutil, es convencerlos de que es momento de contar lo que pasa actualmente. Hubo familiares que se acercaron a nosotros, hubo a quien contactamos en el Foro de Desaparición Forzada, en Saltillo, Coahuila. Hubo un voto de confianza a nuestro trabajo.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 123.89800000000002,
+            "r": 496.981,
+            "b": 100.27200000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "-¿En los casos que documentan hay personas desaparecidas por elementos del Estado o todas son producto de la lucha contra el narcotráfico?",
+      "text": "-¿En los casos que documentan hay personas desaparecidas por elementos del Estado o todas son producto de la lucha contra el narcotráfico?",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 85.13800000000003,
+            "r": 527.347,
+            "b": 48.072,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            247
+          ]
+        }
+      ],
+      "orig": "-Hay dos casos específicos de desaparición forzada en los que están metidos policías estatales: el de Héctor Rangel, quien fue visto por última vez detenido por policías de Coahuila, y el de Julio Alonso, quien en el momento de ser secuestrado iba",
+      "text": "-Hay dos casos específicos de desaparición forzada en los que están metidos policías estatales: el de Héctor Rangel, quien fue visto por última vez detenido por policías de Coahuila, y el de Julio Alonso, quien en el momento de ser secuestrado iba",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 2",
+      "text": "1 of 2"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:38 AM",
+      "text": "9/13/2019, 8:38 AM"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 236.249,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "'Geografía del dolor', historias de desaparecidos en México",
+      "text": "'Geografía del dolor', historias de desaparecidos en México"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.646,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "https://www.milenio.com/cultura/geografia-del-dolor-historias-de-desapa...",
+      "text": "https://www.milenio.com/cultura/geografia-del-dolor-historias-de-desapa..."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 753.298,
+            "r": 527.549,
+            "b": 702.796,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            335
+          ]
+        }
+      ],
+      "orig": "acompañado por un chico que estaba involucrado con un cártel. Como la familia de Julio lo sabía, denunció el caso ante el Ministerio Público, y éste los citó con La Burra , un jefe de plaza en Monterrey, que les pidió dinero para dejarlo libre. Esto solo retrata la descomposición de las instituciones en México y de la misma sociedad.",
+      "text": "acompañado por un chico que estaba involucrado con un cártel. Como la familia de Julio lo sabía, denunció el caso ante el Ministerio Público, y éste los citó con La Burra , un jefe de plaza en Monterrey, que les pidió dinero para dejarlo libre. Esto solo retrata la descomposición de las instituciones en México y de la misma sociedad."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 687.662,
+            "r": 499.904,
+            "b": 650.595,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            164
+          ]
+        }
+      ],
+      "orig": "-¿A qué crees que se deba que hoy en día se han mostrado ante los medios los desaparecidos actuales, cuando hay organizaciones que han documentado casos desde 1969?",
+      "text": "-¿A qué crees que se deba que hoy en día se han mostrado ante los medios los desaparecidos actuales, cuando hay organizaciones que han documentado casos desde 1969?",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 635.339,
+            "r": 531.505,
+            "b": 463.995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            996
+          ]
+        }
+      ],
+      "orig": "-Hay una nueva práctica de olvidar la historia, de no aprender de los ciclos, de no saber lo que sucede. Justo por eso empezó este proyecto. Cuando estaba documentándome al respecto, leí un libro sobre Rosendo Radilla, secuestrado el 25 de agosto de 1974 en Guerrero. En el texto, la persona que lo escribe dice: 'Si hubiera tenido acceso a la esposa de Rosendo antes de que muriera, hubiera conocido de primera mano la historia'. Esto fue fundamental para que nosotros saliéramos a las casas, a las ciudades, a los estados a buscar a las personas. No queremos esperar otros 30 años para documentar lo que pasa en el país. Es ahora que los periodistas tenemos que salir a recuperar la información. ¿Cuál es el motivo de que no se hable de la desaparición? Ahora mismo hay 47 normalistas desaparecidos, muchachos que querían ser maestros. No son cifras, son familias que no saben donde están sus hijos. No es una cuestión de tiempo, sino de acción. Algo se tiene que mover, se tiene que organizar.",
+      "text": "-Hay una nueva práctica de olvidar la historia, de no aprender de los ciclos, de no saber lo que sucede. Justo por eso empezó este proyecto. Cuando estaba documentándome al respecto, leí un libro sobre Rosendo Radilla, secuestrado el 25 de agosto de 1974 en Guerrero. En el texto, la persona que lo escribe dice: 'Si hubiera tenido acceso a la esposa de Rosendo antes de que muriera, hubiera conocido de primera mano la historia'. Esto fue fundamental para que nosotros saliéramos a las casas, a las ciudades, a los estados a buscar a las personas. No queremos esperar otros 30 años para documentar lo que pasa en el país. Es ahora que los periodistas tenemos que salir a recuperar la información. ¿Cuál es el motivo de que no se hable de la desaparición? Ahora mismo hay 47 normalistas desaparecidos, muchachos que querían ser maestros. No son cifras, son familias que no saben donde están sus hijos. No es una cuestión de tiempo, sino de acción. Algo se tiene que mover, se tiene que organizar."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2 of 2",
+      "text": "2 of 2"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:38 AM",
+      "text": "9/13/2019, 8:38 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

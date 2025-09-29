@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Resguarda Chilpancingo el Ejército",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 16491855329246202559,
+    "filename": "Resguarda Chilpancingo el Ejército.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.17905234375,
+            "r": 632.273,
+            "b": 566.40705234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            402
+          ]
+        }
+      ],
+      "orig": "Resguarda Chilpancingo el Ejército edición impresa 0 NACIONAL Resguarda Chilpancingo el Ejército Jesús Guerrero (05 enero 2018) .-00:00 hrs Fuerzas federales tomaron el control de Chilpancingo. Crédito: EFE El Ejército, y la Policía Federal y Estatal de Guerrero asumieron ayer el control de la seguridad en las calles de esta ciudad. CONTENIDO RELACIONADO Indagan a SSP-Chilpancingo por asesinato de 2",
+      "text": "Resguarda Chilpancingo el Ejército edición impresa 0 NACIONAL Resguarda Chilpancingo el Ejército Jesús Guerrero (05 enero 2018) .-00:00 hrs Fuerzas federales tomaron el control de Chilpancingo. Crédito: EFE El Ejército, y la Policía Federal y Estatal de Guerrero asumieron ayer el control de la seguridad en las calles de esta ciudad. CONTENIDO RELACIONADO Indagan a SSP-Chilpancingo por asesinato de 2"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Se los ha llevado una autoridad'",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13777781375325373006,
+    "filename": "Se los ha llevado una autoridad'.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 690.3150197070313,
+            "r": 632.273,
+            "b": 6.918019707031249,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5742
+          ]
+        }
+      ],
+      "orig": "'); document.write(' '); } else { document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' Grupo Reforma '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' PÁGINA NO ENCONTRADA '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' La página solicitada '); document.write(' no está disponible '); document.write(' en '+sitecom+' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' regresar '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); if ( site == \"elnorte\" ) document.write( '© Derechos Reservados 2008 Editora El Sol, S. A. de C. V.' ); if ( site == \"reforma\" ) document.write( '© Derechos Reservados 2008 C.I.C.S.A.' ); if ( site == \"mural\" ) document.write( '© Derechos Reservados 2008 C.I.C.S.A.' ); document.write(' '); document.write(' '); document.write(' Aviso Legal'); document.write(' '); document.write(' '); document.write(' Aviso de Privacidad'); document.write(' '); document.write(' '); } } if( tipocom == 3 ) { // movil dominio = \"movil.\" + sitecom + \"\"; document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' PÁGINA NO ENCONTRADA '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' La página solicitada '); document.write(' no está disponible '); document.write(' en '+sitecom+' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' regresar '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); } if( tipocom == 4 ) { // Cancha document.write(' '); document.write(' grupo reforma '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' Página no encontrada '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); } if( tipocom == 5 ) { // Elviernesnocuesta document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' grupo reforma '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' PÁGINA NO ENCONTRADA '); document.write(' '); document.write(' regresar '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); } if( tipocom == 6 ) { // negocios document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' grupo reforma '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' Página no encontrada '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); } document.write(\" \"); if( tipocom != 2) document.write(\" dummyhtm9 \"); else document.write(\" dummyhtm9movil \"); } function getCookieVal(offset) { var endstr = document.cookie.indexOf (\";\", offset); if (endstr == -1) endstr = document.cookie.length; return unescape(document.cookie.substring(offset, endstr)); } function Get_Cookie(name) { var arg = name + \"=\"; var alen = arg.length; var clen = document.cookie.length; var i =0; while (i = 2 ) { switch( hostname[1] ) { case \"elnorte\": com = com + 2; site = \"elnorte\";",
+      "text": "'); document.write(' '); } else { document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' Grupo Reforma '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' PÁGINA NO ENCONTRADA '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' La página solicitada '); document.write(' no está disponible '); document.write(' en '+sitecom+' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' regresar '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); if ( site == \"elnorte\" ) document.write( '© Derechos Reservados 2008 Editora El Sol, S. A. de C. V.' ); if ( site == \"reforma\" ) document.write( '© Derechos Reservados 2008 C.I.C.S.A.' ); if ( site == \"mural\" ) document.write( '© Derechos Reservados 2008 C.I.C.S.A.' ); document.write(' '); document.write(' '); document.write(' Aviso Legal'); document.write(' '); document.write(' '); document.write(' Aviso de Privacidad'); document.write(' '); document.write(' '); } } if( tipocom == 3 ) { // movil dominio = \"movil.\" + sitecom + \"\"; document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' PÁGINA NO ENCONTRADA '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' La página solicitada '); document.write(' no está disponible '); document.write(' en '+sitecom+' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' regresar '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); } if( tipocom == 4 ) { // Cancha document.write(' '); document.write(' grupo reforma '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' Página no encontrada '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); } if( tipocom == 5 ) { // Elviernesnocuesta document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' grupo reforma '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' PÁGINA NO ENCONTRADA '); document.write(' '); document.write(' regresar '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); } if( tipocom == 6 ) { // negocios document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' grupo reforma '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' Página no encontrada '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); document.write(' '); } document.write(\" \"); if( tipocom != 2) document.write(\" dummyhtm9 \"); else document.write(\" dummyhtm9movil \"); } function getCookieVal(offset) { var endstr = document.cookie.indexOf (\";\", offset); if (endstr == -1) endstr = document.cookie.length; return unescape(document.cookie.substring(offset, endstr)); } function Get_Cookie(name) { var arg = name + \"=\"; var alen = arg.length; var clen = document.cookie.length; var i =0; while (i = 2 ) { switch( hostname[1] ) { case \"elnorte\": com = com + 2; site = \"elnorte\";"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.52305234375,
+            "r": 632.273,
+            "b": 247.20105234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3035
+          ]
+        }
+      ],
+      "orig": "msite = \"norte\"; idProducto = 2; sitecom = \"elnorte.com\"; break; case \"reforma\": com = com + 3; site = \"reforma\"; msite = \"reforma\"; idProducto = 3; sitecom = \"reforma.com\"; break; case \"mural\": com = com + 5; site = \"mural\"; msite = \"mural\"; idProducto = 5; sitecom = \"mural.com.mx\"; break; case \"cancha\": com = com + 1; plaza = 1; grcidfte = Get_Cookie(\"grcidfte\"); plaza=grcidfte==102?2:grcidfte==103?3:1; site = \"cancha\"; msite = \"cancha\"; sitecom = \"cancha.com\"; tipocom=tipocom==2||tipocom==3?tipocom:4; break; case \"negocioselnorte\": com = com + 4; plaza = 1; site = \"negocioselnorte\"; msite = \"norte\"; sitecom = \"negocioselnorte.com\"; tipocom=6; break; case \"negociosreforma\": com = com + 4; plaza = 2; site = \"negociosreforma\"; msite = \"reforma\"; sitecom = \"negociosreforma.com\"; tipocom=6; break; case \"negociosmural\": com = com + 4; plaza = 3; site = \"negociosmural\"; msite = \"mural\"; sitecom = \"negociosmural.com.mx\"; tipocom=6; break; case \"avisosdeocasion\": com = 0; plaza = 4; site = \"elnorte\"; msite = \"norte\"; sitecom = \"elnorte.com\"; tipocom = 1; dominio=\"www.elnorte.com\"; break; case \"elviernesnocuesta\": com = 0; plaza = 5; site = \"elviernesnocuesta\"; msite = \"elviernesnocuesta\"; sitecom = \"elviernesnocuesta.com\"; tipocom = 5; break; case \"gruporeforma\": com = 6; site = \"reforma\"; msite = \"reforma\"; sitecom = \"reforma.com\"; break; } } if(com==1||com==21||com==31) { var grcidfte = Get_Cookie(\"grcidfte\"); switch( grcidfte ) { case \"101\": site=\"cancha\"; msite = \"norte\"; sitecom = \"cancha.com\"; break; case \"102\": site=\"cancha\"; msite = \"reforma\"; sitecom = \"cancha.com\"; break; case \"103\": site=\"cancha\"; msite = \"mural\"; sitecom = \"cancha.com\"; break; case null: site=\"cancha\"; msite = \"reforma\"; sitecom = \"cancha.com\"; break; } } if(com==4||com==24||com==34) { var grcidfte = Get_Cookie(\"grcidfte\"); switch( grcidfte ) { case \"101\": site=\"negocioselnorte\"; msite = \"norte\"; sitecom = \"negocioselnorte.com\"; break; case \"102\": site=\"negociosreforma\"; msite = \"reforma\"; sitecom = \"negociosreforma.com\"; break; case \"103\": site=\"negociosmural\"; msite = \"mural\"; sitecom = \"negociosmural.com.mx\"; break; case null: site=\"negociosreforma\"; msite = \"reforma\"; sitecom = \"negociosreforma.com\"; break; } } var baseAddress = document.location.href; //se le quita query string if(baseAddress.indexOf(\"?\") >= 0) baseAddress = baseAddress.substr(0,baseAddress.indexOf(\"?\")); //se suprime la diagonal final if( baseAddress.substr(baseAddress.length-1) == \"/\" ) baseAddress = baseAddress.substr(0, baseAddress.length-1); if( baseAddress.toLowerCase().indexOf(\"http\") >= 0 ) { baseAddress = baseAddress.substr(7); if( baseAddress.substring(0,1) == \"/\" ) baseAddress = baseAddress.substr(1); } var elementos = baseAddress.split(\"/\"); if(elementos.length == 2 || ( elementos.length == 3 && elementos[1] == \"libre\" )) { palabra = elementos[elementos.length-1]; if( palabra.indexOf(\".\") >= 0 || palabra.indexOf(\"?\") >= 0 ) palabra = \"\"; } if( baseAddress.indexOf(Ancla) grupo reforma PÁGINA NO ENCONTRADA « regresar dummyhtm9",
+      "text": "msite = \"norte\"; idProducto = 2; sitecom = \"elnorte.com\"; break; case \"reforma\": com = com + 3; site = \"reforma\"; msite = \"reforma\"; idProducto = 3; sitecom = \"reforma.com\"; break; case \"mural\": com = com + 5; site = \"mural\"; msite = \"mural\"; idProducto = 5; sitecom = \"mural.com.mx\"; break; case \"cancha\": com = com + 1; plaza = 1; grcidfte = Get_Cookie(\"grcidfte\"); plaza=grcidfte==102?2:grcidfte==103?3:1; site = \"cancha\"; msite = \"cancha\"; sitecom = \"cancha.com\"; tipocom=tipocom==2||tipocom==3?tipocom:4; break; case \"negocioselnorte\": com = com + 4; plaza = 1; site = \"negocioselnorte\"; msite = \"norte\"; sitecom = \"negocioselnorte.com\"; tipocom=6; break; case \"negociosreforma\": com = com + 4; plaza = 2; site = \"negociosreforma\"; msite = \"reforma\"; sitecom = \"negociosreforma.com\"; tipocom=6; break; case \"negociosmural\": com = com + 4; plaza = 3; site = \"negociosmural\"; msite = \"mural\"; sitecom = \"negociosmural.com.mx\"; tipocom=6; break; case \"avisosdeocasion\": com = 0; plaza = 4; site = \"elnorte\"; msite = \"norte\"; sitecom = \"elnorte.com\"; tipocom = 1; dominio=\"www.elnorte.com\"; break; case \"elviernesnocuesta\": com = 0; plaza = 5; site = \"elviernesnocuesta\"; msite = \"elviernesnocuesta\"; sitecom = \"elviernesnocuesta.com\"; tipocom = 5; break; case \"gruporeforma\": com = 6; site = \"reforma\"; msite = \"reforma\"; sitecom = \"reforma.com\"; break; } } if(com==1||com==21||com==31) { var grcidfte = Get_Cookie(\"grcidfte\"); switch( grcidfte ) { case \"101\": site=\"cancha\"; msite = \"norte\"; sitecom = \"cancha.com\"; break; case \"102\": site=\"cancha\"; msite = \"reforma\"; sitecom = \"cancha.com\"; break; case \"103\": site=\"cancha\"; msite = \"mural\"; sitecom = \"cancha.com\"; break; case null: site=\"cancha\"; msite = \"reforma\"; sitecom = \"cancha.com\"; break; } } if(com==4||com==24||com==34) { var grcidfte = Get_Cookie(\"grcidfte\"); switch( grcidfte ) { case \"101\": site=\"negocioselnorte\"; msite = \"norte\"; sitecom = \"negocioselnorte.com\"; break; case \"102\": site=\"negociosreforma\"; msite = \"reforma\"; sitecom = \"negociosreforma.com\"; break; case \"103\": site=\"negociosmural\"; msite = \"mural\"; sitecom = \"negociosmural.com.mx\"; break; case null: site=\"negociosreforma\"; msite = \"reforma\"; sitecom = \"negociosreforma.com\"; break; } } var baseAddress = document.location.href; //se le quita query string if(baseAddress.indexOf(\"?\") >= 0) baseAddress = baseAddress.substr(0,baseAddress.indexOf(\"?\")); //se suprime la diagonal final if( baseAddress.substr(baseAddress.length-1) == \"/\" ) baseAddress = baseAddress.substr(0, baseAddress.length-1); if( baseAddress.toLowerCase().indexOf(\"http\") >= 0 ) { baseAddress = baseAddress.substr(7); if( baseAddress.substring(0,1) == \"/\" ) baseAddress = baseAddress.substr(1); } var elementos = baseAddress.split(\"/\"); if(elementos.length == 2 || ( elementos.length == 3 && elementos[1] == \"libre\" )) { palabra = elementos[elementos.length-1]; if( palabra.indexOf(\".\") >= 0 || palabra.indexOf(\"?\") >= 0 ) palabra = \"\"; } if( baseAddress.indexOf(Ancla) grupo reforma PÁGINA NO ENCONTRADA « regresar dummyhtm9"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 728.2859497070312
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 2
+    }
+  }
+}

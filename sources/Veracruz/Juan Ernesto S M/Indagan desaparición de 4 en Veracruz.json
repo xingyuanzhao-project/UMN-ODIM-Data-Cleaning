@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Indagan desaparición de 4 en Veracruz",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 16209089943557544986,
+    "filename": "Indagan desaparición de 4 en Veracruz.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.17905234375,
+            "r": 632.273,
+            "b": 566.48505234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            425
+          ]
+        }
+      ],
+      "orig": "Indagan desaparición de 4 en Veracruz edición impresa 0 NACIONAL Indagan desaparición de 4 en Veracruz Benito Jiménez Cd. de México (27 octubre 2016) .-22:16 hrs La Fiscalía General del Estado (FGE), a través de la delegación zona centro Veracruz de la Policía Ministerial, investiga la desaparición de cuatro personas en Soledad de Doblado y el puerto de Veracruz. CONTENIDO RELACIONADO Reportan a 6 desaparecidos en Zitlala",
+      "text": "Indagan desaparición de 4 en Veracruz edición impresa 0 NACIONAL Indagan desaparición de 4 en Veracruz Benito Jiménez Cd. de México (27 octubre 2016) .-22:16 hrs La Fiscalía General del Estado (FGE), a través de la delegación zona centro Veracruz de la Policía Ministerial, investiga la desaparición de cuatro personas en Soledad de Doblado y el puerto de Veracruz. CONTENIDO RELACIONADO Reportan a 6 desaparecidos en Zitlala"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

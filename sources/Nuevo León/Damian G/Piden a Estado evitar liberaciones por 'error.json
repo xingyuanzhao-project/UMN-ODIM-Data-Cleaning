@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Piden a Estado evitar liberaciones por 'error",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 10542503317878691233,
+    "filename": "Piden a Estado evitar liberaciones por 'error.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.17905234375,
+            "r": 632.273,
+            "b": 531.35705234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            783
+          ]
+        }
+      ],
+      "orig": "Piden evitar absoluciones por anomalías edición impresa 1 NACIONAL Piden evitar absoluciones por anomalías Jorge Ricardo y Rolando Herrera Cd. de México (23 febrero 2016) .-11:06 hrs Diputadas federales propusieron exhortar a la Procuraduría de Justicia de Nuevo León a evitar errores en las averiguaciones como los que provocaron que los secuestradores y asesinos de un empresario, condenados a penas de hasta 90 años de prisión, hayan quedado libres. CONTENIDO RELACIONADO Piden en NL castigar fallas en capturas Cae otro por asesinato de cura en Puebla Caen 2 por asesinato de cura en Puebla Buscan a párroco desaparecido en Puebla Absuelven por anomalías en proceso Advierten en NL: 'se vaciarán penales' Corrige Corte pifia en ley de amparo Promueven víctimas amparo contra CNDH",
+      "text": "Piden evitar absoluciones por anomalías edición impresa 1 NACIONAL Piden evitar absoluciones por anomalías Jorge Ricardo y Rolando Herrera Cd. de México (23 febrero 2016) .-11:06 hrs Diputadas federales propusieron exhortar a la Procuraduría de Justicia de Nuevo León a evitar errores en las averiguaciones como los que provocaron que los secuestradores y asesinos de un empresario, condenados a penas de hasta 90 años de prisión, hayan quedado libres. CONTENIDO RELACIONADO Piden en NL castigar fallas en capturas Cae otro por asesinato de cura en Puebla Caen 2 por asesinato de cura en Puebla Buscan a párroco desaparecido en Puebla Absuelven por anomalías en proceso Advierten en NL: 'se vaciarán penales' Corrige Corte pifia en ley de amparo Promueven víctimas amparo contra CNDH"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

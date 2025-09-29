@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Bordando la esperanza",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4351207844817066600,
+    "filename": "Bordando la esperanza.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.52305234375,
+            "r": 626.253,
+            "b": 472.35405234374997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            893
+          ]
+        }
+      ],
+      "orig": "Google Docs: Sign-in Sign in with your Google Account to continue to Google Docs. This account will be available to other Google apps in the browser. Email or phone Forgot email? Type the text you hear or see Not your computer? Use Guest mode to sign in privately. Learn more about using Guest mode Next Create account For my personal use For my child For work or my business English (United States) Afrikaans az rbaycan bosanski català e tina Cymraeg Dansk Deutsch eesti English (United Kingdom) English (United States) Español (España) Español (Latinoamérica) euskara Filipino Français (Canada) Français (France) Gaeilge galego Hrvatski Indonesia isiZulu íslenska Italiano Kiswahili latvie u lietuvi magyar Melayu Nederlands norsk o zbek polski Português (Brasil) Português (Portugal) român shqip Sloven ina sloven ina srpski (latinica) Suomi Svenska Ti ng Vi t Türkçe ( ) Help Privacy Terms",
+      "text": "Google Docs: Sign-in Sign in with your Google Account to continue to Google Docs. This account will be available to other Google apps in the browser. Email or phone Forgot email? Type the text you hear or see Not your computer? Use Guest mode to sign in privately. Learn more about using Guest mode Next Create account For my personal use For my child For work or my business English (United States) Afrikaans az rbaycan bosanski català e tina Cymraeg Dansk Deutsch eesti English (United Kingdom) English (United States) Español (España) Español (Latinoamérica) euskara Filipino Français (Canada) Français (France) Gaeilge galego Hrvatski Indonesia isiZulu íslenska Italiano Kiswahili latvie u lietuvi magyar Melayu Nederlands norsk o zbek polski Português (Brasil) Português (Portugal) român shqip Sloven ina sloven ina srpski (latinica) Suomi Svenska Ti ng Vi t Türkçe ( ) Help Privacy Terms"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 633.0202026367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

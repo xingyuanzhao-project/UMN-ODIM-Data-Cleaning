@@ -1,0 +1,949 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Familiares de desaparecidos sufren el calvario por encontrarlos",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 11718814854628816916,
+    "filename": "Familiares de desaparecidos sufren el calvario por encontrarlos.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 252.275,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Familiares de desaparecidos sufren el calvario por encontrarlos",
+      "text": "Familiares de desaparecidos sufren el calvario por encontrarlos"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 409.054,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "https://www.excelsior.com.mx/2013/02/22/885674",
+      "text": "https://www.excelsior.com.mx/2013/02/22/885674"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 451.603,
+            "b": 687.918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Familiares de desaparecidos sufren el calvario por encontrarlos",
+      "text": "Familiares de desaparecidos sufren el calvario por encontrarlos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 660.781,
+            "r": 526.717,
+            "b": 610.274,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            325
+          ]
+        }
+      ],
+      "orig": "CIUDAD DE MÉXICO, 22 de febrero.- Ni la fiscalía local, ni la federal, ni ningún cuerpo policial; los verdaderos protagonistas de las investigaciones sobre desaparecidos en México son los familiares, quienes denunciaron hoy que arriesgan sus vidas por saber el paradero de sus parientes, ante la pasividad de las autoridades.",
+      "text": "CIUDAD DE MÉXICO, 22 de febrero.- Ni la fiscalía local, ni la federal, ni ningún cuerpo policial; los verdaderos protagonistas de las investigaciones sobre desaparecidos en México son los familiares, quienes denunciaron hoy que arriesgan sus vidas por saber el paradero de sus parientes, ante la pasividad de las autoridades."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 595.018,
+            "r": 518.793,
+            "b": 544.632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            313
+          ]
+        }
+      ],
+      "orig": "\"Como personas hemos investigado, nos hemos metido en muchos lugares, hemos recibido amenazas de muerte... Toda la investigación que está en las averiguaciones ha sido hecha por nosotros\", dijo a Efe Brenda Rangel Ortiz, cuyo hermano Héctor desapareció en 2009 en Monclova (Coahuila) junto con otras dos personas.",
+      "text": "\"Como personas hemos investigado, nos hemos metido en muchos lugares, hemos recibido amenazas de muerte... Toda la investigación que está en las averiguaciones ha sido hecha por nosotros\", dijo a Efe Brenda Rangel Ortiz, cuyo hermano Héctor desapareció en 2009 en Monclova (Coahuila) junto con otras dos personas."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 529.382,
+            "r": 519.042,
+            "b": 465.433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            370
+          ]
+        }
+      ],
+      "orig": "Desde entonces, ella no ha parado de luchar por encontrarlo. Proporcionó a las autoridades la matrícula de la patrulla que detuvo a su hermano, compró \"en el mercado negro\" la lista de sus llamadas de teléfono, consiguió los estados de cuenta de las tarjetas que se usaron tras la desaparición e incluso las IP de los ordenadores desde los que se efectuaron las compras.",
+      "text": "Desde entonces, ella no ha parado de luchar por encontrarlo. Proporcionó a las autoridades la matrícula de la patrulla que detuvo a su hermano, compró \"en el mercado negro\" la lista de sus llamadas de teléfono, consiguió los estados de cuenta de las tarjetas que se usaron tras la desaparición e incluso las IP de los ordenadores desde los que se efectuaron las compras."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 450.299,
+            "r": 511.083,
+            "b": 413.233,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "Cuando acuden a la fiscalía para ver los avances de la investigación, las respuestas son siempre las mismas, \"no hay avances\", \"no hay presupuesto\", ni personal para buscar a los desaparecidos.",
+      "text": "Cuando acuden a la fiscalía para ver los avances de la investigación, las respuestas son siempre las mismas, \"no hay avances\", \"no hay presupuesto\", ni personal para buscar a los desaparecidos."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 398.099,
+            "r": 517.142,
+            "b": 361.029,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "\"No hay investigación, lo que nos hace pensar que las autoridades también estén interviniendo en las desapariciones\", dijo Rangel, quien apuntó como hipótesis que su hermano pueda estar siendo secuestrado, obligado a trabajar.",
+      "text": "\"No hay investigación, lo que nos hace pensar que las autoridades también estén interviniendo en las desapariciones\", dijo Rangel, quien apuntó como hipótesis que su hermano pueda estar siendo secuestrado, obligado a trabajar."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 345.779,
+            "r": 523.307,
+            "b": 308.713,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "Un grupo de organizaciones civiles y de familiares de personas desaparecidas denunciaron hoy en una conferencia de prensa la pasividad de las autoridades en las investigaciones para encontrar a sus seres queridos.",
+      "text": "Un grupo de organizaciones civiles y de familiares de personas desaparecidas denunciaron hoy en una conferencia de prensa la pasividad de las autoridades en las investigaciones para encontrar a sus seres queridos."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 293.579,
+            "r": 531.861,
+            "b": 256.5129999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            245
+          ]
+        }
+      ],
+      "orig": "Todo ello un día después de que el Gobierno mexicano confirmara la existencia de una lista con los nombres de 27 mil 523 personas no localizadas desde fines de 2006 y hasta noviembre de 2012, cuando finalizó la Administración de Felipe Calderón.",
+      "text": "Todo ello un día después de que el Gobierno mexicano confirmara la existencia de una lista con los nombres de 27 mil 523 personas no localizadas desde fines de 2006 y hasta noviembre de 2012, cuando finalizó la Administración de Felipe Calderón."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 241.37900000000002,
+            "r": 523.783,
+            "b": 177.43399999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            340
+          ]
+        }
+      ],
+      "orig": "\"Las familias no pueden estar arriesgándose día a día a seguir consiguiendo pruebas que puedan abrir líneas de investigación para dar con el paradero de sus desaparecidos y que las lleven a los ministerios públicos y estos las desaparezcan\", denunció Blanca Martínez, miembro de Fuerzas Unidas por Nuestros Desaparecidos en México (FUNDEM).",
+      "text": "\"Las familias no pueden estar arriesgándose día a día a seguir consiguiendo pruebas que puedan abrir líneas de investigación para dar con el paradero de sus desaparecidos y que las lleven a los ministerios públicos y estos las desaparezcan\", denunció Blanca Martínez, miembro de Fuerzas Unidas por Nuestros Desaparecidos en México (FUNDEM)."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 162.29999999999995,
+            "r": 527.477,
+            "b": 98.35400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            339
+          ]
+        }
+      ],
+      "orig": "La organización defensora de los derechos humanos Human Rights Watch (HRW) presentó ayer un informe en el que cifra en miles las desapariciones, pero documenta únicamente 249 casos, de los cuales en 149 halló \"evidencias contundentes\" de la \"participación directa\" de fuerzas militares y de las policías municipales, estatales y federales.",
+      "text": "La organización defensora de los derechos humanos Human Rights Watch (HRW) presentó ayer un informe en el que cifra en miles las desapariciones, pero documenta únicamente 249 casos, de los cuales en 149 halló \"evidencias contundentes\" de la \"participación directa\" de fuerzas militares y de las policías municipales, estatales y federales."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 83.09699999999998,
+            "r": 519.197,
+            "b": 46.03099999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            246
+          ]
+        }
+      ],
+      "orig": "Hoy, el director para las Américas de HRW, José Miguel Vivanco, dijo que si bien el Gobierno actual \"no tiene responsabilidad directa\", es responsable de hacer que las fuerzas de seguridad implicadas \"respondan por los crímenes cometidos, por las",
+      "text": "Hoy, el director para las Américas de HRW, José Miguel Vivanco, dijo que si bien el Gobierno actual \"no tiene responsabilidad directa\", es responsable de hacer que las fuerzas de seguridad implicadas \"respondan por los crímenes cometidos, por las"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 2",
+      "text": "1 of 2"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:35 AM",
+      "text": "9/13/2019, 8:35 AM"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 252.275,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Familiares de desaparecidos sufren el calvario por encontrarlos",
+      "text": "Familiares de desaparecidos sufren el calvario por encontrarlos"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 409.054,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "https://www.excelsior.com.mx/2013/02/22/885674",
+      "text": "https://www.excelsior.com.mx/2013/02/22/885674"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 753.298,
+            "r": 405.422,
+            "b": 743.112,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "arbitrariedades, por los abusos y las desapariciones forzadas\".",
+      "text": "arbitrariedades, por los abusos y las desapariciones forzadas\"."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 727.862,
+            "r": 512.651,
+            "b": 677.476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            258
+          ]
+        }
+      ],
+      "orig": "El Gobierno de Calderón, apuntó, \"promovió a sangre y fuego su guerra contra el narcotráfico, sin reglas, sin controles, les dio carta blanca a policías y militares (...) para aniquilar a aquellos que consideraban sospechosos de actividades de narcotráfico\".",
+      "text": "El Gobierno de Calderón, apuntó, \"promovió a sangre y fuego su guerra contra el narcotráfico, sin reglas, sin controles, les dio carta blanca a policías y militares (...) para aniquilar a aquellos que consideraban sospechosos de actividades de narcotráfico\"."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 662.22,
+            "r": 524.745,
+            "b": 625.153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "El informe de HRW considera que lo sucedido en México desde diciembre de 2006 constituye \"la crisis más profunda en materia de desapariciones forzadas en América Latina en las últimas décadas\".",
+      "text": "El informe de HRW considera que lo sucedido en México desde diciembre de 2006 constituye \"la crisis más profunda en materia de desapariciones forzadas en América Latina en las últimas décadas\"."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 610.019,
+            "r": 527.002,
+            "b": 546.076,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            350
+          ]
+        }
+      ],
+      "orig": "\"Jamás habíamos tenido el dolor y la impunidad tan evidente, la corrupción que nos rebota, como lo estamos viviendo en estos años\", dijo Consuelo Morales, miembro de Ciudadanos en Apoyo a los Derechos Humanos (Cadhac), una organización que solo en el estado de Nuevo León tiene documentados 221 casos que representan a mil 054 personas desaparecidas.",
+      "text": "\"Jamás habíamos tenido el dolor y la impunidad tan evidente, la corrupción que nos rebota, como lo estamos viviendo en estos años\", dijo Consuelo Morales, miembro de Ciudadanos en Apoyo a los Derechos Humanos (Cadhac), una organización que solo en el estado de Nuevo León tiene documentados 221 casos que representan a mil 054 personas desaparecidas."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 530.942,
+            "r": 526.753,
+            "b": 493.875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "Las organizaciones civiles son quienes más han ayudado a las familias a canalizar sus ganas de encontrar a sus seres queridos, como a Arturo Rojo, padre de Vicente, que desapareció junto con doce personas en 2009 en Piedras Negras (Coahuila).",
+      "text": "Las organizaciones civiles son quienes más han ayudado a las familias a canalizar sus ganas de encontrar a sus seres queridos, como a Arturo Rojo, padre de Vicente, que desapareció junto con doce personas en 2009 en Piedras Negras (Coahuila)."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 478.619,
+            "r": 531.279,
+            "b": 441.551,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "\"Con lo poquito que hemos podido hemos estado caminando, buscándolos\", dijo a Efe este señor de 59 años que no suelta la foto de su hijo, vendedor de pinturas a domicilio.",
+      "text": "\"Con lo poquito que hemos podido hemos estado caminando, buscándolos\", dijo a Efe este señor de 59 años que no suelta la foto de su hijo, vendedor de pinturas a domicilio."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 426.417,
+            "r": 523.521,
+            "b": 389.355,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "\"En los compañeros veo cómo se están acabando, físicamente y moralmente, cómo estamos terminando, porque desde que nos quitaron a nuestro ser querido acabaron con nosotros\", añadió entre lágrimas.",
+      "text": "\"En los compañeros veo cómo se están acabando, físicamente y moralmente, cómo estamos terminando, porque desde que nos quitaron a nuestro ser querido acabaron con nosotros\", añadió entre lágrimas."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 374.221,
+            "r": 517.142,
+            "b": 350.595,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "Mientras que Rojo asegura que sigue \"caminando por inercia\", Rangel describe que no deja de pensar en su hermano ni uno solo día de su vida.",
+      "text": "Mientras que Rojo asegura que sigue \"caminando por inercia\", Rangel describe que no deja de pensar en su hermano ni uno solo día de su vida."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 335.338,
+            "r": 525.458,
+            "b": 298.272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "\"No tenemos calma, no hay día que yo esté tranquila (...) yo no sé si mi hermano está vivo, si está muerto, si forma parte del crimen organizado en México, obligado\", cuenta.",
+      "text": "\"No tenemos calma, no hay día que yo esté tranquila (...) yo no sé si mi hermano está vivo, si está muerto, si forma parte del crimen organizado en México, obligado\", cuenta."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 283.138,
+            "r": 481.585,
+            "b": 246.072,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "Cuando las personas desaparecen, recordaron hoy las organizaciones, se ven afectadas muchas personas, sus familiares, que tienen que enfrentarse a la incertidumbre de no saber si algún día los volverán a ver.",
+      "text": "Cuando las personas desaparecen, recordaron hoy las organizaciones, se ven afectadas muchas personas, sus familiares, que tienen que enfrentarse a la incertidumbre de no saber si algún día los volverán a ver."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 230.938,
+            "r": 96.422,
+            "b": 220.75099999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "jpg",
+      "text": "jpg"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2 of 2",
+      "text": "2 of 2"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:35 AM",
+      "text": "9/13/2019, 8:35 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

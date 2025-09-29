@@ -1,0 +1,589 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Desaparecidos en Coahuila",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8525104435217759917,
+    "filename": "Desaparecidos en Coahuila.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 108.792,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Desaparecidos en Coahuila",
+      "text": "Desaparecidos en Coahuila"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 315.829,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "https://www.elsiglodetorreon.com.mx/noticia/496530.desaparecidos-en-...",
+      "text": "https://www.elsiglodetorreon.com.mx/noticia/496530.desaparecidos-en-..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 345.918,
+            "b": 711.806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Desaparecidos en Coahuila",
+      "text": "Desaparecidos en Coahuila",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.04,
+            "t": 683.195,
+            "r": 501.658,
+            "b": 673.935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "MIGUEL ÁNGEL GRANADOS CHAPA miércoles 27 de enero 2010, actualizada 4:01 am",
+      "text": "MIGUEL ÁNGEL GRANADOS CHAPA miércoles 27 de enero 2010, actualizada 4:01 am"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 646.378,
+            "r": 528.143,
+            "b": 528.674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            690
+          ]
+        }
+      ],
+      "orig": "La semana pasada, el embajador de México en Washington Arturo Sarukhán, recibió a la señora Lourdes Batista, cuyo esposo, un ciudadano norteamericano radicado en Miami, desapareció en Saltillo hace más de trece meses. Triste consolación ha de ser para la señora de Félix Batista el saber que por lo menos una autoridad mexicana, así sea tardíamente, se ha comprometido a ocuparse del caso, que \"no es sólo un número de expediente\". Muchas otras infortunadas familias en Coahuila, que tienen esposos, padres o hijos en semejante situación no han sido nunca recibidas por funcionarios, locales ni federales. Simplemente la desaparición de sus seres queridos no importa a nadie en el gobierno.",
+      "text": "La semana pasada, el embajador de México en Washington Arturo Sarukhán, recibió a la señora Lourdes Batista, cuyo esposo, un ciudadano norteamericano radicado en Miami, desapareció en Saltillo hace más de trece meses. Triste consolación ha de ser para la señora de Félix Batista el saber que por lo menos una autoridad mexicana, así sea tardíamente, se ha comprometido a ocuparse del caso, que \"no es sólo un número de expediente\". Muchas otras infortunadas familias en Coahuila, que tienen esposos, padres o hijos en semejante situación no han sido nunca recibidas por funcionarios, locales ni federales. Simplemente la desaparición de sus seres queridos no importa a nadie en el gobierno."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 513.54,
+            "r": 522.167,
+            "b": 409.277,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            647
+          ]
+        }
+      ],
+      "orig": "El encuentro de la señora Batista y su cuñada Jackie con el embajador Sarukhán fue reportado anteayer por The New York Times, que dedicó amplio espacio a referir no sólo la desaparición del experto norteamericano en seguridad que fue secuestrado el 10 de diciembre de 2008, sino el clima de criminalidad que priva en aquella entidad mexicana, cuyo gobernador Humberto Moreira no tiene cara con qué espetar al Gobierno Federal y al presidente Calderón en particular sus deficiencias y ausencias -que son verdaderas, por cierto- mientras sus colaboradores no atinan a resolver ninguna de las decenas de desapariciones ocurridas en los últimos meses.",
+      "text": "El encuentro de la señora Batista y su cuñada Jackie con el embajador Sarukhán fue reportado anteayer por The New York Times, que dedicó amplio espacio a referir no sólo la desaparición del experto norteamericano en seguridad que fue secuestrado el 10 de diciembre de 2008, sino el clima de criminalidad que priva en aquella entidad mexicana, cuyo gobernador Humberto Moreira no tiene cara con qué espetar al Gobierno Federal y al presidente Calderón en particular sus deficiencias y ausencias -que son verdaderas, por cierto- mientras sus colaboradores no atinan a resolver ninguna de las decenas de desapariciones ocurridas en los últimos meses."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 394.143,
+            "r": 526.004,
+            "b": 276.432,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            668
+          ]
+        }
+      ],
+      "orig": "La señora Batista logró que congresistas de Florida acordaran el encuentro con Sarukhán, al que asistieron los propios legisladores y funcionarios del FBI y del Departamento de Estado. El periódico neyorquino sitúa el caso de Batista en su contexto, no sólo de la criminalidad letal (\"16 mil asesinatos en los últimos tres años\"), sino en el más específico de la privación ilegal de la libertad: \"Alrededor de 100 personas son secuestradas cada mes, según un conteo del Gobierno, más de mil 200 sólo el año pasado. El procurador capitalino dijo la semana pasada que hay ocho intentos de extorsión por minuto en el DF, en su mayoría por teléfono\" (Reforma, 26 de enero)",
+      "text": "La señora Batista logró que congresistas de Florida acordaran el encuentro con Sarukhán, al que asistieron los propios legisladores y funcionarios del FBI y del Departamento de Estado. El periódico neyorquino sitúa el caso de Batista en su contexto, no sólo de la criminalidad letal (\"16 mil asesinatos en los últimos tres años\"), sino en el más específico de la privación ilegal de la libertad: \"Alrededor de 100 personas son secuestradas cada mes, según un conteo del Gobierno, más de mil 200 sólo el año pasado. El procurador capitalino dijo la semana pasada que hay ocho intentos de extorsión por minuto en el DF, en su mayoría por teléfono\" (Reforma, 26 de enero)"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 261.298,
+            "r": 531.635,
+            "b": 143.59299999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            707
+          ]
+        }
+      ],
+      "orig": "En Coahuila las desapariciones menudean. Parecen obedecer a patrones diversos, pero tienen un dato en común: ninguna es resuelta por autoridad alguna, federal o local. El 24 de julio del año pasado el diario Zócalo, edición de Saltillo informó de la desaparición de 26 personas, y ofreció los nombres de por lo menos la mitad de las víctimas, las más de ellas secuestradas en Piedras Negras. Por mi parte, en el año y medio más reciente me he ocupado de referir una decena más de casos. En algunos de ellos hay clara información de que la desaparición fue practicada por militares, extremo negado por las autoridades castrenses que, sin embargo, inician averiguaciones que se arrastran con extrema lentitud.",
+      "text": "En Coahuila las desapariciones menudean. Parecen obedecer a patrones diversos, pero tienen un dato en común: ninguna es resuelta por autoridad alguna, federal o local. El 24 de julio del año pasado el diario Zócalo, edición de Saltillo informó de la desaparición de 26 personas, y ofreció los nombres de por lo menos la mitad de las víctimas, las más de ellas secuestradas en Piedras Negras. Por mi parte, en el año y medio más reciente me he ocupado de referir una decena más de casos. En algunos de ellos hay clara información de que la desaparición fue practicada por militares, extremo negado por las autoridades castrenses que, sin embargo, inician averiguaciones que se arrastran con extrema lentitud."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 128.45900000000006,
+            "r": 528.891,
+            "b": 37.63099999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            567
+          ]
+        }
+      ],
+      "orig": "El caso más antiguo en mi registro es el de Enrique Ruiz Arévalo. Paradójicamente, o explicablemente, era el director de la unidad antisecuestros de la Procuraduría local y el 14 de mayo de 2007 fue víctima del delito que perseguía.. Lo mismo aconteció meses después a su sucesor, Gerardo Valdés Segura. Ni en esos casos, que agraden a miembros de esa corporación, la Policía Ministerial es capaz de localizar a las víctimas y a sus captores. Hace precisamente un año, el 25 de enero de 2009, desapareció en Monclova el ingeniero José Antonio Robledo Fernández. Meses",
+      "text": "El caso más antiguo en mi registro es el de Enrique Ruiz Arévalo. Paradójicamente, o explicablemente, era el director de la unidad antisecuestros de la Procuraduría local y el 14 de mayo de 2007 fue víctima del delito que perseguía.. Lo mismo aconteció meses después a su sucesor, Gerardo Valdés Segura. Ni en esos casos, que agraden a miembros de esa corporación, la Policía Ministerial es capaz de localizar a las víctimas y a sus captores. Hace precisamente un año, el 25 de enero de 2009, desapareció en Monclova el ingeniero José Antonio Robledo Fernández. Meses"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 2",
+      "text": "1 of 2"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 9:41 AM",
+      "text": "9/13/2019, 9:41 AM"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 108.792,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Desaparecidos en Coahuila",
+      "text": "Desaparecidos en Coahuila"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.829,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "https://www.elsiglodetorreon.com.mx/noticia/496530.desaparecidos-en-...",
+      "text": "https://www.elsiglodetorreon.com.mx/noticia/496530.desaparecidos-en-..."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 753.298,
+            "r": 529.687,
+            "b": 662.475,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            565
+          ]
+        }
+      ],
+      "orig": "después sus atribulados padres encararon al procurador Eduardo Medina-Mora, pero no consiguieron información alguna sobre el paradero de su hijo. El 5 de abril, militares detuvieron en Torreón a dos jóvenes médicos veterinarios, Isaías Uribe Hernández y Juan Pablo Alvarado. No se les formuló acusación alguna y no aparecen. En Piedras Negras desapareció el 26 de ese mes Iván Zulkin González Ramos, y el cinco de mayo siguiente Cecilia López y su esposo Pablo César Ortiz desaparecieron también, tras un confuso incidente en que intervinieron policías y militares.",
+      "text": "después sus atribulados padres encararon al procurador Eduardo Medina-Mora, pero no consiguieron información alguna sobre el paradero de su hijo. El 5 de abril, militares detuvieron en Torreón a dos jóvenes médicos veterinarios, Isaías Uribe Hernández y Juan Pablo Alvarado. No se les formuló acusación alguna y no aparecen. En Piedras Negras desapareció el 26 de ese mes Iván Zulkin González Ramos, y el cinco de mayo siguiente Cecilia López y su esposo Pablo César Ortiz desaparecieron también, tras un confuso incidente en que intervinieron policías y militares."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 647.341,
+            "r": 530.091,
+            "b": 422.235,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1347
+          ]
+        }
+      ],
+      "orig": "Algunos de esos casos han sido denunciados ante la Comisión Nacional de Derechos Humanos, que no ha emitido recomendación alguna al respecto. Otros han sido registrados por el Centro de Derechos Humanos Fray Juan de Larios, establecido por el obispo de Saltillo, fray Raúl Vera. En ese espacio se busca organizar a los deudos de las personas desaparecidas para ofrecerles acompañamiento espiritual y asistencia jurídica, así como solidaridad ante la combinación de negligencia y asedio de autoridades que sólo de vez en cuando simulan realizar diligencias, sin ofrecer resultado alguno y sólo disfrazando su ineptitud. El reporte del Times cita al procurador de Coahuila, Jesús Torres, cuando dijo en noviembre pasado a reporteros mexicanos que \"ha habido avances en el caso\" de Batista. Tal vez se refería a → la detención de El Tatanka, miembro de la banda de Los Zetas, señalado como organizador del secuestro del experto norteamericano en secuestros. Pero se trata de un engaño que practican frecuentemente las autoridades federales: El Tatanka está procesado por extorsión y no por privar ilegalmente de la libertad a Batista. En su busca, agentes federales hallaron 18 cadáveres en una fosa clandestina. Ninguno era el de Batista, y es seguro que la indagación no haya continuado para saber quiénes son y quién asesinó a los enterrados allí.",
+      "text": "Algunos de esos casos han sido denunciados ante la Comisión Nacional de Derechos Humanos, que no ha emitido recomendación alguna al respecto. Otros han sido registrados por el Centro de Derechos Humanos Fray Juan de Larios, establecido por el obispo de Saltillo, fray Raúl Vera. En ese espacio se busca organizar a los deudos de las personas desaparecidas para ofrecerles acompañamiento espiritual y asistencia jurídica, así como solidaridad ante la combinación de negligencia y asedio de autoridades que sólo de vez en cuando simulan realizar diligencias, sin ofrecer resultado alguno y sólo disfrazando su ineptitud. El reporte del Times cita al procurador de Coahuila, Jesús Torres, cuando dijo en noviembre pasado a reporteros mexicanos que \"ha habido avances en el caso\" de Batista. Tal vez se refería a → la detención de El Tatanka, miembro de la banda de Los Zetas, señalado como organizador del secuestro del experto norteamericano en secuestros. Pero se trata de un engaño que practican frecuentemente las autoridades federales: El Tatanka está procesado por extorsión y no por privar ilegalmente de la libertad a Batista. En su busca, agentes federales hallaron 18 cadáveres en una fosa clandestina. Ninguno era el de Batista, y es seguro que la indagación no haya continuado para saber quiénes son y quién asesinó a los enterrados allí."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 406.978,
+            "r": 513.649,
+            "b": 356.472,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            269
+          ]
+        }
+      ],
+      "orig": "Por desgracia, Coahuila no es el único estado donde la gente se esfuma sin dejar rastro o, cuando lo deja, éste no es seguido por las autoridades. Si cabe, estas desapariciones son peores que los secuestros en que alguien pide dinero. Aquí sólo hay silencio y angustia.",
+      "text": "Por desgracia, Coahuila no es el único estado donde la gente se esfuma sin dejar rastro o, cuando lo deja, éste no es seguido por las autoridades. Si cabe, estas desapariciones son peores que los secuestros en que alguien pide dinero. Aquí sólo hay silencio y angustia."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2 of 2",
+      "text": "2 of 2"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 9:41 AM",
+      "text": "9/13/2019, 9:41 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

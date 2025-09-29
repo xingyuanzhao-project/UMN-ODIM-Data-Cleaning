@@ -1,0 +1,1274 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Jose Angel Zermeno- 6",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 16770887665042366537,
+    "filename": "Jose Angel Zermeno- 6.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.504,
+            "r": 62.043,
+            "b": 768.712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "3/29/2019",
+      "text": "3/29/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 182.437,
+            "t": 775.504,
+            "r": 495.383,
+            "b": 768.712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "¡Padres de niño asesinado en Tonalá levantan queja ante la CEDHJ! | Página 24 Jalisco",
+      "text": "¡Padres de niño asesinado en Tonalá levantan queja ante la CEDHJ! | Página 24 Jalisco"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 169.0,
+            "t": 767.6666666666666,
+            "r": 593.6666666666666,
+            "b": 671.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Página 84",
+      "text": "Página 84",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 227.33333333333334,
+            "t": 678.3333333333334,
+            "r": 539.0,
+            "b": 648.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "El Mejor Periodismo Diario",
+      "text": "El Mejor Periodismo Diario",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.33333333333334,
+            "t": 647.0,
+            "r": 153.66666666666666,
+            "b": 634.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Guadalajara, Jalisco",
+      "text": "Guadalajara, Jalisco"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.0,
+            "t": 608.238,
+            "r": 101.0,
+            "b": 601.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Menú de Navegación",
+      "text": "Menú de Navegación",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.0,
+            "t": 590.238,
+            "r": 71.0,
+            "b": 583.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Inicio",
+      "text": "Inicio",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.0,
+            "t": 580.238,
+            "r": 71.223,
+            "b": 573.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Local",
+      "text": "Local",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.0,
+            "t": 570.238,
+            "r": 81.723,
+            "b": 563.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Nacional",
+      "text": "Nacional",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.0,
+            "t": 560.238,
+            "r": 94.223,
+            "b": 553.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Internacional",
+      "text": "Internacional",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.0,
+            "t": 550.238,
+            "r": 81.613,
+            "b": 543.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Deportes",
+      "text": "Deportes",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.0,
+            "t": 540.238,
+            "r": 94.113,
+            "b": 533.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Espectáculos",
+      "text": "Espectáculos",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.0,
+            "t": 530.238,
+            "r": 103.113,
+            "b": 523.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Otras Ediciones",
+      "text": "Otras Ediciones",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 73.0,
+            "t": 520.238,
+            "r": 154.113,
+            "b": 513.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Página 24 Aguascalientes",
+      "text": "Página 24 Aguascalientes",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 73.0,
+            "t": 510.238,
+            "r": 137.613,
+            "b": 503.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Página 24 Zacatecas",
+      "text": "Página 24 Zacatecas",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.0,
+            "t": 492.238,
+            "r": 119.5,
+            "b": 485.728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Página 24 Jalisco » Local »",
+      "text": "Página 24 Jalisco » Local »"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.0,
+            "t": 471.857,
+            "r": 381.496,
+            "b": 462.093,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "¡Padres de niño asesinado en Tonalá levantan queja ante la CEDHJ!",
+      "text": "¡Padres de niño asesinado en Tonalá levantan queja ante la CEDHJ!",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.0,
+            "t": 448.738,
+            "r": 145.0,
+            "b": 442.228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Publicado el Jueves, junio 12, 2014",
+      "text": "Publicado el Jueves, junio 12, 2014"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.0,
+            "t": 430.738,
+            "r": 143.664,
+            "b": 424.228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "La FGE jamás emitió alerta Amber",
+      "text": "La FGE jamás emitió alerta Amber"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.0,
+            "t": 412.738,
+            "r": 125.051,
+            "b": 406.228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Por Ivonne Ojeda de la Torre",
+      "text": "Por Ivonne Ojeda de la Torre"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.0,
+            "t": 394.738,
+            "r": 573.5,
+            "b": 378.228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            251
+          ]
+        }
+      ],
+      "orig": "El niño José Ángel Zermeño Rosales, de apenas 8 años de edad, desapareció la noche del pasado 2 de junio en la colonia Alamedas de Zalatitán, perteneciente al municipio de Tonalá, minutos después de haber salido a la tienda a jugar con las maquinitas.",
+      "text": "El niño José Ángel Zermeño Rosales, de apenas 8 años de edad, desapareció la noche del pasado 2 de junio en la colonia Alamedas de Zalatitán, perteneciente al municipio de Tonalá, minutos después de haber salido a la tienda a jugar con las maquinitas."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.0,
+            "t": 366.738,
+            "r": 579.0,
+            "b": 350.228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            339
+          ]
+        }
+      ],
+      "orig": "Los padres del menor dieron aviso oportuno a las autoridades, sin embargo, por la mañana de este sábado fue encontrado su cuerpo sin vida en un lote baldío cercano al cerro de La Reina; el pequeño estaba en avanzado estado de descomposición y tenía huellas de violencia, debido a que presumiblemente fue azotado con una piedra hasta morir.",
+      "text": "Los padres del menor dieron aviso oportuno a las autoridades, sin embargo, por la mañana de este sábado fue encontrado su cuerpo sin vida en un lote baldío cercano al cerro de La Reina; el pequeño estaba en avanzado estado de descomposición y tenía huellas de violencia, debido a que presumiblemente fue azotado con una piedra hasta morir."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.0,
+            "t": 338.738,
+            "r": 571.613,
+            "b": 322.228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            294
+          ]
+        }
+      ],
+      "orig": "La noticia de su desaparición fue difundida por varios medios de comunicación locales y nacionales, así como a través de las redes sociales; sin embargo, a pesar de que las primeras horas de la desaparición son primordiales, transcurrió una semana y en ningún momento se emitió la alerta Amber.",
+      "text": "La noticia de su desaparición fue difundida por varios medios de comunicación locales y nacionales, así como a través de las redes sociales; sin embargo, a pesar de que las primeras horas de la desaparición son primordiales, transcurrió una semana y en ningún momento se emitió la alerta Amber."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.0,
+            "t": 310.738,
+            "r": 565.113,
+            "b": 294.228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            334
+          ]
+        }
+      ],
+      "orig": "Debido a la negligencia en este caso para realizar una búsqueda oportuna al menor y recibir la negativa de Fiscalía General del Estado (FGE) a emitir la alerta Amber, los familiares del menor presentaron una queja ante la Comisión Estatal de Derechos Humanos (CEDHJ) vía telefónica. la cual debe ser ratificada en menos de cinco días.",
+      "text": "Debido a la negligencia en este caso para realizar una búsqueda oportuna al menor y recibir la negativa de Fiscalía General del Estado (FGE) a emitir la alerta Amber, los familiares del menor presentaron una queja ante la Comisión Estatal de Derechos Humanos (CEDHJ) vía telefónica. la cual debe ser ratificada en menos de cinco días."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.0,
+            "t": 282.738,
+            "r": 577.113,
+            "b": 256.22800000000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            413
+          ]
+        }
+      ],
+      "orig": "El programa de alerta Amber fue instalado en el estado recientemente en abril del 2013, y hasta el último balance se informó que mediante este programa se han reportado más de 900 menores desaparecidos; sin embargo, el programa de nada les sirvió a los familiares del pequeño José Ángel, quienes tuvieron que buscar por sus propios medios y solicitar ayuda a los medios de comunicación y a organizaciones civiles.",
+      "text": "El programa de alerta Amber fue instalado en el estado recientemente en abril del 2013, y hasta el último balance se informó que mediante este programa se han reportado más de 900 menores desaparecidos; sin embargo, el programa de nada les sirvió a los familiares del pequeño José Ángel, quienes tuvieron que buscar por sus propios medios y solicitar ayuda a los medios de comunicación y a organizaciones civiles."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.0,
+            "t": 244.73800000000006,
+            "r": 576.723,
+            "b": 218.22800000000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            412
+          ]
+        }
+      ],
+      "orig": "La colonia Alamedas de Zalatitán, donde vivía el menor, se ha convertido en un foco rojo de delincuencia debido al alto índice de crímenes que se cometen en la vía pública; de acuerdo al mapa de inseguridad por colonias realizado por la Fiscalía Central del Estado, en el año 2013 se iniciaron 102 averiguaciones previas por delitos cometidos en este barrio, sólo superado por las colonias Loma Dorada y Jalisco.",
+      "text": "La colonia Alamedas de Zalatitán, donde vivía el menor, se ha convertido en un foco rojo de delincuencia debido al alto índice de crímenes que se cometen en la vía pública; de acuerdo al mapa de inseguridad por colonias realizado por la Fiscalía Central del Estado, en el año 2013 se iniciaron 102 averiguaciones previas por delitos cometidos en este barrio, sólo superado por las colonias Loma Dorada y Jalisco."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.0,
+            "t": 206.73800000000006,
+            "r": 568.551,
+            "b": 180.22800000000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            480
+          ]
+        }
+      ],
+      "orig": "Hasta este momento no se tiene información sobre el móvil de este asesinato; sin embargo, la noticia ha consternado a los ciudadanos tonaltecas, aunque cabe destacar que hasta el momento, tampoco ha habido declaraciones al respecto por parte del presidente municipal de Tonalá, Jorge Arana Arana, o de los funcionarios de su gobierno quienes se han mantenido al margen de este crimen, mientras que la colonia Alamedas de Zalatitán sigue sumida en la inseguridad y la delincuencia.",
+      "text": "Hasta este momento no se tiene información sobre el móvil de este asesinato; sin embargo, la noticia ha consternado a los ciudadanos tonaltecas, aunque cabe destacar que hasta el momento, tampoco ha habido declaraciones al respecto por parte del presidente municipal de Tonalá, Jorge Arana Arana, o de los funcionarios de su gobierno quienes se han mantenido al margen de este crimen, mientras que la colonia Alamedas de Zalatitán sigue sumida en la inseguridad y la delincuencia."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.0,
+            "t": 128.23800000000006,
+            "r": 136.0,
+            "b": 121.72799999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Publicado en: Pagina 24 Jalisco",
+      "text": "Publicado en: Pagina 24 Jalisco"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.0,
+            "t": 110.23800000000006,
+            "r": 108.723,
+            "b": 103.72799999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Comparta Esta Nota en:",
+      "text": "Comparta Esta Nota en:"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.0,
+            "t": 92.23800000000006,
+            "r": 76.551,
+            "b": 85.72799999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Google",
+      "text": "Google",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.0,
+            "t": 82.23800000000006,
+            "r": 84.0,
+            "b": 75.72799999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Facebook",
+      "text": "Facebook",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.0,
+            "t": 72.23800000000006,
+            "r": 75.664,
+            "b": 65.72799999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Twitter",
+      "text": "Twitter",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.0,
+            "t": 51.738000000000056,
+            "r": 89.0,
+            "b": 45.22799999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Edición Impresa",
+      "text": "Edición Impresa"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 196.66666666666666,
+            "t": 645.3333333333333,
+            "r": 363.3333333333333,
+            "b": 633.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Director General: Ramiro Luévano López",
+      "text": "Director General: Ramiro Luévano López"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 437.6666666666667,
+            "t": 645.3333333333333,
+            "r": 586.3333333333334,
+            "b": 634.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Viernes 29 de Marzo de 2019 Año I(",
+      "text": "Viernes 29 de Marzo de 2019 Año I("
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.50400000000002,
+            "r": 434.258,
+            "b": 15.711999999999989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "https://pagina24jalisco.com.mx/local/2014/06/12/padres-de-nino-asesinado-en-tonala-levantan-queja-ante-la-cedhj/",
+      "text": "https://pagina24jalisco.com.mx/local/2014/06/12/padres-de-nino-asesinado-en-tonala-levantan-queja-ante-la-cedhj/"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.50400000000002,
+            "r": 585.512,
+            "b": 15.711999999999989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/3",
+      "text": "1/3"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.76335906982422,
+            "t": 758.9623413085938,
+            "r": 585.499267578125,
+            "b": 651.3284301757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.973230361938477,
+            "t": 172.208251953125,
+            "r": 63.598873138427734,
+            "b": 140.5384521484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

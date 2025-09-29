@@ -1,0 +1,1263 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Hallan cuerpo en Torreón_ podría ser de desaparecida en 2012",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 11463470224719908167,
+    "filename": "Hallan cuerpo en Torreón_ podría ser de desaparecida en 2012.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "Hallan cuerpo en Torreón; podría ser de desaparecida en 2012 [Seguridad]... http://www.zocalo.com.mx/new_site/articulo/hallan-cuerpo-en-torreon-p...",
+      "text": "Hallan cuerpo en Torreón; podría ser de desaparecida en 2012 [Seguridad]... http://www.zocalo.com.mx/new_site/articulo/hallan-cuerpo-en-torreon-p..."
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.401,
+            "t": 753.308,
+            "r": 92.41,
+            "b": 744.425,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "[Seguridad]",
+      "text": "[Seguridad]"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.4,
+            "t": 727.38,
+            "r": 376.941,
+            "b": 717.017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Hallan cuerpo en Torreón; podría ser de desaparecida en 2012",
+      "text": "Hallan cuerpo en Torreón; podría ser de desaparecida en 2012",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.401,
+            "t": 700.511,
+            "r": 112.249,
+            "b": 691.628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Por Luis Durón",
+      "text": "Por Luis Durón",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.401,
+            "t": 677.113,
+            "r": 482.892,
+            "b": 668.23,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "El cuerpo corresponde a una mujer de entre 20 y 35 años, con una estatura aproximada de 1.60 metros",
+      "text": "El cuerpo corresponde a una mujer de entre 20 y 35 años, con una estatura aproximada de 1.60 metros"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.761,
+            "t": 641.111,
+            "r": 102.637,
+            "b": 632.228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "2325 lecturas",
+      "text": "2325 lecturas",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.401,
+            "t": 615.909,
+            "r": 80.422,
+            "b": 607.027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Imprimir",
+      "text": "Imprimir",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.401,
+            "t": 361.632,
+            "r": 194.004,
+            "b": 352.749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Foto: Especial | El siglo de Torreón",
+      "text": "Foto: Especial | El siglo de Torreón"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.401,
+            "t": 349.032,
+            "r": 545.098,
+            "b": 327.552,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "Torreón, Coahuila.Albañiles que realizaban la remodelación de una residencia en Torreón, localizaron la tarde del martes el cuerpo de una mujer que estaba enterrado en uno de los patios del inmueble.",
+      "text": "Torreón, Coahuila.Albañiles que realizaban la remodelación de una residencia en Torreón, localizaron la tarde del martes el cuerpo de una mujer que estaba enterrado en uno de los patios del inmueble."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.401,
+            "t": 311.235,
+            "r": 556.698,
+            "b": 277.148,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            265
+          ]
+        }
+      ],
+      "orig": "Integrantes de los colectivos de búsqueda de personas desaparecidas señalaron que la osamenta podría pertenecer a una chica con reporte de desaparición desde el 2012, la cual fue vista por última vez en la colonia Ampliación La Rosita, donde se ubica la residencia.",
+      "text": "Integrantes de los colectivos de búsqueda de personas desaparecidas señalaron que la osamenta podría pertenecer a una chica con reporte de desaparición desde el 2012, la cual fue vista por última vez en la colonia Ampliación La Rosita, donde se ubica la residencia."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.401,
+            "t": 260.83400000000006,
+            "r": 561.666,
+            "b": 239.34799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "De acuerdo con información difundida por integrantes de Grupo Vida el cuerpo hallado por los albañiles podría ser el de Érika Ivonne Prone Ceniceros, quien fue reportada como desaparecida en 2012, cuando tenía 22 años.",
+      "text": "De acuerdo con información difundida por integrantes de Grupo Vida el cuerpo hallado por los albañiles podría ser el de Érika Ivonne Prone Ceniceros, quien fue reportada como desaparecida en 2012, cuando tenía 22 años."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.401,
+            "t": 223.03700000000003,
+            "r": 556.698,
+            "b": 201.55099999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "El hallazgo sucedió en la vivienda ubicada en la calle Paseo del Ciclón 531 en Ampliación la Rosita, donde el grupo de albañiles reportó a las autoridades ministeriales sobre el hallazgo.",
+      "text": "El hallazgo sucedió en la vivienda ubicada en la calle Paseo del Ciclón 531 en Ampliación la Rosita, donde el grupo de albañiles reportó a las autoridades ministeriales sobre el hallazgo."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.401,
+            "t": 185.23699999999997,
+            "r": 553.458,
+            "b": 151.14999999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            307
+          ]
+        }
+      ],
+      "orig": "El cuerpo humano se encontraba envuelto en plástico y habría sido cubierto por una capa de asfalto. Las autoridades ministeriales determinaron que se trata de los restos de una mujer de complexión delgada, de entre 20 y 25 años, y que vestía pantalón de mezclilla, blusa café con figuras rosas y unos tenis.",
+      "text": "El cuerpo humano se encontraba envuelto en plástico y habría sido cubierto por una capa de asfalto. Las autoridades ministeriales determinaron que se trata de los restos de una mujer de complexión delgada, de entre 20 y 25 años, y que vestía pantalón de mezclilla, blusa café con figuras rosas y unos tenis."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.401,
+            "t": 134.83299999999997,
+            "r": 557.886,
+            "b": 113.35299999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "Los restos fueron trasladados al Semefo de dicha localidad, donde será practicada la necropsia para definir si se trata de esta joven mujer que desde hace cinco años ha sido buscada por sus familiares.",
+      "text": "Los restos fueron trasladados al Semefo de dicha localidad, donde será practicada la necropsia para definir si se trata de esta joven mujer que desde hace cinco años ha sido buscada por sus familiares."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.401,
+            "t": 97.03300000000002,
+            "r": 551.039,
+            "b": 75.553,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            209
+          ]
+        }
+      ],
+      "orig": "En diciembre de 2012, los familiares de Érika solicitaron a integrantes de Grupo Vida su apoyo, quienes dentro de sus investigaciones concluyeron que en esta misma colonia se le había visto por última ocasión.",
+      "text": "En diciembre de 2012, los familiares de Érika solicitaron a integrantes de Grupo Vida su apoyo, quienes dentro de sus investigaciones concluyeron que en esta misma colonia se le había visto por última ocasión."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.401,
+            "t": 59.23199999999997,
+            "r": 249.224,
+            "b": 50.349000000000046,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "'HAY QUE ESPERAR LOS RESULTADOS'",
+      "text": "'HAY QUE ESPERAR LOS RESULTADOS'",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "3 of 9",
+      "text": "3 of 9"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 531.716,
+            "t": 8.63900000000001,
+            "r": 611.983,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "7/14/2019, 7:29 PM",
+      "text": "7/14/2019, 7:29 PM"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "Hallan cuerpo en Torreón; podría ser de desaparecida en 2012 [Seguridad]... http://www.zocalo.com.mx/new_site/articulo/hallan-cuerpo-en-torreon-p...",
+      "text": "Hallan cuerpo en Torreón; podría ser de desaparecida en 2012 [Seguridad]... http://www.zocalo.com.mx/new_site/articulo/hallan-cuerpo-en-torreon-p..."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.401,
+            "t": 753.308,
+            "r": 569.291,
+            "b": 731.827,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "Silvia Ortiz, vocera del grupo Víctimas por sus Derechos en Acción (Vida) comenta que se deberá esperar a los resultados que arrojen los análisis de ADN que se realicen en el cuerpo que fuera encontrado en la colonia Ampliación La Rosita.",
+      "text": "Silvia Ortiz, vocera del grupo Víctimas por sus Derechos en Acción (Vida) comenta que se deberá esperar a los resultados que arrojen los análisis de ADN que se realicen en el cuerpo que fuera encontrado en la colonia Ampliación La Rosita."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.401,
+            "t": 715.508,
+            "r": 558.718,
+            "b": 694.027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "Y es que además de trabajos de búsqueda, el grupo Vida realiza también labor de investigación y del caso se obtuvieron datos que pudieran relacionarse con el hallazgo de la tarde de ayer.",
+      "text": "Y es que además de trabajos de búsqueda, el grupo Vida realiza también labor de investigación y del caso se obtuvieron datos que pudieran relacionarse con el hallazgo de la tarde de ayer."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.401,
+            "t": 677.708,
+            "r": 356.792,
+            "b": 668.826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "Sin embargo, aclara que es necesario esperar a los resultados. (Agencias)",
+      "text": "Sin embargo, aclara que es necesario esperar a los resultados. (Agencias)"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.401,
+            "t": 639.909,
+            "r": 78.046,
+            "b": 631.026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "conoce+",
+      "text": "conoce+"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.401,
+            "t": 559.031,
+            "r": 222.408,
+            "b": 550.148,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Decomisan 100 kilos de droga en Torreón",
+      "text": "Decomisan 100 kilos de droga en Torreón"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.401,
+            "t": 467.472,
+            "r": 250.812,
+            "b": 458.59,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Se gradúan 170 miembros de La Luz del Mundo",
+      "text": "Se gradúan 170 miembros de La Luz del Mundo"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.401,
+            "t": 375.913,
+            "r": 304.056,
+            "b": 367.03,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Sedu reconoce a alumnado en ámbito académico y deportivo",
+      "text": "Sedu reconoce a alumnado en ámbito académico y deportivo"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.401,
+            "t": 284.354,
+            "r": 185.613,
+            "b": 275.471,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Muere Héctor Fernández Aguirre",
+      "text": "Muere Héctor Fernández Aguirre"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.401,
+            "t": 248.35300000000007,
+            "r": 80.422,
+            "b": 239.47000000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Imprimir",
+      "text": "Imprimir",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.401,
+            "t": 223.15300000000002,
+            "r": 133.73,
+            "b": 189.07299999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "te puede interesar [Coahuila] hace cerca de 2 horas",
+      "text": "te puede interesar [Coahuila] hace cerca de 2 horas"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.402,
+            "t": 94.96299999999997,
+            "r": 305.122,
+            "b": 81.63900000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Choque volcadura deja dos lesionados",
+      "text": "Choque volcadura deja dos lesionados",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.401,
+            "t": 63.91599999999994,
+            "r": 100.79,
+            "b": 42.428999999999974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "[Deportes] hace 15 horas",
+      "text": "[Deportes] hace 15 horas"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "4 of 9",
+      "text": "4 of 9"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 531.716,
+            "t": 8.63900000000001,
+            "r": 611.983,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "7/14/2019, 7:29 PM",
+      "text": "7/14/2019, 7:29 PM"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 40.44575881958008,
+            "t": 608.5842132568359,
+            "r": 461.0859680175781,
+            "b": 365.8966369628906,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.38881301879883,
+            "t": 630.7146301269531,
+            "r": 120.3322525024414,
+            "b": 574.9559631347656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.40165328979492,
+            "t": 539.2926330566406,
+            "r": 120.22712707519531,
+            "b": 483.1875915527344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.39042282104492,
+            "t": 448.2273254394531,
+            "r": 120.12490844726562,
+            "b": 392.0096435546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.464683532714844,
+            "t": 355.7422180175781,
+            "r": 120.22525024414062,
+            "b": 300.54010009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.68789291381836,
+            "t": 189.18310546875,
+            "r": 171.652099609375,
+            "b": 114.7615966796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

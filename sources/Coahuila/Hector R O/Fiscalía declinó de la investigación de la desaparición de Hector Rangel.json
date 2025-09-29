@@ -1,0 +1,372 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Fiscalía declinó de la investigación de la desaparición de Hector Rangel",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8446120947065466132,
+    "filename": "Fiscalía declinó de la investigación de la desaparición de Hector Rangel.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 297.602,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "Fiscalía declinó de la investigación de la desaparición de Hector Rangel ...",
+      "text": "Fiscalía declinó de la investigación de la desaparición de Hector Rangel ..."
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.148,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "https://queretaro.quadratin.com.mx/fiscalia-declino-de-la-investigacion-d...",
+      "text": "https://queretaro.quadratin.com.mx/fiscalia-declino-de-la-investigacion-d..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 500.734,
+            "b": 687.918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "Fiscalía declinó de la investigación de la desaparición de Hector Rangel - Quadratín",
+      "text": "Fiscalía declinó de la investigación de la desaparición de Hector Rangel - Quadratín",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 660.781,
+            "r": 497.017,
+            "b": 623.714,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "QUERÉTARO, Qro., 6 de octubre.-La Fiscalía General del Estado declinó de la investigación que se seguía por el caso de la desaparición del queretano, Hector Rangel Ortiz, desde el 10 de abril del 2009, en Monclova, Coahuila.",
+      "text": "QUERÉTARO, Qro., 6 de octubre.-La Fiscalía General del Estado declinó de la investigación que se seguía por el caso de la desaparición del queretano, Hector Rangel Ortiz, desde el 10 de abril del 2009, en Monclova, Coahuila."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 608.458,
+            "r": 509.135,
+            "b": 571.397,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        }
+      ],
+      "orig": "El titular de dicho órgano autónomo, Alejandro Echeverría Cornejo aclaró que el tema no está cerrado, pues la investigación la realiza la Procuraduría de Coahuila, pues la desaparición se registró en dicha entidad.",
+      "text": "El titular de dicho órgano autónomo, Alejandro Echeverría Cornejo aclaró que el tema no está cerrado, pues la investigación la realiza la Procuraduría de Coahuila, pues la desaparición se registró en dicha entidad."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 556.263,
+            "r": 517.605,
+            "b": 532.636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "«Nosotros declinamos la incompetencia, en razón de que no tenemos las facultades para llevar a cabo esta investigación», explicó.",
+      "text": "«Nosotros declinamos la incompetencia, en razón de que no tenemos las facultades para llevar a cabo esta investigación», explicó."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 517.502,
+            "r": 521.015,
+            "b": 480.434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "No obstante, el Fiscal General del Estado aseguró que estarán atentos y que, en caso de que las autoridades de Coahuila les soliciten de manera oficial colaborar en la investigación, lo harán así.",
+      "text": "No obstante, el Fiscal General del Estado aseguró que estarán atentos y que, en caso de que las autoridades de Coahuila les soliciten de manera oficial colaborar en la investigación, lo harán así."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 465.178,
+            "r": 500.866,
+            "b": 428.111,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "De igual forma, precisó que depende de la Procuraduría General de la República (PGR) decidir si le devuelve o no la protección que le fue retirada a la activista, Brenda Rangel Ortiz, hermana de dicho joven desaparecido.",
+      "text": "De igual forma, precisó que depende de la Procuraduría General de la República (PGR) decidir si le devuelve o no la protección que le fue retirada a la activista, Brenda Rangel Ortiz, hermana de dicho joven desaparecido."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 412.978,
+            "r": 531.386,
+            "b": 389.355,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "Echeverría Cornejo informó que iniciaron una carpeta de investigación, por amenazas en contra del esposo de Brenda Rangel.",
+      "text": "Echeverría Cornejo informó que iniciaron una carpeta de investigación, por amenazas en contra del esposo de Brenda Rangel."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:44 AM",
+      "text": "9/13/2019, 8:44 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

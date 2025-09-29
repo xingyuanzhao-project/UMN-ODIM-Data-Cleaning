@@ -1,0 +1,2249 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Busca a su hijo y encuentra restos humanos en Salinas Victoria _ POSTA",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5952762566776003369,
+    "filename": "Busca a su hijo y encuentra restos humanos en Salinas Victoria _ POSTA.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/groups/5"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.503,
+            "t": 711.7770029101563,
+            "r": 76.411,
+            "b": 705.9420029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Estados",
+      "text": "Estados"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 98.923,
+            "t": 711.7770029101563,
+            "r": 443.489,
+            "b": 705.9420029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Nuevo León Coahuila CDMX Edomex Jalisco Tamaulipas Veracruz",
+      "text": "Nuevo León Coahuila CDMX Edomex Jalisco Tamaulipas Veracruz"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.503,
+            "t": 681.0380029101563,
+            "r": 557.365,
+            "b": 637.9160029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "Busca a su hijo y encuentra restos humanos en Salinas Victoria",
+      "text": "Busca a su hijo y encuentra restos humanos en Salinas Victoria",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.503,
+            "t": 609.1870029101563,
+            "r": 550.278,
+            "b": 586.1150029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "El 21 de abril Carlos celebró su cumpleaños en una quinta del municipio de Salinas Victoria en compañía de otros dos amigos que también celebraban su onomástico y al siguiente día desapareció.",
+      "text": "El 21 de abril Carlos celebró su cumpleaños en una quinta del municipio de Salinas Victoria en compañía de otros dos amigos que también celebraban su onomástico y al siguiente día desapareció."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 55.262,
+            "t": 155.77400291015624,
+            "r": 129.807,
+            "b": 147.0600029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Foto: Melva Frutos",
+      "text": "Foto: Melva Frutos"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 66.517,
+            "t": 119.20900291015619,
+            "r": 139.6,
+            "b": 112.64500291015622,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Melva Frutos",
+      "text": "Melva Frutos"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.503,
+            "t": 91.24400291015627,
+            "r": 158.175,
+            "b": 82.53000291015621,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Martes, Mayo 22, 2018 - 07:39",
+      "text": "Martes, Mayo 22, 2018 - 07:39"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.503,
+            "t": 54.26500291015623,
+            "r": 76.451,
+            "b": 49.16000291015621,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Comparte",
+      "text": "Comparte"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.262,
+            "t": 803.3250029101563,
+            "r": 106.58,
+            "b": 794.6110029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Comentarios",
+      "text": "Comentarios"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.503,
+            "t": 771.8100029101562,
+            "r": 318.024,
+            "b": 763.0960029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Tags: #Carlos Garza #FUNDENL #Nuevo León #Salinas Victoria",
+      "text": "Tags: #Carlos Garza #FUNDENL #Nuevo León #Salinas Victoria",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.503,
+            "t": 729.0360029101562,
+            "r": 554.594,
+            "b": 707.4430029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "NUEVO LEÓN.En una brigada de búsqueda de Carlos Garza Sánchez, desaparecido hace un mes, su madre e integrantes de FUNDENL encontraron restos humanos en el municipio de Salinas Victoria, el pasado domingo.",
+      "text": "NUEVO LEÓN.En una brigada de búsqueda de Carlos Garza Sánchez, desaparecido hace un mes, su madre e integrantes de FUNDENL encontraron restos humanos en el municipio de Salinas Victoria, el pasado domingo."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.503,
+            "t": 686.2660029101562,
+            "r": 544.099,
+            "b": 648.9160029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            302
+          ]
+        }
+      ],
+      "orig": "Desde que dejó de saber de su hijo el pasado 22 de abril y ante la ausencia de respuestas de las autoridades, Marisol Sánchez ha emprendido una exploración incansable por su propio pie y en uno de esos recorridos, se dio el hallazgo de restos enterrados, que ya fueron recolectados por las autoridades.",
+      "text": "Desde que dejó de saber de su hijo el pasado 22 de abril y ante la ausencia de respuestas de las autoridades, Marisol Sánchez ha emprendido una exploración incansable por su propio pie y en uno de esos recorridos, se dio el hallazgo de restos enterrados, que ya fueron recolectados por las autoridades."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.503,
+            "t": 627.7380029101563,
+            "r": 550.675,
+            "b": 590.3890029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            297
+          ]
+        }
+      ],
+      "orig": "Esta vez Marisol recibió el apoyo de las madres integrantes de Fuerzas Unidas por Nuestros Desaparecidos Nuevo León (FUNDENL), quienes a su vez solicitaron el resguardo de Fuerza Civil y la ayuda del Grupo Jaguar de Protección Civil de Santa Catarina, que echó mano del binomio canino de búsqueda.",
+      "text": "Esta vez Marisol recibió el apoyo de las madres integrantes de Fuerzas Unidas por Nuestros Desaparecidos Nuevo León (FUNDENL), quienes a su vez solicitaron el resguardo de Fuerza Civil y la ayuda del Grupo Jaguar de Protección Civil de Santa Catarina, que echó mano del binomio canino de búsqueda."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.503,
+            "t": 554.6780029101562,
+            "r": 543.096,
+            "b": 481.52100291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            273
+          ]
+        }
+      ],
+      "orig": "Nos encontramos muchas cosas, casquillos, ropa y restos humanos que estaban adentro del rancho que está abandonado. Fue en un pozo. Estaba todo tapado pero la tierra estaba floja y metieron una varilla para verificar y sí, la tierra estaba suelta y ahí estaban los restos '",
+      "text": "Nos encontramos muchas cosas, casquillos, ropa y restos humanos que estaban adentro del rancho que está abandonado. Fue en un pozo. Estaba todo tapado pero la tierra estaba floja y metieron una varilla para verificar y sí, la tierra estaba suelta y ahí estaban los restos '",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 528.146,
+            "t": 447.65900291015623,
+            "r": 559.499,
+            "b": 438.94600291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Marisol",
+      "text": "Marisol"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.503,
+            "t": 401.1330029101562,
+            "r": 558.974,
+            "b": 363.78300291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            253
+          ]
+        }
+      ],
+      "orig": "El 21 de abril Carlos celebró su cumpleaños en una quinta del municipio de Salinas Victoria en compañía de otros dos amigos que también celebraban su onomástico. Al día siguiente llegó a su casa para dejar el automóvil de su padre y regresó a la fiesta.",
+      "text": "El 21 de abril Carlos celebró su cumpleaños en una quinta del municipio de Salinas Victoria en compañía de otros dos amigos que también celebraban su onomástico. Al día siguiente llegó a su casa para dejar el automóvil de su padre y regresó a la fiesta."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.503,
+            "t": 342.60600291015623,
+            "r": 536.01,
+            "b": 321.01400291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "La última vez que sus amigos lo vieron fue cuando se retiraron del lugar de la celebración, dejándolo con un hombre que supuestamente estaba armado y es vecino del municipio.",
+      "text": "La última vez que sus amigos lo vieron fue cuando se retiraron del lugar de la celebración, dejándolo con un hombre que supuestamente estaba armado y es vecino del municipio."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.503,
+            "t": 299.83600291015625,
+            "r": 556.442,
+            "b": 278.24400291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "La pesquisa de este fin de semana inició a las 10:00 horas, en la que recorrieron brechas y montes hasta llegar a una finca abandonada, encontrando restos humanos y un sinfín de objetos.",
+      "text": "La pesquisa de este fin de semana inició a las 10:00 horas, en la que recorrieron brechas y montes hasta llegar a una finca abandonada, encontrando restos humanos y un sinfín de objetos."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.503,
+            "t": 257.06600291015616,
+            "r": 530.968,
+            "b": 219.71700291015622,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            246
+          ]
+        }
+      ],
+      "orig": "Tras el descubrimiento se dio parte a los investigadores del departamento de periciales de la Procuraduría, comentó, quienes arribaron al lugar para acordonar el área y recabar los restos y objetos encontrados por Marisol y las madres de FUNDENL.",
+      "text": "Tras el descubrimiento se dio parte a los investigadores del departamento de periciales de la Procuraduría, comentó, quienes arribaron al lugar para acordonar el área y recabar los restos y objetos encontrados por Marisol y las madres de FUNDENL."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.503,
+            "t": 198.53900291015623,
+            "r": 510.347,
+            "b": 176.94700291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "Este lunes Marisol acudió a la agencia de homicidios de la PGJNL a preguntar sobre los avances en la investigación, pero fue en vano, ya que sólo le respondieron que están investigando.",
+      "text": "Este lunes Marisol acudió a la agencia de homicidios de la PGJNL a preguntar sobre los avances en la investigación, pero fue en vano, ya que sólo le respondieron que están investigando."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.503,
+            "t": 155.76900291015625,
+            "r": 537.68,
+            "b": 134.17700291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "Ha expresado a los investigadores sobre sus sospechas respecto a que un hombre identificado como Rafael, podría estar involucrado en la desaparición de su hijo.",
+      "text": "Ha expresado a los investigadores sobre sus sospechas respecto a que un hombre identificado como Rafael, podría estar involucrado en la desaparición de su hijo."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 125.0,
+            "t": 811.5866495768229,
+            "r": 486.3333333333333,
+            "b": 774.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "REPORTE DE BÚSQUEDA",
+      "text": "REPORTE DE BÚSQUEDA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 212.66666666666666,
+            "t": 782.5866495768229,
+            "r": 362.0,
+            "b": 761.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "iAyúdanos a localizarlel",
+      "text": "iAyúdanos a localizarlel"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 327.3333333333333,
+            "t": 743.9199829101562,
+            "r": 401.3333333333333,
+            "b": 729.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "DESCRIPCIÓN",
+      "text": "DESCRIPCIÓN",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 243.66666666666666,
+            "t": 723.5866495768229,
+            "r": 305.0,
+            "b": 712.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "EDAD: 22 AOS",
+      "text": "EDAD: 22 AOS"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 243.66666666666666,
+            "t": 713.586649576823,
+            "r": 348.3333333333333,
+            "b": 703.586649576823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "NACIONALIDAD: VEXICANA",
+      "text": "NACIONALIDAD: VEXICANA"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 243.66666666666666,
+            "t": 694.9199829101562,
+            "r": 375.6666666666667,
+            "b": 684.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "CABELLO: CORTO NEGRO LACIO",
+      "text": "CABELLO: CORTO NEGRO LACIO"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 244.33333333333334,
+            "t": 685.5866495768229,
+            "r": 296.3333333333333,
+            "b": 676.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "TEZ: BLANCA",
+      "text": "TEZ: BLANCA"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 243.66666666666666,
+            "t": 677.5866495768229,
+            "r": 329.6666666666667,
+            "b": 666.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "OJOS; CAFÉ OSCURO",
+      "text": "OJOS; CAFÉ OSCURO"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 243.66666666666666,
+            "t": 667.5866495768229,
+            "r": 341.0,
+            "b": 657.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "NaRIZ MEDIANA RECTA",
+      "text": "NaRIZ MEDIANA RECTA"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 310.3333333333333,
+            "t": 658.2533162434896,
+            "r": 386.3333333333333,
+            "b": 648.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "LABIOS DELGADOS",
+      "text": "LABIOS DELGADOS"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 243.66666666666666,
+            "t": 640.2533162434896,
+            "r": 340.3333333333333,
+            "b": 629.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "COMPLEXION: REGULAR",
+      "text": "COMPLEXION: REGULAR"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 244.33333333333334,
+            "t": 631.2533162434896,
+            "r": 515.0,
+            "b": 620.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "SEMAS PARTICULARES: LUNAR EN HOWBRO DERECHO EN FORIA DE",
+      "text": "SEMAS PARTICULARES: LUNAR EN HOWBRO DERECHO EN FORIA DE"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 243.66666666666666,
+            "t": 621.5866495768229,
+            "r": 364.3333333333333,
+            "b": 611.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "CIRCULO UN POCO ABULTADO",
+      "text": "CIRCULO UN POCO ABULTADO"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 243.66666666666666,
+            "t": 603.5866495768229,
+            "r": 419.0,
+            "b": 592.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "PALWAS YBOTAS VAQUERAS COLORNEGRO",
+      "text": "PALWAS YBOTAS VAQUERAS COLORNEGRO"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 243.33333333333334,
+            "t": 585.9199829101562,
+            "r": 434.6666666666667,
+            "b": 573.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "FECHA DE DESAPARICION: 22 DE ABRIL DEL 2018",
+      "text": "FECHA DE DESAPARICION: 22 DE ABRIL DEL 2018"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 243.33333333333334,
+            "t": 575.9199829101562,
+            "r": 506.0,
+            "b": 564.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "LUGAR DE DESAPARICION; COL LOSLAESTROS SALINAS VICTORIA",
+      "text": "LUGAR DE DESAPARICION; COL LOSLAESTROS SALINAS VICTORIA"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 243.66666666666666,
+            "t": 566.2533162434895,
+            "r": 345.0,
+            "b": 556.2533162434895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "PADECIMIENTO:NNGUHO",
+      "text": "PADECIMIENTO:NNGUHO"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.0,
+            "t": 538.9199829101562,
+            "r": 528.3333333333333,
+            "b": 512.2533162434895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "CARLOS ANSELMO GARZA SANCHEZ",
+      "text": "CARLOS ANSELMO GARZA SANCHEZ",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 169.33333333333334,
+            "t": 503.91998291015625,
+            "r": 504.0,
+            "b": 490.58664957682294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "Cualquier información relacionada con su localización, favor de comunicar a:",
+      "text": "Cualquier información relacionada con su localización, favor de comunicar a:"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 169.0,
+            "t": 489.91998291015625,
+            "r": 431.3333333333333,
+            "b": 469.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Teléfonos (81)20205700 Y (81)20205558",
+      "text": "Teléfonos (81)20205700 Y (81)20205558"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 169.33333333333334,
+            "t": 470.91998291015625,
+            "r": 427.3333333333333,
+            "b": 457.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "AEI GEBI Platón Sánchez 526 Sur, Barrio antiguo; Monterrey NL",
+      "text": "AEI GEBI Platón Sánchez 526 Sur, Barrio antiguo; Monterrey NL"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.503,
+            "t": 406.38600291015626,
+            "r": 413.03,
+            "b": 400.5510029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Asegura que no lo han llamado a declarar y tampoco hay una orden en su contra.",
+      "text": "Asegura que no lo han llamado a declarar y tampoco hay una orden en su contra."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.503,
+            "t": 379.37300291015623,
+            "r": 556.232,
+            "b": 357.78100291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "Le dijeron que han interrogado a alrededor de 20 personas, pero que aún no hay indicios del paradero de Carlos. Otras personas que según Marisol, pudieran tener información, no han acudido a declarar.",
+      "text": "Le dijeron que han interrogado a alrededor de 20 personas, pero que aún no hay indicios del paradero de Carlos. Otras personas que según Marisol, pudieran tener información, no han acudido a declarar."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.503,
+            "t": 336.60300291015625,
+            "r": 520.137,
+            "b": 315.0110029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "'Nadie ha dicho nada, es un temor por el que están pasando, que no quieren hablar, no quiere decir. Los entiendo, son jóvenes. Este muchacho tiene el pueblo atemorizada.",
+      "text": "'Nadie ha dicho nada, es un temor por el que están pasando, que no quieren hablar, no quiere decir. Los entiendo, son jóvenes. Este muchacho tiene el pueblo atemorizada."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.503,
+            "t": 293.8330029101562,
+            "r": 556.295,
+            "b": 256.4840029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            258
+          ]
+        }
+      ],
+      "orig": "'Mientras no hagamos nada, no levantemos la voz contra ese hombre, él va a seguir haciendo y deshaciendo. Que Dios los cuide que ya no haya otro próximo, porque mi hijo no es el primero, ya lo ha hecho, pero se quedan callados y no hablan', externó la mujer.",
+      "text": "'Mientras no hagamos nada, no levantemos la voz contra ese hombre, él va a seguir haciendo y deshaciendo. Que Dios los cuide que ya no haya otro próximo, porque mi hijo no es el primero, ya lo ha hecho, pero se quedan callados y no hablan', externó la mujer."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.503,
+            "t": 235.30600291015628,
+            "r": 550.517,
+            "b": 213.7140029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "Aseguró que tanto la agencia de homicidios, como el Grupo de Búsqueda Inmediata están tras de un escritorio sin salir a buscar a su hijo, lo cual no abona para que haya resultados en las investigaciones.",
+      "text": "Aseguró que tanto la agencia de homicidios, como el Grupo de Búsqueda Inmediata están tras de un escritorio sin salir a buscar a su hijo, lo cual no abona para que haya resultados en las investigaciones."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 435.0,
+            "t": 480.91998291015625,
+            "r": 502.3333333333333,
+            "b": 456.25331624348956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "GEBI",
+      "text": "GEBI"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 221.089,
+            "t": 789.7940029101562,
+            "r": 375.641,
+            "b": 779.1710029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Video Unavailable Video Unavailable",
+      "text": "Video Unavailable Video Unavailable",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 208.087,
+            "t": 768.9950029101562,
+            "r": 388.64,
+            "b": 731.6440029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "This video may no longer exist, or This video may no longer exist, or you don't have permission to view you don't have permission to view it. it.",
+      "text": "This video may no longer exist, or This video may no longer exist, or you don't have permission to view you don't have permission to view it. it."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 59.014,
+            "t": 282.0350029101562,
+            "r": 550.398,
+            "b": 260.4630029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "También puedes ver: Celebraba su cumpleaños y desapareció; Pide apoyo para encontrar a su hijo",
+      "text": "También puedes ver: Celebraba su cumpleaños y desapareció; Pide apoyo para encontrar a su hijo"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 59.014,
+            "t": 221.2560029101562,
+            "r": 510.761,
+            "b": 214.69200291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "También puedes ver: VIDEO: Vive Rayones NL la Ley de Herodes... te retiras o te jodes",
+      "text": "También puedes ver: VIDEO: Vive Rayones NL la Ley de Herodes... te retiras o te jodes"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.503,
+            "t": 123.29700291015627,
+            "r": 76.451,
+            "b": 118.19200291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Comparte",
+      "text": "Comparte"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 273.719,
+            "t": 712.8160029101563,
+            "r": 323.003,
+            "b": 707.1290029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Learn More Learn More",
+      "text": "Learn More Learn More"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.503,
+            "t": 73.98100291015623,
+            "r": 134.608,
+            "b": 68.1460029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Más en Nuevo León",
+      "text": "Más en Nuevo León"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.503,
+            "t": 46.96900291015629,
+            "r": 382.723,
+            "b": 41.134002910156255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "VIDEO: Riña entre aficionados Rayados y Tigres dejan al menos un herido",
+      "text": "VIDEO: Riña entre aficionados Rayados y Tigres dejan al menos un herido"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.503,
+            "t": 804.0700029101563,
+            "r": 367.995,
+            "b": 798.2350029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "Convierten ciudadanos el 21K de Guadalupe en una tradición deportiva",
+      "text": "Convierten ciudadanos el 21K de Guadalupe en una tradición deportiva"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.503,
+            "t": 776.3080029101562,
+            "r": 261.119,
+            "b": 770.4720029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "VIDEO: Mujeres riñen en paso peatonal Morelos",
+      "text": "VIDEO: Mujeres riñen en paso peatonal Morelos"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.503,
+            "t": 748.5450029101562,
+            "r": 233.449,
+            "b": 742.7100029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Encuentran cabeza humana en Guadalupe",
+      "text": "Encuentran cabeza humana en Guadalupe"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.503,
+            "t": 720.7820029101563,
+            "r": 230.98,
+            "b": 714.9470029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Realiza Monterrey Carrera 5K Fundadores",
+      "text": "Realiza Monterrey Carrera 5K Fundadores"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 149.759,
+            "t": 549.9440029101562,
+            "r": 446.238,
+            "b": 539.9850029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "© Klave Media SAPI de C.V 2018, todos los derechos reservados",
+      "text": "© Klave Media SAPI de C.V 2018, todos los derechos reservados"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 263.167,
+            "t": 599.4670029101562,
+            "r": 332.825,
+            "b": 589.5080029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Quién es Posta",
+      "text": "Quién es Posta"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.290435791015625,
+            "t": 543.0123901367188,
+            "r": 560.0489501953125,
+            "b": 166.5968017578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.29963684082031,
+            "t": 129.45880126953125,
+            "r": 139.27294921875,
+            "b": 101.60552978515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.623748779296875,
+            "t": 556.6697387695312,
+            "r": 61.07160568237305,
+            "b": 538.8383178710938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.792091369628906,
+            "t": 813.8775463104248,
+            "r": 105.21371459960938,
+            "b": 766.2664794921875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 58.67998123168945,
+            "t": 746.6996459960938,
+            "r": 231.77975463867188,
+            "b": 548.7939453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 50.35321807861328,
+            "t": 493.01898193359375,
+            "r": 138.04263305664062,
+            "b": 448.56689453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 435.2244567871094,
+            "t": 482.4976501464844,
+            "r": 541.4788208007812,
+            "b": 448.4710693359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 5
+    }
+  }
+}

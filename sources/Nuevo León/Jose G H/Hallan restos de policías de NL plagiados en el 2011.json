@@ -1,0 +1,683 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Hallan restos de policías de NL plagiados en el 2011",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8398052948172480039,
+    "filename": "Hallan restos de policías de NL plagiados en el 2011.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 210.254,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Hallan restos de policías de NL plagiados en el 2011",
+      "text": "Hallan restos de policías de NL plagiados en el 2011"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 316.725,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "https://www.eleconomista.com.mx/politica/Hallan-restos-de-policias-de...",
+      "text": "https://www.eleconomista.com.mx/politica/Hallan-restos-de-policias-de..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.277,
+            "t": 736.097,
+            "r": 508.133,
+            "b": 718.628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Hallan restos de policías de NL plagiados en el 2011",
+      "text": "Hallan restos de policías de NL plagiados en el 2011",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.281,
+            "t": 700.072,
+            "r": 101.089,
+            "b": 691.288,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Jorge Monroy",
+      "text": "Jorge Monroy"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.279,
+            "t": 674.621,
+            "r": 562.154,
+            "b": 649.72,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "El hallazgo de los restos ocurrió en el llamado ejido Las Abejas, según manifestó el procurador del estado, Roberto Flores.",
+      "text": "El hallazgo de los restos ocurrió en el llamado ejido Las Abejas, según manifestó el procurador del estado, Roberto Flores."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 426.3333333333333,
+            "t": 493.66666666666663,
+            "r": 448.3333333333333,
+            "b": 479.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "Pr",
+      "text": "Pr"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 441.6852543439165,
+            "t": 484.30334407830105,
+            "r": 481.9814123227502,
+            "b": 463.69665592169895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Jeral",
+      "text": "Jeral"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.281,
+            "t": 286.549,
+            "r": 568.125,
+            "b": 265.40599999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "La Procuraduría General de Justicia de Nuevo León informó el hallazgo en un ejido del municipio de Salinas Victoria de 10 cuerpos que corresponden a policías que fueron secuestrados en el 2011 en el municipio de Apodaca.",
+      "text": "La Procuraduría General de Justicia de Nuevo León informó el hallazgo en un ejido del municipio de Salinas Victoria de 10 cuerpos que corresponden a policías que fueron secuestrados en el 2011 en el municipio de Apodaca."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.281,
+            "t": 251.15300000000002,
+            "r": 564.632,
+            "b": 217.524,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            314
+          ]
+        }
+      ],
+      "orig": "En un mensaje publicado en su cuenta de Facebook, el procurador de Justicia de Nuevo León, Roberto Flores, informó que en el ejido Las Abejas fueron encontrados los cuerpos de 10 de los 11 policías municipales de Apodaca que fueron secuestrados en el 20011, cuando Nuevo León padeció la peor crisis de inseguridad.",
+      "text": "En un mensaje publicado en su cuenta de Facebook, el procurador de Justicia de Nuevo León, Roberto Flores, informó que en el ejido Las Abejas fueron encontrados los cuerpos de 10 de los 11 policías municipales de Apodaca que fueron secuestrados en el 20011, cuando Nuevo León padeció la peor crisis de inseguridad."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.281,
+            "t": 203.26800000000003,
+            "r": 566.918,
+            "b": 144.93000000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            516
+          ]
+        }
+      ],
+      "orig": "El procurador dijo que tras realizar pruebas de genética a los cuerpos que fueron hallados con huellas de calcinamiento fueron identificados: Isidra López Buenrostro, Alejandro Guadalupe Zamora Vaca, Crispín Severín Zuchel, Ricardo Rangel García, Bryan Mendoza Noriega, Diego García Viera, Adrián Guadalupe García Hernández, Francisco Javier González Sánchez, José Guadalupe Herrera, así como Milton Alvarado Rojas, quien fungía como director de la policía de Apodaca cuando desapareció junto con 10 de sus escoltas.",
+      "text": "El procurador dijo que tras realizar pruebas de genética a los cuerpos que fueron hallados con huellas de calcinamiento fueron identificados: Isidra López Buenrostro, Alejandro Guadalupe Zamora Vaca, Crispín Severín Zuchel, Ricardo Rangel García, Bryan Mendoza Noriega, Diego García Viera, Adrián Guadalupe García Hernández, Francisco Javier González Sánchez, José Guadalupe Herrera, así como Milton Alvarado Rojas, quien fungía como director de la policía de Apodaca cuando desapareció junto con 10 de sus escoltas."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.281,
+            "t": 130.668,
+            "r": 540.987,
+            "b": 109.404,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "Detalló que el 24 de mayo, la procuraduría de Nuevo León notificó a los familiares de esos policías del hallazgo y les entregó la orden de inhumación correspondiente para que pudieran realizar los sepelios.",
+      "text": "Detalló que el 24 de mayo, la procuraduría de Nuevo León notificó a los familiares de esos policías del hallazgo y les entregó la orden de inhumación correspondiente para que pudieran realizar los sepelios."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.281,
+            "t": 95.15099999999995,
+            "r": 570.4,
+            "b": 49.16899999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            473
+          ]
+        }
+      ],
+      "orig": "(A) los familiares de las 10 personas desaparecidas identificadas a través de estos fragmentos óseos se les dio el carácter de víctimas, para que pudieran acceder a recibir el fondo económico con que cuenta la Comisión Ejecutiva Estatal de Atención a Víctimas (...) También se les brindo atención integral por medio del Centro de Atención, Orientación, Protección, Apoyo a Víctimas del Delito y Testigos de la Procuraduría del Estado , explicó el procurador Roberto Flores.",
+      "text": "(A) los familiares de las 10 personas desaparecidas identificadas a través de estos fragmentos óseos se les dio el carácter de víctimas, para que pudieran acceder a recibir el fondo económico con que cuenta la Comisión Ejecutiva Estatal de Atención a Víctimas (...) También se les brindo atención integral por medio del Centro de Atención, Orientación, Protección, Apoyo a Víctimas del Delito y Testigos de la Procuraduría del Estado , explicó el procurador Roberto Flores."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 2",
+      "text": "1 of 2"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 525.479,
+            "t": 8.63900000000001,
+            "r": 611.921,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "8/30/2019, 11:55 AM",
+      "text": "8/30/2019, 11:55 AM"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 210.254,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Hallan restos de policías de NL plagiados en el 2011",
+      "text": "Hallan restos de policías de NL plagiados en el 2011"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 316.725,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "https://www.eleconomista.com.mx/politica/Hallan-restos-de-policias-de...",
+      "text": "https://www.eleconomista.com.mx/politica/Hallan-restos-de-policias-de..."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.281,
+            "t": 753.352,
+            "r": 564.066,
+            "b": 719.724,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            259
+          ]
+        }
+      ],
+      "orig": "Refirió que los nueve detenidos que existen hasta el momento por la desaparición de los 11 elementos de la policía municipal de Apodaca enfrentan cargos por secuestro agravado y robo con violencia, por lo que se encuentran recluidos en el penal de Topo Chico.",
+      "text": "Refirió que los nueve detenidos que existen hasta el momento por la desaparición de los 11 elementos de la policía municipal de Apodaca enfrentan cargos por secuestro agravado y robo con violencia, por lo que se encuentran recluidos en el penal de Topo Chico."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.281,
+            "t": 705.469,
+            "r": 555.448,
+            "b": 659.487,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            376
+          ]
+        }
+      ],
+      "orig": "En mayo del 2011, tres de 11 policías municipales fueron secuestrados por un grupo delincuencial; posteriormente el director de la corporación, Milton Alvarado Rojas, salió en búsqueda de sus compañeros junto con otros siete elementos, quienes también fueron secuestrados y desde entonces se desconocía su paradero. Actualmente sólo resta la ubicación de uno de los elementos.",
+      "text": "En mayo del 2011, tres de 11 policías municipales fueron secuestrados por un grupo delincuencial; posteriormente el director de la corporación, Milton Alvarado Rojas, salió en búsqueda de sus compañeros junto con otros siete elementos, quienes también fueron secuestrados y desde entonces se desconocía su paradero. Actualmente sólo resta la ubicación de uno de los elementos."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2 of 2",
+      "text": "2 of 2"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 525.479,
+            "t": 8.63900000000001,
+            "r": 611.921,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "8/30/2019, 11:55 AM",
+      "text": "8/30/2019, 11:55 AM"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 66.84104919433594,
+            "t": 637.6938934326172,
+            "r": 573.7613525390625,
+            "b": 300.012939453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

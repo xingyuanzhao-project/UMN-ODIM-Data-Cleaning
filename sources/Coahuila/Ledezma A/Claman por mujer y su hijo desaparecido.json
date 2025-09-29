@@ -1,0 +1,434 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Claman por mujer y su hijo desaparecido",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15930428013720629174,
+    "filename": "Claman por mujer y su hijo desaparecido.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 164.339,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Claman por mujer y su hijo desaparecido",
+      "text": "Claman por mujer y su hijo desaparecido"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 315.431,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "http://www.zocalo.com.mx/new_site/articulo/claman-por-mujer-y-su-hij...",
+      "text": "http://www.zocalo.com.mx/new_site/articulo/claman-por-mujer-y-su-hij..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.837,
+            "t": 730.88,
+            "r": 439.67,
+            "b": 716.063,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Claman por mujer y su hijo desaparecido",
+      "text": "Claman por mujer y su hijo desaparecido",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.838,
+            "t": 690.007,
+            "r": 139.009,
+            "b": 681.672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Por Redacción",
+      "text": "Por Redacción"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 656.796,
+            "r": 321.549,
+            "b": 647.536,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Por: ALEXIS MASSIEU Y / YESENIA CABALLERO",
+      "text": "Por: ALEXIS MASSIEU Y / YESENIA CABALLERO",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 633.873,
+            "r": 535.827,
+            "b": 600.376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        }
+      ],
+      "orig": "Monclova, Coah.La familia de Arely Ledezma, quien desapareció junto a su hija de un año de edad acudió el día de ayer a interponer una denuncia a la Fiscalía de Personas Desaparecidas, donde les explicaron que para comenzar su búsqueda tenían que pasar 96 horas.",
+      "text": "Monclova, Coah.La familia de Arely Ledezma, quien desapareció junto a su hija de un año de edad acudió el día de ayer a interponer una denuncia a la Fiscalía de Personas Desaparecidas, donde les explicaron que para comenzar su búsqueda tenían que pasar 96 horas."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 586.597,
+            "r": 529.968,
+            "b": 553.095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            237
+          ]
+        }
+      ],
+      "orig": "En entrevista telefónica con Anahí, hermana de la joven de 19 años, vecina del Fraccionamiento 288, ésta señaló que hasta el momento no han tenido noticia alguna sobre su paradero, cumpliéndose hoy 5 días de que la vieron por última vez.",
+      "text": "En entrevista telefónica con Anahí, hermana de la joven de 19 años, vecina del Fraccionamiento 288, ésta señaló que hasta el momento no han tenido noticia alguna sobre su paradero, cumpliéndose hoy 5 días de que la vieron por última vez."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 539.437,
+            "r": 218.995,
+            "b": 530.177,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Ella está bien, dice taxista",
+      "text": "Ella está bien, dice taxista",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 516.397,
+            "r": 525.767,
+            "b": 482.895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "La familia de Arely Ledezma seguirá buscándola a ella y a su hija en los sitios donde sospechan pudiera encontrarse y a través de redes sociales, esperando que alguien pueda darles información sobre su paradero.",
+      "text": "La familia de Arely Ledezma seguirá buscándola a ella y a su hija en los sitios donde sospechan pudiera encontrarse y a través de redes sociales, esperando que alguien pueda darles información sobre su paradero."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 469.237,
+            "r": 523.24,
+            "b": 435.613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "Anahí, su hermana, dijo que la última persona que saben que la vio es un taxista que la pretendía, un hombre de 50 años de edad de nombre Jesús Manzares, vecino de la colonia Del Río, quien vive solo y sospechan pudo habérsela llevado.",
+      "text": "Anahí, su hermana, dijo que la última persona que saben que la vio es un taxista que la pretendía, un hombre de 50 años de edad de nombre Jesús Manzares, vecino de la colonia Del Río, quien vive solo y sospechan pudo habérsela llevado."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 421.957,
+            "r": 535.973,
+            "b": 376.215,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            326
+          ]
+        }
+      ],
+      "orig": "'Nosotros pensamos que la única persona que sabe del paradero de mi hermana es el taxista, pues él nos dice que ella está bien, que ya no digamos nada de él, que lo vamos a perjudicar en su trabajo e incluso me dijo que me demandará por andar diciendo que él la tiene, cuando nosotros decimos sólo lo que sospechamos', señaló.",
+      "text": "'Nosotros pensamos que la única persona que sabe del paradero de mi hermana es el taxista, pues él nos dice que ella está bien, que ya no digamos nada de él, que lo vamos a perjudicar en su trabajo e incluso me dijo que me demandará por andar diciendo que él la tiene, cuando nosotros decimos sólo lo que sospechamos', señaló."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 531.716,
+            "t": 8.63900000000001,
+            "r": 611.983,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "7/14/2019, 7:17 PM",
+      "text": "7/14/2019, 7:17 PM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

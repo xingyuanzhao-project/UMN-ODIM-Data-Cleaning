@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Buscan a joven desaparecido en Nuevo León",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2404056185283593581,
+    "filename": "Buscan a joven desaparecido en Nuevo León.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.17905234375,
+            "r": 626.253,
+            "b": 494.61605234374997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1004
+          ]
+        }
+      ],
+      "orig": "Página no encontrada - Skip to content lun. Sep 15th, 2025 Dir. Gral. Claudia E. Velázquez Leyva Inicio Tamaulipas Matamoros Reynosa Nacional Internacional Policiaca Deportes Espectaculos 404 Inicio https://puntoinformativo.com.mx404 4 4 ¡Vaya! Página no encontrada Lo siento, pero la página que estás buscando no existe. Volver You missed Matamoros Reunión entre Cónsul de EE.UU. y Beto Granados, muestra de confianza en la primera autoridad de Matamoros 14 septiembre, 2025 Tamaulipas REO SE FUGA DE HOSPITAL GENERAL DE CIUDAD VICTORIA Y HORAS MÁS TARDE ES RECAPTURADO 14 septiembre, 2025 Nacional Hallan muerta a una mujer en separos de la Policía de Salina Cruz, Oaxaca; investigan por feminicidio a 10 oficiales 14 septiembre, 2025 Matamoros Repara gobierno municipal fuga de agua potable en fraccionamiento Puerto Rico 13 septiembre, 2025 Dir. Gral. Claudia E. Velázquez Leyva Proudly powered by WordPress | Theme: Newspaperex by Themeansar . Home Inicio Página de ejemplo Página de ejemplo Portada",
+      "text": "Página no encontrada - Skip to content lun. Sep 15th, 2025 Dir. Gral. Claudia E. Velázquez Leyva Inicio Tamaulipas Matamoros Reynosa Nacional Internacional Policiaca Deportes Espectaculos 404 Inicio https://puntoinformativo.com.mx404 4 4 ¡Vaya! Página no encontrada Lo siento, pero la página que estás buscando no existe. Volver You missed Matamoros Reunión entre Cónsul de EE.UU. y Beto Granados, muestra de confianza en la primera autoridad de Matamoros 14 septiembre, 2025 Tamaulipas REO SE FUGA DE HOSPITAL GENERAL DE CIUDAD VICTORIA Y HORAS MÁS TARDE ES RECAPTURADO 14 septiembre, 2025 Nacional Hallan muerta a una mujer en separos de la Policía de Salina Cruz, Oaxaca; investigan por feminicidio a 10 oficiales 14 septiembre, 2025 Matamoros Repara gobierno municipal fuga de agua potable en fraccionamiento Puerto Rico 13 septiembre, 2025 Dir. Gral. Claudia E. Velázquez Leyva Proudly powered by WordPress | Theme: Newspaperex by Themeansar . Home Inicio Página de ejemplo Página de ejemplo Portada"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 633.0202026367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

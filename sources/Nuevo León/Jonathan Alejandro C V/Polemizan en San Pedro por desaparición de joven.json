@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Polemizan en San Pedro por desaparición de joven",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2381526400917271919,
+    "filename": "Polemizan en San Pedro por desaparición de joven.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.17905234375,
+            "r": 614.213,
+            "b": 577.49505234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            369
+          ]
+        }
+      ],
+      "orig": "Polemizan en San Pedro por desaparición de joven edición impresa --> 0 SEGURIDAD Polemizan en San Pedro por desaparición de joven Luis Castro y Perla Martínez Monterrey, México (22 octubre 2016) .-00:02 hrs La desaparición de un joven presuntamente por elementos policiacos de San Pedro ha causado polémica. CONTENIDO RELACIONADO Desaparece joven... y acusan a policías",
+      "text": "Polemizan en San Pedro por desaparición de joven edición impresa --> 0 SEGURIDAD Polemizan en San Pedro por desaparición de joven Luis Castro y Perla Martínez Monterrey, México (22 octubre 2016) .-00:02 hrs La desaparición de un joven presuntamente por elementos policiacos de San Pedro ha causado polémica. CONTENIDO RELACIONADO Desaparece joven... y acusan a policías"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 620.9889526367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

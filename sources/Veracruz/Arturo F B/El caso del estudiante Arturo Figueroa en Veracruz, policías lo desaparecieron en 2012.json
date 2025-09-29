@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "El caso del estudiante Arturo Figueroa en Veracruz, policías lo desaparecieron en 2012",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 14506955828760794097,
+    "filename": "El caso del estudiante Arturo Figueroa en Veracruz, policías lo desaparecieron en 2012.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.52305234375,
+            "r": 632.273,
+            "b": 533.9350523437499,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            723
+          ]
+        }
+      ],
+      "orig": "revoluciontrespuntocero.mx Excellent 4.6 out of 5 Trustpilot The domain name revoluciontrespuntocero.mx is for sale! Get this domain Premium Verified Domain Pay the full $4,000 now, or make an offer. Buy now USD $4,000 Make an offer Next Free transaction support Secure payments Local currency available in cart at checkout Need help? Give us a call. 480-651-9741 Safe & secure transactions Fast & easy transfers Hassle free payments The simple, and safe way to buy domain names No matter what kind of domain you want to buy or lease, we make the transfer simple and safe. Here's how it works Ask AI Copyright © 2025 GoDaddy Operating Company, LLC. All Rights Reserved. Do not share my personal information Privacy Settings",
+      "text": "revoluciontrespuntocero.mx Excellent 4.6 out of 5 Trustpilot The domain name revoluciontrespuntocero.mx is for sale! Get this domain Premium Verified Domain Pay the full $4,000 now, or make an offer. Buy now USD $4,000 Make an offer Next Free transaction support Secure payments Local currency available in cart at checkout Need help? Give us a call. 480-651-9741 Safe & secure transactions Fast & easy transfers Hassle free payments The simple, and safe way to buy domain names No matter what kind of domain you want to buy or lease, we make the transfer simple and safe. Here's how it works Ask AI Copyright © 2025 GoDaddy Operating Company, LLC. All Rights Reserved. Do not share my personal information Privacy Settings"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

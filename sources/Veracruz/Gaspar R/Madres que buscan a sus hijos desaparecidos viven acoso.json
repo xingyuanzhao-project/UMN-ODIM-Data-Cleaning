@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Madres que buscan a sus hijos desaparecidos viven acoso",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 18328372265141932892,
+    "filename": "Madres que buscan a sus hijos desaparecidos viven acoso.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.52305234375,
+            "r": 602.173,
+            "b": 590.24805234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        }
+      ],
+      "orig": "404 Not Found 404 Not Found The resource requested could not be found on this server! Proudly powered by LiteSpeed Web Server Please be advised that LiteSpeed Technologies Inc. is not a web hosting company and, as such, has no control over content found on this site.",
+      "text": "404 Not Found 404 Not Found The resource requested could not be found on this server! Proudly powered by LiteSpeed Web Server Please be advised that LiteSpeed Technologies Inc. is not a web hosting company and, as such, has no control over content found on this site."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 608.9577026367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

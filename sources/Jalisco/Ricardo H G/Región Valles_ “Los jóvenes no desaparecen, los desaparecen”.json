@@ -1,0 +1,3620 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Región Valles_ “Los jóvenes no desaparecen, los desaparecen”",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 469842583035545393,
+    "filename": "Región Valles_ “Los jóvenes no desaparecen, los desaparecen”.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/groups/14"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/groups/15"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/10",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/11",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/12",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/13",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 758.35,
+            "r": 448.532,
+            "b": 726.071,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Región Valles: 'Los jóvenes no desaparecen, los desaparecen'",
+      "text": "Región Valles: 'Los jóvenes no desaparecen, los desaparecen'",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.5,
+            "t": 705.484,
+            "r": 285.755,
+            "b": 700.135,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "INVESTIGACIÓN JALISCO 7 septiembre, 2015",
+      "text": "INVESTIGACIÓN JALISCO 7 septiembre, 2015"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 357.6666666666667,
+            "t": 504.66666666666663,
+            "r": 411.0,
+            "b": 490.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "francisco",
+      "text": "francisco"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 358.6666666666667,
+            "t": 492.33333333333337,
+            "r": 397.6666666666667,
+            "b": 478.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Javier",
+      "text": "Javier"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 360.0,
+            "t": 483.0,
+            "r": 410.3333333333333,
+            "b": 469.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Csncros",
+      "text": "Csncros"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 363.0,
+            "t": 472.0,
+            "r": 402.6666666666667,
+            "b": 459.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Torres",
+      "text": "Torres"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 291.058,
+            "r": 67.758,
+            "b": 284.886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Por:",
+      "text": "Por:"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 67.754,
+            "t": 291.058,
+            "r": 274.199,
+            "b": 284.885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Darwin Franco Migues (@darwinfranco)",
+      "text": "Darwin Franco Migues (@darwinfranco)"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 262.456,
+            "r": 105.084,
+            "b": 255.17100000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Parte II",
+      "text": "Parte II",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 229.558,
+            "r": 568.854,
+            "b": 124.38599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            692
+          ]
+        }
+      ],
+      "orig": "07  de  septiembre  2015.Las  cifras  oficiales  marcan  que  en  la  Región  Valles existen  118  personas desaparecidas ;  sin  embargo,  en  cada  uno  de  sus  12  municipios  se  conocen  muchas  historias  que quedan fuera del marco institucional, el cual sólo contabiliza denuncias pero no necesariamente a todos los  desaparecidos  que  existen  en  esta  región,  ya  que  aquí muchos  son  los  jóvenes  que  son 'levantados' por la delincuencia organizada , incluso, frente a su propia casa y ante la presencia de sus familiares.  De  ahí  que  el  miedo  provoque  que  las  familias  no  denuncien  y,  en  muchos,  casos  no busquen a su familiar para no sufrir las represalias.",
+      "text": "07  de  septiembre  2015.Las  cifras  oficiales  marcan  que  en  la  Región  Valles existen  118  personas desaparecidas ;  sin  embargo,  en  cada  uno  de  sus  12  municipios  se  conocen  muchas  historias  que quedan fuera del marco institucional, el cual sólo contabiliza denuncias pero no necesariamente a todos los  desaparecidos  que  existen  en  esta  región,  ya  que  aquí muchos  son  los  jóvenes  que  son 'levantados' por la delincuencia organizada , incluso, frente a su propia casa y ante la presencia de sus familiares.  De  ahí  que  el  miedo  provoque  que  las  familias  no  denuncien  y,  en  muchos,  casos  no busquen a su familiar para no sufrir las represalias."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 106.55799999999999,
+            "r": 568.922,
+            "b": 50.88499999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            404
+          ]
+        }
+      ],
+      "orig": "Sin embargo, el amor a la familia (al desaparecido) siempre rompe con todo miedo y silencio y, aún en medio de tal adversidad, existen familias que denuncian la desaparición de Francisco Javier Cisneros Torres, Carlos Alberto Flores Uribe, Alejandro Trinidad Escobedo y Jorge Luis Partida Almaraz. Cuatro hombres que desaparecieron en la Región Valles y cuatro investigaciones que no arrojan ningún tipo.",
+      "text": "Sin embargo, el amor a la familia (al desaparecido) siempre rompe con todo miedo y silencio y, aún en medio de tal adversidad, existen familias que denuncian la desaparición de Francisco Javier Cisneros Torres, Carlos Alberto Flores Uribe, Alejandro Trinidad Escobedo y Jorge Luis Partida Almaraz. Cuatro hombres que desaparecieron en la Región Valles y cuatro investigaciones que no arrojan ningún tipo."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 120.66666666666667,
+            "t": 755.0,
+            "r": 270.66666666666663,
+            "b": 728.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "REGIÓN VALLES",
+      "text": "REGIÓN VALLES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 374.3333333333333,
+            "t": 755.3333333333334,
+            "r": 467.6666666666667,
+            "b": 726.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "JALISCO",
+      "text": "JALISCO",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 120.66666666666667,
+            "t": 719.3333333333334,
+            "r": 272.33333333333337,
+            "b": 685.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "Registro Nacional: 118 Fiscalía Jalisco: 113",
+      "text": "Registro Nacional: 118 Fiscalía Jalisco: 113"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 296.3333333333333,
+            "t": 726.0,
+            "r": 538.0,
+            "b": 699.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Desaparecidos por Regiones",
+      "text": "Desaparecidos por Regiones",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 319.3333333333333,
+            "t": 679.6666666666666,
+            "r": 554.6666666666666,
+            "b": 655.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Desaparecidos por municipio",
+      "text": "Desaparecidos por municipio",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 386.0,
+            "t": 650.3333333333333,
+            "r": 536.6666666666667,
+            "b": 633.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "1) Ahualulco de Mercado 7",
+      "text": "Ahualulco de Mercado 7",
+      "enumerated": true,
+      "marker": "1)"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 384.3333333333333,
+            "t": 626.0,
+            "r": 475.0,
+            "b": 605.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "2) Amatitán 10",
+      "text": "Amatitán 10",
+      "enumerated": true,
+      "marker": "2)"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 304.6666666666667,
+            "t": 601.6666666666666,
+            "r": 324.6666666666667,
+            "b": 585.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "11",
+      "text": "11"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 385.0,
+            "t": 598.6666666666666,
+            "r": 474.3333333333333,
+            "b": 578.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "3) Ameca 18",
+      "text": "Ameca 18",
+      "enumerated": true,
+      "marker": "3)"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 385.0,
+            "t": 571.3333333333334,
+            "r": 552.3333333333334,
+            "b": 550.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "4) San Juanito de Escobedo 2",
+      "text": "San Juanito de Escobedo 2",
+      "enumerated": true,
+      "marker": "4)"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 385.0,
+            "t": 540.6666666666666,
+            "r": 475.6666666666667,
+            "b": 522.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "5) El Arenal 5",
+      "text": "El Arenal 5",
+      "enumerated": true,
+      "marker": "5)"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 288.33333333333337,
+            "t": 509.3333333333333,
+            "r": 305.6666666666667,
+            "b": 495.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "12",
+      "text": "12"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 384.3333333333333,
+            "t": 516.0,
+            "r": 477.0,
+            "b": 494.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "6) Etzatlán  10",
+      "text": "Etzatlán  10",
+      "enumerated": true,
+      "marker": "6)"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 329.6666666666667,
+            "t": 495.3333333333333,
+            "r": 350.3333333333333,
+            "b": 480.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 227.33333333333334,
+            "t": 478.3333333333333,
+            "r": 237.33333333333334,
+            "b": 465.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 385.0,
+            "t": 488.0,
+            "r": 501.0,
+            "b": 467.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "7) Hostotipaquillo  2",
+      "text": "Hostotipaquillo  2",
+      "enumerated": true,
+      "marker": "7)"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 384.6666666666667,
+            "t": 457.6666666666667,
+            "r": 480.3333333333333,
+            "b": 438.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "8) Magdalena 8",
+      "text": "Magdalena 8",
+      "enumerated": true,
+      "marker": "8)"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 384.6666666666667,
+            "t": 431.0,
+            "r": 481.3333333333333,
+            "b": 413.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "9) San Marcos 0",
+      "text": "San Marcos 0",
+      "enumerated": true,
+      "marker": "9)"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 386.0,
+            "t": 405.3333333333333,
+            "r": 475.0,
+            "b": 385.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "10) Tala 45",
+      "text": "Tala 45",
+      "enumerated": true,
+      "marker": "10)"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 385.6666666666667,
+            "t": 378.0,
+            "r": 473.6666666666667,
+            "b": 357.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "11) Tequila 16",
+      "text": "Tequila 16",
+      "enumerated": true,
+      "marker": "11)"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 385.3333333333333,
+            "t": 349.0,
+            "r": 466.6666666666667,
+            "b": 333.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "12) Teuchitlán",
+      "text": "Teuchitlán",
+      "enumerated": true,
+      "marker": "12)"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 472.6666666666667,
+            "t": 349.0,
+            "r": 480.6666666666667,
+            "b": 333.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 223.0,
+            "t": 312.3333333333333,
+            "r": 544.3333333333333,
+            "b": 290.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "Datos del Registro Nacional de Personas Extraviadas y Desaparecidas Direcciones regionales de la Fiscalla General de Jalisco, última actualización julio de 2015",
+      "text": "Datos del Registro Nacional de Personas Extraviadas y Desaparecidas Direcciones regionales de la Fiscalla General de Jalisco, última actualización julio de 2015"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.0,
+            "t": 279.9100000000001,
+            "r": 319.457,
+            "b": 275.38300000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "Los desaparecidos en la región Valles de Jalisco. Infografía: Darwin Franco",
+      "text": "Los desaparecidos en la región Valles de Jalisco. Infografía: Darwin Franco"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 143.188,
+            "t": 254.95600000000002,
+            "r": 469.815,
+            "b": 247.67100000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Los desaparecidos de la Región Valles",
+      "text": "Los desaparecidos de la Región Valles",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.0,
+            "t": 222.058,
+            "r": 568.882,
+            "b": 116.88499999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            690
+          ]
+        }
+      ],
+      "orig": "En  el  Registro  Nacional  de  Personas  Extraviadas  o  Desaparecidas  (RNPED)  se  contabilizan 118 denuncias por desaparición de personas en todos los municipios que conforman la Región Valles; no obstante,  en  los  datos  de  la  Dirección  Regional  Valles  de  la  Fiscalía  General,  entre  2013  y  2015 desaparecieron en esta región 196 personas (138 hombres y 58 mujeres) pero su 'labor investigativa' ha contribuido a localizar a 72 personas con vida (33 hombres y 39 mujeres) y a 11 sin ella, todos del sexo masculino. Tomando  en  cuenta  tales datos la Fiscalía de Jalisco  sólo  busca  a  113 desaparecidos (94 hombres y 19 mujeres) y no a los 118 que aparecen en el RNPED.",
+      "text": "En  el  Registro  Nacional  de  Personas  Extraviadas  o  Desaparecidas  (RNPED)  se  contabilizan 118 denuncias por desaparición de personas en todos los municipios que conforman la Región Valles; no obstante,  en  los  datos  de  la  Dirección  Regional  Valles  de  la  Fiscalía  General,  entre  2013  y  2015 desaparecieron en esta región 196 personas (138 hombres y 58 mujeres) pero su 'labor investigativa' ha contribuido a localizar a 72 personas con vida (33 hombres y 39 mujeres) y a 11 sin ella, todos del sexo masculino. Tomando  en  cuenta  tales datos la Fiscalía de Jalisco  sólo  busca  a  113 desaparecidos (94 hombres y 19 mujeres) y no a los 118 que aparecen en el RNPED."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.0,
+            "t": 99.05799999999999,
+            "r": 568.927,
+            "b": 43.38599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            401
+          ]
+        }
+      ],
+      "orig": "Los municipios que conforman la Región Valles son Ahualulco de Mercado, Amatitán, Ameca, El Arenal, Etzatlán, Hostotipaquillo, Magdalena, San Juanito de Escobedo, San Marcos, Tala, Tequila y Teuchitlán. De  éstos  únicamente San  Marcos  no  presenta  formalmente  denuncias  por  desaparición ;  sin embargo, en esta región se ubica uno de los municipios de Jalisco con mayor número de desaparecidos:",
+      "text": "Los municipios que conforman la Región Valles son Ahualulco de Mercado, Amatitán, Ameca, El Arenal, Etzatlán, Hostotipaquillo, Magdalena, San Juanito de Escobedo, San Marcos, Tala, Tequila y Teuchitlán. De  éstos  únicamente San  Marcos  no  presenta  formalmente  denuncias  por  desaparición ;  sin embargo, en esta región se ubica uno de los municipios de Jalisco con mayor número de desaparecidos:"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 759.058,
+            "r": 568.429,
+            "b": 736.386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "Tala ,  el  cual  registra  oficialmente 45  desaparecidos pero  sus  habitantes  aseguran  que  son,  por  lo menos, 90 jóvenes los que fueron desaparecidos por el crimen organizado en los dos últimos años.",
+      "text": "Tala ,  el  cual  registra  oficialmente 45  desaparecidos pero  sus  habitantes  aseguran  que  son,  por  lo menos, 90 jóvenes los que fueron desaparecidos por el crimen organizado en los dos últimos años."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 718.558,
+            "r": 568.767,
+            "b": 695.886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "En esa mismo tenor, está el  municipio  de Ameca donde  las  familias  de  desaparecidos  reconocen  la ausencia de más de 120 jóvenes aunque las denuncias oficiales sólo sean 18.",
+      "text": "En esa mismo tenor, está el  municipio  de Ameca donde  las  familias  de  desaparecidos  reconocen  la ausencia de más de 120 jóvenes aunque las denuncias oficiales sólo sean 18."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 678.058,
+            "r": 568.654,
+            "b": 638.886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            247
+          ]
+        }
+      ],
+      "orig": "Y  es  que  la  violencia  es  tal  en  esta  región  que  entre  2013  y  2015, 103  de  los  128  homicidios sucedieron por el uso de algún arma de fuego. En ambos casos (desapariciones y homicidios), Tala y Ameca fueron los municipios punteros.",
+      "text": "Y  es  que  la  violencia  es  tal  en  esta  región  que  entre  2013  y  2015, 103  de  los  128  homicidios sucedieron por el uso de algún arma de fuego. En ambos casos (desapariciones y homicidios), Tala y Ameca fueron los municipios punteros."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 621.058,
+            "r": 568.765,
+            "b": 499.386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            788
+          ]
+        }
+      ],
+      "orig": "Los testimonios de las familias que cuentan con un desaparecido en la Región Valles concuerdan en que las desapariciones suceden por dos circunstancias: la negativa a trabajar con el crimen organizado y la  colusión  de  las  autoridades  locales que  permiten  actuar  a  estos  grupos  con  total  impunidad.  El perfil del desaparecido en esta región es el de un joven, principalmente varón, entre los 18 y 30 años de edad, los cuales -como afirman las familias- no desaparecen, los desaparecen: 'los que se llevan a nuestros hijos después se andan paseando por el pueblo, así cómo vamos a denunciarlos' , narró una de las madres que el 31 de agosto del 2014 asistió a la misa por los desaparecidos que se celebró en el Templo de San Francisco de Asís, ubicado en el municipio de Tala.",
+      "text": "Los testimonios de las familias que cuentan con un desaparecido en la Región Valles concuerdan en que las desapariciones suceden por dos circunstancias: la negativa a trabajar con el crimen organizado y la  colusión  de  las  autoridades  locales que  permiten  actuar  a  estos  grupos  con  total  impunidad.  El perfil del desaparecido en esta región es el de un joven, principalmente varón, entre los 18 y 30 años de edad, los cuales -como afirman las familias- no desaparecen, los desaparecen: 'los que se llevan a nuestros hijos después se andan paseando por el pueblo, así cómo vamos a denunciarlos' , narró una de las madres que el 31 de agosto del 2014 asistió a la misa por los desaparecidos que se celebró en el Templo de San Francisco de Asís, ubicado en el municipio de Tala."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 481.558,
+            "r": 568.354,
+            "b": 425.886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            359
+          ]
+        }
+      ],
+      "orig": "Hoy a un año de esto, ella se niega a presentar una denuncia pero continúa buscando a su hijo con todas sus fuerzas. Así lo hacen también las familias de Francisco Javier Cisneros Torres, Carlos Alberto Flores  Uribe,  Alejandro  Trinidad  Escobedo  y  Jorge  Luis  Partida  Almaraz,  ejemplos  de  lo  que  implica desaparecer en la Región Valles de Jalisco.",
+      "text": "Hoy a un año de esto, ella se niega a presentar una denuncia pero continúa buscando a su hijo con todas sus fuerzas. Así lo hacen también las familias de Francisco Javier Cisneros Torres, Carlos Alberto Flores  Uribe,  Alejandro  Trinidad  Escobedo  y  Jorge  Luis  Partida  Almaraz,  ejemplos  de  lo  que  implica desaparecer en la Región Valles de Jalisco."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 104.0,
+            "t": 359.41,
+            "r": 406.62,
+            "b": 354.884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "Francisco Javier Cisneros Torres, Javi, joven desaparecido en Tala. Foto: FUNDEJ",
+      "text": "Francisco Javier Cisneros Torres, Javi, joven desaparecido en Tala. Foto: FUNDEJ"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 230.785,
+            "t": 334.456,
+            "r": 382.215,
+            "b": 327.171,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "¿Dónde está Javi?",
+      "text": "¿Dónde está Javi?",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 44.0,
+            "t": 301.559,
+            "r": 568.836,
+            "b": 245.88699999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            354
+          ]
+        }
+      ],
+      "orig": "Francisco  Javier  Cisneros  Torres, Javi ,  desapareció  el  19  de  octubre  del  2013  en  Tala.  Desde  su desaparición, su madre, María de los Ángeles puede contar con una sola mano el número de veces que personal de la Fiscalía ha acudido a su casa o le ha marcado por teléfono para darle alguna información que le permita saber dónde está su hijo.",
+      "text": "Francisco  Javier  Cisneros  Torres, Javi ,  desapareció  el  19  de  octubre  del  2013  en  Tala.  Desde  su desaparición, su madre, María de los Ángeles puede contar con una sola mano el número de veces que personal de la Fiscalía ha acudido a su casa o le ha marcado por teléfono para darle alguna información que le permita saber dónde está su hijo."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 44.0,
+            "t": 228.05899999999997,
+            "r": 568.718,
+            "b": 155.88699999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            431
+          ]
+        }
+      ],
+      "orig": "Javi desapareció enfrente de su propia casa pues esa noche éste se encontraba en el domicilio de su amigo  Pedro  Damián  cuando  de  pronto  un  grupo  de  hombres  bajó  de  una  camioneta  e  ingresó  al domicilio. Los gritos comenzaron, y ahí fue cuando María de los Ángeles salió corriendo para ver qué pasaba. Su hijo, Javi, no sólo había sido golpeado sino que también fue llevado por esas personas a borde de una camioneta.",
+      "text": "Javi desapareció enfrente de su propia casa pues esa noche éste se encontraba en el domicilio de su amigo  Pedro  Damián  cuando  de  pronto  un  grupo  de  hombres  bajó  de  una  camioneta  e  ingresó  al domicilio. Los gritos comenzaron, y ahí fue cuando María de los Ángeles salió corriendo para ver qué pasaba. Su hijo, Javi, no sólo había sido golpeado sino que también fue llevado por esas personas a borde de una camioneta."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 44.0,
+            "t": 130.712,
+            "r": 66.5,
+            "b": 106.04099999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "'",
+      "text": "'"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.25,
+            "t": 129.02499999999998,
+            "r": 568.985,
+            "b": 48.49000000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            526
+          ]
+        }
+      ],
+      "orig": "'Esa noche yo estaba ahí descalza en la calle gritando a todo mundo que me ayudaran, pero nadie lo hizo. Yo vi a los que se llevaron a mi hijo pero no eran personas que yo conocía. En mi declaración me exigían que les dijeras las placas de la camioneta pero yo no las vi porque sólo podía mirar a Javi todo sagrado de su cara', precisó María de los Ángeles, quien después de un año y diez meses no se explica el por qué sólo se llevaron a su hijo y no a ninguna de las otras personas que vivían en donde ocurrieron los hechos.",
+      "text": "'Esa noche yo estaba ahí descalza en la calle gritando a todo mundo que me ayudaran, pero nadie lo hizo. Yo vi a los que se llevaron a mi hijo pero no eran personas que yo conocía. En mi declaración me exigían que les dijeras las placas de la camioneta pero yo no las vi porque sólo podía mirar a Javi todo sagrado de su cara', precisó María de los Ángeles, quien después de un año y diez meses no se explica el por qué sólo se llevaron a su hijo y no a ninguna de las otras personas que vivían en donde ocurrieron los hechos."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 44.0,
+            "t": 759.059,
+            "r": 568.616,
+            "b": 686.887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            430
+          ]
+        }
+      ],
+      "orig": "Esto  tampoco  lo  indagaron  las  autoridades,  pues  esa  misma  noche  la  familia  de  Pedro  Damián abandonó el domicilio y es fecha en que no se sabe nada de ellos en Tala. La madre de Javi , incluso, ha llegado a pensar que lo que provocó la desaparición de su hijo fue su actitud protectora: 'Él siempre cuidaba de sus amigos, así que no dudo que esa noche haya buscado la manera de defender a Pedro. Él es muy protector'.",
+      "text": "Esto  tampoco  lo  indagaron  las  autoridades,  pues  esa  misma  noche  la  familia  de  Pedro  Damián abandonó el domicilio y es fecha en que no se sabe nada de ellos en Tala. La madre de Javi , incluso, ha llegado a pensar que lo que provocó la desaparición de su hijo fue su actitud protectora: 'Él siempre cuidaba de sus amigos, así que no dudo que esa noche haya buscado la manera de defender a Pedro. Él es muy protector'."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 44.0,
+            "t": 669.059,
+            "r": 568.81,
+            "b": 547.387,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            755
+          ]
+        }
+      ],
+      "orig": "Francisco Javier Cisneros Torres hoy tiene 32 años , es un joven alto de tez morena que le gusta de tener su cabello a rapa y que además está orgulloso de cada uno de los tatuajes que dibujan su cuerpo. Muchos de ellos fueron realizados por su hermana, Nansi :  'Nunca dejaré de luchar hasta encontrar a Javi, lo único que queremos es localizarlo. En esta búsqueda hemos investigado muchas cosas, pues yo me cansé de estar esperando. Incluso, yo fui quien se metió a la casa de donde se lo llevaron y tomé las fotografías de cómo quedó todo. Ahí estaba su sudadera llena de sangre y nadie hizo peritaje alguno, tampoco fueron capaces de indagar la relación entre el amigo de Javi y los hombres que se llevaron a mi hermano', precisó Nansi con indignación.",
+      "text": "Francisco Javier Cisneros Torres hoy tiene 32 años , es un joven alto de tez morena que le gusta de tener su cabello a rapa y que además está orgulloso de cada uno de los tatuajes que dibujan su cuerpo. Muchos de ellos fueron realizados por su hermana, Nansi :  'Nunca dejaré de luchar hasta encontrar a Javi, lo único que queremos es localizarlo. En esta búsqueda hemos investigado muchas cosas, pues yo me cansé de estar esperando. Incluso, yo fui quien se metió a la casa de donde se lo llevaron y tomé las fotografías de cómo quedó todo. Ahí estaba su sudadera llena de sangre y nadie hizo peritaje alguno, tampoco fueron capaces de indagar la relación entre el amigo de Javi y los hombres que se llevaron a mi hermano', precisó Nansi con indignación."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 44.0,
+            "t": 529.559,
+            "r": 568.532,
+            "b": 473.885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            374
+          ]
+        }
+      ],
+      "orig": "Desde la página de Facebook, Justice for Javi, Nansi no deja de compartir la fotografía de su hermano, así como tampoco ha dejado de insistirle al resto de las familias de Tala que se junten para exigir a las autoridades  que  los  busquen.  En  Tala  existe  miedo  pero  María  de  los  Ángeles  y  Nansi, no cesarán hasta que Javi regresé con ellas y con su pequeña hija.",
+      "text": "Desde la página de Facebook, Justice for Javi, Nansi no deja de compartir la fotografía de su hermano, así como tampoco ha dejado de insistirle al resto de las familias de Tala que se junten para exigir a las autoridades  que  los  busquen.  En  Tala  existe  miedo  pero  María  de  los  Ángeles  y  Nansi, no cesarán hasta que Javi regresé con ellas y con su pequeña hija."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 44.0,
+            "t": 104.40999999999997,
+            "r": 370.967,
+            "b": 99.88300000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "Madre de Francisco Javier Cisneros, un joven desaparecido en Tala. Foto: Paloma López",
+      "text": "Madre de Francisco Javier Cisneros, un joven desaparecido en Tala. Foto: Paloma López"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 462.6666666666667,
+            "t": 443.0,
+            "r": 530.0,
+            "b": 418.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Francisco",
+      "text": "Francisco"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 463.6666666666667,
+            "t": 423.3333333333333,
+            "r": 512.0,
+            "b": 402.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Javier",
+      "text": "Javier"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 464.3333333333333,
+            "t": 408.3333333333333,
+            "r": 526.0,
+            "b": 387.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Cisncros",
+      "text": "Cisncros"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 466.6666666666667,
+            "t": 376.6666666666667,
+            "r": 556.6666666666666,
+            "b": 354.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Sccuestrad",
+      "text": "Sccuestrad"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 466.3333333333333,
+            "t": 305.66666666666663,
+            "r": 509.3333333333333,
+            "b": 291.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Estatura",
+      "text": "Estatura"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 513.3333333333333,
+            "t": 302.66666666666663,
+            "r": 521.3333333333333,
+            "b": 292.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 466.3333333333333,
+            "t": 273.66666666666663,
+            "r": 558.3333333333334,
+            "b": 251.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "JusIICE Forl",
+      "text": "JusIICE Forl"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 484.6666666666667,
+            "t": 257.33333333333337,
+            "r": 530.3333333333333,
+            "b": 238.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "JAVI",
+      "text": "JAVI"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 469.3482017890174,
+            "t": 341.3078155747586,
+            "r": 496.3184648776492,
+            "b": 316.6921844252414,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Tala",
+      "text": "Tala"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 160.156,
+            "t": 79.45600000000002,
+            "r": 452.846,
+            "b": 72.17100000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "En Ameca, las historias se repiten",
+      "text": "En Ameca, las historias se repiten"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 44.0,
+            "t": 759.059,
+            "r": 568.925,
+            "b": 719.886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            254
+          ]
+        }
+      ],
+      "orig": "Son 41 kilómetros los que separan a los municipios de Ameca y Tala; sin embargo, es mucho el dolor que  los  une,  pues  ambos  territorios  forman  parte  de un  corredor  donde  la  violencia y las desapariciones pueden contarse casi pueblo por pueblo.",
+      "text": "Son 41 kilómetros los que separan a los municipios de Ameca y Tala; sin embargo, es mucho el dolor que  los  une,  pues  ambos  territorios  forman  parte  de un  corredor  donde  la  violencia y las desapariciones pueden contarse casi pueblo por pueblo."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 44.0,
+            "t": 702.059,
+            "r": 569.005,
+            "b": 646.386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            322
+          ]
+        }
+      ],
+      "orig": "Carlos Alberto Flores Uribe es  originario de Ameca, él desapareció el 13 de mayo del 2013 cuando salió de su casa abordo de un vehículo Honda color blanco. De él no se supo nada más, aunque su auto sí apareció calcinado en la carretera que une los municipios de Ahualulco de Mercado y Etzatlán, ambos de la Región Valles.",
+      "text": "Carlos Alberto Flores Uribe es  originario de Ameca, él desapareció el 13 de mayo del 2013 cuando salió de su casa abordo de un vehículo Honda color blanco. De él no se supo nada más, aunque su auto sí apareció calcinado en la carretera que une los municipios de Ahualulco de Mercado y Etzatlán, ambos de la Región Valles."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 44.0,
+            "t": 628.559,
+            "r": 568.92,
+            "b": 523.386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            684
+          ]
+        }
+      ],
+      "orig": "Su madre Marta, no ha dejado de buscarlo. En su andar ha ido identificando que las desapariciones en Ameca son más frecuentes de lo que ella imaginaba antes de pasar por este calvario. Hoy sabe que hay más de 120 jóvenes desaparecidos que tienen una edad muy similar a la de su hijo. Carlos Alberto hoy tiene 29 años: 'Hace tres años empezaron los levantamientos en Ameca, nosotros somos de allá, y a la fecha hay muchos desaparecidos. Hemos ido con el Ministerio Público a preguntar qué saben de mi hijo y la respuesta es que no hay ningún avance en la investigación', explicó Marta, la cual ha hecho de todo por tener, al menos, una pista que la pueda llevar al paradero de su hijo.",
+      "text": "Su madre Marta, no ha dejado de buscarlo. En su andar ha ido identificando que las desapariciones en Ameca son más frecuentes de lo que ella imaginaba antes de pasar por este calvario. Hoy sabe que hay más de 120 jóvenes desaparecidos que tienen una edad muy similar a la de su hijo. Carlos Alberto hoy tiene 29 años: 'Hace tres años empezaron los levantamientos en Ameca, nosotros somos de allá, y a la fecha hay muchos desaparecidos. Hemos ido con el Ministerio Público a preguntar qué saben de mi hijo y la respuesta es que no hay ningún avance en la investigación', explicó Marta, la cual ha hecho de todo por tener, al menos, una pista que la pueda llevar al paradero de su hijo."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 44.0,
+            "t": 208.65999999999997,
+            "r": 485.311,
+            "b": 204.13300000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "La madre de Alejandro Trinidad Escobedo en una de las marchas por los desaparecidos en Jalisco. Foto: Darwin Franco",
+      "text": "La madre de Alejandro Trinidad Escobedo en una de las marchas por los desaparecidos en Jalisco. Foto: Darwin Franco"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 211.098,
+            "t": 183.70600000000002,
+            "r": 401.908,
+            "b": 176.42100000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "En la tierra del tequila",
+      "text": "En la tierra del tequila",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 44.0,
+            "t": 150.80899999999997,
+            "r": 568.7,
+            "b": 78.63599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            516
+          ]
+        }
+      ],
+      "orig": "Alejandro Trinidad Escobedo pocas veces salía de casa de su madre Raquel ,  pero ese 11 de mayo del 2013 decidió acompañar a un amigo a un funeral que se celebraría cerca del municipio de Tequila. Su  regreso  se  prolongó  más  de  lo  esperado  y  ahí  fue  cuando  la  esposa  de  Alejandro  y  Raquel comenzaron  a  buscarlo  por  su  celular,  quien  les  contestó  fue  un  hombre  de  voz  ranchera  que  pidió dinero a cambio de la libertad de Alejandro. La cantidad que les pedía era inaccesible para ellas.",
+      "text": "Alejandro Trinidad Escobedo pocas veces salía de casa de su madre Raquel ,  pero ese 11 de mayo del 2013 decidió acompañar a un amigo a un funeral que se celebraría cerca del municipio de Tequila. Su  regreso  se  prolongó  más  de  lo  esperado  y  ahí  fue  cuando  la  esposa  de  Alejandro  y  Raquel comenzaron  a  buscarlo  por  su  celular,  quien  les  contestó  fue  un  hombre  de  voz  ranchera  que  pidió dinero a cambio de la libertad de Alejandro. La cantidad que les pedía era inaccesible para ellas."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 44.0,
+            "t": 60.80899999999997,
+            "r": 568.653,
+            "b": 38.13599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        },
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 44.0,
+            "t": 759.059,
+            "r": 568.712,
+            "b": 703.386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            209,
+            559
+          ]
+        }
+      ],
+      "orig": "Después  de  esa  llamada ya  no  supieron  nada  ni  de  Alejandro  ni  del  extorsionador ,  así  que  la búsqueda la emprendieron por su cuenta pues pronto supieron que la autoridad no les ayudaría en nada porque  a  Raquel  la  trajeron  de  Tequila  a  Guadalajara  y  viceversa  pero  en  ningún  lado  le  dieron información de lo que han hecho para encontrar a su hijo: 'En estos dos años y medio no tengo ningún avance; al contrario, lo que he encontrado es alteración en mis declaraciones y eso es terrible porque yo nunca criminalizaría a mi hijo'.",
+      "text": "Después  de  esa  llamada ya  no  supieron  nada  ni  de  Alejandro  ni  del  extorsionador ,  así  que  la búsqueda la emprendieron por su cuenta pues pronto supieron que la autoridad no les ayudaría en nada porque  a  Raquel  la  trajeron  de  Tequila  a  Guadalajara  y  viceversa  pero  en  ningún  lado  le  dieron información de lo que han hecho para encontrar a su hijo: 'En estos dos años y medio no tengo ningún avance; al contrario, lo que he encontrado es alteración en mis declaraciones y eso es terrible porque yo nunca criminalizaría a mi hijo'."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 265.6666666666667,
+            "t": 635.0,
+            "r": 337.66666666666663,
+            "b": 619.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "SE BUSCA",
+      "text": "SE BUSCA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 219.5,
+            "t": 387.16,
+            "r": 370.848,
+            "b": 371.383,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "Jorge Luis Partida Almaraz, joven desaparecido en Teuchitlán. Foto: Fundej",
+      "text": "Jorge Luis Partida Almaraz, joven desaparecido en Teuchitlán. Foto: Fundej"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 204.688,
+            "t": 350.956,
+            "r": 408.311,
+            "b": 343.671,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "'Nosotros le llamamos'",
+      "text": "'Nosotros le llamamos'",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 44.0,
+            "t": 318.059,
+            "r": 568.921,
+            "b": 262.38599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            366
+          ]
+        }
+      ],
+      "orig": "Mientras  que  el  Fiscal  General, Eduardo Almaguer ,  presumía  los  tres  operativos  que  emprendieron para la localización del joven Gabriel de la Peña Díaz, en el municipio de Teuchitlán a la familia de Jorge Luis Partida Almaraz , quien desapareció el 23 de agosto de este año, el ministerio público que les tomó su declaración y les dijo que él les llamaría.",
+      "text": "Mientras  que  el  Fiscal  General, Eduardo Almaguer ,  presumía  los  tres  operativos  que  emprendieron para la localización del joven Gabriel de la Peña Díaz, en el municipio de Teuchitlán a la familia de Jorge Luis Partida Almaraz , quien desapareció el 23 de agosto de este año, el ministerio público que les tomó su declaración y les dijo que él les llamaría."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 44.0,
+            "t": 244.558,
+            "r": 568.953,
+            "b": 139.38599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            627
+          ]
+        }
+      ],
+      "orig": "Jorge Luis es un joven de 23 años que trabaja en los campos agrícolas de Teuchitlán. El día en que desapareció (23 de agosto), éste salió de su casa a bordo de un Tsuru rojo con placas JHE1428, era un domingo de paseo como cualquier otro; sin embargo, Jorge Luis no regresó. A los dos días, el 25 de agosto,  su  familia  presentó  la  denuncia  por  desaparición;  sin  embargo,  es  fecha  en  que  nadie  de  la Fiscalía les ha llamado o visitado: 'Nosotros presentamos la denuncia y nos dijeron que esperáramos su llamada… pero nadie nos ha hablado y nadie nos dicho nada de mi hijo', explicó Verónica, madre de Jorge Luis.",
+      "text": "Jorge Luis es un joven de 23 años que trabaja en los campos agrícolas de Teuchitlán. El día en que desapareció (23 de agosto), éste salió de su casa a bordo de un Tsuru rojo con placas JHE1428, era un domingo de paseo como cualquier otro; sin embargo, Jorge Luis no regresó. A los dos días, el 25 de agosto,  su  familia  presentó  la  denuncia  por  desaparición;  sin  embargo,  es  fecha  en  que  nadie  de  la Fiscalía les ha llamado o visitado: 'Nosotros presentamos la denuncia y nos dijeron que esperáramos su llamada… pero nadie nos ha hablado y nadie nos dicho nada de mi hijo', explicó Verónica, madre de Jorge Luis."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 44.0,
+            "t": 121.55799999999999,
+            "r": 568.709,
+            "b": 49.38599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            455
+          ]
+        }
+      ],
+      "orig": "El Fiscal, Eduardo Almaguer, informó que del 15 de julio al 30 de agosto, la Fiscalía localizó a 81 de las 196  personas que  desaparecieron  en  ese  lapso  de  tiempo  y  que  en  todos  los  casos  realizaron operativos como los empleados con Gabriel de la Peña. Un asunto contradictorio siendo que la familia de Jorge Luis Partida Almaraz aún sigue esperando que el personal de la Fiscalía les llame para decirles cómo es que están buscando a su hijo.",
+      "text": "El Fiscal, Eduardo Almaguer, informó que del 15 de julio al 30 de agosto, la Fiscalía localizó a 81 de las 196  personas que  desaparecieron  en  ese  lapso  de  tiempo  y  que  en  todos  los  casos  realizaron operativos como los empleados con Gabriel de la Peña. Un asunto contradictorio siendo que la familia de Jorge Luis Partida Almaraz aún sigue esperando que el personal de la Fiscalía les llame para decirles cómo es que están buscando a su hijo."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 44.0,
+            "t": 363.16,
+            "r": 252.639,
+            "b": 358.633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Misa por los desaparecidos en Tala. Foto: Darwin Franco",
+      "text": "Misa por los desaparecidos en Tala. Foto: Darwin Franco"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.0,
+            "t": 753.0,
+            "r": 66.66666666666666,
+            "b": 742.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "IEMP",
+      "text": "IEMP"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 257.66666666666663,
+            "t": 745.3333333333334,
+            "r": 287.0,
+            "b": 724.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "se",
+      "text": "se"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 289.0,
+            "t": 751.6666666666666,
+            "r": 454.6666666666667,
+            "b": 717.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "defie Ide con",
+      "text": "defie Ide con"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 115.0,
+            "t": 690.3333333333334,
+            "r": 332.3333333333333,
+            "b": 649.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "alalalisco /Noticias",
+      "text": "alalalisco /Noticias"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 223.66666666666666,
+            "t": 392.6666666666667,
+            "r": 236.33333333333334,
+            "b": 372.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "y",
+      "text": "y"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 160.4587390461494,
+            "t": 434.3268419282763,
+            "r": 223.20792762051727,
+            "b": 374.3398247383904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Laparecidos '",
+      "text": "Laparecidos '"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 314.78306954218135,
+            "t": 390.64285372685066,
+            "r": 330.55026379115196,
+            "b": 373.6904796064827,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Angel",
+      "text": "Angel"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 174.477,
+            "t": 338.206,
+            "r": 438.519,
+            "b": 330.921,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Cero vínculos, cero respuestas",
+      "text": "Cero vínculos, cero respuestas",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 44.0,
+            "t": 305.308,
+            "r": 568.896,
+            "b": 233.135,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            417
+          ]
+        }
+      ],
+      "orig": "El 26 de septiembre del 2014, en Tala, la Fiscalía General detuvo a siete integrantes del Cártel Jalisco Nueva Generación (CJNG) ,  quienes confesaron que no sólo se dedicaban a 'levantar y desaparecer personas' que se negaban a trabajar para ellos sino que además los trasladaban a campamentos donde luego de torturarlos, los asesinaban. Estos campamentos -dijeron- que se ubicaban entre los límites de Tala y Ameca.",
+      "text": "El 26 de septiembre del 2014, en Tala, la Fiscalía General detuvo a siete integrantes del Cártel Jalisco Nueva Generación (CJNG) ,  quienes confesaron que no sólo se dedicaban a 'levantar y desaparecer personas' que se negaban a trabajar para ellos sino que además los trasladaban a campamentos donde luego de torturarlos, los asesinaban. Estos campamentos -dijeron- que se ubicaban entre los límites de Tala y Ameca."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 44.0,
+            "t": 215.308,
+            "r": 568.574,
+            "b": 126.63599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            535
+          ]
+        }
+      ],
+      "orig": "Era tal peligrosidad de los detenidos que la Fiscalía los entregó, ese mismo día, a la Subprocuraduría Especializada de Investigación en Delincuencia Organizada perteneciente a la Procuraduría General de la República (PGR). No obstante, la Fiscalía no dio mayor información del tema ni de los resultados que personal  del  Instituto  Jalisciense  de  Ciencias  Forenses  obtuvo  de  los  restos  localizados  en  dichos campamentos. Cuestión clave para determinar si éstos se relacionan o no con las desapariciones de la Región Valles.",
+      "text": "Era tal peligrosidad de los detenidos que la Fiscalía los entregó, ese mismo día, a la Subprocuraduría Especializada de Investigación en Delincuencia Organizada perteneciente a la Procuraduría General de la República (PGR). No obstante, la Fiscalía no dio mayor información del tema ni de los resultados que personal  del  Instituto  Jalisciense  de  Ciencias  Forenses  obtuvo  de  los  restos  localizados  en  dichos campamentos. Cuestión clave para determinar si éstos se relacionan o no con las desapariciones de la Región Valles."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 44.0,
+            "t": 108.80799999999999,
+            "r": 568.861,
+            "b": 53.13499999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            348
+          ]
+        }
+      ],
+      "orig": "En  relación  a  los  detenidos  también  se  mencionó  de  su  posible  participación  en  la  desaparición  de Ricardo Hernández Garduño , director de la policía del municipio de Ahualulco de Mercado, del cual no se sabe nada desde el 19 de junio del 2014. Sin embargo, ni la Fiscalía ni la PGR han dado información sobre el tema. Silencio total.",
+      "text": "En  relación  a  los  detenidos  también  se  mencionó  de  su  posible  participación  en  la  desaparición  de Ricardo Hernández Garduño , director de la policía del municipio de Ahualulco de Mercado, del cual no se sabe nada desde el 19 de junio del 2014. Sin embargo, ni la Fiscalía ni la PGR han dado información sobre el tema. Silencio total."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 44.0,
+            "t": 759.058,
+            "r": 569.003,
+            "b": 686.886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            525
+          ]
+        }
+      ],
+      "orig": "Francisco  Javier,  Carlos  Alberto,  Alejandro  y  Jorge  Luis,  así  como  Ricardo  Hernández  Garduño,  hoy continúan  desaparecidos.  Las  cifras  oficiales  marcan  que  en  la  Región  Valles  existen  118  personas desaparecidas, la realidad -sin embargo- es aún más dolorosa para las familias que por la violencia y el miedo  no  se  atreven  a  denunciar  ni  hablar  del  tema.  No  obstante, el  amor  al  desaparecido ,  como expresara la familia de Javi, debe comenzar a vencer el miedo para iniciar la búsqueda.",
+      "text": "Francisco  Javier,  Carlos  Alberto,  Alejandro  y  Jorge  Luis,  así  como  Ricardo  Hernández  Garduño,  hoy continúan  desaparecidos.  Las  cifras  oficiales  marcan  que  en  la  Región  Valles  existen  118  personas desaparecidas, la realidad -sin embargo- es aún más dolorosa para las familias que por la violencia y el miedo  no  se  atreven  a  denunciar  ni  hablar  del  tema.  No  obstante, el  amor  al  desaparecido ,  como expresara la familia de Javi, debe comenzar a vencer el miedo para iniciar la búsqueda."
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 44.0,
+            "t": 669.053,
+            "r": 568.934,
+            "b": 629.885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "*Esta es la segunda entrega de la investigación titulada 'El tortuoso camino de quienes buscan a los desaparecidos en Jalisco', una radiografía de cómo está el segundo estado con más desaparecidos de México.",
+      "text": "*Esta es la segunda entrega de la investigación titulada 'El tortuoso camino de quienes buscan a los desaparecidos en Jalisco', una radiografía de cómo está el segundo estado con más desaparecidos de México."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 44.0,
+            "t": 612.058,
+            "r": 436.727,
+            "b": 605.886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "Parte 1: El tortuoso camino de quienes buscan a los desaparecidos en Jalisco.",
+      "text": "Parte 1: El tortuoso camino de quienes buscan a los desaparecidos en Jalisco."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 44.0,
+            "t": 588.058,
+            "r": 392.301,
+            "b": 581.886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Parte 3: Región altos Norte: desaparecer en la región de los milagros.",
+      "text": "Parte 3: Región altos Norte: desaparecer en la región de los milagros."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 44.0,
+            "t": 564.058,
+            "r": 459.837,
+            "b": 557.886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "Parte 4: Región Sierra de Amula: El amor y el silencio detrás de cada desaparición.",
+      "text": "Parte 4: Región Sierra de Amula: El amor y el silencio detrás de cada desaparición."
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 44.0,
+            "t": 540.058,
+            "r": 366.04,
+            "b": 533.886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Parte 5: Región Sierra Occidental: El paraíso de la desaparición.",
+      "text": "Parte 5: Región Sierra Occidental: El paraíso de la desaparición."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 50.0,
+            "t": 422.516,
+            "r": 113.015,
+            "b": 416.759,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "0 Comments",
+      "text": "0 Comments",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 59.07,
+            "t": 368.096,
+            "r": 153.043,
+            "b": 361.512,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Add a comment...",
+      "text": "Add a comment..."
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 64.25,
+            "t": 316.659,
+            "r": 167.883,
+            "b": 312.133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Facebook Comments Plugin",
+      "text": "Facebook Comments Plugin"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 399.805,
+            "t": 422.521,
+            "r": 435.98,
+            "b": 416.76,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Sort by",
+      "text": "Sort by"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 442.719,
+            "t": 420.692,
+            "r": 470.725,
+            "b": 415.758,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Oldest",
+      "text": "Oldest"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.138824462890625,
+            "t": 664.2189102172852,
+            "r": 569.7282104492188,
+            "b": 313.14898681640625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/groups/2"
+        },
+        {
+          "$ref": "#/groups/3"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/groups/4"
+        },
+        {
+          "$ref": "#/groups/5"
+        },
+        {
+          "$ref": "#/groups/6"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/groups/7"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/groups/8"
+        },
+        {
+          "$ref": "#/groups/9"
+        },
+        {
+          "$ref": "#/groups/10"
+        },
+        {
+          "$ref": "#/groups/11"
+        },
+        {
+          "$ref": "#/groups/12"
+        },
+        {
+          "$ref": "#/groups/13"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.605377197265625,
+            "t": 762.7708702087402,
+            "r": 567.8980712890625,
+            "b": 285.4991149902344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 102.74201202392578,
+            "t": 764.2918758392334,
+            "r": 502.4580078125,
+            "b": 365.1468200683594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 43.10015869140625,
+            "t": 461.7001037597656,
+            "r": 569.9642944335938,
+            "b": 109.4727783203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/52"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/66"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 43.15752029418945,
+            "t": 510.6071472167969,
+            "r": 569.60498046875,
+            "b": 213.95062255859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/66"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 270.3350830078125,
+            "t": 614.9231262207031,
+            "r": 331.9972839355469,
+            "b": 541.6170806884766,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 218.53883361816406,
+            "t": 430.25201416015625,
+            "r": 385.796142578125,
+            "b": 392.1846923828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.826717376708984,
+            "t": 764.4891052246094,
+            "r": 569.8984375,
+            "b": 368.2414245605469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/76"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 9
+    }
+  }
+}

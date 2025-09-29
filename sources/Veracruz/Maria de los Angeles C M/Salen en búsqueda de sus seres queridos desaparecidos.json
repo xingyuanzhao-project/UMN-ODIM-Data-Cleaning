@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Salen en búsqueda de sus seres queridos desaparecidos",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8022960719196601081,
+    "filename": "Salen en búsqueda de sus seres queridos desaparecidos.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.52305234375,
+            "r": 632.273,
+            "b": 567.49805234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            461
+          ]
+        }
+      ],
+      "orig": "Blog not found Blogger Sign in Blog has been removed Sorry, the blog at cdhpasodelnorte.blogspot.com has been removed. This address is not available for new blogs. Did you expect to see your blog here? See: ' I can't find my blog on the Web, where is it? ' Blogger Main menu Google apps Help Help Center Help Forum Video Tutorials Community Blogger Buzz Developers Blogger API Developer Forum Copyright © 1999 2025 Google Terms of Service Privacy Content Policy",
+      "text": "Blog not found Blogger Sign in Blog has been removed Sorry, the blog at cdhpasodelnorte.blogspot.com has been removed. This address is not available for new blogs. Did you expect to see your blog here? See: ' I can't find my blog on the Web, where is it? ' Blogger Main menu Google apps Help Help Center Help Forum Video Tutorials Community Blogger Buzz Developers Blogger API Developer Forum Copyright © 1999 2025 Google Terms of Service Privacy Content Policy"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

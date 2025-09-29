@@ -1,0 +1,561 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Encuentran diez policías calcinados en Nuevo León",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2803730204859199147,
+    "filename": "Encuentran diez policías calcinados en Nuevo León.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 207.067,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Encuentran diez policías calcinados en Nuevo León",
+      "text": "Encuentran diez policías calcinados en Nuevo León"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 313.937,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "https://lopezdoriga.com/nacional/encuentran-diez-policias-calcinados-en...",
+      "text": "https://lopezdoriga.com/nacional/encuentran-diez-policias-calcinados-en..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.277,
+            "t": 737.444,
+            "r": 399.547,
+            "b": 726.538,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Encuentran diez policías calcinados en Nuevo León",
+      "text": "Encuentran diez policías calcinados en Nuevo León",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.203,
+            "t": 435.319,
+            "r": 141.555,
+            "b": 428.527,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Foto de internet",
+      "text": "Foto de internet"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 285.0,
+            "t": 578.6666666666666,
+            "r": 326.66666666666663,
+            "b": 566.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Fuerza",
+      "text": "Fuerza"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 412.0,
+            "t": 542.0,
+            "r": 456.0,
+            "b": 529.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "JERZA",
+      "text": "JERZA"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 424.6666666666667,
+            "t": 531.6666666666666,
+            "r": 448.6666666666667,
+            "b": 519.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "VIZ",
+      "text": "VIZ"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.282,
+            "t": 415.621,
+            "r": 541.458,
+            "b": 391.752,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "Autoridades de Nuevo León encontraron los cuerpos calcinados de 10 policías de Apodaca, desaparecidos en 2011",
+      "text": "Autoridades de Nuevo León encontraron los cuerpos calcinados de 10 policías de Apodaca, desaparecidos en 2011",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.279,
+            "t": 379.393,
+            "r": 546.18,
+            "b": 363.722,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "La Procuraduría General de Justicia de Nuevo León encontraron los cuerpos de 10 policías calcinados en el municipio de Salinas Victoria, quienes estaban desaparecidos desde el 2011.",
+      "text": "La Procuraduría General de Justicia de Nuevo León encontraron los cuerpos de 10 policías calcinados en el municipio de Salinas Victoria, quienes estaban desaparecidos desde el 2011."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.279,
+            "t": 353.594,
+            "r": 542.481,
+            "b": 337.804,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "Los restos calcinados fueron encontrados en un ejido llamado Las Abejas, en el municipio de Salinas Victoria, para después ser traslados a las instalaciones de la PGJ estatal.",
+      "text": "Los restos calcinados fueron encontrados en un ejido llamado Las Abejas, en el municipio de Salinas Victoria, para después ser traslados a las instalaciones de la PGJ estatal."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.279,
+            "t": 327.792,
+            "r": 524.978,
+            "b": 312.003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "Después de su revisión, se descubrió que los diez cuerpos pertenecían a policías de Apodaca desaparecidos desde 2011, debido a sus coincidencia con el perfil genético.",
+      "text": "Después de su revisión, se descubrió que los diez cuerpos pertenecían a policías de Apodaca desaparecidos desde 2011, debido a sus coincidencia con el perfil genético."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.279,
+            "t": 301.875,
+            "r": 539.163,
+            "b": 277.202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            301
+          ]
+        }
+      ],
+      "orig": "Fue así como se identificó que los cuerpos pertenecían a Milton Alvarado Rojas, Isidro López Buenrostro, Alejandro Guadalupe Zamora Vaca, Crispín Severín, Ricardo Rangel García, Bryan Mendoza Noriega, Diego García, Adrián Guadalupe García Hernández, Francisco Javier González y José Guadalupe Herrera.",
+      "text": "Fue así como se identificó que los cuerpos pertenecían a Milton Alvarado Rojas, Isidro López Buenrostro, Alejandro Guadalupe Zamora Vaca, Crispín Severín, Ricardo Rangel García, Bryan Mendoza Noriega, Diego García, Adrián Guadalupe García Hernández, Francisco Javier González y José Guadalupe Herrera."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.279,
+            "t": 267.193,
+            "r": 480.237,
+            "b": 251.40300000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "Tres policías de Apodaca fueron secuestrados en 2011, a lo que Milton Alvarado Rojas. jefe policíaco, junto con siete de sus escoltas fueron a su rescate, pero nunca volvieron.",
+      "text": "Tres policías de Apodaca fueron secuestrados en 2011, a lo que Milton Alvarado Rojas. jefe policíaco, junto con siete de sus escoltas fueron a su rescate, pero nunca volvieron."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.279,
+            "t": 241.27499999999998,
+            "r": 168.866,
+            "b": 234.48400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Con información de Excélsior",
+      "text": "Con información de Excélsior"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 525.479,
+            "t": 8.63900000000001,
+            "r": 611.921,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "8/30/2019, 11:47 AM",
+      "text": "8/30/2019, 11:47 AM"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 83.72340393066406,
+            "t": 711.8025741577148,
+            "r": 572.4332885742188,
+            "b": 435.98480224609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

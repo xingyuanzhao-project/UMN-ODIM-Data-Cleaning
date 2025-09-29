@@ -1,0 +1,419 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Continúan la búsqueda de Roberto Aguilar a un mes de su desaparición",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15021835526736974184,
+    "filename": "Continúan la búsqueda de Roberto Aguilar a un mes de su desaparición.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 609.592,
+            "r": 316.725,
+            "b": 601.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "Continúan la búsqueda de Roberto Aguilar a un mes de su desaparición - udgtv",
+      "text": "Continúan la búsqueda de Roberto Aguilar a un mes de su desaparición - udgtv"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 404.273,
+            "t": 609.592,
+            "r": 789.423,
+            "b": 601.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "http://udgtv.com/noticias/jalisco/continuan-la-busqueda-de-roberto-aguilar-a-un-mes-de-su-des..",
+      "text": "http://udgtv.com/noticias/jalisco/continuan-la-busqueda-de-roberto-aguilar-a-un-mes-de-su-des.."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.281,
+            "t": 565.252,
+            "r": 235.579,
+            "b": 556.927,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "[pro_ad_display_adzone id=58720]",
+      "text": "[pro_ad_display_adzone id=58720]"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.279,
+            "t": 355.208,
+            "r": 726.765,
+            "b": 293.67,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            467
+          ]
+        }
+      ],
+      "orig": "Roberto Jaime Aguilar Ramírez,   de 15 años de edad, no ha regresado a su casa desde el pasado 3 de septiembre.  Este joven tiene discapacidad intelectual y habitualmente salía a caminar en su colonia, pero en esta  ocasión ya no volvió, relató su madre, Ana Laura Ramírez Medina, quien aseguró que al día siguiente de su desaparición, interpuso una denuncia ante la Fiscalía General del Estado (FGE), sin encontrar una respuesta oportuna de parte de las autoridades.",
+      "text": "Roberto Jaime Aguilar Ramírez,   de 15 años de edad, no ha regresado a su casa desde el pasado 3 de septiembre.  Este joven tiene discapacidad intelectual y habitualmente salía a caminar en su colonia, pero en esta  ocasión ya no volvió, relató su madre, Ana Laura Ramírez Medina, quien aseguró que al día siguiente de su desaparición, interpuso una denuncia ante la Fiscalía General del Estado (FGE), sin encontrar una respuesta oportuna de parte de las autoridades."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.279,
+            "t": 267.485,
+            "r": 726.685,
+            "b": 240.99400000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "A un mes de la desaparición de Roberto, la FGE tiene activada una pre alerta para localizarlo, medida que a juicio de su madre no es suficiente para que regrese a su casa.",
+      "text": "A un mes de la desaparición de Roberto, la FGE tiene activada una pre alerta para localizarlo, medida que a juicio de su madre no es suficiente para que regrese a su casa."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.279,
+            "t": 214.805,
+            "r": 631.004,
+            "b": 205.95299999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "La señora Ana Laura Ramírez consideró que las autoridades han actuado con displicencia en el caso de su hijo.",
+      "text": "La señora Ana Laura Ramírez consideró que las autoridades han actuado con displicencia en el caso de su hijo."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.279,
+            "t": 179.644,
+            "r": 726.735,
+            "b": 118.22899999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            409
+          ]
+        }
+      ],
+      "orig": "Roberto tiene una estatura de un metro y 70 centímetros, su peso es cercano a los 60 kilogramos y  es moreno claro. Como seña particular tiene una cicatriz de 10 centímetros, en la parte frontal de su cabeza. El último día que lo vio su familia, portaba pantalón y playera azul marino. Cualquier persona con información de su paradero se puede comunicar con la señora Ana Laura Ramírez al celular 33 17 37 73.",
+      "text": "Roberto tiene una estatura de un metro y 70 centímetros, su peso es cercano a los 60 kilogramos y  es moreno claro. Como seña particular tiene una cicatriz de 10 centímetros, en la parte frontal de su cabeza. El último día que lo vio su familia, portaba pantalón y playera azul marino. Cualquier persona con información de su paradero se puede comunicar con la señora Ana Laura Ramírez al celular 33 17 37 73."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.48,
+            "t": 72.25400000000002,
+            "r": 118.002,
+            "b": 63.35400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Acerca de",
+      "text": "Acerca de"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 134.88,
+            "t": 72.25400000000002,
+            "r": 205.844,
+            "b": 63.35400000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Últimas noticias",
+      "text": "Últimas noticias"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.639999999999986,
+            "r": 23.306,
+            "b": 0.4479999999999791,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 2",
+      "text": "1 of 2"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 716.753,
+            "t": 8.639999999999986,
+            "r": 791.941,
+            "b": 0.4479999999999791,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "3/2/2019, 6:01 PM",
+      "text": "3/2/2019, 6:01 PM"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.05536651611328,
+            "t": 77.368408203125,
+            "r": 727.9452514648438,
+            "b": 35.973388671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 1
+    }
+  }
+}

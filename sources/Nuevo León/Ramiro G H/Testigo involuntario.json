@@ -1,0 +1,2903 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Testigo involuntario",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 11335124496287157143,
+    "filename": "Testigo involuntario.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/77"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.976,
+            "t": 806.5250029101562,
+            "r": 55.827,
+            "b": 794.2220029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.477,
+            "t": 778.7270029101562,
+            "r": 241.309,
+            "b": 756.3830029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "PERIODISMO DE DATOS ",
+      "text": "PERIODISMO DE DATOS ",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.501,
+            "t": 700.2420029101562,
+            "r": 243.822,
+            "b": 688.4620029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Testigo involuntario",
+      "text": "Testigo involuntario",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.501,
+            "t": 665.5740029101562,
+            "r": 495.402,
+            "b": 657.8900029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Historia. Por observar un crimen, el taxista Ramiro González está desaparecido",
+      "text": "Historia. Por observar un crimen, el taxista Ramiro González está desaparecido"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 231.66666666666666,
+            "t": 534.586649576823,
+            "r": 333.0,
+            "b": 512.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "zDONDE ESTA",
+      "text": "zDONDE ESTA"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 336.3333333333333,
+            "t": 526.586649576823,
+            "r": 343.0,
+            "b": 516.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.501,
+            "t": 330.20100291015626,
+            "r": 466.626,
+            "b": 325.2630029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "Martha Herrera, madre de Ramiro, busca a su hijo sin descanso (DAVID CARRIZALES. EL UNIVERSAL)",
+      "text": "Martha Herrera, madre de Ramiro, busca a su hijo sin descanso (DAVID CARRIZALES. EL UNIVERSAL)"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.501,
+            "t": 316.45600291015626,
+            "r": 152.018,
+            "b": 307.4650029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "22/09/2015 |  00:35",
+      "text": "22/09/2015 |  00:35"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 159.263,
+            "t": 316.2150029101563,
+            "r": 161.736,
+            "b": 310.8970029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "|",
+      "text": "|"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 169.017,
+            "t": 313.3110029101563,
+            "r": 312.167,
+            "b": 307.93200291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "David Carrizales / Corresponsal",
+      "text": "David Carrizales / Corresponsal"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 319.22,
+            "t": 313.3110029101563,
+            "r": 427.606,
+            "b": 307.93200291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "[ Monterrey, Nuevo León.- ]",
+      "text": "[ Monterrey, Nuevo León.- ]"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 230.342,
+            "t": 287.90300291015626,
+            "r": 365.665,
+            "b": 277.2670029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Desaparecidos",
+      "text": "Desaparecidos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 240.844,
+            "t": 252.71500291015627,
+            "r": 355.144,
+            "b": 246.6370029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Ver Gráco Interactivo",
+      "text": "Ver Gráco Interactivo"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.501,
+            "t": 223.71200291015623,
+            "r": 551.184,
+            "b": 159.62900291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            396
+          ]
+        }
+      ],
+      "orig": "Sólo por ser testigos involuntarios de una escena, fueron desaparecidos. Un grupo de la delincuencia organizada tiraba cadáveres en el cruce de las calles Hilario Martínez y Arturo B. de la Garza, en la popular colonia Independencia. Era el 19 de mayo de 2010, cuando hombres armados se llevaron a Ramiro González Herrera, junto con su compañero de trabajo. Ambos trabajaban en una base de taxis.",
+      "text": "Sólo por ser testigos involuntarios de una escena, fueron desaparecidos. Un grupo de la delincuencia organizada tiraba cadáveres en el cruce de las calles Hilario Martínez y Arturo B. de la Garza, en la popular colonia Independencia. Era el 19 de mayo de 2010, cuando hombres armados se llevaron a Ramiro González Herrera, junto con su compañero de trabajo. Ambos trabajaban en una base de taxis."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.501,
+            "t": 136.7040029101563,
+            "r": 544.347,
+            "b": 101.62400291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            282
+          ]
+        }
+      ],
+      "orig": "Desde entonces, Martha Herrera Contreras, la madre de Ramiro, lo busca sin descanso, sin perder la esperanza y sin escatimar esfuerzos; aunque tampoco puede abandonar la angustia de pensar, cada vez que se reporta el hallazgo de un cuerpo sin vida, si no será el cadáver de su hijo.",
+      "text": "Desde entonces, Martha Herrera Contreras, la madre de Ramiro, lo busca sin descanso, sin perder la esperanza y sin escatimar esfuerzos; aunque tampoco puede abandonar la angustia de pensar, cada vez que se reporta el hallazgo de un cuerpo sin vida, si no será el cadáver de su hijo."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.501,
+            "t": 78.6990029101562,
+            "r": 548.822,
+            "b": 43.61800291015629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "En marzo de 2010, Ramiro González, que entonces tenía 38 años, le dijo a su madre que varios hombres armados habían ido a la base de taxis que operaba en la colonia Independencia, al sur de Monterrey, para amenazarlos.",
+      "text": "En marzo de 2010, Ramiro González, que entonces tenía 38 años, le dijo a su madre que varios hombres armados habían ido a la base de taxis que operaba en la colonia Independencia, al sur de Monterrey, para amenazarlos."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.501,
+            "t": 810.2920029101563,
+            "r": 532.474,
+            "b": 789.7130029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "Sin dar explicaciones, los sujetos que vestían impecablemente, simplemente les dijeron con las armas en ristre, pero sin amagar con ellas, 'se nos van de aquí a la chingada'.",
+      "text": "Sin dar explicaciones, los sujetos que vestían impecablemente, simplemente les dijeron con las armas en ristre, pero sin amagar con ellas, 'se nos van de aquí a la chingada'."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.501,
+            "t": 766.7880029101563,
+            "r": 548.856,
+            "b": 731.7070029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            281
+          ]
+        }
+      ],
+      "orig": "Pero por qué, se preguntó Ramiro, y consultó con un líder cetemista que les cobraba una cuota por trabajar como taxistas, y el hombre les dijo que hicieran lo que creyeran conveniente. 'Si quieren váyanse, si quieren quédense, yo ya no me voy a meter con ustedes, ya no me paguen'.",
+      "text": "Pero por qué, se preguntó Ramiro, y consultó con un líder cetemista que les cobraba una cuota por trabajar como taxistas, y el hombre les dijo que hicieran lo que creyeran conveniente. 'Si quieren váyanse, si quieren quédense, yo ya no me voy a meter con ustedes, ya no me paguen'."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.501,
+            "t": 708.7820029101563,
+            "r": 542.121,
+            "b": 673.7020029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "Sin embargo, como Ramiro tenía esposa y dos hijos de doce y siete años de edad, siguió acudiendo a trabajar como taxista, mientras llevaba solicitudes para conseguir otro empleo, pues era apremiante encontrar otra forma de ganarse la vida.",
+      "text": "Sin embargo, como Ramiro tenía esposa y dos hijos de doce y siete años de edad, siguió acudiendo a trabajar como taxista, mientras llevaba solicitudes para conseguir otro empleo, pues era apremiante encontrar otra forma de ganarse la vida."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.501,
+            "t": 650.7770029101563,
+            "r": 541.062,
+            "b": 601.1950029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            299
+          ]
+        }
+      ],
+      "orig": "El 19 de mayo de 2010, fue a comer a la casa de su abuela materna que vivía a pocas cuadras de distancia del sitio de taxis, y se despidió de manera apresurada. 'Le dijo a mi mamá: -Ya me voy abuelita porque ahorita que todos se van a comer, la base está sola y hay más trabajo', cuenta doña Martha.",
+      "text": "El 19 de mayo de 2010, fue a comer a la casa de su abuela materna que vivía a pocas cuadras de distancia del sitio de taxis, y se despidió de manera apresurada. 'Le dijo a mi mamá: -Ya me voy abuelita porque ahorita que todos se van a comer, la base está sola y hay más trabajo', cuenta doña Martha."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.501,
+            "t": 578.2700029101562,
+            "r": 551.774,
+            "b": 543.1900029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "'Eran como las cuatro de la tarde cuando mi hijo llegó a la base de taxis. Sólo había otro compañero. Hombres armados que iban en un convoy de tres camionetas se los llevaron a los dos, y dejaron los carros con las llaves puestas', cuenta Herrera Contreras.",
+      "text": "'Eran como las cuatro de la tarde cuando mi hijo llegó a la base de taxis. Sólo había otro compañero. Hombres armados que iban en un convoy de tres camionetas se los llevaron a los dos, y dejaron los carros con las llaves puestas', cuenta Herrera Contreras."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.501,
+            "t": 520.2650029101562,
+            "r": 539.566,
+            "b": 499.6860029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "Siguieron días terribles. El miedo los tenía paralizados, y fue hasta cuatro meses después que se atrevieron a presentar la denuncia.",
+      "text": "Siguieron días terribles. El miedo los tenía paralizados, y fue hasta cuatro meses después que se atrevieron a presentar la denuncia."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.501,
+            "t": 476.76100291015626,
+            "r": 527.608,
+            "b": 427.1790029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            331
+          ]
+        }
+      ],
+      "orig": "'Esto te cambia completamente la vida. Como mi madre vivía ahí cerca de la base de taxis, se vinieron todos a mi casa -al norponiente de Monterrey-. Ahí estábamos 20 personas, nos acostábamos en el piso, donde quiera porque no cabíamos. Mi madre, otra hermana mía y sus hijos, ya no querían estar allá en la Independencia', añadió.",
+      "text": "'Esto te cambia completamente la vida. Como mi madre vivía ahí cerca de la base de taxis, se vinieron todos a mi casa -al norponiente de Monterrey-. Ahí estábamos 20 personas, nos acostábamos en el piso, donde quiera porque no cabíamos. Mi madre, otra hermana mía y sus hijos, ya no querían estar allá en la Independencia', añadió."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.501,
+            "t": 404.25400291015626,
+            "r": 541.339,
+            "b": 354.67200291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            301
+          ]
+        }
+      ],
+      "orig": "'Dos años duraron allá conmigo, y luego ya buscaron dónde vivir, pero era un miedo muy grande. En esas calles donde estaban los taxis, en ese mes de mayo, cada ratito iban a dejar cuerpos en las noches. Yo pensé: A lo mejor van a dejar a mi hijo. Mucha gente se salió de esa colonia, ya no viven ahí'.",
+      "text": "'Dos años duraron allá conmigo, y luego ya buscaron dónde vivir, pero era un miedo muy grande. En esas calles donde estaban los taxis, en ese mes de mayo, cada ratito iban a dejar cuerpos en las noches. Yo pensé: A lo mejor van a dejar a mi hijo. Mucha gente se salió de esa colonia, ya no viven ahí'."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.501,
+            "t": 331.74700291015625,
+            "r": 273.455,
+            "b": 325.6700029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "Por las noches, en su casa, Martha recuerda:",
+      "text": "Por las noches, en su casa, Martha recuerda:"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.501,
+            "t": 302.74500291015624,
+            "r": 545.939,
+            "b": 238.66100291015618,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            424
+          ]
+        }
+      ],
+      "orig": "'Poníamos el ropero en la ventana y nos acostábamos en la cocina. Colocábamos el refrigerador como protección, porque decíamos, si  vienen y tiran balazos, pues que no entren. No dormíamos bien del miedo. Duramos mayo, junio, julio y hasta agosto. Tardamos cuatro meses en poner la denuncia, porque pensábamos que a lo mejor venían y nos hacían algo. No hallábamos qué hacer, qué pensar; es una cosa que no le deseo a nadie.",
+      "text": "'Poníamos el ropero en la ventana y nos acostábamos en la cocina. Colocábamos el refrigerador como protección, porque decíamos, si  vienen y tiran balazos, pues que no entren. No dormíamos bien del miedo. Duramos mayo, junio, julio y hasta agosto. Tardamos cuatro meses en poner la denuncia, porque pensábamos que a lo mejor venían y nos hacían algo. No hallábamos qué hacer, qué pensar; es una cosa que no le deseo a nadie."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.501,
+            "t": 215.73600291015623,
+            "r": 544.041,
+            "b": 180.6560029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "'Ahorita mi hijo tendría 42 años. Cuando se lo llevaron tenía 38. Tengo esperanzas de que esté vivo, porque es muy inteligente. A lo mejor supo manejar la situación, no sé, aunque esta gente es muy desalmada.",
+      "text": "'Ahorita mi hijo tendría 42 años. Cuando se lo llevaron tenía 38. Tengo esperanzas de que esté vivo, porque es muy inteligente. A lo mejor supo manejar la situación, no sé, aunque esta gente es muy desalmada."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.501,
+            "t": 157.73100291015623,
+            "r": 549.87,
+            "b": 122.6510029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            261
+          ]
+        }
+      ],
+      "orig": "'Ya son cinco años y siento que me lo acaban de quitar…Sigo con mi angustia latente igual, cada vez que vengo a las juntas en Cadhac (Ciudadanos en Apoyo a los Derechos Humanos).   A su foto que tengo en el peinador le digo: 'Ya me voy mi hijo, voy a buscarte'.",
+      "text": "'Ya son cinco años y siento que me lo acaban de quitar…Sigo con mi angustia latente igual, cada vez que vengo a las juntas en Cadhac (Ciudadanos en Apoyo a los Derechos Humanos).   A su foto que tengo en el peinador le digo: 'Ya me voy mi hijo, voy a buscarte'."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.501,
+            "t": 94.22100291015624,
+            "r": 243.014,
+            "b": 86.53700291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "INFORMACIÓN RELACIONADA",
+      "text": "INFORMACIÓN RELACIONADA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.501,
+            "t": 72.9920029101562,
+            "r": 249.425,
+            "b": 63.80900291015621,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": " Gráfico Interactivo, Desparecidos",
+      "text": " Gráfico Interactivo, Desparecidos"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.305,
+            "t": 44.2180029101562,
+            "r": 114.199,
+            "b": 40.040002910156204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "GUARDAR",
+      "text": "GUARDAR"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 78.305,
+            "t": 801.1890029101562,
+            "r": 116.244,
+            "b": 797.0100029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "FACEBOOK",
+      "text": "FACEBOOK"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 78.305,
+            "t": 775.8110029101563,
+            "r": 109.886,
+            "b": 771.6330029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "TWITTER",
+      "text": "TWITTER"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 78.305,
+            "t": 750.4340029101562,
+            "r": 112.091,
+            "b": 746.2550029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "GOOGLE+",
+      "text": "GOOGLE+"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 78.305,
+            "t": 725.0560029101563,
+            "r": 103.287,
+            "b": 720.8780029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "OTRAS",
+      "text": "OTRAS"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 50.752,
+            "t": 707.9490029101562,
+            "r": 88.853,
+            "b": 701.8020029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "TEMAS",
+      "text": "TEMAS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 52.202,
+            "t": 685.2740029101562,
+            "r": 305.816,
+            "b": 679.9560029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "desaparecidos en México Periodismo de datos historia",
+      "text": "desaparecidos en México Periodismo de datos historia"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 97.0,
+            "t": 645.5866495768229,
+            "r": 221.0,
+            "b": 622.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Mantente al día con el boletín de El Universal",
+      "text": "Mantente al día con el boletín de El Universal"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 89.66666666666666,
+            "t": 594.9199829101562,
+            "r": 213.66666666666666,
+            "b": 570.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Mantente al día con el boletin de El Universal",
+      "text": "Mantente al día con el boletin de El Universal"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 43.501,
+            "t": 526.1950029101563,
+            "r": 159.807,
+            "b": 504.92100291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "PATROCINADO",
+      "text": "PATROCINADO",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 43.501,
+            "t": 484.73600291015623,
+            "r": 415.081,
+            "b": 478.65900291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Play this Game for 1 Minute and see why everyone in Cuenca is addicted",
+      "text": "Play this Game for 1 Minute and see why everyone in Cuenca is addicted"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 43.501,
+            "t": 467.65800291015626,
+            "r": 81.908,
+            "b": 463.4790029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Delta Wars",
+      "text": "Delta Wars"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.272,
+            "t": 379.42300291015624,
+            "r": 200.745,
+            "b": 361.69500291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "EL UNIVERSAL VIDEO",
+      "text": "EL UNIVERSAL VIDEO"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 430.755,
+            "t": 420.57100291015627,
+            "r": 551.764,
+            "b": 416.19500291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Enlaces Patrocinados por Taboola",
+      "text": "Enlaces Patrocinados por Taboola"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 238.33333333333334,
+            "t": 628.5866495768229,
+            "r": 392.3333333333333,
+            "b": 599.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "âxbodoladoq",
+      "text": "âxbodoladoq"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 136.0,
+            "t": 598.5866495768229,
+            "r": 215.66666666666666,
+            "b": 578.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "MEXI(OD",
+      "text": "MEXI(OD"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 298.3333333333333,
+            "t": 553.9199829101562,
+            "r": 325.6666666666667,
+            "b": 541.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "HIVO",
+      "text": "HIVO"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.501,
+            "t": 460.19700291015624,
+            "r": 75.866,
+            "b": 455.63900291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "NACIÓN",
+      "text": "NACIÓN"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.501,
+            "t": 441.23700291015626,
+            "r": 304.983,
+            "b": 426.61100291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "La vida en la cárcel de las mujeres del 68",
+      "text": "La vida en la cárcel de las mujeres del 68",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.501,
+            "t": 363.42300291015624,
+            "r": 145.667,
+            "b": 354.97000291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Desde La Web",
+      "text": "Desde La Web",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.501,
+            "t": 337.54800291015624,
+            "r": 406.675,
+            "b": 331.47000291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "¿1,6 billones de dólares? ¡La mayor lotería del mundo llega a Ecuador!",
+      "text": "¿1,6 billones de dólares? ¡La mayor lotería del mundo llega a Ecuador!"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.501,
+            "t": 320.4690029101562,
+            "r": 93.626,
+            "b": 316.2910029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "theLotter.com",
+      "text": "theLotter.com"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.501,
+            "t": 270.1160029101562,
+            "r": 332.707,
+            "b": 264.0390029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Play this for 1 minute and see why everyone is addicted",
+      "text": "Play this for 1 minute and see why everyone is addicted"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.501,
+            "t": 253.03800291015625,
+            "r": 138.167,
+            "b": 248.85900291015628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Vikings: Free Online Game",
+      "text": "Vikings: Free Online Game"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.501,
+            "t": 202.6850029101563,
+            "r": 370.898,
+            "b": 196.6070029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Build a City, Trade With Your Neighbors, Play With Your Friends",
+      "text": "Build a City, Trade With Your Neighbors, Play With Your Friends"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.501,
+            "t": 185.60600291015623,
+            "r": 175.249,
+            "b": 181.42800291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Forge of Empires - Free Online Game",
+      "text": "Forge of Empires - Free Online Game"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.501,
+            "t": 135.25400291015626,
+            "r": 359.993,
+            "b": 129.17600291015628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "A List Of Cars That Will Last 250,000 Miles - Is Yours Listed?",
+      "text": "A List Of Cars That Will Last 250,000 Miles - Is Yours Listed?"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.501,
+            "t": 118.1750029101562,
+            "r": 83.769,
+            "b": 113.9970029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "BuzzDrives",
+      "text": "BuzzDrives"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.501,
+            "t": 67.82300291015622,
+            "r": 262.086,
+            "b": 61.745002910156245,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "This Woman Reads 100 Books In A Month",
+      "text": "This Woman Reads 100 Books In A Month"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.501,
+            "t": 50.74400291015627,
+            "r": 70.458,
+            "b": 46.56600291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Blinkist",
+      "text": "Blinkist"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 426.042,
+            "t": 359.66500291015626,
+            "r": 547.051,
+            "b": 355.29000291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Enlaces Patrocinados por Taboola",
+      "text": "Enlaces Patrocinados por Taboola"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 43.501,
+            "t": 554.0030029101563,
+            "r": 182.72,
+            "b": 543.3670029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "COMENTARIOS",
+      "text": "COMENTARIOS"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 43.501,
+            "t": 784.9140029101562,
+            "r": 328.351,
+            "b": 778.8370029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "People from Ecuador cannot believe these ight prices",
+      "text": "People from Ecuador cannot believe these ight prices",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 43.501,
+            "t": 767.8360029101563,
+            "r": 88.264,
+            "b": 763.6570029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Flights Shop",
+      "text": "Flights Shop"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 43.501,
+            "t": 717.4830029101562,
+            "r": 280.842,
+            "b": 711.4050029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "25 fotos impactantes sin ayuda de photoshop",
+      "text": "25 fotos impactantes sin ayuda de photoshop"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 43.501,
+            "t": 700.4040029101562,
+            "r": 101.103,
+            "b": 696.2260029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "BuHamster.com",
+      "text": "BuHamster.com"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 43.501,
+            "t": 650.0520029101563,
+            "r": 234.942,
+            "b": 643.9740029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Vuelos a precios bajo desde Ecuador",
+      "text": "Vuelos a precios bajo desde Ecuador"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 43.501,
+            "t": 632.9730029101562,
+            "r": 70.065,
+            "b": 628.7950029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Save70",
+      "text": "Save70"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 50.752,
+            "t": 336.9530029101562,
+            "r": 221.267,
+            "b": 315.6790029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "MÁS EN AUTOPISTAS",
+      "text": "MÁS EN AUTOPISTAS"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 455.362,
+            "t": 296.9550029101563,
+            "r": 559.931,
+            "b": 291.27700291015617,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Ir a la sección de Autopistas ",
+      "text": "Ir a la sección de Autopistas "
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 295.02,
+            "t": 797.5360029101562,
+            "r": 553.799,
+            "b": 789.8520029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Un auto eléctrico SÍ puede hacer viajes largos",
+      "text": "Un auto eléctrico SÍ puede hacer viajes largos"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 295.02,
+            "t": 542.3130029101562,
+            "r": 526.267,
+            "b": 534.6280029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Tesla lanzará su propia marca de tequila",
+      "text": "Tesla lanzará su propia marca de tequila"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 295.02,
+            "t": 287.0890029101563,
+            "r": 548.155,
+            "b": 279.4050029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Cosas básicas de tu auto que deberías saber",
+      "text": "Cosas básicas de tu auto que deberías saber"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 50.752,
+            "t": 789.3940029101562,
+            "r": 194.196,
+            "b": 768.1200029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "NOTICIAS DEL DÍA",
+      "text": "NOTICIAS DEL DÍA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 503.171,
+            "t": 749.3970029101563,
+            "r": 559.931,
+            "b": 743.7190029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Ir a la portada ",
+      "text": "Ir a la portada "
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 295.02,
+            "t": 711.9780029101562,
+            "r": 532.767,
+            "b": 689.7920029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Hombre se lesiona con su propia arma en Chihuahua",
+      "text": "Hombre se lesiona con su propia arma en Chihuahua"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 295.02,
+            "t": 456.75400291015626,
+            "r": 510.823,
+            "b": 434.56900291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "Fiscalía de Aguascalientes apoya con muestras de ADN a fiscalía jalisciense",
+      "text": "Fiscalía de Aguascalientes apoya con muestras de ADN a fiscalía jalisciense"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 295.02,
+            "t": 796.0860029101563,
+            "r": 555.278,
+            "b": 773.9000029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Investigan ataque a jóvenes en una palapa en Tamaulipas",
+      "text": "Investigan ataque a jóvenes en una palapa en Tamaulipas"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 295.02,
+            "t": 797.5360029101562,
+            "r": 541.937,
+            "b": 775.3510029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Kardashian \"altera\" Nueva York con vestido braless",
+      "text": "Kardashian \"altera\" Nueva York con vestido braless"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 295.02,
+            "t": 542.3130029101562,
+            "r": 526.67,
+            "b": 520.1270029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Emily Ratajkowski \"prende\" con atrevido blazer",
+      "text": "Emily Ratajkowski \"prende\" con atrevido blazer"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 295.02,
+            "t": 287.0890029101563,
+            "r": 540.776,
+            "b": 279.4050029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Demi Rose luce curvas en atuendo de látex",
+      "text": "Demi Rose luce curvas en atuendo de látex"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 216.577,
+            "t": 680.8270029101562,
+            "r": 381.397,
+            "b": 676.6490029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "© 2000 - 2018 Todos los derechos reservados",
+      "text": "© 2000 - 2018 Todos los derechos reservados"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 45.348,
+            "t": 671.4010029101562,
+            "r": 550.643,
+            "b": 657.7970029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "EL UNIVERSAL, Compañía Periodística Nacional. De no existir previa autorización, queda expresamente prohibida la Publicación, retransmisión, edición y cualquier otro uso de los contenidos",
+      "text": "EL UNIVERSAL, Compañía Periodística Nacional. De no existir previa autorización, queda expresamente prohibida la Publicación, retransmisión, edición y cualquier otro uso de los contenidos"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.12439727783203,
+            "t": 779.9344711303711,
+            "r": 239.56764221191406,
+            "b": 756.4655990600586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.266178131103516,
+            "t": 640.5447692871094,
+            "r": 516.0903930664062,
+            "b": 348.39398193359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.745643615722656,
+            "t": 646.7261047363281,
+            "r": 89.97355651855469,
+            "b": 622.6465301513672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 52.25358200073242,
+            "t": 595.1725463867188,
+            "r": 82.59918975830078,
+            "b": 571.8301696777344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 239.26837158203125,
+            "t": 653.8191986083984,
+            "r": 279.330322265625,
+            "b": 615.0828247070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 232.46728515625,
+            "t": 602.3586120605469,
+            "r": 272.9297180175781,
+            "b": 564.0969543457031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.593570709228516,
+            "t": 813.5049057006836,
+            "r": 553.328369140625,
+            "b": 472.6004638671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 10
+    }
+  }
+}

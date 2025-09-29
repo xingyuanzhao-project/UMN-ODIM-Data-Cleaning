@@ -1,0 +1,2794 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Su nombre es Juan Carlos. A un año de su búsqueda incansable",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 3635175010801490606,
+    "filename": "Su nombre es Juan Carlos. A un año de su búsqueda incansable.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.007,
+            "t": 808.2680029101563,
+            "r": 487.517,
+            "b": 775.9740029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Su nombre es Juan Carlos. A un año de su búsqueda incansable",
+      "text": "Su nombre es Juan Carlos. A un año de su búsqueda incansable",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.51,
+            "t": 755.3770029101562,
+            "r": 127.932,
+            "b": 750.0260029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "INVESTIGACIÓN",
+      "text": "INVESTIGACIÓN"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 146.699,
+            "t": 755.3770029101562,
+            "r": 187.356,
+            "b": 750.0260029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "JALISCO",
+      "text": "JALISCO"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 202.366,
+            "t": 755.3770029101562,
+            "r": 266.899,
+            "b": 750.0260029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "26 mayo, 2016",
+      "text": "26 mayo, 2016"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.66666666666667,
+            "t": 673.5866495768229,
+            "r": 119.33333333333333,
+            "b": 665.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "19",
+      "text": "19"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 453.6666666666667,
+            "t": 675.2533162434896,
+            "r": 551.6666666666666,
+            "b": 653.2533162434895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "SE BUSC",
+      "text": "SE BUSC"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 106.0,
+            "t": 654.2533162434895,
+            "r": 135.33333333333331,
+            "b": 643.586649576823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "El 26 de",
+      "text": "El 26 de"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 151.66666666666669,
+            "t": 655.9199829101562,
+            "r": 161.66666666666669,
+            "b": 649.2533162434895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "en",
+      "text": "en"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 154.66666666666669,
+            "t": 648.2533162434895,
+            "r": 168.0,
+            "b": 640.2533162434895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "del",
+      "text": "del"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 447.3333333333333,
+            "t": 647.586649576823,
+            "r": 553.3333333333334,
+            "b": 636.586649576823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Juan Carlos Zaragoza Ga",
+      "text": "Juan Carlos Zaragoza Ga"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 449.3333333333333,
+            "t": 632.2533162434895,
+            "r": 552.6666666666666,
+            "b": 622.2533162434895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "19 Anos 1.7Om Tes Blan",
+      "text": "19 Anos 1.7Om Tes Blan"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 101.33333333333333,
+            "t": 617.586649576823,
+            "r": 160.66666666666669,
+            "b": 600.2533162434895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "38 37 60 00",
+      "text": "38 37 60 00"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 448.6666666666667,
+            "t": 618.2533162434895,
+            "r": 553.3333333333334,
+            "b": 603.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Desaparecio en Zapop",
+      "text": "Desaparecio en Zapop"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 449.0,
+            "t": 605.9199829101562,
+            "r": 554.3333333333334,
+            "b": 593.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "El 26 de Mayo del 2015",
+      "text": "El 26 de Mayo del 2015"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 492.6666666666667,
+            "t": 571.2533162434896,
+            "r": 554.3333333333334,
+            "b": 556.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Informes",
+      "text": "Informes"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 497.0,
+            "t": 553.9199829101562,
+            "r": 551.0,
+            "b": 539.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "0 00 Ext.",
+      "text": "0 00 Ext."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 117.28183774522465,
+            "t": 705.8826104095106,
+            "r": 138.0514955881087,
+            "b": 684.9573554108019,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "SE",
+      "text": "SE"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 141.70038924114402,
+            "t": 703.2307472519391,
+            "r": 198.299610758856,
+            "b": 677.27588523504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "BUSCA",
+      "text": "BUSCA"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 109.08573954909726,
+            "t": 684.8723007040797,
+            "r": 126.5809271175694,
+            "b": 675.3009984495661,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Juan",
+      "text": "Juan"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 125.6740093166806,
+            "t": 683.8653558917825,
+            "r": 148.65932401665276,
+            "b": 672.3079432618633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Carlos",
+      "text": "Carlos"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 147.74550670072034,
+            "t": 681.5537241140855,
+            "r": 178.92115996594632,
+            "b": 666.9529083728936,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Zaragoza",
+      "text": "Zaragoza"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 179.45584815598878,
+            "t": 677.2191051088566,
+            "r": 201.2108185106779,
+            "b": 665.9541940447892,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Gaona",
+      "text": "Gaona"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 160.29527599031258,
+            "t": 668.5151262677082,
+            "r": 172.03805734302077,
+            "b": 658.3248395526043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "Tes",
+      "text": "Tes"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 171.68377223398315,
+            "t": 667.2019995415401,
+            "r": 194.64956109935017,
+            "b": 655.304632945439,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "'Blanca",
+      "text": "'Blanca"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 107.76837947269395,
+            "t": 663.8927891248416,
+            "r": 150.8982871939727,
+            "b": 647.947176695471,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Desaparecio",
+      "text": "Desaparecio"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 161.73235613621392,
+            "t": 657.5501674864529,
+            "r": 193.2676438637861,
+            "b": 643.623131667193,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Zapopan",
+      "text": "Zapopan"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 135.0433259380505,
+            "t": 652.2103406479231,
+            "r": 154.29000739528288,
+            "b": 639.296291839056,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Mayo",
+      "text": "Mayo"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 136.4450455630777,
+            "t": 626.5617824326143,
+            "r": 181.22162110358897,
+            "b": 609.9448500543648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Informes",
+      "text": "Informes"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 160.3766592713838,
+            "t": 611.210340647923,
+            "r": 179.29000739528286,
+            "b": 598.296291839056,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Ext.",
+      "text": "Ext."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 181.07884003405368,
+            "t": 608.5537241140855,
+            "r": 212.25449329927963,
+            "b": 593.9529083728936,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "16650",
+      "text": "16650"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.007,
+            "t": 352.01400291015625,
+            "r": 274.313,
+            "b": 345.83800291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Por: Darwin Franco Migues (@darwinfranco)",
+      "text": "Por: Darwin Franco Migues (@darwinfranco)"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.007,
+            "t": 328.0030029101563,
+            "r": 551.527,
+            "b": 239.28900291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            576
+          ]
+        }
+      ],
+      "orig": "El 26 de mayo de 2015 a las 9:05 p.m., Juan Carlos Zaragoza Gaona , de 19 años, salió a comprar un garrafón de agua a escasas puertas de su casa en la colonia Jardines de Nuevo México. Pasaron los  minutos  y  éste  no  regresaba,  así  que  su  padre,  Juan  Zaragoza,  salió  para  saber  qué  había pasado, en  la  calle  sólo  encontró  el  garrafón  tirado  pero  no  estaba  su  hijo. Rápidamente preguntó  a  los  vecinos  qué  habían  visto  o  escuchado,  los  comentarios  le  hicieron  saber  que hombres a bordo de una camioneta negra se lo llevaron por la fuerza.",
+      "text": "El 26 de mayo de 2015 a las 9:05 p.m., Juan Carlos Zaragoza Gaona , de 19 años, salió a comprar un garrafón de agua a escasas puertas de su casa en la colonia Jardines de Nuevo México. Pasaron los  minutos  y  éste  no  regresaba,  así  que  su  padre,  Juan  Zaragoza,  salió  para  saber  qué  había pasado, en  la  calle  sólo  encontró  el  garrafón  tirado  pero  no  estaba  su  hijo. Rápidamente preguntó  a  los  vecinos  qué  habían  visto  o  escuchado,  los  comentarios  le  hicieron  saber  que hombres a bordo de una camioneta negra se lo llevaron por la fuerza."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.007,
+            "t": 221.4540029101563,
+            "r": 551.931,
+            "b": 149.24800291015617,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            462
+          ]
+        }
+      ],
+      "orig": "Desde que desapareció Juan Carlos, tanto Juan Zaragoza como su esposa, Adriana Gaona, y su novia, Laura Rendón, salieron a buscarlo. Hicieron llamadas a los conocidos de su hijo, fueron a los lugares  que  éste  frecuentaba,  pegaron  su  fotografía  en  postes  y  paredes,  acudieron  a  la  Fiscalía General de Jalisco a presentar la denuncia y confiaron en su palabra de que buscarían a su hijo , sin embargo, a un año el avance -a su parecer- ha sido lento.",
+      "text": "Desde que desapareció Juan Carlos, tanto Juan Zaragoza como su esposa, Adriana Gaona, y su novia, Laura Rendón, salieron a buscarlo. Hicieron llamadas a los conocidos de su hijo, fueron a los lugares  que  éste  frecuentaba,  pegaron  su  fotografía  en  postes  y  paredes,  acudieron  a  la  Fiscalía General de Jalisco a presentar la denuncia y confiaron en su palabra de que buscarían a su hijo , sin embargo, a un año el avance -a su parecer- ha sido lento."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.007,
+            "t": 131.41200291015627,
+            "r": 551.769,
+            "b": 59.20600291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            431
+          ]
+        }
+      ],
+      "orig": "'En  un  año  hemos  tenido  muy  pocos  avances  respecto  a  la  mucha  información  que  nosotros  les hemos brindado. Desde el principio les dimos mucha información pero no hemos visto avance. Nosotros  hemos  cooperado  en  los  límites  de  nuestras  posibilidades  pero  no  sentimos  que  estén siguiendo la línea de investigación que nosotros creemos puede llevarnos a saber dónde está Juan Carlos', explicó Juan Zaragoza.",
+      "text": "'En  un  año  hemos  tenido  muy  pocos  avances  respecto  a  la  mucha  información  que  nosotros  les hemos brindado. Desde el principio les dimos mucha información pero no hemos visto avance. Nosotros  hemos  cooperado  en  los  límites  de  nuestras  posibilidades  pero  no  sentimos  que  estén siguiendo la línea de investigación que nosotros creemos puede llevarnos a saber dónde está Juan Carlos', explicó Juan Zaragoza."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 76.0,
+            "t": 815.2533162434896,
+            "r": 315.0,
+            "b": 762.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "SE BUSCA",
+      "text": "SE BUSCA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.0,
+            "t": 751.5866495768229,
+            "r": 329.6666666666667,
+            "b": 719.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Juan Carlos Zaragoza Gaona",
+      "text": "Juan Carlos Zaragoza Gaona"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 63.33333333333333,
+            "t": 715.5866495768229,
+            "r": 354.3333333333333,
+            "b": 625.2755240474223,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "19 Años 1.70m Tes Blanca Desaparecio en Zapopan. Jal. El 26 de del 2015 Mayo",
+      "text": "19 Años 1.70m Tes Blanca Desaparecio en Zapopan. Jal. El 26 de del 2015 Mayo"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.33333333333333,
+            "t": 577.9199829101562,
+            "r": 377.0,
+            "b": 507.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Informes 38 37 60 00 Ext. 16650",
+      "text": "Informes 38 37 60 00 Ext. 16650",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.262,
+            "t": 495.43200291015626,
+            "r": 277.33,
+            "b": 490.90400291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Ficha de búsqueda realizada por la Familia Zaragoza Gaona",
+      "text": "Ficha de búsqueda realizada por la Familia Zaragoza Gaona"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.007,
+            "t": 475.07200291015624,
+            "r": 551.986,
+            "b": 353.34300291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            717
+          ]
+        }
+      ],
+      "orig": "La  familia  de  Juan  Carlos  considera  que  la  desaparición  de  su  hijo  podría  haberse  dado  por  la relación que éste tenía con unos conocidos y, por ello, han pedido que esto se investigue: 'Ellos, sin embargo, nos dicen que tienen mucho trabajo (…) pero creemos que es difícil trabajar si en el año que lleva desaparecido mi hijo nos han cambiado en una ocasión al Ministerio Público y en tres al policía investigador a cargo del caso. Estos cambios entorpecen la investigación porque cada  cambio  implica  contarles  nuevamente  a  los  policías  investigadores  qué  pasó  y,  además, tenemos también que recordarles dónde nos habíamos quedado y esto quita mucho tiempo en la búsqueda de nuestro hijo'.",
+      "text": "La  familia  de  Juan  Carlos  considera  que  la  desaparición  de  su  hijo  podría  haberse  dado  por  la relación que éste tenía con unos conocidos y, por ello, han pedido que esto se investigue: 'Ellos, sin embargo, nos dicen que tienen mucho trabajo (…) pero creemos que es difícil trabajar si en el año que lleva desaparecido mi hijo nos han cambiado en una ocasión al Ministerio Público y en tres al policía investigador a cargo del caso. Estos cambios entorpecen la investigación porque cada  cambio  implica  contarles  nuevamente  a  los  policías  investigadores  qué  pasó  y,  además, tenemos también que recordarles dónde nos habíamos quedado y esto quita mucho tiempo en la búsqueda de nuestro hijo'."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.007,
+            "t": 335.50700291015625,
+            "r": 551.785,
+            "b": 246.79200291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            549
+          ]
+        }
+      ],
+      "orig": "En mayo de 2015, mes en que desapareció Juan Carlos, se presentaron en la Fiscalía General de Jalisco,  conforme  a  los  datos  solicitados  a  su  Unidad  de  Transparencia, 203  denuncias  por desaparición de personas de  las  cuales  se  desprendieron un total de 214 desaparecidos (108 mujeres y 106 hombres). La aparente labor de búsqueda de la Agencia del Ministerio Público 12/C, especializada en desapariciones, logró la localización de 123 de los 214 desaparecidos de ese mes. 91 personas, entre ellas Juan Carlos, no han regresado a casa.",
+      "text": "En mayo de 2015, mes en que desapareció Juan Carlos, se presentaron en la Fiscalía General de Jalisco,  conforme  a  los  datos  solicitados  a  su  Unidad  de  Transparencia, 203  denuncias  por desaparición de personas de  las  cuales  se  desprendieron un total de 214 desaparecidos (108 mujeres y 106 hombres). La aparente labor de búsqueda de la Agencia del Ministerio Público 12/C, especializada en desapariciones, logró la localización de 123 de los 214 desaparecidos de ese mes. 91 personas, entre ellas Juan Carlos, no han regresado a casa."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.007,
+            "t": 228.95700291015623,
+            "r": 551.818,
+            "b": 107.22700291015622,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            699
+          ]
+        }
+      ],
+      "orig": "Estos datos estadísticos proporcionados por la Fiscalía no parecen reflejar la realidad de la familia Zaragoza Gaona porque ellos desde la desaparición de su hijo han acudido o llamado semana tras semana a la Agencia 12/C para saber qué ha pasado con su investigación. Las respuestas han sido múltiples desde la clásica 'estamos investigando, sean pacientes' hasta la más inverosímil como 'no  hemos  logrado  leer  el  expediente  porque  no  sabemos  en  qué  archivero  está,  pues  nos cambiamos de oficina y tenemos un desorden en los archivos'. La única respuesta que Juan, Adriana y Laura desearían saber y que es: 'dónde está Juan Carlos', no ha llegado todavía por parte de las autoridades.",
+      "text": "Estos datos estadísticos proporcionados por la Fiscalía no parecen reflejar la realidad de la familia Zaragoza Gaona porque ellos desde la desaparición de su hijo han acudido o llamado semana tras semana a la Agencia 12/C para saber qué ha pasado con su investigación. Las respuestas han sido múltiples desde la clásica 'estamos investigando, sean pacientes' hasta la más inverosímil como 'no  hemos  logrado  leer  el  expediente  porque  no  sabemos  en  qué  archivero  está,  pues  nos cambiamos de oficina y tenemos un desorden en los archivos'. La única respuesta que Juan, Adriana y Laura desearían saber y que es: 'dónde está Juan Carlos', no ha llegado todavía por parte de las autoridades."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 139.66666666666669,
+            "t": 598.5866495768229,
+            "r": 208.0,
+            "b": 578.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "SE BUSCA",
+      "text": "SE BUSCA"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 357.0,
+            "t": 541.2533162434895,
+            "r": 425.6666666666667,
+            "b": 520.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "SE BUSCA",
+      "text": "SE BUSCA"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 134.0,
+            "t": 522.2533162434895,
+            "r": 157.33333333333331,
+            "b": 512.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "3897",
+      "text": "3897"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 374.3333333333333,
+            "t": 473.58664957682294,
+            "r": 414.6666666666667,
+            "b": 460.58664957682294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Infarmes",
+      "text": "Infarmes"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.007,
+            "t": 298.84100291015625,
+            "r": 484.926,
+            "b": 294.31200291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "Laura, Adriana y Juan en la búsqueda por Juan Carlos. Imagen tomada del sitio Busco a mi novio Juan Carlos Zaragoza",
+      "text": "Laura, Adriana y Juan en la búsqueda por Juan Carlos. Imagen tomada del sitio Busco a mi novio Juan Carlos Zaragoza"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 176.83,
+            "t": 273.87500291015624,
+            "r": 419.162,
+            "b": 266.58700291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Aprender a romper el miedo",
+      "text": "Aprender a romper el miedo",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.007,
+            "t": 240.9630029101562,
+            "r": 552.004,
+            "b": 135.74000291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            628
+          ]
+        }
+      ],
+      "orig": "En casa de la Familia Zaragoza Gaona, Juan, Adriana y Laura recuerdan lo duro que han sido este año  sin  Juan  Carlos.  Sentados  en  la  sala  y  entrecruzando  sus  miradas,  buscan  encontrar  las palabras que expliquen cómo han cambiado sus vidas desde el 26 de mayo de 2015. Juan, padre de Juan  Carlos,  quien  en  su  cuello  lleva  puesto  un  escapulario  con  la  imagen  de  la  Virgen  de Guadalupe, es el primero en responder: 'Desde el principio fueron días, semanas y meses difíciles donde uno no concebía el sueño ni el hambre. Con el paso de tiempo, tuvimos que agarrar fuerza y coraje: se nos quitó el miedo'.",
+      "text": "En casa de la Familia Zaragoza Gaona, Juan, Adriana y Laura recuerdan lo duro que han sido este año  sin  Juan  Carlos.  Sentados  en  la  sala  y  entrecruzando  sus  miradas,  buscan  encontrar  las palabras que expliquen cómo han cambiado sus vidas desde el 26 de mayo de 2015. Juan, padre de Juan  Carlos,  quien  en  su  cuello  lleva  puesto  un  escapulario  con  la  imagen  de  la  Virgen  de Guadalupe, es el primero en responder: 'Desde el principio fueron días, semanas y meses difíciles donde uno no concebía el sueño ni el hambre. Con el paso de tiempo, tuvimos que agarrar fuerza y coraje: se nos quitó el miedo'."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.007,
+            "t": 117.9060029101563,
+            "r": 551.876,
+            "b": 62.20800291015621,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            361
+          ]
+        }
+      ],
+      "orig": "Adriana, madre de Juan Carlos, a quien las palabras se le vuelven lágrimas, precisa: 'El miedo se te quita  por  el  amor  que  le  tienes  a  tu  hijo. Este  amor  jamás  te  permitirá  rendirte  ni  darte  por vencido… es este amor y la solidaridad de estar todos juntos lo que nos mantiene constante. Nos tenemos a nosotros y entre nosotros nos damos ánimo'.",
+      "text": "Adriana, madre de Juan Carlos, a quien las palabras se le vuelven lágrimas, precisa: 'El miedo se te quita  por  el  amor  que  le  tienes  a  tu  hijo. Este  amor  jamás  te  permitirá  rendirte  ni  darte  por vencido… es este amor y la solidaridad de estar todos juntos lo que nos mantiene constante. Nos tenemos a nosotros y entre nosotros nos damos ánimo'."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 44.007,
+            "t": 808.9770029101562,
+            "r": 551.774,
+            "b": 703.7560029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            601
+          ]
+        }
+      ],
+      "orig": "Laura quien con el verde de sus ojos refleja la esperanza de encontrar a su novio es quien más ha impulsado a sus suegros a seguir en la búsqueda: 'Hacer esto para mí no es fácil, todos me dan ánimo o me piden que ya lo deje pasar, pero yo no quiero hacerlo. Al principio fue muy difícil para mí porque nadie entiende lo que estás pasando… La incertidumbre de no saber ni dónde ni cómo está es bien difícil , si tan siquiera nos dijeran dónde está, aunque fuera sin vida, podríamos tener una certeza pero no es así… es esta incertidumbre de no saber en dónde está y qué le hicieron, lo que más duele'.",
+      "text": "Laura quien con el verde de sus ojos refleja la esperanza de encontrar a su novio es quien más ha impulsado a sus suegros a seguir en la búsqueda: 'Hacer esto para mí no es fácil, todos me dan ánimo o me piden que ya lo deje pasar, pero yo no quiero hacerlo. Al principio fue muy difícil para mí porque nadie entiende lo que estás pasando… La incertidumbre de no saber ni dónde ni cómo está es bien difícil , si tan siquiera nos dijeran dónde está, aunque fuera sin vida, podríamos tener una certeza pero no es así… es esta incertidumbre de no saber en dónde está y qué le hicieron, lo que más duele'."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 44.007,
+            "t": 346.11300291015624,
+            "r": 230.278,
+            "b": 341.58400291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Imagen de las calles de Jardines de Nuevo México",
+      "text": "Imagen de las calles de Jardines de Nuevo México"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 39.333333333333336,
+            "t": 687.5866495768229,
+            "r": 113.66666666666667,
+            "b": 659.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Driente",
+      "text": "Driente"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 44.333333333333336,
+            "t": 659.5866495768229,
+            "r": 80.33333333333334,
+            "b": 639.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "nte",
+      "text": "nte"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 89.251,
+            "t": 321.1470029101563,
+            "r": 506.759,
+            "b": 283.84500291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "Jardines de Nuevo México y sus alrededores, las denuncias ignoradas",
+      "text": "Jardines de Nuevo México y sus alrededores, las denuncias ignoradas",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 44.007,
+            "t": 258.22100291015624,
+            "r": 551.631,
+            "b": 169.5060029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            543
+          ]
+        }
+      ],
+      "orig": "La colonia Jardines de Nuevo México se ubica en la zona norte del municipio de Zapopan y forma parte  de  un  conglomerado  de  otras  colonias  que  también  utilizan  su  mote,  tales  como  Villas  y Hogares  de  Nuevo  México. Problemas  de  inseguridad,  pandillerismo  y  narcomenudeo  han estado  presente  en  éstas  colonias pese  a  los  planes  de  desarrollo  y  seguridad  que  se  han implementado por parte de las autoridades municipales tanto de la administración de Héctor Robles (PRI) y de Pablo Lemus (Movimiento Ciudadano).",
+      "text": "La colonia Jardines de Nuevo México se ubica en la zona norte del municipio de Zapopan y forma parte  de  un  conglomerado  de  otras  colonias  que  también  utilizan  su  mote,  tales  como  Villas  y Hogares  de  Nuevo  México. Problemas  de  inseguridad,  pandillerismo  y  narcomenudeo  han estado  presente  en  éstas  colonias pese  a  los  planes  de  desarrollo  y  seguridad  que  se  han implementado por parte de las autoridades municipales tanto de la administración de Héctor Robles (PRI) y de Pablo Lemus (Movimiento Ciudadano)."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 44.007,
+            "t": 151.67100291015618,
+            "r": 551.922,
+            "b": 95.97200291015622,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            327
+          ]
+        }
+      ],
+      "orig": "A este tipo de delitos habría que sumarle las desapariciones, ya que de acuerdo a las indagatorias por desaparición de personas presentadas en la Fiscalía General de Jalisco entre 2015 y lo que va de 2016, existen -por lo menos40 denuncias que indican que hombres y mujeres fueron vistos por última vez en alguna de sus calles.",
+      "text": "A este tipo de delitos habría que sumarle las desapariciones, ya que de acuerdo a las indagatorias por desaparición de personas presentadas en la Fiscalía General de Jalisco entre 2015 y lo que va de 2016, existen -por lo menos40 denuncias que indican que hombres y mujeres fueron vistos por última vez en alguna de sus calles."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 44.007,
+            "t": 78.1370029101563,
+            "r": 551.924,
+            "b": 38.94600291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            287
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 44.007,
+            "t": 808.9770029101562,
+            "r": 551.918,
+            "b": 753.2770029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            288,
+            621
+          ]
+        }
+      ],
+      "orig": "Sin  embargo,  las  desapariciones  ya  estaban  presentes  desde  el  año  2013,  ya  que  en  un deshuesadero  de  carros  fue  localizado a finales de ese  año, el  vehículo  en  que  había desaparecido  Alfredo  Almaraz  Rosales,  el  17  de  septiembre  de  2013. Sin  embargo,  las negligencias en la integración de expedientes entre la Fiscalía General y el Instituto Jalisciense de Ciencias Forenses extendió la agonía de la familia que lo buscó por más de dos años sin saber que Alfredo ya había sido localizado en las fosas clandestinas que se encontraron en la comunidad de Santa Lucía en diciembre de ese año.",
+      "text": "Sin  embargo,  las  desapariciones  ya  estaban  presentes  desde  el  año  2013,  ya  que  en  un deshuesadero  de  carros  fue  localizado a finales de ese  año, el  vehículo  en  que  había desaparecido  Alfredo  Almaraz  Rosales,  el  17  de  septiembre  de  2013. Sin  embargo,  las negligencias en la integración de expedientes entre la Fiscalía General y el Instituto Jalisciense de Ciencias Forenses extendió la agonía de la familia que lo buscó por más de dos años sin saber que Alfredo ya había sido localizado en las fosas clandestinas que se encontraron en la comunidad de Santa Lucía en diciembre de ese año."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 44.007,
+            "t": 735.4430029101562,
+            "r": 551.935,
+            "b": 663.2370029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            430
+          ]
+        }
+      ],
+      "orig": "Un año después, el 8 agosto de 2014, la Fiscalía General aseguró en la calle El Zapote en Hogares de Nuevo México una finca en la se encontraron indicios de que algunas personas desaparecidas fueron  disueltas  ahí  con  compuestos  químicos. El  ex  Fiscal  General, Luis  Carlos  Nájera , aseguró  esto  porque  en  el  lugar  se  localizaron  prendas  e  identificaciones  que  coincidían  con  la desaparición de dos personas.",
+      "text": "Un año después, el 8 agosto de 2014, la Fiscalía General aseguró en la calle El Zapote en Hogares de Nuevo México una finca en la se encontraron indicios de que algunas personas desaparecidas fueron  disueltas  ahí  con  compuestos  químicos. El  ex  Fiscal  General, Luis  Carlos  Nájera , aseguró  esto  porque  en  el  lugar  se  localizaron  prendas  e  identificaciones  que  coincidían  con  la desaparición de dos personas."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 44.007,
+            "t": 645.4010029101562,
+            "r": 551.705,
+            "b": 573.1950029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            485
+          ]
+        }
+      ],
+      "orig": "A la fecha, la Fiscalía no volvió a informar sobre el tema, así que se desconoce la identidad de las dos  personas  desaparecidas  que  ahí  fueron  localizadas. Tampoco  se  sabe  qué  pasó  con  la persona que fue detenida en el lugar, ya que a decir del ex Fiscal a ésta no se le podía acusar ya que:  'Es  que  la  persona  que  deshizo,  no  participó  ni  en  el  secuestro,  ni  en  la  privación,  ni  en  la ejecución, así que estamos viendo en qué ámbito se le puede juzgar'.",
+      "text": "A la fecha, la Fiscalía no volvió a informar sobre el tema, así que se desconoce la identidad de las dos  personas  desaparecidas  que  ahí  fueron  localizadas. Tampoco  se  sabe  qué  pasó  con  la persona que fue detenida en el lugar, ya que a decir del ex Fiscal a ésta no se le podía acusar ya que:  'Es  que  la  persona  que  deshizo,  no  participó  ni  en  el  secuestro,  ni  en  la  privación,  ni  en  la ejecución, así que estamos viendo en qué ámbito se le puede juzgar'."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 44.007,
+            "t": 555.3590029101563,
+            "r": 551.5,
+            "b": 532.6750029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "La información sobre las fosas localizadas en Santa Lucía, en diciembre de 2013 y septiembre de 2015 , al igual que la casa de Hogares de Nuevo México, se mantiene oculta.",
+      "text": "La información sobre las fosas localizadas en Santa Lucía, en diciembre de 2013 y septiembre de 2015 , al igual que la casa de Hogares de Nuevo México, se mantiene oculta."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 44.007,
+            "t": 514.8400029101563,
+            "r": 551.979,
+            "b": 409.61900291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            621
+          ]
+        }
+      ],
+      "orig": "Juan  Carlos  Zaragoza  Gaona  desapareció  en  Jardines  de  Nuevo  México  en  mayo  de  2015,  sin embargo, meses antes de su desaparición la misma camioneta negra que se lo llevó también estuvo involucrada en la desaparición de Óscar Alberto Castellanos Monreal, el 6 de febrero del 2015 , al cual un grupo de personas armadas lo sacaran de su casa, tal y como ha narrado su madre María Isabel. El mismo modus operandis se usó para desaparecer a César Gerardo Guerra Liera un mes después, el 3 de marzo del 2015. Estela, su madre, lo busca desde entonces. Ambos eran residentes de la colonia Jardines de Nuevo México.",
+      "text": "Juan  Carlos  Zaragoza  Gaona  desapareció  en  Jardines  de  Nuevo  México  en  mayo  de  2015,  sin embargo, meses antes de su desaparición la misma camioneta negra que se lo llevó también estuvo involucrada en la desaparición de Óscar Alberto Castellanos Monreal, el 6 de febrero del 2015 , al cual un grupo de personas armadas lo sacaran de su casa, tal y como ha narrado su madre María Isabel. El mismo modus operandis se usó para desaparecer a César Gerardo Guerra Liera un mes después, el 3 de marzo del 2015. Estela, su madre, lo busca desde entonces. Ambos eran residentes de la colonia Jardines de Nuevo México."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 44.007,
+            "t": 391.78300291015626,
+            "r": 551.789,
+            "b": 303.0700029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            522
+          ]
+        }
+      ],
+      "orig": "En 2016, las desapariciones en Jardines de Nuevo México no cesaron, ya que en la misma colonia desaparecieron Cristopher Sánchez Zavala y Alfonso Zavala Hernández, ambos de 16 años, a quienes se les dejó de ver el 27 de febrero de 2016. Lamentablemente, ambos jóvenes fueron encontrados sin vida dos meses después. El padre de Cristopher, Jorge Sánchez, aseguró que la investigación  corrió  por  su  cuenta  y  que  fue  poco  lo  que  la  Fiscalía  General  de  Jalisco  hizo  por localizar con vida a su hijo y sobrino.",
+      "text": "En 2016, las desapariciones en Jardines de Nuevo México no cesaron, ya que en la misma colonia desaparecieron Cristopher Sánchez Zavala y Alfonso Zavala Hernández, ambos de 16 años, a quienes se les dejó de ver el 27 de febrero de 2016. Lamentablemente, ambos jóvenes fueron encontrados sin vida dos meses después. El padre de Cristopher, Jorge Sánchez, aseguró que la investigación  corrió  por  su  cuenta  y  que  fue  poco  lo  que  la  Fiscalía  General  de  Jalisco  hizo  por localizar con vida a su hijo y sobrino."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 44.007,
+            "t": 285.2330029101563,
+            "r": 551.62,
+            "b": 246.04300291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            256
+          ]
+        }
+      ],
+      "orig": "Una  historia  similar  vivió  la  familia  de Katia  Lizette  Gardea  Martínez,  de  22  años,  quien desapareció el 13 de febrero de 2016 en la colonia Hogares de Nuevo México, y fue localizada sin vida el 19 de este mismo mes en el municipio de Tequila.",
+      "text": "Una  historia  similar  vivió  la  familia  de Katia  Lizette  Gardea  Martínez,  de  22  años,  quien desapareció el 13 de febrero de 2016 en la colonia Hogares de Nuevo México, y fue localizada sin vida el 19 de este mismo mes en el municipio de Tequila."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 44.007,
+            "t": 228.20700291015623,
+            "r": 551.815,
+            "b": 139.4920029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            572
+          ]
+        }
+      ],
+      "orig": "Poco antes de la desaparición de Katia, circuló a través de redes sociales y WhatsApp un mensaje donde  se  señalaba  lo  siguiente:  'En  la  zona  mencionada,  se  han  llevado  a  cabo  secuestros  de jovencitas  de  entre  15  a  25  años,  ya  van  hasta  la  fecha  siete  casos  de  las  cuales  dos  han  sido encontradas muertas, con signos de tortura y violación y sin algunos de sus órganos'. Este mensaje se  difundió  de  manera  anónima  a  habitantes  de  las  colonias  Tesistán,  Arcos  de  Zapopan, Jardines de Nuevo México, Santa Margarita y La Tuzanía.",
+      "text": "Poco antes de la desaparición de Katia, circuló a través de redes sociales y WhatsApp un mensaje donde  se  señalaba  lo  siguiente:  'En  la  zona  mencionada,  se  han  llevado  a  cabo  secuestros  de jovencitas  de  entre  15  a  25  años,  ya  van  hasta  la  fecha  siete  casos  de  las  cuales  dos  han  sido encontradas muertas, con signos de tortura y violación y sin algunos de sus órganos'. Este mensaje se  difundió  de  manera  anónima  a  habitantes  de  las  colonias  Tesistán,  Arcos  de  Zapopan, Jardines de Nuevo México, Santa Margarita y La Tuzanía."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 44.007,
+            "t": 121.65700291015628,
+            "r": 551.949,
+            "b": 65.95800291015621,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            393
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 44.007,
+            "t": 808.9770029101562,
+            "r": 551.828,
+            "b": 786.2940029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            394,
+            519
+          ]
+        }
+      ],
+      "orig": "La autoridad rápidamente salió a decir que no tenían reportes ni incidencias en estos lugares. Lo que para las autoridades son sólo rumores para muchos de los vecinos de estas colonias son toda una realidad porque cada día ven multiplicarse en sus calles los anuncios de personas desaparecidas. Así ocurrió con el taxista del sitio 19, José Gregorio Andrade Serrano, quien desapareció el 19 de febrero de 2016 alrededor de las 18:30 horas por la Avenida Guadalajara en Tesistán. Siete días después fue hallado sin vida.",
+      "text": "La autoridad rápidamente salió a decir que no tenían reportes ni incidencias en estos lugares. Lo que para las autoridades son sólo rumores para muchos de los vecinos de estas colonias son toda una realidad porque cada día ven multiplicarse en sus calles los anuncios de personas desaparecidas. Así ocurrió con el taxista del sitio 19, José Gregorio Andrade Serrano, quien desapareció el 19 de febrero de 2016 alrededor de las 18:30 horas por la Avenida Guadalajara en Tesistán. Siete días después fue hallado sin vida."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 44.007,
+            "t": 427.90100291015625,
+            "r": 442.259,
+            "b": 423.37200291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "Padre de Juan Carlos Zaragoza en una manifestación por los desaparecidos en Jalisco. Foto: Paloma López",
+      "text": "Padre de Juan Carlos Zaragoza en una manifestación por los desaparecidos en Jalisco. Foto: Paloma López"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 202.66666666666666,
+            "t": 739.2533162434896,
+            "r": 297.3333333333333,
+            "b": 712.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "SE BUSCA",
+      "text": "SE BUSCA"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 215.66666666666666,
+            "t": 712.9199829101562,
+            "r": 300.6666666666667,
+            "b": 698.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Carlos Zaragoza Gaona",
+      "text": "Carlos Zaragoza Gaona"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 197.66666666666666,
+            "t": 700.586649576823,
+            "r": 294.0,
+            "b": 685.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "19 Años 1,70m Tes Blanca",
+      "text": "19 Años 1,70m Tes Blanca"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 196.66666666666666,
+            "t": 688.2533162434895,
+            "r": 309.3333333333333,
+            "b": 670.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Desaparecio en Zapopan. Jal,",
+      "text": "Desaparecio en Zapopan. Jal,"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 197.0,
+            "t": 676.9199829101562,
+            "r": 285.66666666666663,
+            "b": 663.2533162434895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "El 26 de Mayo del 2015",
+      "text": "El 26 de Mayo del 2015"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 231.33333333333334,
+            "t": 645.5866495768229,
+            "r": 283.66666666666663,
+            "b": 629.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Informes",
+      "text": "Informes"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 196.0,
+            "t": 631.9199829101562,
+            "r": 317.3333333333333,
+            "b": 614.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "38 37 60 00 Ext. 16650",
+      "text": "38 37 60 00 Ext. 16650"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 258.0,
+            "t": 497.25331624348956,
+            "r": 276.66666666666663,
+            "b": 487.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "aleti",
+      "text": "aleti"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 197.67400931668058,
+            "t": 714.8653558917825,
+            "r": 216.65932401665273,
+            "b": 703.3079432618633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Juan",
+      "text": "Juan"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 83.107,
+            "t": 402.93500291015624,
+            "r": 512.889,
+            "b": 395.64700291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "No descansaremos hasta encontrar a Juan Carlos",
+      "text": "No descansaremos hasta encontrar a Juan Carlos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 44.007,
+            "t": 370.02300291015626,
+            "r": 551.887,
+            "b": 281.30800291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            557
+          ]
+        }
+      ],
+      "orig": "Laura,  quien  es  novia  de  Juan  Carlos  Zaragoza  desde  hace  dos  años,  comparte  sin  descanso  la ficha de búsqueda de Tekno, como ella y sus amigos le dicen, a través de la página de Facebook que ella  creó  para  buscarlo.  En  este  sitio,  ella  comparte  toda  la  información  que  pueda  llevarlos  a  su paradero, así como todas las noticias que se generan alrededor del colectivo Por Amor a Ellos, al cual pertenecen desde 2015. Estar en el colectivo les ha servido para encontrar en sus pares la compañía y la fuerza para seguir buscando.",
+      "text": "Laura,  quien  es  novia  de  Juan  Carlos  Zaragoza  desde  hace  dos  años,  comparte  sin  descanso  la ficha de búsqueda de Tekno, como ella y sus amigos le dicen, a través de la página de Facebook que ella  creó  para  buscarlo.  En  este  sitio,  ella  comparte  toda  la  información  que  pueda  llevarlos  a  su paradero, así como todas las noticias que se generan alrededor del colectivo Por Amor a Ellos, al cual pertenecen desde 2015. Estar en el colectivo les ha servido para encontrar en sus pares la compañía y la fuerza para seguir buscando."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 44.007,
+            "t": 263.4730029101563,
+            "r": 551.737,
+            "b": 191.26800291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            407
+          ]
+        }
+      ],
+      "orig": "Adriana, madre de Juan Carlos, reconoce que el apoyo de su esposo y nuera ha sido fundamental para no flaquear porque 'ellos son personas normales que jamás pensaron vivir una situación como ésta'. Ella quiere contarle a su hijo, Juan Carlos, como el ser parte de un colectivo le ha dado las fuerzas  necesarias  para  hablar  en  público sobre  lo  que  toda  la  familia  está  haciendo  para encontrarlo.",
+      "text": "Adriana, madre de Juan Carlos, reconoce que el apoyo de su esposo y nuera ha sido fundamental para no flaquear porque 'ellos son personas normales que jamás pensaron vivir una situación como ésta'. Ella quiere contarle a su hijo, Juan Carlos, como el ser parte de un colectivo le ha dado las fuerzas  necesarias  para  hablar  en  público sobre  lo  que  toda  la  familia  está  haciendo  para encontrarlo."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 44.007,
+            "t": 173.43100291015628,
+            "r": 551.888,
+            "b": 101.22600291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            451
+          ]
+        }
+      ],
+      "orig": "Laura,  en  cambio,  desea  que  Juan  Carlos  lea  todo  lo  que  le  ha  escrito  a  través  de  su  muro  y messenger  de  Facebook.  Ella  diariamente  le  ha  contado  lo  que  todos  están  haciendo  para encontrarlo: 'El día más feliz de mi vida será el que me digan que él ya está de regreso. Yo no he dejado de escribirle, le digo, le cuento y me desahogo con él . Yo a través de Facebook le escribo que no hay día en que no lo ame o busque'.",
+      "text": "Laura,  en  cambio,  desea  que  Juan  Carlos  lea  todo  lo  que  le  ha  escrito  a  través  de  su  muro  y messenger  de  Facebook.  Ella  diariamente  le  ha  contado  lo  que  todos  están  haciendo  para encontrarlo: 'El día más feliz de mi vida será el que me digan que él ya está de regreso. Yo no he dejado de escribirle, le digo, le cuento y me desahogo con él . Yo a través de Facebook le escribo que no hay día en que no lo ame o busque'."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 44.007,
+            "t": 83.39000291015623,
+            "r": 551.966,
+            "b": 44.19800291015622,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            281
+          ]
+        },
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 44.007,
+            "t": 808.9760029101562,
+            "r": 551.9,
+            "b": 769.7860029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            282,
+            510
+          ]
+        }
+      ],
+      "orig": "Su padre, Juan, dice que la lucha cotidiana en la búsqueda de Juan Carlos Zaragoza Gaona consiste en mantener su presencia siempre en presente porque muchas son las personas que insisten en hablarles en pasado: 'A un año nos encontramos más fuertes, más conscientes de la situación pero también más pacientes, esperanzados y llenos de fe. Sabemos que son situaciones difíciles y que no sabemos lo que vamos a encontrar, no tenemos una certeza, sin embargo, hoy nos sentimos fuertes y aceptaremos lo que venga'.",
+      "text": "Su padre, Juan, dice que la lucha cotidiana en la búsqueda de Juan Carlos Zaragoza Gaona consiste en mantener su presencia siempre en presente porque muchas son las personas que insisten en hablarles en pasado: 'A un año nos encontramos más fuertes, más conscientes de la situación pero también más pacientes, esperanzados y llenos de fe. Sabemos que son situaciones difíciles y que no sabemos lo que vamos a encontrar, no tenemos una certeza, sin embargo, hoy nos sentimos fuertes y aceptaremos lo que venga'."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 44.007,
+            "t": 751.9500029101563,
+            "r": 551.571,
+            "b": 696.2520029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            317
+          ]
+        }
+      ],
+      "orig": "'Hoy lo que queremos es que encuentren a Juan Carlos. Queremos que se rompa la impunidad y que no tengamos que vivir muchos años así… queremos que sea como sea lo encuentren. A pesar de que ya se cumplió un año, aquí estamos buscándolo y seguiremos haciéndolo porque Juan Carlos nos hace mucha falta', concluyó Laura.",
+      "text": "'Hoy lo que queremos es que encuentren a Juan Carlos. Queremos que se rompa la impunidad y que no tengamos que vivir muchos años así… queremos que sea como sea lo encuentren. A pesar de que ya se cumplió un año, aquí estamos buscándolo y seguiremos haciéndolo porque Juan Carlos nos hace mucha falta', concluyó Laura."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.89431381225586,
+            "t": 713.9233169555664,
+            "r": 553.033447265625,
+            "b": 374.6253356933594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.06620788574219,
+            "t": 814.0843544006348,
+            "r": 533.9967041015625,
+            "b": 501.4156799316406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.63861083984375,
+            "t": 814.639949798584,
+            "r": 554.7411499023438,
+            "b": 303.00836181640625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.943626403808594,
+            "t": 690.8760223388672,
+            "r": 552.63671875,
+            "b": 350.987548828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.803470611572266,
+            "t": 773.8928985595703,
+            "r": 552.9102783203125,
+            "b": 433.4772644042969,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/66"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 594.9599609375,
+        "height": 841.9199829101562
+      },
+      "page_no": 7
+    }
+  }
+}

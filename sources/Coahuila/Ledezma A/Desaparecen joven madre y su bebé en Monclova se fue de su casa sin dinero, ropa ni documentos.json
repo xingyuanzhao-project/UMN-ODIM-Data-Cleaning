@@ -1,0 +1,462 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Desaparecen joven madre y su bebé en Monclova se fue de su casa sin dinero, ropa ni documentos",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8945713693415552506,
+    "filename": "Desaparecen joven madre y su bebé en Monclova se fue de su casa sin dinero, ropa ni documentos.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 299.495,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "Desaparecen joven madre y su bebé en Monclova; se fue de su casa sin d...",
+      "text": "Desaparecen joven madre y su bebé en Monclova; se fue de su casa sin d..."
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 323.0,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "https://vanguardia.com.mx/articulo/Desaparecen-joven-madre-y-su-be...",
+      "text": "https://vanguardia.com.mx/articulo/Desaparecen-joven-madre-y-su-be..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.837,
+            "t": 730.88,
+            "r": 515.564,
+            "b": 694.463,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "Desaparecen joven madre y su bebé en Monclova; se fue de su casa sin dinero, ropa ni documentos",
+      "text": "Desaparecen joven madre y su bebé en Monclova; se fue de su casa sin dinero, ropa ni documentos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.838,
+            "t": 668.407,
+            "r": 153.958,
+            "b": 660.073,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Nadia Betancourt",
+      "text": "Nadia Betancourt"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 624.397,
+            "r": 379.093,
+            "b": 615.136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Fueron vistas por última vez en la colonia las Misiones y del Río",
+      "text": "Fueron vistas por última vez en la colonia las Misiones y del Río"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 601.473,
+            "r": 535.112,
+            "b": 567.976,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "Monclova, Coahuila.Familiares solicitaron el apoyo de las autoridades y de la comunidad en general para localizar a Arely Ledezma de 20 años de edad, quien salió de su casa con su bebé de un año desde el pasado 6 de julio.",
+      "text": "Monclova, Coahuila.Familiares solicitaron el apoyo de las autoridades y de la comunidad en general para localizar a Arely Ledezma de 20 años de edad, quien salió de su casa con su bebé de un año desde el pasado 6 de julio."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 554.197,
+            "r": 531.707,
+            "b": 520.695,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "Por medio de las redes sociales se informó que la joven y su niña de nombre Alejandrina, fueron vistas por última vez en la colonia las Misiones y del Río, las cuales se encuentran en el sector oriente de la ciudad.",
+      "text": "Por medio de las redes sociales se informó que la joven y su niña de nombre Alejandrina, fueron vistas por última vez en la colonia las Misiones y del Río, las cuales se encuentran en el sector oriente de la ciudad."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 507.037,
+            "r": 536.059,
+            "b": 485.537,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "Trascendió que un pleito con su hermana provocó que tomara la decisión de huir de su casa de la colonia 288 , se fue sin dinero, ropa ni documentos.",
+      "text": "Trascendió que un pleito con su hermana provocó que tomara la decisión de huir de su casa de la colonia 288 , se fue sin dinero, ropa ni documentos."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 471.874,
+            "r": 513.779,
+            "b": 450.494,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "Horas después la familia solicitó apoyo a las autoridades para iniciar su búsqueda y también compartieron el caso en las redes sociales para obtener información.",
+      "text": "Horas después la familia solicitó apoyo a las autoridades para iniciar su búsqueda y también compartieron el caso en las redes sociales para obtener información."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 436.838,
+            "r": 529.752,
+            "b": 415.337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "Hasta el momento se desconoce del paradero de ambas ya que la joven decidió apagar el celular para no contestar las llamadas y los mensajes.",
+      "text": "Hasta el momento se desconoce del paradero de ambas ya que la joven decidió apagar el celular para no contestar las llamadas y los mensajes."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 401.675,
+            "r": 523.056,
+            "b": 380.295,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "Personas allegadas y su madre esperan en breve obtener su ubicación o al menos poder hablar con ella para saber en qué estado se encuentran.",
+      "text": "Personas allegadas y su madre esperan en breve obtener su ubicación o al menos poder hablar con ella para saber en qué estado se encuentran."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.842,
+            "t": 366.639,
+            "r": 529.568,
+            "b": 320.897,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            326
+          ]
+        }
+      ],
+      "orig": "'Ya son tres días y aún no sabemos nada de ellas, cómo es posible que nadie las haya visto, debe existir una persona que las vio o que sepa dónde están, por favor si alguien sabe algo no dude en decirlo, tóquense poquito el corazón. Esta angustia es terrible, no se sabe nada de ella ni de la beba', comentaron los familiares.",
+      "text": "'Ya son tres días y aún no sabemos nada de ellas, cómo es posible que nadie las haya visto, debe existir una persona que las vio o que sepa dónde están, por favor si alguien sabe algo no dude en decirlo, tóquense poquito el corazón. Esta angustia es terrible, no se sabe nada de ella ni de la beba', comentaron los familiares."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 531.716,
+            "t": 8.63900000000001,
+            "r": 611.983,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "7/14/2019, 7:13 PM",
+      "text": "7/14/2019, 7:13 PM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

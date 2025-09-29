@@ -1,0 +1,3603 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Osvaldo Javier Hernandez Cervantes- 4",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13285309141958314699,
+    "filename": "Osvaldo Javier Hernandez Cervantes- 4.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/pictures/11"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/76"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/groups/2"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/groups/3"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/86"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/90"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.475,
+            "t": 774.5299980273437,
+            "r": 62.094,
+            "b": 767.7329980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "3/13/2019",
+      "text": "3/13/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 208.327,
+            "t": 774.5299980273437,
+            "r": 469.028,
+            "b": 767.7329980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "\"Nunca van a estar solas\", Estela de Carlotto a madres de desaparecidos",
+      "text": "\"Nunca van a estar solas\", Estela de Carlotto a madres de desaparecidos"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 63.333333333333336,
+            "t": 724.3733113606771,
+            "r": 150.0,
+            "b": 703.0399780273438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Polemon",
+      "text": "Polemon"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 198.262,
+            "t": 723.4879980273438,
+            "r": 375.761,
+            "b": 715.6479980273438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "(https://www.facebook.com/revistapolemon)",
+      "text": "(https://www.facebook.com/revistapolemon)"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 402.754,
+            "t": 723.4879980273438,
+            "r": 548.501,
+            "b": 715.6479980273438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "(https://twitter.com/revistapolemon)",
+      "text": "(https://twitter.com/revistapolemon)"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 181.281,
+            "t": 723.5109980273437,
+            "r": 188.996,
+            "b": 715.9609980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 384.004,
+            "t": 723.5109980273437,
+            "r": 396.54,
+            "b": 715.9609980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.5,
+            "t": 697.8039980273437,
+            "r": 364.78,
+            "b": 681.9809980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "(https://www.youtube.com/channel/UC0PT7T4UCyWaksRvA43GgIw) (https://polemon.mx)",
+      "text": "(https://www.youtube.com/channel/UC0PT7T4UCyWaksRvA43GgIw) (https://polemon.mx)"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 556.75,
+            "t": 723.5109980273437,
+            "r": 570.25,
+            "b": 715.9609980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 391.773,
+            "t": 694.9879980273438,
+            "r": 575.501,
+            "b": 687.1479980273438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "(https://www.instagram.com/revistapolemon/)",
+      "text": "(https://www.instagram.com/revistapolemon/)"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 373.023,
+            "t": 695.0109980273437,
+            "r": 384.595,
+            "b": 687.4609980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.82,
+            "t": 647.5889980273438,
+            "r": 457.284,
+            "b": 639.0189980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "QUIÉNES SOMOS  TAIM-LAIN (HTTPS://POLEMON.MX/CATEGORY/TAIM-LAIN)",
+      "text": "QUIÉNES SOMOS  TAIM-LAIN (HTTPS://POLEMON.MX/CATEGORY/TAIM-LAIN)"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.82,
+            "t": 614.5889980273438,
+            "r": 337.348,
+            "b": 606.0189980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "CRÓNICAS (HTTPS://POLEMON.MX/CATEGORY/CRONICAS)",
+      "text": "CRÓNICAS (HTTPS://POLEMON.MX/CATEGORY/CRONICAS)"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.5,
+            "t": 266.52799802734376,
+            "r": 416.249,
+            "b": 257.11999802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "Estela de Carlotto. Foto: Arturo Guzmán Siordia/ cortesía de Proyecto Diez",
+      "text": "Estela de Carlotto. Foto: Arturo Guzmán Siordia/ cortesía de Proyecto Diez"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.82,
+            "t": 581.5889980273438,
+            "r": 321.723,
+            "b": 573.0189980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "OPINIÓN (HTTPS://POLEMON.MX/CATEGORY/OPINION)",
+      "text": "OPINIÓN (HTTPS://POLEMON.MX/CATEGORY/OPINION)"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.82,
+            "t": 547.8389980273438,
+            "r": 373.545,
+            "b": 539.2689980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "DESFILADERO (HTTPS://POLEMON.MX/CATEGORY/DESFILADERO)",
+      "text": "DESFILADERO (HTTPS://POLEMON.MX/CATEGORY/DESFILADERO)"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.82,
+            "t": 514.8389980273438,
+            "r": 306.353,
+            "b": 506.26899802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "CULTURA (HTTPS://POLEMON.MX/CATEGORY/ARETI)",
+      "text": "CULTURA (HTTPS://POLEMON.MX/CATEGORY/ARETI)"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.82,
+            "t": 481.83899802734373,
+            "r": 308.59,
+            "b": 473.26899802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "LIBROS (HTTPS://POLEMON.MX/CATEGORY/EBOOKS)",
+      "text": "LIBROS (HTTPS://POLEMON.MX/CATEGORY/EBOOKS)"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.5,
+            "t": 213.84599802734374,
+            "r": 517.724,
+            "b": 178.61399802734377,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "'NUNCA VAN A ESTAR SOLAS', ESTELA DE CARLOTTO A MADRES DE DESAPARECIDOS",
+      "text": "'NUNCA VAN A ESTAR SOLAS', ESTELA DE CARLOTTO A MADRES DE DESAPARECIDOS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.5,
+            "t": 154.66399802734372,
+            "r": 523.334,
+            "b": 138.37999802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "POR: CÉSAR HUERTA (HTTPS://POLEMON.MX/AUTHOR/CESAR-HUERTA) · HACE 3 AÑOS · TAIM-LAIN ( H T T P S : / / P O L E M O N . M X / C A T E G O R Y/ T A I M - L A I N )",
+      "text": "POR: CÉSAR HUERTA (HTTPS://POLEMON.MX/AUTHOR/CESAR-HUERTA) · HACE 3 AÑOS · TAIM-LAIN ( H T T P S : / / P O L E M O N . M X / C A T E G O R Y/ T A I M - L A I N )"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.5,
+            "t": 111.04999802734369,
+            "r": 481.933,
+            "b": 99.1839980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "or: César Octavio Huerta (@zorrotapatio (https://twitter.com/zorrotapatio))",
+      "text": "or: César Octavio Huerta (@zorrotapatio (https://twitter.com/zorrotapatio))",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.5,
+            "t": 77.04699802734376,
+            "r": 259.939,
+            "b": 69.1359980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Fotos: Arturo Guzmán Siordia/cortesía de Proyecto Diez",
+      "text": "Fotos: Arturo Guzmán Siordia/cortesía de Proyecto Diez"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 557.863,
+            "t": 82.44999802734378,
+            "r": 563.421,
+            "b": 76.08199802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "T2",
+      "text": "T2"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 570.461,
+            "t": 593.0109980273437,
+            "r": 582.997,
+            "b": 585.4609980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 570.906,
+            "t": 82.44999802734378,
+            "r": 570.906,
+            "b": 76.08199802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.475,
+            "t": 21.9149980273437,
+            "r": 349.997,
+            "b": 15.116998027343698,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "https://polemon.mx/nunca-van-a-estar-solas-estela-de-carlotto-a-madres-de-desaparecidos",
+      "text": "https://polemon.mx/nunca-van-a-estar-solas-estela-de-carlotto-a-madres-de-desaparecidos"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 569.419,
+            "t": 21.9149980273437,
+            "r": 584.986,
+            "b": 15.116998027343698,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1/13",
+      "text": "1/13"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.475,
+            "t": 774.5299980273437,
+            "r": 62.094,
+            "b": 767.7329980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "3/13/2019",
+      "text": "3/13/2019"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 208.327,
+            "t": 774.5299980273437,
+            "r": 469.028,
+            "b": 767.7329980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "\"Nunca van a estar solas\", Estela de Carlotto a madres de desaparecidos",
+      "text": "\"Nunca van a estar solas\", Estela de Carlotto a madres de desaparecidos"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 31.82,
+            "t": 726.7999980273437,
+            "r": 575.459,
+            "b": 638.4529980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            402
+          ]
+        }
+      ],
+      "orig": "P 16 de enero 2015.- Todos los días, siete personas salen de su casa en México y no regresan ;  se  convierten  en  desaparecidos.  Cuando  sus  familias  acuden  a  las autoridades  para  que  inicien  la  búsqueda  de  su  ser  querido,  reciben  como respuesta un trato cruel, hiriente y de un profundo desinterés. (https://polemon.mx) QUIÉNES SOMOS TAIM-LAIN (HTTPS://POLEMON.MX/CATEGORY/TAIM-LAIN)",
+      "text": "P 16 de enero 2015.- Todos los días, siete personas salen de su casa en México y no regresan ;  se  convierten  en  desaparecidos.  Cuando  sus  familias  acuden  a  las autoridades  para  que  inicien  la  búsqueda  de  su  ser  querido,  reciben  como respuesta un trato cruel, hiriente y de un profundo desinterés. (https://polemon.mx) QUIÉNES SOMOS TAIM-LAIN (HTTPS://POLEMON.MX/CATEGORY/TAIM-LAIN)"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 31.82,
+            "t": 614.5889980273438,
+            "r": 582.997,
+            "b": 521.4339980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            434
+          ]
+        }
+      ],
+      "orig": "Al menos, esto es lo que documenta la organización Amnistía Internacional (AI) en su último informe titulado 'Un trato de indolencia. La respuesta del Estado frente a la desaparición de personas en México'. En él, se da cuenta que desde el año 2006 se han registrado 27 mil 638 casos. CRÓNICAS (HTTPS://POLEMON.MX/CATEGORY/CRONICAS) OPINIÓN (HTTPS://POLEMON.MX/CATEGORY/OPINION) DESFILADERO (HTTPS://POLEMON.MX/CATEGORY/DESFILADERO) ",
+      "text": "Al menos, esto es lo que documenta la organización Amnistía Internacional (AI) en su último informe titulado 'Un trato de indolencia. La respuesta del Estado frente a la desaparición de personas en México'. En él, se da cuenta que desde el año 2006 se han registrado 27 mil 638 casos. CRÓNICAS (HTTPS://POLEMON.MX/CATEGORY/CRONICAS) OPINIÓN (HTTPS://POLEMON.MX/CATEGORY/OPINION) DESFILADERO (HTTPS://POLEMON.MX/CATEGORY/DESFILADERO) "
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 31.82,
+            "t": 514.8389980273438,
+            "r": 306.353,
+            "b": 506.26899802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "CULTURA (HTTPS://POLEMON.MX/CATEGORY/ARETI)",
+      "text": "CULTURA (HTTPS://POLEMON.MX/CATEGORY/ARETI)"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 31.82,
+            "t": 492.71299802734376,
+            "r": 575.334,
+            "b": 378.9529980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            475
+          ]
+        }
+      ],
+      "orig": "La  organización  en  defensa  de  los  derechos  humanos  señaló  que  las  autoridades  no  son claras  sobre cuántas  de  estas  personas  han  sido  sujetas  a  desaparición  forzada (por agentes  estatales),  cuántas  han  desaparecido  por  otras  causas  o  se  han  ausentado voluntariamente, y revela también que la búsqueda de personas es deciente, inicia tarde y la investigación en cada caso es solamente un formalismo. LIBROS (HTTPS://POLEMON.MX/CATEGORY/EBOOKS)",
+      "text": "La  organización  en  defensa  de  los  derechos  humanos  señaló  que  las  autoridades  no  son claras  sobre cuántas  de  estas  personas  han  sido  sujetas  a  desaparición  forzada (por agentes  estatales),  cuántas  han  desaparecido  por  otras  causas  o  se  han  ausentado voluntariamente, y revela también que la búsqueda de personas es deciente, inicia tarde y la investigación en cada caso es solamente un formalismo. LIBROS (HTTPS://POLEMON.MX/CATEGORY/EBOOKS)"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 35.5,
+            "t": 350.21299802734376,
+            "r": 575.327,
+            "b": 261.9529980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            323
+          ]
+        }
+      ],
+      "orig": "'En México no importa si una desaparición se trata de una situación oculta o es un caso de alto perl, las autoridades parecen incapaces de dar respuestas sólidas e institucionales que estén encaminadas a encontrar la verdad y garantizar justicia'señala el informe presentado ayer en la Casa ITESO Clavijero, en Guadalajara.",
+      "text": "'En México no importa si una desaparición se trata de una situación oculta o es un caso de alto perl, las autoridades parecen incapaces de dar respuestas sólidas e institucionales que estén encaminadas a encontrar la verdad y garantizar justicia'señala el informe presentado ayer en la Casa ITESO Clavijero, en Guadalajara."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 35.5,
+            "t": 233.2999980273437,
+            "r": 575.083,
+            "b": 119.45299802734371,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            406
+          ]
+        }
+      ],
+      "orig": "Rosario Cervantes, madre  de  Osvaldo  Javier  Hernández  Cervantes,  un  joven  de  26  años desaparecido  desde  el  22  de  julio  del  2014  (http://www.proyectodiez.mx/a-un-ano-de-ladesaparicion-de-osvaldo-javier-ningun-avance/) en el municipio de Tlaquepaque en Jalisco, consideró que la indolencia no sólo proviene de las autoridades, también se da al interior de la propia familia y en la sociedad.",
+      "text": "Rosario Cervantes, madre  de  Osvaldo  Javier  Hernández  Cervantes,  un  joven  de  26  años desaparecido  desde  el  22  de  julio  del  2014  (http://www.proyectodiez.mx/a-un-ano-de-ladesaparicion-de-osvaldo-javier-ningun-avance/) en el municipio de Tlaquepaque en Jalisco, consideró que la indolencia no sólo proviene de las autoridades, también se da al interior de la propia familia y en la sociedad."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 570.906,
+            "t": 82.44999802734378,
+            "r": 570.906,
+            "b": 76.08199802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.475,
+            "t": 21.9149980273437,
+            "r": 349.997,
+            "b": 15.116998027343698,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "https://polemon.mx/nunca-van-a-estar-solas-estela-de-carlotto-a-madres-de-desaparecidos",
+      "text": "https://polemon.mx/nunca-van-a-estar-solas-estela-de-carlotto-a-madres-de-desaparecidos"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 557.863,
+            "t": 82.44999802734378,
+            "r": 563.421,
+            "b": 76.08199802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "T2",
+      "text": "T2"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 569.419,
+            "t": 21.9149980273437,
+            "r": 584.986,
+            "b": 15.116998027343698,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2/13",
+      "text": "2/13"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.475,
+            "t": 774.5299980273437,
+            "r": 62.094,
+            "b": 767.7329980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "3/13/2019",
+      "text": "3/13/2019"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 208.327,
+            "t": 774.5299980273437,
+            "r": 469.028,
+            "b": 767.7329980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "\"Nunca van a estar solas\", Estela de Carlotto a madres de desaparecidos",
+      "text": "\"Nunca van a estar solas\", Estela de Carlotto a madres de desaparecidos"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 31.82,
+            "t": 726.7129980273437,
+            "r": 582.997,
+            "b": 573.0189980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            705
+          ]
+        }
+      ],
+      "orig": "'La indolencia no sólo existe en las autoridades, existe en la propia familia, en la sociedad misma.  En  donde  quiera  que  uno  diga,  mi  hijo  está  desaparecido,  mi  hermano  está desaparecido, mi esposo está desaparecido, ahí está la indolencia (…) No alcanzo a entender cómo  después  de  veintitantos  mil  desaparecidos,  a  la  sociedad  no  le  cae  el  veinte.  ¿Qué estamos  esperando  que  suceda?.  Se  llevaron  a  43  muchachos,  ¿qué  más  queremos  que suceda para apoyar, para lograr que algo cambie?'. (https://polemon.mx) QUIÉNES SOMOS TAIM-LAIN (HTTPS://POLEMON.MX/CATEGORY/TAIM-LAIN) CRÓNICAS (HTTPS://POLEMON.MX/CATEGORY/CRONICAS) OPINIÓN (HTTPS://POLEMON.MX/CATEGORY/OPINION) ",
+      "text": "'La indolencia no sólo existe en las autoridades, existe en la propia familia, en la sociedad misma.  En  donde  quiera  que  uno  diga,  mi  hijo  está  desaparecido,  mi  hermano  está desaparecido, mi esposo está desaparecido, ahí está la indolencia (…) No alcanzo a entender cómo  después  de  veintitantos  mil  desaparecidos,  a  la  sociedad  no  le  cae  el  veinte.  ¿Qué estamos  esperando  que  suceda?.  Se  llevaron  a  43  muchachos,  ¿qué  más  queremos  que suceda para apoyar, para lograr que algo cambie?'. (https://polemon.mx) QUIÉNES SOMOS TAIM-LAIN (HTTPS://POLEMON.MX/CATEGORY/TAIM-LAIN) CRÓNICAS (HTTPS://POLEMON.MX/CATEGORY/CRONICAS) OPINIÓN (HTTPS://POLEMON.MX/CATEGORY/OPINION) "
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 31.82,
+            "t": 558.8009980273438,
+            "r": 574.929,
+            "b": 506.26899802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "La  madre  de Osvaldo  Javier  Hernández ,  aún  no  termina  de  explicarse  los  miles  de desaparecidos en el país. DESFILADERO (HTTPS://POLEMON.MX/CATEGORY/DESFILADERO) CULTURA (HTTPS://POLEMON.MX/CATEGORY/ARETI)",
+      "text": "La  madre  de Osvaldo  Javier  Hernández ,  aún  no  termina  de  explicarse  los  miles  de desaparecidos en el país. DESFILADERO (HTTPS://POLEMON.MX/CATEGORY/DESFILADERO) CULTURA (HTTPS://POLEMON.MX/CATEGORY/ARETI)"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 31.82,
+            "t": 492.71299802734376,
+            "r": 574.992,
+            "b": 429.9529980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            307
+          ]
+        }
+      ],
+      "orig": "'Yo siempre he pensado que la palabra desaparecer es como si fuera un acto de magia: hoy estás aquí y mañana no estás, desapareciste. Eso no puede ser posible, tienes que estar en algún lado, fuera o dentro del país, muerto o vivo pero debes estar en algún lado'. LIBROS (HTTPS://POLEMON.MX/CATEGORY/EBOOKS)",
+      "text": "'Yo siempre he pensado que la palabra desaparecer es como si fuera un acto de magia: hoy estás aquí y mañana no estás, desapareciste. Eso no puede ser posible, tienes que estar en algún lado, fuera o dentro del país, muerto o vivo pero debes estar en algún lado'. LIBROS (HTTPS://POLEMON.MX/CATEGORY/EBOOKS)"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 570.906,
+            "t": 82.44999802734378,
+            "r": 570.906,
+            "b": 76.08199802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.475,
+            "t": 21.9149980273437,
+            "r": 349.997,
+            "b": 15.116998027343698,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "https://polemon.mx/nunca-van-a-estar-solas-estela-de-carlotto-a-madres-de-desaparecidos",
+      "text": "https://polemon.mx/nunca-van-a-estar-solas-estela-de-carlotto-a-madres-de-desaparecidos"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 557.863,
+            "t": 82.44999802734378,
+            "r": 563.421,
+            "b": 76.08199802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "T2",
+      "text": "T2"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 569.419,
+            "t": 21.9149980273437,
+            "r": 584.986,
+            "b": 15.116998027343698,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "3/13",
+      "text": "3/13"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 26.475,
+            "t": 774.5299980273437,
+            "r": 62.094,
+            "b": 767.7329980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "3/13/2019",
+      "text": "3/13/2019"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 208.327,
+            "t": 774.5299980273437,
+            "r": 469.028,
+            "b": 767.7329980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "\"Nunca van a estar solas\", Estela de Carlotto a madres de desaparecidos",
+      "text": "\"Nunca van a estar solas\", Estela de Carlotto a madres de desaparecidos"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 35.5,
+            "t": 697.8039980273437,
+            "r": 204.26,
+            "b": 681.9809980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "(https://polemon.mx)",
+      "text": "(https://polemon.mx)"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 31.82,
+            "t": 647.5889980273438,
+            "r": 119.542,
+            "b": 639.0189980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "QUIÉNES SOMOS",
+      "text": "QUIÉNES SOMOS"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 149.137,
+            "t": 647.5889980273438,
+            "r": 457.284,
+            "b": 639.0189980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "TAIM-LAIN (HTTPS://POLEMON.MX/CATEGORY/TAIM-LAIN)",
+      "text": "TAIM-LAIN (HTTPS://POLEMON.MX/CATEGORY/TAIM-LAIN)"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 31.82,
+            "t": 614.5889980273438,
+            "r": 337.348,
+            "b": 606.0189980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "CRÓNICAS (HTTPS://POLEMON.MX/CATEGORY/CRONICAS)",
+      "text": "CRÓNICAS (HTTPS://POLEMON.MX/CATEGORY/CRONICAS)"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 31.82,
+            "t": 581.5889980273438,
+            "r": 321.723,
+            "b": 573.0189980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "OPINIÓN (HTTPS://POLEMON.MX/CATEGORY/OPINION)",
+      "text": "OPINIÓN (HTTPS://POLEMON.MX/CATEGORY/OPINION)"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 31.82,
+            "t": 547.8389980273438,
+            "r": 373.545,
+            "b": 539.2689980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "DESFILADERO (HTTPS://POLEMON.MX/CATEGORY/DESFILADERO)",
+      "text": "DESFILADERO (HTTPS://POLEMON.MX/CATEGORY/DESFILADERO)"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 31.82,
+            "t": 514.8389980273438,
+            "r": 306.353,
+            "b": 506.26899802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "CULTURA (HTTPS://POLEMON.MX/CATEGORY/ARETI)",
+      "text": "CULTURA (HTTPS://POLEMON.MX/CATEGORY/ARETI)"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 31.82,
+            "t": 481.83899802734373,
+            "r": 308.59,
+            "b": 473.26899802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "LIBROS (HTTPS://POLEMON.MX/CATEGORY/EBOOKS)",
+      "text": "LIBROS (HTTPS://POLEMON.MX/CATEGORY/EBOOKS)"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.66666666666667,
+            "t": 453.70664469401044,
+            "r": 81.0,
+            "b": 437.03997802734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "fes",
+      "text": "fes"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 227.33333333333334,
+            "t": 453.37331136067706,
+            "r": 426.0,
+            "b": 431.70664469401044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Estela Barnes de Carlotto",
+      "text": "Estela Barnes de Carlotto"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 119.887,
+            "t": 394.46299802734376,
+            "r": 491.112,
+            "b": 382.70199802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "(http://polemon.mx/wp-content/uploads/2016/01/unnamed-2-",
+      "text": "(http://polemon.mx/wp-content/uploads/2016/01/unnamed-2-"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 238.727,
+            "t": 367.46299802734376,
+            "r": 372.283,
+            "b": 355.70199802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "e1452982276405.jpg)",
+      "text": "e1452982276405.jpg)"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.125,
+            "t": 334.77799802734376,
+            "r": 421.874,
+            "b": 325.36999802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "Estela de Carlotto. Foto: Arturo Guzmán Siordia/ cortesía de Proyecto Diez",
+      "text": "Estela de Carlotto. Foto: Arturo Guzmán Siordia/ cortesía de Proyecto Diez"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 35.5,
+            "t": 266.2999980273437,
+            "r": 575.501,
+            "b": 177.95199802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            359
+          ]
+        }
+      ],
+      "orig": "Sus  palabras  fueron  escuchadas  por Estela  de  Carlotto ,  presidenta  de  las Abuelas  de  la Plaza de Mayo ,  quien contó cómo sufrió el asesinato de su hija durante la última dictadura cívico-militar ocurrida de 1976 a 1983 en Argentina, y cómo desde ese entonces salió a las calles, junto con miles de abuelas más, para buscar a su nieto desaparecido.",
+      "text": "Sus  palabras  fueron  escuchadas  por Estela  de  Carlotto ,  presidenta  de  las Abuelas  de  la Plaza de Mayo ,  quien contó cómo sufrió el asesinato de su hija durante la última dictadura cívico-militar ocurrida de 1976 a 1983 en Argentina, y cómo desde ese entonces salió a las calles, junto con miles de abuelas más, para buscar a su nieto desaparecido."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 35.5,
+            "t": 149.2129980273437,
+            "r": 575.045,
+            "b": 86.43299802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            227
+          ]
+        }
+      ],
+      "orig": "La activista argentina que buscó a su nieto durante casi 36 años, hasta encontrarlo el 5 de agosto del año pasado, pidió a las madres y familiares presentes de los desaparecidos, no dejar de buscar a sus hijos, vencer el miedo.",
+      "text": "La activista argentina que buscó a su nieto durante casi 36 años, hasta encontrarlo el 5 de agosto del año pasado, pidió a las madres y familiares presentes de los desaparecidos, no dejar de buscar a sus hijos, vencer el miedo."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 557.863,
+            "t": 82.44999802734378,
+            "r": 563.421,
+            "b": 76.08199802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "T2",
+      "text": "T2"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 570.906,
+            "t": 82.44999802734378,
+            "r": 570.906,
+            "b": 76.08199802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 570.461,
+            "t": 593.0109980273437,
+            "r": 582.997,
+            "b": 585.4609980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 26.475,
+            "t": 21.9149980273437,
+            "r": 349.997,
+            "b": 15.116998027343698,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "https://polemon.mx/nunca-van-a-estar-solas-estela-de-carlotto-a-madres-de-desaparecidos",
+      "text": "https://polemon.mx/nunca-van-a-estar-solas-estela-de-carlotto-a-madres-de-desaparecidos"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 569.419,
+            "t": 21.9149980273437,
+            "r": 584.986,
+            "b": 15.116998027343698,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "4/13",
+      "text": "4/13"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 26.475,
+            "t": 774.5299980273437,
+            "r": 62.094,
+            "b": 767.7329980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "3/13/2019",
+      "text": "3/13/2019"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 208.327,
+            "t": 774.5299980273437,
+            "r": 469.028,
+            "b": 767.7329980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "\"Nunca van a estar solas\", Estela de Carlotto a madres de desaparecidos",
+      "text": "\"Nunca van a estar solas\", Estela de Carlotto a madres de desaparecidos"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 20.395,
+            "t": 446.8539980273437,
+            "r": 28.109,
+            "b": 441.82099802734376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 20.395,
+            "t": 424.3539980273437,
+            "r": 28.109,
+            "b": 419.32099802734376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 20.395,
+            "t": 401.8539980273437,
+            "r": 28.109,
+            "b": 396.82099802734376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 20.395,
+            "t": 379.3539980273437,
+            "r": 28.109,
+            "b": 374.32099802734376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 20.395,
+            "t": 356.8539980273437,
+            "r": 28.109,
+            "b": 351.82099802734376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 31.82,
+            "t": 726.7129980273437,
+            "r": 575.355,
+            "b": 606.0189980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            524
+          ]
+        }
+      ],
+      "orig": "'Se  han  organizado  bien,  están,  no  abandonen  la  lucha,  sumen,  abran,  no  cierren,  no  se encapsulen  diciendo  esto  es  de  nosotros,  es  de  todos  para  que  todos  entiendan  que  les puede pasar y no tener miedo, el miedo paraliza, nos agobia y nos deja en soledad, vencer esos miedos, esos reparos y saber que toda Latinoamérica ha pasado y está pasando por esto todavía'. (https://polemon.mx) QUIÉNES SOMOS TAIM-LAIN (HTTPS://POLEMON.MX/CATEGORY/TAIM-LAIN) CRÓNICAS (HTTPS://POLEMON.MX/CATEGORY/CRONICAS)",
+      "text": "'Se  han  organizado  bien,  están,  no  abandonen  la  lucha,  sumen,  abran,  no  cierren,  no  se encapsulen  diciendo  esto  es  de  nosotros,  es  de  todos  para  que  todos  entiendan  que  les puede pasar y no tener miedo, el miedo paraliza, nos agobia y nos deja en soledad, vencer esos miedos, esos reparos y saber que toda Latinoamérica ha pasado y está pasando por esto todavía'. (https://polemon.mx) QUIÉNES SOMOS TAIM-LAIN (HTTPS://POLEMON.MX/CATEGORY/TAIM-LAIN) CRÓNICAS (HTTPS://POLEMON.MX/CATEGORY/CRONICAS)"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 570.461,
+            "t": 593.0109980273437,
+            "r": 582.997,
+            "b": 585.4619980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 31.82,
+            "t": 584.2129980273437,
+            "r": 321.723,
+            "b": 572.4529980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Y mandó un mensaje de esperanza: OPINIÓN (HTTPS://POLEMON.MX/CATEGORY/OPINION)",
+      "text": "Y mandó un mensaje de esperanza: OPINIÓN (HTTPS://POLEMON.MX/CATEGORY/OPINION)"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 31.82,
+            "t": 547.8389980273438,
+            "r": 575.229,
+            "b": 506.26899802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "'La  perseverancia triunfa, no hay que aojar, no hay que bajar los brazos (…) nunca van a estar solas, nosotros vamos a estar'. DESFILADERO (HTTPS://POLEMON.MX/CATEGORY/DESFILADERO) CULTURA (HTTPS://POLEMON.MX/CATEGORY/ARETI)",
+      "text": "'La  perseverancia triunfa, no hay que aojar, no hay que bajar los brazos (…) nunca van a estar solas, nosotros vamos a estar'. DESFILADERO (HTTPS://POLEMON.MX/CATEGORY/DESFILADERO) CULTURA (HTTPS://POLEMON.MX/CATEGORY/ARETI)"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 31.82,
+            "t": 481.83899802734373,
+            "r": 308.59,
+            "b": 465.88599802734376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Comparte LIBROS (HTTPS://POLEMON.MX/CATEGORY/EBOOKS)",
+      "text": "Comparte LIBROS (HTTPS://POLEMON.MX/CATEGORY/EBOOKS)"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.25,
+            "t": 409.71899802734373,
+            "r": 64.75,
+            "b": 398.4599980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 90.145,
+            "t": 446.8539980273437,
+            "r": 97.859,
+            "b": 441.82099802734376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 67.0,
+            "t": 405.98199802734376,
+            "r": 487.505,
+            "b": 398.34099802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Telegram (https://polemon.mx/nunca-van-a-estar-solas-estela-de-carlotto-a-madres-de-desaparecidos?",
+      "text": "Telegram (https://polemon.mx/nunca-van-a-estar-solas-estela-de-carlotto-a-madres-de-desaparecidos?"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.25,
+            "t": 393.23199802734376,
+            "r": 145.747,
+            "b": 385.59099802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "share=telegram&nb=1)",
+      "text": "share=telegram&nb=1)"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.25,
+            "t": 387.21899802734373,
+            "r": 242.255,
+            "b": 375.84099802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "WhatsApp (https://api.whatsapp.com/send? ",
+      "text": "WhatsApp (https://api.whatsapp.com/send? ",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.25,
+            "t": 370.73199802734376,
+            "r": 599.5,
+            "b": 350.34099802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "text=%22Nunca%20van%20a%20estar%20solas%22%2C%20Estela%20de%20Carlotto%20a%20madres%20de%20desaparecidos van-a-estar-solas-estela-de-carlotto-a-madres-de-desaparecidos)",
+      "text": "text=%22Nunca%20van%20a%20estar%20solas%22%2C%20Estela%20de%20Carlotto%20a%20madres%20de%20desaparecidos van-a-estar-solas-estela-de-carlotto-a-madres-de-desaparecidos)"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 133.75,
+            "t": 451.21599802734374,
+            "r": 161.997,
+            "b": 444.21099802734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Twittear",
+      "text": "Twittear"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.0,
+            "t": 451.21599802734374,
+            "r": 94.088,
+            "b": 444.21099802734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Share 0",
+      "text": "Share 0"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.25,
+            "t": 432.21899802734373,
+            "r": 525.005,
+            "b": 420.84099802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "Correo electrónico (https://polemon.mx/nunca-van-a-estar-solas-estela-de-carlotto-a-madres-de-desaparecidos? ",
+      "text": "Correo electrónico (https://polemon.mx/nunca-van-a-estar-solas-estela-de-carlotto-a-madres-de-desaparecidos? ",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.25,
+            "t": 415.73199802734376,
+            "r": 132.247,
+            "b": 408.09099802734374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "share=email&nb=1)",
+      "text": "share=email&nb=1)"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.25,
+            "t": 409.71899802734373,
+            "r": 64.75,
+            "b": 398.4599980273437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 35.5,
+            "t": 302.79699802734376,
+            "r": 112.374,
+            "b": 294.88599802734376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Notas relacionadas",
+      "text": "Notas relacionadas",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 35.5,
+            "t": 178.0779980273437,
+            "r": 200.566,
+            "b": 85.61599802734372,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "(https://polemon.mx/concalderon-\\ -pena-nieto-masde-30-mil-desaparecidosen-mexico)",
+      "text": "(https://polemon.mx/concalderon-\\ -pena-nieto-masde-30-mil-desaparecidosen-mexico)"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 218.641,
+            "t": 178.0779980273437,
+            "r": 380.399,
+            "b": 85.61599802734372,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "(https://polemon.mx/a-seismeses-de-entrar-en-vigorle\\ -de-desapariciones-noha-sido-aplicada)",
+      "text": "(https://polemon.mx/a-seismeses-de-entrar-en-vigorle\\ -de-desapariciones-noha-sido-aplicada)"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 218.0,
+            "t": 236.03997802734375,
+            "r": 389.6666666666667,
+            "b": 212.03997802734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "DESAPARECIDOS",
+      "text": "DESAPARECIDOS"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 401.781,
+            "t": 178.0779980273437,
+            "r": 596.574,
+            "b": 85.61599802734372,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "(https://polemon.mx/convertistea-Malisco-en-cementerioreclaman-a-aristoteles-envisita-de-amlo)",
+      "text": "(https://polemon.mx/convertistea-Malisco-en-cementerioreclaman-a-aristoteles-envisita-de-amlo)"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 557.863,
+            "t": 82.44999802734378,
+            "r": 563.421,
+            "b": 76.08199802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "T2",
+      "text": "T2"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 570.906,
+            "t": 82.44999802734378,
+            "r": 570.906,
+            "b": 76.08199802734373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 26.475,
+            "t": 21.9149980273437,
+            "r": 349.997,
+            "b": 15.116998027343698,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "https://polemon.mx/nunca-van-a-estar-solas-estela-de-carlotto-a-madres-de-desaparecidos",
+      "text": "https://polemon.mx/nunca-van-a-estar-solas-estela-de-carlotto-a-madres-de-desaparecidos"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 569.419,
+            "t": 21.9149980273437,
+            "r": 584.986,
+            "b": 15.116998027343698,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "5/13",
+      "text": "5/13"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 40.53150939941406,
+            "t": 725.0902404785156,
+            "r": 147.83734130859375,
+            "b": 700.7741851806641,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 180.1600799560547,
+            "t": 729.7646713256836,
+            "r": 189.37933349609375,
+            "b": 716.1110076904297,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 382.72869873046875,
+            "t": 727.9649696350098,
+            "r": 396.12506103515625,
+            "b": 716.8550796508789,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 555.4097290039062,
+            "t": 727.8209648132324,
+            "r": 570.8179321289062,
+            "b": 716.9925918579102,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 371.58636474609375,
+            "t": 700.0758209228516,
+            "r": 384.9454345703125,
+            "b": 687.0761642456055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.6761417388916,
+            "t": 582.2686920166016,
+            "r": 475.2432861328125,
+            "b": 285.13751220703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 569.19384765625,
+            "t": 598.0459442138672,
+            "r": 583.5922241210938,
+            "b": 583.8896331787109,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 29.528852462768555,
+            "t": 735.6688041687012,
+            "r": 556.1109619140625,
+            "b": 403.6912841796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/82"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 50.1354866027832,
+            "t": 412.7266540527344,
+            "r": 64.2049560546875,
+            "b": 398.47900390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 34.00349426269531,
+            "t": 285.1239318847656,
+            "r": 204.0819854736328,
+            "b": 187.34625244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 216.6522674560547,
+            "t": 284.6789245605469,
+            "r": 387.23779296875,
+            "b": 187.1065673828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/95"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/97"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 400.2895812988281,
+            "t": 284.46636962890625,
+            "r": 570.3030395507812,
+            "b": 187.4266357421875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/97"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 611.0399780273438,
+        "height": 791.0399780273438
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 611.0399780273438,
+        "height": 791.0399780273438
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 611.0399780273438,
+        "height": 791.0399780273438
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 611.0399780273438,
+        "height": 791.0399780273438
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 611.0399780273438,
+        "height": 791.0399780273438
+      },
+      "page_no": 5
+    }
+  }
+}

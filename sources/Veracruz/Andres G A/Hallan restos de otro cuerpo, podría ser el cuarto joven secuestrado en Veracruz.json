@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Hallan restos de otro cuerpo, podría ser el cuarto joven secuestrado en Veracruz",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 3984054235534557988,
+    "filename": "Hallan restos de otro cuerpo, podría ser el cuarto joven secuestrado en Veracruz.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.17905234375,
+            "r": 620.233,
+            "b": 530.9350523437499,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            693
+          ]
+        }
+      ],
+      "orig": "| Buscar | Buscar Portada SLP Seguridad Nacional Mundo Meta Camerino Más Portada SLP Seguridad Nacional Mundo Meta Camerino Buscar Secciones Status Ciencia y tecnología Multimedia Motor Estado Valores Sabor Cultura Expresión Multimedia Fotogalería Un policía municipal de Mexquitic resulta herido tras enfrentamiento armado Ver todo Edicio impresa 404 No se encontró la página No se pudo encontrar la página solicitada. Esto podría ser un error ortográfico en la URL o una página eliminada. Inicio Ir hasta arriba DR © Editora Mival S.A. de C.V. Conócenos Directorio Derecho de réplica contáctanos contacto@pulsoslp.com.mx replica@pulsoslp.com.mx síguenos ©Derechos Reservados 2023 Aviso legal",
+      "text": "| Buscar | Buscar Portada SLP Seguridad Nacional Mundo Meta Camerino Más Portada SLP Seguridad Nacional Mundo Meta Camerino Buscar Secciones Status Ciencia y tecnología Multimedia Motor Estado Valores Sabor Cultura Expresión Multimedia Fotogalería Un policía municipal de Mexquitic resulta herido tras enfrentamiento armado Ver todo Edicio impresa 404 No se encontró la página No se pudo encontrar la página solicitada. Esto podría ser un error ortográfico en la URL o una página eliminada. Inicio Ir hasta arriba DR © Editora Mival S.A. de C.V. Conócenos Directorio Derecho de réplica contáctanos contacto@pulsoslp.com.mx replica@pulsoslp.com.mx síguenos ©Derechos Reservados 2023 Aviso legal"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 627.0045776367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

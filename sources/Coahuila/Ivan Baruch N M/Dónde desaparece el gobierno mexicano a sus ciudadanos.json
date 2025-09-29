@@ -1,0 +1,1101 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Dónde desaparece el gobierno mexicano a sus ciudadanos",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8207308532743493493,
+    "filename": "Dónde desaparece el gobierno mexicano a sus ciudadanos.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 302.582,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "¿Dónde desaparece el gobierno mexicano a sus ciudadanos? - Revolución...",
+      "text": "¿Dónde desaparece el gobierno mexicano a sus ciudadanos? - Revolución..."
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 313.339,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "https://revolucion.news/donde-desaparece-el-gobierno-mexicano-a-sus-c...",
+      "text": "https://revolucion.news/donde-desaparece-el-gobierno-mexicano-a-sus-c..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 502.699,
+            "b": 687.918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "¿Dónde desaparece el gobierno mexicano a sus ciudadanos? - Revolución 3.0 - Noticias",
+      "text": "¿Dónde desaparece el gobierno mexicano a sus ciudadanos? - Revolución 3.0 - Noticias",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.04,
+            "t": 659.317,
+            "r": 154.116,
+            "b": 650.057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Por: Redacción",
+      "text": "Por: Redacción"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 622.502,
+            "r": 278.809,
+            "b": 612.315,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Óscar Balderas / @oscarbalmen",
+      "text": "Óscar Balderas / @oscarbalmen",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 597.06,
+            "r": 503.919,
+            "b": 573.433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "(10 de enero, 2014).- En México, la mayoría de las desapariciones forzadas de un ciudadano se realizan en once estados de la República mexicana.",
+      "text": "(10 de enero, 2014).- En México, la mayoría de las desapariciones forzadas de un ciudadano se realizan en once estados de la República mexicana."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 558.299,
+            "r": 522.084,
+            "b": 480.916,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            411
+          ]
+        }
+      ],
+      "orig": "De acuerdo con una solicitud de información realizada por REVOLUCIÓN TRESPUNTOCERO a la Secretaría de Gobernación, más del 90 por ciento de las 250 desapariciones forzadas -registradas por la organización internacional Human Rights Watch (HRW)- se ha realizado en los estados de Baja California, Chihuahua, Coahuila, Nuevo León, Tamaulipas, Zacatecas, San Luis Potosí, Guanajuato, Jalisco, Michoacán y Guerrero.",
+      "text": "De acuerdo con una solicitud de información realizada por REVOLUCIÓN TRESPUNTOCERO a la Secretaría de Gobernación, más del 90 por ciento de las 250 desapariciones forzadas -registradas por la organización internacional Human Rights Watch (HRW)- se ha realizado en los estados de Baja California, Chihuahua, Coahuila, Nuevo León, Tamaulipas, Zacatecas, San Luis Potosí, Guanajuato, Jalisco, Michoacán y Guerrero."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 465.782,
+            "r": 527.953,
+            "b": 428.714,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            227
+          ]
+        }
+      ],
+      "orig": "'Cuando hablamos de una 'desaparición forzada' estamos hablando del involucramiento, activo o por omisión, de un servidor público. La autoridad participa o permite que un grupo de poder paralelo haga ilocalizable a una persona.",
+      "text": "'Cuando hablamos de una 'desaparición forzada' estamos hablando del involucramiento, activo o por omisión, de un servidor público. La autoridad participa o permite que un grupo de poder paralelo haga ilocalizable a una persona."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 413.46,
+            "r": 531.517,
+            "b": 336.191,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            405
+          ]
+        }
+      ],
+      "orig": "'Principalmente, el gobierno mexicano -tradicionalmente- ha desaparecido a algúnciudadano porque es incómodo al poder político, porque hizo una denuncia ante una instancia policíaca sobre un grupo protegido por el poder político o porque necesita dificultar el paradero del testigo para sostener un caso', aseguró Juan de Dios Mastres, criminólogo y docente de la Universidad Autónoma Metropolitana (UAM).",
+      "text": "'Principalmente, el gobierno mexicano -tradicionalmente- ha desaparecido a algúnciudadano porque es incómodo al poder político, porque hizo una denuncia ante una instancia policíaca sobre un grupo protegido por el poder político o porque necesita dificultar el paradero del testigo para sostener un caso', aseguró Juan de Dios Mastres, criminólogo y docente de la Universidad Autónoma Metropolitana (UAM)."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 320.941,
+            "r": 519.993,
+            "b": 270.43499999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            311
+          ]
+        }
+      ],
+      "orig": "En primer lugar aparecen los cinco estados norteños, donde desde 2008 hay una fuerte presencia de miembros del Ejército Mexicano; en segundo, los tres de la zona sureña del país colindante con el Océano Pacífico, que han recibido a las fuerzas armadas recientemente; y en tercero, los tres del centro de México.",
+      "text": "En primer lugar aparecen los cinco estados norteños, donde desde 2008 hay una fuerte presencia de miembros del Ejército Mexicano; en segundo, los tres de la zona sureña del país colindante con el Océano Pacífico, que han recibido a las fuerzas armadas recientemente; y en tercero, los tres del centro de México."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 255.30099999999993,
+            "r": 531.041,
+            "b": 191.35199999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            391
+          ]
+        }
+      ],
+      "orig": "'En el primer caso, los estados norteños ofrecen al gobierno mexicano una inigualable oportunidad, pues hay territorios completos a donde ni los investigadores ni agentes de otras corporaciones pueden llegar, que son rutas migrantes bajo control del crimen organizado; en el segundo caso, el sur del país, el mar puede ser destino de algunos detenidos por el Estado', afirmó el investigador.",
+      "text": "'En el primer caso, los estados norteños ofrecen al gobierno mexicano una inigualable oportunidad, pues hay territorios completos a donde ni los investigadores ni agentes de otras corporaciones pueden llegar, que son rutas migrantes bajo control del crimen organizado; en el segundo caso, el sur del país, el mar puede ser destino de algunos detenidos por el Estado', afirmó el investigador."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 176.21799999999996,
+            "r": 514.956,
+            "b": 125.70900000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            268
+          ]
+        }
+      ],
+      "orig": "Actualmente, de los once estados indicados en el documento en poder de este sitio, nueve son gobernados por el Partido Revolucionario Institucional, uno por Acción Nacional (Guanajuato) y uno por una coalición de izquierdas junto con el partido conservador (Guerrero).",
+      "text": "Actualmente, de los once estados indicados en el documento en poder de este sitio, nueve son gobernados por el Partido Revolucionario Institucional, uno por Acción Nacional (Guanajuato) y uno por una coalición de izquierdas junto con el partido conservador (Guerrero)."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 110.45900000000006,
+            "r": 514.635,
+            "b": 60.07299999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            271
+          ]
+        }
+      ],
+      "orig": "Los casos más graves, revela el documento, ocurren en Tamaulipas, Nuevo León y Coahuila, donde ante la impunidad con la que actúan las fuerzas policíacas se han creado coaliciones ciudadanas que vigilan -a veces con poco éxito- el actuar de las autoridades ministeriales.",
+      "text": "Los casos más graves, revela el documento, ocurren en Tamaulipas, Nuevo León y Coahuila, donde ante la impunidad con la que actúan las fuerzas policíacas se han creado coaliciones ciudadanas que vigilan -a veces con poco éxito- el actuar de las autoridades ministeriales."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 3",
+      "text": "1 of 3"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 9:01 AM",
+      "text": "9/13/2019, 9:01 AM"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 302.582,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "¿Dónde desaparece el gobierno mexicano a sus ciudadanos? - Revolución...",
+      "text": "¿Dónde desaparece el gobierno mexicano a sus ciudadanos? - Revolución..."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 313.339,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "https://revolucion.news/donde-desaparece-el-gobierno-mexicano-a-sus-c...",
+      "text": "https://revolucion.news/donde-desaparece-el-gobierno-mexicano-a-sus-c..."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 753.298,
+            "r": 528.261,
+            "b": 675.915,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            496
+          ]
+        }
+      ],
+      "orig": "Un caso emblemático es el de Iván Baruch Núñez Mendieta, de 31 años, quien el 6 de agosto de 2011 acudió junto con varios amigos a un bar en Torreón, Coahuila, y llamó a su esposa alrededor de las 3 de la mañana para avisarle que ya iba rumbo a su casa. Al pasar el tiempo después de la hora acordada, la esposa de Iván llamó a sus amigos y uno de ellos le comentó que los encargados de la cantina habían impedido la salida del joven por haber tenido una fuerte discusión con un mesero del lugar.",
+      "text": "Un caso emblemático es el de Iván Baruch Núñez Mendieta, de 31 años, quien el 6 de agosto de 2011 acudió junto con varios amigos a un bar en Torreón, Coahuila, y llamó a su esposa alrededor de las 3 de la mañana para avisarle que ya iba rumbo a su casa. Al pasar el tiempo después de la hora acordada, la esposa de Iván llamó a sus amigos y uno de ellos le comentó que los encargados de la cantina habían impedido la salida del joven por haber tenido una fuerte discusión con un mesero del lugar."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 660.781,
+            "r": 531.517,
+            "b": 569.952,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            550
+          ]
+        }
+      ],
+      "orig": "A la mañana siguiente, familiares de Iván fueron al bar y guardias armados -que actuaban con la complacencia de policías municipales- les dijeron 'si buscan al de la playera de Santos, en dos o tres días va a aparecer'. Eso les hizo pensar que el familiar que buscaban podía encontrarse en el local, por lo que pidieron ayuda a uniformados de Torreón, quienes se las negaron con la excusa de que necesitaban una orden de cateo para ingresar. Pese a los ruegos, ningún oficial ayudó a la esposa, y desde entonces Iván Baruch se encuentra desaparecido.",
+      "text": "A la mañana siguiente, familiares de Iván fueron al bar y guardias armados -que actuaban con la complacencia de policías municipales- les dijeron 'si buscan al de la playera de Santos, en dos o tres días va a aparecer'. Eso les hizo pensar que el familiar que buscaban podía encontrarse en el local, por lo que pidieron ayuda a uniformados de Torreón, quienes se las negaron con la excusa de que necesitaban una orden de cateo para ingresar. Pese a los ruegos, ningún oficial ayudó a la esposa, y desde entonces Iván Baruch se encuentra desaparecido."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 554.818,
+            "r": 525.695,
+            "b": 490.876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            323
+          ]
+        }
+      ],
+      "orig": "De acuerdo con el informe, Torreón es uno de los lugares preferidos donde representantes de gobierno suelen participar o permitir la desaparición de sus ciudadanos, tal y como sucede en municipios como Reynosa o Cadereyta,  donde los miembros de dependencias de seguridad suelen tener plenos nexos con cárteles de la droga.",
+      "text": "De acuerdo con el informe, Torreón es uno de los lugares preferidos donde representantes de gobierno suelen participar o permitir la desaparición de sus ciudadanos, tal y como sucede en municipios como Reynosa o Cadereyta,  donde los miembros de dependencias de seguridad suelen tener plenos nexos con cárteles de la droga."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 475.62,
+            "r": 525.22,
+            "b": 398.354,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            468
+          ]
+        }
+      ],
+      "orig": "'En varios casos, los familiares de las víctimas dijeron a Human Rights Watch que pidieron ayuda a las autoridades en el momento en que la persona estaba siendo llevada contra su voluntad o inmediatamente después, un período crítico para obtener información sobre el paradero de la víctima, evitar su muerte y encontrar a los responsables. Sin embargo, en todos esos casos las autoridades no ofrecieron una respuesta a los familiares o no los atendieron', asegura HRW.",
+      "text": "'En varios casos, los familiares de las víctimas dijeron a Human Rights Watch que pidieron ayuda a las autoridades en el momento en que la persona estaba siendo llevada contra su voluntad o inmediatamente después, un período crítico para obtener información sobre el paradero de la víctima, evitar su muerte y encontrar a los responsables. Sin embargo, en todos esos casos las autoridades no ofrecieron una respuesta a los familiares o no los atendieron', asegura HRW."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 383.096,
+            "r": 520.302,
+            "b": 319.271,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            361
+          ]
+        }
+      ],
+      "orig": "En su mayoría, los familiares de las víctimas refieren que quienes hicieron las detenciones ilegales son miembros de la Secretaría de Marina, de la Secretaría de la Defensa Nacional, agentes de la Policía Federal y policías estatales o municipales, lo que establece un vínculo entre la militarización de una zona con el riesgo de violaciones a derechos humanos.",
+      "text": "En su mayoría, los familiares de las víctimas refieren que quienes hicieron las detenciones ilegales son miembros de la Secretaría de Marina, de la Secretaría de la Defensa Nacional, agentes de la Policía Federal y policías estatales o municipales, lo que establece un vínculo entre la militarización de una zona con el riesgo de violaciones a derechos humanos."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 304.021,
+            "r": 530.53,
+            "b": 226.63200000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            419
+          ]
+        }
+      ],
+      "orig": "'Estos casos involucran a miembros de todas las fuerzas de seguridad que intervienen en operativos de seguridad pública, es decir, policías federales, de los estados y municipales, el Ejército y la Marina, además de policías ministeriales. Entre las distintas fuerzas, se observa una mayor proporción de casos que afectan a policías municipales, quienes muchas veces actuaban en colusión con la delincuencia organizada.",
+      "text": "'Estos casos involucran a miembros de todas las fuerzas de seguridad que intervienen en operativos de seguridad pública, es decir, policías federales, de los estados y municipales, el Ejército y la Marina, además de policías ministeriales. Entre las distintas fuerzas, se observa una mayor proporción de casos que afectan a policías municipales, quienes muchas veces actuaban en colusión con la delincuencia organizada."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 211.49800000000005,
+            "r": 528.737,
+            "b": 120.673,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            540
+          ]
+        }
+      ],
+      "orig": "'En varios hechos, los funcionarios directamente se identificaron como policías o soldados ante familiares y testigos cuando efectuaron las detenciones arbitrarias que originaron las desapariciones. A menudo, los miembros de las fuerzas de seguridad vestían uniformes y conducían vehículos oficiales durante las detenciones arbitrarias, y hay varios casos en que fueron captados por imágenes de video o fotografías. En muchos casos, los testimonios de familiares fueron confirmados por testigos independientes', señala la ONG internacional.",
+      "text": "'En varios hechos, los funcionarios directamente se identificaron como policías o soldados ante familiares y testigos cuando efectuaron las detenciones arbitrarias que originaron las desapariciones. A menudo, los miembros de las fuerzas de seguridad vestían uniformes y conducían vehículos oficiales durante las detenciones arbitrarias, y hay varios casos en que fueron captados por imágenes de video o fotografías. En muchos casos, los testimonios de familiares fueron confirmados por testigos independientes', señala la ONG internacional."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.041,
+            "t": 102.86699999999996,
+            "r": 267.502,
+            "b": 90.93100000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Tu opinión es importante:",
+      "text": "Tu opinión es importante:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 73.62,
+            "r": 145.285,
+            "b": 63.43399999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "comentarios",
+      "text": "comentarios"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2 of 3",
+      "text": "2 of 3"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 9:01 AM",
+      "text": "9/13/2019, 9:01 AM"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 302.582,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "¿Dónde desaparece el gobierno mexicano a sus ciudadanos? - Revolución...",
+      "text": "¿Dónde desaparece el gobierno mexicano a sus ciudadanos? - Revolución..."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 313.339,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "https://revolucion.news/donde-desaparece-el-gobierno-mexicano-a-sus-c...",
+      "text": "https://revolucion.news/donde-desaparece-el-gobierno-mexicano-a-sus-c..."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 80.039,
+            "t": 754.125,
+            "r": 136.054,
+            "b": 747.231,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Comparte en:",
+      "text": "Comparte en:"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "3 of 3",
+      "text": "3 of 3"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 9:01 AM",
+      "text": "9/13/2019, 9:01 AM"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 81.20023345947266,
+            "t": 727.8007431030273,
+            "r": 287.7420959472656,
+            "b": 524.1465148925781,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    }
+  }
+}

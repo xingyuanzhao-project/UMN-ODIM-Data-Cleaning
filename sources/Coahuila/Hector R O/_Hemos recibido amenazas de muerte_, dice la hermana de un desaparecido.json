@@ -1,0 +1,1026 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "_Hemos recibido amenazas de muerte_, dice la hermana de un desaparecido",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 3477194952220288535,
+    "filename": "_Hemos recibido amenazas de muerte_, dice la hermana de un desaparecido.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 302.682,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "\"Hemos recibido amenazas de muerte\", dice la hermana de un desaparecido",
+      "text": "\"Hemos recibido amenazas de muerte\", dice la hermana de un desaparecido"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 316.028,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "https://expansion.mx/nacional/2013/05/15/hemos-recibido-amenazas-de...",
+      "text": "https://expansion.mx/nacional/2013/05/15/hemos-recibido-amenazas-de..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 514.51,
+            "b": 687.918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "\"Hemos recibido amenazas de muerte\", dice la hermana de un desaparecido",
+      "text": "\"Hemos recibido amenazas de muerte\", dice la hermana de un desaparecido",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.04,
+            "t": 659.317,
+            "r": 206.366,
+            "b": 650.057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "| Otra fuente: CNNMéxico",
+      "text": "| Otra fuente: CNNMéxico"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 622.502,
+            "r": 525.173,
+            "b": 598.875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "Hermanos de un hombre que desapareció en 2009 en Coahuila dicen que han tenido que investigar el caso por su cuenta",
+      "text": "Hermanos de un hombre que desapareció en 2009 en Coahuila dicen que han tenido que investigar el caso por su cuenta"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 583.619,
+            "r": 519.031,
+            "b": 546.552,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "Familiares de desaparecidos que acusan inacción por parte de las autoridades han investigado sus casos por su cuenta, pero en su búsqueda han enfrentado supuestos cuestionamientos por parte de algunos funcionarios y amenazas.",
+      "text": "Familiares de desaparecidos que acusan inacción por parte de las autoridades han investigado sus casos por su cuenta, pero en su búsqueda han enfrentado supuestos cuestionamientos por parte de algunos funcionarios y amenazas."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 531.418,
+            "r": 524.697,
+            "b": 480.916,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            324
+          ]
+        }
+      ],
+      "orig": "Brenda y Enrique Rangel Ortiz perdieron la pista a su hermano Héctor en Monclova, Coahuila, el 10 de abril de 2009. Estaba en la ciudad por cuestiones de negocios cuando fue detenido por una patrulla municipal por exceso de velocidad; alcanzó a hablar a su familia para avisar y decir que le pedían dinero para no retenerlo.",
+      "text": "Brenda y Enrique Rangel Ortiz perdieron la pista a su hermano Héctor en Monclova, Coahuila, el 10 de abril de 2009. Estaba en la ciudad por cuestiones de negocios cuando fue detenido por una patrulla municipal por exceso de velocidad; alcanzó a hablar a su familia para avisar y decir que le pedían dinero para no retenerlo."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 465.782,
+            "r": 370.97,
+            "b": 455.595,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Después, la familia Rangel Ortiz no volvió a saber de él.",
+      "text": "Después, la familia Rangel Ortiz no volvió a saber de él."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 440.339,
+            "r": 527.43,
+            "b": 403.273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "Desde entonces ellos se han dedicado a investigar qué sucedió, pero han encontrado obstáculos. Mientras investigaban en Monclova, en una ocasión fueron detenidos por policías, contó Brenda.",
+      "text": "Desde entonces ellos se han dedicado a investigar qué sucedió, pero han encontrado obstáculos. Mientras investigaban en Monclova, en una ocasión fueron detenidos por policías, contó Brenda."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 388.139,
+            "r": 510.441,
+            "b": 351.07,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "'(Se acerca) una patrulla para decirnos que no estuviéramos 'levantando el polvo', que no estuviéramos 'levantando el polvo' porque ahí no querían que siguiéramos preguntando', relató Brenda en el programa Aristegui, de CNN en Español.",
+      "text": "'(Se acerca) una patrulla para decirnos que no estuviéramos 'levantando el polvo', que no estuviéramos 'levantando el polvo' porque ahí no querían que siguiéramos preguntando', relató Brenda en el programa Aristegui, de CNN en Español."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 335.943,
+            "r": 516.536,
+            "b": 285.434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            258
+          ]
+        }
+      ],
+      "orig": "Ortiz Rangel afirmó que existe un registro del caso de su hermano en una bitácora policial, pero que no hay más datos sobre su paradero. De acuerdo con Brenda, los agentes que detuvieron a Héctor fueron dados de baja porque no pasaron controles de confianza.",
+      "text": "Ortiz Rangel afirmó que existe un registro del caso de su hermano en una bitácora policial, pero que no hay más datos sobre su paradero. De acuerdo con Brenda, los agentes que detuvieron a Héctor fueron dados de baja porque no pasaron controles de confianza."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 270.18000000000006,
+            "r": 509.657,
+            "b": 233.111,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "Después, los familiares de Héctor consiguieron una cita con el presidente Enrique Peña Nieto, según correos mostrados a la periodista Carmen Aristegui, pero supuestamente los representantes del gobierno negaron la reunión el mismo día.",
+      "text": "Después, los familiares de Héctor consiguieron una cita con el presidente Enrique Peña Nieto, según correos mostrados a la periodista Carmen Aristegui, pero supuestamente los representantes del gobierno negaron la reunión el mismo día."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 217.97699999999998,
+            "r": 399.838,
+            "b": 207.78999999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Brenda Rangel dice que no descansará hasta resolver el caso.",
+      "text": "Brenda Rangel dice que no descansará hasta resolver el caso."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 192.65599999999995,
+            "r": 531.279,
+            "b": 155.59400000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            227
+          ]
+        }
+      ],
+      "orig": "'Aún así con todo lo que tengo encima, con todas las presiones que tengo de amenaza de muerte y todo, no voy a descansar, y si algún día amanezco colgada o destrozada, es culpa del gobierno, es culpa del Estado mexicano', dijo.",
+      "text": "'Aún así con todo lo que tengo encima, con todas las presiones que tengo de amenaza de muerte y todo, no voy a descansar, y si algún día amanezco colgada o destrozada, es culpa del gobierno, es culpa del Estado mexicano', dijo."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 140.34000000000003,
+            "r": 522.713,
+            "b": 103.27099999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "'Cualquiera de los que estamos exponiendo nuestra vida es culpa del gobierno, porque ellos están exponiéndonos a que nosotros hagamos la investigación que ellos tenían que haber hecho'.",
+      "text": "'Cualquiera de los que estamos exponiendo nuestra vida es culpa del gobierno, porque ellos están exponiéndonos a que nosotros hagamos la investigación que ellos tenían que haber hecho'."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 88.13699999999994,
+            "r": 512.271,
+            "b": 37.63099999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            321
+          ]
+        }
+      ],
+      "orig": "Madres y familiares de desaparecidos han realizado diversas manifestaciones para exigir la resolución de sus casos. El pasado jueves, un grupo de mujeres inició una huelga de hambre frente a la Procuraduría General de la República (PGR), en la Ciudad de México, para exigir una reunión con el presidente, el secretario de",
+      "text": "Madres y familiares de desaparecidos han realizado diversas manifestaciones para exigir la resolución de sus casos. El pasado jueves, un grupo de mujeres inició una huelga de hambre frente a la Procuraduría General de la República (PGR), en la Ciudad de México, para exigir una reunión con el presidente, el secretario de"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 2",
+      "text": "1 of 2"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:43 AM",
+      "text": "9/13/2019, 8:43 AM"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 302.682,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "\"Hemos recibido amenazas de muerte\", dice la hermana de un desaparecido",
+      "text": "\"Hemos recibido amenazas de muerte\", dice la hermana de un desaparecido"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 316.028,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "https://expansion.mx/nacional/2013/05/15/hemos-recibido-amenazas-de...",
+      "text": "https://expansion.mx/nacional/2013/05/15/hemos-recibido-amenazas-de..."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 753.298,
+            "r": 515.372,
+            "b": 729.677,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "Gobernación, Miguel Ángel Osorio Chong, y el comisionado Nacional de Seguridad Pública, Manuel Mondragón.",
+      "text": "Gobernación, Miguel Ángel Osorio Chong, y el comisionado Nacional de Seguridad Pública, Manuel Mondragón."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 714.421,
+            "r": 422.41,
+            "b": 704.235,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "Hasta ahora no ha habido respuesta por parte de las autoridades.",
+      "text": "Hasta ahora no ha habido respuesta por parte de las autoridades."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 689.101,
+            "r": 519.3,
+            "b": 652.033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "En febrero pasado, el gobierno federal dio a conocer que durante la administración pasada desaparecieron al menos 26,121 personas . En promedio, 12 por cada día del sexenio.",
+      "text": "En febrero pasado, el gobierno federal dio a conocer que durante la administración pasada desaparecieron al menos 26,121 personas . En promedio, 12 por cada día del sexenio."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 636.899,
+            "r": 517.759,
+            "b": 613.273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "En tanto, la Comisión Nacional de los Derechos Humanos denunció al menos 2,126 desapariciones forzadas, un delito que no es penado en al menos la mitad del país.",
+      "text": "En tanto, la Comisión Nacional de los Derechos Humanos denunció al menos 2,126 desapariciones forzadas, un delito que no es penado en al menos la mitad del país."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 598.022,
+            "r": 517.748,
+            "b": 574.396,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Leer: La desaparición forzada, delito grave que solo castiga la mitad del país",
+      "text": "Leer: La desaparición forzada, delito grave que solo castiga la mitad del país",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 559.262,
+            "r": 497.302,
+            "b": 535.635,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "Amnistía Internacional calificó como positiva la recopilación de información de desaparecidos, pero exhortó a las autoridades a  revisar y depurar los casos.",
+      "text": "Amnistía Internacional calificó como positiva la recopilación de información de desaparecidos, pero exhortó a las autoridades a  revisar y depurar los casos."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 520.501,
+            "r": 526.955,
+            "b": 483.433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "En abril pasado, durante la inauguración del Memorial a las Víctimas de la Violencia, Osorio Chong dijo que el gobierno está 'dando la cara a familiares de personas no localizadas'.",
+      "text": "En abril pasado, durante la inauguración del Memorial a las Víctimas de la Violencia, Osorio Chong dijo que el gobierno está 'dando la cara a familiares de personas no localizadas'."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 468.177,
+            "r": 479.506,
+            "b": 444.556,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "Leer: Tras la desaparición de sus hijos, las madres viven una vida fracturada",
+      "text": "Leer: Tras la desaparición de sus hijos, las madres viven una vida fracturada",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 429.423,
+            "r": 194.064,
+            "b": 419.236,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "¿Tienes poco tiempo?",
+      "text": "¿Tienes poco tiempo?"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.039,
+            "t": 403.979,
+            "r": 436.072,
+            "b": 393.793,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Infórmate en menos de cinco minutos de lo más importante del día.",
+      "text": "Infórmate en menos de cinco minutos de lo más importante del día."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2 of 2",
+      "text": "2 of 2"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:43 AM",
+      "text": "9/13/2019, 8:43 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

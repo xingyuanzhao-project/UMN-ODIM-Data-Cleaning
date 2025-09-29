@@ -1,0 +1,402 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Buscan a sordos desaparecidos",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7863982161631389826,
+    "filename": "Buscan a sordos desaparecidos.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 123.493,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Buscan a sordos desaparecidos",
+      "text": "Buscan a sordos desaparecidos"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 314.534,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "https://www.zocalo.com.mx/new_site/articulo/buscan-a-sordos-desapare...",
+      "text": "https://www.zocalo.com.mx/new_site/articulo/buscan-a-sordos-desapare..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 385.357,
+            "b": 711.806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Buscan a sordos desaparecidos",
+      "text": "Buscan a sordos desaparecidos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.04,
+            "t": 683.195,
+            "r": 149.904,
+            "b": 673.935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Por Redacción",
+      "text": "Por Redacción"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 646.378,
+            "r": 526.563,
+            "b": 609.316,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "Saltillo.La comunidad sorda en México busca a cinco hombres sordos procedentes del DF que aparentemente fueron secuestrados en un crucero en Piedras Negras, el jueves 23 de febrero del 2012.",
+      "text": "Saltillo.La comunidad sorda en México busca a cinco hombres sordos procedentes del DF que aparentemente fueron secuestrados en un crucero en Piedras Negras, el jueves 23 de febrero del 2012."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 594.061,
+            "r": 498.015,
+            "b": 543.553,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            256
+          ]
+        }
+      ],
+      "orig": "De acuerdo con un comunicado de prensa, las personas dedicadas a la venta de calendarios y plumas desaparecieron alrededor de las 18:30 horas de la avenida Román Cepeda y bulevar República, en la colonia 24 de Agosto, donde aparentemente fueron levantados.",
+      "text": "De acuerdo con un comunicado de prensa, las personas dedicadas a la venta de calendarios y plumas desaparecieron alrededor de las 18:30 horas de la avenida Román Cepeda y bulevar República, en la colonia 24 de Agosto, donde aparentemente fueron levantados."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 528.419,
+            "r": 531.6,
+            "b": 477.911,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            261
+          ]
+        }
+      ],
+      "orig": "El último contacto, por medio de mensaje de texto, fue el jueves, entre Jorge Espinosa Salgado (uno de los cinco desaparecidos) y su esposa en el DF. Ellos nunca regresaron al hotel Miranda ubicado en la calle Morelia 107 de la colonia Roma donde se hospedaban.",
+      "text": "El último contacto, por medio de mensaje de texto, fue el jueves, entre Jorge Espinosa Salgado (uno de los cinco desaparecidos) y su esposa en el DF. Ellos nunca regresaron al hotel Miranda ubicado en la calle Morelia 107 de la colonia Roma donde se hospedaban."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 462.783,
+            "r": 522.203,
+            "b": 398.836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            367
+          ]
+        }
+      ],
+      "orig": "Según el boletín, el grupo de sordos se había presentado el miércoles ante las autoridades correspondientes a pedir consentimiento para vender en las calles, pero el permiso les fue negado. Sin embargo, fueron invitados a vender en un crucero por dos sordos que viven en Piedras Negras de nombre Vanesa 'N' y Manuel Adrián González Mancera (uno de los desaparecidos).",
+      "text": "Según el boletín, el grupo de sordos se había presentado el miércoles ante las autoridades correspondientes a pedir consentimiento para vender en las calles, pero el permiso les fue negado. Sin embargo, fueron invitados a vender en un crucero por dos sordos que viven en Piedras Negras de nombre Vanesa 'N' y Manuel Adrián González Mancera (uno de los desaparecidos)."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 383.702,
+            "r": 528.772,
+            "b": 319.753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            345
+          ]
+        }
+      ],
+      "orig": "El grupo de sordos fue transportado por Vanesa 'N', en su auto particular dejándolos al filo de las 17:00 horas en el crucero y acordando regresar por ellos a las 19:00 horas. En el crucero se quedaron: José Martín Morales Galván, Jorge Espinosa Salgado, Jose Antonio Ángeles Flores, José Luis Vallejo Rodríguez y Manuel Adrián González Mancera.",
+      "text": "El grupo de sordos fue transportado por Vanesa 'N', en su auto particular dejándolos al filo de las 17:00 horas en el crucero y acordando regresar por ellos a las 19:00 horas. En el crucero se quedaron: José Martín Morales Galván, Jorge Espinosa Salgado, Jose Antonio Ángeles Flores, José Luis Vallejo Rodríguez y Manuel Adrián González Mancera."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 304.503,
+            "r": 513.34,
+            "b": 267.433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "Vanessa 'N' regresó por ellos, sin embargo no los encontró. Otro sordo de nombre José Antonio Estrada y que conocía al grupo fue el que dio la voz de alerta a las familias.",
+      "text": "Vanessa 'N' regresó por ellos, sin embargo no los encontró. Otro sordo de nombre José Antonio Estrada y que conocía al grupo fue el que dio la voz de alerta a las familias."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 9:50 AM",
+      "text": "9/13/2019, 9:50 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

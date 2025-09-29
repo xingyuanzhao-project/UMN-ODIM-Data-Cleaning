@@ -1,0 +1,1050 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Llegan datos tras 3 meses",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 17431737632150233517,
+    "filename": "Llegan datos tras 3 meses.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 772.935,
+            "r": 115.814,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Document View | NewsBank",
+      "text": "Document View | NewsBank"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 535.443,
+            "t": 772.935,
+            "r": 593.762,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "4/23/20 2'01 PM",
+      "text": "4/23/20 2'01 PM"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 645.539,
+            "r": 586.665,
+            "b": 611.315,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "Llegan datos tras 3 meses - Apenas recaban información de teléfonos. Este es el único avance que reporta Fiscalía a parientes de desaparecidos",
+      "text": "Llegan datos tras 3 meses - Apenas recaban información de teléfonos. Este es el único avance que reporta Fiscalía a parientes de desaparecidos",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 82.0,
+            "t": 595.67,
+            "r": 397.185,
+            "b": 555.726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "25 de octubre del 2017 | Mural (Guadalajara, Jalisco, Mexico) Author: MURAL / STAFF | Page: 4 | Section: Justicia 384 Words",
+      "text": "25 de octubre del 2017 | Mural (Guadalajara, Jalisco, Mexico) Author: MURAL / STAFF | Page: 4 | Section: Justicia 384 Words"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 204.625,
+            "t": 537.929,
+            "r": 218.225,
+            "b": 525.839,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<c=1,font=/MWGGIY+hl-icons>",
+      "text": "GLYPH<c=1,font=/MWGGIY+hl-icons>"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.2,
+            "t": 535.403,
+            "r": 190.213,
+            "b": 527.125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Read News Document",
+      "text": "Read News Document"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 66.8,
+            "t": 536.73,
+            "r": 80.307,
+            "b": 526.773,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<c=2,font=/MWGGIY+hl-icons>",
+      "text": "GLYPH<c=2,font=/MWGGIY+hl-icons>"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.0,
+            "t": 531.397,
+            "r": 59.6,
+            "b": 522.863,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "GLYPH<c=3,font=/MWGGIY+hl-icons>",
+      "text": "GLYPH<c=3,font=/MWGGIY+hl-icons>"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 468.4,
+            "r": 582.089,
+            "b": 418.851,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            243
+          ]
+        }
+      ],
+      "orig": "Tuvieron que pasar poco m‡s de tres meses, pero la Fiscal'a del Estado al fin cuenta con la informaci-n de los telŽfonos de los j-venes desaparecidos el pasado 21 de julio, entre quienes est‡ Karla, cuya madre acusretardos en la investigaci-n.",
+      "text": "Tuvieron que pasar poco m‡s de tres meses, pero la Fiscal'a del Estado al fin cuenta con la informaci-n de los telŽfonos de los j-venes desaparecidos el pasado 21 de julio, entre quienes est‡ Karla, cuya madre acusretardos en la investigaci-n."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 391.6,
+            "r": 577.816,
+            "b": 361.251,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            209
+          ]
+        }
+      ],
+      "orig": "La dependencia inform- a los familiares que la empresa telef-nica les entreg- tras poco m‡s de tres meses estos informes, conocidos como s‡banas, que indican las llamadas que hicieron y recibieron los j-venes.",
+      "text": "La dependencia inform- a los familiares que la empresa telef-nica les entreg- tras poco m‡s de tres meses estos informes, conocidos como s‡banas, que indican las llamadas que hicieron y recibieron los j-venes."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 334.0,
+            "r": 569.809,
+            "b": 284.451,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            253
+          ]
+        }
+      ],
+      "orig": "El investigador a cargo les explic- que tienen la informaci-n de los nœmeros de Karla Gabriela Mac'as CortŽs, de 17 a-os, y de quien es su pareja, Raœl S‡nchez Rodr'guez, tambiŽn desaparecido; otra de ellos, Lesly Noem' L-pez Mej'a, no llevaba telŽfono.",
+      "text": "El investigador a cargo les explic- que tienen la informaci-n de los nœmeros de Karla Gabriela Mac'as CortŽs, de 17 a-os, y de quien es su pareja, Raœl S‡nchez Rodr'guez, tambiŽn desaparecido; otra de ellos, Lesly Noem' L-pez Mej'a, no llevaba telŽfono."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 257.20000000000005,
+            "r": 575.746,
+            "b": 226.851,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "Este fue el œnico avance que recibieron luego de acudir el pasado lunes a cuestionar sobre la investigaci-n por la desaparici-n de los cinco j-venes.",
+      "text": "Este fue el œnico avance que recibieron luego de acudir el pasado lunes a cuestionar sobre la investigaci-n por la desaparici-n de los cinco j-venes."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 199.60000000000002,
+            "r": 563.465,
+            "b": 169.25099999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "\"Para nosotros los padres es pŽrdida de tiempo ya que aœn no hay ninguna informaci-n clara, cambiar‡ cuando nos den un dato certero, Àd-nde est‡n? ÀQuiŽn los tiene?\", explic- Mary, madre de Karla.",
+      "text": "\"Para nosotros los padres es pŽrdida de tiempo ya que aœn no hay ninguna informaci-n clara, cambiar‡ cuando nos den un dato certero, Àd-nde est‡n? ÀQuiŽn los tiene?\", explic- Mary, madre de Karla."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 142.0,
+            "r": 581.204,
+            "b": 111.65099999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "MURAL public- que Mary acus- insensibilidad y retardos en la investigaci-n pese a que se dijo que esto ya no ocurr'a tras el lanzamiento de la Fiscal'a Especializada en Desaparecidos, el pasado 31 de agosto.",
+      "text": "MURAL public- que Mary acus- insensibilidad y retardos en la investigaci-n pese a que se dijo que esto ya no ocurr'a tras el lanzamiento de la Fiscal'a Especializada en Desaparecidos, el pasado 31 de agosto."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 84.39999999999998,
+            "r": 592.602,
+            "b": 73.25099999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "Los retardos se han dado porque el agente que llevaba el caso cambi- desde mediados de septiembre, porque",
+      "text": "Los retardos se han dado porque el agente que llevaba el caso cambi- desde mediados de septiembre, porque"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.0,
+            "t": 47.934999999999945,
+            "r": 475.814,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "https://infoweb-newsbank-com.ezp1.lib.umn.edu/apps/news/document-view?p=AWNB&docref=news/167C1F71A6E30848&f=basic",
+      "text": "https://infoweb-newsbank-com.ezp1.lib.umn.edu/apps/news/document-view?p=AWNB&docref=news/167C1F71A6E30848&f=basic"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 547.198,
+            "t": 47.934999999999945,
+            "r": 593.788,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Página 1 de 2",
+      "text": "Página 1 de 2"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 772.935,
+            "r": 115.814,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Document View | NewsBank",
+      "text": "Document View | NewsBank"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 535.443,
+            "t": 772.935,
+            "r": 593.762,
+            "b": 766.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "4/23/20 2'01 PM",
+      "text": "4/23/20 2'01 PM"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 744.4,
+            "r": 564.724,
+            "b": 733.251,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "el polic'a investigador a cargo sali- de vacaciones y m‡s tarde el nuevo Ministerio Pœblico se incapacit-.",
+      "text": "el polic'a investigador a cargo sali- de vacaciones y m‡s tarde el nuevo Ministerio Pœblico se incapacit-."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 706.0,
+            "r": 578.735,
+            "b": 675.651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "En ese lapso no hab'an obtenido la informaci-n de las llamadas de los desaparecidos y a la fecha no tienen video alguno de la zona en que fueron vistos por œltima vez.",
+      "text": "En ese lapso no hab'an obtenido la informaci-n de las llamadas de los desaparecidos y a la fecha no tienen video alguno de la zona en que fueron vistos por œltima vez."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 648.4,
+            "r": 559.573,
+            "b": 618.051,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "Se report- que Karla, Raœl, Lesly, Ramiro Flores Navarrete y otro joven identificado s-lo como Michel, fueron vistos por œltima vez el 21 de julio.",
+      "text": "Se report- que Karla, Raœl, Lesly, Ramiro Flores Navarrete y otro joven identificado s-lo como Michel, fueron vistos por œltima vez el 21 de julio."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 590.8,
+            "r": 582.508,
+            "b": 541.251,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            240
+          ]
+        }
+      ],
+      "orig": "Desde su ingreso, la Fiscal Especializada en Desaparecidos, Mar'a Teresa Medina Villalobos, reconoci- que le hace falta personal, y acus- que la instituci-n se ha topado con dificultades para obtener informaci-n de las empresas telef-nicas.",
+      "text": "Desde su ingreso, la Fiscal Especializada en Desaparecidos, Mar'a Teresa Medina Villalobos, reconoci- que le hace falta personal, y acus- que la instituci-n se ha topado con dificultades para obtener informaci-n de las empresas telef-nicas."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 514.0,
+            "r": 163.614,
+            "b": 502.851,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Las claves del caso de Karla",
+      "text": "Las claves del caso de Karla",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 475.6,
+            "r": 327.528,
+            "b": 464.451,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "á Karla y otros cuatro j-venes desaparecieron el 21 de julio.",
+      "text": "á Karla y otros cuatro j-venes desaparecieron el 21 de julio.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 437.2,
+            "r": 401.923,
+            "b": 426.051,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "á Fiscal'a emite fichas del Protocolo Alba por ella y Lesly, el 30 de agosto.",
+      "text": "á Fiscal'a emite fichas del Protocolo Alba por ella y Lesly, el 30 de agosto.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 398.8,
+            "r": 312.029,
+            "b": 387.651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "á El 21 de septiembre, cambia el MP encargado del caso.",
+      "text": "á El 21 de septiembre, cambia el MP encargado del caso.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 360.4,
+            "r": 476.909,
+            "b": 349.251,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "á El 2 de octubre Mary ten'a cita con la Fiscal de Desaparecidos, pero la atendi- un MP.",
+      "text": "á El 2 de octubre Mary ten'a cita con la Fiscal de Desaparecidos, pero la atendi- un MP.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.0,
+            "t": 300.47,
+            "r": 417.183,
+            "b": 290.926,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "© Copyright (c) 2017 Editora El Sol, S.A. de C.V. Mural. All rights reserved.",
+      "text": "© Copyright (c) 2017 Editora El Sol, S.A. de C.V. Mural. All rights reserved."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 47.934999999999945,
+            "r": 475.814,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "https://infoweb-newsbank-com.ezp1.lib.umn.edu/apps/news/document-view?p=AWNB&docref=news/167C1F71A6E30848&f=basic",
+      "text": "https://infoweb-newsbank-com.ezp1.lib.umn.edu/apps/news/document-view?p=AWNB&docref=news/167C1F71A6E30848&f=basic"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 546.234,
+            "t": 47.934999999999945,
+            "r": 593.784,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Página 2 de 2",
+      "text": "Página 2 de 2"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 46.70402526855469,
+            "t": 545.1756439208984,
+            "r": 226.83660888671875,
+            "b": 520.9485168457031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

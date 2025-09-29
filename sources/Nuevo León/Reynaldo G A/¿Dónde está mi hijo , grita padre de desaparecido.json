@@ -1,0 +1,72 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "¿Dónde está mi hijo , grita padre de desaparecido",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 14426641882218893132,
+    "filename": "¿Dónde está mi hijo , grita padre de desaparecido.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.52305234375,
+            "r": 168.733,
+            "b": 612.87305234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Not Found 404 Not Found",
+      "text": "Not Found 404 Not Found",
+      "level": 1
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 475.8659973144531,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

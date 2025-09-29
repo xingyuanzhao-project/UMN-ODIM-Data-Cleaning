@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Fiscalía de Veracruz fue ineficiente al investigar desaparición, señala Idheas",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7442464995636844373,
+    "filename": "Fiscalía de Veracruz fue ineficiente al investigar desaparición, señala Idheas.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.52305234375,
+            "r": 632.273,
+            "b": 567.29505234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            431
+          ]
+        }
+      ],
+      "orig": "jornada.com.mx | 502: Bad gateway Bad gateway Error code 502 Visit cloudflare.com for more information. 2025-09-15 20:29:45 UTC You Browser Working Jacksonville Cloudflare Working www.jornada.com.mx Host Error What happened? The web server reported a bad gateway error. What can I do? Please try again in a few minutes. Cloudflare Ray ID: 97fae0c51a31763d Your IP: Click to reveal 104.7.154.140 Performance & security by Cloudflare",
+      "text": "jornada.com.mx | 502: Bad gateway Bad gateway Error code 502 Visit cloudflare.com for more information. 2025-09-15 20:29:45 UTC You Browser Working Jacksonville Cloudflare Working www.jornada.com.mx Host Error What happened? The web server reported a bad gateway error. What can I do? Please try again in a few minutes. Cloudflare Ray ID: 97fae0c51a31763d Your IP: Click to reveal 104.7.154.140 Performance & security by Cloudflare"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

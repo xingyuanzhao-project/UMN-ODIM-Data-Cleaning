@@ -1,0 +1,92 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Tú y yo coincidimos en la noche terrible",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15321616779620247797,
+    "filename": "Tú y yo coincidimos en la noche terrible.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 687.3180075,
+            "r": 620.233,
+            "b": 6.996007500000019,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4047
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 30.273,
+            "t": 687.3184625,
+            "r": 632.273,
+            "b": 358.4024625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            4048,
+            6259
+          ]
+        }
+      ],
+      "orig": "Privacy error Your connection is not private Attackers might be trying to steal your information from www.nuestraaparenterendicion.com (for example, passwords, messages, or credit cards). Learn more net::ERR_CERT_COMMON_NAME_INVALID Subject: *.dinaserver.com Issuer: GlobalSign RSA OV SSL CA 2018 Expires on: Oct 18, 2025 Current date: Sep 15, 2025 PEM encoded chain: -----BEGIN CERTIFICATE----- MIIGbTCCBVWgAwIBAgIMICdO4Pb8czXv5xHoMA0GCSqGSIb3DQEBCwUAMFAxCzAJ BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0yNDA5MTYyMTAwNTBaFw0y NTEwMTgyMTAwNDlaMHsxCzAJBgNVBAYTAkVTMRIwEAYDVQQIDAlBIENvcnXDsWEx HzAdBgNVBAcTFlNhbnRpYWdvIGRlIENvbXBvc3RlbGExHDAaBgNVBAoTE1BSSVZB Q0lEQUQgV0hPSVMgU0wxGTAXBgNVBAMMECouZGluYXNlcnZlci5jb20wggEiMA0G CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCnjV/dONwfK4XZqP3qw4lTULUQMybE zvDNdyQYS9q9emDMlzIHw7eHgwFHPdkCBuu1cj6aXuSw8k5dkkIzSrxSE/DWSH4H Trt5lsTB6CIVBQvN6khsI7eq4Rk697hzzX7i39C18141/sqniqC46mXVJ3wHP61A pbHZ6+u+VV1h4Js5mU+RpCnBglqCIwoBXB1wnOqA6xTYkl3SEbaohTVVxcMoD0Eb MJTvB5WwIlShe1oTgOTqck6npC4dXuU/0Pw0UWg9DhZzKiZAGPGmw8KFh1xpYkiu 7igPqlerDOOC9nr4lvmXEv/vDJO4c2UqoiwIBGJD0SvP5mjES4+2R5+HAgMBAAGj ggMaMIIDFjAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADCBjgYIKwYBBQUH AQEEgYEwfzBEBggrBgEFBQcwAoY4aHR0cDovL3NlY3VyZS5nbG9iYWxzaWduLmNv bS9jYWNlcnQvZ3Nyc2FvdnNzbGNhMjAxOC5jcnQwNwYIKwYBBQUHMAGGK2h0dHA6 Ly9vY3NwLmdsb2JhbHNpZ24uY29tL2dzcnNhb3Zzc2xjYTIwMTgwVgYDVR0gBE8w TTBBBgkrBgEEAaAyARQwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFs c2lnbi5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQICMCsGA1UdEQQkMCKCECouZGlu YXNlcnZlci5jb22CDmRpbmFzZXJ2ZXIuY29tMB0GA1UdJQQWMBQGCCsGAQUFBwMB BggrBgEFBQcDAjAfBgNVHSMEGDAWgBT473/yzXhnqN5vjySNiPGHAwKz6zAdBgNV HQ4EFgQULGa2tHSFytbsBGutOXPOA9yKApEwggF/BgorBgEEAdZ5AgQCBIIBbwSC AWsBaQB2AK8YGijWjKPgqYpMnGerCfi7vCK6rryxOKOhndP5tgMNAAABkfyjancA AAQDAEcwRQIhAMxExUZGyXHa/k8fmpKvlfM/VUzHOJ7oUowHvcgOmtPCAiBfdT+2 PSUWWd0pgHG5yQ99SmM0At8pya6ThZsOAMGPWQB2ABLxTjS9U3JMhAYZw48/ehP4 57Vih4icbTAFhOvlhiY6AAABkfyja34AAAQDAEcwRQIgVC5O0SYM0WbeQxTqFIbu T/Rgld4gVlGUS0Ax9wr3HRgCIQC6lBOZZgaJeflNH4FPuVJ32ROcgY0hQZ5KT4hn ussmpwB3AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABkfyjamsA AAQDAEgwRgIhAOcgGcRc1li0a/gqq+tGWOd43jBUTawwRnxEN4aiIM5pAiEA8y7M 7Q5OfFQu5gvdsA1xcmqY1ZEN2vGHVpetFnI412UwDQYJKoZIhvcNAQELBQADggEB AA1mXXCu5fkqngHP59huVNI60CA+ywXOtU+cuLjMK0Xapa+JDneS8oKDovoWJDIw 6FtX+P5nYQR/5En0SFbNFT6wUmGR8tq/QAuSzQjlcrp+9pAns+3eQnzKhRGFg6e6 EdwTk/tqwvFyacnw1rDnzWeniFhcl202AczBumQdIu77oF6nlRgFellpIsVVwN8x KPCLRP7BYzzllzySjo/bdwuEsaD/ppMPZA1990aicpxTSPyCxRyu7RKaCvpBmmFv nYt3e33zjJ45k8w0swdNDdeVSFvdZZuNzW6hQD3gdwXIU+FSPeBx6vRANrO/d+r6 OzXv0Gk+Ry0aMAxOYvP86Oc= -----END CERTIFICATE----- -----BEGIN CERTIFICATE----MIIETjCCAzagAwIBAgINAe5fIh38YjvUMzqFVzANBgkqhkiG9w0BAQsFADBMMSAw HgYDVQQLExdHbG9iYWxTaWduIFJvb3QgQ0EgLSBSMzETMBEGA1UEChMKR2xvYmFs U2lnbjETMBEGA1UEAxMKR2xvYmFsU2lnbjAeFw0xODExMjEwMDAwMDBaFw0yODEx MjEwMDAwMDBaMFAxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52 LXNhMSYwJAYDVQQDEx1HbG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODCCASIw DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKdaydUMGCEAI9WXD+uu3Vxoa2uP UGATeoHLl+6OimGUSyZ59gSnKvuk2la77qCk8HuKf1UfR5NhDW5xUTolJAgvjOH3 idaSz6+zpz8w7bXfIa7+9UQX/dhj2S/TgVprX9NHsKzyqzskeU8fxy7quRU6fBhM abO1IFkJXinDY+YuRluqlJBJDrnw9UqhCS98NE3QvADFBlV5Bs6i0BDxSEPouVq1 lVW9MdIbPYa+oewNEtssmSStR8JvA+Z6cLVwzM0nLKWMjsIYPJLJLnNvBhBWk0Cq o8VS++XFBdZpaFwGue5RieGKDkFNm5KQConpFmvv73W+eka440eKHRwup08CAwEA AaOCASkwggElMA4GA1UdDwEB/wQEAwIBhjASBgNVHRMBAf8ECDAGAQH/AgEAMB0G A1UdDgQWBBT473/yzXhnqN5vjySNiPGHAwKz6zAfBgNVHSMEGDAWgBSP8Et/qC5F JK5NUPpjmove4t0bvDA+BggrBgEFBQcBAQQyMDAwLgYIKwYBBQUHMAGGImh0dHA6 Ly9vY3NwMi5nbG9iYWxzaWduLmNvbS9yb290cjMwNgYDVR0fBC8wLTAroCmgJ4Yl aHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9yb290LXIzLmNybDBHBgNVHSAEQDA+ MDwGBFUdIAAwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5j b20vcmVwb3NpdG9yeS8wDQYJKoZIhvcNAQELBQADggEBAJmQyC1fQorUC2bbmANz EdSIhlIoU4r7rd/9c446ZwTbw1MUcBQJfMPg+NccmBqixD7b6QDjynCy8SIwIVbb 0615XoFYC20UgDX1b10d65pHBf9ZjQCxQNqQmJYaumxtf4z1s4DfjGRzNpZ5eWl0 6r/4ngGPoJVpjemEuunl1Ig423g7mNA2eymw0lIYkN5SQwCuaifIFJ6GlazhgDEw fpolu4usBCOmmQDo8dIm7A9+O4orkjgTHY+GzYZSR+Y0fFukAj6KYXwidlNalFMz hriSqHKvoflShx8xpfywgVcvzfTO3PYkz6fiNJBonf6q8amaEsybwMbDqKWwIX7e SPY= -----END CERTIFICATE---------BEGIN CERTIFICATE----- MIIDXzCCAkegAwIBAgILBAAAAAABIVhTCKIwDQYJKoZIhvcNAQELBQAwTDEgMB4G A1UECxMXR2xvYmFsU2lnbiBSb290IENBIC0gUjMxEzARBgNVBAoTCkdsb2JhbFNp Z24xEzARBgNVBAMTCkdsb2JhbFNpZ24wHhcNMDkwMzE4MTAwMDAwWhcNMjkwMzE4 MTAwMDAwWjBMMSAwHgYDVQQLExdHbG9iYWxTaWduIFJvb3QgQ0EgLSBSMzETMBEG A1UEChMKR2xvYmFsU2lnbjETMBEGA1UEAxMKR2xvYmFsU2lnbjCCASIwDQYJKoZI hvcNAQEBBQADggEPADCCAQoCggEBAMwldpB5BngiFvXAg7aEyiie/QV2EcWtiHL8 RgJDx7KKnQRfJMsuS+FggkbhUqsMgUdwbN1k0ev1LKMPgj0MK66X17YUhhB5uzsT gHeMCOFJ0mpiLx9e+pZo34knlTifBtc+ycsmWQ1z3rDI6SYOgxXG71uL0gRgykmm KPZpO/bLyCiR5Z2KYVc3rHQU3HTgOu5yLy6c+9C7v/U9AOEGM+iCK65TpjoWc4zd QQ4gOsC0p6Hpsk+QLjJg6VfLuQSSaGjlOCZgdbKfd/+RFO+uIEn8rUAVSNECMWEZ XriX7613t2Saer9fwRPvm2L7DWzgVGkWqQPabumDk3F2xmmFghcCAwEAAaNCMEAw DgYDVR0PAQH/BAQDAgEGMA8GA1UdEwEB/wQFMAMBAf8wHQYDVR0OBBYEFI/wS3+o LkUkrk1Q+mOai97i3Ru8MA0GCSqGSIb3DQEBCwUAA4IBAQBLQNvAUKr+yAzv95ZU RUm7lgAJQayzE4aGKAczymvmdLm6AC2upArT9fHxD4q/c2dKg8dEe3jgr25sbwMp jjM5RcOO5LlXbKr8EpbsU8Yt5CRsuZRj+9xTaGdWPoO4zzUhw8lo/s7awlOqzJCK 6fBdRoyV3XpYKBovHd7NADdBj+1EbddTKJd+82cEHhXXipa0095MJ6RMG3NzdvQX mcIfeg7jLQitChws/zyrVQ4PkX4268NXSb7hLi18YIvDQVETI53O9zJrlAGomecs Mx86OyXShkDOOyyGeMlhLxS67ttVb9+E7gUJTb0o2HLO02JQZR7rkpeDMdmztcpH WD9f -----END CERTIFICATE----Certificate Transparency: SCT Sectigo 'Mammoth2025h2' (Embedded in certificate, Verified) SCT Google 'Argon2025h2' log (Embedded in certificate, Verified) SCT DigiCert Yeti2025 Log (Embedded in certificate, Verified) Warnings may be common while websites update their security. This should improve soon. Help improve security on the web for everyone by sending URLs of some pages you visit, limited system information, and some page content to Google. Privacy policy Turn on enhanced protection to get Chrome's highest level of security Back to safety Advanced This server could not prove that it is www.nuestraaparenterendicion.com ; its security certificate is from *.dinaserver.com . This may be caused by a misconfiguration or an attacker intercepting your connection. Proceed to www.nuestraaparenterendicion.com (unsafe)",
+      "text": "Privacy error Your connection is not private Attackers might be trying to steal your information from www.nuestraaparenterendicion.com (for example, passwords, messages, or credit cards). Learn more net::ERR_CERT_COMMON_NAME_INVALID Subject: *.dinaserver.com Issuer: GlobalSign RSA OV SSL CA 2018 Expires on: Oct 18, 2025 Current date: Sep 15, 2025 PEM encoded chain: -----BEGIN CERTIFICATE----- MIIGbTCCBVWgAwIBAgIMICdO4Pb8czXv5xHoMA0GCSqGSIb3DQEBCwUAMFAxCzAJ BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0yNDA5MTYyMTAwNTBaFw0y NTEwMTgyMTAwNDlaMHsxCzAJBgNVBAYTAkVTMRIwEAYDVQQIDAlBIENvcnXDsWEx HzAdBgNVBAcTFlNhbnRpYWdvIGRlIENvbXBvc3RlbGExHDAaBgNVBAoTE1BSSVZB Q0lEQUQgV0hPSVMgU0wxGTAXBgNVBAMMECouZGluYXNlcnZlci5jb20wggEiMA0G CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCnjV/dONwfK4XZqP3qw4lTULUQMybE zvDNdyQYS9q9emDMlzIHw7eHgwFHPdkCBuu1cj6aXuSw8k5dkkIzSrxSE/DWSH4H Trt5lsTB6CIVBQvN6khsI7eq4Rk697hzzX7i39C18141/sqniqC46mXVJ3wHP61A pbHZ6+u+VV1h4Js5mU+RpCnBglqCIwoBXB1wnOqA6xTYkl3SEbaohTVVxcMoD0Eb MJTvB5WwIlShe1oTgOTqck6npC4dXuU/0Pw0UWg9DhZzKiZAGPGmw8KFh1xpYkiu 7igPqlerDOOC9nr4lvmXEv/vDJO4c2UqoiwIBGJD0SvP5mjES4+2R5+HAgMBAAGj ggMaMIIDFjAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADCBjgYIKwYBBQUH AQEEgYEwfzBEBggrBgEFBQcwAoY4aHR0cDovL3NlY3VyZS5nbG9iYWxzaWduLmNv bS9jYWNlcnQvZ3Nyc2FvdnNzbGNhMjAxOC5jcnQwNwYIKwYBBQUHMAGGK2h0dHA6 Ly9vY3NwLmdsb2JhbHNpZ24uY29tL2dzcnNhb3Zzc2xjYTIwMTgwVgYDVR0gBE8w TTBBBgkrBgEEAaAyARQwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFs c2lnbi5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQICMCsGA1UdEQQkMCKCECouZGlu YXNlcnZlci5jb22CDmRpbmFzZXJ2ZXIuY29tMB0GA1UdJQQWMBQGCCsGAQUFBwMB BggrBgEFBQcDAjAfBgNVHSMEGDAWgBT473/yzXhnqN5vjySNiPGHAwKz6zAdBgNV HQ4EFgQULGa2tHSFytbsBGutOXPOA9yKApEwggF/BgorBgEEAdZ5AgQCBIIBbwSC AWsBaQB2AK8YGijWjKPgqYpMnGerCfi7vCK6rryxOKOhndP5tgMNAAABkfyjancA AAQDAEcwRQIhAMxExUZGyXHa/k8fmpKvlfM/VUzHOJ7oUowHvcgOmtPCAiBfdT+2 PSUWWd0pgHG5yQ99SmM0At8pya6ThZsOAMGPWQB2ABLxTjS9U3JMhAYZw48/ehP4 57Vih4icbTAFhOvlhiY6AAABkfyja34AAAQDAEcwRQIgVC5O0SYM0WbeQxTqFIbu T/Rgld4gVlGUS0Ax9wr3HRgCIQC6lBOZZgaJeflNH4FPuVJ32ROcgY0hQZ5KT4hn ussmpwB3AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAABkfyjamsA AAQDAEgwRgIhAOcgGcRc1li0a/gqq+tGWOd43jBUTawwRnxEN4aiIM5pAiEA8y7M 7Q5OfFQu5gvdsA1xcmqY1ZEN2vGHVpetFnI412UwDQYJKoZIhvcNAQELBQADggEB AA1mXXCu5fkqngHP59huVNI60CA+ywXOtU+cuLjMK0Xapa+JDneS8oKDovoWJDIw 6FtX+P5nYQR/5En0SFbNFT6wUmGR8tq/QAuSzQjlcrp+9pAns+3eQnzKhRGFg6e6 EdwTk/tqwvFyacnw1rDnzWeniFhcl202AczBumQdIu77oF6nlRgFellpIsVVwN8x KPCLRP7BYzzllzySjo/bdwuEsaD/ppMPZA1990aicpxTSPyCxRyu7RKaCvpBmmFv nYt3e33zjJ45k8w0swdNDdeVSFvdZZuNzW6hQD3gdwXIU+FSPeBx6vRANrO/d+r6 OzXv0Gk+Ry0aMAxOYvP86Oc= -----END CERTIFICATE----- -----BEGIN CERTIFICATE----MIIETjCCAzagAwIBAgINAe5fIh38YjvUMzqFVzANBgkqhkiG9w0BAQsFADBMMSAw HgYDVQQLExdHbG9iYWxTaWduIFJvb3QgQ0EgLSBSMzETMBEGA1UEChMKR2xvYmFs U2lnbjETMBEGA1UEAxMKR2xvYmFsU2lnbjAeFw0xODExMjEwMDAwMDBaFw0yODEx MjEwMDAwMDBaMFAxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52 LXNhMSYwJAYDVQQDEx1HbG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODCCASIw DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKdaydUMGCEAI9WXD+uu3Vxoa2uP UGATeoHLl+6OimGUSyZ59gSnKvuk2la77qCk8HuKf1UfR5NhDW5xUTolJAgvjOH3 idaSz6+zpz8w7bXfIa7+9UQX/dhj2S/TgVprX9NHsKzyqzskeU8fxy7quRU6fBhM abO1IFkJXinDY+YuRluqlJBJDrnw9UqhCS98NE3QvADFBlV5Bs6i0BDxSEPouVq1 lVW9MdIbPYa+oewNEtssmSStR8JvA+Z6cLVwzM0nLKWMjsIYPJLJLnNvBhBWk0Cq o8VS++XFBdZpaFwGue5RieGKDkFNm5KQConpFmvv73W+eka440eKHRwup08CAwEA AaOCASkwggElMA4GA1UdDwEB/wQEAwIBhjASBgNVHRMBAf8ECDAGAQH/AgEAMB0G A1UdDgQWBBT473/yzXhnqN5vjySNiPGHAwKz6zAfBgNVHSMEGDAWgBSP8Et/qC5F JK5NUPpjmove4t0bvDA+BggrBgEFBQcBAQQyMDAwLgYIKwYBBQUHMAGGImh0dHA6 Ly9vY3NwMi5nbG9iYWxzaWduLmNvbS9yb290cjMwNgYDVR0fBC8wLTAroCmgJ4Yl aHR0cDovL2NybC5nbG9iYWxzaWduLmNvbS9yb290LXIzLmNybDBHBgNVHSAEQDA+ MDwGBFUdIAAwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5j b20vcmVwb3NpdG9yeS8wDQYJKoZIhvcNAQELBQADggEBAJmQyC1fQorUC2bbmANz EdSIhlIoU4r7rd/9c446ZwTbw1MUcBQJfMPg+NccmBqixD7b6QDjynCy8SIwIVbb 0615XoFYC20UgDX1b10d65pHBf9ZjQCxQNqQmJYaumxtf4z1s4DfjGRzNpZ5eWl0 6r/4ngGPoJVpjemEuunl1Ig423g7mNA2eymw0lIYkN5SQwCuaifIFJ6GlazhgDEw fpolu4usBCOmmQDo8dIm7A9+O4orkjgTHY+GzYZSR+Y0fFukAj6KYXwidlNalFMz hriSqHKvoflShx8xpfywgVcvzfTO3PYkz6fiNJBonf6q8amaEsybwMbDqKWwIX7e SPY= -----END CERTIFICATE---------BEGIN CERTIFICATE----- MIIDXzCCAkegAwIBAgILBAAAAAABIVhTCKIwDQYJKoZIhvcNAQELBQAwTDEgMB4G A1UECxMXR2xvYmFsU2lnbiBSb290IENBIC0gUjMxEzARBgNVBAoTCkdsb2JhbFNp Z24xEzARBgNVBAMTCkdsb2JhbFNpZ24wHhcNMDkwMzE4MTAwMDAwWhcNMjkwMzE4 MTAwMDAwWjBMMSAwHgYDVQQLExdHbG9iYWxTaWduIFJvb3QgQ0EgLSBSMzETMBEG A1UEChMKR2xvYmFsU2lnbjETMBEGA1UEAxMKR2xvYmFsU2lnbjCCASIwDQYJKoZI hvcNAQEBBQADggEPADCCAQoCggEBAMwldpB5BngiFvXAg7aEyiie/QV2EcWtiHL8 RgJDx7KKnQRfJMsuS+FggkbhUqsMgUdwbN1k0ev1LKMPgj0MK66X17YUhhB5uzsT gHeMCOFJ0mpiLx9e+pZo34knlTifBtc+ycsmWQ1z3rDI6SYOgxXG71uL0gRgykmm KPZpO/bLyCiR5Z2KYVc3rHQU3HTgOu5yLy6c+9C7v/U9AOEGM+iCK65TpjoWc4zd QQ4gOsC0p6Hpsk+QLjJg6VfLuQSSaGjlOCZgdbKfd/+RFO+uIEn8rUAVSNECMWEZ XriX7613t2Saer9fwRPvm2L7DWzgVGkWqQPabumDk3F2xmmFghcCAwEAAaNCMEAw DgYDVR0PAQH/BAQDAgEGMA8GA1UdEwEB/wQFMAMBAf8wHQYDVR0OBBYEFI/wS3+o LkUkrk1Q+mOai97i3Ru8MA0GCSqGSIb3DQEBCwUAA4IBAQBLQNvAUKr+yAzv95ZU RUm7lgAJQayzE4aGKAczymvmdLm6AC2upArT9fHxD4q/c2dKg8dEe3jgr25sbwMp jjM5RcOO5LlXbKr8EpbsU8Yt5CRsuZRj+9xTaGdWPoO4zzUhw8lo/s7awlOqzJCK 6fBdRoyV3XpYKBovHd7NADdBj+1EbddTKJd+82cEHhXXipa0095MJ6RMG3NzdvQX mcIfeg7jLQitChws/zyrVQ4PkX4268NXSb7hLi18YIvDQVETI53O9zJrlAGomecs Mx86OyXShkDOOyyGeMlhLxS67ttVb9+E7gUJTb0o2HLO02JQZR7rkpeDMdmztcpH WD9f -----END CERTIFICATE----Certificate Transparency: SCT Sectigo 'Mammoth2025h2' (Embedded in certificate, Verified) SCT Google 'Argon2025h2' log (Embedded in certificate, Verified) SCT DigiCert Yeti2025 Log (Embedded in certificate, Verified) Warnings may be common while websites update their security. This should improve soon. Help improve security on the web for everyone by sending URLs of some pages you visit, limited system information, and some page content to Google. Privacy policy Turn on enhanced protection to get Chrome's highest level of security Back to safety Advanced This server could not prove that it is www.nuestraaparenterendicion.com ; its security certificate is from *.dinaserver.com . This may be caused by a misconfiguration or an attacker intercepting your connection. Proceed to www.nuestraaparenterendicion.com (unsafe)"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 627.0045776367188,
+        "height": 725.2890625
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 2
+    }
+  }
+}

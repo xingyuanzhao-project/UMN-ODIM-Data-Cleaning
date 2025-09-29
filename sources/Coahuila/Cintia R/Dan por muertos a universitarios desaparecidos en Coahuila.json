@@ -1,0 +1,552 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Dan por muertos a universitarios desaparecidos en Coahuila",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8780763021375232670,
+    "filename": "Dan por muertos a universitarios desaparecidos en Coahuila.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 281.666,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "Dan por muertos a universitarios desaparecidos en Coahuila - Proceso",
+      "text": "Dan por muertos a universitarios desaparecidos en Coahuila - Proceso"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.447,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "https://www.proceso.com.mx/339849/dan-por-muertos-a-universitarios-d...",
+      "text": "https://www.proceso.com.mx/339849/dan-por-muertos-a-universitarios-d..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.999,
+            "t": 728.166,
+            "r": 544.167,
+            "b": 687.918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "Dan por muertos a universitarios desaparecidos en Coahuila - Proceso",
+      "text": "Dan por muertos a universitarios desaparecidos en Coahuila - Proceso",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.997,
+            "t": 659.317,
+            "r": 107.326,
+            "b": 650.057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "La Redacción",
+      "text": "La Redacción"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 622.502,
+            "r": 566.383,
+            "b": 585.434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            280
+          ]
+        }
+      ],
+      "orig": "MÉXICO, D.F. (apro).- Luego de más de 10 días de la desaparición de cuatro estudiantes de la Universidad Autónoma de Coahuila (UAC), la esperanza de encontrarlos con vida se desvaneció con las primeras declaraciones de un grupo de 'halcones' presuntamente vinculado con ese hecho.",
+      "text": "MÉXICO, D.F. (apro).- Luego de más de 10 días de la desaparición de cuatro estudiantes de la Universidad Autónoma de Coahuila (UAC), la esperanza de encontrarlos con vida se desvaneció con las primeras declaraciones de un grupo de 'halcones' presuntamente vinculado con ese hecho."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 570.179,
+            "r": 552.744,
+            "b": 519.671,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            329
+          ]
+        }
+      ],
+      "orig": "De acuerdo con el testimonio de los sujetos detenidos el pasado fin de semana, Cecilia Picazo, Marlyn Peña, Cintia Rivera y Carlos Núñez -alumnos de séptimo semestre de la Facultad de Contaduría y Administración de Monclava- habrían sido ultimados debido a que sus captores los confundieron con otras personas a las que buscaban.",
+      "text": "De acuerdo con el testimonio de los sujetos detenidos el pasado fin de semana, Cecilia Picazo, Marlyn Peña, Cintia Rivera y Carlos Núñez -alumnos de séptimo semestre de la Facultad de Contaduría y Administración de Monclava- habrían sido ultimados debido a que sus captores los confundieron con otras personas a las que buscaban."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 504.543,
+            "r": 568.153,
+            "b": 454.035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            315
+          ]
+        }
+      ],
+      "orig": "El procurador general de Justicia de la entidad, Homero Ramos Gloria, señaló que los detenidos por las autoridades estatales, además de dos sujetos que fueron capturados por la Policía Federal, han dado indicios muy claros de lo que ocurrió, y por ello las investigaciones ya se encuentran en un grado muy avanzado.",
+      "text": "El procurador general de Justicia de la entidad, Homero Ramos Gloria, señaló que los detenidos por las autoridades estatales, además de dos sujetos que fueron capturados por la Policía Federal, han dado indicios muy claros de lo que ocurrió, y por ello las investigaciones ya se encuentran en un grado muy avanzado."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 438.901,
+            "r": 549.192,
+            "b": 401.834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            217
+          ]
+        }
+      ],
+      "orig": "'Tenemos ya lugares en donde sucedieron los hechos, pero, para no afectar la investigación, queremos compartir que los cuerpos no han sido encontrados, pero dentro de la investigación ya sabemos lo que pasó', comentó.",
+      "text": "'Tenemos ya lugares en donde sucedieron los hechos, pero, para no afectar la investigación, queremos compartir que los cuerpos no han sido encontrados, pero dentro de la investigación ya sabemos lo que pasó', comentó."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 386.577,
+            "r": 568.913,
+            "b": 349.631,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "El funcionario estatal sostuvo que algunos de los detalles no pueden darse a conocer por que se trata de una investigación en curso, sin embargo admitió que aparentemente los estudiantes fueron confundidos por sus captores.",
+      "text": "El funcionario estatal sostuvo que algunos de los detalles no pueden darse a conocer por que se trata de una investigación en curso, sin embargo admitió que aparentemente los estudiantes fueron confundidos por sus captores."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 334.38,
+            "r": 566.371,
+            "b": 297.315,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "Ramos Gloria no reveló el lugar donde son buscados los cuerpos y tampoco a qué grupo de la delincuencia pertenecen los detenidos, cuya captura fue dada a conocer el pasado fin de semana por la Procuraduría General de Justicia de Coahuila.",
+      "text": "Ramos Gloria no reveló el lugar donde son buscados los cuerpos y tampoco a qué grupo de la delincuencia pertenecen los detenidos, cuya captura fue dada a conocer el pasado fin de semana por la Procuraduría General de Justicia de Coahuila."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 282.181,
+            "r": 523.852,
+            "b": 258.554,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "Los sujetos, puntualizó la dependencia en un comunicado, realizaban labores de facilitación delictiva y fueron vinculados directamente con la desaparición de los jóvenes.",
+      "text": "Los sujetos, puntualizó la dependencia en un comunicado, realizaban labores de facilitación delictiva y fueron vinculados directamente con la desaparición de los jóvenes."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 243.29700000000003,
+            "r": 539.914,
+            "b": 192.91100000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            287
+          ]
+        }
+      ],
+      "orig": "El pasado martes 16, el vocero de la Secretaría de Seguridad Pública estatal, Jesús Carranza, informó que elementos del Ejército Mexicano se habían sumado a la búsqueda de los cuatro estudiantes de la (UAC) que desaparecieron el pasado jueves 11, día en que ya no llegaron a sus hogares.",
+      "text": "El pasado martes 16, el vocero de la Secretaría de Seguridad Pública estatal, Jesús Carranza, informó que elementos del Ejército Mexicano se habían sumado a la búsqueda de los cuatro estudiantes de la (UAC) que desaparecieron el pasado jueves 11, día en que ya no llegaron a sus hogares."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 177.66100000000006,
+            "r": 562.569,
+            "b": 154.03499999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "'No tenemos evidencias de que su desaparición esté relacionada con delincuencia organizada', dijo Carranza en esa ocasión.",
+      "text": "'No tenemos evidencias de que su desaparición esté relacionada con delincuencia organizada', dijo Carranza en esa ocasión."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 138.90100000000007,
+            "r": 561.037,
+            "b": 88.39099999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            384
+          ]
+        }
+      ],
+      "orig": "El funcionario también dio a conocer que familiares de los universitarios interpusieron una denuncia ante la Subprocuraduría para la Investigación y Búsqueda de Personas no Localizadas un día después de su desaparición, el viernes 12, y que desde entonces se inició la búsqueda para dar con el paradero de Cintia, Cecilia, Arleth y Carlos, con la participación de las fuerzas armadas.",
+      "text": "El funcionario también dio a conocer que familiares de los universitarios interpusieron una denuncia ante la Subprocuraduría para la Investigación y Búsqueda de Personas no Localizadas un día después de su desaparición, el viernes 12, y que desde entonces se inició la búsqueda para dar con el paradero de Cintia, Cecilia, Arleth y Carlos, con la participación de las fuerzas armadas."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.998,
+            "t": 73.25700000000006,
+            "r": 545.866,
+            "b": 49.63099999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "Según los familiares, los estudiantes normalmente terminaban sus clases alrededor de las 22:30 horas, pero ese día (el jueves 11) ya no llegaron a sus domicilios.",
+      "text": "Según los familiares, los estudiantes normalmente terminaban sus clases alrededor de las 22:30 horas, pero ese día (el jueves 11) ya no llegaron a sus domicilios."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 2",
+      "text": "1 of 2"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:20 AM",
+      "text": "9/13/2019, 8:20 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

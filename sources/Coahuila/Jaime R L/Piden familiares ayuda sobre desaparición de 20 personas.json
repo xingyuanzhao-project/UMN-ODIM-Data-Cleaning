@@ -1,0 +1,597 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Piden familiares ayuda sobre desaparición de 20 personas",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15792786852983589615,
+    "filename": "Piden familiares ayuda sobre desaparición de 20 personas.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 230.662,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Piden familiares ayuda sobre desaparición de 20 personas",
+      "text": "Piden familiares ayuda sobre desaparición de 20 personas"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 312.044,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "https://www.infonor.com.mx/index.php/sureste/6/25995-piden-familiares...",
+      "text": "https://www.infonor.com.mx/index.php/sureste/6/25995-piden-familiares..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 527.103,
+            "b": 687.918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Piden familiares ayuda sobre desaparición de 20 personas",
+      "text": "Piden familiares ayuda sobre desaparición de 20 personas",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 660.781,
+            "r": 188.73,
+            "b": 650.595,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Por: Cesar Cardona .",
+      "text": "Por: Cesar Cardona ."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 635.339,
+            "r": 530.768,
+            "b": 584.831,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            275
+          ]
+        }
+      ],
+      "orig": "Saltillo, Coah., diciembre 19 (INFONOR).- El número de personas desaparecidas en Coahuila llegó al menos a 20 en el presente año, afirmaron familiares de dichas personas, quienes acudieron a la Diócesis de Saltillo para encontrar apoyo y un eco en los medios de comunicación.",
+      "text": "Saltillo, Coah., diciembre 19 (INFONOR).- El número de personas desaparecidas en Coahuila llegó al menos a 20 en el presente año, afirmaron familiares de dichas personas, quienes acudieron a la Diócesis de Saltillo para encontrar apoyo y un eco en los medios de comunicación."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 569.703,
+            "r": 529.259,
+            "b": 519.195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            338
+          ]
+        }
+      ],
+      "orig": "Lourdes Herrera, de Saltillo, recordó que el 29 de agosto pasado, alrededor de las 7:30 horas, su esposo, el jefe de custodios del Penal de Saltillo, desapareció frente al Aeropuerto Plan de Guadalupe junto con su hijo Brandon Esteban Acosta Herrera, de 9 años de edad, y dos familiares de su esposo, Gualberto y Gerardo Acosta Rodríguez.",
+      "text": "Lourdes Herrera, de Saltillo, recordó que el 29 de agosto pasado, alrededor de las 7:30 horas, su esposo, el jefe de custodios del Penal de Saltillo, desapareció frente al Aeropuerto Plan de Guadalupe junto con su hijo Brandon Esteban Acosta Herrera, de 9 años de edad, y dos familiares de su esposo, Gualberto y Gerardo Acosta Rodríguez."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 504.061,
+            "r": 427.756,
+            "b": 493.875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "La desaparición en Ramos Arizpe sigue sin ser esclarecida, señaló.",
+      "text": "La desaparición en Ramos Arizpe sigue sin ser esclarecida, señaló."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 478.619,
+            "r": 495.045,
+            "b": 454.992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "Al igual que otros familiares pidió la colaboración de la ciudadanía y medios de comunicación para dar con sus seres queridos.",
+      "text": "Al igual que otros familiares pidió la colaboración de la ciudadanía y medios de comunicación para dar con sus seres queridos."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 439.858,
+            "r": 515.478,
+            "b": 389.355,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            277
+          ]
+        }
+      ],
+      "orig": "Agustín Núñez, de la Barca, Jalisco, denunció la desaparición de su hijo Agustín Alberto Núñez Magaña y sus parientes Sergio Cárdenas Córdova y José Flores Rodríguez, de quienes ya no volvió a saber luego de desaparecer en el municipio de Nava, el 22 de abril del presente año.",
+      "text": "Agustín Núñez, de la Barca, Jalisco, denunció la desaparición de su hijo Agustín Alberto Núñez Magaña y sus parientes Sergio Cárdenas Córdova y José Flores Rodríguez, de quienes ya no volvió a saber luego de desaparecer en el municipio de Nava, el 22 de abril del presente año."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 374.221,
+            "r": 529.925,
+            "b": 364.035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "Dijo que la averiguación en la que se encuentra el caso es PGR/DGCAP/DF/22/2009.",
+      "text": "Dijo que la averiguación en la que se encuentra el caso es PGR/DGCAP/DF/22/2009."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 348.781,
+            "r": 523.319,
+            "b": 298.272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            263
+          ]
+        }
+      ],
+      "orig": "A su vez, Yolanda Verástegui denunció la desaparición de su hermano y sobrino, Antonio Verástegui González y Jesús Verástegui Saucedo, a quienes de lo último que se supo fue que circulaban en un camino rumbo al ejido Cadillal, en Parras de la Fuente, según contó.",
+      "text": "A su vez, Yolanda Verástegui denunció la desaparición de su hermano y sobrino, Antonio Verástegui González y Jesús Verástegui Saucedo, a quienes de lo último que se supo fue que circulaban en un camino rumbo al ejido Cadillal, en Parras de la Fuente, según contó."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 283.138,
+            "r": 519.743,
+            "b": 259.51099999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "En la rueda de prensa ofrecida, Arturo Rojo Flores, dijo que familiares suyos y otras personas, en total 11, desaparecieron en Piedras Negras el 21 de marzo de este año.",
+      "text": "En la rueda de prensa ofrecida, Arturo Rojo Flores, dijo que familiares suyos y otras personas, en total 11, desaparecieron en Piedras Negras el 21 de marzo de este año."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 244.37699999999995,
+            "r": 525.529,
+            "b": 193.875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            307
+          ]
+        }
+      ],
+      "orig": "Ellos son, informó, Vicente Rojo Martínez; Jaime Ramírez Leyva; José Juan Pacheco Juárez; Marco Antonio Ocampo Martínez; Erick Fernando Pardavell Martínez; Garsain Cardona Martínez; Roberto Oropeza Villa; Víctor Abraham Nava Calzoncit; Lorenzo Campos Rodríguez; Pedro Cortez Guzmán, y Juan Garduño Martínez.",
+      "text": "Ellos son, informó, Vicente Rojo Martínez; Jaime Ramírez Leyva; José Juan Pacheco Juárez; Marco Antonio Ocampo Martínez; Erick Fernando Pardavell Martínez; Garsain Cardona Martínez; Roberto Oropeza Villa; Víctor Abraham Nava Calzoncit; Lorenzo Campos Rodríguez; Pedro Cortez Guzmán, y Juan Garduño Martínez."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 178.61799999999994,
+            "r": 485.422,
+            "b": 154.99199999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "Indicó que la averiguación en la que se desarrolla la investigación es la previa PGR/SIEDO/UEIS/077/2009.",
+      "text": "Indicó que la averiguación en la que se desarrolla la investigación es la previa PGR/SIEDO/UEIS/077/2009."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 139.85799999999995,
+            "r": 520.896,
+            "b": 116.23199999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "Los familiares de los desaparecidos dieron a conocer que el próximo 22 de enero los atenderá el Fiscal General Jesús Torres Charles para darles información al respecto.",
+      "text": "Los familiares de los desaparecidos dieron a conocer que el próximo 22 de enero los atenderá el Fiscal General Jesús Torres Charles para darles información al respecto."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 101.09799999999996,
+            "r": 494.249,
+            "b": 77.47199999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "Dijeron que cada mes se les va a entregar un informe sobre los avances, pero al mismo tiempo no desean cancelar la búsqueda personal.",
+      "text": "Dijeron que cada mes se les va a entregar un informe sobre los avances, pero al mismo tiempo no desean cancelar la búsqueda personal."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 9:27 AM",
+      "text": "9/13/2019, 9:27 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

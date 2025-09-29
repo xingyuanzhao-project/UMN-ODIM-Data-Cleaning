@@ -1,0 +1,1513 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Huatusco ¿Dónde están nuestros desaparecidos_ (1era parte) _ ÁgoraHuatusco",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 3143622484868487683,
+    "filename": "Huatusco ¿Dónde están nuestros desaparecidos_ (1era parte) _ ÁgoraHuatusco.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.73,
+            "r": 62.043,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "2/10/2019",
+      "text": "2/10/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 197.125,
+            "t": 775.73,
+            "r": 480.699,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "Huatusco ¿Dónde están nuestros desaparecidos? (1era parte) | ÁgoraHuatusco",
+      "text": "Huatusco ¿Dónde están nuestros desaparecidos? (1era parte) | ÁgoraHuatusco"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.0,
+            "t": 756.495,
+            "r": 544.156,
+            "b": 744.515,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "6th July 2014 Huatusco ¿Dónde están nuestros desaparecidos? (1era parte)",
+      "text": "6th July 2014 Huatusco ¿Dónde están nuestros desaparecidos? (1era parte)",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 427.918,
+            "t": 683.947,
+            "r": 584.004,
+            "b": 593.509,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            240
+          ]
+        }
+      ],
+      "orig": "¿Adónde van los desaparecidos? Busca en el agua y en los matorrales. ¿Y por qué es que se desaparecen? Porque no todos somos iguales. ¿Y cuándo vuelve el desaparecido? Cada vez que los trae el pensamiento. ¿Cómo se le habla al desaparecido?",
+      "text": "¿Adónde van los desaparecidos? Busca en el agua y en los matorrales. ¿Y por qué es que se desaparecen? Porque no todos somos iguales. ¿Y cuándo vuelve el desaparecido? Cada vez que los trae el pensamiento. ¿Cómo se le habla al desaparecido?"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 432.406,
+            "t": 584.197,
+            "r": 584.004,
+            "b": 579.259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Con la emoción apretando por dentro.",
+      "text": "Con la emoción apretando por dentro."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 445.965,
+            "t": 569.942,
+            "r": 584.01,
+            "b": 565.008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Ruben Blades 'Desapariciones'",
+      "text": "Ruben Blades 'Desapariciones'"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.0,
+            "t": 528.271,
+            "r": 583.806,
+            "b": 479.759,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            429
+          ]
+        }
+      ],
+      "orig": "Es común ir por la calle y observar hojas impresas en blanco y negro, pegadas a los postes, donde una foto borrosa ilustra la tragedia  de un desaparecido, los letreros penden, como el alma de sus familiares de una piltrafa de cinta adhesiva: Jaime  Arroyo  Quezada  de  32  años  y  Fernando  Rodríguez  Vela  de  31  años,  originarios  de  la comunidad de Tlavictepan desaparecidos desde el 9 de diciembre de 2011. (Gráfica 1)",
+      "text": "Es común ir por la calle y observar hojas impresas en blanco y negro, pegadas a los postes, donde una foto borrosa ilustra la tragedia  de un desaparecido, los letreros penden, como el alma de sus familiares de una piltrafa de cinta adhesiva: Jaime  Arroyo  Quezada  de  32  años  y  Fernando  Rodríguez  Vela  de  31  años,  originarios  de  la comunidad de Tlavictepan desaparecidos desde el 9 de diciembre de 2011. (Gráfica 1)"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 171.699,
+            "t": 246.269,
+            "r": 556.651,
+            "b": 214.659,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "[http://4.bp.blogspot.com/-ReYq1e5R3GI/U7oJtMklII/AAAAAAAACCs/rrZ-AWtXpX0/s1600/Desaparecidos3.jpg] Gráfica 1",
+      "text": "[http://4.bp.blogspot.com/-ReYq1e5R3GI/U7oJtMklII/AAAAAAAACCs/rrZ-AWtXpX0/s1600/Desaparecidos3.jpg] Gráfica 1"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.0,
+            "t": 199.02099999999996,
+            "r": 583.372,
+            "b": 179.01099999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "El Huatusco romántico que se reseña en la historia,  fue vulnerado por la irrupción de la delincuencia organizada, estoico ha resistido el embate pero muchas familias han salido heridas de muerte.",
+      "text": "El Huatusco romántico que se reseña en la historia,  fue vulnerado por la irrupción de la delincuencia organizada, estoico ha resistido el embate pero muchas familias han salido heridas de muerte."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.0,
+            "t": 156.27099999999996,
+            "r": 583.976,
+            "b": 107.76099999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            405
+          ]
+        }
+      ],
+      "orig": "Según informes publicados en la prensa local existen decenas de desaparecidos en la ciudad, apróximamente 30 , desde  diciembre  de  2011  a  la  fecha  pero  la  mayoría  de  personas  que  tienen  a  un  familiar  desaparecido  no interpusieron  denuncias  correspondientes  ante  el  Ministerio  Público  por  miedo  o  por  desinformación,  situación  que dificulta aún más la búsqueda de su familiar.",
+      "text": "Según informes publicados en la prensa local existen decenas de desaparecidos en la ciudad, apróximamente 30 , desde  diciembre  de  2011  a  la  fecha  pero  la  mayoría  de  personas  que  tienen  a  un  familiar  desaparecido  no interpusieron  denuncias  correspondientes  ante  el  Ministerio  Público  por  miedo  o  por  desinformación,  situación  que dificulta aún más la búsqueda de su familiar."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.0,
+            "t": 85.02099999999996,
+            "r": 583.782,
+            "b": 50.76099999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            284
+          ]
+        }
+      ],
+      "orig": "Diciembre del 2011 fue un mes oscuro para la ciudad. El 9 de diciembre desaparecieron, Jaime Arroyo Quezada de 32 años y Fernando Rodríguez Vela de 31 años, originarios de la comunidad de Tlavictepan los jóvenes asistieron a una fiesta de barrio  sobre la calle1 entre avenidas 7 y 9.",
+      "text": "Diciembre del 2011 fue un mes oscuro para la ciudad. El 9 de diciembre desaparecieron, Jaime Arroyo Quezada de 32 años y Fernando Rodríguez Vela de 31 años, originarios de la comunidad de Tlavictepan los jóvenes asistieron a una fiesta de barrio  sobre la calle1 entre avenidas 7 y 9."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.730000000000018,
+            "r": 292.848,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "agorahuatusco.blogspot.com/2014/07/huatusco-donde-estan-nuestros.html",
+      "text": "agorahuatusco.blogspot.com/2014/07/huatusco-donde-estan-nuestros.html"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.730000000000018,
+            "r": 585.512,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/3",
+      "text": "1/3"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.73,
+            "r": 62.043,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "2/10/2019",
+      "text": "2/10/2019"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 197.125,
+            "t": 775.73,
+            "r": 480.699,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "Huatusco ¿Dónde están nuestros desaparecidos? (1era parte) | ÁgoraHuatusco",
+      "text": "Huatusco ¿Dónde están nuestros desaparecidos? (1era parte) | ÁgoraHuatusco"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 29.0,
+            "t": 760.021,
+            "r": 583.842,
+            "b": 697.259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            488
+          ]
+        }
+      ],
+      "orig": "'De acuerdo a los familiares, los jóvenes salieron de su comunidad el pasado viernes en un automóvil Volkswagen Sedan, rojo, modelo 1973, para dirigirse a una de las festividades de la Virgen de Guadalupe, que se llevó a cabo en dicho  barrio,  en  donde  supuestamente,  algunos  de  sus  conocidos,  todavía  los  vieron  en  un  negocio  comiendo antojitos,  cerca  de  las  21  horas,  pero  después  nadie  los  volvió  a  ver'.  (De  la  redacción, El  Mundo  de  Córdoba, 14.12.11)",
+      "text": "'De acuerdo a los familiares, los jóvenes salieron de su comunidad el pasado viernes en un automóvil Volkswagen Sedan, rojo, modelo 1973, para dirigirse a una de las festividades de la Virgen de Guadalupe, que se llevó a cabo en dicho  barrio,  en  donde  supuestamente,  algunos  de  sus  conocidos,  todavía  los  vieron  en  un  negocio  comiendo antojitos,  cerca  de  las  21  horas,  pero  después  nadie  los  volvió  a  ver'.  (De  la  redacción, El  Mundo  de  Córdoba, 14.12.11)"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 29.0,
+            "t": 674.521,
+            "r": 583.449,
+            "b": 626.011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            394
+          ]
+        }
+      ],
+      "orig": "Posteriormente  los  familiares  rompieron  el  miedo  y  5  días  después  acudieron  con  el  alcalde  Miguel  Ángel  Sedas Castro, actual diputado local. 'Fue cerca de las 11:00 de la mañana cuando el grupo de más de 100 personas se plantó frente a las oficinas del Ministerio Público, donde dialogaron con la titular de la oficina, para minutos después, marchar por las calles de la ciudad.",
+      "text": "Posteriormente  los  familiares  rompieron  el  miedo  y  5  días  después  acudieron  con  el  alcalde  Miguel  Ángel  Sedas Castro, actual diputado local. 'Fue cerca de las 11:00 de la mañana cuando el grupo de más de 100 personas se plantó frente a las oficinas del Ministerio Público, donde dialogaron con la titular de la oficina, para minutos después, marchar por las calles de la ciudad."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 29.0,
+            "t": 603.271,
+            "r": 583.997,
+            "b": 583.261,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            209
+          ]
+        }
+      ],
+      "orig": "Al enterarse que el alcalde, Miguel Sedas Castro, se encontraba en el teatro Solleiro, el contingente se trasladó a ese lugar, donde demandaron una audiencia con el funcionario municipal para que los respalde.",
+      "text": "Al enterarse que el alcalde, Miguel Sedas Castro, se encontraba en el teatro Solleiro, el contingente se trasladó a ese lugar, donde demandaron una audiencia con el funcionario municipal para que los respalde."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 29.0,
+            "t": 574.771,
+            "r": 583.593,
+            "b": 540.509,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            271
+          ]
+        }
+      ],
+      "orig": "'Pedimos que se esclarezcan los hechos, que se haga justicia, la congregación pide el apoyo de las autoridades, no tenemos indicios de donde pueden estar', externó Mireya Arroyo Quezada, hermana de Jaime Arroyo'. (Hugo Morales Alejo, e nlaceveracruz212.com.mx ,14.12.11).",
+      "text": "'Pedimos que se esclarezcan los hechos, que se haga justicia, la congregación pide el apoyo de las autoridades, no tenemos indicios de donde pueden estar', externó Mireya Arroyo Quezada, hermana de Jaime Arroyo'. (Hugo Morales Alejo, e nlaceveracruz212.com.mx ,14.12.11)."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 29.0,
+            "t": 517.771,
+            "r": 583.806,
+            "b": 469.261,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            425
+          ]
+        }
+      ],
+      "orig": "Con  base  en  información  consultada  los  familiares  de  los  jóvenes  desaparecidos  fueron  atendidos  por  el  sub procurador regional  de  la  zona  centro  Ricardo  Carrillo  Almeyda,  involucrado  por  las  declaraciones  de  'el  Trejo'  en actividades a favor del cártel de los zetas el 11 de octubre de 2012, quien informó a los familiares que se procedería a investigar para conocer el paradero de las víctimas.",
+      "text": "Con  base  en  información  consultada  los  familiares  de  los  jóvenes  desaparecidos  fueron  atendidos  por  el  sub procurador regional  de  la  zona  centro  Ricardo  Carrillo  Almeyda,  involucrado  por  las  declaraciones  de  'el  Trejo'  en actividades a favor del cártel de los zetas el 11 de octubre de 2012, quien informó a los familiares que se procedería a investigar para conocer el paradero de las víctimas."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 169.414,
+            "t": 270.269,
+            "r": 533.911,
+            "b": 250.83500000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "[http://3.bp.blogspot.com/-UlGfW840PHU/U7oJtBT5jI/AAAAAAAACCw/ZSmLuZW1EVY/s1600/desaparecidos2.jpg]",
+      "text": "[http://3.bp.blogspot.com/-UlGfW840PHU/U7oJtBT5jI/AAAAAAAACCw/ZSmLuZW1EVY/s1600/desaparecidos2.jpg]"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 284.211,
+            "t": 243.26700000000005,
+            "r": 318.291,
+            "b": 238.659,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Gráfica 2",
+      "text": "Gráfica 2"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 29.0,
+            "t": 223.02099999999996,
+            "r": 583.965,
+            "b": 146.01099999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            647
+          ]
+        }
+      ],
+      "orig": "El 24 de diciembre de 2011 Roberto Carlos Casso Castro, oriundo de Huatusco radicaba en el Puerto de Veracruz por cuestiones laborales   y mantenía una relación con  Cynthia Lisseth Vicencio Delgado, ese día viajaron a la ciudad de Huatusco a presenciar el informe de labores del alcalde Miguel Ángel Sedas Castro primo hermano de Casso Castro pero nunca llegaron a su destino. La última información que tuvieron los familiares fue un retiro bancario en la ciudad de  Cardel,  posteriormente  hubo  contacto  con  sus  plagiarios  pero  perdieron  comunicación  y  en  una  búsqueda incesante aún no tienen noticias de la joven pareja. (Gráfica 2)",
+      "text": "El 24 de diciembre de 2011 Roberto Carlos Casso Castro, oriundo de Huatusco radicaba en el Puerto de Veracruz por cuestiones laborales   y mantenía una relación con  Cynthia Lisseth Vicencio Delgado, ese día viajaron a la ciudad de Huatusco a presenciar el informe de labores del alcalde Miguel Ángel Sedas Castro primo hermano de Casso Castro pero nunca llegaron a su destino. La última información que tuvieron los familiares fue un retiro bancario en la ciudad de  Cardel,  posteriormente  hubo  contacto  con  sus  plagiarios  pero  perdieron  comunicación  y  en  una  búsqueda incesante aún no tienen noticias de la joven pareja. (Gráfica 2)"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 29.0,
+            "t": 123.27099999999996,
+            "r": 583.754,
+            "b": 60.51099999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            571
+          ]
+        }
+      ],
+      "orig": "Para  cerrar  el  trágico  2011,  otro  crimen  consternaba  a  la  ciudad  un  joven  abogado  y  su  acompañante  fueron ejecutados, 'Un prestigiado abogado del municipio de Huatusco, fue encontrado dentro de un vehículo Nissan Tsuru calcinado así como con dos impactos de bala en su cuerpo, mientras que una mujer cuya identidad se desconoce y aparentemente embaraza fue hallada con varias puñaladas, tras haber sido asesinados por sujetos desconocidos, y cuyos cuerpos fueron hallados en la comunidad de Victoria perteneciente al municipio de Xochiapa'. (Gerardo Luna",
+      "text": "Para  cerrar  el  trágico  2011,  otro  crimen  consternaba  a  la  ciudad  un  joven  abogado  y  su  acompañante  fueron ejecutados, 'Un prestigiado abogado del municipio de Huatusco, fue encontrado dentro de un vehículo Nissan Tsuru calcinado así como con dos impactos de bala en su cuerpo, mientras que una mujer cuya identidad se desconoce y aparentemente embaraza fue hallada con varias puñaladas, tras haber sido asesinados por sujetos desconocidos, y cuyos cuerpos fueron hallados en la comunidad de Victoria perteneciente al municipio de Xochiapa'. (Gerardo Luna"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.730000000000018,
+            "r": 292.848,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "agorahuatusco.blogspot.com/2014/07/huatusco-donde-estan-nuestros.html",
+      "text": "agorahuatusco.blogspot.com/2014/07/huatusco-donde-estan-nuestros.html"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.730000000000018,
+            "r": 585.512,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2/3",
+      "text": "2/3"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.73,
+            "r": 62.043,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "2/10/2019",
+      "text": "2/10/2019"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 197.125,
+            "t": 775.73,
+            "r": 480.699,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "Huatusco ¿Dónde están nuestros desaparecidos? (1era parte) | ÁgoraHuatusco",
+      "text": "Huatusco ¿Dónde están nuestros desaparecidos? (1era parte) | ÁgoraHuatusco"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 29.0,
+            "t": 760.021,
+            "r": 583.922,
+            "b": 740.011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Martínez, El  Mundo de Córdoba 30.12.11).  Los  ejecutados  fueron  identificados  como  Rubén  Pitoll  García  y  Xóchitl Valdés Acevedo.",
+      "text": "Martínez, El  Mundo de Córdoba 30.12.11).  Los  ejecutados  fueron  identificados  como  Rubén  Pitoll  García  y  Xóchitl Valdés Acevedo."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 191.223,
+            "t": 625.021,
+            "r": 421.78,
+            "b": 619.261,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Publicado hace 6th July 2014 por ÁgoraHuatusco",
+      "text": "Publicado hace 6th July 2014 por ÁgoraHuatusco",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 254.258,
+            "t": 605.521,
+            "r": 358.737,
+            "b": 599.761,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Etiquetas: Inseguridad",
+      "text": "Etiquetas: Inseguridad"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 245.375,
+            "t": 578.947,
+            "r": 250.38,
+            "b": 574.009,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 265.039,
+            "t": 578.521,
+            "r": 371.849,
+            "b": 572.761,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Agregar un comentario",
+      "text": "Agregar un comentario"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 500.797,
+            "t": 472.655,
+            "r": 553.991,
+            "b": 468.132,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Cerrar sesión",
+      "text": "Cerrar sesión"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 510.969,
+            "t": 433.234,
+            "r": 565.228,
+            "b": 427.885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Notificarme",
+      "text": "Notificarme"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.75,
+            "t": 535.972,
+            "r": 185.404,
+            "b": 531.448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Escribe un comentario...",
+      "text": "Escribe un comentario..."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 85.25,
+            "t": 475.229,
+            "r": 162.717,
+            "b": 469.884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Comentar como:",
+      "text": "Comentar como:"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 176.668,
+            "t": 473.734,
+            "r": 245.104,
+            "b": 468.385,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "133.bgys@gma",
+      "text": "133.bgys@gma"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 55.098,
+            "t": 432.155,
+            "r": 87.651,
+            "b": 427.632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Publicar",
+      "text": "Publicar"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 55.098,
+            "t": 432.905,
+            "r": 87.651,
+            "b": 428.382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Publicar",
+      "text": "Publicar"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 113.457,
+            "t": 432.155,
+            "r": 159.626,
+            "b": 427.632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Vista previa",
+      "text": "Vista previa"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 113.457,
+            "t": 432.905,
+            "r": 159.626,
+            "b": 428.382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Vista previa",
+      "text": "Vista previa"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.730000000000018,
+            "r": 292.848,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "agorahuatusco.blogspot.com/2014/07/huatusco-donde-estan-nuestros.html",
+      "text": "agorahuatusco.blogspot.com/2014/07/huatusco-donde-estan-nuestros.html"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.730000000000018,
+            "r": 585.512,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3/3",
+      "text": "3/3"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.50571823120117,
+            "t": 444.77777099609375,
+            "r": 340.6236877441406,
+            "b": 252.6932373046875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 73.5893325805664,
+            "t": 434.10809326171875,
+            "r": 303.5148620605469,
+            "b": 276.867919921875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.50168228149414,
+            "t": 558.9480590820312,
+            "r": 578.0614624023438,
+            "b": 412.3819885253906,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    }
+  }
+}

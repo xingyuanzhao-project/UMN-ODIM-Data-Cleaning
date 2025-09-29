@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Veracruz, segundo lugar nacional en casos de desaparición forzada",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 14723323285496828834,
+    "filename": "Veracruz, segundo lugar nacional en casos de desaparición forzada.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.17905234375,
+            "r": 566.053,
+            "b": 612.52905234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "Veracruz, segundo lugar nacional en casos de desaparición forzada - Estatal - MS Noticias",
+      "text": "Veracruz, segundo lugar nacional en casos de desaparición forzada - Estatal - MS Noticias"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 572.8638916015625,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

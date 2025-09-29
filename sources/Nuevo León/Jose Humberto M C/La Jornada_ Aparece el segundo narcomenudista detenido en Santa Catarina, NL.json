@@ -1,0 +1,1101 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "La Jornada_ Aparece el segundo narcomenudista detenido en Santa Catarina, NL",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12589707208523856257,
+    "filename": "La Jornada_ Aparece el segundo narcomenudista detenido en Santa Catarina, NL.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 595.293,
+            "r": 58.898,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "30/8/2019",
+      "text": "30/8/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 298.391,
+            "t": 595.293,
+            "r": 556.293,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "La Jornada: Aparece el segundo narcomenudista detenido en Santa Catarina, NL",
+      "text": "La Jornada: Aparece el segundo narcomenudista detenido en Santa Catarina, NL"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 493.12,
+            "r": 479.68,
+            "b": 470.65,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Las autoridades ignoran el paradero del jefe de la policía",
+      "text": "Las autoridades ignoran el paradero del jefe de la policía",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 450.574,
+            "r": 473.99,
+            "b": 421.444,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "Aparece el segundo narcomenudista detenido en Santa Catarina, NL",
+      "text": "Aparece el segundo narcomenudista detenido en Santa Catarina, NL",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 209.94,
+            "t": 401.429,
+            "r": 295.679,
+            "b": 394.754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "DAVID CARRIZALES",
+      "text": "DAVID CARRIZALES"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 529.903,
+            "t": 389.65,
+            "r": 592.392,
+            "b": 384.364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Corresponsal",
+      "text": "Corresponsal",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 467.552,
+            "t": 372.274,
+            "r": 592.386,
+            "b": 358.364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Periódico La Jornada Jueves 25 de marzo de 2010, p. 7",
+      "text": "Periódico La Jornada Jueves 25 de marzo de 2010, p. 7"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 345.778,
+            "r": 592.178,
+            "b": 299.954,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            316
+          ]
+        }
+      ],
+      "orig": "Monterrey,  NL,  24  de  marzo.  Las  autoridades  de  Nuevo  León  desconocen  el paradero del jefe de la policía de Santa Catarina, Luis Eduardo Murrieta Maya, a quien  la  Marina  entregó  al  presunto narcomenudista José  Humberto  Márquez Compeán, hallado muerto un día después. Se dice que puede estar prófugo.",
+      "text": "Monterrey,  NL,  24  de  marzo.  Las  autoridades  de  Nuevo  León  desconocen  el paradero del jefe de la policía de Santa Catarina, Luis Eduardo Murrieta Maya, a quien  la  Marina  entregó  al  presunto narcomenudista José  Humberto  Márquez Compeán, hallado muerto un día después. Se dice que puede estar prófugo."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 279.733,
+            "r": 592.066,
+            "b": 220.39999999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            327
+          ]
+        }
+      ],
+      "orig": "Adrián  Lucio,  el  segundo  presunto narcomenudista detenido  durante  la balacera del domingo en Santa Catarina, quien hasta el martes estaba reportado como  desaparecido,  fue  localizado  al  mediodía  de  este  miércoles,  informó  el procurador de Justicia de Nuevo León, Alejandro Garza y Garza, en entrevista televisiva",
+      "text": "Adrián  Lucio,  el  segundo  presunto narcomenudista detenido  durante  la balacera del domingo en Santa Catarina, quien hasta el martes estaba reportado como  desaparecido,  fue  localizado  al  mediodía  de  este  miércoles,  informó  el procurador de Justicia de Nuevo León, Alejandro Garza y Garza, en entrevista televisiva"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 200.17899999999997,
+            "r": 592.383,
+            "b": 140.846,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            341
+          ]
+        }
+      ],
+      "orig": "En  relación  con  la  indagatoria  de  la  Procuraduría  General  de  Justicia  del Estado sobre este caso, hoy comparecieron en la Agencia Estatal de Investigaciones el secretario de Seguridad Pública de Santa Catarina, el mayor retirado  del  Ejército  René  Castillo  Sánchez,  y  el  director  de  tránsito,  Antonio Marroquín Martínez.",
+      "text": "En  relación  con  la  indagatoria  de  la  Procuraduría  General  de  Justicia  del Estado sobre este caso, hoy comparecieron en la Agencia Estatal de Investigaciones el secretario de Seguridad Pública de Santa Catarina, el mayor retirado  del  Ejército  René  Castillo  Sánchez,  y  el  director  de  tránsito,  Antonio Marroquín Martínez."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 120.625,
+            "r": 592.277,
+            "b": 74.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            291
+          ]
+        }
+      ],
+      "orig": "También acudieron a declarar varios agentes de Santa Catarina y brigadistas de  Protección  Civil  para  precisar  en  qué  momento  desaparecieron  los  dos presuntos narcomenudistas, quienes fueron detenidos el pasado domingo durante un operativo policiaco encabezado por Castillo Sánchez.",
+      "text": "También acudieron a declarar varios agentes de Santa Catarina y brigadistas de  Protección  Civil  para  precisar  en  qué  momento  desaparecieron  los  dos presuntos narcomenudistas, quienes fueron detenidos el pasado domingo durante un operativo policiaco encabezado por Castillo Sánchez."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 54.58000000000004,
+            "r": 591.99,
+            "b": 35.77499999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "Ese día, cuando llevaban detenidos a Márquez Compeán y Lucio Barajas, un comando armado atacó el convoy de Castillo Sánchez. En el atentado murieron",
+      "text": "Ese día, cuando llevaban detenidos a Márquez Compeán y Lucio Barajas, un comando armado atacó el convoy de Castillo Sánchez. En el atentado murieron"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.293000000000006,
+            "r": 216.805,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2010/03/25/politica/007n2pol",
+      "text": "https://www.jornada.com.mx/2010/03/25/politica/007n2pol"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 755.312,
+            "t": 22.293000000000006,
+            "r": 765.531,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/3",
+      "text": "1/3"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 595.293,
+            "r": 58.898,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "30/8/2019",
+      "text": "30/8/2019"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 298.391,
+            "t": 595.293,
+            "r": 556.293,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "La Jornada: Aparece el segundo narcomenudista detenido en Santa Catarina, NL",
+      "text": "La Jornada: Aparece el segundo narcomenudista detenido en Santa Catarina, NL"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 581.438,
+            "r": 592.365,
+            "b": 562.632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "dos escoltas y un civil, y resultaron heridos Murrieta Maya, Marroquín Martínez y Lucio Barajas; Márquez Compeán salió ileso.",
+      "text": "dos escoltas y un civil, y resultaron heridos Murrieta Maya, Marroquín Martínez y Lucio Barajas; Márquez Compeán salió ileso."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 542.411,
+            "r": 592.066,
+            "b": 510.096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            234
+          ]
+        }
+      ],
+      "orig": "La Secretaría de Marina dio apoyo para el traslado de los heridos al Hospital Universitario,  pero  la  mañana  del  lunes  el  cuerpo  de  Márquez  Compeán  fue hallado con huellas de tortura en un baldío de San Nicolás de los Garza.",
+      "text": "La Secretaría de Marina dio apoyo para el traslado de los heridos al Hospital Universitario,  pero  la  mañana  del  lunes  el  cuerpo  de  Márquez  Compeán  fue hallado con huellas de tortura en un baldío de San Nicolás de los Garza."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 489.876,
+            "r": 592.242,
+            "b": 457.561,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            231
+          ]
+        }
+      ],
+      "orig": "El  22  de  marzo,  la  Marina  precisó  que  su  participación  se  limitó  a  prestar apoyo  a  la  policía  de  Santa  Catarina  para  el  traslado  en  helicóptero  de  dos personas heridas durante el ataque de un grupo armado.",
+      "text": "El  22  de  marzo,  la  Marina  precisó  que  su  participación  se  limitó  a  prestar apoyo  a  la  policía  de  Santa  Catarina  para  el  traslado  en  helicóptero  de  dos personas heridas durante el ataque de un grupo armado."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 437.34,
+            "r": 592.172,
+            "b": 391.516,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            315
+          ]
+        }
+      ],
+      "orig": "En la misma aeronave transportó a los dos presuntos narcomenudistas y una persona detenida que al parecer pertenecía al grupo de atacantes, quienes, según la Marina, 'en todo momento fueron custodiados por Eduardo Murrieta, jefe de la policía municipal de Santa Catarina, hasta el arribo al Hospital Universitario'.",
+      "text": "En la misma aeronave transportó a los dos presuntos narcomenudistas y una persona detenida que al parecer pertenecía al grupo de atacantes, quienes, según la Marina, 'en todo momento fueron custodiados por Eduardo Murrieta, jefe de la policía municipal de Santa Catarina, hasta el arribo al Hospital Universitario'."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 371.295,
+            "r": 592.248,
+            "b": 325.471,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            294
+          ]
+        }
+      ],
+      "orig": "El  martes,  en  otro  comunicado,  la  Marina  reiteró  que  los  detenidos  fueron entregados a Murrieta Maya, 'quien afirma haber puesto al detenido (Márquez Compeán) a disposición del agente del Ministerio Público presente en el propio nosocomio, para los efectos legales correspondientes'.",
+      "text": "El  martes,  en  otro  comunicado,  la  Marina  reiteró  que  los  detenidos  fueron entregados a Murrieta Maya, 'quien afirma haber puesto al detenido (Márquez Compeán) a disposición del agente del Ministerio Público presente en el propio nosocomio, para los efectos legales correspondientes'."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 305.25,
+            "r": 591.691,
+            "b": 272.935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "Según  testigos,  cuando  el  helicóptero  de  la  Marina  arribó  al  hospital,  sólo bajó  Eduardo  Murrieta,  quien  tras  ser  atendido  de  una  herida  regresó  a  la aeronave.",
+      "text": "Según  testigos,  cuando  el  helicóptero  de  la  Marina  arribó  al  hospital,  sólo bajó  Eduardo  Murrieta,  quien  tras  ser  atendido  de  una  herida  regresó  a  la aeronave."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 252.71500000000003,
+            "r": 592.178,
+            "b": 206.89099999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            314
+          ]
+        }
+      ],
+      "orig": "A Lucio Barajas lo bajaron en una camilla, le prestaron auxilio y lo subieron a la aeronave, pero no observaron que se atendiera o se ingresara al hospital a Márquez Compeán. Trascendió que guardias  y  personal  del  hospital  señalaron ante el Ministerio Público que no hay constancia de su ingreso al nosocomio.",
+      "text": "A Lucio Barajas lo bajaron en una camilla, le prestaron auxilio y lo subieron a la aeronave, pero no observaron que se atendiera o se ingresara al hospital a Márquez Compeán. Trascendió que guardias  y  personal  del  hospital  señalaron ante el Ministerio Público que no hay constancia de su ingreso al nosocomio."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 186.66999999999996,
+            "r": 591.838,
+            "b": 154.35500000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "El alcalde panista de Santa Catarina, Gabriel Navarro Rodríguez, afirmó que Murrieta Maya no está prófugo y en su momento comparecerá ante el Ministerio Público.",
+      "text": "El alcalde panista de Santa Catarina, Gabriel Navarro Rodríguez, afirmó que Murrieta Maya no está prófugo y en su momento comparecerá ante el Ministerio Público."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.293000000000006,
+            "r": 216.805,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2010/03/25/politica/007n2pol",
+      "text": "https://www.jornada.com.mx/2010/03/25/politica/007n2pol"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 755.312,
+            "t": 22.293000000000006,
+            "r": 765.531,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2/3",
+      "text": "2/3"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 595.293,
+            "r": 58.898,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "30/8/2019",
+      "text": "30/8/2019"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 298.391,
+            "t": 595.293,
+            "r": 556.293,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "La Jornada: Aparece el segundo narcomenudista detenido en Santa Catarina, NL",
+      "text": "La Jornada: Aparece el segundo narcomenudista detenido en Santa Catarina, NL"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 282.915,
+            "t": 382.243,
+            "r": 510.094,
+            "b": 360.455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203.",
+      "text": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.293000000000006,
+            "r": 216.805,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2010/03/25/politica/007n2pol",
+      "text": "https://www.jornada.com.mx/2010/03/25/politica/007n2pol"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 755.312,
+            "t": 22.293000000000006,
+            "r": 765.531,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3/3",
+      "text": "3/3"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.186622619628906,
+            "t": 565.504753112793,
+            "r": 231.3806610107422,
+            "b": 525.1323013305664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 631.038818359375,
+            "t": 564.0027656555176,
+            "r": 764.0909423828125,
+            "b": 540.4684677124023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 740.3551025390625,
+            "t": 493.1081314086914,
+            "r": 759.0675659179688,
+            "b": 473.9691925048828,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 3
+    }
+  }
+}

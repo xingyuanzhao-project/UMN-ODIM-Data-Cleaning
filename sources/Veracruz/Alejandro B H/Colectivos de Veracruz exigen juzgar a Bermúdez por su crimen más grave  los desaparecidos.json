@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Colectivos de Veracruz exigen juzgar a Bermúdez por su crimen más grave  los desaparecidos",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 17371710653174001131,
+    "filename": "Colectivos de Veracruz exigen juzgar a Bermúdez por su crimen más grave  los desaparecidos.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.17905234375,
+            "r": 626.253,
+            "b": 550.67305234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            511
+          ]
+        }
+      ],
+      "orig": "No se encontró la página Presencia Noticias Presencia Noticias - REGION SUR ESTATAL POLICIACA EL PAÍS INTERNACIONAL SOCIEDAD Más Home 404 Not Found 404 ¡Página no encontrada! Lo sentimos, pero no podemos encontrar la página que buscabas. Probablemente es algo que hemos hecho mal, pero ahora lo sabemos y trataremos de arreglarlo. Mientras tanto, pruebe una de estas opciones: Ir a la página de inicio © 2025 - Presencia Noticias. All Rights Reserved. REGION SUR ESTATAL POLICIACA EL PAÍS INTERNACIONAL SOCIEDAD",
+      "text": "No se encontró la página Presencia Noticias Presencia Noticias - REGION SUR ESTATAL POLICIACA EL PAÍS INTERNACIONAL SOCIEDAD Más Home 404 Not Found 404 ¡Página no encontrada! Lo sentimos, pero no podemos encontrar la página que buscabas. Probablemente es algo que hemos hecho mal, pero ahora lo sabemos y trataremos de arreglarlo. Mientras tanto, pruebe una de estas opciones: Ir a la página de inicio © 2025 - Presencia Noticias. All Rights Reserved. REGION SUR ESTATAL POLICIACA EL PAÍS INTERNACIONAL SOCIEDAD"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 633.0202026367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

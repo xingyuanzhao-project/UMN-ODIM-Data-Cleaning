@@ -1,0 +1,372 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Niegan caer en provocaciones por informe de caso Allende",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2088613846988970586,
+    "filename": "Niegan caer en provocaciones por informe de caso Allende.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 236.478,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Niegan caer en provocaciones por informe de caso Allende",
+      "text": "Niegan caer en provocaciones por informe de caso Allende"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 313.436,
+            "t": 789.592,
+            "r": 611.934,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "https://vanguardia.com.mx/articulo/niegan-caer-en-provocaciones-por-in...",
+      "text": "https://vanguardia.com.mx/articulo/niegan-caer-en-provocaciones-por-in..."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.038,
+            "t": 728.166,
+            "r": 525.004,
+            "b": 687.918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Niegan caer en provocaciones por informe de caso Allende",
+      "text": "Niegan caer en provocaciones por informe de caso Allende",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.04,
+            "t": 659.317,
+            "r": 143.079,
+            "b": 650.057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Karla Tinoco",
+      "text": "Karla Tinoco"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 622.502,
+            "r": 526.919,
+            "b": 545.113,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            480
+          ]
+        }
+      ],
+      "orig": "Tras el informe emitido por la Federación Internacional de los Derechos Humanos (FIDH) en el que se acusa a las autoridades locales de actuar en colusión con el cártel de los Zetas en crímenes como las masacres de Allende y en el penal de Piedras Negras, Olga Lidia Saucedo García, presidenta de la asociación de familiares de personas desaparecidas: \"Alas de Esperanza\", respondió que conocían que la policía municipal de Allende colaboraba con las células del crimen organizado.",
+      "text": "Tras el informe emitido por la Federación Internacional de los Derechos Humanos (FIDH) en el que se acusa a las autoridades locales de actuar en colusión con el cártel de los Zetas en crímenes como las masacres de Allende y en el penal de Piedras Negras, Olga Lidia Saucedo García, presidenta de la asociación de familiares de personas desaparecidas: \"Alas de Esperanza\", respondió que conocían que la policía municipal de Allende colaboraba con las células del crimen organizado."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 529.857,
+            "r": 527.002,
+            "b": 492.912,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "'Las autoridades policiacas en ese entonces era bien sabido, el alcalde no nos apoyó porque no tomó la atención suficiente pero sí sabíamos que aquí en Allende se estaba trabajando con la delincuencia'.",
+      "text": "'Las autoridades policiacas en ese entonces era bien sabido, el alcalde no nos apoyó porque no tomó la atención suficiente pero sí sabíamos que aquí en Allende se estaba trabajando con la delincuencia'."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 477.662,
+            "r": 531.895,
+            "b": 413.715,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            363
+          ]
+        }
+      ],
+      "orig": "En una entrevista concedida a VANGUARDIA vía telefónica, Saucedo García, madre de Atzy Adamary Reyna Saucedo -desaparecida el 18 de diciembre de 2012 en Piedras Negras- sostuvo que tras la desaparición de su hija no recibieron ayuda de parte de las autoridades sino hasta 2013, con la instauración de la Subprocuraduría de Personas Desaparecidas y No Localizadas.",
+      "text": "En una entrevista concedida a VANGUARDIA vía telefónica, Saucedo García, madre de Atzy Adamary Reyna Saucedo -desaparecida el 18 de diciembre de 2012 en Piedras Negras- sostuvo que tras la desaparición de su hija no recibieron ayuda de parte de las autoridades sino hasta 2013, con la instauración de la Subprocuraduría de Personas Desaparecidas y No Localizadas."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 398.581,
+            "r": 493.227,
+            "b": 348.072,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            293
+          ]
+        }
+      ],
+      "orig": "Aunque reconoció que desconoce a detalle el informe denominado 'México: Asesinatos, desapariciones y torturas en Coahuila de Zaragoza que constituyen crímenes de lesa humanidad', sí dejó claro que en la asociación que preside no buscan enlodar el trabajo realizado por las autoridades locales.",
+      "text": "Aunque reconoció que desconoce a detalle el informe denominado 'México: Asesinatos, desapariciones y torturas en Coahuila de Zaragoza que constituyen crímenes de lesa humanidad', sí dejó claro que en la asociación que preside no buscan enlodar el trabajo realizado por las autoridades locales."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.039,
+            "t": 332.938,
+            "r": 527.56,
+            "b": 282.436,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            288
+          ]
+        }
+      ],
+      "orig": "Olga Lidia Saucedo García, quiere que dejen de revictimizar a las familias que buscan a los suyos e insistió en que tras el fenómeno de las desapariciones agudizado en Coahuila lo único que buscan es hacer aliados en las asociaciones civiles y los entes gubernamentales para encontrarlos.",
+      "text": "Olga Lidia Saucedo García, quiere que dejen de revictimizar a las familias que buscan a los suyos e insistió en que tras el fenómeno de las desapariciones agudizado en Coahuila lo único que buscan es hacer aliados en las asociaciones civiles y los entes gubernamentales para encontrarlos."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 1",
+      "text": "1 of 1"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 530.035,
+            "t": 8.63900000000001,
+            "r": 611.996,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "9/13/2019, 8:50 AM",
+      "text": "9/13/2019, 8:50 AM"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

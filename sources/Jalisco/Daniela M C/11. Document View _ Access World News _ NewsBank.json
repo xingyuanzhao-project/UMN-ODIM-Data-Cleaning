@@ -1,0 +1,649 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "11. Document View _ Access World News _ NewsBank",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 978511583464406056,
+    "filename": "11. Document View _ Access World News _ NewsBank.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.336,
+            "r": 58.898,
+            "b": 768.221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "4/23/2019",
+      "text": "4/23/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 255.75,
+            "t": 775.336,
+            "r": 418.911,
+            "b": 768.221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "Document View | Access World News | NewsBank",
+      "text": "Document View | Access World News | NewsBank"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 667.893,
+            "r": 244.288,
+            "b": 650.913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Buscan arrestar a 2 por Daniela",
+      "text": "Buscan arrestar a 2 por Daniela",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 88.054,
+            "t": 639.465,
+            "r": 361.157,
+            "b": 600.833,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "20 de febrero del 2016 | Mural (Guadalajara, Jalisco, Mexico) Author: Julio Pérez | Page: 5 | Section: Justicia 241 Words",
+      "text": "20 de febrero del 2016 | Mural (Guadalajara, Jalisco, Mexico) Author: Julio Pérez | Page: 5 | Section: Justicia 241 Words"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 531.252,
+            "r": 574.085,
+            "b": 502.876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "Dos presuntos implicados en la desaparición de la estudiante Daniela Isabel Magaña Castellanos tienen orden de aprehensión y son buscados por agentes estatales.",
+      "text": "Dos presuntos implicados en la desaparición de la estudiante Daniela Isabel Magaña Castellanos tienen orden de aprehensión y son buscados por agentes estatales."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 479.456,
+            "r": 582.871,
+            "b": 451.079,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "Eduardo Almaguer, Fiscal General, indicó ayer que tuvieron nueva información sobre el caso de la joven, quien fue vista por última vez el 12 de septiembre de 2014, en el Municipio de Zapotiltic.",
+      "text": "Eduardo Almaguer, Fiscal General, indicó ayer que tuvieron nueva información sobre el caso de la joven, quien fue vista por última vez el 12 de septiembre de 2014, en el Municipio de Zapotiltic."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 427.659,
+            "r": 582.229,
+            "b": 382.017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            240
+          ]
+        }
+      ],
+      "orig": "\"En los últimos días surgieron datos muy importantes que llevaron al personal nuestro a trasladarse al Estado de Nayarit, al Municipio de Zapotlán El Grande, y en estos momentos se están realizando estas diligencias\", expuso el funcionario.",
+      "text": "\"En los últimos días surgieron datos muy importantes que llevaron al personal nuestro a trasladarse al Estado de Nayarit, al Municipio de Zapotlán El Grande, y en estos momentos se están realizando estas diligencias\", expuso el funcionario."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 358.597,
+            "r": 581.536,
+            "b": 330.221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "Almaguer explicó que se tienen indicios de quienes están involucrados en la desaparición y también pistas sobre el paradero de Daniela, aunque no abundó en detalles.",
+      "text": "Almaguer explicó que se tienen indicios de quienes están involucrados en la desaparición y también pistas sobre el paradero de Daniela, aunque no abundó en detalles."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 306.801,
+            "r": 579.615,
+            "b": 278.424,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Los datos, dijo el Fiscal, apuntan a que ella podría estar viva, pero recalcó que falta concretar la investigación para saber qué ocurrió.",
+      "text": "Los datos, dijo el Fiscal, apuntan a que ella podría estar viva, pero recalcó que falta concretar la investigación para saber qué ocurrió."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 255.00400000000002,
+            "r": 580.849,
+            "b": 209.36199999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            237
+          ]
+        }
+      ],
+      "orig": "\"Se tienen identificados a otros dos partícipes, que se acreditó esa participación en esa desaparición de la Ciudad, del Municipio, y es también sobre los que estamos ya, se giraron órdenes de aprehensión y los estamos buscando\", agregó.",
+      "text": "\"Se tienen identificados a otros dos partícipes, que se acreditó esa participación en esa desaparición de la Ciudad, del Municipio, y es también sobre los que estamos ya, se giraron órdenes de aprehensión y los estamos buscando\", agregó."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 185.942,
+            "r": 566.986,
+            "b": 157.56600000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "A pregunta expresa de que si los implicados estarían relacionados con el crimen organizado, el Fiscal respondió que sí, aunque no dio detalles",
+      "text": "A pregunta expresa de que si los implicados estarían relacionados con el crimen organizado, el Fiscal respondió que sí, aunque no dio detalles"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 134.14599999999996,
+            "r": 546.922,
+            "b": 105.769,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "Daniela tenía 17 años cuando su desaparición fue denunciada ante las autoridades. Ella era estudiante de la Escuela Preparatoria de Zapotiltic, incorporada a la UdeG.",
+      "text": "Daniela tenía 17 años cuando su desaparición fue denunciada ante las autoridades. Ella era estudiante de la Escuela Preparatoria de Zapotiltic, incorporada a la UdeG."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 82.34900000000005,
+            "r": 536.143,
+            "b": 53.972999999999956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "Por el caso fue levantada una Alerta Amber, aunque las autoridades la desactivaron posteriormente, para continuar con otras formas de investigación.",
+      "text": "Por el caso fue levantada una Alerta Amber, aunque las autoridades la desactivaron posteriormente, para continuar con otras formas de investigación."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.336000000000013,
+            "r": 397.07,
+            "b": 15.221000000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "https://infoweb.newsbank.com/apps/news/document-view?p=AWNB&docref=news/15B21BB42B241528&f=basic",
+      "text": "https://infoweb.newsbank.com/apps/news/document-view?p=AWNB&docref=news/15B21BB42B241528&f=basic"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 575.313,
+            "t": 22.336000000000013,
+            "r": 585.531,
+            "b": 15.221000000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/2",
+      "text": "1/2"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.336,
+            "r": 58.898,
+            "b": 768.221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "4/23/2019",
+      "text": "4/23/2019"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 255.75,
+            "t": 775.336,
+            "r": 418.911,
+            "b": 768.221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "Document View | Access World News | NewsBank",
+      "text": "Document View | Access World News | NewsBank"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 143.052,
+            "t": 740.056,
+            "r": 469.942,
+            "b": 728.448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "© Copyright (c) 2016 Editora El Sol, S.A. de C.V. Mural. All rights reserved.",
+      "text": "© Copyright (c) 2016 Editora El Sol, S.A. de C.V. Mural. All rights reserved."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.336000000000013,
+            "r": 397.07,
+            "b": 15.221000000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "https://infoweb.newsbank.com/apps/news/document-view?p=AWNB&docref=news/15B21BB42B241528&f=basic",
+      "text": "https://infoweb.newsbank.com/apps/news/document-view?p=AWNB&docref=news/15B21BB42B241528&f=basic"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 575.313,
+            "t": 22.336000000000013,
+            "r": 585.531,
+            "b": 15.221000000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2/2",
+      "text": "2/2"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

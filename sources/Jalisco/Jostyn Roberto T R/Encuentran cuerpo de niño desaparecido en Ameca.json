@@ -1,0 +1,1650 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Encuentran cuerpo de niño desaparecido en Ameca",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 1886692232448548122,
+    "filename": "Encuentran cuerpo de niño desaparecido en Ameca.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/pictures/2"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.0,
+            "t": 758.35,
+            "r": 489.068,
+            "b": 749.321,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Encuentran cuerpo de niño desaparecido en Ameca",
+      "text": "Encuentran cuerpo de niño desaparecido en Ameca"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.5,
+            "t": 728.734,
+            "r": 196.033,
+            "b": 723.385,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "JALISCO 13 septiembre, 2016",
+      "text": "JALISCO 13 septiembre, 2016"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.33333333333333,
+            "t": 460.0,
+            "r": 219.33333333333334,
+            "b": 424.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "JOSTYN ROBERTO TREVIÑO RIZO",
+      "text": "JOSTYN ROBERTO TREVIÑO RIZO"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 77.33333333333333,
+            "t": 726.0,
+            "r": 210.66666666666666,
+            "b": 678.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "AMBEK",
+      "text": "AMBEK"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.66666666666667,
+            "t": 412.3333333333333,
+            "r": 540.6666666666666,
+            "b": 381.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "Vestimenta: Camiseta de botones, con cuadros azules y blancos, pantalón de mezclilla azul claro y tenis blancos.",
+      "text": "Vestimenta: Camiseta de botones, con cuadros azules y blancos, pantalón de mezclilla azul claro y tenis blancos."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.0,
+            "t": 369.3333333333333,
+            "r": 540.6666666666666,
+            "b": 255.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            521
+          ]
+        }
+      ],
+      "orig": "Resumen de los hechos: El 07 de septiembre de 2016, el niño JOSTYN ROBERTO TREVIÑO RIZO se encontraba en el Rancho los Pocitos en Ameca Jalisco en companía de su abuelo paterno cuando dos hombres   agredieron a su abuelo y lo sustrajeron; huyendo del lugar en una camioneta roja marca FORD, tipo EXPLORER modelo 96. con placas de circulación JJX 8583 del Estado de Jalisco. propiedad de la familia Se considera que la integridad del niño se encuentra en riesgo toda vez que puede ser víctima de la comisión de un delito .",
+      "text": "Resumen de los hechos: El 07 de septiembre de 2016, el niño JOSTYN ROBERTO TREVIÑO RIZO se encontraba en el Rancho los Pocitos en Ameca Jalisco en companía de su abuelo paterno cuando dos hombres   agredieron a su abuelo y lo sustrajeron; huyendo del lugar en una camioneta roja marca FORD, tipo EXPLORER modelo 96. con placas de circulación JJX 8583 del Estado de Jalisco. propiedad de la familia Se considera que la integridad del niño se encuentra en riesgo toda vez que puede ser víctima de la comisión de un delito ."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 240.66666666666666,
+            "t": 222.66666666666663,
+            "r": 365.3333333333333,
+            "b": 160.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "01 800 00 85 400 F.G.E JALISCO 01 33 3030 4949",
+      "text": "01 800 00 85 400 F.G.E JALISCO 01 33 3030 4949"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.0,
+            "t": 61.55799999999999,
+            "r": 64.632,
+            "b": 55.38599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Por:",
+      "text": "Por:"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.625,
+            "t": 61.55799999999999,
+            "r": 213.577,
+            "b": 55.38499999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Redacción (@ProyectoDiez)",
+      "text": "Redacción (@ProyectoDiez)"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 273.0,
+            "t": 734.3333333333334,
+            "r": 521.3333333333334,
+            "b": 705.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "ALERTA AMBER MÉXICO",
+      "text": "ALERTA AMBER MÉXICO",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 287.6666666666667,
+            "t": 705.3333333333334,
+            "r": 492.6666666666667,
+            "b": 681.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Reporte núm.: AAMX694",
+      "text": "Reporte núm.: AAMX694"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 252.33333333333334,
+            "t": 658.3333333333334,
+            "r": 362.3333333333333,
+            "b": 646.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Fecha de nacimiento:",
+      "text": "Fecha de nacimiento:"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 390.3333333333333,
+            "t": 659.0,
+            "r": 452.3333333333333,
+            "b": 645.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "01/11/2011",
+      "text": "01/11/2011"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 252.0,
+            "t": 643.6666666666666,
+            "r": 359.0,
+            "b": 631.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Fecha de los hechos:",
+      "text": "Fecha de los hechos:"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 390.3333333333333,
+            "t": 644.3333333333334,
+            "r": 453.0,
+            "b": 631.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "07/09/2016",
+      "text": "07/09/2016"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 251.33333333333334,
+            "t": 629.3333333333334,
+            "r": 282.3333333333333,
+            "b": 616.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Edad:",
+      "text": "Edad:"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 391.0,
+            "t": 629.6666666666666,
+            "r": 427.0,
+            "b": 616.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "4 años",
+      "text": "4 años"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 252.66666666666666,
+            "t": 615.3333333333334,
+            "r": 324.0,
+            "b": 602.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Nacionalidad:",
+      "text": "Nacionalidad:"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 391.3333333333333,
+            "t": 613.3333333333334,
+            "r": 441.3333333333333,
+            "b": 602.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Mexicana",
+      "text": "Mexicana"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 252.66666666666666,
+            "t": 598.6666666666666,
+            "r": 282.6666666666667,
+            "b": 588.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Sexo;",
+      "text": "Sexo;"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 391.0,
+            "t": 599.6666666666666,
+            "r": 434.3333333333333,
+            "b": 587.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Hombre",
+      "text": "Hombre"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 252.0,
+            "t": 585.6666666666666,
+            "r": 296.3333333333333,
+            "b": 571.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Cabello:",
+      "text": "Cabello:"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 389.6666666666667,
+            "t": 585.6666666666666,
+            "r": 511.6666666666667,
+            "b": 570.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Corto, color café oscuro",
+      "text": "Corto, color café oscuro"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 252.33333333333334,
+            "t": 570.3333333333334,
+            "r": 281.6666666666667,
+            "b": 557.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Ojos:",
+      "text": "Ojos:"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 390.3333333333333,
+            "t": 570.3333333333334,
+            "r": 479.3333333333333,
+            "b": 558.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Color café oscuro",
+      "text": "Color café oscuro"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 252.66666666666666,
+            "t": 554.6666666666666,
+            "r": 300.0,
+            "b": 544.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Estatura:",
+      "text": "Estatura:"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 391.0,
+            "t": 555.6666666666666,
+            "r": 464.3333333333333,
+            "b": 543.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1.10 m. aprox.",
+      "text": "1.10 m. aprox."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 251.66666666666666,
+            "t": 541.0,
+            "r": 283.3333333333333,
+            "b": 526.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Peso;",
+      "text": "Peso;"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 390.3333333333333,
+            "t": 540.3333333333334,
+            "r": 462.3333333333333,
+            "b": 527.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "20 kes. aprox.",
+      "text": "20 kes. aprox."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 252.0,
+            "t": 512.6666666666667,
+            "r": 350.3333333333333,
+            "b": 497.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Señas particulares:",
+      "text": "Señas particulares:"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 390.0,
+            "t": 512.6666666666667,
+            "r": 556.3333333333334,
+            "b": 484.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "en la  espalda la altura del hombro derecho",
+      "text": "en la  espalda la altura del hombro derecho"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 251.66666666666666,
+            "t": 481.6666666666667,
+            "r": 357.0,
+            "b": 467.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Lugar de los hechos;",
+      "text": "Lugar de los hechos;"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 391.0,
+            "t": 481.6666666666667,
+            "r": 466.3333333333333,
+            "b": 469.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Ameca, Jalisco.",
+      "text": "Ameca, Jalisco."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 759.058,
+            "r": 568.335,
+            "b": 736.385,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "13  de  septiembre  de  2016. -  La  Alerta  Ámbar  para  encontrar  a Jostyn  Roberto  Treviño  Rizo fue desactivada, pues este lunes encontraron al pequeño sin vida.",
+      "text": "13  de  septiembre  de  2016. -  La  Alerta  Ámbar  para  encontrar  a Jostyn  Roberto  Treviño  Rizo fue desactivada, pues este lunes encontraron al pequeño sin vida."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 718.558,
+            "r": 568.981,
+            "b": 679.386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            283
+          ]
+        }
+      ],
+      "orig": "Cerca  de  las  10:30  horas,  tras  el  reporte  de  los  habitantes  del  poblado  Los  Pocitos municipio  de Ameca, de  una persona flotando en  un  canal  de  aguas,  la  Policía  Municipal  y  cuerpos  de  rescate acudieron al lugar y se dieron cuenta que se trataba de un niño.",
+      "text": "Cerca  de  las  10:30  horas,  tras  el  reporte  de  los  habitantes  del  poblado  Los  Pocitos municipio  de Ameca, de  una persona flotando en  un  canal  de  aguas,  la  Policía  Municipal  y  cuerpos  de  rescate acudieron al lugar y se dieron cuenta que se trataba de un niño."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 661.558,
+            "r": 568.392,
+            "b": 622.386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            263
+          ]
+        }
+      ],
+      "orig": "La sospecha se confirmó, el cadáver vestía camisa a cuadros, pantalón de mezclilla y tenis negros, tal y como fue visto Jostyn por última vez cuando lo sustrajeron del lado de su abuelo, a quien el pasado miércoles golpearon con un machete para llevarse al menor.",
+      "text": "La sospecha se confirmó, el cadáver vestía camisa a cuadros, pantalón de mezclilla y tenis negros, tal y como fue visto Jostyn por última vez cuando lo sustrajeron del lado de su abuelo, a quien el pasado miércoles golpearon con un machete para llevarse al menor."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 604.558,
+            "r": 569.011,
+            "b": 548.886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            314
+          ]
+        }
+      ],
+      "orig": "Los hechos ocurrieron cuando el adulto mayor esperaba a su hija para entregar al niño de cuatro años que dormía en la parte trasera de su camioneta, cuando llegaron dos sujetos armados con un bate y un machete, en contra de él para robarle la camioneta , según la declaración del abuelo ante el Ministerio Público.",
+      "text": "Los hechos ocurrieron cuando el adulto mayor esperaba a su hija para entregar al niño de cuatro años que dormía en la parte trasera de su camioneta, cuando llegaron dos sujetos armados con un bate y un machete, en contra de él para robarle la camioneta , según la declaración del abuelo ante el Ministerio Público."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 531.058,
+            "r": 568.813,
+            "b": 491.885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            285
+          ]
+        }
+      ],
+      "orig": "Al resistirse, éste fue herido de gravedad con el machete en el abdomen, e inmediatamente después los agresores huyeron con rumbo a la Zona Metropolitana y al parecer, no se percataron de la presencia del menor en la parte trasera del vehículo, según hipótesis de la Policía Municipal.",
+      "text": "Al resistirse, éste fue herido de gravedad con el machete en el abdomen, e inmediatamente después los agresores huyeron con rumbo a la Zona Metropolitana y al parecer, no se percataron de la presencia del menor en la parte trasera del vehículo, según hipótesis de la Policía Municipal."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 474.058,
+            "r": 568.439,
+            "b": 434.886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "Los  uniformados  entrevistaron  a  los  familiares  del  menor  y descartaron  que  se  tratara  de  un secuestro o  problemas entre parientes, por lo que la línea de investigación se centró por el robo del automotor.",
+      "text": "Los  uniformados  entrevistaron  a  los  familiares  del  menor  y descartaron  que  se  tratara  de  un secuestro o  problemas entre parientes, por lo que la línea de investigación se centró por el robo del automotor."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 417.058,
+            "r": 568.925,
+            "b": 394.385,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "Desde el pasado 8 de septiembre, la policía local en conjunto con la Fuerza Única patrullaron la Región Valles en la búsqueda del niño y la camioneta color rojo, pero la búsqueda no fue fructífera.",
+      "text": "Desde el pasado 8 de septiembre, la policía local en conjunto con la Fuerza Única patrullaron la Región Valles en la búsqueda del niño y la camioneta color rojo, pero la búsqueda no fue fructífera."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 376.558,
+            "r": 568.793,
+            "b": 353.886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "Destaca que la Alerta Amber fue habilitada hasta 29 horas después de la sustracción del menor, pues este se reportó cerca de las 21:00 horas del 7 de septiembre pasado.",
+      "text": "Destaca que la Alerta Amber fue habilitada hasta 29 horas después de la sustracción del menor, pues este se reportó cerca de las 21:00 horas del 7 de septiembre pasado."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 336.058,
+            "r": 568.802,
+            "b": 296.885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "Hacía el mediodía de este lunes, las autoridades informaron que la víctima encontrada en el canal era Jostyn, que no había detenidos y que las investigaciones continúan su curso. También señalaron que el vehículo no ha sido localizado.",
+      "text": "Hacía el mediodía de este lunes, las autoridades informaron que la víctima encontrada en el canal era Jostyn, que no había detenidos y que las investigaciones continúan su curso. También señalaron que el vehículo no ha sido localizado."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 44.0,
+            "t": 279.058,
+            "r": 568.999,
+            "b": 256.38599999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "A decir de técnicos en urgencias, el cuerpo del niño presentaba signos de ahogamiento con más de 12 horas de evolución.",
+      "text": "A decir de técnicos en urgencias, el cuerpo del niño presentaba signos de ahogamiento con más de 12 horas de evolución."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 50.0,
+            "t": 751.766,
+            "r": 113.015,
+            "b": 746.01,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "0 Comments",
+      "text": "0 Comments",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 399.805,
+            "t": 751.771,
+            "r": 435.98,
+            "b": 746.011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Sort by",
+      "text": "Sort by"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.25,
+            "t": 645.91,
+            "r": 167.883,
+            "b": 641.383,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Facebook Comments Plugin",
+      "text": "Facebook Comments Plugin"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 442.719,
+            "t": 749.942,
+            "r": 470.725,
+            "b": 745.008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Oldest",
+      "text": "Oldest"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 59.07,
+            "t": 697.346,
+            "r": 153.043,
+            "b": 690.762,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Add a comment...",
+      "text": "Add a comment..."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 77.32862854003906,
+            "t": 749.968090057373,
+            "r": 221.0347900390625,
+            "b": 664.9339141845703,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 74.0062255859375,
+            "t": 654.7021484375,
+            "r": 220.5837860107422,
+            "b": 461.3086853027344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.579959869384766,
+            "t": 756.2357788085938,
+            "r": 488.968505859375,
+            "b": 636.8558044433594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    }
+  }
+}

@@ -1,0 +1,652 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "La PGJE de Nuevo León halla restos calcinados de 10 policías secuestrados en Apodaca en 2011",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2947646684740276584,
+    "filename": "La PGJE de Nuevo León halla restos calcinados de 10 policías secuestrados en Apodaca en 2011.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 301.985,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "La PGJE de Nuevo León halla restos calcinados de 10 policías secuestrad...",
+      "text": "La PGJE de Nuevo León halla restos calcinados de 10 policías secuestrad..."
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 411.743,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "https://www.sinembargo.mx/29-05-2016/1666236",
+      "text": "https://www.sinembargo.mx/29-05-2016/1666236"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.762,
+            "t": 729.662,
+            "r": 515.393,
+            "b": 691.44,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "La PGJE de Nuevo León halla restos calcinados de 10 policías secuestrados en Apodaca en 2011",
+      "text": "La PGJE de Nuevo León halla restos calcinados de 10 policías secuestrados en Apodaca en 2011",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.76,
+            "t": 664.177,
+            "r": 195.234,
+            "b": 655.431,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Redacción / Sin Embargo",
+      "text": "Redacción / Sin Embargo"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.763,
+            "t": 628.812,
+            "r": 533.982,
+            "b": 557.134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            283
+          ]
+        }
+      ],
+      "orig": "En 2011, en Apodaca, Nuevo León, fueron secuestrados al menos 10 elementos policiacos, cuyos restos óseos fueron hallados en días pasados en un ejido del municipio de Salinas Victoria. Por estos hechos, nueve presuntos delincuentes fueron recluidos en el penal de Topo Chico en 2012.",
+      "text": "En 2011, en Apodaca, Nuevo León, fueron secuestrados al menos 10 elementos policiacos, cuyos restos óseos fueron hallados en días pasados en un ejido del municipio de Salinas Victoria. Por estos hechos, nueve presuntos delincuentes fueron recluidos en el penal de Topo Chico en 2012."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.759,
+            "t": 198.85400000000004,
+            "r": 521.081,
+            "b": 176.33899999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "los restos fueron hallados carbonizados en el ejido Las Abejas, en el referido municipio, y datan de 2011. Foto: Cuartoscuro/Archivo.",
+      "text": "los restos fueron hallados carbonizados en el ejido Las Abejas, en el referido municipio, y datan de 2011. Foto: Cuartoscuro/Archivo."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.759,
+            "t": 162.014,
+            "r": 519.998,
+            "b": 114.06299999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            265
+          ]
+        }
+      ],
+      "orig": "Ciudad de México, 29 de mayo (SinEmbrago).- Los restos carbonizados de al menos 10 policías desaparecidos en Apodaca, Nuevo León, en 2011, fueron hallados en un ejido del municipio de Salinas Victoria, confirmó la Procuraduría General de Justicia del Estado (PGJE).",
+      "text": "Ciudad de México, 29 de mayo (SinEmbrago).- Los restos carbonizados de al menos 10 policías desaparecidos en Apodaca, Nuevo León, en 2011, fueron hallados en un ejido del municipio de Salinas Victoria, confirmó la Procuraduría General de Justicia del Estado (PGJE)."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.759,
+            "t": 99.73199999999997,
+            "r": 533.793,
+            "b": 51.78099999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            297
+          ]
+        }
+      ],
+      "orig": "El Procurador del estado, Roberto Flores Treviño, informó ayer en conferencia de prensa que los restos fueron hallados carbonizados en el ejido Las Abejas, en el referido municipio, y que datan de 2011, 'época lamentable en la que se suscitaban constantes enfrentamientos entre grupos criminales'.",
+      "text": "El Procurador del estado, Roberto Flores Treviño, informó ayer en conferencia de prensa que los restos fueron hallados carbonizados en el ejido Las Abejas, en el referido municipio, y que datan de 2011, 'época lamentable en la que se suscitaban constantes enfrentamientos entre grupos criminales'."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1 of 2",
+      "text": "1 of 2"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 525.479,
+            "t": 8.63900000000001,
+            "r": 611.921,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "8/30/2019, 11:56 AM",
+      "text": "8/30/2019, 11:56 AM"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 789.592,
+            "r": 301.985,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "La PGJE de Nuevo León halla restos calcinados de 10 policías secuestrad...",
+      "text": "La PGJE de Nuevo León halla restos calcinados de 10 policías secuestrad..."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 411.743,
+            "t": 789.592,
+            "r": 611.937,
+            "b": 781.4,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "https://www.sinembargo.mx/29-05-2016/1666236",
+      "text": "https://www.sinembargo.mx/29-05-2016/1666236"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 77.759,
+            "t": 753.485,
+            "r": 481.116,
+            "b": 730.975,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "El funcionario estatal detalló que los restos podrían corresponder a 10 elementos policiacos, cuyos fragmentos óseos fueron identificados mediante perfil genético.",
+      "text": "El funcionario estatal detalló que los restos podrían corresponder a 10 elementos policiacos, cuyos fragmentos óseos fueron identificados mediante perfil genético."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 77.759,
+            "t": 716.644,
+            "r": 511.73,
+            "b": 655.976,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            339
+          ]
+        }
+      ],
+      "orig": "'Se logró identificar a 10 personas que se encontraban desaparecidas desde 2011 y que corresponden a los nombres de Isidro López Buenrostro, Alejandro Guadalupe Zamora Vaca, Crispín Severín, Ricardo Rangel García, Bryan Mendoza Noriega,  Diego García, Adrián Guadalupe García Hernández, Francisco Javier González y José Guadalupe Herrera'.",
+      "text": "'Se logró identificar a 10 personas que se encontraban desaparecidas desde 2011 y que corresponden a los nombres de Isidro López Buenrostro, Alejandro Guadalupe Zamora Vaca, Crispín Severín, Ricardo Rangel García, Bryan Mendoza Noriega,  Diego García, Adrián Guadalupe García Hernández, Francisco Javier González y José Guadalupe Herrera'."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 77.759,
+            "t": 641.645,
+            "r": 524.578,
+            "b": 606.417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "De acuerdo el Procurador, el mando policial y otros seis escoltas acudieron a buscar a tres elementos secuestrados por un comando armado y fue cuando éstos también desaparecieron.",
+      "text": "De acuerdo el Procurador, el mando policial y otros seis escoltas acudieron a buscar a tres elementos secuestrados por un comando armado y fue cuando éstos también desaparecieron."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 77.759,
+            "t": 592.086,
+            "r": 533.342,
+            "b": 556.974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            263
+          ]
+        }
+      ],
+      "orig": "En relación con estos hechos, precisó, en 2012 las autoridades detuvieron a Édgar Adrián Zavala Bravo y otros ocho presuntos delincuentes, quienes están presos en el penal de Topo Chico acusados de al menos 50 ejecuciones, secuestro agravado y robo con violencia.",
+      "text": "En relación con estos hechos, precisó, en 2012 las autoridades detuvieron a Édgar Adrián Zavala Bravo y otros ocho presuntos delincuentes, quienes están presos en el penal de Topo Chico acusados de al menos 50 ejecuciones, secuestro agravado y robo con violencia."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 77.759,
+            "t": 542.527,
+            "r": 508.752,
+            "b": 532.855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "Los familiares de las víctimas ya fueron notificados del hallazgo y serán indemnizados.",
+      "text": "Los familiares de las víctimas ya fueron notificados del hallazgo y serán indemnizados."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 0.0,
+            "t": 8.63900000000001,
+            "r": 23.306,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2 of 2",
+      "text": "2 of 2"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 525.479,
+            "t": 8.63900000000001,
+            "r": 611.921,
+            "b": 0.44700000000000273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "8/30/2019, 11:56 AM",
+      "text": "8/30/2019, 11:56 AM"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.09355926513672,
+            "t": 544.7992401123047,
+            "r": 573.7941284179688,
+            "b": 212.55950927734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

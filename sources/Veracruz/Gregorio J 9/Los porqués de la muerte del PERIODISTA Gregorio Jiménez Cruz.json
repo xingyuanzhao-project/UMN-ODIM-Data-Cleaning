@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Los porqués de la muerte del PERIODISTA Gregorio Jiménez Cruz",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5916136199111061072,
+    "filename": "Los porqués de la muerte del PERIODISTA Gregorio Jiménez Cruz.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.17905234375,
+            "r": 626.253,
+            "b": 555.14105234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            495
+          ]
+        }
+      ],
+      "orig": "Página no encontrada - Plumas Libres Estás usando un navegador antiguo . Por favor actualízalo para mejorar tu experiencia. Plumas Libres - Por la Libertad de Informar Sucesos Foro libre Videos Transparencia Secciones Entretenimiento Opinión Foro Libre Cultura Ciencia y Tecnologia Sociedad Salud Tienda libre Contacto Toggle navigation No encontrado Disculpa, la página que estás buscando no existe. Buscar: Por la Libertad de informar (c) todos los derechos reservados 2009 plumaslibres.com.mx",
+      "text": "Página no encontrada - Plumas Libres Estás usando un navegador antiguo . Por favor actualízalo para mejorar tu experiencia. Plumas Libres - Por la Libertad de Informar Sucesos Foro libre Videos Transparencia Secciones Entretenimiento Opinión Foro Libre Cultura Ciencia y Tecnologia Sociedad Salud Tienda libre Contacto Toggle navigation No encontrado Disculpa, la página que estás buscando no existe. Buscar: Por la Libertad de informar (c) todos los derechos reservados 2009 plumaslibres.com.mx"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 633.0202026367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}
