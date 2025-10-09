@@ -38,8 +38,8 @@
 - Option 2: rescrape all available links and save them as HTML files.
     - Pro: 
         - A clean start
-        - More files
-        - Timeline is more controllable
+        - More files compared to selecting cleaner PDFs
+        - Timeline is more predictable and controllable
     - Con: 
         - Some links might be broken
 
