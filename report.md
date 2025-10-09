@@ -4,8 +4,8 @@
 - 4 out of 5 regions are annotated
 
 ### Expectation
-- To establish the relation between table records and saved PDFs
-- A cleaned corpus for fine-tuning
+- To establish the relation between table records and saved PDFs (done)
+- Cleaned text for fine-tuning (not done)
 
 ### Current Status
 - Rearranged the table to be victim-source, for better linkage between records and files
