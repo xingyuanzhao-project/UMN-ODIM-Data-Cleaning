@@ -19,8 +19,8 @@
 - Original table unit is not suitable for building record-file relation (solved)
 - Files are not structured in a way that can be easily tracked (solved)
 - PDFs cannot be traced back to records (solved)
-- Lost files (recovered partially)
-- One region (Veracruz) is not annotated (not solved)
+- Lost files (recovered partially, some links are broken or inaccessible)
+- One region (Veracruz) is not annotated (not solved, requires manual labor)
 - PDFs contain content that is not related to the topic, such as ads(Coahuila\Agustin H G), links and descriptions for other articles (Coahuila\Bertha Alicia Z P), comment section (Coahuila\Abel M H), or contact information (Coahuila\Bernando A) (not solved. Docling and OlmOCR can only identify some of them with no 100% guarantee. **Even if these elements are solved, there will be more problems identified in the future**)
 
 ### What Could Have Been Done Differently
@@ -42,6 +42,12 @@
         - Timeline is more predictable and controllable
     - Con: 
         - Some links might be broken
+- Option 3: hire assistants to manually clean up the PDFs
+    - Pro:
+        - More Accurate
+        - More files can be recovered
+    - Con:
+        - Cost more time and resources
 
 2. Cleaning 
    - If using only the "cleaner" PDFs, Docling should do the job IF these PDFs are truely "cleaner". 
@@ -59,9 +65,12 @@
 
 - The source url should not be a google doc, google drive, or similar cloude storage service provider, because this will raise accessibility issues for other researchers. 
 
-Example: 
+- The victim and sources should have index number for better indexing and avoiding duplication of names. The index should be string/character or similar data type rather than numberic. 
+
+Template Example: 
 
 | victima_index | victima | estado | source_index | titulo | url | directory | file_name | other victim columns... | other source columns... |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0001 | John Doe | Coahuila | 000101 | John Doe was abducted | www.example.com/john_doe_abducted | /sources/Coahuila/John Doe | "John Doe was abducted.html" | ... | ... |
-| 0001| John Doe | Coahuila | 000102 | kidnapper of John Doe was XX | www.example.com/john_doe_kindnapper | /sources/Coahuila/John Doe | "kidnapper of John Doe was XX.html" | ... | ... |
+| "0001" | John Doe | Coahuila | "000101" | John Doe was abducted | www.example.com/john_doe_abducted | /sources/Coahuila/John Doe | John Doe was abducted.html | ... | ... |
+| "0001" | John Doe | Coahuila | "000102" | kidnapper of John Doe was XX | www.example.com/john_doe_kindnapper | /sources/Coahuila/John Doe | kidnapper of John Doe was XX.html | ... | ... |
+| "0002" | Jane Doe | Coahuila | "000201" | Jane Doe was abducted | www.example.com/jane_doe_abducted | /sources/Coahuila/Jane Doe | Jane Doe was abducted.html | ... | ... |
