@@ -65,7 +65,7 @@
 
 - The source url should not be a google doc, google drive, or similar cloude storage service provider, because this will raise accessibility issues for other researchers. 
 
-- The victim and sources should have index number for better indexing and avoiding duplication of names. The index should be string/character or similar data type rather than numberic. 
+- The victim and sources should have index number for better indexing and avoiding duplication of names. The index should be string/character. 
 
 Template Example: 
 
