@@ -24,7 +24,7 @@
 - PDFs contain content that is not related to the topic, such as ads(Coahuila\Agustin H G), links and descriptions for other articles (Coahuila\Bertha Alicia Z P), comment section (Coahuila\Abel M H), or contact information (Coahuila\Bernando A) (not solved. Docling and OlmOCR can only identify some of them with no 100% guarantee. **Even if these elements are solved, there will be more problems identified in the future**)
 
 ### What Could Have Been Done Differently
-- Rescraping everything at the beginning would have saved massive time. Reverse engineering is more costly than having a clean start
+- Rescraping everything as HTMLs at the beginning would have saved massive time. Reverse engineering is more costly than having a clean start
 
 ### Steps and Options for Future Researchers
 
