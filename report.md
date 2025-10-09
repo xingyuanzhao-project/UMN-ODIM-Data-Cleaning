@@ -51,12 +51,15 @@
 
 ### Template for Future Works
 
-- The unit of the table is better to be victim-source pair, rather than victim, for better linkage with the corpus
-
-Example: See the column names of [victims_sources_reorganized.csv](victims_sources_reorganized.csv)
+- The unit of the table is recommended to be victim-source pair, rather than victim, for better linkage with the corpus. See the column names of [victims_sources_reorganized.csv](victims_sources_reorganized.csv) for details.
 
 - The source files sohuld be storaged in this structure: sources/region/victim
 
-Example: the sources folder in [GitHub repository](https://github.com/xingyuanzhao-project/UMN-ODIM-Data-Cleaning)
-
 - The source files should be storaged as HTML instead of PDF.
+
+Example: 
+
+| victima_index | victima | estado | source_index | titulo | url | directory | file_name | other victim columns... | other source columns... |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0001 | John Doe | Coahuila | 000101 | John Doe was abducted | /sources/Coahuila/John Doe | "John Doe was abducted.html" | ... | ... |
+| 0001| John Doe | Coahuila | 000102 | kidnapper of John Doe was XX | /sources/Coahuila/John Doe | "kidnapper of John Doe was XX.html" | ... | ... |
