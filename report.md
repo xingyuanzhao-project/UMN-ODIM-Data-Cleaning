@@ -18,7 +18,7 @@
 ### Issues
 - Original table unit is not suitable for building record-file relation (solved)
 - Files are not structured in a way that can be easily tracked (solved)
-- PDFs cannot be linked back to records (solved)
+- PDFs cannot be traced back to records (solved)
 - Lost files (recovered partially)
 - One region (Veracruz) is not annotated (not solved)
 - PDFs contain content that is not related to the topic, such as ads, comments, placeholders, i.e. links and descriptions for other articles (Coahuila\Bertha Alicia Z P), comment section (Coahuila\Abel M H), or contact information (Coahuila\Bernando A) (not solved. Docling and OlmOCR can only identify some of them with no 100% guarantee. **Even if these elements are solved, there will be more problems identified in the future**)
