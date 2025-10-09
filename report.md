@@ -63,5 +63,5 @@ Example:
 
 | victima_index | victima | estado | source_index | titulo | url | directory | file_name | other victim columns... | other source columns... |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0001 | John Doe | Coahuila | 000101 | www.example.com/john_doe_abducted | John Doe was abducted | /sources/Coahuila/John Doe | "John Doe was abducted.html" | ... | ... |
-| 0001| John Doe | Coahuila | 000102 | www.example.com/john_doe_kindnapper | kidnapper of John Doe was XX | /sources/Coahuila/John Doe | "kidnapper of John Doe was XX.html" | ... | ... |
+| 0001 | John Doe | Coahuila | 000101 | John Doe was abducted | www.example.com/john_doe_abducted | /sources/Coahuila/John Doe | "John Doe was abducted.html" | ... | ... |
+| 0001| John Doe | Coahuila | 000102 | kidnapper of John Doe was XX | www.example.com/john_doe_kindnapper | /sources/Coahuila/John Doe | "kidnapper of John Doe was XX.html" | ... | ... |
