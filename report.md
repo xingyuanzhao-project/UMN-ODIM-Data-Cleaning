@@ -47,7 +47,7 @@
    - If using only the "cleaner" PDFs, Docling should do the job IF these PDFs are truely "cleaner". 
    - If taking the total rescraping route, select the correct elements from the HTML files.
 
-3. Fine-Tuning Using Shreya's Framework
+3. Fine-Tuning Using the Established Framework
 
 
 
