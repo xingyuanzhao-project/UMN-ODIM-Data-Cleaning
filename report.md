@@ -44,7 +44,7 @@
         - Some links might be broken
 
 2. Cleaning 
-   - If using only the "cleaner" PDFs, Docling should do the job if these PDFs are guaranteed to be "cleaner". 
+   - If using only the "cleaner" PDFs, Docling should do the job IF these PDFs are truely "cleaner". 
    - If taking the total rescraping route, select the correct elements from the HTML files.
 
 3. Fine-Tuning Using Shreya's Framework
