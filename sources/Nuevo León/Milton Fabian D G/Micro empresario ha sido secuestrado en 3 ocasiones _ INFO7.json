@@ -102,9 +102,6 @@
         "$ref": "#/pictures/7"
       },
       {
-        "$ref": "#/texts/69"
-      },
-      {
         "$ref": "#/texts/70"
       },
       {
@@ -123,13 +120,16 @@
         "$ref": "#/texts/75"
       },
       {
+        "$ref": "#/texts/76"
+      },
+      {
         "$ref": "#/pictures/8"
       },
       {
-        "$ref": "#/texts/77"
+        "$ref": "#/texts/78"
       },
       {
-        "$ref": "#/texts/78"
+        "$ref": "#/texts/79"
       }
     ],
     "content_layer": "body",
@@ -2035,6 +2035,33 @@
         {
           "page_no": 3,
           "bbox": {
+            "l": 180.66666666666666,
+            "t": 524.6666666666666,
+            "r": 192.0,
+            "b": 516.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "LA",
+      "text": "LA"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
             "l": 217.66666666666666,
             "t": 523.0,
             "r": 226.33333333333334,
@@ -2051,7 +2078,7 @@
       "text": "0 €"
     },
     {
-      "self_ref": "#/texts/63",
+      "self_ref": "#/texts/64",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -2078,7 +2105,7 @@
       "text": "R A"
     },
     {
-      "self_ref": "#/texts/64",
+      "self_ref": "#/texts/65",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -2105,7 +2132,7 @@
       "text": "Dolar"
     },
     {
-      "self_ref": "#/texts/65",
+      "self_ref": "#/texts/66",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -2132,7 +2159,7 @@
       "text": "FOticíA"
     },
     {
-      "self_ref": "#/texts/66",
+      "self_ref": "#/texts/67",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -2159,7 +2186,7 @@
       "text": "MUNICI PAL"
     },
     {
-      "self_ref": "#/texts/67",
+      "self_ref": "#/texts/68",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -2186,7 +2213,7 @@
       "text": "POLICIA"
     },
     {
-      "self_ref": "#/texts/68",
+      "self_ref": "#/texts/69",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -2213,7 +2240,7 @@
       "text": "HUNICIPAL"
     },
     {
-      "self_ref": "#/texts/69",
+      "self_ref": "#/texts/70",
       "parent": {
         "$ref": "#/body"
       },
@@ -2240,7 +2267,7 @@
       "text": "tienen en su poder los registros de las cámaras de seguridad que captaron el secuestro de la víctima, pero los rostros de los individuos no se aprecian porque llevaban el rostro cubierto."
     },
     {
-      "self_ref": "#/texts/70",
+      "self_ref": "#/texts/71",
       "parent": {
         "$ref": "#/body"
       },
@@ -2267,7 +2294,7 @@
       "text": "Milton Fabian Díaz García, fue plagiado el pasado 25 de mayo de 2009 por un ex-capitán de Tránsito de Apodaca, que presuntamente cobró por su rescate 270 mil pesos,joyas y un auto de reciente modelo, el exfuncionario de Apodaca, se encuentra preso en el penal del Topo Chico."
     },
     {
-      "self_ref": "#/texts/71",
+      "self_ref": "#/texts/72",
       "parent": {
         "$ref": "#/body"
       },
@@ -2294,7 +2321,7 @@
       "text": "En febrero de 2010, Díaz García, presuntamente volvió a ser privado de la libertad ,pero en esa ocasión la familia no puso la denuncia."
     },
     {
-      "self_ref": "#/texts/72",
+      "self_ref": "#/texts/73",
       "parent": {
         "$ref": "#/body"
       },
@@ -2335,7 +2362,7 @@
       "text": "Las autoridades investigadoras han guardado total hermetismo en el tercer plagio que sufre el micro empresario."
     },
     {
-      "self_ref": "#/texts/73",
+      "self_ref": "#/texts/74",
       "parent": {
         "$ref": "#/body"
       },
@@ -2363,7 +2390,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/74",
+      "self_ref": "#/texts/75",
       "parent": {
         "$ref": "#/body"
       },
@@ -2391,7 +2418,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/75",
+      "self_ref": "#/texts/76",
       "parent": {
         "$ref": "#/body"
       },
@@ -2419,7 +2446,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/76",
+      "self_ref": "#/texts/77",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -2446,7 +2473,7 @@
       "text": "La Comisión de Desarrollo Urbano en el Congreso del Estado se declaró lista para"
     },
     {
-      "self_ref": "#/texts/77",
+      "self_ref": "#/texts/78",
       "parent": {
         "$ref": "#/body"
       },
@@ -2473,7 +2500,7 @@
       "text": "http://www.info7.mx/seccion/micro-empresario-ha-sido-secuestrado-en-3-ocasiones/486898"
     },
     {
-      "self_ref": "#/texts/78",
+      "self_ref": "#/texts/79",
       "parent": {
         "$ref": "#/body"
       },
@@ -2517,10 +2544,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 32.525882720947266,
-            "t": 317.5050964355469,
-            "r": 160.63931274414062,
-            "b": 297.6040344238281,
+            "l": 32.5207405090332,
+            "t": 317.5066833496094,
+            "r": 160.6396484375,
+            "b": 297.6023864746094,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2553,10 +2580,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 33.85710525512695,
-            "t": 158.27099609375,
-            "r": 132.70237731933594,
-            "b": 63.6090087890625,
+            "l": 33.85519027709961,
+            "t": 158.2713623046875,
+            "r": 132.70352172851562,
+            "b": 63.60858154296875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2586,10 +2613,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 161.12435913085938,
-            "t": 82.1075439453125,
-            "r": 286.41436767578125,
-            "b": 63.72186279296875,
+            "l": 161.123046875,
+            "t": 82.10845947265625,
+            "r": 286.415283203125,
+            "b": 63.72149658203125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2619,10 +2646,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 48.01054382324219,
-            "t": 167.26425170898438,
-            "r": 135.61940002441406,
-            "b": 151.057373046875,
+            "l": 48.01017761230469,
+            "t": 167.26419067382812,
+            "r": 135.62124633789062,
+            "b": 151.0577392578125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2648,10 +2675,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 221.17161560058594,
-            "t": 194.66580200195312,
-            "r": 239.23277282714844,
-            "b": 179.826171875,
+            "l": 221.1688995361328,
+            "t": 194.66726684570312,
+            "r": 239.2332763671875,
+            "b": 179.82623291015625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2677,10 +2704,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 244.8651885986328,
-            "t": 195.15594482421875,
-            "r": 262.7529296875,
-            "b": 179.6761474609375,
+            "l": 244.86404418945312,
+            "t": 195.15847778320312,
+            "r": 262.7539367675781,
+            "b": 179.67697143554688,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2710,10 +2737,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 233.18789672851562,
-            "t": 166.8084716796875,
-            "r": 334.1833801269531,
-            "b": 149.797607421875,
+            "l": 233.18528747558594,
+            "t": 166.80941772460938,
+            "r": 334.18536376953125,
+            "b": 149.79714965820312,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2756,6 +2783,9 @@
         },
         {
           "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
         }
       ],
       "content_layer": "body",
@@ -2764,10 +2794,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 48.535552978515625,
-            "t": 584.7993354797363,
-            "r": 343.1175842285156,
-            "b": 364.3116455078125,
+            "l": 48.535221099853516,
+            "t": 584.8000564575195,
+            "r": 343.1182556152344,
+            "b": 364.31150817871094,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2792,7 +2822,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/76"
+          "$ref": "#/texts/77"
         }
       ],
       "content_layer": "body",
@@ -2801,10 +2831,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 36.881317138671875,
-            "t": 157.53744506835938,
-            "r": 154.86993408203125,
-            "b": 86.5828857421875,
+            "l": 36.880859375,
+            "t": 157.53787231445312,
+            "r": 154.8704833984375,
+            "b": 86.58245849609375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2815,7 +2845,7 @@
       ],
       "captions": [
         {
-          "$ref": "#/texts/76"
+          "$ref": "#/texts/77"
         }
       ],
       "references": [],

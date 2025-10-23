@@ -120,10 +120,10 @@
         "$ref": "#/texts/48"
       },
       {
-        "$ref": "#/pictures/6"
+        "$ref": "#/texts/49"
       },
       {
-        "$ref": "#/texts/49"
+        "$ref": "#/pictures/6"
       },
       {
         "$ref": "#/texts/50"
@@ -132,22 +132,22 @@
         "$ref": "#/texts/51"
       },
       {
+        "$ref": "#/texts/52"
+      },
+      {
         "$ref": "#/pictures/7"
       },
       {
-        "$ref": "#/texts/60"
+        "$ref": "#/texts/61"
       },
       {
-        "$ref": "#/texts/61"
+        "$ref": "#/texts/62"
       },
       {
         "$ref": "#/pictures/8"
       },
       {
         "$ref": "#/pictures/9"
-      },
-      {
-        "$ref": "#/texts/62"
       },
       {
         "$ref": "#/texts/63"
@@ -159,10 +159,10 @@
         "$ref": "#/texts/65"
       },
       {
-        "$ref": "#/pictures/10"
+        "$ref": "#/texts/66"
       },
       {
-        "$ref": "#/texts/66"
+        "$ref": "#/pictures/10"
       },
       {
         "$ref": "#/texts/67"
@@ -207,6 +207,9 @@
         "$ref": "#/texts/80"
       },
       {
+        "$ref": "#/texts/81"
+      },
+      {
         "$ref": "#/groups/1"
       },
       {
@@ -214,9 +217,6 @@
       },
       {
         "$ref": "#/pictures/12"
-      },
-      {
-        "$ref": "#/texts/83"
       },
       {
         "$ref": "#/texts/84"
@@ -249,10 +249,10 @@
         "$ref": "#/texts/93"
       },
       {
-        "$ref": "#/pictures/13"
+        "$ref": "#/texts/94"
       },
       {
-        "$ref": "#/texts/94"
+        "$ref": "#/pictures/13"
       },
       {
         "$ref": "#/texts/95"
@@ -306,10 +306,10 @@
         "$ref": "#/texts/111"
       },
       {
-        "$ref": "#/pictures/14"
+        "$ref": "#/texts/112"
       },
       {
-        "$ref": "#/texts/113"
+        "$ref": "#/pictures/14"
       },
       {
         "$ref": "#/texts/114"
@@ -372,6 +372,9 @@
         "$ref": "#/texts/133"
       },
       {
+        "$ref": "#/texts/134"
+      },
+      {
         "$ref": "#/pictures/15"
       },
       {
@@ -381,16 +384,13 @@
         "$ref": "#/pictures/17"
       },
       {
-        "$ref": "#/texts/138"
-      },
-      {
         "$ref": "#/texts/139"
       },
       {
         "$ref": "#/pictures/18"
       },
       {
-        "$ref": "#/texts/153"
+        "$ref": "#/pictures/19"
       },
       {
         "$ref": "#/texts/154"
@@ -429,10 +429,10 @@
         "$ref": "#/texts/165"
       },
       {
-        "$ref": "#/pictures/19"
+        "$ref": "#/texts/166"
       },
       {
-        "$ref": "#/texts/166"
+        "$ref": "#/pictures/20"
       },
       {
         "$ref": "#/texts/167"
@@ -498,10 +498,10 @@
         "$ref": "#/texts/187"
       },
       {
-        "$ref": "#/pictures/20"
+        "$ref": "#/texts/188"
       },
       {
-        "$ref": "#/texts/188"
+        "$ref": "#/pictures/21"
       },
       {
         "$ref": "#/texts/189"
@@ -525,10 +525,10 @@
         "$ref": "#/texts/195"
       },
       {
-        "$ref": "#/pictures/21"
+        "$ref": "#/texts/196"
       },
       {
-        "$ref": "#/texts/198"
+        "$ref": "#/pictures/22"
       },
       {
         "$ref": "#/texts/199"
@@ -612,10 +612,10 @@
         "$ref": "#/texts/225"
       },
       {
-        "$ref": "#/pictures/22"
+        "$ref": "#/texts/226"
       },
       {
-        "$ref": "#/texts/226"
+        "$ref": "#/pictures/23"
       },
       {
         "$ref": "#/texts/227"
@@ -636,10 +636,10 @@
         "$ref": "#/texts/232"
       },
       {
-        "$ref": "#/tables/0"
+        "$ref": "#/texts/233"
       },
       {
-        "$ref": "#/texts/233"
+        "$ref": "#/tables/0"
       },
       {
         "$ref": "#/texts/234"
@@ -655,6 +655,9 @@
       },
       {
         "$ref": "#/texts/238"
+      },
+      {
+        "$ref": "#/texts/239"
       }
     ],
     "content_layer": "body",
@@ -701,7 +704,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/81"
+          "$ref": "#/texts/82"
         }
       ],
       "content_layer": "body",
@@ -2035,21 +2038,48 @@
           "bbox": {
             "l": 432.027,
             "t": 525.29,
-            "r": 462.791,
+            "r": 452.965,
             "b": 517.203,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             0,
-            8
+            6
           ]
         }
       ],
-      "orig": "TIENDA ć",
-      "text": "TIENDA ć"
+      "orig": "TIENDA",
+      "text": "TIENDA"
     },
     {
       "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 457.964,
+            "t": 524.5,
+            "r": 462.791,
+            "b": 517.825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ć",
+      "text": "ć"
+    },
+    {
+      "self_ref": "#/texts/50",
       "parent": {
         "$ref": "#/body"
       },
@@ -2076,7 +2106,7 @@
       "text": "HEMEROTECA"
     },
     {
-      "self_ref": "#/texts/50",
+      "self_ref": "#/texts/51",
       "parent": {
         "$ref": "#/body"
       },
@@ -2104,7 +2134,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/51",
+      "self_ref": "#/texts/52",
       "parent": {
         "$ref": "#/body"
       },
@@ -2131,7 +2161,7 @@
       "text": "28 febrero, 2019"
     },
     {
-      "self_ref": "#/texts/52",
+      "self_ref": "#/texts/53",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -2158,7 +2188,7 @@
       "text": "ealesa"
     },
     {
-      "self_ref": "#/texts/53",
+      "self_ref": "#/texts/54",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -2185,7 +2215,7 @@
       "text": "DON CARLOS DE SUH"
     },
     {
-      "self_ref": "#/texts/54",
+      "self_ref": "#/texts/55",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -2212,7 +2242,7 @@
       "text": "DON RICARDO"
     },
     {
-      "self_ref": "#/texts/55",
+      "self_ref": "#/texts/56",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -2239,7 +2269,7 @@
       "text": "DeSalinas"
     },
     {
-      "self_ref": "#/texts/56",
+      "self_ref": "#/texts/57",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -2266,7 +2296,7 @@
       "text": "DON CLAUDIO DELA X"
     },
     {
-      "self_ref": "#/texts/57",
+      "self_ref": "#/texts/58",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -2293,7 +2323,7 @@
       "text": "GONZALEZ"
     },
     {
-      "self_ref": "#/texts/58",
+      "self_ref": "#/texts/59",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -2320,7 +2350,7 @@
       "text": "Duque d"
     },
     {
-      "self_ref": "#/texts/59",
+      "self_ref": "#/texts/60",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -2347,7 +2377,7 @@
       "text": "ARISTOTELES NÚNEZ"
     },
     {
-      "self_ref": "#/texts/60",
+      "self_ref": "#/texts/61",
       "parent": {
         "$ref": "#/body"
       },
@@ -2374,7 +2404,7 @@
       "text": "Monosapiens"
     },
     {
-      "self_ref": "#/texts/61",
+      "self_ref": "#/texts/62",
       "parent": {
         "$ref": "#/body"
       },
@@ -2401,7 +2431,7 @@
       "text": "LO MÁS LEÍDO"
     },
     {
-      "self_ref": "#/texts/62",
+      "self_ref": "#/texts/63",
       "parent": {
         "$ref": "#/body"
       },
@@ -2428,7 +2458,7 @@
       "text": "ć"
     },
     {
-      "self_ref": "#/texts/63",
+      "self_ref": "#/texts/64",
       "parent": {
         "$ref": "#/body"
       },
@@ -2455,7 +2485,7 @@
       "text": "27 FEBRERO, 2019"
     },
     {
-      "self_ref": "#/texts/64",
+      "self_ref": "#/texts/65",
       "parent": {
         "$ref": "#/body"
       },
@@ -2482,7 +2512,7 @@
       "text": "Karime Macías vive 'austeramente' en Londres con 180 mil pesos mensuales: Javier Duarte"
     },
     {
-      "self_ref": "#/texts/65",
+      "self_ref": "#/texts/66",
       "parent": {
         "$ref": "#/body"
       },
@@ -2509,7 +2539,7 @@
       "text": "28 FEBRERO, 2019"
     },
     {
-      "self_ref": "#/texts/66",
+      "self_ref": "#/texts/67",
       "parent": {
         "$ref": "#/body"
       },
@@ -2536,7 +2566,7 @@
       "text": "Madre de Martha Erika reclama a AMLO postulación de Barbosa; 'tiene"
     },
     {
-      "self_ref": "#/texts/67",
+      "self_ref": "#/texts/68",
       "parent": {
         "$ref": "#/body"
       },
@@ -2563,7 +2593,7 @@
       "text": "https://www.proceso.com.mx/341535/madres-de-desaparecidos-inician-ayuno-frente-a-la-pgr"
     },
     {
-      "self_ref": "#/texts/68",
+      "self_ref": "#/texts/69",
       "parent": {
         "$ref": "#/body"
       },
@@ -2590,7 +2620,7 @@
       "text": "1/8"
     },
     {
-      "self_ref": "#/texts/69",
+      "self_ref": "#/texts/70",
       "parent": {
         "$ref": "#/body"
       },
@@ -2617,7 +2647,7 @@
       "text": "2/28/2019"
     },
     {
-      "self_ref": "#/texts/70",
+      "self_ref": "#/texts/71",
       "parent": {
         "$ref": "#/body"
       },
@@ -2644,7 +2674,7 @@
       "text": "Madres de desaparecidos inician ayuno frente a la PGR - Proceso"
     },
     {
-      "self_ref": "#/texts/71",
+      "self_ref": "#/texts/72",
       "parent": {
         "$ref": "#/body"
       },
@@ -2671,7 +2701,7 @@
       "text": "Las mujeres y el puñado de hombres llegaron de Michoacán, Jalisco, San Luis Potosí, Estado de México, Chihuahua, Coahuila, Veracruz y Distrito Federal para instalarse en la lateral de la avenida Reforma. No probarán bocado hasta que el procurador Jesús Murillo Karam o Peña Nieto las atiendan."
     },
     {
-      "self_ref": "#/texts/72",
+      "self_ref": "#/texts/73",
       "parent": {
         "$ref": "#/body"
       },
@@ -2698,7 +2728,7 @@
       "text": "."
     },
     {
-      "self_ref": "#/texts/73",
+      "self_ref": "#/texts/74",
       "parent": {
         "$ref": "#/body"
       },
@@ -2725,7 +2755,7 @@
       "text": "Ultimate Pet Nutrition Cats Are Eating This And Transforming Their Health"
     },
     {
-      "self_ref": "#/texts/74",
+      "self_ref": "#/texts/75",
       "parent": {
         "$ref": "#/body"
       },
@@ -2752,7 +2782,7 @@
       "text": "Yahoo Search Estos nuevos SUV crossover te dejarán sin aliento"
     },
     {
-      "self_ref": "#/texts/75",
+      "self_ref": "#/texts/76",
       "parent": {
         "$ref": "#/body"
       },
@@ -2779,7 +2809,7 @@
       "text": "JuveTress Revitalizing Hair Therapy Doctors Humble Hair Hack Does Wonders For Thinning Hair"
     },
     {
-      "self_ref": "#/texts/76",
+      "self_ref": "#/texts/77",
       "parent": {
         "$ref": "#/body"
       },
@@ -2806,7 +2836,7 @@
       "text": "You're Probably Overpaying at Amazon - This Genius Trick Will Fix That Honey"
     },
     {
-      "self_ref": "#/texts/77",
+      "self_ref": "#/texts/78",
       "parent": {
         "$ref": "#/body"
       },
@@ -2833,7 +2863,7 @@
       "text": "A la cabeza se encuentra Margarita López, madre de Yahaira Guadalupe Baena -veinteañera desaparecida en Oaxaca el 13 de abril de 2011-, quien había realizado un ayuno de diez días frente a la Secretaría de Gobernación apenas en noviembre anterior."
     },
     {
-      "self_ref": "#/texts/78",
+      "self_ref": "#/texts/79",
       "parent": {
         "$ref": "#/body"
       },
@@ -2860,7 +2890,7 @@
       "text": "Ella y las demás manifestantes mostraron su enojo debido a que desde que comenzó el gobierno priista, en la Procuraduría General de la República (PGR) les han dicho que no tienen recursos para hacer las diligencias correspondientes para encontrar a sus hijos vivos o muertos, y que Províctima tampoco tiene presupuesto para atenderlas."
     },
     {
-      "self_ref": "#/texts/79",
+      "self_ref": "#/texts/80",
       "parent": {
         "$ref": "#/body"
       },
@@ -2887,7 +2917,7 @@
       "text": "A las once de la mañana, el subprocurador de Derechos Humanos, Ricardo García Cervantes, salió a escuchar los reclamos. Anunció que Murillo está de viaje y advirtió que no podría garantizar la seguridad de las manifestantes ni proporcionarles electricidad o acceso al baño, como ellas pedían."
     },
     {
-      "self_ref": "#/texts/80",
+      "self_ref": "#/texts/81",
       "parent": {
         "$ref": "#/body"
       },
@@ -2914,7 +2944,7 @@
       "text": "'Queremos que se pongan a trabajar, que veamos su trabajo, que encuentren a dos, tres personas desaparecidas, o al menos a una, para que sepamos que los están buscando', le increpó un anciano, quien se presentó como padre de un hijo asesinado hace seis años."
     },
     {
-      "self_ref": "#/texts/81",
+      "self_ref": "#/texts/82",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -2941,7 +2971,7 @@
       "text": "Enlaces Patrocinados por Taboola"
     },
     {
-      "self_ref": "#/texts/82",
+      "self_ref": "#/texts/83",
       "parent": {
         "$ref": "#/pictures/12"
       },
@@ -2969,7 +2999,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/83",
+      "self_ref": "#/texts/84",
       "parent": {
         "$ref": "#/body"
       },
@@ -2996,7 +3026,7 @@
       "text": "27 febrero, 2019"
     },
     {
-      "self_ref": "#/texts/84",
+      "self_ref": "#/texts/85",
       "parent": {
         "$ref": "#/body"
       },
@@ -3023,7 +3053,7 @@
       "text": "'Tatuajes. Magia sobre la piel' entinta la FIL de Minería"
     },
     {
-      "self_ref": "#/texts/85",
+      "self_ref": "#/texts/86",
       "parent": {
         "$ref": "#/body"
       },
@@ -3051,7 +3081,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/86",
+      "self_ref": "#/texts/87",
       "parent": {
         "$ref": "#/body"
       },
@@ -3078,7 +3108,7 @@
       "text": "CIUDAD DE MÉXICO (apro).- Dos visiones del signi¡cado del tatuaje se conjuntaron la tarde de este miércoles en la XL Feria Internacional del Libro del Palacio de Minería: la tinta en la piel 'que da libertad y autonomía' y la que 'da fuerza y poder'. Durante la presentación de la edición especial de Proceso, Tatuajes."
     },
     {
-      "self_ref": "#/texts/87",
+      "self_ref": "#/texts/88",
       "parent": {
         "$ref": "#/body"
       },
@@ -3119,7 +3149,7 @@
       "text": "Leer más las manos manchadas de sangre', a}rma"
     },
     {
-      "self_ref": "#/texts/88",
+      "self_ref": "#/texts/89",
       "parent": {
         "$ref": "#/body"
       },
@@ -3146,7 +3176,7 @@
       "text": "27 FEBRERO, 2019"
     },
     {
-      "self_ref": "#/texts/89",
+      "self_ref": "#/texts/90",
       "parent": {
         "$ref": "#/body"
       },
@@ -3173,7 +3203,7 @@
       "text": "El PRI solicitará un préstamo bancario por 250 millones de pesos"
     },
     {
-      "self_ref": "#/texts/90",
+      "self_ref": "#/texts/91",
       "parent": {
         "$ref": "#/body"
       },
@@ -3200,7 +3230,7 @@
       "text": "27 FEBRERO, 2019"
     },
     {
-      "self_ref": "#/texts/91",
+      "self_ref": "#/texts/92",
       "parent": {
         "$ref": "#/body"
       },
@@ -3227,7 +3257,7 @@
       "text": "En narcomantas, }scal michoacano es aconsejado por 'El señor de los gallos', el otro alias de El Mencho"
     },
     {
-      "self_ref": "#/texts/92",
+      "self_ref": "#/texts/93",
       "parent": {
         "$ref": "#/body"
       },
@@ -3254,7 +3284,7 @@
       "text": "27 FEBRERO, 2019"
     },
     {
-      "self_ref": "#/texts/93",
+      "self_ref": "#/texts/94",
       "parent": {
         "$ref": "#/body"
       },
@@ -3281,7 +3311,7 @@
       "text": "La Guardia Nacional"
     },
     {
-      "self_ref": "#/texts/94",
+      "self_ref": "#/texts/95",
       "parent": {
         "$ref": "#/body"
       },
@@ -3308,7 +3338,7 @@
       "text": "https://www.proceso.com.mx/341535/madres-de-desaparecidos-inician-ayuno-frente-a-la-pgr"
     },
     {
-      "self_ref": "#/texts/95",
+      "self_ref": "#/texts/96",
       "parent": {
         "$ref": "#/body"
       },
@@ -3335,7 +3365,7 @@
       "text": "2/8"
     },
     {
-      "self_ref": "#/texts/96",
+      "self_ref": "#/texts/97",
       "parent": {
         "$ref": "#/body"
       },
@@ -3362,7 +3392,7 @@
       "text": "2/28/2019"
     },
     {
-      "self_ref": "#/texts/97",
+      "self_ref": "#/texts/98",
       "parent": {
         "$ref": "#/body"
       },
@@ -3389,7 +3419,7 @@
       "text": "Madres de desaparecidos inician ayuno frente a la PGR - Proceso"
     },
     {
-      "self_ref": "#/texts/98",
+      "self_ref": "#/texts/99",
       "parent": {
         "$ref": "#/body"
       },
@@ -3416,7 +3446,7 @@
       "text": "Sin embargo, el funcionario federal argumentó que sería irresponsable hacer esa promesa y admitió que la PGR está en reestructuración y que faltan recursos."
     },
     {
-      "self_ref": "#/texts/99",
+      "self_ref": "#/texts/100",
       "parent": {
         "$ref": "#/body"
       },
@@ -3443,7 +3473,7 @@
       "text": "El campamento consta de un toldo blanco, a manera de techo, y debajo un colchón in¢able, donde dormía una niña, y una mesa de plástico con botellas de agua y miel. Las madres estaban sentadas en la banqueta de la avenida."
     },
     {
-      "self_ref": "#/texts/100",
+      "self_ref": "#/texts/101",
       "parent": {
         "$ref": "#/body"
       },
@@ -3470,7 +3500,7 @@
       "text": "Una manta, con las fotografías de los funcionarios peñistas, expresaba el enojo: 'Sr. Presidente: no hay respuesta en su palabra empeñada con las víctimas de los desaparecidos. Sr. Secretario ¿Cuántas promesas más sin cumplir? Sr. Procurador ¿quién los está buscando? Sr. Comisionado ¿dónde está su unidad especializada para la búsqueda de los desaparecidos?'."
     },
     {
-      "self_ref": "#/texts/101",
+      "self_ref": "#/texts/102",
       "parent": {
         "$ref": "#/body"
       },
@@ -3497,7 +3527,7 @@
       "text": "Al mediodía visitaron el campamento tres legisladores del Movimiento Ciudadano (MC), quienes escucharon los reclamos de las familias. Ante esta situación, la diputada Luisa María Alcalde Luján criticó la postura de la PGR:"
     },
     {
-      "self_ref": "#/texts/102",
+      "self_ref": "#/texts/103",
       "parent": {
         "$ref": "#/body"
       },
@@ -3524,7 +3554,7 @@
       "text": "'Acabamos de aprobar el presupuesto y a la PGR se le destinaron muchos millones de pesos, la falta de dinero es una excusa cínica, no puede ser pretexto para no trabajar. No es posible que haya víctimas de primera y de segunda', expresó."
     },
     {
-      "self_ref": "#/texts/103",
+      "self_ref": "#/texts/104",
       "parent": {
         "$ref": "#/body"
       },
@@ -3551,7 +3581,7 @@
       "text": "Atanasio Rodríguez, padre de Alejandro Rodríguez González, quien fue retenido por las patrullas 1250 y 1440 de San Luis Potosí el 19 de julio de 2010, señaló enojado:"
     },
     {
-      "self_ref": "#/texts/104",
+      "self_ref": "#/texts/105",
       "parent": {
         "$ref": "#/body"
       },
@@ -3578,7 +3608,7 @@
       "text": "'Lo único que nos interesa es que se pongan a trabajar. Me dijeron que no hay recursos para que los ministerios públicos salgan a investigar y que yo viera cómo hacerle para que ellos tuvieran recursos. Entonces, cuando no es un pretexto es otro, siempre se justi¡can'."
     },
     {
-      "self_ref": "#/texts/105",
+      "self_ref": "#/texts/106",
       "parent": {
         "$ref": "#/body"
       },
@@ -3605,7 +3635,7 @@
       "text": "Un caso parecido es el de Margarita López, a quien sólo le falta una diligencia a Oaxaca para exhumar el cadáver donde los asesinos de su hija aseguran que la enterraron después de torturarla."
     },
     {
-      "self_ref": "#/texts/106",
+      "self_ref": "#/texts/107",
       "parent": {
         "$ref": "#/body"
       },
@@ -3632,7 +3662,7 @@
       "text": "Sin embargo, expresó la mujer michoacana, aunque ella ha ofrecido pagar por el viaje, en la PGR le dicen que no."
     },
     {
-      "self_ref": "#/texts/107",
+      "self_ref": "#/texts/108",
       "parent": {
         "$ref": "#/body"
       },
@@ -3659,7 +3689,7 @@
       "text": "Las otras mujeres en huelga de hambre son Dolores Rodríguez Rodríguez, esposa de Jaime Olivares y madre de Juan Eduardo Olivares Rodríguez, desaparecidos el 1 de septiembre de 2011 en Tampico, Tamaulipas."
     },
     {
-      "self_ref": "#/texts/108",
+      "self_ref": "#/texts/109",
       "parent": {
         "$ref": "#/body"
       },
@@ -3686,7 +3716,7 @@
       "text": "Ana María Maldonado, madre de Carlos Palomares Maldonado, joven desaparecido en la Ciudad de México el 22 de septiembre de 2010."
     },
     {
-      "self_ref": "#/texts/109",
+      "self_ref": "#/texts/110",
       "parent": {
         "$ref": "#/body"
       },
@@ -3713,7 +3743,7 @@
       "text": "Irma Alicia Trejo Trejo, madre de Francisco Albavera Trejo, de 22 años y desaparecido el 26 de marzo de 2011 en el Distrito Federal."
     },
     {
-      "self_ref": "#/texts/110",
+      "self_ref": "#/texts/111",
       "parent": {
         "$ref": "#/body"
       },
@@ -3740,7 +3770,7 @@
       "text": "Además de Nancy Rosete Núñez, madre de Elvis Axell Torres, de 17 años, desaparecido el 30 de diciembre de 2010 cuando salió del Estado de México rumbo a Tamaulipas con otros compañeros."
     },
     {
-      "self_ref": "#/texts/111",
+      "self_ref": "#/texts/112",
       "parent": {
         "$ref": "#/body"
       },
@@ -3767,7 +3797,7 @@
       "text": "También Erika Montes de Oca Marín, madre de Sergio Eduardo Guillén Montes de Oca, de 27 años y desaparecido el 28 de noviembre pasado en la Ciudad de México."
     },
     {
-      "self_ref": "#/texts/112",
+      "self_ref": "#/texts/113",
       "parent": {
         "$ref": "#/pictures/14"
       },
@@ -3794,7 +3824,7 @@
       "text": "Sánchez Cordero identifica a Pueblos sin Fronteras como reclutador de caravanas migrantes - Proceso"
     },
     {
-      "self_ref": "#/texts/113",
+      "self_ref": "#/texts/114",
       "parent": {
         "$ref": "#/body"
       },
@@ -3821,7 +3851,7 @@
       "text": "LO MÁS RECIENTE"
     },
     {
-      "self_ref": "#/texts/114",
+      "self_ref": "#/texts/115",
       "parent": {
         "$ref": "#/body"
       },
@@ -3848,7 +3878,7 @@
       "text": "28 FEBRERO, 2019"
     },
     {
-      "self_ref": "#/texts/115",
+      "self_ref": "#/texts/116",
       "parent": {
         "$ref": "#/body"
       },
@@ -3875,7 +3905,7 @@
       "text": "Sánchez Cordero identi}ca a Pueblos sin Fronteras como reclutador de caravanas migrantes"
     },
     {
-      "self_ref": "#/texts/116",
+      "self_ref": "#/texts/117",
       "parent": {
         "$ref": "#/body"
       },
@@ -3902,7 +3932,7 @@
       "text": "28 FEBRERO, 2019"
     },
     {
-      "self_ref": "#/texts/117",
+      "self_ref": "#/texts/118",
       "parent": {
         "$ref": "#/body"
       },
@@ -3929,7 +3959,7 @@
       "text": "Anuncian coordinadores parlamentarios en San Lázaro voto unánime a dictamen de la Guardia Nacional"
     },
     {
-      "self_ref": "#/texts/118",
+      "self_ref": "#/texts/119",
       "parent": {
         "$ref": "#/body"
       },
@@ -3956,7 +3986,7 @@
       "text": "28 FEBRERO, 2019"
     },
     {
-      "self_ref": "#/texts/119",
+      "self_ref": "#/texts/120",
       "parent": {
         "$ref": "#/body"
       },
@@ -3983,7 +4013,7 @@
       "text": "'Si la colonia hablara': El racismo pisa fuerte"
     },
     {
-      "self_ref": "#/texts/120",
+      "self_ref": "#/texts/121",
       "parent": {
         "$ref": "#/body"
       },
@@ -4010,7 +4040,7 @@
       "text": "28 FEBRERO, 2019"
     },
     {
-      "self_ref": "#/texts/121",
+      "self_ref": "#/texts/122",
       "parent": {
         "$ref": "#/body"
       },
@@ -4037,7 +4067,7 @@
       "text": "Funcionarios del IFT se ajustan el sueldo para ganar menos que AMLO"
     },
     {
-      "self_ref": "#/texts/122",
+      "self_ref": "#/texts/123",
       "parent": {
         "$ref": "#/body"
       },
@@ -4064,7 +4094,7 @@
       "text": "28 FEBRERO, 2019"
     },
     {
-      "self_ref": "#/texts/123",
+      "self_ref": "#/texts/124",
       "parent": {
         "$ref": "#/body"
       },
@@ -4091,7 +4121,7 @@
       "text": "https://www.proceso.com.mx/341535/madres-de-desaparecidos-inician-ayuno-frente-a-la-pgr"
     },
     {
-      "self_ref": "#/texts/124",
+      "self_ref": "#/texts/125",
       "parent": {
         "$ref": "#/body"
       },
@@ -4118,7 +4148,7 @@
       "text": "3/8"
     },
     {
-      "self_ref": "#/texts/125",
+      "self_ref": "#/texts/126",
       "parent": {
         "$ref": "#/body"
       },
@@ -4145,7 +4175,7 @@
       "text": "2/28/2019"
     },
     {
-      "self_ref": "#/texts/126",
+      "self_ref": "#/texts/127",
       "parent": {
         "$ref": "#/body"
       },
@@ -4172,7 +4202,7 @@
       "text": "Madres de desaparecidos inician ayuno frente a la PGR - Proceso"
     },
     {
-      "self_ref": "#/texts/127",
+      "self_ref": "#/texts/128",
       "parent": {
         "$ref": "#/body"
       },
@@ -4199,7 +4229,7 @@
       "text": "Asimismo, Gabriela Sánchez López, madre de una menor de edad discapacitada víctima de violación y desplazada de Jalisco por la violencia; María Natividad Guerrero Sedano, madre de Dalia Guadalupe Cruz Guerrero y suegra de Luis Ramón Enciso Ramírez, desaparecidos con otra pareja en Caleras, Zacatecas."
     },
     {
-      "self_ref": "#/texts/128",
+      "self_ref": "#/texts/129",
       "parent": {
         "$ref": "#/body"
       },
@@ -4226,7 +4256,7 @@
       "text": "Por último, Guadalupe Aguilar, madre de José Luis Arana Aguilar, desaparecido el 17 de enero de 2011 en Jalisco."
     },
     {
-      "self_ref": "#/texts/129",
+      "self_ref": "#/texts/130",
       "parent": {
         "$ref": "#/body"
       },
@@ -4253,7 +4283,7 @@
       "text": "Sin fecha para depurar lista de desaparecidos: Segob"
     },
     {
-      "self_ref": "#/texts/130",
+      "self_ref": "#/texts/131",
       "parent": {
         "$ref": "#/body"
       },
@@ -4280,7 +4310,7 @@
       "text": "Lía Limón, subsecretaria de Derechos Humanos de la Segob, admitió este jueves que aún no existe una fecha para que el gobierno federal depure la lista de 26 mil 121 desaparecidos que dio a conocer en febrero anterior."
     },
     {
-      "self_ref": "#/texts/131",
+      "self_ref": "#/texts/132",
       "parent": {
         "$ref": "#/body"
       },
@@ -4307,7 +4337,7 @@
       "text": "En el marco del anuncio de la convocatoria para integrar la Comisión Ejecutiva de Atención a Víctimas, la funcionaria señaló que ese es un trabajo que realizan los centros nacionales de Información y el de Planeación, Análisis e Información para el Combate a la Delincuencia de la PGR con las ¡scalías estatales."
     },
     {
-      "self_ref": "#/texts/132",
+      "self_ref": "#/texts/133",
       "parent": {
         "$ref": "#/body"
       },
@@ -4334,7 +4364,7 @@
       "text": "También recordó que la Comisión de Atención a Víctimas tendrá entre sus tareas realizar un registro de las personas desaparecidas o no localizadas, así como administrar el fondo de reparación del daño creado con la Ley General de Víctimas reformada y vigente desde el 3 de mayo pasado."
     },
     {
-      "self_ref": "#/texts/133",
+      "self_ref": "#/texts/134",
       "parent": {
         "$ref": "#/body"
       },
@@ -4362,7 +4392,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/134",
+      "self_ref": "#/texts/135",
       "parent": {
         "$ref": "#/pictures/15"
       },
@@ -4389,7 +4419,7 @@
       "text": "¬"
     },
     {
-      "self_ref": "#/texts/135",
+      "self_ref": "#/texts/136",
       "parent": {
         "$ref": "#/pictures/16"
       },
@@ -4416,7 +4446,7 @@
       "text": "­"
     },
     {
-      "self_ref": "#/texts/136",
+      "self_ref": "#/texts/137",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -4443,7 +4473,7 @@
       "text": "Õ"
     },
     {
-      "self_ref": "#/texts/137",
+      "self_ref": "#/texts/138",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -4470,7 +4500,7 @@
       "text": "+NaN.5K"
     },
     {
-      "self_ref": "#/texts/138",
+      "self_ref": "#/texts/139",
       "parent": {
         "$ref": "#/body"
       },
@@ -4497,9 +4527,9 @@
       "text": "ACERCA DEL AUTOR"
     },
     {
-      "self_ref": "#/texts/139",
+      "self_ref": "#/texts/140",
       "parent": {
-        "$ref": "#/body"
+        "$ref": "#/pictures/18"
       },
       "children": [],
       "content_layer": "body",
@@ -4524,9 +4554,9 @@
       "text": "MARCELA TURATI"
     },
     {
-      "self_ref": "#/texts/140",
+      "self_ref": "#/texts/141",
       "parent": {
-        "$ref": "#/pictures/18"
+        "$ref": "#/pictures/19"
       },
       "children": [],
       "content_layer": "body",
@@ -4551,9 +4581,9 @@
       "text": "video playing"
     },
     {
-      "self_ref": "#/texts/141",
+      "self_ref": "#/texts/142",
       "parent": {
-        "$ref": "#/pictures/18"
+        "$ref": "#/pictures/19"
       },
       "children": [],
       "content_layer": "body",
@@ -4578,9 +4608,9 @@
       "text": "El éxodo del"
     },
     {
-      "self_ref": "#/texts/142",
+      "self_ref": "#/texts/143",
       "parent": {
-        "$ref": "#/pictures/18"
+        "$ref": "#/pictures/19"
       },
       "children": [],
       "content_layer": "body",
@@ -4605,9 +4635,9 @@
       "text": "miedo"
     },
     {
-      "self_ref": "#/texts/143",
+      "self_ref": "#/texts/144",
       "parent": {
-        "$ref": "#/pictures/18"
+        "$ref": "#/pictures/19"
       },
       "children": [],
       "content_layer": "body",
@@ -4632,9 +4662,9 @@
       "text": "15/01/13"
     },
     {
-      "self_ref": "#/texts/144",
+      "self_ref": "#/texts/145",
       "parent": {
-        "$ref": "#/pictures/18"
+        "$ref": "#/pictures/19"
       },
       "children": [],
       "content_layer": "body",
@@ -4659,9 +4689,9 @@
       "text": "Tiran busto de"
     },
     {
-      "self_ref": "#/texts/145",
+      "self_ref": "#/texts/146",
       "parent": {
-        "$ref": "#/pictures/18"
+        "$ref": "#/pictures/19"
       },
       "children": [],
       "content_layer": "body",
@@ -4686,9 +4716,9 @@
       "text": "Mouriño en..."
     },
     {
-      "self_ref": "#/texts/146",
+      "self_ref": "#/texts/147",
       "parent": {
-        "$ref": "#/pictures/18"
+        "$ref": "#/pictures/19"
       },
       "children": [],
       "content_layer": "body",
@@ -4713,9 +4743,9 @@
       "text": "15/12/12"
     },
     {
-      "self_ref": "#/texts/147",
+      "self_ref": "#/texts/148",
       "parent": {
-        "$ref": "#/pictures/18"
+        "$ref": "#/pictures/19"
       },
       "children": [],
       "content_layer": "body",
@@ -4740,9 +4770,9 @@
       "text": "Traslado del"
     },
     {
-      "self_ref": "#/texts/148",
+      "self_ref": "#/texts/149",
       "parent": {
-        "$ref": "#/pictures/18"
+        "$ref": "#/pictures/19"
       },
       "children": [],
       "content_layer": "body",
@@ -4767,9 +4797,9 @@
       "text": "hijo de \"El..."
     },
     {
-      "self_ref": "#/texts/149",
+      "self_ref": "#/texts/150",
       "parent": {
-        "$ref": "#/pictures/18"
+        "$ref": "#/pictures/19"
       },
       "children": [],
       "content_layer": "body",
@@ -4794,9 +4824,9 @@
       "text": "22/06/12"
     },
     {
-      "self_ref": "#/texts/150",
+      "self_ref": "#/texts/151",
       "parent": {
-        "$ref": "#/pictures/18"
+        "$ref": "#/pictures/19"
       },
       "children": [],
       "content_layer": "body",
@@ -4821,9 +4851,9 @@
       "text": "Estrena AMLO"
     },
     {
-      "self_ref": "#/texts/151",
+      "self_ref": "#/texts/152",
       "parent": {
-        "$ref": "#/pictures/18"
+        "$ref": "#/pictures/19"
       },
       "children": [],
       "content_layer": "body",
@@ -4848,9 +4878,9 @@
       "text": "anuncios..."
     },
     {
-      "self_ref": "#/texts/152",
+      "self_ref": "#/texts/153",
       "parent": {
-        "$ref": "#/pictures/18"
+        "$ref": "#/pictures/19"
       },
       "children": [],
       "content_layer": "body",
@@ -4875,7 +4905,7 @@
       "text": "11/06/12"
     },
     {
-      "self_ref": "#/texts/153",
+      "self_ref": "#/texts/154",
       "parent": {
         "$ref": "#/body"
       },
@@ -4902,7 +4932,7 @@
       "text": "11/06/12"
     },
     {
-      "self_ref": "#/texts/154",
+      "self_ref": "#/texts/155",
       "parent": {
         "$ref": "#/body"
       },
@@ -4929,7 +4959,7 @@
       "text": "Seguir a @marcelaturati"
     },
     {
-      "self_ref": "#/texts/155",
+      "self_ref": "#/texts/156",
       "parent": {
         "$ref": "#/body"
       },
@@ -4956,7 +4986,7 @@
       "text": "AMLO justi}ca reducción de la previsión de crecimiento de Banxico; 'estamos empezando', dice"
     },
     {
-      "self_ref": "#/texts/156",
+      "self_ref": "#/texts/157",
       "parent": {
         "$ref": "#/body"
       },
@@ -4984,7 +5014,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/157",
+      "self_ref": "#/texts/158",
       "parent": {
         "$ref": "#/body"
       },
@@ -5011,7 +5041,7 @@
       "text": "27 febrero, 2019"
     },
     {
-      "self_ref": "#/texts/158",
+      "self_ref": "#/texts/159",
       "parent": {
         "$ref": "#/body"
       },
@@ -5038,7 +5068,7 @@
       "text": "Sobre notarías asignadas por el gobierno de Guerrero"
     },
     {
-      "self_ref": "#/texts/159",
+      "self_ref": "#/texts/160",
       "parent": {
         "$ref": "#/body"
       },
@@ -5066,7 +5096,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/160",
+      "self_ref": "#/texts/161",
       "parent": {
         "$ref": "#/body"
       },
@@ -5093,7 +5123,7 @@
       "text": "Señor Director: En relación a la nota publicada en el portal proceso.com.mx sobre el procedimiento para asignar patentes de notario en el Estado de Guerrero, se informa que el proceso se realizó con total transparencia y riguroso apego a la Ley. No es correcto señalar que el gobernador del Estado, Héctor Astudillo Flores, 'se apresuró'"
     },
     {
-      "self_ref": "#/texts/161",
+      "self_ref": "#/texts/162",
       "parent": {
         "$ref": "#/body"
       },
@@ -5120,7 +5150,7 @@
       "text": "Leer más"
     },
     {
-      "self_ref": "#/texts/162",
+      "self_ref": "#/texts/163",
       "parent": {
         "$ref": "#/body"
       },
@@ -5148,7 +5178,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/163",
+      "self_ref": "#/texts/164",
       "parent": {
         "$ref": "#/body"
       },
@@ -5175,7 +5205,7 @@
       "text": "27 febrero, 2019"
     },
     {
-      "self_ref": "#/texts/164",
+      "self_ref": "#/texts/165",
       "parent": {
         "$ref": "#/body"
       },
@@ -5202,7 +5232,7 @@
       "text": "El Pemex de Lozoya sufragó desfalcos multimillonarios del empresario Massimo Covarrubias"
     },
     {
-      "self_ref": "#/texts/165",
+      "self_ref": "#/texts/166",
       "parent": {
         "$ref": "#/body"
       },
@@ -5229,7 +5259,7 @@
       "text": "Mathieu Tourliere"
     },
     {
-      "self_ref": "#/texts/166",
+      "self_ref": "#/texts/167",
       "parent": {
         "$ref": "#/body"
       },
@@ -5270,7 +5300,7 @@
       "text": "CIUDAD DE MÉXICO (Proceso).- Bajo la dirección de Emilio Lozoya Austin, Pemex no sólo se comprometió a desembolsar 635 millones de"
     },
     {
-      "self_ref": "#/texts/167",
+      "self_ref": "#/texts/168",
       "parent": {
         "$ref": "#/body"
       },
@@ -5297,7 +5327,7 @@
       "text": "dólares durante los próximos 16 años para la"
     },
     {
-      "self_ref": "#/texts/168",
+      "self_ref": "#/texts/169",
       "parent": {
         "$ref": "#/body"
       },
@@ -5324,7 +5354,7 @@
       "text": "https://www.proceso.com.mx/341535/madres-de-desaparecidos-inician-ayuno-frente-a-la-pgr"
     },
     {
-      "self_ref": "#/texts/169",
+      "self_ref": "#/texts/170",
       "parent": {
         "$ref": "#/body"
       },
@@ -5351,7 +5381,7 @@
       "text": "4/8"
     },
     {
-      "self_ref": "#/texts/170",
+      "self_ref": "#/texts/171",
       "parent": {
         "$ref": "#/body"
       },
@@ -5378,7 +5408,7 @@
       "text": "2/28/2019"
     },
     {
-      "self_ref": "#/texts/171",
+      "self_ref": "#/texts/172",
       "parent": {
         "$ref": "#/body"
       },
@@ -5405,7 +5435,7 @@
       "text": "Madres de desaparecidos inician ayuno frente a la PGR - Proceso"
     },
     {
-      "self_ref": "#/texts/172",
+      "self_ref": "#/texts/173",
       "parent": {
         "$ref": "#/body"
       },
@@ -5432,7 +5462,7 @@
       "text": "¬ (Ciudad de México, 1974) es una reportera mexicana. Ha colaborado para varios periódicos y revistas de Argentina, Chile, Colombia, Ecuador, Estados Unidos, México, Perú y Uruguay, entre algunas de ellas: Proceso, Gatopardo y Etiqueta Negra. Ha realizado labores de activismo a favor de los derechos humanos y en contra de los asesinatos y exilios de periodistas."
     },
     {
-      "self_ref": "#/texts/173",
+      "self_ref": "#/texts/174",
       "parent": {
         "$ref": "#/body"
       },
@@ -5460,7 +5490,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/174",
+      "self_ref": "#/texts/175",
       "parent": {
         "$ref": "#/body"
       },
@@ -5487,7 +5517,7 @@
       "text": "POR JUAN CARLOS CRUZ VARGAS"
     },
     {
-      "self_ref": "#/texts/175",
+      "self_ref": "#/texts/176",
       "parent": {
         "$ref": "#/body"
       },
@@ -5514,7 +5544,7 @@
       "text": "- 8 FEBRERO, 2019"
     },
     {
-      "self_ref": "#/texts/176",
+      "self_ref": "#/texts/177",
       "parent": {
         "$ref": "#/body"
       },
@@ -5541,7 +5571,7 @@
       "text": "Presentan terna para la comisión nacional de búsqueda de desaparecidos"
     },
     {
-      "self_ref": "#/texts/177",
+      "self_ref": "#/texts/178",
       "parent": {
         "$ref": "#/body"
       },
@@ -5568,7 +5598,7 @@
       "text": "POR LA REDACCIÓN"
     },
     {
-      "self_ref": "#/texts/178",
+      "self_ref": "#/texts/179",
       "parent": {
         "$ref": "#/body"
       },
@@ -5595,7 +5625,7 @@
       "text": "- 4 FEBRERO, 2019"
     },
     {
-      "self_ref": "#/texts/179",
+      "self_ref": "#/texts/180",
       "parent": {
         "$ref": "#/body"
       },
@@ -5622,7 +5652,7 @@
       "text": "El Movimiento por Nuestros Desaparecidos en México celebra plan de búsqueda anunciado por AMLO"
     },
     {
-      "self_ref": "#/texts/180",
+      "self_ref": "#/texts/181",
       "parent": {
         "$ref": "#/body"
       },
@@ -5649,7 +5679,7 @@
       "text": "POR LA REDACCIÓN"
     },
     {
-      "self_ref": "#/texts/181",
+      "self_ref": "#/texts/182",
       "parent": {
         "$ref": "#/body"
       },
@@ -5676,7 +5706,7 @@
       "text": "- 4 FEBRERO, 2019"
     },
     {
-      "self_ref": "#/texts/182",
+      "self_ref": "#/texts/183",
       "parent": {
         "$ref": "#/body"
       },
@@ -5703,7 +5733,7 @@
       "text": "México, 'una gran fosa clandestina': Encinas; presentan plan de búsqueda de desaparecidos"
     },
     {
-      "self_ref": "#/texts/183",
+      "self_ref": "#/texts/184",
       "parent": {
         "$ref": "#/body"
       },
@@ -5731,7 +5761,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/184",
+      "self_ref": "#/texts/185",
       "parent": {
         "$ref": "#/body"
       },
@@ -5758,7 +5788,7 @@
       "text": "Proceso MONTERREY, N.L., (apro).- Andrés Manuel López Obrador, presidente de México, presentó hoy el catálogo de delitos por los que podrían ser sometidos a juicio los expresidentes de …"
     },
     {
-      "self_ref": "#/texts/185",
+      "self_ref": "#/texts/186",
       "parent": {
         "$ref": "#/body"
       },
@@ -5786,7 +5816,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/186",
+      "self_ref": "#/texts/187",
       "parent": {
         "$ref": "#/body"
       },
@@ -5813,7 +5843,7 @@
       "text": "Vikings: Free Online Game | Patrocinado"
     },
     {
-      "self_ref": "#/texts/187",
+      "self_ref": "#/texts/188",
       "parent": {
         "$ref": "#/body"
       },
@@ -5840,7 +5870,7 @@
       "text": "COMENTARIOS"
     },
     {
-      "self_ref": "#/texts/188",
+      "self_ref": "#/texts/189",
       "parent": {
         "$ref": "#/body"
       },
@@ -5867,7 +5897,7 @@
       "text": "compra de Grupo Fertinal; también pagó los desfalcos multimillonarios realizados por el empresario Fabio Massimo Covarrubias Piffer a cuenta de esa ¡rma, que incluyeron la compra"
     },
     {
-      "self_ref": "#/texts/189",
+      "self_ref": "#/texts/190",
       "parent": {
         "$ref": "#/body"
       },
@@ -5894,7 +5924,7 @@
       "text": "Leer más"
     },
     {
-      "self_ref": "#/texts/190",
+      "self_ref": "#/texts/191",
       "parent": {
         "$ref": "#/body"
       },
@@ -5921,7 +5951,7 @@
       "text": "You May Like"
     },
     {
-      "self_ref": "#/texts/191",
+      "self_ref": "#/texts/192",
       "parent": {
         "$ref": "#/body"
       },
@@ -5948,7 +5978,7 @@
       "text": "Sponsored Links"
     },
     {
-      "self_ref": "#/texts/192",
+      "self_ref": "#/texts/193",
       "parent": {
         "$ref": "#/body"
       },
@@ -5975,7 +6005,7 @@
       "text": "If Your Cat Vomits (Do This Every Day)"
     },
     {
-      "self_ref": "#/texts/193",
+      "self_ref": "#/texts/194",
       "parent": {
         "$ref": "#/body"
       },
@@ -6002,7 +6032,7 @@
       "text": "Ultimate Pet Nutrition"
     },
     {
-      "self_ref": "#/texts/194",
+      "self_ref": "#/texts/195",
       "parent": {
         "$ref": "#/body"
       },
@@ -6029,7 +6059,7 @@
       "text": "If Your Dog Eats Grass (Do This Everyday)"
     },
     {
-      "self_ref": "#/texts/195",
+      "self_ref": "#/texts/196",
       "parent": {
         "$ref": "#/body"
       },
@@ -6070,9 +6100,9 @@
       "text": "Ultimate Pet Nutrition Nutra Thrive Supplement by Taboola"
     },
     {
-      "self_ref": "#/texts/196",
+      "self_ref": "#/texts/197",
       "parent": {
-        "$ref": "#/pictures/21"
+        "$ref": "#/pictures/22"
       },
       "children": [],
       "content_layer": "body",
@@ -6097,9 +6127,9 @@
       "text": "Restrictions apply, see"
     },
     {
-      "self_ref": "#/texts/197",
+      "self_ref": "#/texts/198",
       "parent": {
-        "$ref": "#/pictures/21"
+        "$ref": "#/pictures/22"
       },
       "children": [],
       "content_layer": "body",
@@ -6124,7 +6154,7 @@
       "text": "amazon.com/gc-legal"
     },
     {
-      "self_ref": "#/texts/198",
+      "self_ref": "#/texts/199",
       "parent": {
         "$ref": "#/body"
       },
@@ -6151,7 +6181,7 @@
       "text": "Poll: 1 point"
     },
     {
-      "self_ref": "#/texts/199",
+      "self_ref": "#/texts/200",
       "parent": {
         "$ref": "#/body"
       },
@@ -6178,7 +6208,7 @@
       "text": "¿Has estado en las Islas Galápagos?"
     },
     {
-      "self_ref": "#/texts/200",
+      "self_ref": "#/texts/201",
       "parent": {
         "$ref": "#/body"
       },
@@ -6205,7 +6235,7 @@
       "text": "sí"
     },
     {
-      "self_ref": "#/texts/201",
+      "self_ref": "#/texts/202",
       "parent": {
         "$ref": "#/body"
       },
@@ -6246,7 +6276,7 @@
       "text": "no todavía no"
     },
     {
-      "self_ref": "#/texts/202",
+      "self_ref": "#/texts/203",
       "parent": {
         "$ref": "#/body"
       },
@@ -6273,7 +6303,7 @@
       "text": "powered by"
     },
     {
-      "self_ref": "#/texts/203",
+      "self_ref": "#/texts/204",
       "parent": {
         "$ref": "#/body"
       },
@@ -6300,7 +6330,7 @@
       "text": "You have 0 points"
     },
     {
-      "self_ref": "#/texts/204",
+      "self_ref": "#/texts/205",
       "parent": {
         "$ref": "#/body"
       },
@@ -6327,7 +6357,7 @@
       "text": "Earn 1000 more points to receive a $10 Amazon gift card."
     },
     {
-      "self_ref": "#/texts/205",
+      "self_ref": "#/texts/206",
       "parent": {
         "$ref": "#/body"
       },
@@ -6354,7 +6384,7 @@
       "text": "REPORTE ESPECIAL"
     },
     {
-      "self_ref": "#/texts/206",
+      "self_ref": "#/texts/207",
       "parent": {
         "$ref": "#/body"
       },
@@ -6381,7 +6411,7 @@
       "text": "23 febrero, 2019"
     },
     {
-      "self_ref": "#/texts/207",
+      "self_ref": "#/texts/208",
       "parent": {
         "$ref": "#/body"
       },
@@ -6408,7 +6438,7 @@
       "text": "El insaciable empresario consentido de AMLO"
     },
     {
-      "self_ref": "#/texts/208",
+      "self_ref": "#/texts/209",
       "parent": {
         "$ref": "#/body"
       },
@@ -6435,7 +6465,7 @@
       "text": "Jose Raúl Linares y Arturo Rodríguez"
     },
     {
-      "self_ref": "#/texts/209",
+      "self_ref": "#/texts/210",
       "parent": {
         "$ref": "#/body"
       },
@@ -6462,7 +6492,7 @@
       "text": "La razón esgrimida por el presidente Andrés Manuel López Obrador es que para hacer llegar los recursos de sus programas sociales insignia se necesita la amplia red de tiendas y o¡cinas bancarias que Ricardo Salinas Pliego tiene en todo el país. Con ello"
     },
     {
-      "self_ref": "#/texts/210",
+      "self_ref": "#/texts/211",
       "parent": {
         "$ref": "#/body"
       },
@@ -6489,7 +6519,7 @@
       "text": "https://www.proceso.com.mx/341535/madres-de-desaparecidos-inician-ayuno-frente-a-la-pgr"
     },
     {
-      "self_ref": "#/texts/211",
+      "self_ref": "#/texts/212",
       "parent": {
         "$ref": "#/body"
       },
@@ -6516,7 +6546,7 @@
       "text": "5/8"
     },
     {
-      "self_ref": "#/texts/212",
+      "self_ref": "#/texts/213",
       "parent": {
         "$ref": "#/body"
       },
@@ -6543,7 +6573,7 @@
       "text": "2/28/2019"
     },
     {
-      "self_ref": "#/texts/213",
+      "self_ref": "#/texts/214",
       "parent": {
         "$ref": "#/body"
       },
@@ -6570,7 +6600,7 @@
       "text": "Madres de desaparecidos inician ayuno frente a la PGR - Proceso"
     },
     {
-      "self_ref": "#/texts/214",
+      "self_ref": "#/texts/215",
       "parent": {
         "$ref": "#/body"
       },
@@ -6597,7 +6627,7 @@
       "text": "se agranda el poder económico y político del empresario que creció al"
     },
     {
-      "self_ref": "#/texts/215",
+      "self_ref": "#/texts/216",
       "parent": {
         "$ref": "#/body"
       },
@@ -6624,7 +6654,7 @@
       "text": "Leer más"
     },
     {
-      "self_ref": "#/texts/216",
+      "self_ref": "#/texts/217",
       "parent": {
         "$ref": "#/body"
       },
@@ -6652,7 +6682,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/217",
+      "self_ref": "#/texts/218",
       "parent": {
         "$ref": "#/body"
       },
@@ -6679,7 +6709,7 @@
       "text": "23 febrero, 2019"
     },
     {
-      "self_ref": "#/texts/218",
+      "self_ref": "#/texts/219",
       "parent": {
         "$ref": "#/body"
       },
@@ -6706,7 +6736,7 @@
       "text": "Proyecto Kimora: Carambola de tres bandas para desfalcar a Pemex"
     },
     {
-      "self_ref": "#/texts/219",
+      "self_ref": "#/texts/220",
       "parent": {
         "$ref": "#/body"
       },
@@ -6734,7 +6764,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/220",
+      "self_ref": "#/texts/221",
       "parent": {
         "$ref": "#/body"
       },
@@ -6761,7 +6791,7 @@
       "text": "Cuando Emilio Lozoya Austin estuvo al frente de Pemex, la empresa tuvo una sangría millonaria de la cual se bene¡ciaron el propio directivo, así como Fabio Massimo Covarrubias Piffer y Ricardo Salinas Pliego -el conspicuo aliado del presidente Andrés Manuel López Obrador- a través de las compañías de estos dos personajes. El triple desfalco se"
     },
     {
-      "self_ref": "#/texts/221",
+      "self_ref": "#/texts/222",
       "parent": {
         "$ref": "#/body"
       },
@@ -6788,7 +6818,7 @@
       "text": "Leer más"
     },
     {
-      "self_ref": "#/texts/222",
+      "self_ref": "#/texts/223",
       "parent": {
         "$ref": "#/body"
       },
@@ -6816,7 +6846,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/223",
+      "self_ref": "#/texts/224",
       "parent": {
         "$ref": "#/body"
       },
@@ -6843,7 +6873,7 @@
       "text": "26 febrero, 2019"
     },
     {
-      "self_ref": "#/texts/224",
+      "self_ref": "#/texts/225",
       "parent": {
         "$ref": "#/body"
       },
@@ -6870,7 +6900,7 @@
       "text": "Con López Obrador, la época dorada del Grupo Salinas en la Bolsa"
     },
     {
-      "self_ref": "#/texts/225",
+      "self_ref": "#/texts/226",
       "parent": {
         "$ref": "#/body"
       },
@@ -6897,7 +6927,7 @@
       "text": "José Raúl Linares"
     },
     {
-      "self_ref": "#/texts/226",
+      "self_ref": "#/texts/227",
       "parent": {
         "$ref": "#/body"
       },
@@ -6924,7 +6954,7 @@
       "text": "CIUDAD DE MÉXICO (Proceso).- Desde el ascenso del presidente Andrés Manuel López Obrador las acciones de Grupo Salinas se fortalecen. Los"
     },
     {
-      "self_ref": "#/texts/227",
+      "self_ref": "#/texts/228",
       "parent": {
         "$ref": "#/body"
       },
@@ -6951,7 +6981,7 @@
       "text": "https://www.proceso.com.mx/341535/madres-de-desaparecidos-inician-ayuno-frente-a-la-pgr"
     },
     {
-      "self_ref": "#/texts/228",
+      "self_ref": "#/texts/229",
       "parent": {
         "$ref": "#/body"
       },
@@ -6978,7 +7008,7 @@
       "text": "6/8"
     },
     {
-      "self_ref": "#/texts/229",
+      "self_ref": "#/texts/230",
       "parent": {
         "$ref": "#/body"
       },
@@ -7005,7 +7035,7 @@
       "text": "2/28/2019"
     },
     {
-      "self_ref": "#/texts/230",
+      "self_ref": "#/texts/231",
       "parent": {
         "$ref": "#/body"
       },
@@ -7032,7 +7062,7 @@
       "text": "Madres de desaparecidos inician ayuno frente a la PGR - Proceso"
     },
     {
-      "self_ref": "#/texts/231",
+      "self_ref": "#/texts/232",
       "parent": {
         "$ref": "#/body"
       },
@@ -7059,7 +7089,7 @@
       "text": "reiterados acercamientos de Ricardo Salinas Pliego y su padre, Hugo Salinas Price, han impulsado el valor accionario de Grupo Elektra, cuya ¡lial, Banco Azteca, hoy se posiciona como quinta ¡rma ganadora en la Bolsa"
     },
     {
-      "self_ref": "#/texts/232",
+      "self_ref": "#/texts/233",
       "parent": {
         "$ref": "#/body"
       },
@@ -7086,7 +7116,7 @@
       "text": "Leer más"
     },
     {
-      "self_ref": "#/texts/233",
+      "self_ref": "#/texts/234",
       "parent": {
         "$ref": "#/body"
       },
@@ -7113,7 +7143,7 @@
       "text": "https://www.proceso.com.mx/341535/madres-de-desaparecidos-inician-ayuno-frente-a-la-pgr"
     },
     {
-      "self_ref": "#/texts/234",
+      "self_ref": "#/texts/235",
       "parent": {
         "$ref": "#/body"
       },
@@ -7140,7 +7170,7 @@
       "text": "7/8"
     },
     {
-      "self_ref": "#/texts/235",
+      "self_ref": "#/texts/236",
       "parent": {
         "$ref": "#/body"
       },
@@ -7167,7 +7197,7 @@
       "text": "2/28/2019"
     },
     {
-      "self_ref": "#/texts/236",
+      "self_ref": "#/texts/237",
       "parent": {
         "$ref": "#/body"
       },
@@ -7194,7 +7224,7 @@
       "text": "Madres de desaparecidos inician ayuno frente a la PGR - Proceso"
     },
     {
-      "self_ref": "#/texts/237",
+      "self_ref": "#/texts/238",
       "parent": {
         "$ref": "#/body"
       },
@@ -7221,7 +7251,7 @@
       "text": "https://www.proceso.com.mx/341535/madres-de-desaparecidos-inician-ayuno-frente-a-la-pgr"
     },
     {
-      "self_ref": "#/texts/238",
+      "self_ref": "#/texts/239",
       "parent": {
         "$ref": "#/body"
       },
@@ -7265,10 +7295,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 27.273883819580078,
-            "t": 765.5861225128174,
-            "r": 246.09494018554688,
-            "b": 637.9210510253906,
+            "l": 27.27341079711914,
+            "t": 765.5869426727295,
+            "r": 246.0947723388672,
+            "b": 637.9205017089844,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7298,10 +7328,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 46.793312072753906,
-            "t": 590.2633819580078,
-            "r": 211.1178741455078,
-            "b": 555.8317260742188,
+            "l": 46.79375076293945,
+            "t": 590.2644500732422,
+            "r": 211.11769104003906,
+            "b": 555.83056640625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7358,10 +7388,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 39.14052200317383,
-            "t": 470.8128356933594,
-            "r": 392.1448059082031,
-            "b": 234.12109375,
+            "l": 39.13969802856445,
+            "t": 470.8133850097656,
+            "r": 392.14501953125,
+            "b": 234.1202392578125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7391,10 +7421,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 55.191131591796875,
-            "t": 161.4727783203125,
-            "r": 64.86361694335938,
-            "b": 152.72174072265625,
+            "l": 55.19147491455078,
+            "t": 161.473388671875,
+            "r": 64.8637924194336,
+            "b": 152.72235107421875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7424,10 +7454,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 100.74295806884766,
-            "t": 162.67169189453125,
-            "r": 106.6504898071289,
-            "b": 152.1600341796875,
+            "l": 100.74229431152344,
+            "t": 162.671630859375,
+            "r": 106.65219116210938,
+            "b": 152.16143798828125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7457,10 +7487,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 131.35153198242188,
-            "t": 161.97113037109375,
-            "r": 141.0801544189453,
-            "b": 152.32659912109375,
+            "l": 131.35133361816406,
+            "t": 161.9716796875,
+            "r": 141.080810546875,
+            "b": 152.32647705078125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7486,10 +7516,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 522.3033447265625,
-            "t": 611.445556640625,
-            "r": 579.5001220703125,
-            "b": 536.2930145263672,
+            "l": 522.3032836914062,
+            "t": 611.4461212158203,
+            "r": 579.5008544921875,
+            "b": 536.2922058105469,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7510,9 +7540,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/52"
-        },
-        {
           "$ref": "#/texts/53"
         },
         {
@@ -7532,6 +7559,9 @@
         },
         {
           "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
         }
       ],
       "content_layer": "body",
@@ -7540,10 +7570,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 425.8372497558594,
-            "t": 412.4542541503906,
-            "r": 573.081298828125,
-            "b": 218.5328369140625,
+            "l": 425.8366394042969,
+            "t": 412.4566650390625,
+            "r": 573.0806274414062,
+            "b": 218.5364990234375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7569,10 +7599,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 416.4261169433594,
-            "t": 133.883544921875,
-            "r": 460.26776123046875,
-            "b": 97.25994873046875,
+            "l": 416.4261474609375,
+            "t": 133.88385009765625,
+            "r": 460.2677307128906,
+            "b": 97.26019287109375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7598,10 +7628,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 416.3581237792969,
-            "t": 78.3243408203125,
-            "r": 460.5757141113281,
-            "b": 72.86590576171875,
+            "l": 416.3577575683594,
+            "t": 78.3240966796875,
+            "r": 460.5754089355469,
+            "b": 72.8658447265625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7627,9 +7657,9 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 482.943603515625,
-            "t": 79.1583251953125,
-            "r": 495.0595703125,
+            "l": 482.9424133300781,
+            "t": 79.15863037109375,
+            "r": 495.0585021972656,
             "b": 68.278076171875,
             "coord_origin": "BOTTOMLEFT"
           },
@@ -7656,10 +7686,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 416.3472900390625,
-            "t": 727.3155975341797,
-            "r": 460.32855224609375,
-            "b": 689.208854675293,
+            "l": 416.3475341796875,
+            "t": 727.3161697387695,
+            "r": 460.328369140625,
+            "b": 689.2077789306641,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7680,7 +7710,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/82"
+          "$ref": "#/texts/83"
         }
       ],
       "content_layer": "body",
@@ -7689,10 +7719,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 421.3162536621094,
-            "t": 556.72265625,
-            "r": 466.11456298828125,
-            "b": 547.5075073242188,
+            "l": 421.3149108886719,
+            "t": 556.7232971191406,
+            "r": 466.1149597167969,
+            "b": 547.5065765380859,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7718,10 +7748,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 483.3577880859375,
-            "t": 78.303955078125,
-            "r": 492.83148193359375,
-            "b": 69.03521728515625,
+            "l": 483.3587646484375,
+            "t": 78.3035888671875,
+            "r": 492.8304443359375,
+            "b": 69.03826904296875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7742,7 +7772,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/112"
+          "$ref": "#/texts/113"
         }
       ],
       "content_layer": "body",
@@ -7751,10 +7781,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 416.2558288574219,
-            "t": 454.6552429199219,
-            "r": 580.3919677734375,
-            "b": 340.3338928222656,
+            "l": 416.25653076171875,
+            "t": 454.6551208496094,
+            "r": 580.3921508789062,
+            "b": 340.3350524902344,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7765,7 +7795,7 @@
       ],
       "captions": [
         {
-          "$ref": "#/texts/112"
+          "$ref": "#/texts/113"
         }
       ],
       "references": [],
@@ -7779,7 +7809,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/134"
+          "$ref": "#/texts/135"
         }
       ],
       "content_layer": "body",
@@ -7788,10 +7818,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 55.03340530395508,
-            "t": 124.21405029296875,
-            "r": 64.74626922607422,
-            "b": 115.3555908203125,
+            "l": 55.032840728759766,
+            "t": 124.2158203125,
+            "r": 64.74646759033203,
+            "b": 115.35601806640625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7812,7 +7842,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/135"
+          "$ref": "#/texts/136"
         }
       ],
       "content_layer": "body",
@@ -7821,10 +7851,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 100.47209167480469,
-            "t": 126.02105712890625,
-            "r": 106.66236114501953,
-            "b": 115.06658935546875,
+            "l": 100.47245788574219,
+            "t": 126.01904296875,
+            "r": 106.66398620605469,
+            "b": 115.06787109375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7845,10 +7875,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/136"
+          "$ref": "#/texts/137"
         },
         {
-          "$ref": "#/texts/137"
+          "$ref": "#/texts/138"
         }
       ],
       "content_layer": "body",
@@ -7857,10 +7887,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 131.23736572265625,
-            "t": 124.953857421875,
-            "r": 165.6856231689453,
-            "b": 114.75994873046875,
+            "l": 131.23635864257812,
+            "t": 124.9544677734375,
+            "r": 165.68870544433594,
+            "b": 114.75958251953125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7882,7 +7912,37 @@
       "children": [
         {
           "$ref": "#/texts/140"
-        },
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 107.39583587646484,
+            "t": 70.3336181640625,
+            "r": 160.98023986816406,
+            "b": 57.6280517578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
         {
           "$ref": "#/texts/141"
         },
@@ -7918,6 +7978,9 @@
         },
         {
           "$ref": "#/texts/152"
+        },
+        {
+          "$ref": "#/texts/153"
         }
       ],
       "content_layer": "body",
@@ -7926,39 +7989,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 285.703369140625,
-            "t": 311.5729064941406,
-            "r": 341.6455383300781,
-            "b": 139.82684326171875,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            0
-          ]
-        }
-      ],
-      "captions": [],
-      "references": [],
-      "footnotes": [],
-      "annotations": []
-    },
-    {
-      "self_ref": "#/pictures/19",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "picture",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
-            "l": 482.1563720703125,
-            "t": 79.14056396484375,
-            "r": 493.8456115722656,
-            "b": 68.193359375,
+            "l": 285.70867919921875,
+            "t": 311.57275390625,
+            "r": 341.64752197265625,
+            "b": 139.8272705078125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7982,12 +8016,12 @@
       "label": "picture",
       "prov": [
         {
-          "page_no": 5,
+          "page_no": 4,
           "bbox": {
-            "l": 377.544677734375,
-            "t": 763.1119861602783,
-            "r": 384.98291015625,
-            "b": 755.8966217041016,
+            "l": 482.1565246582031,
+            "t": 79.14056396484375,
+            "r": 493.8463439941406,
+            "b": 68.19256591796875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8006,24 +8040,17 @@
       "parent": {
         "$ref": "#/body"
       },
-      "children": [
-        {
-          "$ref": "#/texts/196"
-        },
-        {
-          "$ref": "#/texts/197"
-        }
-      ],
+      "children": [],
       "content_layer": "body",
       "label": "picture",
       "prov": [
         {
           "page_no": 5,
           "bbox": {
-            "l": 535.6835327148438,
-            "t": 417.19793701171875,
-            "r": 573.8986206054688,
-            "b": 388.1370849609375,
+            "l": 377.54376220703125,
+            "t": 763.1127948760986,
+            "r": 384.98382568359375,
+            "b": 755.8962326049805,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8042,6 +8069,42 @@
       "parent": {
         "$ref": "#/body"
       },
+      "children": [
+        {
+          "$ref": "#/texts/197"
+        },
+        {
+          "$ref": "#/texts/198"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 535.6828002929688,
+            "t": 417.1973876953125,
+            "r": 573.896484375,
+            "b": 388.13720703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/23",
+      "parent": {
+        "$ref": "#/body"
+      },
       "children": [],
       "content_layer": "body",
       "label": "picture",
@@ -8049,10 +8112,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 482.3621826171875,
-            "t": 79.06134033203125,
-            "r": 493.9076843261719,
-            "b": 68.18402099609375,
+            "l": 482.36199951171875,
+            "t": 79.061767578125,
+            "r": 493.90765380859375,
+            "b": 68.1827392578125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8080,10 +8143,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 39.22740936279297,
-            "t": 621.9019165039062,
-            "r": 511.16162109375,
-            "b": 452.2281494140625,
+            "l": 39.2290153503418,
+            "t": 621.9017181396484,
+            "r": 511.1595764160156,
+            "b": 452.2261657714844,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

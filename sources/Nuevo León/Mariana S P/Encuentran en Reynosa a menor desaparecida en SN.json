@@ -126,10 +126,10 @@
         "$ref": "#/texts/37"
       },
       {
-        "$ref": "#/pictures/8"
+        "$ref": "#/texts/38"
       },
       {
-        "$ref": "#/texts/39"
+        "$ref": "#/pictures/8"
       },
       {
         "$ref": "#/texts/40"
@@ -138,28 +138,28 @@
         "$ref": "#/texts/41"
       },
       {
-        "$ref": "#/pictures/9"
+        "$ref": "#/texts/42"
       },
       {
-        "$ref": "#/texts/42"
+        "$ref": "#/pictures/9"
       },
       {
         "$ref": "#/texts/43"
       },
       {
-        "$ref": "#/pictures/10"
+        "$ref": "#/texts/44"
       },
       {
-        "$ref": "#/texts/50"
+        "$ref": "#/pictures/10"
       },
       {
         "$ref": "#/texts/51"
       },
       {
-        "$ref": "#/pictures/11"
+        "$ref": "#/texts/52"
       },
       {
-        "$ref": "#/texts/58"
+        "$ref": "#/pictures/11"
       },
       {
         "$ref": "#/texts/59"
@@ -225,22 +225,22 @@
         "$ref": "#/texts/79"
       },
       {
-        "$ref": "#/pictures/12"
+        "$ref": "#/texts/80"
       },
       {
-        "$ref": "#/texts/80"
+        "$ref": "#/pictures/12"
       },
       {
         "$ref": "#/texts/81"
       },
       {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
         "$ref": "#/pictures/13"
-      },
-      {
-        "$ref": "#/texts/85"
-      },
-      {
-        "$ref": "#/texts/86"
       },
       {
         "$ref": "#/texts/87"
@@ -303,13 +303,13 @@
         "$ref": "#/texts/106"
       },
       {
-        "$ref": "#/pictures/14"
+        "$ref": "#/texts/107"
       },
       {
         "$ref": "#/texts/108"
       },
       {
-        "$ref": "#/texts/109"
+        "$ref": "#/pictures/14"
       },
       {
         "$ref": "#/texts/110"
@@ -441,13 +441,13 @@
         "$ref": "#/texts/152"
       },
       {
+        "$ref": "#/texts/153"
+      },
+      {
+        "$ref": "#/texts/154"
+      },
+      {
         "$ref": "#/pictures/15"
-      },
-      {
-        "$ref": "#/texts/155"
-      },
-      {
-        "$ref": "#/texts/156"
       },
       {
         "$ref": "#/texts/157"
@@ -513,19 +513,22 @@
         "$ref": "#/texts/177"
       },
       {
+        "$ref": "#/texts/178"
+      },
+      {
+        "$ref": "#/texts/179"
+      },
+      {
         "$ref": "#/pictures/16"
       },
       {
         "$ref": "#/pictures/17"
       },
       {
-        "$ref": "#/texts/189"
-      },
-      {
-        "$ref": "#/texts/190"
-      },
-      {
         "$ref": "#/texts/191"
+      },
+      {
+        "$ref": "#/texts/192"
       },
       {
         "$ref": "#/pictures/18"
@@ -534,19 +537,13 @@
         "$ref": "#/pictures/19"
       },
       {
-        "$ref": "#/pictures/20"
-      },
-      {
-        "$ref": "#/pictures/21"
-      },
-      {
-        "$ref": "#/texts/195"
+        "$ref": "#/texts/197"
       },
       {
         "$ref": "#/groups/1"
       },
       {
-        "$ref": "#/pictures/22"
+        "$ref": "#/pictures/20"
       }
     ],
     "content_layer": "body",
@@ -578,10 +575,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/196"
+          "$ref": "#/texts/198"
         },
         {
-          "$ref": "#/texts/197"
+          "$ref": "#/texts/199"
         }
       ],
       "content_layer": "body",
@@ -1618,23 +1615,50 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 36.503,
-            "t": 783.6520029101563,
-            "r": 236.833,
-            "b": 760.1540029101562,
+            "l": 40.255,
+            "t": 776.1740029101562,
+            "r": 84.039,
+            "b": 770.4110029101562,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             13,
-            66
+            23
           ]
         }
       ],
-      "orig": "bracamontes- la-vieronCulpan a Lupita Jones del IMPRESO (/IMPRESO)",
-      "text": "bracamontes- la-vieronCulpan a Lupita Jones del IMPRESO (/IMPRESO)"
+      "orig": "bracamontes- la-vieron-",
+      "text": "bracamontes- la-vieron-"
     },
     {
       "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.503,
+            "t": 765.5020029101562,
+            "r": 138.392,
+            "b": 760.1540029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "IMPRESO (/IMPRESO)",
+      "text": "IMPRESO (/IMPRESO)"
+    },
+    {
+      "self_ref": "#/texts/39",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -1661,7 +1685,7 @@
       "text": "3"
     },
     {
-      "self_ref": "#/texts/39",
+      "self_ref": "#/texts/40",
       "parent": {
         "$ref": "#/body"
       },
@@ -1688,7 +1712,7 @@
       "text": "desnuda)"
     },
     {
-      "self_ref": "#/texts/40",
+      "self_ref": "#/texts/41",
       "parent": {
         "$ref": "#/body"
       },
@@ -1715,7 +1739,7 @@
       "text": "suicidio de una transexual (http://www.milenio.com/espec a-lupita-jones-del-suicidio-deuna-transexual) TELEVISIÓN (/MILENIOTV)"
     },
     {
-      "self_ref": "#/texts/41",
+      "self_ref": "#/texts/42",
       "parent": {
         "$ref": "#/body"
       },
@@ -1742,7 +1766,7 @@
       "text": "De acuerdo a información preliminar, Mariana Solar se encuentra con vida y fue recuperada en la ciudad de Reynosa.  Ingresar Regístrate "
     },
     {
-      "self_ref": "#/texts/42",
+      "self_ref": "#/texts/43",
       "parent": {
         "$ref": "#/body"
       },
@@ -1769,7 +1793,7 @@
       "text": "Las autoridades realizan los peritajes para determinar el estado de salud de la menor."
     },
     {
-      "self_ref": "#/texts/43",
+      "self_ref": "#/texts/44",
       "parent": {
         "$ref": "#/body"
       },
@@ -1796,7 +1820,7 @@
       "text": "(http://www.milenio.com/espectaculos/famosos/culpan-"
     },
     {
-      "self_ref": "#/texts/44",
+      "self_ref": "#/texts/45",
       "parent": {
         "$ref": "#/pictures/10"
       },
@@ -1823,7 +1847,7 @@
       "text": "a-lupita-"
     },
     {
-      "self_ref": "#/texts/45",
+      "self_ref": "#/texts/46",
       "parent": {
         "$ref": "#/pictures/10"
       },
@@ -1850,7 +1874,7 @@
       "text": "jones-del-"
     },
     {
-      "self_ref": "#/texts/46",
+      "self_ref": "#/texts/47",
       "parent": {
         "$ref": "#/pictures/10"
       },
@@ -1877,7 +1901,7 @@
       "text": "suicidio-de-"
     },
     {
-      "self_ref": "#/texts/47",
+      "self_ref": "#/texts/48",
       "parent": {
         "$ref": "#/pictures/10"
       },
@@ -1904,7 +1928,7 @@
       "text": "una-"
     },
     {
-      "self_ref": "#/texts/48",
+      "self_ref": "#/texts/49",
       "parent": {
         "$ref": "#/pictures/10"
       },
@@ -1931,7 +1955,7 @@
       "text": "transexual)"
     },
     {
-      "self_ref": "#/texts/49",
+      "self_ref": "#/texts/50",
       "parent": {
         "$ref": "#/pictures/10"
       },
@@ -1958,7 +1982,7 @@
       "text": "4"
     },
     {
-      "self_ref": "#/texts/50",
+      "self_ref": "#/texts/51",
       "parent": {
         "$ref": "#/body"
       },
@@ -1985,7 +2009,7 @@
       "text": "La boda que acabó con la imagen de López Obrador (http://www.milenio.com/opini cueva/ojo-por-ojo/la-bodaque-acabo-con-la-imagen-de-"
     },
     {
-      "self_ref": "#/texts/51",
+      "self_ref": "#/texts/52",
       "parent": {
         "$ref": "#/body"
       },
@@ -2012,7 +2036,7 @@
       "text": "(http://www.milenio.com/opinion/alvarolopez-obrador)"
     },
     {
-      "self_ref": "#/texts/52",
+      "self_ref": "#/texts/53",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -2039,7 +2063,7 @@
       "text": "cueva/ojo-"
     },
     {
-      "self_ref": "#/texts/53",
+      "self_ref": "#/texts/54",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -2066,7 +2090,7 @@
       "text": "por-ojo/la-"
     },
     {
-      "self_ref": "#/texts/54",
+      "self_ref": "#/texts/55",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -2093,7 +2117,7 @@
       "text": "boda-que-"
     },
     {
-      "self_ref": "#/texts/55",
+      "self_ref": "#/texts/56",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -2120,7 +2144,7 @@
       "text": "acabo-con-"
     },
     {
-      "self_ref": "#/texts/56",
+      "self_ref": "#/texts/57",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -2147,7 +2171,7 @@
       "text": "la-imagen-"
     },
     {
-      "self_ref": "#/texts/57",
+      "self_ref": "#/texts/58",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -2174,7 +2198,7 @@
       "text": "5"
     },
     {
-      "self_ref": "#/texts/58",
+      "self_ref": "#/texts/59",
       "parent": {
         "$ref": "#/body"
       },
@@ -2215,7 +2239,7 @@
       "text": "Así quedó el rostro de una joven golpeada por un campeón de motocross (http://www.milenio.com/depo aficion/asi-quedo-el-rostro- de-lopezobrador) (http://www.milenio.com/deportes/masaficion/aside-una-joven-golpeada-porun-campeon-de-motocross)"
     },
     {
-      "self_ref": "#/texts/59",
+      "self_ref": "#/texts/60",
       "parent": {
         "$ref": "#/body"
       },
@@ -2242,7 +2266,7 @@
       "text": "quedo-el-"
     },
     {
-      "self_ref": "#/texts/60",
+      "self_ref": "#/texts/61",
       "parent": {
         "$ref": "#/body"
       },
@@ -2270,7 +2294,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/61",
+      "self_ref": "#/texts/62",
       "parent": {
         "$ref": "#/body"
       },
@@ -2298,7 +2322,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/62",
+      "self_ref": "#/texts/63",
       "parent": {
         "$ref": "#/body"
       },
@@ -2325,7 +2349,7 @@
       "text": "golpeadapor-un(https://om.forgeofempires.com/foe/?"
     },
     {
-      "self_ref": "#/texts/63",
+      "self_ref": "#/texts/64",
       "parent": {
         "$ref": "#/body"
       },
@@ -2352,7 +2376,7 @@
       "text": "ref=tab_row_en_mktdet2&&external_param=123979059&pid="
     },
     {
-      "self_ref": "#/texts/64",
+      "self_ref": "#/texts/65",
       "parent": {
         "$ref": "#/body"
       },
@@ -2380,7 +2404,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/65",
+      "self_ref": "#/texts/66",
       "parent": {
         "$ref": "#/body"
       },
@@ -2408,7 +2432,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/66",
+      "self_ref": "#/texts/67",
       "parent": {
         "$ref": "#/body"
       },
@@ -2435,7 +2459,7 @@
       "text": "motocross) Forge of Empires - Free Online Game"
     },
     {
-      "self_ref": "#/texts/67",
+      "self_ref": "#/texts/68",
       "parent": {
         "$ref": "#/body"
       },
@@ -2462,7 +2486,7 @@
       "text": "(https://om.forgeofempires.com/foe/?"
     },
     {
-      "self_ref": "#/texts/68",
+      "self_ref": "#/texts/69",
       "parent": {
         "$ref": "#/body"
       },
@@ -2489,7 +2513,7 @@
       "text": "ref=tab_row_en_mktdet2&&external_param=123979059&pid="
     },
     {
-      "self_ref": "#/texts/69",
+      "self_ref": "#/texts/70",
       "parent": {
         "$ref": "#/body"
       },
@@ -2516,7 +2540,7 @@
       "text": "(https://buzzdrives.com/50-cars-that-will-last-more-than250000-miles-7?"
     },
     {
-      "self_ref": "#/texts/70",
+      "self_ref": "#/texts/71",
       "parent": {
         "$ref": "#/body"
       },
@@ -2557,7 +2581,7 @@
       "text": "utm_content=These+Cars+Will+Last+250%2C000+Miles++Is+Yours+On+Our+List%3F__https%3A%2F%2Fconsole.bra cdn.com%2Fcreatives%2F08e05a9a-eb2b-4cf4-97b501fd088bdbc0%2F273310- vKg9w0HIPEagR2v1xhbeDw_1000x600_29fcc95899d6ad7ee BD-250K7-TB-DT-WW2-AR&utm_medium=milenio)"
     },
     {
-      "self_ref": "#/texts/71",
+      "self_ref": "#/texts/72",
       "parent": {
         "$ref": "#/body"
       },
@@ -2584,7 +2608,7 @@
       "text": "These Cars Will Last 250,000 Miles - Is"
     },
     {
-      "self_ref": "#/texts/72",
+      "self_ref": "#/texts/73",
       "parent": {
         "$ref": "#/body"
       },
@@ -2612,7 +2636,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/73",
+      "self_ref": "#/texts/74",
       "parent": {
         "$ref": "#/body"
       },
@@ -2640,7 +2664,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/74",
+      "self_ref": "#/texts/75",
       "parent": {
         "$ref": "#/body"
       },
@@ -2667,7 +2691,7 @@
       "text": "(https://buzzdrives.com/50-cars-that-will-last-more-than250000-miles-7?"
     },
     {
-      "self_ref": "#/texts/75",
+      "self_ref": "#/texts/76",
       "parent": {
         "$ref": "#/body"
       },
@@ -2694,7 +2718,7 @@
       "text": "utm_content=These+Cars+Will+Last+250%2C000+Miles+cdn.com%2Fcreatives%2F08e05a9a-eb2b-4cf4-97b501fd088bdbc0%2F273310-"
     },
     {
-      "self_ref": "#/texts/76",
+      "self_ref": "#/texts/77",
       "parent": {
         "$ref": "#/body"
       },
@@ -2721,7 +2745,7 @@
       "text": "+Is+Yours+On+Our+List%3F__https%3A%2F%2Fconsole.bra vKg9w0HIPEagR2v1xhbeDw_1000x600_29fcc95899d6ad7ee"
     },
     {
-      "self_ref": "#/texts/77",
+      "self_ref": "#/texts/78",
       "parent": {
         "$ref": "#/body"
       },
@@ -2748,7 +2772,7 @@
       "text": "BD-250K7-TB-DT-WW2-AR&utm_medium=milenio)"
     },
     {
-      "self_ref": "#/texts/78",
+      "self_ref": "#/texts/79",
       "parent": {
         "$ref": "#/body"
       },
@@ -2775,7 +2799,7 @@
       "text": "utm_medium=referral&utm_content=thumbnails-rr3:Right Rail Thumbnails:)"
     },
     {
-      "self_ref": "#/texts/79",
+      "self_ref": "#/texts/80",
       "parent": {
         "$ref": "#/body"
       },
@@ -2802,7 +2826,34 @@
       "text": "Queda prohibida la reproducción total 0 parcial del contenido de esta página, mismo que es propiedad de MILENIO DIARIO, S.A. DE C.V; su reproducción no autorizada constituye una infracción y un delito de conformidad con las aplicables_ leyes"
     },
     {
-      "self_ref": "#/texts/80",
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 109.287,
+            "t": 783.6520029101563,
+            "r": 236.833,
+            "b": 778.3100029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Culpan a Lupita Jones del",
+      "text": "Culpan a Lupita Jones del"
+    },
+    {
+      "self_ref": "#/texts/82",
       "parent": {
         "$ref": "#/body"
       },
@@ -2829,7 +2880,7 @@
       "text": "Ingresar"
     },
     {
-      "self_ref": "#/texts/81",
+      "self_ref": "#/texts/83",
       "parent": {
         "$ref": "#/body"
       },
@@ -2856,7 +2907,7 @@
       "text": "COMENTAR Regístrate"
     },
     {
-      "self_ref": "#/texts/82",
+      "self_ref": "#/texts/84",
       "parent": {
         "$ref": "#/pictures/13"
       },
@@ -2883,7 +2934,7 @@
       "text": "0 COMENTARIOS"
     },
     {
-      "self_ref": "#/texts/83",
+      "self_ref": "#/texts/85",
       "parent": {
         "$ref": "#/pictures/13"
       },
@@ -2910,7 +2961,7 @@
       "text": "IMPRESO (/IMPRESO)"
     },
     {
-      "self_ref": "#/texts/84",
+      "self_ref": "#/texts/86",
       "parent": {
         "$ref": "#/pictures/13"
       },
@@ -2937,7 +2988,7 @@
       "text": "TELEVISIÓN (/MILENIOTV)"
     },
     {
-      "self_ref": "#/texts/85",
+      "self_ref": "#/texts/87",
       "parent": {
         "$ref": "#/body"
       },
@@ -2964,7 +3015,7 @@
       "text": "ESCRIBIR COMENTARIO"
     },
     {
-      "self_ref": "#/texts/86",
+      "self_ref": "#/texts/88",
       "parent": {
         "$ref": "#/body"
       },
@@ -2991,7 +3042,7 @@
       "text": "Cada mensaje que nos llega de ustedes, cada mensaje que se publica en este foro, lo leemos y seleccionamos. Por favor, sigan escribiendo, solo pedimos buen criterio. Aquí hay lugar para casi todo: réplicas y contrarréplicas, datos duros, sugerencias de lecturas, humor, muestras de inconformidad y de indignación y hasta bromas. Solo pedimos civilidad y respeto."
     },
     {
-      "self_ref": "#/texts/87",
+      "self_ref": "#/texts/89",
       "parent": {
         "$ref": "#/body"
       },
@@ -3018,7 +3069,7 @@
       "text": "PUBLICAR"
     },
     {
-      "self_ref": "#/texts/88",
+      "self_ref": "#/texts/90",
       "parent": {
         "$ref": "#/body"
       },
@@ -3046,7 +3097,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/89",
+      "self_ref": "#/texts/91",
       "parent": {
         "$ref": "#/body"
       },
@@ -3073,7 +3124,7 @@
       "text": "(http://buhamster.com/20-fotos-inolvidables-que-nos-han-impresionado-mucho-ultimamente.html)"
     },
     {
-      "self_ref": "#/texts/90",
+      "self_ref": "#/texts/92",
       "parent": {
         "$ref": "#/body"
       },
@@ -3101,7 +3152,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/91",
+      "self_ref": "#/texts/93",
       "parent": {
         "$ref": "#/body"
       },
@@ -3128,7 +3179,7 @@
       "text": "BuHamster.com"
     },
     {
-      "self_ref": "#/texts/92",
+      "self_ref": "#/texts/94",
       "parent": {
         "$ref": "#/body"
       },
@@ -3155,7 +3206,7 @@
       "text": "(http://buhamster.com/20-fotos-inolvidables-que-nos-han-impresionado-mucho-ultimamente.html)"
     },
     {
-      "self_ref": "#/texts/93",
+      "self_ref": "#/texts/95",
       "parent": {
         "$ref": "#/body"
       },
@@ -3182,7 +3233,7 @@
       "text": "(https://om.forgeofempires.com/foe/?ref=tab_row_mktdet&&external_param=93740441&pid=milenio&bid=93740441)"
     },
     {
-      "self_ref": "#/texts/94",
+      "self_ref": "#/texts/96",
       "parent": {
         "$ref": "#/body"
       },
@@ -3210,7 +3261,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/95",
+      "self_ref": "#/texts/97",
       "parent": {
         "$ref": "#/body"
       },
@@ -3237,7 +3288,7 @@
       "text": "Forge of Empires - Free Online Game"
     },
     {
-      "self_ref": "#/texts/96",
+      "self_ref": "#/texts/98",
       "parent": {
         "$ref": "#/body"
       },
@@ -3264,7 +3315,7 @@
       "text": "(https://om.forgeofempires.com/foe/?ref=tab_row_mktdet&&external_param=93740441&pid=milenio&bid=93740441) (https://www.save70.com/flights/?utm_source=taboola_flights_spanish_1&lang=es&nl=0)"
     },
     {
-      "self_ref": "#/texts/97",
+      "self_ref": "#/texts/99",
       "parent": {
         "$ref": "#/body"
       },
@@ -3292,7 +3343,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/98",
+      "self_ref": "#/texts/100",
       "parent": {
         "$ref": "#/body"
       },
@@ -3319,7 +3370,7 @@
       "text": "Save70"
     },
     {
-      "self_ref": "#/texts/99",
+      "self_ref": "#/texts/101",
       "parent": {
         "$ref": "#/body"
       },
@@ -3346,7 +3397,7 @@
       "text": "(https://www.save70.com/flights/?utm_source=taboola_flights_spanish_1&lang=es&nl=0) (http://gran-oportunidad.com/art/ec/la-nueva-formula-de-aprendizaje-automatico-de-idiomas-en-2-semanas?"
     },
     {
-      "self_ref": "#/texts/100",
+      "self_ref": "#/texts/102",
       "parent": {
         "$ref": "#/body"
       },
@@ -3373,7 +3424,7 @@
       "text": "utm_content=bedsmile_bezgramatyki_jakgabka&utm_source=taboola&utm_medium=maxcpc&utm_campaign=ec-taboola-maxcpc-msnsmartbid-2018-09-20&utm_term=milenio)"
     },
     {
-      "self_ref": "#/texts/101",
+      "self_ref": "#/texts/103",
       "parent": {
         "$ref": "#/body"
       },
@@ -3401,7 +3452,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/102",
+      "self_ref": "#/texts/104",
       "parent": {
         "$ref": "#/body"
       },
@@ -3428,7 +3479,7 @@
       "text": "Fast Phrases"
     },
     {
-      "self_ref": "#/texts/103",
+      "self_ref": "#/texts/105",
       "parent": {
         "$ref": "#/body"
       },
@@ -3455,7 +3506,7 @@
       "text": "(http://gran-oportunidad.com/art/ec/la-nueva-formula-de-aprendizaje-automatico-de-idiomas-en-2-semanas?"
     },
     {
-      "self_ref": "#/texts/104",
+      "self_ref": "#/texts/106",
       "parent": {
         "$ref": "#/body"
       },
@@ -3482,7 +3533,7 @@
       "text": "utm_content=bedsmile_bezgramatyki_jakgabka&utm_source=taboola&utm_medium=maxcpc&utm_campaign=ec-taboola-maxcpc-msnsmartbid-2018-09-20&utm_term=milenio)"
     },
     {
-      "self_ref": "#/texts/105",
+      "self_ref": "#/texts/107",
       "parent": {
         "$ref": "#/body"
       },
@@ -3509,7 +3560,7 @@
       "text": "(https://es.simplesite.com/pages/receive.aspx?"
     },
     {
-      "self_ref": "#/texts/106",
+      "self_ref": "#/texts/108",
       "parent": {
         "$ref": "#/body"
       },
@@ -3536,7 +3587,7 @@
       "text": "partnerkey=taboolacoreg:Taboola_CPA_Coreg_SAM_EC_ES_Site=milenio_Title=SimpleSite+-"
     },
     {
-      "self_ref": "#/texts/107",
+      "self_ref": "#/texts/109",
       "parent": {
         "$ref": "#/pictures/14"
       },
@@ -3563,7 +3614,7 @@
       "text": " "
     },
     {
-      "self_ref": "#/texts/108",
+      "self_ref": "#/texts/110",
       "parent": {
         "$ref": "#/body"
       },
@@ -3590,7 +3641,7 @@
       "text": "+F%C3%A1cil+creaci%C3%B3n+de+sitios+web_CampaignID=546276_ItemID=79857968_Device=Desktop&target=ftp3:crea&culturekey=es"
     },
     {
-      "self_ref": "#/texts/109",
+      "self_ref": "#/texts/111",
       "parent": {
         "$ref": "#/body"
       },
@@ -3618,7 +3669,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/110",
+      "self_ref": "#/texts/112",
       "parent": {
         "$ref": "#/body"
       },
@@ -3645,7 +3696,7 @@
       "text": "SimpleSite"
     },
     {
-      "self_ref": "#/texts/111",
+      "self_ref": "#/texts/113",
       "parent": {
         "$ref": "#/body"
       },
@@ -3672,7 +3723,7 @@
       "text": "IMPRESO (/IMPRESO)"
     },
     {
-      "self_ref": "#/texts/112",
+      "self_ref": "#/texts/114",
       "parent": {
         "$ref": "#/body"
       },
@@ -3699,7 +3750,7 @@
       "text": "TELEVISIÓN (/MILENIOTV)"
     },
     {
-      "self_ref": "#/texts/113",
+      "self_ref": "#/texts/115",
       "parent": {
         "$ref": "#/body"
       },
@@ -3726,7 +3777,7 @@
       "text": "(https://es.simplesite.com/pages/receive.aspx?"
     },
     {
-      "self_ref": "#/texts/114",
+      "self_ref": "#/texts/116",
       "parent": {
         "$ref": "#/body"
       },
@@ -3753,7 +3804,7 @@
       "text": "partnerkey=taboolacoreg:Taboola_CPA_Coreg_SAM_EC_ES_Site=milenio_Title=SimpleSite+-"
     },
     {
-      "self_ref": "#/texts/115",
+      "self_ref": "#/texts/117",
       "parent": {
         "$ref": "#/body"
       },
@@ -3780,7 +3831,7 @@
       "text": "+F%C3%A1cil+creaci%C3%B3n+de+sitios+web_CampaignID=546276_ItemID=79857968_Device=Desktop&target=ftp3:crea&culturekey=es"
     },
     {
-      "self_ref": "#/texts/116",
+      "self_ref": "#/texts/118",
       "parent": {
         "$ref": "#/body"
       },
@@ -3807,7 +3858,7 @@
       "text": "(http://buquiz.com/96-de-los-adultos-no-aprueban-este-examen-escolar-basico-puedes-tu.html)"
     },
     {
-      "self_ref": "#/texts/117",
+      "self_ref": "#/texts/119",
       "parent": {
         "$ref": "#/body"
       },
@@ -3835,7 +3886,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/118",
+      "self_ref": "#/texts/120",
       "parent": {
         "$ref": "#/body"
       },
@@ -3862,7 +3913,7 @@
       "text": "Buquiz.com"
     },
     {
-      "self_ref": "#/texts/119",
+      "self_ref": "#/texts/121",
       "parent": {
         "$ref": "#/body"
       },
@@ -3889,7 +3940,7 @@
       "text": "(http://buquiz.com/96-de-los-adultos-no-aprueban-este-examen-escolar-basico-puedes-tu.html)"
     },
     {
-      "self_ref": "#/texts/120",
+      "self_ref": "#/texts/122",
       "parent": {
         "$ref": "#/body"
       },
@@ -3916,7 +3967,7 @@
       "text": "(http://www.viralxfiles.com/20-maneras-legitimas-de-ganar-dinero-en-linea/?"
     },
     {
-      "self_ref": "#/texts/121",
+      "self_ref": "#/texts/123",
       "parent": {
         "$ref": "#/body"
       },
@@ -3943,7 +3994,7 @@
       "text": "utm_source=milenio&utm_medium=taboola&utm_campaign=159_VXF_MMO_es_all&utm_content=123279888)"
     },
     {
-      "self_ref": "#/texts/122",
+      "self_ref": "#/texts/124",
       "parent": {
         "$ref": "#/body"
       },
@@ -3971,7 +4022,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/123",
+      "self_ref": "#/texts/125",
       "parent": {
         "$ref": "#/body"
       },
@@ -4012,7 +4063,7 @@
       "text": "Viral X Files utm_source=milenio&utm_medium=taboola&utm_campaign=159_VXF_MMO_es_all&utm_content=123279888)"
     },
     {
-      "self_ref": "#/texts/124",
+      "self_ref": "#/texts/126",
       "parent": {
         "$ref": "#/body"
       },
@@ -4039,7 +4090,7 @@
       "text": "(http://www.viralxfiles.com/20-maneras-legitimas-de-ganar-dinero-en-linea/? (https://www.thelotter.com/es/ecuatorianos-pueden-jugar-powerball/?"
     },
     {
-      "self_ref": "#/texts/125",
+      "self_ref": "#/texts/127",
       "parent": {
         "$ref": "#/body"
       },
@@ -4066,7 +4117,7 @@
       "text": "affid=167&utm_source=Taboola&utm_medium=Article&utm_campaign=1395ecuador12flip)"
     },
     {
-      "self_ref": "#/texts/126",
+      "self_ref": "#/texts/128",
       "parent": {
         "$ref": "#/body"
       },
@@ -4094,7 +4145,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/127",
+      "self_ref": "#/texts/129",
       "parent": {
         "$ref": "#/body"
       },
@@ -4121,7 +4172,7 @@
       "text": "theLotter.com"
     },
     {
-      "self_ref": "#/texts/128",
+      "self_ref": "#/texts/130",
       "parent": {
         "$ref": "#/body"
       },
@@ -4148,7 +4199,7 @@
       "text": "(https://www.thelotter.com/es/ecuatorianos-pueden-jugar-powerball/?"
     },
     {
-      "self_ref": "#/texts/129",
+      "self_ref": "#/texts/131",
       "parent": {
         "$ref": "#/body"
       },
@@ -4175,7 +4226,7 @@
       "text": "affid=167&utm_source=Taboola&utm_medium=Article&utm_campaign=1395ecuador12flip)"
     },
     {
-      "self_ref": "#/texts/130",
+      "self_ref": "#/texts/132",
       "parent": {
         "$ref": "#/body"
       },
@@ -4202,7 +4253,7 @@
       "text": "(http://buquiz.com/puedes-identificar-a-estas-famosas-figuras-historicas.html)"
     },
     {
-      "self_ref": "#/texts/131",
+      "self_ref": "#/texts/133",
       "parent": {
         "$ref": "#/body"
       },
@@ -4230,7 +4281,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/132",
+      "self_ref": "#/texts/134",
       "parent": {
         "$ref": "#/body"
       },
@@ -4257,7 +4308,7 @@
       "text": "Buquiz.com"
     },
     {
-      "self_ref": "#/texts/133",
+      "self_ref": "#/texts/135",
       "parent": {
         "$ref": "#/body"
       },
@@ -4284,7 +4335,7 @@
       "text": "(http://buquiz.com/puedes-identificar-a-estas-famosas-figuras-historicas.html)"
     },
     {
-      "self_ref": "#/texts/134",
+      "self_ref": "#/texts/136",
       "parent": {
         "$ref": "#/body"
       },
@@ -4311,7 +4362,7 @@
       "text": "(http://buhamster.com/lo-que-los-ninos-alrededor-del-mundo-comen-de-almuerzo-en-la-escuela.html)"
     },
     {
-      "self_ref": "#/texts/135",
+      "self_ref": "#/texts/137",
       "parent": {
         "$ref": "#/body"
       },
@@ -4339,7 +4390,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/136",
+      "self_ref": "#/texts/138",
       "parent": {
         "$ref": "#/body"
       },
@@ -4366,7 +4417,7 @@
       "text": "BuHamster.com"
     },
     {
-      "self_ref": "#/texts/137",
+      "self_ref": "#/texts/139",
       "parent": {
         "$ref": "#/body"
       },
@@ -4393,7 +4444,7 @@
       "text": "(http://buhamster.com/lo-que-los-ninos-alrededor-del-mundo-comen-de-almuerzo-en-la-escuela.html)"
     },
     {
-      "self_ref": "#/texts/138",
+      "self_ref": "#/texts/140",
       "parent": {
         "$ref": "#/body"
       },
@@ -4420,7 +4471,7 @@
       "text": "(http://buhamster.com/25-fotos-realmente-impresionantes-de-lugares-abandonados.html)"
     },
     {
-      "self_ref": "#/texts/139",
+      "self_ref": "#/texts/141",
       "parent": {
         "$ref": "#/body"
       },
@@ -4448,7 +4499,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/140",
+      "self_ref": "#/texts/142",
       "parent": {
         "$ref": "#/body"
       },
@@ -4475,7 +4526,7 @@
       "text": "BuHamster.com"
     },
     {
-      "self_ref": "#/texts/141",
+      "self_ref": "#/texts/143",
       "parent": {
         "$ref": "#/body"
       },
@@ -4502,7 +4553,7 @@
       "text": "(http://buhamster.com/25-fotos-realmente-impresionantes-de-lugares-abandonados.html) (http://buquiz.com/cuantas-de-estas-comidas-puedes-identificar.html)"
     },
     {
-      "self_ref": "#/texts/142",
+      "self_ref": "#/texts/144",
       "parent": {
         "$ref": "#/body"
       },
@@ -4530,7 +4581,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/143",
+      "self_ref": "#/texts/145",
       "parent": {
         "$ref": "#/body"
       },
@@ -4557,7 +4608,7 @@
       "text": "Buquiz.com"
     },
     {
-      "self_ref": "#/texts/144",
+      "self_ref": "#/texts/146",
       "parent": {
         "$ref": "#/body"
       },
@@ -4584,7 +4635,7 @@
       "text": "(http://buquiz.com/cuantas-de-estas-comidas-puedes-identificar.html)"
     },
     {
-      "self_ref": "#/texts/145",
+      "self_ref": "#/texts/147",
       "parent": {
         "$ref": "#/body"
       },
@@ -4611,7 +4662,7 @@
       "text": "(http://gran-oportunidad.com/art/ec/la-nueva-formula-de-aprendizaje-automatico-de-idiomas-en-2-semanas?"
     },
     {
-      "self_ref": "#/texts/146",
+      "self_ref": "#/texts/148",
       "parent": {
         "$ref": "#/body"
       },
@@ -4638,7 +4689,7 @@
       "text": "utm_content=stock2_3semanas&utm_source=taboola&utm_medium=maxcpc&utm_campaign=ec-taboola-maxcpc-msn-smartbid-2018-0920&utm_term=milenio)"
     },
     {
-      "self_ref": "#/texts/147",
+      "self_ref": "#/texts/149",
       "parent": {
         "$ref": "#/body"
       },
@@ -4666,7 +4717,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/148",
+      "self_ref": "#/texts/150",
       "parent": {
         "$ref": "#/body"
       },
@@ -4693,7 +4744,7 @@
       "text": "Fast Phrases"
     },
     {
-      "self_ref": "#/texts/149",
+      "self_ref": "#/texts/151",
       "parent": {
         "$ref": "#/body"
       },
@@ -4720,7 +4771,7 @@
       "text": "(http://gran-oportunidad.com/art/ec/la-nueva-formula-de-aprendizaje-automatico-de-idiomas-en-2-semanas? utm_content=stock2_3semanas&utm_source=taboola&utm_medium=maxcpc&utm_campaign=ec-taboola-maxcpc-msn-smartbid-2018-0920&utm_term=milenio) (http://buquiz.com/puedes-identificar-estas-pelotas.html)"
     },
     {
-      "self_ref": "#/texts/150",
+      "self_ref": "#/texts/152",
       "parent": {
         "$ref": "#/body"
       },
@@ -4748,7 +4799,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/151",
+      "self_ref": "#/texts/153",
       "parent": {
         "$ref": "#/body"
       },
@@ -4775,7 +4826,7 @@
       "text": "Ingresar"
     },
     {
-      "self_ref": "#/texts/152",
+      "self_ref": "#/texts/154",
       "parent": {
         "$ref": "#/body"
       },
@@ -4802,61 +4853,61 @@
       "text": "Regístrate"
     },
     {
-      "self_ref": "#/texts/153",
-      "parent": {
-        "$ref": "#/pictures/15"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
-            "l": 543.739,
-            "t": 766.1730029101562,
-            "r": 559.496,
-            "b": 756.1870029101563,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            1
-          ]
-        }
-      ],
-      "orig": "",
-      "text": ""
-    },
-    {
-      "self_ref": "#/texts/154",
-      "parent": {
-        "$ref": "#/pictures/15"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
-            "l": 543.739,
-            "t": 766.1730029101562,
-            "r": 559.496,
-            "b": 756.1870029101563,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            1
-          ]
-        }
-      ],
-      "orig": "",
-      "text": ""
-    },
-    {
       "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/pictures/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 543.739,
+            "t": 766.1730029101562,
+            "r": 559.496,
+            "b": 756.1870029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/pictures/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 543.739,
+            "t": 766.1730029101562,
+            "r": 559.496,
+            "b": 756.1870029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/157",
       "parent": {
         "$ref": "#/body"
       },
@@ -4883,7 +4934,7 @@
       "text": "Buquiz.com"
     },
     {
-      "self_ref": "#/texts/156",
+      "self_ref": "#/texts/158",
       "parent": {
         "$ref": "#/body"
       },
@@ -4910,7 +4961,7 @@
       "text": "(http://buquiz.com/puedes-identificar-estas-pelotas.html)"
     },
     {
-      "self_ref": "#/texts/157",
+      "self_ref": "#/texts/159",
       "parent": {
         "$ref": "#/body"
       },
@@ -4937,7 +4988,7 @@
       "text": "(https://www.thelotter.com/es/ecuatorianos-jugando-loteria-online/?"
     },
     {
-      "self_ref": "#/texts/158",
+      "self_ref": "#/texts/160",
       "parent": {
         "$ref": "#/body"
       },
@@ -4964,7 +5015,7 @@
       "text": "affid=167&utm_source=Taboola&utm_medium=Article&utm_campaign=1420_ecuador_desktop_v12) IMPRESO (/IMPRESO) TELEVISIÓN (/MILENIOTV)"
     },
     {
-      "self_ref": "#/texts/159",
+      "self_ref": "#/texts/161",
       "parent": {
         "$ref": "#/body"
       },
@@ -4992,7 +5043,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/160",
+      "self_ref": "#/texts/162",
       "parent": {
         "$ref": "#/body"
       },
@@ -5019,7 +5070,7 @@
       "text": "theLotter.com"
     },
     {
-      "self_ref": "#/texts/161",
+      "self_ref": "#/texts/163",
       "parent": {
         "$ref": "#/body"
       },
@@ -5046,7 +5097,7 @@
       "text": "(https://www.thelotter.com/es/ecuatorianos-jugando-loteria-online/?"
     },
     {
-      "self_ref": "#/texts/162",
+      "self_ref": "#/texts/164",
       "parent": {
         "$ref": "#/body"
       },
@@ -5073,7 +5124,7 @@
       "text": "affid=167&utm_source=Taboola&utm_medium=Article&utm_campaign=1420_ecuador_desktop_v12)"
     },
     {
-      "self_ref": "#/texts/163",
+      "self_ref": "#/texts/165",
       "parent": {
         "$ref": "#/body"
       },
@@ -5100,7 +5151,7 @@
       "text": "(http://buquiz.com/eres-una-de-las-personas-que-pueden-nombrar-todos-estos-edificios-famosos.html)"
     },
     {
-      "self_ref": "#/texts/164",
+      "self_ref": "#/texts/166",
       "parent": {
         "$ref": "#/body"
       },
@@ -5128,7 +5179,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/165",
+      "self_ref": "#/texts/167",
       "parent": {
         "$ref": "#/body"
       },
@@ -5155,7 +5206,7 @@
       "text": "Buquiz.com"
     },
     {
-      "self_ref": "#/texts/166",
+      "self_ref": "#/texts/168",
       "parent": {
         "$ref": "#/body"
       },
@@ -5182,7 +5233,7 @@
       "text": "(http://buquiz.com/eres-una-de-las-personas-que-pueden-nombrar-todos-estos-edificios-famosos.html)"
     },
     {
-      "self_ref": "#/texts/167",
+      "self_ref": "#/texts/169",
       "parent": {
         "$ref": "#/body"
       },
@@ -5209,7 +5260,7 @@
       "text": "(http://gran-oportunidad.com/art/ec/la-nueva-formula-de-aprendizaje-automatico-de-idiomas-en-2-semanas?"
     },
     {
-      "self_ref": "#/texts/168",
+      "self_ref": "#/texts/170",
       "parent": {
         "$ref": "#/body"
       },
@@ -5236,7 +5287,7 @@
       "text": "utm_content=174HeadphonesSleeps_paralosperezosos&utm_source=taboola&utm_medium=maxcpc&utm_campaign=ec-taboola-maxcpcmsn-smartbid-2018-09-20&utm_term=milenio)"
     },
     {
-      "self_ref": "#/texts/169",
+      "self_ref": "#/texts/171",
       "parent": {
         "$ref": "#/body"
       },
@@ -5264,7 +5315,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/170",
+      "self_ref": "#/texts/172",
       "parent": {
         "$ref": "#/body"
       },
@@ -5291,7 +5342,7 @@
       "text": "Fast Phrases"
     },
     {
-      "self_ref": "#/texts/171",
+      "self_ref": "#/texts/173",
       "parent": {
         "$ref": "#/body"
       },
@@ -5318,7 +5369,7 @@
       "text": "(http://gran-oportunidad.com/art/ec/la-nueva-formula-de-aprendizaje-automatico-de-idiomas-en-2-semanas?"
     },
     {
-      "self_ref": "#/texts/172",
+      "self_ref": "#/texts/174",
       "parent": {
         "$ref": "#/body"
       },
@@ -5359,7 +5410,7 @@
       "text": "utm_content=174HeadphonesSleeps_paralosperezosos&utm_source=taboola&utm_medium=maxcpc&utm_campaign=ec-taboola-maxcpc- msn-smartbid-2018-09-20&utm_term=milenio)"
     },
     {
-      "self_ref": "#/texts/173",
+      "self_ref": "#/texts/175",
       "parent": {
         "$ref": "#/body"
       },
@@ -5386,7 +5437,7 @@
       "text": "(http://buquiz.com/puedes-adivinar-si-estos-lugares-de-cine-y-television-son-reales.html)"
     },
     {
-      "self_ref": "#/texts/174",
+      "self_ref": "#/texts/176",
       "parent": {
         "$ref": "#/body"
       },
@@ -5414,7 +5465,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/175",
+      "self_ref": "#/texts/177",
       "parent": {
         "$ref": "#/body"
       },
@@ -5441,7 +5492,7 @@
       "text": "Buquiz.com"
     },
     {
-      "self_ref": "#/texts/176",
+      "self_ref": "#/texts/178",
       "parent": {
         "$ref": "#/body"
       },
@@ -5468,7 +5519,7 @@
       "text": "(http://buquiz.com/puedes-adivinar-si-estos-lugares-de-cine-y-television-son-reales.html)"
     },
     {
-      "self_ref": "#/texts/177",
+      "self_ref": "#/texts/179",
       "parent": {
         "$ref": "#/body"
       },
@@ -5495,7 +5546,7 @@
       "text": "http://popup.taboola.com/es/?template=colorbox&utm_source=milenio&utm_medium=referral&utm_content=ab_thumbnails-a_abp-mode:Below Article Thumbnails No Feed:)"
     },
     {
-      "self_ref": "#/texts/178",
+      "self_ref": "#/texts/180",
       "parent": {
         "$ref": "#/pictures/16"
       },
@@ -5522,7 +5573,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/179",
+      "self_ref": "#/texts/181",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -5549,7 +5600,7 @@
       "text": "Privacidad (/aviso-de- privacidad)  "
     },
     {
-      "self_ref": "#/texts/180",
+      "self_ref": "#/texts/182",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -5576,7 +5627,7 @@
       "text": "Aviso"
     },
     {
-      "self_ref": "#/texts/181",
+      "self_ref": "#/texts/183",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -5603,7 +5654,7 @@
       "text": "Legal"
     },
     {
-      "self_ref": "#/texts/182",
+      "self_ref": "#/texts/184",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -5630,7 +5681,7 @@
       "text": "(/aviso-"
     },
     {
-      "self_ref": "#/texts/183",
+      "self_ref": "#/texts/185",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -5657,7 +5708,7 @@
       "text": "legal)"
     },
     {
-      "self_ref": "#/texts/184",
+      "self_ref": "#/texts/186",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -5684,7 +5735,7 @@
       "text": "(https://www.facebook.com/m (https://twitter.com/Mile hl=en) (https://plus (https"
     },
     {
-      "self_ref": "#/texts/185",
+      "self_ref": "#/texts/187",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -5711,7 +5762,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/186",
+      "self_ref": "#/texts/188",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -5738,7 +5789,7 @@
       "text": "(https://www.insta"
     },
     {
-      "self_ref": "#/texts/187",
+      "self_ref": "#/texts/189",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -5765,7 +5816,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/188",
+      "self_ref": "#/texts/190",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -5790,60 +5841,6 @@
       ],
       "orig": "",
       "text": ""
-    },
-    {
-      "self_ref": "#/texts/189",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 5,
-          "bbox": {
-            "l": 26.521,
-            "t": 345.66300291015625,
-            "r": 228.316,
-            "b": 340.7030029101562,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            62
-          ]
-        }
-      ],
-      "orig": "scripciones Anúnciate DERECHOS RESERVADOS © GRUPO MILENIO 2018",
-      "text": "scripciones Anúnciate DERECHOS RESERVADOS © GRUPO MILENIO 2018"
-    },
-    {
-      "self_ref": "#/texts/190",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 5,
-          "bbox": {
-            "l": 26.612,
-            "t": 332.1570029101562,
-            "r": 88.544,
-            "b": 327.19700291015624,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            13
-          ]
-        }
-      ],
-      "orig": "uscripciones)",
-      "text": "uscripciones)"
     },
     {
       "self_ref": "#/texts/191",
@@ -5875,6 +5872,87 @@
     {
       "self_ref": "#/texts/192",
       "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 219.66666666666666,
+            "t": 326.5866495768229,
+            "r": 245.0,
+            "b": 312.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "iab;",
+      "text": "iab;"
+    },
+    {
+      "self_ref": "#/texts/193",
+      "parent": {
+        "$ref": "#/pictures/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 26.521,
+            "t": 345.66300291015625,
+            "r": 228.316,
+            "b": 340.7030029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "scripciones Anúnciate DERECHOS RESERVADOS © GRUPO MILENIO 2018",
+      "text": "scripciones Anúnciate DERECHOS RESERVADOS © GRUPO MILENIO 2018"
+    },
+    {
+      "self_ref": "#/texts/194",
+      "parent": {
+        "$ref": "#/pictures/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 26.612,
+            "t": 332.1570029101562,
+            "r": 88.544,
+            "b": 327.19700291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "uscripciones)",
+      "text": "uscripciones)"
+    },
+    {
+      "self_ref": "#/texts/195",
+      "parent": {
         "$ref": "#/pictures/18"
       },
       "children": [],
@@ -5900,36 +5978,9 @@
       "text": "RESPONSABLE\""
     },
     {
-      "self_ref": "#/texts/193",
+      "self_ref": "#/texts/196",
       "parent": {
-        "$ref": "#/pictures/20"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 5,
-          "bbox": {
-            "l": 219.66666666666666,
-            "t": 326.5866495768229,
-            "r": 245.0,
-            "b": 312.5866495768229,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            4
-          ]
-        }
-      ],
-      "orig": "iab;",
-      "text": "iab;"
-    },
-    {
-      "self_ref": "#/texts/194",
-      "parent": {
-        "$ref": "#/pictures/21"
+        "$ref": "#/pictures/19"
       },
       "children": [],
       "content_layer": "body",
@@ -5954,7 +6005,7 @@
       "text": "comSCORE"
     },
     {
-      "self_ref": "#/texts/195",
+      "self_ref": "#/texts/197",
       "parent": {
         "$ref": "#/body"
       },
@@ -5981,7 +6032,7 @@
       "text": "Quiénes Somos (/quienessomos) Visítanos en"
     },
     {
-      "self_ref": "#/texts/196",
+      "self_ref": "#/texts/198",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -6008,7 +6059,7 @@
       "text": "Ingresar"
     },
     {
-      "self_ref": "#/texts/197",
+      "self_ref": "#/texts/199",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -6035,9 +6086,9 @@
       "text": "Regístrate"
     },
     {
-      "self_ref": "#/texts/198",
+      "self_ref": "#/texts/200",
       "parent": {
-        "$ref": "#/pictures/22"
+        "$ref": "#/pictures/20"
       },
       "children": [],
       "content_layer": "body",
@@ -6062,9 +6113,9 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/199",
+      "self_ref": "#/texts/201",
       "parent": {
-        "$ref": "#/pictures/22"
+        "$ref": "#/pictures/20"
       },
       "children": [],
       "content_layer": "body",
@@ -6106,10 +6157,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 36.1122932434082,
-            "t": 731.5349884033203,
-            "r": 48.915374755859375,
-            "b": 718.8616409301758,
+            "l": 36.11121368408203,
+            "t": 731.5352172851562,
+            "r": 48.91549301147461,
+            "b": 718.8623428344727,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6139,10 +6190,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 155.22250366210938,
-            "t": 781.477466583252,
-            "r": 389.3743896484375,
-            "b": 749.7151489257812,
+            "l": 155.22247314453125,
+            "t": 781.4775238037109,
+            "r": 389.3724060058594,
+            "b": 749.7151565551758,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6168,10 +6219,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 151.51895141601562,
-            "t": 555.9539794921875,
-            "r": 177.1165313720703,
-            "b": 529.8647155761719,
+            "l": 151.51844787597656,
+            "t": 555.9537048339844,
+            "r": 177.11830139160156,
+            "b": 529.8656005859375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6197,10 +6248,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 123.19052124023438,
-            "t": 555.6805419921875,
+            "l": 123.19039916992188,
+            "t": 555.68017578125,
             "r": 149.427978515625,
-            "b": 529.3600769042969,
+            "b": 529.3594360351562,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6226,10 +6277,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 95.07423400878906,
-            "t": 555.5237426757812,
-            "r": 121.47099304199219,
-            "b": 529.3810424804688,
+            "l": 95.073974609375,
+            "t": 555.5231323242188,
+            "r": 121.47138977050781,
+            "b": 529.3814392089844,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6259,10 +6310,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 38.54202651977539,
-            "t": 226.9141845703125,
-            "r": 102.60379791259766,
-            "b": 153.63665771484375,
+            "l": 38.54079055786133,
+            "t": 226.9146728515625,
+            "r": 102.60456848144531,
+            "b": 153.636962890625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6292,10 +6343,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 542.5363159179688,
-            "t": 772.6730880737305,
-            "r": 560.3300170898438,
-            "b": 755.0076141357422,
+            "l": 542.5369262695312,
+            "t": 772.6736068725586,
+            "r": 560.3311157226562,
+            "b": 755.0067138671875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6337,10 +6388,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 36.82232666015625,
-            "t": 115.44976806640625,
-            "r": 102.80326080322266,
-            "b": 43.0826416015625,
+            "l": 36.82028579711914,
+            "t": 115.4422607421875,
+            "r": 102.8023681640625,
+            "b": 43.0828857421875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6361,7 +6412,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/38"
+          "$ref": "#/texts/39"
         }
       ],
       "content_layer": "body",
@@ -6370,10 +6421,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 36.77260971069336,
-            "t": 758.6281967163086,
-            "r": 101.83228302001953,
-            "b": 714.7267227172852,
+            "l": 36.774871826171875,
+            "t": 758.6277084350586,
+            "r": 101.83146667480469,
+            "b": 714.7253570556641,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6399,10 +6450,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 542.344482421875,
-            "t": 772.4667205810547,
-            "r": 560.3408813476562,
-            "b": 754.7526550292969,
+            "l": 542.3455200195312,
+            "t": 772.4656982421875,
+            "r": 560.3424072265625,
+            "b": 754.7523880004883,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6423,9 +6474,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/44"
-        },
-        {
           "$ref": "#/texts/45"
         },
         {
@@ -6439,6 +6487,9 @@
         },
         {
           "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
         }
       ],
       "content_layer": "body",
@@ -6447,10 +6498,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 36.90538787841797,
-            "t": 700.3154754638672,
-            "r": 102.33293914794922,
-            "b": 627.7028961181641,
+            "l": 36.90701675415039,
+            "t": 700.3170623779297,
+            "r": 102.33326721191406,
+            "b": 627.7026977539062,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6471,9 +6522,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/52"
-        },
-        {
           "$ref": "#/texts/53"
         },
         {
@@ -6487,6 +6535,9 @@
         },
         {
           "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
         }
       ],
       "content_layer": "body",
@@ -6495,10 +6546,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 37.692420959472656,
-            "t": 608.5335235595703,
-            "r": 102.48963165283203,
-            "b": 531.1950073242188,
+            "l": 37.69155502319336,
+            "t": 608.5361633300781,
+            "r": 102.49009704589844,
+            "b": 531.19482421875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6524,10 +6575,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 298.5487976074219,
-            "t": 690.2776489257812,
-            "r": 320.1288146972656,
-            "b": 671.4354400634766,
+            "l": 298.54925537109375,
+            "t": 690.2768859863281,
+            "r": 320.1289978027344,
+            "b": 671.43603515625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6548,13 +6599,13 @@
       },
       "children": [
         {
-          "$ref": "#/texts/82"
-        },
-        {
-          "$ref": "#/texts/83"
-        },
-        {
           "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
         }
       ],
       "content_layer": "body",
@@ -6563,10 +6614,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 35.90380096435547,
-            "t": 781.5739212036133,
-            "r": 389.65972900390625,
-            "b": 744.6072616577148,
+            "l": 35.90285873413086,
+            "t": 781.5723724365234,
+            "r": 389.6589050292969,
+            "b": 744.6066818237305,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6587,7 +6638,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/107"
+          "$ref": "#/texts/109"
         }
       ],
       "content_layer": "body",
@@ -6596,10 +6647,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 542.5098266601562,
-            "t": 772.5673446655273,
-            "r": 560.4315795898438,
-            "b": 754.7835998535156,
+            "l": 542.5099487304688,
+            "t": 772.5677947998047,
+            "r": 560.4320678710938,
+            "b": 754.7828903198242,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6620,10 +6671,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/153"
+          "$ref": "#/texts/155"
         },
         {
-          "$ref": "#/texts/154"
+          "$ref": "#/texts/156"
         }
       ],
       "content_layer": "body",
@@ -6632,10 +6683,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 542.5445556640625,
-            "t": 772.4950485229492,
-            "r": 560.4202270507812,
-            "b": 754.9583435058594,
+            "l": 542.544677734375,
+            "t": 772.4953231811523,
+            "r": 560.4208374023438,
+            "b": 754.957649230957,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6656,7 +6707,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/178"
+          "$ref": "#/texts/180"
         }
       ],
       "content_layer": "body",
@@ -6665,10 +6716,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 536.1980590820312,
-            "t": 386.0928955078125,
-            "r": 545.65869140625,
-            "b": 374.0287170410156,
+            "l": 536.198486328125,
+            "t": 386.0919494628906,
+            "r": 545.6590576171875,
+            "b": 374.0306701660156,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6688,12 +6739,6 @@
         "$ref": "#/body"
       },
       "children": [
-        {
-          "$ref": "#/texts/179"
-        },
-        {
-          "$ref": "#/texts/180"
-        },
         {
           "$ref": "#/texts/181"
         },
@@ -6717,6 +6762,12 @@
         },
         {
           "$ref": "#/texts/188"
+        },
+        {
+          "$ref": "#/texts/189"
+        },
+        {
+          "$ref": "#/texts/190"
         }
       ],
       "content_layer": "body",
@@ -6725,10 +6776,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 402.85467529296875,
-            "t": 360.04547119140625,
-            "r": 567.9835205078125,
-            "b": 298.51800537109375,
+            "l": 402.8535461425781,
+            "t": 360.0352478027344,
+            "r": 567.984619140625,
+            "b": 298.52593994140625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6749,7 +6800,13 @@
       },
       "children": [
         {
-          "$ref": "#/texts/192"
+          "$ref": "#/texts/193"
+        },
+        {
+          "$ref": "#/texts/194"
+        },
+        {
+          "$ref": "#/texts/195"
         }
       ],
       "content_layer": "body",
@@ -6758,10 +6815,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 98.70880889892578,
-            "t": 333.9315185546875,
-            "r": 147.16323852539062,
-            "b": 315.5367431640625,
+            "l": 27.35399055480957,
+            "t": 347.16912841796875,
+            "r": 242.8310546875,
+            "b": 314.68072509765625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6780,17 +6837,21 @@
       "parent": {
         "$ref": "#/body"
       },
-      "children": [],
+      "children": [
+        {
+          "$ref": "#/texts/196"
+        }
+      ],
       "content_layer": "body",
       "label": "picture",
       "prov": [
         {
           "page_no": 5,
           "bbox": {
-            "l": 148.7467041015625,
-            "t": 331.9405822753906,
-            "r": 208.07630920410156,
-            "b": 313.3597412109375,
+            "l": 256.4156494140625,
+            "t": 333.1864013671875,
+            "r": 318.9080505371094,
+            "b": 313.86724853515625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6811,76 +6872,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/193"
-        }
-      ],
-      "content_layer": "body",
-      "label": "picture",
-      "prov": [
-        {
-          "page_no": 5,
-          "bbox": {
-            "l": 220.1334228515625,
-            "t": 334.5997619628906,
-            "r": 243.6216583251953,
-            "b": 313.3892822265625,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            0
-          ]
-        }
-      ],
-      "captions": [],
-      "references": [],
-      "footnotes": [],
-      "annotations": []
-    },
-    {
-      "self_ref": "#/pictures/21",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [
-        {
-          "$ref": "#/texts/194"
-        }
-      ],
-      "content_layer": "body",
-      "label": "picture",
-      "prov": [
-        {
-          "page_no": 5,
-          "bbox": {
-            "l": 256.4211730957031,
-            "t": 333.18719482421875,
-            "r": 318.88226318359375,
-            "b": 313.8721923828125,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            0
-          ]
-        }
-      ],
-      "captions": [],
-      "references": [],
-      "footnotes": [],
-      "annotations": []
-    },
-    {
-      "self_ref": "#/pictures/22",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [
-        {
-          "$ref": "#/texts/198"
+          "$ref": "#/texts/200"
         },
         {
-          "$ref": "#/texts/199"
+          "$ref": "#/texts/201"
         }
       ],
       "content_layer": "body",
@@ -6889,10 +6884,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 542.5498046875,
-            "t": 772.6464080810547,
-            "r": 560.486572265625,
-            "b": 754.7848663330078,
+            "l": 542.5494995117188,
+            "t": 772.6459197998047,
+            "r": 560.486328125,
+            "b": 754.7858352661133,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

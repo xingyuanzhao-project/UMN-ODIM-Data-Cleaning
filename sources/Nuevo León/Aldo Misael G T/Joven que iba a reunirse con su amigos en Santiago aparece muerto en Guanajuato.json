@@ -249,22 +249,19 @@
         "$ref": "#/pictures/10"
       },
       {
-        "$ref": "#/texts/106"
+        "$ref": "#/texts/107"
       },
       {
         "$ref": "#/pictures/11"
       },
       {
-        "$ref": "#/texts/107"
+        "$ref": "#/texts/108"
       },
       {
         "$ref": "#/pictures/12"
       },
       {
         "$ref": "#/pictures/13"
-      },
-      {
-        "$ref": "#/texts/110"
       },
       {
         "$ref": "#/texts/111"
@@ -279,16 +276,19 @@
         "$ref": "#/texts/114"
       },
       {
+        "$ref": "#/texts/115"
+      },
+      {
         "$ref": "#/groups/7"
       },
       {
-        "$ref": "#/texts/122"
+        "$ref": "#/texts/123"
       },
       {
         "$ref": "#/groups/8"
       },
       {
-        "$ref": "#/texts/124"
+        "$ref": "#/texts/125"
       },
       {
         "$ref": "#/pictures/14"
@@ -297,13 +297,13 @@
         "$ref": "#/groups/9"
       },
       {
-        "$ref": "#/texts/127"
+        "$ref": "#/texts/128"
       },
       {
         "$ref": "#/groups/10"
       },
       {
-        "$ref": "#/texts/129"
+        "$ref": "#/texts/130"
       },
       {
         "$ref": "#/groups/11"
@@ -312,7 +312,7 @@
         "$ref": "#/pictures/15"
       },
       {
-        "$ref": "#/texts/131"
+        "$ref": "#/texts/132"
       },
       {
         "$ref": "#/groups/12"
@@ -321,13 +321,10 @@
         "$ref": "#/pictures/16"
       },
       {
-        "$ref": "#/texts/133"
+        "$ref": "#/texts/134"
       },
       {
         "$ref": "#/pictures/17"
-      },
-      {
-        "$ref": "#/texts/134"
       },
       {
         "$ref": "#/texts/135"
@@ -342,31 +339,31 @@
         "$ref": "#/texts/138"
       },
       {
-        "$ref": "#/pictures/18"
-      },
-      {
         "$ref": "#/texts/139"
       },
       {
-        "$ref": "#/pictures/19"
+        "$ref": "#/pictures/18"
       },
       {
         "$ref": "#/texts/140"
       },
       {
-        "$ref": "#/pictures/20"
+        "$ref": "#/pictures/19"
       },
       {
         "$ref": "#/texts/141"
       },
       {
+        "$ref": "#/pictures/20"
+      },
+      {
         "$ref": "#/texts/142"
       },
       {
-        "$ref": "#/pictures/21"
+        "$ref": "#/texts/143"
       },
       {
-        "$ref": "#/texts/146"
+        "$ref": "#/pictures/21"
       },
       {
         "$ref": "#/texts/147"
@@ -381,16 +378,16 @@
         "$ref": "#/texts/150"
       },
       {
+        "$ref": "#/texts/151"
+      },
+      {
         "$ref": "#/pictures/22"
       },
       {
-        "$ref": "#/texts/155"
+        "$ref": "#/texts/156"
       },
       {
         "$ref": "#/pictures/23"
-      },
-      {
-        "$ref": "#/texts/160"
       },
       {
         "$ref": "#/texts/161"
@@ -405,19 +402,19 @@
         "$ref": "#/texts/164"
       },
       {
+        "$ref": "#/texts/165"
+      },
+      {
         "$ref": "#/pictures/24"
       },
       {
-        "$ref": "#/texts/165"
+        "$ref": "#/texts/166"
       },
       {
         "$ref": "#/pictures/25"
       },
       {
         "$ref": "#/pictures/26"
-      },
-      {
-        "$ref": "#/texts/173"
       },
       {
         "$ref": "#/texts/174"
@@ -432,16 +429,16 @@
         "$ref": "#/texts/177"
       },
       {
-        "$ref": "#/pictures/27"
-      },
-      {
         "$ref": "#/texts/178"
       },
       {
-        "$ref": "#/pictures/28"
+        "$ref": "#/pictures/27"
       },
       {
-        "$ref": "#/texts/180"
+        "$ref": "#/texts/179"
+      },
+      {
+        "$ref": "#/pictures/28"
       },
       {
         "$ref": "#/texts/181"
@@ -489,13 +486,16 @@
         "$ref": "#/texts/195"
       },
       {
-        "$ref": "#/groups/13"
-      },
-      {
         "$ref": "#/texts/196"
       },
       {
+        "$ref": "#/groups/13"
+      },
+      {
         "$ref": "#/texts/197"
+      },
+      {
+        "$ref": "#/texts/198"
       }
     ],
     "content_layer": "body",
@@ -698,9 +698,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/115"
-        },
-        {
           "$ref": "#/texts/116"
         },
         {
@@ -717,6 +714,9 @@
         },
         {
           "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
         }
       ],
       "content_layer": "body",
@@ -730,7 +730,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/123"
+          "$ref": "#/texts/124"
         }
       ],
       "content_layer": "body",
@@ -744,7 +744,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/126"
+          "$ref": "#/texts/127"
         }
       ],
       "content_layer": "body",
@@ -758,7 +758,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/128"
+          "$ref": "#/texts/129"
         }
       ],
       "content_layer": "body",
@@ -772,7 +772,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/130"
+          "$ref": "#/texts/131"
         }
       ],
       "content_layer": "body",
@@ -786,7 +786,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/132"
+          "$ref": "#/texts/133"
         }
       ],
       "content_layer": "body",
@@ -3760,6 +3760,33 @@
     {
       "self_ref": "#/texts/106",
       "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 211.66666666666666,
+            "t": 629.6666666666666,
+            "r": 219.0,
+            "b": 625.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "0u",
+      "text": "0u"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
         "$ref": "#/body"
       },
       "children": [],
@@ -3785,7 +3812,7 @@
       "text": "Se siente temblor de 4.2 en Allende, N.L"
     },
     {
-      "self_ref": "#/texts/107",
+      "self_ref": "#/texts/108",
       "parent": {
         "$ref": "#/body"
       },
@@ -3812,7 +3839,7 @@
       "text": "Allira Cohrs, una australiana sexy"
     },
     {
-      "self_ref": "#/texts/108",
+      "self_ref": "#/texts/109",
       "parent": {
         "$ref": "#/pictures/12"
       },
@@ -3839,7 +3866,7 @@
       "text": "Conoce los objetos más contaminados del hogar"
     },
     {
-      "self_ref": "#/texts/109",
+      "self_ref": "#/texts/110",
       "parent": {
         "$ref": "#/pictures/13"
       },
@@ -3866,7 +3893,7 @@
       "text": "Se va Gallo... ¿y llega ´Guillo´?"
     },
     {
-      "self_ref": "#/texts/110",
+      "self_ref": "#/texts/111",
       "parent": {
         "$ref": "#/body"
       },
@@ -3893,7 +3920,7 @@
       "text": "http://www.elhorizonte.mx/local/joven-que-iba-a-reunirse-con-su-amigos-en-santiago-aparece-muerto-en-guanajuato/1697346"
     },
     {
-      "self_ref": "#/texts/111",
+      "self_ref": "#/texts/112",
       "parent": {
         "$ref": "#/body"
       },
@@ -3920,7 +3947,7 @@
       "text": "5/11"
     },
     {
-      "self_ref": "#/texts/112",
+      "self_ref": "#/texts/113",
       "parent": {
         "$ref": "#/body"
       },
@@ -3947,7 +3974,7 @@
       "text": "24/2/2019"
     },
     {
-      "self_ref": "#/texts/113",
+      "self_ref": "#/texts/114",
       "parent": {
         "$ref": "#/body"
       },
@@ -3974,7 +4001,7 @@
       "text": "Joven que iba a reunirse con su amigos en Santiago aparece muerto en Guanajuato"
     },
     {
-      "self_ref": "#/texts/114",
+      "self_ref": "#/texts/115",
       "parent": {
         "$ref": "#/body"
       },
@@ -4002,7 +4029,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/115",
+      "self_ref": "#/texts/116",
       "parent": {
         "$ref": "#/groups/7"
       },
@@ -4031,7 +4058,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/116",
+      "self_ref": "#/texts/117",
       "parent": {
         "$ref": "#/groups/7"
       },
@@ -4060,7 +4087,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/117",
+      "self_ref": "#/texts/118",
       "parent": {
         "$ref": "#/groups/7"
       },
@@ -4089,7 +4116,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/118",
+      "self_ref": "#/texts/119",
       "parent": {
         "$ref": "#/groups/7"
       },
@@ -4118,7 +4145,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/119",
+      "self_ref": "#/texts/120",
       "parent": {
         "$ref": "#/groups/7"
       },
@@ -4147,7 +4174,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/120",
+      "self_ref": "#/texts/121",
       "parent": {
         "$ref": "#/groups/7"
       },
@@ -4176,7 +4203,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/121",
+      "self_ref": "#/texts/122",
       "parent": {
         "$ref": "#/groups/7"
       },
@@ -4205,7 +4232,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/122",
+      "self_ref": "#/texts/123",
       "parent": {
         "$ref": "#/body"
       },
@@ -4233,7 +4260,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/123",
+      "self_ref": "#/texts/124",
       "parent": {
         "$ref": "#/groups/8"
       },
@@ -4262,7 +4289,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/124",
+      "self_ref": "#/texts/125",
       "parent": {
         "$ref": "#/body"
       },
@@ -4289,7 +4316,7 @@
       "text": "Ola violencia tumba a Felipe Gallo como"
     },
     {
-      "self_ref": "#/texts/125",
+      "self_ref": "#/texts/126",
       "parent": {
         "$ref": "#/pictures/14"
       },
@@ -4316,7 +4343,7 @@
       "text": "titular de..."
     },
     {
-      "self_ref": "#/texts/126",
+      "self_ref": "#/texts/127",
       "parent": {
         "$ref": "#/groups/9"
       },
@@ -4345,7 +4372,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/127",
+      "self_ref": "#/texts/128",
       "parent": {
         "$ref": "#/body"
       },
@@ -4373,7 +4400,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/128",
+      "self_ref": "#/texts/129",
       "parent": {
         "$ref": "#/groups/10"
       },
@@ -4402,7 +4429,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/129",
+      "self_ref": "#/texts/130",
       "parent": {
         "$ref": "#/body"
       },
@@ -4429,7 +4456,7 @@
       "text": "Violencia en San Pedro cuesta el cargo a Gallo"
     },
     {
-      "self_ref": "#/texts/130",
+      "self_ref": "#/texts/131",
       "parent": {
         "$ref": "#/groups/11"
       },
@@ -4458,7 +4485,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/131",
+      "self_ref": "#/texts/132",
       "parent": {
         "$ref": "#/body"
       },
@@ -4486,7 +4513,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/132",
+      "self_ref": "#/texts/133",
       "parent": {
         "$ref": "#/groups/12"
       },
@@ -4515,7 +4542,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/133",
+      "self_ref": "#/texts/134",
       "parent": {
         "$ref": "#/body"
       },
@@ -4543,7 +4570,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/134",
+      "self_ref": "#/texts/135",
       "parent": {
         "$ref": "#/body"
       },
@@ -4570,7 +4597,7 @@
       "text": "http://www.elhorizonte.mx/local/joven-que-iba-a-reunirse-con-su-amigos-en-santiago-aparece-muerto-en-guanajuato/1697346"
     },
     {
-      "self_ref": "#/texts/135",
+      "self_ref": "#/texts/136",
       "parent": {
         "$ref": "#/body"
       },
@@ -4597,7 +4624,7 @@
       "text": "6/11"
     },
     {
-      "self_ref": "#/texts/136",
+      "self_ref": "#/texts/137",
       "parent": {
         "$ref": "#/body"
       },
@@ -4624,7 +4651,7 @@
       "text": "24/2/2019"
     },
     {
-      "self_ref": "#/texts/137",
+      "self_ref": "#/texts/138",
       "parent": {
         "$ref": "#/body"
       },
@@ -4651,7 +4678,7 @@
       "text": "Joven que iba a reunirse con su amigos en Santiago aparece muerto en Guanajuato"
     },
     {
-      "self_ref": "#/texts/138",
+      "self_ref": "#/texts/139",
       "parent": {
         "$ref": "#/body"
       },
@@ -4679,7 +4706,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/139",
+      "self_ref": "#/texts/140",
       "parent": {
         "$ref": "#/body"
       },
@@ -4707,7 +4734,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/140",
+      "self_ref": "#/texts/141",
       "parent": {
         "$ref": "#/body"
       },
@@ -4734,7 +4761,7 @@
       "text": "Rayados pierde la cima del torneo tras empate 0-0 ante Puebl..."
     },
     {
-      "self_ref": "#/texts/141",
+      "self_ref": "#/texts/142",
       "parent": {
         "$ref": "#/body"
       },
@@ -4761,7 +4788,7 @@
       "text": "'Roma' es galardonada en los Independent Spirit Awards"
     },
     {
-      "self_ref": "#/texts/142",
+      "self_ref": "#/texts/143",
       "parent": {
         "$ref": "#/body"
       },
@@ -4789,7 +4816,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/143",
+      "self_ref": "#/texts/144",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -4816,7 +4843,7 @@
       "text": "ELHORIZONIE"
     },
     {
-      "self_ref": "#/texts/144",
+      "self_ref": "#/texts/145",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -4843,7 +4870,7 @@
       "text": "ola deviolencia"
     },
     {
-      "self_ref": "#/texts/145",
+      "self_ref": "#/texts/146",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -4870,7 +4897,7 @@
       "text": "nul"
     },
     {
-      "self_ref": "#/texts/146",
+      "self_ref": "#/texts/147",
       "parent": {
         "$ref": "#/body"
       },
@@ -4897,7 +4924,7 @@
       "text": "Portada 24-febrero-2019"
     },
     {
-      "self_ref": "#/texts/147",
+      "self_ref": "#/texts/148",
       "parent": {
         "$ref": "#/body"
       },
@@ -4924,7 +4951,7 @@
       "text": "http://www.elhorizonte.mx/local/joven-que-iba-a-reunirse-con-su-amigos-en-santiago-aparece-muerto-en-guanajuato/1697346"
     },
     {
-      "self_ref": "#/texts/148",
+      "self_ref": "#/texts/149",
       "parent": {
         "$ref": "#/body"
       },
@@ -4951,7 +4978,7 @@
       "text": "7/11"
     },
     {
-      "self_ref": "#/texts/149",
+      "self_ref": "#/texts/150",
       "parent": {
         "$ref": "#/body"
       },
@@ -4978,7 +5005,7 @@
       "text": "24/2/2019"
     },
     {
-      "self_ref": "#/texts/150",
+      "self_ref": "#/texts/151",
       "parent": {
         "$ref": "#/body"
       },
@@ -5005,7 +5032,7 @@
       "text": "Joven que iba a reunirse con su amigos en Santiago aparece muerto en Guanajuato"
     },
     {
-      "self_ref": "#/texts/151",
+      "self_ref": "#/texts/152",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -5032,7 +5059,7 @@
       "text": "LOCAL"
     },
     {
-      "self_ref": "#/texts/152",
+      "self_ref": "#/texts/153",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -5059,7 +5086,7 @@
       "text": "7"
     },
     {
-      "self_ref": "#/texts/153",
+      "self_ref": "#/texts/154",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -5086,7 +5113,7 @@
       "text": "Amenazan pedreras"
     },
     {
-      "self_ref": "#/texts/154",
+      "self_ref": "#/texts/155",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -5113,7 +5140,7 @@
       "text": "ecosistema del rio"
     },
     {
-      "self_ref": "#/texts/155",
+      "self_ref": "#/texts/156",
       "parent": {
         "$ref": "#/body"
       },
@@ -5141,7 +5168,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/156",
+      "self_ref": "#/texts/157",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -5168,7 +5195,7 @@
       "text": "BienesRaíces"
     },
     {
-      "self_ref": "#/texts/157",
+      "self_ref": "#/texts/158",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -5195,7 +5222,7 @@
       "text": "desarrollos"
     },
     {
-      "self_ref": "#/texts/158",
+      "self_ref": "#/texts/159",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -5222,7 +5249,7 @@
       "text": "PREVENTA"
     },
     {
-      "self_ref": "#/texts/159",
+      "self_ref": "#/texts/160",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -5249,7 +5276,7 @@
       "text": "[81 3141 0737"
     },
     {
-      "self_ref": "#/texts/160",
+      "self_ref": "#/texts/161",
       "parent": {
         "$ref": "#/body"
       },
@@ -5277,7 +5304,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/161",
+      "self_ref": "#/texts/162",
       "parent": {
         "$ref": "#/body"
       },
@@ -5304,7 +5331,7 @@
       "text": "http://www.elhorizonte.mx/local/joven-que-iba-a-reunirse-con-su-amigos-en-santiago-aparece-muerto-en-guanajuato/1697346"
     },
     {
-      "self_ref": "#/texts/162",
+      "self_ref": "#/texts/163",
       "parent": {
         "$ref": "#/body"
       },
@@ -5331,7 +5358,7 @@
       "text": "8/11"
     },
     {
-      "self_ref": "#/texts/163",
+      "self_ref": "#/texts/164",
       "parent": {
         "$ref": "#/body"
       },
@@ -5358,7 +5385,7 @@
       "text": "24/2/2019"
     },
     {
-      "self_ref": "#/texts/164",
+      "self_ref": "#/texts/165",
       "parent": {
         "$ref": "#/body"
       },
@@ -5385,7 +5412,7 @@
       "text": "Joven que iba a reunirse con su amigos en Santiago aparece muerto en Guanajuato"
     },
     {
-      "self_ref": "#/texts/165",
+      "self_ref": "#/texts/166",
       "parent": {
         "$ref": "#/body"
       },
@@ -5413,7 +5440,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/166",
+      "self_ref": "#/texts/167",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5440,7 +5467,7 @@
       "text": "Escena 24-febrero-2019"
     },
     {
-      "self_ref": "#/texts/167",
+      "self_ref": "#/texts/168",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5467,7 +5494,7 @@
       "text": "ELMIEXICANO"
     },
     {
-      "self_ref": "#/texts/168",
+      "self_ref": "#/texts/169",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5494,7 +5521,7 @@
       "text": "QUE ROMPIÓ"
     },
     {
-      "self_ref": "#/texts/169",
+      "self_ref": "#/texts/170",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5521,7 +5548,7 @@
       "text": "LAS REGLAS"
     },
     {
-      "self_ref": "#/texts/170",
+      "self_ref": "#/texts/171",
       "parent": {
         "$ref": "#/pictures/26"
       },
@@ -5548,7 +5575,7 @@
       "text": "Perfiles 23-febrero-2019"
     },
     {
-      "self_ref": "#/texts/171",
+      "self_ref": "#/texts/172",
       "parent": {
         "$ref": "#/pictures/26"
       },
@@ -5575,7 +5602,7 @@
       "text": "PERF\""
     },
     {
-      "self_ref": "#/texts/172",
+      "self_ref": "#/texts/173",
       "parent": {
         "$ref": "#/pictures/26"
       },
@@ -5602,7 +5629,7 @@
       "text": "ES"
     },
     {
-      "self_ref": "#/texts/173",
+      "self_ref": "#/texts/174",
       "parent": {
         "$ref": "#/body"
       },
@@ -5629,7 +5656,7 @@
       "text": "http://www.elhorizonte.mx/local/joven-que-iba-a-reunirse-con-su-amigos-en-santiago-aparece-muerto-en-guanajuato/1697346"
     },
     {
-      "self_ref": "#/texts/174",
+      "self_ref": "#/texts/175",
       "parent": {
         "$ref": "#/body"
       },
@@ -5656,7 +5683,7 @@
       "text": "9/11"
     },
     {
-      "self_ref": "#/texts/175",
+      "self_ref": "#/texts/176",
       "parent": {
         "$ref": "#/body"
       },
@@ -5683,7 +5710,7 @@
       "text": "24/2/2019"
     },
     {
-      "self_ref": "#/texts/176",
+      "self_ref": "#/texts/177",
       "parent": {
         "$ref": "#/body"
       },
@@ -5710,7 +5737,7 @@
       "text": "Joven que iba a reunirse con su amigos en Santiago aparece muerto en Guanajuato"
     },
     {
-      "self_ref": "#/texts/177",
+      "self_ref": "#/texts/178",
       "parent": {
         "$ref": "#/body"
       },
@@ -5738,7 +5765,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/178",
+      "self_ref": "#/texts/179",
       "parent": {
         "$ref": "#/body"
       },
@@ -5766,7 +5793,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/179",
+      "self_ref": "#/texts/180",
       "parent": {
         "$ref": "#/pictures/28"
       },
@@ -5793,7 +5820,7 @@
       "text": "10"
     },
     {
-      "self_ref": "#/texts/180",
+      "self_ref": "#/texts/181",
       "parent": {
         "$ref": "#/body"
       },
@@ -5820,7 +5847,7 @@
       "text": "LOOK 21-febrero-2019 Local"
     },
     {
-      "self_ref": "#/texts/181",
+      "self_ref": "#/texts/182",
       "parent": {
         "$ref": "#/body"
       },
@@ -5847,7 +5874,7 @@
       "text": "Política Policiaca Nacional"
     },
     {
-      "self_ref": "#/texts/182",
+      "self_ref": "#/texts/183",
       "parent": {
         "$ref": "#/body"
       },
@@ -5874,7 +5901,7 @@
       "text": "Internacional"
     },
     {
-      "self_ref": "#/texts/183",
+      "self_ref": "#/texts/184",
       "parent": {
         "$ref": "#/body"
       },
@@ -5901,7 +5928,7 @@
       "text": "Estados Unidos Finanzas"
     },
     {
-      "self_ref": "#/texts/184",
+      "self_ref": "#/texts/185",
       "parent": {
         "$ref": "#/body"
       },
@@ -5928,7 +5955,7 @@
       "text": "Tecnología Bursatíl Economía Deportes"
     },
     {
-      "self_ref": "#/texts/185",
+      "self_ref": "#/texts/186",
       "parent": {
         "$ref": "#/body"
       },
@@ -5955,7 +5982,7 @@
       "text": "Tigres Rayados Liga Mx Selección Mexicana Opinión Deportiva Modelo del día NFL Escena"
     },
     {
-      "self_ref": "#/texts/186",
+      "self_ref": "#/texts/187",
       "parent": {
         "$ref": "#/body"
       },
@@ -5982,7 +6009,7 @@
       "text": "Salud En Vivo"
     },
     {
-      "self_ref": "#/texts/187",
+      "self_ref": "#/texts/188",
       "parent": {
         "$ref": "#/body"
       },
@@ -6009,7 +6036,7 @@
       "text": "A+ Lo que ves Estilo de Vida"
     },
     {
-      "self_ref": "#/texts/188",
+      "self_ref": "#/texts/189",
       "parent": {
         "$ref": "#/body"
       },
@@ -6036,7 +6063,7 @@
       "text": "Moda De mundo Sabor Casas Autos y Motos Mi boda Jetset Videos"
     },
     {
-      "self_ref": "#/texts/189",
+      "self_ref": "#/texts/190",
       "parent": {
         "$ref": "#/body"
       },
@@ -6063,7 +6090,7 @@
       "text": "http://www.elhorizonte.mx/local/joven-que-iba-a-reunirse-con-su-amigos-en-santiago-aparece-muerto-en-guanajuato/1697346"
     },
     {
-      "self_ref": "#/texts/190",
+      "self_ref": "#/texts/191",
       "parent": {
         "$ref": "#/body"
       },
@@ -6090,7 +6117,7 @@
       "text": "10/11"
     },
     {
-      "self_ref": "#/texts/191",
+      "self_ref": "#/texts/192",
       "parent": {
         "$ref": "#/body"
       },
@@ -6117,7 +6144,7 @@
       "text": "24/2/2019"
     },
     {
-      "self_ref": "#/texts/192",
+      "self_ref": "#/texts/193",
       "parent": {
         "$ref": "#/body"
       },
@@ -6144,7 +6171,7 @@
       "text": "Joven que iba a reunirse con su amigos en Santiago aparece muerto en Guanajuato"
     },
     {
-      "self_ref": "#/texts/193",
+      "self_ref": "#/texts/194",
       "parent": {
         "$ref": "#/body"
       },
@@ -6172,7 +6199,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/194",
+      "self_ref": "#/texts/195",
       "parent": {
         "$ref": "#/body"
       },
@@ -6200,7 +6227,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/195",
+      "self_ref": "#/texts/196",
       "parent": {
         "$ref": "#/body"
       },
@@ -6227,7 +6254,7 @@
       "text": "© El Horizonte 2018, todos los derechos reservados Volver arriba"
     },
     {
-      "self_ref": "#/texts/196",
+      "self_ref": "#/texts/197",
       "parent": {
         "$ref": "#/body"
       },
@@ -6254,7 +6281,7 @@
       "text": "http://www.elhorizonte.mx/local/joven-que-iba-a-reunirse-con-su-amigos-en-santiago-aparece-muerto-en-guanajuato/1697346"
     },
     {
-      "self_ref": "#/texts/197",
+      "self_ref": "#/texts/198",
       "parent": {
         "$ref": "#/body"
       },
@@ -6299,9 +6326,9 @@
           "page_no": 1,
           "bbox": {
             "l": 84.2752914428711,
-            "t": 580.7131958007812,
-            "r": 154.21238708496094,
-            "b": 558.2872924804688,
+            "t": 580.7134552001953,
+            "r": 154.21287536621094,
+            "b": 558.2875061035156,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6327,10 +6354,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 35.17948532104492,
-            "t": 490.75286865234375,
-            "r": 70.62948608398438,
-            "b": 459.59637451171875,
+            "l": 35.17961883544922,
+            "t": 490.7522277832031,
+            "r": 70.62879180908203,
+            "b": 459.59600830078125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6360,10 +6387,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 43.766937255859375,
-            "t": 448.5634460449219,
-            "r": 231.1335906982422,
-            "b": 382.4171142578125,
+            "l": 43.76780700683594,
+            "t": 448.5628356933594,
+            "r": 231.1287384033203,
+            "b": 382.4199523925781,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6396,10 +6423,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 39.918209075927734,
-            "t": 321.8342590332031,
-            "r": 136.27235412597656,
-            "b": 291.13165283203125,
+            "l": 39.91737365722656,
+            "t": 321.8341369628906,
+            "r": 136.27281188964844,
+            "b": 291.1312255859375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6425,10 +6452,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 62.38216018676758,
-            "t": 764.7664451599121,
-            "r": 568.2466430664062,
-            "b": 475.163818359375,
+            "l": 62.38270568847656,
+            "t": 764.7664337158203,
+            "r": 568.2478637695312,
+            "b": 475.16351318359375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6454,10 +6481,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 62.46800231933594,
-            "t": 649.9083557128906,
-            "r": 234.1240234375,
-            "b": 540.5592803955078,
+            "l": 62.46419906616211,
+            "t": 649.9098663330078,
+            "r": 234.12631225585938,
+            "b": 540.5584411621094,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6483,10 +6510,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 62.43465805053711,
-            "t": 494.847900390625,
-            "r": 234.25326538085938,
-            "b": 385.2365417480469,
+            "l": 62.43461227416992,
+            "t": 494.8531188964844,
+            "r": 234.25274658203125,
+            "b": 385.2386779785156,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6516,10 +6543,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 62.48835372924805,
-            "t": 339.3321533203125,
-            "r": 234.23536682128906,
-            "b": 229.9498291015625,
+            "l": 62.48863983154297,
+            "t": 339.33258056640625,
+            "r": 234.23631286621094,
+            "b": 229.9522705078125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6553,10 +6580,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 62.21588134765625,
-            "t": 184.1280517578125,
-            "r": 234.05844116210938,
-            "b": 74.2755126953125,
+            "l": 62.215362548828125,
+            "t": 184.12884521484375,
+            "r": 234.05865478515625,
+            "b": 74.275390625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6599,10 +6626,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 34.466705322265625,
-            "t": 762.3238315582275,
-            "r": 330.862548828125,
-            "b": 718.7318801879883,
+            "l": 34.46632385253906,
+            "t": 762.3240852355957,
+            "r": 330.86248779296875,
+            "b": 718.7320861816406,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6621,17 +6648,21 @@
       "parent": {
         "$ref": "#/body"
       },
-      "children": [],
+      "children": [
+        {
+          "$ref": "#/texts/106"
+        }
+      ],
       "content_layer": "body",
       "label": "picture",
       "prov": [
         {
           "page_no": 5,
           "bbox": {
-            "l": 62.405067443847656,
-            "t": 632.6076507568359,
-            "r": 234.0741424560547,
-            "b": 523.762939453125,
+            "l": 62.4043083190918,
+            "t": 632.6079864501953,
+            "r": 234.0744171142578,
+            "b": 523.7627868652344,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6657,9 +6688,9 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 62.321449279785156,
-            "t": 477.4352111816406,
-            "r": 234.24038696289062,
+            "l": 62.32136917114258,
+            "t": 477.4361267089844,
+            "r": 234.2405548095703,
             "b": 367.8352355957031,
             "coord_origin": "BOTTOMLEFT"
           },
@@ -6681,7 +6712,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/108"
+          "$ref": "#/texts/109"
         }
       ],
       "content_layer": "body",
@@ -6690,10 +6721,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 62.47258758544922,
-            "t": 322.3016662597656,
-            "r": 234.17214965820312,
-            "b": 212.50628662109375,
+            "l": 62.470645904541016,
+            "t": 322.3023681640625,
+            "r": 234.17239379882812,
+            "b": 212.5050048828125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6704,7 +6735,7 @@
       ],
       "captions": [
         {
-          "$ref": "#/texts/108"
+          "$ref": "#/texts/109"
         }
       ],
       "references": [],
@@ -6718,7 +6749,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/109"
+          "$ref": "#/texts/110"
         }
       ],
       "content_layer": "body",
@@ -6727,10 +6758,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 62.205814361572266,
-            "t": 167.068359375,
-            "r": 234.03530883789062,
-            "b": 56.9427490234375,
+            "l": 62.20515060424805,
+            "t": 167.06793212890625,
+            "r": 234.03536987304688,
+            "b": 56.94317626953125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6741,7 +6772,7 @@
       ],
       "captions": [
         {
-          "$ref": "#/texts/109"
+          "$ref": "#/texts/110"
         }
       ],
       "references": [],
@@ -6755,7 +6786,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/125"
+          "$ref": "#/texts/126"
         }
       ],
       "content_layer": "body",
@@ -6764,10 +6795,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 51.66798782348633,
-            "t": 406.9865417480469,
-            "r": 153.89788818359375,
-            "b": 352.2043762207031,
+            "l": 51.66965103149414,
+            "t": 406.98590087890625,
+            "r": 153.89854431152344,
+            "b": 352.2048645019531,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6793,10 +6824,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 51.002471923828125,
-            "t": 282.4017333984375,
-            "r": 154.00985717773438,
-            "b": 252.52630615234375,
+            "l": 51.00238037109375,
+            "t": 282.40203857421875,
+            "r": 154.0094757080078,
+            "b": 252.52703857421875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6822,10 +6853,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 62.761138916015625,
-            "t": 204.2525634765625,
-            "r": 154.22621154785156,
-            "b": 146.87469482421875,
+            "l": 62.760440826416016,
+            "t": 204.25347900390625,
+            "r": 154.22740173339844,
+            "b": 146.87457275390625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6851,10 +6882,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 62.644412994384766,
-            "t": 102.42327880859375,
-            "r": 153.9190673828125,
-            "b": 44.5831298828125,
+            "l": 62.644012451171875,
+            "t": 102.42388916015625,
+            "r": 153.91908264160156,
+            "b": 44.5830078125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6880,10 +6911,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 62.725765228271484,
-            "t": 734.728214263916,
-            "r": 154.17942810058594,
-            "b": 678.3931884765625,
+            "l": 62.72568130493164,
+            "t": 734.7259521484375,
+            "r": 154.17959594726562,
+            "b": 678.3926849365234,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6909,10 +6940,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 62.657840728759766,
-            "t": 632.6883087158203,
+            "l": 62.65673828125,
+            "t": 632.6886596679688,
             "r": 154.216796875,
-            "b": 575.5376892089844,
+            "b": 575.5375061035156,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6938,10 +6969,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 62.568870544433594,
-            "t": 530.7331848144531,
-            "r": 154.38986206054688,
-            "b": 473.14007568359375,
+            "l": 62.568748474121094,
+            "t": 530.7335205078125,
+            "r": 154.38909912109375,
+            "b": 473.1396179199219,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6962,13 +6993,13 @@
       },
       "children": [
         {
-          "$ref": "#/texts/143"
-        },
-        {
           "$ref": "#/texts/144"
         },
         {
           "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
         }
       ],
       "content_layer": "body",
@@ -6977,10 +7008,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 66.82181549072266,
-            "t": 385.447265625,
-            "r": 200.3641815185547,
-            "b": 141.3148193359375,
+            "l": 66.8218765258789,
+            "t": 385.4468078613281,
+            "r": 200.3660888671875,
+            "b": 141.31353759765625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7001,9 +7032,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/151"
-        },
-        {
           "$ref": "#/texts/152"
         },
         {
@@ -7011,6 +7039,9 @@
         },
         {
           "$ref": "#/texts/154"
+        },
+        {
+          "$ref": "#/texts/155"
         }
       ],
       "content_layer": "body",
@@ -7019,10 +7050,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 66.4345703125,
-            "t": 758.4252395629883,
-            "r": 200.75296020507812,
-            "b": 515.2476501464844,
+            "l": 66.43391418457031,
+            "t": 758.4272956848145,
+            "r": 200.75279235839844,
+            "b": 515.2476196289062,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7043,9 +7074,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/156"
-        },
-        {
           "$ref": "#/texts/157"
         },
         {
@@ -7053,6 +7081,9 @@
         },
         {
           "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/160"
         }
       ],
       "content_layer": "body",
@@ -7061,10 +7092,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 66.02584838867188,
-            "t": 463.8974304199219,
-            "r": 200.25689697265625,
-            "b": 219.74407958984375,
+            "l": 66.0248794555664,
+            "t": 463.8963317871094,
+            "r": 200.2573699951172,
+            "b": 219.74365234375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7090,10 +7121,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 70.9806137084961,
-            "t": 761.5019435882568,
-            "r": 199.88377380371094,
-            "b": 612.8850402832031,
+            "l": 70.97785186767578,
+            "t": 761.5007038116455,
+            "r": 199.88841247558594,
+            "b": 612.8842620849609,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7114,9 +7145,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/166"
-        },
-        {
           "$ref": "#/texts/167"
         },
         {
@@ -7124,6 +7152,9 @@
         },
         {
           "$ref": "#/texts/169"
+        },
+        {
+          "$ref": "#/texts/170"
         }
       ],
       "content_layer": "body",
@@ -7132,10 +7163,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 67.79878234863281,
-            "t": 560.7506408691406,
-            "r": 200.53143310546875,
-            "b": 320.2494201660156,
+            "l": 67.80028533935547,
+            "t": 560.7421875,
+            "r": 200.5264434814453,
+            "b": 320.2584533691406,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7146,7 +7177,7 @@
       ],
       "captions": [
         {
-          "$ref": "#/texts/166"
+          "$ref": "#/texts/167"
         }
       ],
       "references": [],
@@ -7160,13 +7191,13 @@
       },
       "children": [
         {
-          "$ref": "#/texts/170"
-        },
-        {
           "$ref": "#/texts/171"
         },
         {
           "$ref": "#/texts/172"
+        },
+        {
+          "$ref": "#/texts/173"
         }
       ],
       "content_layer": "body",
@@ -7175,10 +7206,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 62.584510803222656,
-            "t": 275.46453857421875,
-            "r": 203.9650421142578,
-            "b": 92.38043212890625,
+            "l": 62.58478927612305,
+            "t": 275.4583740234375,
+            "r": 203.96160888671875,
+            "b": 92.38970947265625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7189,7 +7220,7 @@
       ],
       "captions": [
         {
-          "$ref": "#/texts/170"
+          "$ref": "#/texts/171"
         }
       ],
       "references": [],
@@ -7208,10 +7239,10 @@
         {
           "page_no": 10,
           "bbox": {
-            "l": 64.04254913330078,
-            "t": 738.317440032959,
-            "r": 193.50680541992188,
-            "b": 593.2712860107422,
+            "l": 64.04341125488281,
+            "t": 738.3199005126953,
+            "r": 193.50765991210938,
+            "b": 593.2715301513672,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7232,7 +7263,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/179"
+          "$ref": "#/texts/180"
         }
       ],
       "content_layer": "body",
@@ -7241,10 +7272,10 @@
         {
           "page_no": 10,
           "bbox": {
-            "l": 62.313663482666016,
-            "t": 543.4142913818359,
-            "r": 204.17132568359375,
-            "b": 359.6092224121094,
+            "l": 62.31273651123047,
+            "t": 543.4145660400391,
+            "r": 204.17160034179688,
+            "b": 359.6090087890625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

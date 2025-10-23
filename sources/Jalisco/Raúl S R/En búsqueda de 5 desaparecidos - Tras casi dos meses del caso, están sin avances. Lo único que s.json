@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "En búsqueda de 5 desaparecidos - Tras casi dos meses del caso, están sin avances. Lo único que s",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 3266587117896209617,
+    "filename": "En búsqueda de 5 desaparecidos - Tras casi dos meses del caso, están sin avances. Lo único que s.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.58505234375,
+            "r": 620.233,
+            "b": 556.21605234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            563
+          ]
+        }
+      ],
+      "orig": "Web Login Service Main navigation Main content University of Minnesota http://twin-cities.umn.edu/ 612-625-5000 Go to the U of M home page One Stop MyU Search Search × search   Sign In Internet ID Forgot your Internet ID? Password Forgot your password? Sign In Disclaimer: Duo and U.S. embargoed countries Get Help Contact Technology Help  for assistance. For Students, Faculty, and Staff One Stop My U © 2025 Regents of the University of Minnesota. All rights reserved. The University of Minnesota is an equal opportunity educator and employer. Privacy Statement",
+      "text": "Web Login Service Main navigation Main content University of Minnesota http://twin-cities.umn.edu/ 612-625-5000 Go to the U of M home page One Stop MyU Search Search × search   Sign In Internet ID Forgot your Internet ID? Password Forgot your password? Sign In Disclaimer: Duo and U.S. embargoed countries Get Help Contact Technology Help  for assistance. For Students, Faculty, and Staff One Stop My U © 2025 Regents of the University of Minnesota. All rights reserved. The University of Minnesota is an equal opportunity educator and employer. Privacy Statement"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 627.0045776367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

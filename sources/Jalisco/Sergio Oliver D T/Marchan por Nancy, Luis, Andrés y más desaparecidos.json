@@ -753,43 +753,13 @@
         "$ref": "#/texts/243"
       },
       {
-        "$ref": "#/pictures/35"
-      },
-      {
         "$ref": "#/texts/244"
       },
       {
-        "$ref": "#/texts/245"
+        "$ref": "#/pictures/35"
       },
       {
-        "$ref": "#/texts/246"
-      },
-      {
-        "$ref": "#/texts/247"
-      },
-      {
-        "$ref": "#/texts/248"
-      },
-      {
-        "$ref": "#/texts/249"
-      },
-      {
-        "$ref": "#/texts/250"
-      },
-      {
-        "$ref": "#/texts/251"
-      },
-      {
-        "$ref": "#/texts/252"
-      },
-      {
-        "$ref": "#/texts/253"
-      },
-      {
-        "$ref": "#/texts/254"
-      },
-      {
-        "$ref": "#/texts/255"
+        "$ref": "#/groups/4"
       },
       {
         "$ref": "#/texts/256"
@@ -807,10 +777,7 @@
         "$ref": "#/texts/260"
       },
       {
-        "$ref": "#/pictures/36"
-      },
-      {
-        "$ref": "#/pictures/37"
+        "$ref": "#/texts/261"
       },
       {
         "$ref": "#/texts/262"
@@ -822,10 +789,16 @@
         "$ref": "#/texts/264"
       },
       {
-        "$ref": "#/texts/265"
+        "$ref": "#/pictures/36"
       },
       {
-        "$ref": "#/groups/4"
+        "$ref": "#/pictures/37"
+      },
+      {
+        "$ref": "#/texts/266"
+      },
+      {
+        "$ref": "#/texts/267"
       },
       {
         "$ref": "#/texts/268"
@@ -834,19 +807,16 @@
         "$ref": "#/texts/269"
       },
       {
-        "$ref": "#/pictures/38"
-      },
-      {
-        "$ref": "#/texts/270"
-      },
-      {
-        "$ref": "#/texts/271"
+        "$ref": "#/groups/5"
       },
       {
         "$ref": "#/texts/272"
       },
       {
         "$ref": "#/texts/273"
+      },
+      {
+        "$ref": "#/pictures/38"
       },
       {
         "$ref": "#/texts/274"
@@ -865,6 +835,12 @@
       },
       {
         "$ref": "#/texts/279"
+      },
+      {
+        "$ref": "#/texts/280"
+      },
+      {
+        "$ref": "#/texts/281"
       }
     ],
     "content_layer": "body",
@@ -959,10 +935,54 @@
       },
       "children": [
         {
-          "$ref": "#/texts/266"
+          "$ref": "#/texts/245"
         },
         {
-          "$ref": "#/texts/267"
+          "$ref": "#/texts/246"
+        },
+        {
+          "$ref": "#/texts/247"
+        },
+        {
+          "$ref": "#/texts/248"
+        },
+        {
+          "$ref": "#/texts/249"
+        },
+        {
+          "$ref": "#/texts/250"
+        },
+        {
+          "$ref": "#/texts/251"
+        },
+        {
+          "$ref": "#/texts/252"
+        },
+        {
+          "$ref": "#/texts/253"
+        },
+        {
+          "$ref": "#/texts/254"
+        },
+        {
+          "$ref": "#/texts/255"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/270"
+        },
+        {
+          "$ref": "#/texts/271"
         }
       ],
       "content_layer": "body",
@@ -7574,871 +7594,6 @@
         {
           "page_no": 12,
           "bbox": {
-            "l": 28.0,
-            "t": 692.845,
-            "r": 67.71,
-            "b": 688.21,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            7
-          ]
-        }
-      ],
-      "orig": "JALISCO",
-      "text": "JALISCO"
-    },
-    {
-      "self_ref": "#/texts/241",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 83.99,
-            "t": 692.845,
-            "r": 121.319,
-            "b": 688.21,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            6
-          ]
-        }
-      ],
-      "orig": "MÉXICO",
-      "text": "MÉXICO"
-    },
-    {
-      "self_ref": "#/texts/242",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 28.0,
-            "t": 656.352,
-            "r": 89.894,
-            "b": 651.717,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            10
-          ]
-        }
-      ],
-      "orig": "TECNOLOGÍA",
-      "text": "TECNOLOGÍA"
-    },
-    {
-      "self_ref": "#/texts/243",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 59.441,
-            "t": 494.019,
-            "r": 84.898,
-            "b": 489.456,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            6
-          ]
-        }
-      ],
-      "orig": "$3,899",
-      "text": "$3,899"
-    },
-    {
-      "self_ref": "#/texts/244",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 160.335,
-            "t": 770.151,
-            "r": 164.608,
-            "b": 766.286,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            1
-          ]
-        }
-      ],
-      "orig": "p",
-      "text": "p"
-    },
-    {
-      "self_ref": "#/texts/245",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 140.04,
-            "t": 741.641,
-            "r": 215.768,
-            "b": 737.117,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            18
-          ]
-        }
-      ],
-      "orig": "Jose Felix Trejo S",
-      "text": "Jose Felix Trejo S"
-    },
-    {
-      "self_ref": "#/texts/246",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 140.04,
-            "t": 726.894,
-            "r": 185.39,
-            "b": 722.385,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            10
-          ]
-        },
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 140.04,
-            "t": 714.73,
-            "r": 204.31,
-            "b": 698.056,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            11,
-            43
-          ]
-        }
-      ],
-      "orig": "Aún no hay reflectores para eso , tendremos",
-      "text": "Aún no hay reflectores para eso , tendremos"
-    },
-    {
-      "self_ref": "#/texts/247",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 137.599,
-            "t": 692.845,
-            "r": 214.321,
-            "b": 688.21,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            13
-          ]
-        }
-      ],
-      "orig": "INTERNACIONAL",
-      "text": "INTERNACIONAL"
-    },
-    {
-      "self_ref": "#/texts/248",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 140.04,
-            "t": 690.401,
-            "r": 212.796,
-            "b": 685.892,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            17
-          ]
-        },
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 140.04,
-            "t": 678.236,
-            "r": 212.284,
-            "b": 661.563,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            18,
-            50
-          ]
-        }
-      ],
-      "orig": "que esperar a que de verdad se trabaje en Jalisco.",
-      "text": "que esperar a que de verdad se trabaje en Jalisco."
-    },
-    {
-      "self_ref": "#/texts/249",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 123.464,
-            "t": 656.352,
-            "r": 157.941,
-            "b": 651.717,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            6
-          ]
-        }
-      ],
-      "orig": "VIDEOS",
-      "text": "VIDEOS"
-    },
-    {
-      "self_ref": "#/texts/250",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 174.222,
-            "t": 656.352,
-            "r": 195.542,
-            "b": 651.717,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            3
-          ]
-        }
-      ],
-      "orig": "MÁS",
-      "text": "MÁS"
-    },
-    {
-      "self_ref": "#/texts/251",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 140.04,
-            "t": 650.428,
-            "r": 175.911,
-            "b": 646.563,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            10
-          ]
-        }
-      ],
-      "orig": "Me gusta ·",
-      "text": "Me gusta ·"
-    },
-    {
-      "self_ref": "#/texts/252",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 140.04,
-            "t": 640.185,
-            "r": 194.706,
-            "b": 636.32,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            15
-          ]
-        }
-      ],
-      "orig": "Responder · 1 h",
-      "text": "Responder · 1 h"
-    },
-    {
-      "self_ref": "#/texts/253",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 95.224,
-            "t": 617.317,
-            "r": 207.581,
-            "b": 613.775,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            33
-          ]
-        }
-      ],
-      "orig": "Plugin de comentarios de Facebook",
-      "text": "Plugin de comentarios de Facebook"
-    },
-    {
-      "self_ref": "#/texts/254",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 126.615,
-            "t": 494.019,
-            "r": 145.131,
-            "b": 489.456,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            4
-          ]
-        }
-      ],
-      "orig": "$799",
-      "text": "$799"
-    },
-    {
-      "self_ref": "#/texts/255",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 181.065,
-            "t": 494.019,
-            "r": 218.092,
-            "b": 489.456,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            9
-          ]
-        }
-      ],
-      "orig": "$1,796.95",
-      "text": "$1,796.95"
-    },
-    {
-      "self_ref": "#/texts/256",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 230.603,
-            "t": 692.845,
-            "r": 279.513,
-            "b": 688.21,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            8
-          ]
-        }
-      ],
-      "orig": "DEPORTES",
-      "text": "DEPORTES"
-    },
-    {
-      "self_ref": "#/texts/257",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 295.796,
-            "t": 692.845,
-            "r": 383.937,
-            "b": 688.21,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            15
-          ]
-        }
-      ],
-      "orig": "ENTRETENIMIENTO",
-      "text": "ENTRETENIMIENTO"
-    },
-    {
-      "self_ref": "#/texts/258",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 244.448,
-            "t": 494.019,
-            "r": 281.474,
-            "b": 489.456,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            9
-          ]
-        }
-      ],
-      "orig": "$1,296.95",
-      "text": "$1,296.95"
-    },
-    {
-      "self_ref": "#/texts/259",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 311.622,
-            "t": 494.019,
-            "r": 341.707,
-            "b": 489.456,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            7
-          ]
-        }
-      ],
-      "orig": "$496.95",
-      "text": "$496.95"
-    },
-    {
-      "self_ref": "#/texts/260",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 381.107,
-            "t": 494.019,
-            "r": 399.622,
-            "b": 489.456,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            4
-          ]
-        }
-      ],
-      "orig": "$359",
-      "text": "$359"
-    },
-    {
-      "self_ref": "#/texts/261",
-      "parent": {
-        "$ref": "#/pictures/36"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 253.66666666666669,
-            "t": 451.3333333333333,
-            "r": 316.33333333333337,
-            "b": 438.6666666666667,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            7
-          ]
-        }
-      ],
-      "orig": "CIRCULO",
-      "text": "CIRCULO"
-    },
-    {
-      "self_ref": "#/texts/262",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 196.26,
-            "t": 348.468,
-            "r": 252.523,
-            "b": 345.069,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            13
-          ]
-        }
-      ],
-      "orig": "INTERNACIONAL",
-      "text": "INTERNACIONAL"
-    },
-    {
-      "self_ref": "#/texts/263",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 273.648,
-            "t": 348.468,
-            "r": 309.516,
-            "b": 345.069,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            8
-          ]
-        }
-      ],
-      "orig": "DEPORTES",
-      "text": "DEPORTES"
-    },
-    {
-      "self_ref": "#/texts/264",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 330.639,
-            "t": 348.468,
-            "r": 376.028,
-            "b": 345.069,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            10
-          ]
-        }
-      ],
-      "orig": "TECNOLOGÍA",
-      "text": "TECNOLOGÍA"
-    },
-    {
-      "self_ref": "#/texts/265",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 287.233,
-            "t": 331.822,
-            "r": 325.749,
-            "b": 328.423,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            8
-          ]
-        }
-      ],
-      "orig": "ECONOMÍA",
-      "text": "ECONOMÍA"
-    },
-    {
-      "self_ref": "#/texts/266",
-      "parent": {
-        "$ref": "#/groups/4"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 237.685,
-            "t": 312.615,
-            "r": 284.955,
-            "b": 309.216,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            10
-          ]
-        }
-      ],
-      "orig": "HEMEROTECA",
-      "text": "HEMEROTECA"
-    },
-    {
-      "self_ref": "#/texts/267",
-      "parent": {
-        "$ref": "#/groups/4"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 306.08,
-            "t": 312.615,
-            "r": 375.308,
-            "b": 309.216,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            17
-          ]
-        }
-      ],
-      "orig": "PUBLICIDAD ONLINE",
-      "text": "PUBLICIDAD ONLINE"
-    },
-    {
-      "self_ref": "#/texts/268",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 188.238,
-            "t": 268.616,
-            "r": 424.77,
-            "b": 255.28200000000004,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            139
-          ]
-        }
-      ],
-      "orig": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento® es marca registrada © Unión Editorialista, S.A. de C.V. 2008-2017",
-      "text": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento® es marca registrada © Unión Editorialista, S.A. de C.V. 2008-2017"
-    },
-    {
-      "self_ref": "#/texts/269",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 202.143,
-            "t": 244.111,
-            "r": 410.865,
-            "b": 240.712,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            65
-          ]
-        }
-      ],
-      "orig": "| | Aviso de Privacidad Derecho de Réplica Términos y Condiciones",
-      "text": "| | Aviso de Privacidad Derecho de Réplica Términos y Condiciones"
-    },
-    {
-      "self_ref": "#/texts/270",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
-            "l": 397.153,
-            "t": 348.468,
-            "r": 461.789,
-            "b": 345.069,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            15
-          ]
-        }
-      ],
-      "orig": "ENTRETENIMIENTO",
-      "text": "ENTRETENIMIENTO"
-    },
-    {
-      "self_ref": "#/texts/271",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 12,
-          "bbox": {
             "l": 121.476,
             "t": 770.151,
             "r": 125.749,
@@ -8455,7 +7610,7 @@
       "text": "g"
     },
     {
-      "self_ref": "#/texts/272",
+      "self_ref": "#/texts/241",
       "parent": {
         "$ref": "#/body"
       },
@@ -8482,7 +7637,898 @@
       "text": "JALISCO"
     },
     {
+      "self_ref": "#/texts/242",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 160.335,
+            "t": 770.151,
+            "r": 164.608,
+            "b": 766.286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "p",
+      "text": "p"
+    },
+    {
+      "self_ref": "#/texts/243",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 140.04,
+            "t": 741.641,
+            "r": 215.768,
+            "b": 737.117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Jose Felix Trejo S",
+      "text": "Jose Felix Trejo S"
+    },
+    {
+      "self_ref": "#/texts/244",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 140.04,
+            "t": 726.894,
+            "r": 185.39,
+            "b": 722.385,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Aún no hay",
+      "text": "Aún no hay"
+    },
+    {
+      "self_ref": "#/texts/245",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 140.04,
+            "t": 714.73,
+            "r": 204.31,
+            "b": 698.056,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "reflectores para eso , tendremos",
+      "text": "reflectores para eso , tendremos"
+    },
+    {
+      "self_ref": "#/texts/246",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 140.04,
+            "t": 690.401,
+            "r": 212.796,
+            "b": 685.892,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "que esperar a que",
+      "text": "que esperar a que"
+    },
+    {
+      "self_ref": "#/texts/247",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 140.04,
+            "t": 678.236,
+            "r": 212.284,
+            "b": 661.563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "de verdad se trabaje en Jalisco.",
+      "text": "de verdad se trabaje en Jalisco."
+    },
+    {
+      "self_ref": "#/texts/248",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 140.04,
+            "t": 650.428,
+            "r": 175.911,
+            "b": 646.563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Me gusta ·",
+      "text": "Me gusta ·"
+    },
+    {
+      "self_ref": "#/texts/249",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 140.04,
+            "t": 640.185,
+            "r": 194.706,
+            "b": 636.32,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Responder · 1 h",
+      "text": "Responder · 1 h"
+    },
+    {
+      "self_ref": "#/texts/250",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 28.0,
+            "t": 692.845,
+            "r": 67.71,
+            "b": 688.21,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "JALISCO",
+      "text": "JALISCO"
+    },
+    {
+      "self_ref": "#/texts/251",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 83.99,
+            "t": 692.845,
+            "r": 121.319,
+            "b": 688.21,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "MÉXICO",
+      "text": "MÉXICO"
+    },
+    {
+      "self_ref": "#/texts/252",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 137.599,
+            "t": 692.845,
+            "r": 214.321,
+            "b": 688.21,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "INTERNACIONAL",
+      "text": "INTERNACIONAL"
+    },
+    {
+      "self_ref": "#/texts/253",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 28.0,
+            "t": 656.352,
+            "r": 89.894,
+            "b": 651.717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "TECNOLOGÍA",
+      "text": "TECNOLOGÍA"
+    },
+    {
+      "self_ref": "#/texts/254",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 123.464,
+            "t": 656.352,
+            "r": 157.941,
+            "b": 651.717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "VIDEOS",
+      "text": "VIDEOS"
+    },
+    {
+      "self_ref": "#/texts/255",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 174.222,
+            "t": 656.352,
+            "r": 195.542,
+            "b": 651.717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "MÁS",
+      "text": "MÁS"
+    },
+    {
+      "self_ref": "#/texts/256",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 95.224,
+            "t": 617.317,
+            "r": 207.581,
+            "b": 613.775,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Plugin de comentarios de Facebook",
+      "text": "Plugin de comentarios de Facebook"
+    },
+    {
+      "self_ref": "#/texts/257",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 59.441,
+            "t": 494.019,
+            "r": 84.898,
+            "b": 489.456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "$3,899",
+      "text": "$3,899"
+    },
+    {
+      "self_ref": "#/texts/258",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 126.615,
+            "t": 494.019,
+            "r": 145.131,
+            "b": 489.456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "$799",
+      "text": "$799"
+    },
+    {
+      "self_ref": "#/texts/259",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 181.065,
+            "t": 494.019,
+            "r": 218.092,
+            "b": 489.456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "$1,796.95",
+      "text": "$1,796.95"
+    },
+    {
+      "self_ref": "#/texts/260",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 230.603,
+            "t": 692.845,
+            "r": 279.513,
+            "b": 688.21,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "DEPORTES",
+      "text": "DEPORTES"
+    },
+    {
+      "self_ref": "#/texts/261",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 295.796,
+            "t": 692.845,
+            "r": 383.937,
+            "b": 688.21,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "ENTRETENIMIENTO",
+      "text": "ENTRETENIMIENTO"
+    },
+    {
+      "self_ref": "#/texts/262",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 244.448,
+            "t": 494.019,
+            "r": 281.474,
+            "b": 489.456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "$1,296.95",
+      "text": "$1,296.95"
+    },
+    {
+      "self_ref": "#/texts/263",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 311.622,
+            "t": 494.019,
+            "r": 341.707,
+            "b": 489.456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "$496.95",
+      "text": "$496.95"
+    },
+    {
+      "self_ref": "#/texts/264",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 381.107,
+            "t": 494.019,
+            "r": 399.622,
+            "b": 489.456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "$359",
+      "text": "$359"
+    },
+    {
+      "self_ref": "#/texts/265",
+      "parent": {
+        "$ref": "#/pictures/36"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 253.66666666666669,
+            "t": 451.3333333333333,
+            "r": 316.33333333333337,
+            "b": 438.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "CIRCULO",
+      "text": "CIRCULO"
+    },
+    {
+      "self_ref": "#/texts/266",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 196.26,
+            "t": 348.468,
+            "r": 252.523,
+            "b": 345.069,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "INTERNACIONAL",
+      "text": "INTERNACIONAL"
+    },
+    {
+      "self_ref": "#/texts/267",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 273.648,
+            "t": 348.468,
+            "r": 309.516,
+            "b": 345.069,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "DEPORTES",
+      "text": "DEPORTES"
+    },
+    {
+      "self_ref": "#/texts/268",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 330.639,
+            "t": 348.468,
+            "r": 376.028,
+            "b": 345.069,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "TECNOLOGÍA",
+      "text": "TECNOLOGÍA"
+    },
+    {
+      "self_ref": "#/texts/269",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 287.233,
+            "t": 331.822,
+            "r": 325.749,
+            "b": 328.423,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "ECONOMÍA",
+      "text": "ECONOMÍA"
+    },
+    {
+      "self_ref": "#/texts/270",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 237.685,
+            "t": 312.615,
+            "r": 284.955,
+            "b": 309.216,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "HEMEROTECA",
+      "text": "HEMEROTECA"
+    },
+    {
+      "self_ref": "#/texts/271",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 306.08,
+            "t": 312.615,
+            "r": 375.308,
+            "b": 309.216,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "PUBLICIDAD ONLINE",
+      "text": "PUBLICIDAD ONLINE"
+    },
+    {
+      "self_ref": "#/texts/272",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 188.238,
+            "t": 268.616,
+            "r": 424.77,
+            "b": 255.28200000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento® es marca registrada © Unión Editorialista, S.A. de C.V. 2008-2017",
+      "text": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento® es marca registrada © Unión Editorialista, S.A. de C.V. 2008-2017"
+    },
+    {
       "self_ref": "#/texts/273",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 202.143,
+            "t": 244.111,
+            "r": 410.865,
+            "b": 240.712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "| | Aviso de Privacidad Derecho de Réplica Términos y Condiciones",
+      "text": "| | Aviso de Privacidad Derecho de Réplica Términos y Condiciones"
+    },
+    {
+      "self_ref": "#/texts/274",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 397.153,
+            "t": 348.468,
+            "r": 461.789,
+            "b": 345.069,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "ENTRETENIMIENTO",
+      "text": "ENTRETENIMIENTO"
+    },
+    {
+      "self_ref": "#/texts/275",
       "parent": {
         "$ref": "#/body"
       },
@@ -8509,7 +8555,7 @@
       "text": "MÉXICO"
     },
     {
-      "self_ref": "#/texts/274",
+      "self_ref": "#/texts/276",
       "parent": {
         "$ref": "#/body"
       },
@@ -8536,7 +8582,7 @@
       "text": "ECONOMÍA"
     },
     {
-      "self_ref": "#/texts/275",
+      "self_ref": "#/texts/277",
       "parent": {
         "$ref": "#/body"
       },
@@ -8563,7 +8609,7 @@
       "text": "IDEAS"
     },
     {
-      "self_ref": "#/texts/276",
+      "self_ref": "#/texts/278",
       "parent": {
         "$ref": "#/body"
       },
@@ -8590,7 +8636,7 @@
       "text": "CULTURA"
     },
     {
-      "self_ref": "#/texts/277",
+      "self_ref": "#/texts/279",
       "parent": {
         "$ref": "#/body"
       },
@@ -8617,7 +8663,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/278",
+      "self_ref": "#/texts/280",
       "parent": {
         "$ref": "#/body"
       },
@@ -8644,7 +8690,7 @@
       "text": "https://www.informador.mx/Jalisco/Marchan-por-Nancy-Luis-Andres-y-mas-desaparecidos-20130708-0251.html"
     },
     {
-      "self_ref": "#/texts/279",
+      "self_ref": "#/texts/281",
       "parent": {
         "$ref": "#/body"
       },
@@ -8684,10 +8730,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 105.5464096069336,
-            "t": 660.6969299316406,
-            "r": 118.88633728027344,
-            "b": 646.60595703125,
+            "l": 105.54643249511719,
+            "t": 660.6974182128906,
+            "r": 118.88609313964844,
+            "b": 646.6053924560547,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8717,10 +8763,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 219.07623291015625,
-            "t": 299.4188232421875,
-            "r": 232.30685424804688,
-            "b": 286.14984130859375,
+            "l": 219.07557678222656,
+            "t": 299.4183044433594,
+            "r": 232.30711364746094,
+            "b": 286.1503601074219,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8750,10 +8796,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 311.8286437988281,
-            "t": 298.5321960449219,
-            "r": 324.2877197265625,
-            "b": 286.6089782714844,
+            "l": 311.82696533203125,
+            "t": 298.5324401855469,
+            "r": 324.2880859375,
+            "b": 286.6092834472656,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8783,10 +8829,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 26.57742691040039,
-            "t": 264.84991455078125,
-            "r": 332.5615539550781,
-            "b": 25.9251708984375,
+            "l": 26.578540802001953,
+            "t": 264.8502197265625,
+            "r": 332.5616455078125,
+            "b": 25.92535400390625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8816,10 +8862,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 252.9913787841797,
-            "t": 298.76068115234375,
-            "r": 259.69464111328125,
-            "b": 286.91259765625,
+            "l": 252.9914093017578,
+            "t": 298.76165771484375,
+            "r": 259.695068359375,
+            "b": 286.9124450683594,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8849,10 +8895,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 279.9888916015625,
-            "t": 298.4892272949219,
-            "r": 294.2573547363281,
-            "b": 286.6766662597656,
+            "l": 279.9864807128906,
+            "t": 298.49005126953125,
+            "r": 294.25775146484375,
+            "b": 286.6752014160156,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8878,10 +8924,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 360.884033203125,
-            "t": 148.36993408203125,
-            "r": 585.5192260742188,
-            "b": 60.30194091796875,
+            "l": 360.8843078613281,
+            "t": 148.36956787109375,
+            "r": 585.5184936523438,
+            "b": 60.30230712890625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8914,10 +8960,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 467.6613464355469,
-            "t": 694.2130432128906,
-            "r": 497.1391906738281,
-            "b": 674.6594085693359,
+            "l": 467.6621398925781,
+            "t": 694.2136306762695,
+            "r": 497.14013671875,
+            "b": 674.6580352783203,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8947,10 +8993,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 496.7321472167969,
-            "t": 687.1093215942383,
-            "r": 510.4557189941406,
-            "b": 672.9021530151367,
+            "l": 496.732666015625,
+            "t": 687.1094512939453,
+            "r": 510.4565124511719,
+            "b": 672.9016952514648,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8980,10 +9026,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 525.7671508789062,
-            "t": 686.8245391845703,
-            "r": 539.69189453125,
-            "b": 672.7967987060547,
+            "l": 525.767578125,
+            "t": 686.8244323730469,
+            "r": 539.6923217773438,
+            "b": 672.7980880737305,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9013,10 +9059,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 33.23172378540039,
-            "t": 635.4429473876953,
-            "r": 46.44454574584961,
-            "b": 622.3176116943359,
+            "l": 33.23123550415039,
+            "t": 635.44287109375,
+            "r": 46.44149398803711,
+            "b": 622.3181304931641,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9046,10 +9092,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 36.27742004394531,
-            "t": 605.9834136962891,
-            "r": 43.33470916748047,
-            "b": 593.9075622558594,
+            "l": 36.275962829589844,
+            "t": 605.9837799072266,
+            "r": 43.333412170410156,
+            "b": 593.9056549072266,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9079,10 +9125,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 32.810298919677734,
-            "t": 576.7931365966797,
-            "r": 46.679561614990234,
-            "b": 564.5796356201172,
+            "l": 32.81000900268555,
+            "t": 576.7930145263672,
+            "r": 46.678466796875,
+            "b": 564.5782928466797,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9112,10 +9158,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 33.53113555908203,
-            "t": 548.8607177734375,
-            "r": 45.983245849609375,
-            "b": 536.6383819580078,
+            "l": 33.52766799926758,
+            "t": 548.8590850830078,
+            "r": 45.98234176635742,
+            "b": 536.6396789550781,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9141,10 +9187,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 105.21791076660156,
-            "t": 661.1226043701172,
-            "r": 118.94115447998047,
-            "b": 646.4798889160156,
+            "l": 105.220458984375,
+            "t": 661.1216735839844,
+            "r": 118.93890380859375,
+            "b": 646.480224609375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9174,10 +9220,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 360.86273193359375,
-            "t": 686.446418762207,
-            "r": 461.9608154296875,
-            "b": 614.9366149902344,
+            "l": 360.86297607421875,
+            "t": 686.4546356201172,
+            "r": 461.9604187011719,
+            "b": 614.9378967285156,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9207,10 +9253,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 361.12896728515625,
-            "t": 599.74267578125,
-            "r": 462.2028503417969,
-            "b": 520.9622802734375,
+            "l": 361.1295166015625,
+            "t": 599.7420349121094,
+            "r": 462.20245361328125,
+            "b": 520.9628601074219,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9236,10 +9282,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 105.41735076904297,
-            "t": 660.4882507324219,
-            "r": 118.67926788330078,
-            "b": 646.6977996826172,
+            "l": 105.4160385131836,
+            "t": 660.4886322021484,
+            "r": 118.68063354492188,
+            "b": 646.6968078613281,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9281,10 +9327,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 81.4478759765625,
-            "t": 185.65362548828125,
-            "r": 294.6930236816406,
-            "b": 108.208740234375,
+            "l": 81.44856262207031,
+            "t": 185.6505126953125,
+            "r": 294.6902160644531,
+            "b": 108.20416259765625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9321,10 +9367,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 26.582347869873047,
-            "t": 659.2055816650391,
-            "r": 89.799072265625,
-            "b": 641.0591735839844,
+            "l": 26.581972122192383,
+            "t": 659.2045288085938,
+            "r": 89.79912567138672,
+            "b": 641.0595245361328,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9350,10 +9396,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 105.25070190429688,
-            "t": 660.7258911132812,
-            "r": 119.2127456665039,
-            "b": 646.4391937255859,
+            "l": 105.25077819824219,
+            "t": 660.7249450683594,
+            "r": 119.21209716796875,
+            "b": 646.4392242431641,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9383,10 +9429,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 219.20416259765625,
-            "t": 355.6886901855469,
-            "r": 232.2213134765625,
-            "b": 342.8425598144531,
+            "l": 219.20254516601562,
+            "t": 355.6888122558594,
+            "r": 232.22264099121094,
+            "b": 342.8414611816406,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9416,10 +9462,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 253.42323303222656,
-            "t": 356.0279541015625,
-            "r": 259.92230224609375,
-            "b": 343.8165588378906,
+            "l": 253.42218017578125,
+            "t": 356.02685546875,
+            "r": 259.9215087890625,
+            "b": 343.81756591796875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9449,10 +9495,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 279.8772277832031,
-            "t": 355.38372802734375,
-            "r": 294.5369873046875,
-            "b": 343.36871337890625,
+            "l": 279.8765869140625,
+            "t": 355.38433837890625,
+            "r": 294.5368347167969,
+            "b": 343.3688659667969,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9482,10 +9528,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 311.7509765625,
-            "t": 355.834228515625,
-            "r": 324.5013732910156,
-            "b": 343.4979248046875,
+            "l": 311.74920654296875,
+            "t": 355.835205078125,
+            "r": 324.5022888183594,
+            "b": 343.4969482421875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9511,10 +9557,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 26.696455001831055,
-            "t": 321.1221008300781,
-            "r": 332.3149719238281,
-            "b": 26.46630859375,
+            "l": 26.695690155029297,
+            "t": 321.1237487792969,
+            "r": 332.31524658203125,
+            "b": 26.4664306640625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9540,10 +9586,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 26.83978271484375,
-            "t": 694.996940612793,
-            "r": 67.84506225585938,
-            "b": 669.7070541381836,
+            "l": 26.83997917175293,
+            "t": 694.996696472168,
+            "r": 67.84551239013672,
+            "b": 669.7060394287109,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9569,10 +9615,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 32.59352493286133,
-            "t": 624.5545196533203,
-            "r": 46.877159118652344,
-            "b": 611.8381195068359,
+            "l": 32.59275817871094,
+            "t": 624.5537872314453,
+            "r": 46.877357482910156,
+            "b": 611.8387145996094,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9602,10 +9648,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 33.44469451904297,
-            "t": 596.3042602539062,
-            "r": 46.31256103515625,
-            "b": 583.83740234375,
+            "l": 33.443878173828125,
+            "t": 596.3050384521484,
+            "r": 46.31254959106445,
+            "b": 583.8366241455078,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9631,10 +9677,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 205.67459106445312,
-            "t": 405.1864929199219,
-            "r": 217.97250366210938,
-            "b": 391.9591979980469,
+            "l": 205.67440795898438,
+            "t": 405.186279296875,
+            "r": 217.97198486328125,
+            "b": 391.959228515625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9660,10 +9706,10 @@
         {
           "page_no": 10,
           "bbox": {
-            "l": 105.47017669677734,
-            "t": 660.8418579101562,
-            "r": 118.87443542480469,
-            "b": 646.6878509521484,
+            "l": 105.46857452392578,
+            "t": 660.8428344726562,
+            "r": 118.87445068359375,
+            "b": 646.6883087158203,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9689,10 +9735,10 @@
         {
           "page_no": 10,
           "bbox": {
-            "l": 205.45065307617188,
-            "t": 629.1497802734375,
-            "r": 217.8513946533203,
-            "b": 616.8809204101562,
+            "l": 205.4484100341797,
+            "t": 629.1488189697266,
+            "r": 217.8486785888672,
+            "b": 616.8821411132812,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9718,10 +9764,10 @@
         {
           "page_no": 10,
           "bbox": {
-            "l": 205.56472778320312,
-            "t": 209.58172607421875,
-            "r": 217.97328186035156,
-            "b": 197.8641357421875,
+            "l": 205.5631561279297,
+            "t": 209.5821533203125,
+            "r": 217.97218322753906,
+            "b": 197.8648681640625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9747,10 +9793,10 @@
         {
           "page_no": 11,
           "bbox": {
-            "l": 81.94400024414062,
+            "l": 81.94276428222656,
             "t": 270.2012939453125,
-            "r": 103.97896575927734,
-            "b": 247.3599853515625,
+            "r": 103.97966003417969,
+            "b": 247.360107421875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9776,10 +9822,10 @@
         {
           "page_no": 11,
           "bbox": {
-            "l": 81.44536590576172,
-            "t": 82.11328125,
-            "r": 104.25565338134766,
-            "b": 59.0003662109375,
+            "l": 81.44467163085938,
+            "t": 82.11273193359375,
+            "r": 104.25497436523438,
+            "b": 59.00115966796875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9805,10 +9851,10 @@
         {
           "page_no": 12,
           "bbox": {
-            "l": 105.27050018310547,
-            "t": 661.0814361572266,
-            "r": 119.48967742919922,
-            "b": 646.2250061035156,
+            "l": 105.27368927001953,
+            "t": 661.0792694091797,
+            "r": 119.48628234863281,
+            "b": 646.2298278808594,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9829,7 +9875,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/261"
+          "$ref": "#/texts/265"
         }
       ],
       "content_layer": "body",
@@ -9838,10 +9884,10 @@
         {
           "page_no": 12,
           "bbox": {
-            "l": 232.5758819580078,
-            "t": 453.3278503417969,
-            "r": 316.642333984375,
-            "b": 431.8666076660156,
+            "l": 232.5746307373047,
+            "t": 453.3273620605469,
+            "r": 316.64202880859375,
+            "b": 431.8670959472656,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9867,10 +9913,10 @@
         {
           "page_no": 12,
           "bbox": {
-            "l": 333.4020080566406,
-            "t": 453.92706298828125,
-            "r": 358.70428466796875,
-            "b": 431.6145935058594,
+            "l": 333.4012756347656,
+            "t": 453.9269104003906,
+            "r": 358.703125,
+            "b": 431.61578369140625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -9896,10 +9942,10 @@
         {
           "page_no": 12,
           "bbox": {
-            "l": 421.65203857421875,
-            "t": 459.72723388671875,
-            "r": 476.98614501953125,
-            "b": 426.843994140625,
+            "l": 421.6524353027344,
+            "t": 459.7275695800781,
+            "r": 476.985595703125,
+            "b": 426.84381103515625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

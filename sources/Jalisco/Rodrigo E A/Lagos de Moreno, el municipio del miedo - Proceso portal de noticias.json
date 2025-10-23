@@ -243,6 +243,9 @@
         "$ref": "#/groups/1"
       },
       {
+        "$ref": "#/texts/131"
+      },
+      {
         "$ref": "#/texts/132"
       },
       {
@@ -270,10 +273,10 @@
         "$ref": "#/texts/140"
       },
       {
-        "$ref": "#/texts/141"
+        "$ref": "#/groups/2"
       },
       {
-        "$ref": "#/groups/2"
+        "$ref": "#/texts/155"
       },
       {
         "$ref": "#/texts/156"
@@ -369,19 +372,19 @@
         "$ref": "#/texts/186"
       },
       {
-        "$ref": "#/texts/187"
+        "$ref": "#/pictures/15"
       },
       {
-        "$ref": "#/pictures/15"
+        "$ref": "#/texts/187"
       },
       {
         "$ref": "#/texts/188"
       },
       {
-        "$ref": "#/texts/189"
+        "$ref": "#/pictures/16"
       },
       {
-        "$ref": "#/pictures/16"
+        "$ref": "#/texts/191"
       },
       {
         "$ref": "#/texts/192"
@@ -397,9 +400,6 @@
       },
       {
         "$ref": "#/texts/196"
-      },
-      {
-        "$ref": "#/texts/197"
       }
     ],
     "content_layer": "body",
@@ -597,9 +597,6 @@
         },
         {
           "$ref": "#/texts/130"
-        },
-        {
-          "$ref": "#/texts/131"
         }
       ],
       "content_layer": "body",
@@ -612,6 +609,9 @@
         "$ref": "#/body"
       },
       "children": [
+        {
+          "$ref": "#/texts/141"
+        },
         {
           "$ref": "#/texts/142"
         },
@@ -650,9 +650,6 @@
         },
         {
           "$ref": "#/texts/154"
-        },
-        {
-          "$ref": "#/texts/155"
         }
       ],
       "content_layer": "body",
@@ -4235,47 +4232,20 @@
             "l": 490.5,
             "t": 106.76400000000001,
             "r": 611.173,
-            "b": 78.15899999999999,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            77
-          ]
-        }
-      ],
-      "orig": "Covid-19 llega a la Sierra Tarahuma contagios (https://www.proceso.com.mx/627",
-      "text": "Covid-19 llega a la Sierra Tarahuma contagios (https://www.proceso.com.mx/627"
-    },
-    {
-      "self_ref": "#/texts/129",
-      "parent": {
-        "$ref": "#/groups/1"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 3,
-          "bbox": {
-            "l": 490.5,
-            "t": 73.76400000000001,
-            "r": 610.69,
             "b": 67.15899999999999,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             0,
-            34
+            112
           ]
         }
       ],
-      "orig": "19-llega-a-la-sierra-tarahumara-ha",
-      "text": "19-llega-a-la-sierra-tarahumara-ha"
+      "orig": "Covid-19 llega a la Sierra Tarahuma contagios (https://www.proceso.com.mx/627 19-llega-a-la-sierra-tarahumara-ha",
+      "text": "Covid-19 llega a la Sierra Tarahuma contagios (https://www.proceso.com.mx/627 19-llega-a-la-sierra-tarahumara-ha"
     },
     {
-      "self_ref": "#/texts/130",
+      "self_ref": "#/texts/129",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -4302,7 +4272,7 @@
       "text": "Poll"
     },
     {
-      "self_ref": "#/texts/131",
+      "self_ref": "#/texts/130",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -4329,7 +4299,7 @@
       "text": "powered by"
     },
     {
-      "self_ref": "#/texts/132",
+      "self_ref": "#/texts/131",
       "parent": {
         "$ref": "#/body"
       },
@@ -4356,7 +4326,7 @@
       "text": "contagios)"
     },
     {
-      "self_ref": "#/texts/133",
+      "self_ref": "#/texts/132",
       "parent": {
         "$ref": "#/body"
       },
@@ -4383,7 +4353,7 @@
       "text": "https://www.proceso.com.mx/348982/lagos-de-moreno-el-municipio-del-miedo"
     },
     {
-      "self_ref": "#/texts/134",
+      "self_ref": "#/texts/133",
       "parent": {
         "$ref": "#/body"
       },
@@ -4410,7 +4380,7 @@
       "text": "Página 3 de 6"
     },
     {
-      "self_ref": "#/texts/135",
+      "self_ref": "#/texts/134",
       "parent": {
         "$ref": "#/body"
       },
@@ -4437,7 +4407,7 @@
       "text": "Lagos de Moreno, el municipio del miedo - Proceso portal de noticias"
     },
     {
-      "self_ref": "#/texts/136",
+      "self_ref": "#/texts/135",
       "parent": {
         "$ref": "#/body"
       },
@@ -4464,7 +4434,7 @@
       "text": "4/23/20 7(42 PM"
     },
     {
-      "self_ref": "#/texts/137",
+      "self_ref": "#/texts/136",
       "parent": {
         "$ref": "#/body"
       },
@@ -4492,7 +4462,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/138",
+      "self_ref": "#/texts/137",
       "parent": {
         "$ref": "#/body"
       },
@@ -4519,7 +4489,7 @@
       "text": "Barbosa confirma con presuntos del (https://www.pro guardia-nacional)"
     },
     {
-      "self_ref": "#/texts/139",
+      "self_ref": "#/texts/138",
       "parent": {
         "$ref": "#/body"
       },
@@ -4546,7 +4516,7 @@
       "text": "Un vehículo al cor apercibimientos, Hoy No Circula (https://www.pro"
     },
     {
-      "self_ref": "#/texts/140",
+      "self_ref": "#/texts/139",
       "parent": {
         "$ref": "#/body"
       },
@@ -4573,7 +4543,7 @@
       "text": "Entra en crisis la clave en el estudi (https://www.pro en-crisis-la-unive en-el-estudio-del-"
     },
     {
-      "self_ref": "#/texts/141",
+      "self_ref": "#/texts/140",
       "parent": {
         "$ref": "#/body"
       },
@@ -4600,7 +4570,7 @@
       "text": "'Chicharito' dice del mundo… por 1 (https://www.pro mejores-jugadore"
     },
     {
-      "self_ref": "#/texts/142",
+      "self_ref": "#/texts/141",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -4627,7 +4597,7 @@
       "text": "' Patricia Mayorga"
     },
     {
-      "self_ref": "#/texts/143",
+      "self_ref": "#/texts/142",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -4654,7 +4624,7 @@
       "text": "(https://www.proceso.com.mx/author/pa mayorga)"
     },
     {
-      "self_ref": "#/texts/144",
+      "self_ref": "#/texts/143",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -4681,7 +4651,7 @@
       "text": "& 23 abril, 2020"
     },
     {
-      "self_ref": "#/texts/145",
+      "self_ref": "#/texts/144",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -4708,7 +4678,7 @@
       "text": "(https://www.proceso.com.mx/627114/c"
     },
     {
-      "self_ref": "#/texts/146",
+      "self_ref": "#/texts/145",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -4735,7 +4705,7 @@
       "text": "llega-a-la-sierra-tarahumara-hay-2-cont"
     },
     {
-      "self_ref": "#/texts/147",
+      "self_ref": "#/texts/146",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -4762,7 +4732,7 @@
       "text": "("
     },
     {
-      "self_ref": "#/texts/148",
+      "self_ref": "#/texts/147",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -4789,7 +4759,7 @@
       "text": "https://www.proceso.com.mx/6271 guardia- nacional)"
     },
     {
-      "self_ref": "#/texts/149",
+      "self_ref": "#/texts/148",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -4816,7 +4786,7 @@
       "text": "( vehiculo-al- corralon-y-35- en-las- primeras- horas-del-hoy-"
     },
     {
-      "self_ref": "#/texts/150",
+      "self_ref": "#/texts/149",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -4843,7 +4813,7 @@
       "text": "https://www.proceso.com.mx/6271 apercibimientos- vehiculo-al-corral apercibimientos- del-hoy-no-circul"
     },
     {
-      "self_ref": "#/texts/151",
+      "self_ref": "#/texts/150",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -4870,7 +4840,7 @@
       "text": "no-circula)"
     },
     {
-      "self_ref": "#/texts/152",
+      "self_ref": "#/texts/151",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -4897,7 +4867,7 @@
       "text": "( https://www.proceso.com.mx/6271 en-crisis-la- universidad- johns-hopkins- clave-en-el- estudio-del- virus)"
     },
     {
-      "self_ref": "#/texts/153",
+      "self_ref": "#/texts/152",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -4924,7 +4894,7 @@
       "text": "("
     },
     {
-      "self_ref": "#/texts/154",
+      "self_ref": "#/texts/153",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -4951,7 +4921,7 @@
       "text": "https://www.proceso.com.mx/6271"
     },
     {
-      "self_ref": "#/texts/155",
+      "self_ref": "#/texts/154",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -4978,7 +4948,7 @@
       "text": "mejores- jugadores-del- mundo-10- segundos)"
     },
     {
-      "self_ref": "#/texts/156",
+      "self_ref": "#/texts/155",
       "parent": {
         "$ref": "#/body"
       },
@@ -5005,7 +4975,7 @@
       "text": "https://www.proceso.com.mx/348982/lagos-de-moreno-el-municipio-del-miedo"
     },
     {
-      "self_ref": "#/texts/157",
+      "self_ref": "#/texts/156",
       "parent": {
         "$ref": "#/body"
       },
@@ -5032,7 +5002,7 @@
       "text": "Página 4 de 6"
     },
     {
-      "self_ref": "#/texts/158",
+      "self_ref": "#/texts/157",
       "parent": {
         "$ref": "#/body"
       },
@@ -5059,7 +5029,7 @@
       "text": "Lagos de Moreno, el municipio del miedo - Proceso portal de noticias"
     },
     {
-      "self_ref": "#/texts/159",
+      "self_ref": "#/texts/158",
       "parent": {
         "$ref": "#/body"
       },
@@ -5086,7 +5056,7 @@
       "text": "4/23/20 7(42 PM"
     },
     {
-      "self_ref": "#/texts/160",
+      "self_ref": "#/texts/159",
       "parent": {
         "$ref": "#/body"
       },
@@ -5114,7 +5084,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/161",
+      "self_ref": "#/texts/160",
       "parent": {
         "$ref": "#/body"
       },
@@ -5141,7 +5111,7 @@
       "text": "Historia (https://www.proceso.com.mx/historia)"
     },
     {
-      "self_ref": "#/texts/162",
+      "self_ref": "#/texts/161",
       "parent": {
         "$ref": "#/body"
       },
@@ -5168,7 +5138,7 @@
       "text": "Directorio (https://www.proceso.com.mx/directorio)"
     },
     {
-      "self_ref": "#/texts/163",
+      "self_ref": "#/texts/162",
       "parent": {
         "$ref": "#/body"
       },
@@ -5195,7 +5165,7 @@
       "text": "Palabra De Lector"
     },
     {
-      "self_ref": "#/texts/164",
+      "self_ref": "#/texts/163",
       "parent": {
         "$ref": "#/body"
       },
@@ -5222,7 +5192,7 @@
       "text": "(https://www.proceso.com.mx/category/palabra-delector)"
     },
     {
-      "self_ref": "#/texts/165",
+      "self_ref": "#/texts/164",
       "parent": {
         "$ref": "#/body"
       },
@@ -5249,7 +5219,7 @@
       "text": "Videos"
     },
     {
-      "self_ref": "#/texts/166",
+      "self_ref": "#/texts/165",
       "parent": {
         "$ref": "#/body"
       },
@@ -5276,7 +5246,7 @@
       "text": "(https://www.proceso.com.mx/category/proceso-tv)"
     },
     {
-      "self_ref": "#/texts/167",
+      "self_ref": "#/texts/166",
       "parent": {
         "$ref": "#/body"
       },
@@ -5303,7 +5273,7 @@
       "text": "Apro (https://www.apro.com.mx)"
     },
     {
-      "self_ref": "#/texts/168",
+      "self_ref": "#/texts/167",
       "parent": {
         "$ref": "#/body"
       },
@@ -5330,7 +5300,7 @@
       "text": "Procesofoto (https://www.procesofoto.com.mx)"
     },
     {
-      "self_ref": "#/texts/169",
+      "self_ref": "#/texts/168",
       "parent": {
         "$ref": "#/body"
       },
@@ -5357,7 +5327,7 @@
       "text": "Aviso de Privacidad Integral"
     },
     {
-      "self_ref": "#/texts/170",
+      "self_ref": "#/texts/169",
       "parent": {
         "$ref": "#/body"
       },
@@ -5384,7 +5354,7 @@
       "text": "(https://www.proceso.com.mx/aviso-de-privacidadintegral)"
     },
     {
-      "self_ref": "#/texts/171",
+      "self_ref": "#/texts/170",
       "parent": {
         "$ref": "#/body"
       },
@@ -5411,7 +5381,7 @@
       "text": "Aviso Legal (https://www.proceso.com.mx/avisolegal)"
     },
     {
-      "self_ref": "#/texts/172",
+      "self_ref": "#/texts/171",
       "parent": {
         "$ref": "#/body"
       },
@@ -5438,7 +5408,7 @@
       "text": "Contacto (https://www.proceso.com.mx/contacto)"
     },
     {
-      "self_ref": "#/texts/173",
+      "self_ref": "#/texts/172",
       "parent": {
         "$ref": "#/body"
       },
@@ -5465,7 +5435,7 @@
       "text": "© 2020 Revista Proceso. Todos los derechos reservados"
     },
     {
-      "self_ref": "#/texts/174",
+      "self_ref": "#/texts/173",
       "parent": {
         "$ref": "#/body"
       },
@@ -5493,7 +5463,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/175",
+      "self_ref": "#/texts/174",
       "parent": {
         "$ref": "#/body"
       },
@@ -5520,7 +5490,7 @@
       "text": "© Comunicación e Información S.A. de C.V."
     },
     {
-      "self_ref": "#/texts/176",
+      "self_ref": "#/texts/175",
       "parent": {
         "$ref": "#/body"
       },
@@ -5547,7 +5517,7 @@
       "text": "Teléfono: (55) 5636 2000 (tel:+525556362000)"
     },
     {
-      "self_ref": "#/texts/177",
+      "self_ref": "#/texts/176",
       "parent": {
         "$ref": "#/body"
       },
@@ -5574,7 +5544,7 @@
       "text": "Fresas #13, Col. Del Valle, C. P. 03100, Delegación Benito Juárez, Ciudad de México"
     },
     {
-      "self_ref": "#/texts/178",
+      "self_ref": "#/texts/177",
       "parent": {
         "$ref": "#/body"
       },
@@ -5602,7 +5572,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/179",
+      "self_ref": "#/texts/178",
       "parent": {
         "$ref": "#/body"
       },
@@ -5629,7 +5599,7 @@
       "text": "anuncios@proceso.com.mx"
     },
     {
-      "self_ref": "#/texts/180",
+      "self_ref": "#/texts/179",
       "parent": {
         "$ref": "#/body"
       },
@@ -5656,7 +5626,7 @@
       "text": "(55) 5636 2077"
     },
     {
-      "self_ref": "#/texts/181",
+      "self_ref": "#/texts/180",
       "parent": {
         "$ref": "#/body"
       },
@@ -5683,7 +5653,7 @@
       "text": "(55) 5636 2051"
     },
     {
-      "self_ref": "#/texts/182",
+      "self_ref": "#/texts/181",
       "parent": {
         "$ref": "#/body"
       },
@@ -5710,7 +5680,7 @@
       "text": "(55) 5636 2091"
     },
     {
-      "self_ref": "#/texts/183",
+      "self_ref": "#/texts/182",
       "parent": {
         "$ref": "#/body"
       },
@@ -5737,7 +5707,7 @@
       "text": "(55) 5636 2062"
     },
     {
-      "self_ref": "#/texts/184",
+      "self_ref": "#/texts/183",
       "parent": {
         "$ref": "#/body"
       },
@@ -5765,7 +5735,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/185",
+      "self_ref": "#/texts/184",
       "parent": {
         "$ref": "#/body"
       },
@@ -5792,7 +5762,7 @@
       "text": "suscripciones@proceso.com.mx"
     },
     {
-      "self_ref": "#/texts/186",
+      "self_ref": "#/texts/185",
       "parent": {
         "$ref": "#/body"
       },
@@ -5819,7 +5789,7 @@
       "text": "(55) 5636 2080"
     },
     {
-      "self_ref": "#/texts/187",
+      "self_ref": "#/texts/186",
       "parent": {
         "$ref": "#/body"
       },
@@ -5847,7 +5817,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/188",
+      "self_ref": "#/texts/187",
       "parent": {
         "$ref": "#/body"
       },
@@ -5874,7 +5844,7 @@
       "text": "(https://www.proceso.com.mx/declaracion-deaccesibilidad)"
     },
     {
-      "self_ref": "#/texts/189",
+      "self_ref": "#/texts/188",
       "parent": {
         "$ref": "#/body"
       },
@@ -5901,7 +5871,7 @@
       "text": "(https://www.fac (https://t"
     },
     {
-      "self_ref": "#/texts/190",
+      "self_ref": "#/texts/189",
       "parent": {
         "$ref": "#/pictures/16"
       },
@@ -5928,7 +5898,7 @@
       "text": "\""
     },
     {
-      "self_ref": "#/texts/191",
+      "self_ref": "#/texts/190",
       "parent": {
         "$ref": "#/pictures/16"
       },
@@ -5955,7 +5925,7 @@
       "text": "#"
     },
     {
-      "self_ref": "#/texts/192",
+      "self_ref": "#/texts/191",
       "parent": {
         "$ref": "#/body"
       },
@@ -5982,7 +5952,7 @@
       "text": "https://www.proceso.com.mx/348982/lagos-de-moreno-el-municipio-del-miedo"
     },
     {
-      "self_ref": "#/texts/193",
+      "self_ref": "#/texts/192",
       "parent": {
         "$ref": "#/body"
       },
@@ -6009,7 +5979,7 @@
       "text": "Página 5 de 6"
     },
     {
-      "self_ref": "#/texts/194",
+      "self_ref": "#/texts/193",
       "parent": {
         "$ref": "#/body"
       },
@@ -6036,7 +6006,7 @@
       "text": "Lagos de Moreno, el municipio del miedo - Proceso portal de noticias"
     },
     {
-      "self_ref": "#/texts/195",
+      "self_ref": "#/texts/194",
       "parent": {
         "$ref": "#/body"
       },
@@ -6063,7 +6033,7 @@
       "text": "4/23/20 7(42 PM"
     },
     {
-      "self_ref": "#/texts/196",
+      "self_ref": "#/texts/195",
       "parent": {
         "$ref": "#/body"
       },
@@ -6090,7 +6060,7 @@
       "text": "https://www.proceso.com.mx/348982/lagos-de-moreno-el-municipio-del-miedo"
     },
     {
-      "self_ref": "#/texts/197",
+      "self_ref": "#/texts/196",
       "parent": {
         "$ref": "#/body"
       },
@@ -6134,10 +6104,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 548.786865234375,
+            "l": 548.7861328125,
             "t": 742.6516952514648,
-            "r": 554.9053344726562,
-            "b": 733.0770072937012,
+            "r": 554.9049682617188,
+            "b": 733.0758590698242,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6167,10 +6137,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 568.8270874023438,
-            "t": 741.623161315918,
-            "r": 578.0774536132812,
-            "b": 733.4795608520508,
+            "l": 568.8267822265625,
+            "t": 741.6235504150391,
+            "r": 578.0784301757812,
+            "b": 733.4793014526367,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6196,10 +6166,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 24.755823135375977,
-            "t": 514.2322692871094,
-            "r": 460.8949890136719,
-            "b": 244.44769287109375,
+            "l": 24.754436492919922,
+            "t": 514.2361755371094,
+            "r": 460.8910217285156,
+            "b": 244.44775390625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6225,10 +6195,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 32.255226135253906,
-            "t": 153.49847412109375,
-            "r": 43.13297653198242,
-            "b": 141.80694580078125,
+            "l": 32.25891876220703,
+            "t": 153.4989013671875,
+            "r": 43.13247299194336,
+            "b": 141.80926513671875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6258,10 +6228,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 31.128355026245117,
+            "l": 31.132057189941406,
             "t": 104.6544189453125,
-            "r": 42.832122802734375,
-            "b": 93.6114501953125,
+            "r": 42.83842849731445,
+            "b": 93.612548828125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6294,10 +6264,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 30.630393981933594,
-            "t": 74.125732421875,
-            "r": 44.11878967285156,
-            "b": 63.51898193359375,
+            "l": 30.633493423461914,
+            "t": 74.126953125,
+            "r": 44.121978759765625,
+            "b": 63.5194091796875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6330,10 +6300,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 489.3451232910156,
-            "t": 577.3939819335938,
-            "r": 568.6555786132812,
-            "b": 427.0586853027344,
+            "l": 489.34771728515625,
+            "t": 577.3922882080078,
+            "r": 568.65576171875,
+            "b": 427.0619812011719,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6363,10 +6333,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 489.7003479003906,
-            "t": 349.7381896972656,
-            "r": 536.3316040039062,
-            "b": 322.4677429199219,
+            "l": 489.7052917480469,
+            "t": 349.7392272949219,
+            "r": 536.3342895507812,
+            "b": 322.4685974121094,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6396,10 +6366,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 489.7995300292969,
-            "t": 281.2780456542969,
-            "r": 536.3514404296875,
-            "b": 248.3663330078125,
+            "l": 489.8013610839844,
+            "t": 281.2748107910156,
+            "r": 536.3546142578125,
+            "b": 248.3658447265625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6429,10 +6399,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 489.57586669921875,
-            "t": 209.80694580078125,
-            "r": 536.5092163085938,
-            "b": 181.47930908203125,
+            "l": 489.5813903808594,
+            "t": 209.8065185546875,
+            "r": 536.5139770507812,
+            "b": 181.48004150390625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6462,10 +6432,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 489.58673095703125,
-            "t": 140.2822265625,
-            "r": 536.5567626953125,
-            "b": 114.9384765625,
+            "l": 489.5913391113281,
+            "t": 140.28076171875,
+            "r": 536.5606689453125,
+            "b": 114.93927001953125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6495,10 +6465,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 489.5266418457031,
-            "t": 69.9930419921875,
-            "r": 536.4122314453125,
-            "b": 63.54302978515625,
+            "l": 489.5297546386719,
+            "t": 69.99267578125,
+            "r": 536.4146118164062,
+            "b": 63.54461669921875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6531,10 +6501,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 549.8406372070312,
-            "t": 74.77392578125,
-            "r": 594.2047729492188,
-            "b": 63.00408935546875,
+            "l": 549.8416748046875,
+            "t": 74.7733154296875,
+            "r": 594.2047119140625,
+            "b": 63.0032958984375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6570,10 +6540,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 489.2381896972656,
-            "t": 751.622127532959,
-            "r": 595.0369873046875,
-            "b": 684.171875,
+            "l": 489.2375183105469,
+            "t": 751.6225357055664,
+            "r": 595.0376586914062,
+            "b": 684.1711120605469,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6603,10 +6573,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 472.9999084472656,
-            "t": 234.34039306640625,
-            "r": 594.566650390625,
-            "b": 117.704345703125,
+            "l": 472.99798583984375,
+            "t": 234.33966064453125,
+            "r": 594.5687866210938,
+            "b": 117.70611572265625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6632,10 +6602,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 443.967529296875,
-            "t": 503.2750549316406,
-            "r": 520.7102661132812,
-            "b": 432.7089538574219,
+            "l": 443.9669494628906,
+            "t": 503.2755432128906,
+            "r": 520.7105712890625,
+            "b": 432.7099914550781,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6656,10 +6626,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/190"
+          "$ref": "#/texts/189"
         },
         {
-          "$ref": "#/texts/191"
+          "$ref": "#/texts/190"
         }
       ],
       "content_layer": "body",
@@ -6668,10 +6638,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 557.4226684570312,
-            "t": 259.67645263671875,
-            "r": 594.212158203125,
-            "b": 236.43048095703125,
+            "l": 557.4217529296875,
+            "t": 259.6766357421875,
+            "r": 594.2111206054688,
+            "b": 236.43035888671875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

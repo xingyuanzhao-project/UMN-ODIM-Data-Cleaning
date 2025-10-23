@@ -195,9 +195,6 @@
         "$ref": "#/pictures/13"
       },
       {
-        "$ref": "#/texts/186"
-      },
-      {
         "$ref": "#/texts/187"
       },
       {
@@ -208,6 +205,9 @@
       },
       {
         "$ref": "#/texts/190"
+      },
+      {
+        "$ref": "#/texts/191"
       }
     ],
     "content_layer": "body",
@@ -765,6 +765,9 @@
       "children": [
         {
           "$ref": "#/texts/185"
+        },
+        {
+          "$ref": "#/texts/186"
         }
       ],
       "content_layer": "body",
@@ -5825,18 +5828,18 @@
           "bbox": {
             "l": 34.998,
             "t": 305.98900291015616,
-            "r": 358.106,
+            "r": 257.834,
             "b": 247.67800291015624,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             0,
-            247
+            164
           ]
         }
       ],
-      "orig": "Acerca de (https:/ /heraldodemexico.com.mx/acerca-de/) Directorio (https:/ /heraldodemexico.com.mx/directorio/) Políticas de Privacidad (https:/ /heraldodemexico.com.mx/politicas-de-privacidad/) Contacto (https:/ /heraldodemexico.com.mx/contacto/)",
-      "text": "Acerca de (https:/ /heraldodemexico.com.mx/acerca-de/) Directorio (https:/ /heraldodemexico.com.mx/directorio/) Políticas de Privacidad (https:/ /heraldodemexico.com.mx/politicas-de-privacidad/) Contacto (https:/ /heraldodemexico.com.mx/contacto/)",
+      "orig": "Acerca de (https:/ /heraldodemexico.com.mx/acerca-de/) Directorio (https:/ /heraldodemexico.com.mx/directorio/) Contacto (https:/ /heraldodemexico.com.mx/contacto/)",
+      "text": "Acerca de (https:/ /heraldodemexico.com.mx/acerca-de/) Directorio (https:/ /heraldodemexico.com.mx/directorio/) Contacto (https:/ /heraldodemexico.com.mx/contacto/)",
       "captions": [],
       "references": [],
       "footnotes": [],
@@ -5844,6 +5847,33 @@
     },
     {
       "self_ref": "#/texts/186",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 34.998,
+            "t": 270.0020029101563,
+            "r": 358.106,
+            "b": 265.6710029101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "Políticas de Privacidad (https:/ /heraldodemexico.com.mx/politicas-de-privacidad/)",
+      "text": "Políticas de Privacidad (https:/ /heraldodemexico.com.mx/politicas-de-privacidad/)"
+    },
+    {
+      "self_ref": "#/texts/187",
       "parent": {
         "$ref": "#/body"
       },
@@ -5870,7 +5900,7 @@
       "text": "© 2018 El Heraldo de México (https://heraldodemexico.com.mx/) - All rights reserved"
     },
     {
-      "self_ref": "#/texts/187",
+      "self_ref": "#/texts/188",
       "parent": {
         "$ref": "#/body"
       },
@@ -5897,7 +5927,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/188",
+      "self_ref": "#/texts/189",
       "parent": {
         "$ref": "#/body"
       },
@@ -5924,7 +5954,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/189",
+      "self_ref": "#/texts/190",
       "parent": {
         "$ref": "#/body"
       },
@@ -5951,7 +5981,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/190",
+      "self_ref": "#/texts/191",
       "parent": {
         "$ref": "#/body"
       },
@@ -6001,10 +6031,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 33.38333511352539,
-            "t": 697.200927734375,
-            "r": 561.9005737304688,
-            "b": 413.8966064453125,
+            "l": 33.38264465332031,
+            "t": 697.2015533447266,
+            "r": 561.9003295898438,
+            "b": 413.89691162109375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6074,10 +6104,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 33.42420959472656,
-            "t": 184.921875,
-            "r": 561.1605834960938,
-            "b": 34.182861328125,
+            "l": 33.423927307128906,
+            "t": 184.93353271484375,
+            "r": 561.16455078125,
+            "b": 34.17730712890625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6103,10 +6133,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 142.95274353027344,
-            "t": 773.6934967041016,
-            "r": 170.02316284179688,
-            "b": 746.7320251464844,
+            "l": 142.95152282714844,
+            "t": 773.6932601928711,
+            "r": 170.02455139160156,
+            "b": 746.7321929931641,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6132,10 +6162,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 35.083858489990234,
-            "t": 341.40020751953125,
-            "r": 66.13146209716797,
-            "b": 317.27685546875,
+            "l": 35.08347702026367,
+            "t": 341.4009094238281,
+            "r": 66.13028717041016,
+            "b": 317.27667236328125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6161,10 +6191,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 33.517948150634766,
-            "t": 296.05816650390625,
-            "r": 65.70780944824219,
-            "b": 265.71112060546875,
+            "l": 33.517398834228516,
+            "t": 296.056884765625,
+            "r": 65.70805358886719,
+            "b": 265.7100830078125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6190,9 +6220,9 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 33.93406295776367,
-            "t": 248.42138671875,
-            "r": 66.8855209350586,
+            "l": 33.93357849121094,
+            "t": 248.42059326171875,
+            "r": 66.8862533569336,
             "b": 217.4329833984375,
             "coord_origin": "BOTTOMLEFT"
           },
@@ -6219,10 +6249,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 33.31165313720703,
-            "t": 187.41546630859375,
-            "r": 66.00472259521484,
-            "b": 156.59375,
+            "l": 33.3115348815918,
+            "t": 187.41497802734375,
+            "r": 66.0056381225586,
+            "b": 156.59466552734375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6248,10 +6278,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 33.55289840698242,
-            "t": 126.75067138671875,
-            "r": 66.22293853759766,
-            "b": 95.49298095703125,
+            "l": 33.5539436340332,
+            "t": 126.7503662109375,
+            "r": 66.221923828125,
+            "b": 95.49383544921875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6281,9 +6311,9 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 494.2730712890625,
-            "t": 46.23565673828125,
-            "r": 503.9511413574219,
+            "l": 494.27203369140625,
+            "t": 46.236083984375,
+            "r": 503.9515686035156,
             "b": 36.2608642578125,
             "coord_origin": "BOTTOMLEFT"
           },
@@ -6314,10 +6344,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 241.6302947998047,
-            "t": 391.01568603515625,
-            "r": 267.0965881347656,
-            "b": 365.22503662109375,
+            "l": 241.631103515625,
+            "t": 391.0155029296875,
+            "r": 267.09771728515625,
+            "b": 365.22705078125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6347,10 +6377,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 271.6840515136719,
-            "t": 390.9946594238281,
-            "r": 297.244140625,
-            "b": 364.8346252441406,
+            "l": 271.68695068359375,
+            "t": 390.99481201171875,
+            "r": 297.2464294433594,
+            "b": 364.8351745605469,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6380,10 +6410,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 301.5365905761719,
-            "t": 390.9317321777344,
-            "r": 326.880859375,
-            "b": 364.69580078125,
+            "l": 301.53900146484375,
+            "t": 390.9326171875,
+            "r": 326.8809814453125,
+            "b": 364.6971130371094,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6413,10 +6443,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 331.26171875,
-            "t": 390.7619934082031,
-            "r": 356.7161865234375,
-            "b": 364.8037109375,
+            "l": 331.2630615234375,
+            "t": 390.7619323730469,
+            "r": 356.7159118652344,
+            "b": 364.80517578125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6442,10 +6472,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 37.93091583251953,
-            "t": 221.26629638671875,
-            "r": 67.48953247070312,
-            "b": 193.3360595703125,
+            "l": 37.93023681640625,
+            "t": 221.26605224609375,
+            "r": 67.49014282226562,
+            "b": 193.33544921875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

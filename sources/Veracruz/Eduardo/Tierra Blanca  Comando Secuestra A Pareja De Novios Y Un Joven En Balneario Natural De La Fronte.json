@@ -1,0 +1,980 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Tierra Blanca  Comando Secuestra A Pareja De Novios Y Un Joven En Balneario Natural De La Fronte",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2369706800351581169,
+    "filename": "Tierra Blanca  Comando Secuestra A Pareja De Novios Y Un Joven En Balneario Natural De La Fronte.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.73,
+            "r": 62.043,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "2/10/2019",
+      "text": "2/10/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 207.047,
+            "t": 775.73,
+            "r": 470.77,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "La Jornada: Nulo interés de autoridades, común en casos de desaparición",
+      "text": "La Jornada: Nulo interés de autoridades, común en casos de desaparición"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.75,
+            "t": 672.938,
+            "r": 334.174,
+            "b": 650.42,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "Familiares de personas ausentes narran historias de frustación",
+      "text": "Familiares de personas ausentes narran historias de frustación",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.75,
+            "t": 631.668,
+            "r": 326.75,
+            "b": 582.143,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Nulo interés de autoridades, común en casos de desaparición",
+      "text": "Nulo interés de autoridades, común en casos de desaparición",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 120.066,
+            "t": 563.303,
+            "r": 244.838,
+            "b": 557.135,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "E O A",
+      "text": "E O A"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 379.332,
+            "t": 534.16,
+            "r": 502.26,
+            "b": 520.633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Periódico La Jornada Lunes 14 de mayo de 2018, p. 12",
+      "text": "Periódico La Jornada Lunes 14 de mayo de 2018, p. 12"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.75,
+            "t": 509.195,
+            "r": 502.139,
+            "b": 476.179,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "Los testimonios se acumulan, al igual que el número de víctimas. Cada caso es distinto, pero tienen dos elementos comunes: la desaparición de una persona y el nulo interés de las autoridades para resolver el crimen.",
+      "text": "Los testimonios se acumulan, al igual que el número de víctimas. Cada caso es distinto, pero tienen dos elementos comunes: la desaparición de una persona y el nulo interés de las autoridades para resolver el crimen."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.75,
+            "t": 456.695,
+            "r": 502.139,
+            "b": 423.679,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            234
+          ]
+        }
+      ],
+      "orig": "Madres, hermanas, tías, suegras, todas ellas se han dedicado a buscar por su cuenta  a  sus  familiares  y  ahora  narran  sus  historias  en  entrevistas  con La Jornada . Todos son relatos de frustración, impotencia e incertidumbre.",
+      "text": "Madres, hermanas, tías, suegras, todas ellas se han dedicado a buscar por su cuenta  a  sus  familiares  y  ahora  narran  sus  historias  en  entrevistas  con La Jornada . Todos son relatos de frustración, impotencia e incertidumbre."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.75,
+            "t": 404.195,
+            "r": 502.039,
+            "b": 357.679,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            291
+          ]
+        }
+      ],
+      "orig": "El  21  de  enero  de  2012,  en  Francisco  I.  Madero,  Coahuila,  Tania  Sánchez Aranda,  de  entonces  22  años,  fue levantada por  un  comando  armado.  Era  la época  del  pleno  dominio  de Los  Zetas en  algunos  puntos  de  esa  entidad  y  la abierta colusión con las autoridades.",
+      "text": "El  21  de  enero  de  2012,  en  Francisco  I.  Madero,  Coahuila,  Tania  Sánchez Aranda,  de  entonces  22  años,  fue levantada por  un  comando  armado.  Era  la época  del  pleno  dominio  de Los  Zetas en  algunos  puntos  de  esa  entidad  y  la abierta colusión con las autoridades."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.75,
+            "t": 338.195,
+            "r": 502.221,
+            "b": 251.17899999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            562
+          ]
+        }
+      ],
+      "orig": "La maestra Georgina Aranda Contreras, madre de Tania, recuerda que recibió varias llamadas en las que le pedían 300 mil pesos para dejar en libertad y con vida a su hija. Hizo todo lo posible para recibir apoyo de las autoridades, quienes le  aconsejaron  que  negociara  con  los  secuestradores.  Cuando  por  fin  pudieron instalar  la  tecnología  para  rastrear  el  origen  de  los  telefonemas,  denuncia,  un comandante que estaba  presente  en  su  casa  salió,  habló  por  teléfono  'y  desde entonces dejamos de tener noticias de ellos y de mi hija'.",
+      "text": "La maestra Georgina Aranda Contreras, madre de Tania, recuerda que recibió varias llamadas en las que le pedían 300 mil pesos para dejar en libertad y con vida a su hija. Hizo todo lo posible para recibir apoyo de las autoridades, quienes le  aconsejaron  que  negociara  con  los  secuestradores.  Cuando  por  fin  pudieron instalar  la  tecnología  para  rastrear  el  origen  de  los  telefonemas,  denuncia,  un comandante que estaba  presente  en  su  casa  salió,  habló  por  teléfono  'y  desde entonces dejamos de tener noticias de ellos y de mi hija'."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.75,
+            "t": 231.69499999999994,
+            "r": 501.852,
+            "b": 171.67899999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            368
+          ]
+        }
+      ],
+      "orig": "Las  autoridades  tardaron  año  y  medio  en  darle  copia  de  la  investigación  y cuando  la  recibió  también  fue  humillada:  'Me  dijeron  que  si  sabía  leer  para entender  el  expediente'.  Le  dan  una  compensación  de  200  pesos  por  la desaparición  de  su  hija.  Denuncia  que  en  la  procuraduría  estatal  'todos  están coludidos con el crimen'.",
+      "text": "Las  autoridades  tardaron  año  y  medio  en  darle  copia  de  la  investigación  y cuando  la  recibió  también  fue  humillada:  'Me  dijeron  que  si  sabía  leer  para entender  el  expediente'.  Le  dan  una  compensación  de  200  pesos  por  la desaparición  de  su  hija.  Denuncia  que  en  la  procuraduría  estatal  'todos  están coludidos con el crimen'."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.75,
+            "t": 152.19499999999994,
+            "r": 502.145,
+            "b": 65.17899999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            518
+          ]
+        }
+      ],
+      "orig": "Gloria Cynthia Zaldaña González, del estado de México, desapareció el 20 de agosto de 2016. En principio su familia ubicó su último momento con vida en Xicotepec, Puebla. Hicieron todo por recibir el apoyo de las autoridades, que fue prácticamente  nulo,  acusa  su  hermana  Mayra  González  Ángeles.  Pasó  casi  un año, y en julio de 2017 se enteraron de que realizó su última llamada en Agua Blanca,  Hidalgo,  donde  gracias  a  los  pobladores  supieron  que  meses  atrás apareció un cuerpo que nadie reconoció.",
+      "text": "Gloria Cynthia Zaldaña González, del estado de México, desapareció el 20 de agosto de 2016. En principio su familia ubicó su último momento con vida en Xicotepec, Puebla. Hicieron todo por recibir el apoyo de las autoridades, que fue prácticamente  nulo,  acusa  su  hermana  Mayra  González  Ángeles.  Pasó  casi  un año, y en julio de 2017 se enteraron de que realizó su última llamada en Agua Blanca,  Hidalgo,  donde  gracias  a  los  pobladores  supieron  que  meses  atrás apareció un cuerpo que nadie reconoció."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.730000000000018,
+            "r": 231.02,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2018/05/14/politica/012n1pol",
+      "text": "https://www.jornada.com.mx/2018/05/14/politica/012n1pol"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.730000000000018,
+            "r": 585.512,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/3",
+      "text": "1/3"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.73,
+            "r": 62.043,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "2/10/2019",
+      "text": "2/10/2019"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 207.047,
+            "t": 775.73,
+            "r": 470.77,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "La Jornada: Nulo interés de autoridades, común en casos de desaparición",
+      "text": "La Jornada: Nulo interés de autoridades, común en casos de desaparición"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.75,
+            "t": 760.445,
+            "r": 502.15,
+            "b": 713.929,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            269
+          ]
+        }
+      ],
+      "orig": "Por  la  lentitud  de  las  indagatorias,  recibieron  el  cuerpo  de  su  hermana  en enero  de  este  año.  'En  este  país  en  ningún  estado  te  ayudan;  somos  nosotros quienes tenemos que investigar, porque no hay búsqueda eficaz ni indagatorias. Es increíble'.",
+      "text": "Por  la  lentitud  de  las  indagatorias,  recibieron  el  cuerpo  de  su  hermana  en enero  de  este  año.  'En  este  país  en  ningún  estado  te  ayudan;  somos  nosotros quienes tenemos que investigar, porque no hay búsqueda eficaz ni indagatorias. Es increíble'."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.75,
+            "t": 694.445,
+            "r": 501.84,
+            "b": 647.929,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            307
+          ]
+        }
+      ],
+      "orig": "Zaira  Itzel  Hernández  Díaz,  sobrina  de  Araceli  Hernández,  fue levantada junto con su novio en Tierra Blanca, Veracruz, cuando estaban de vacaciones en un balneario, el 15 de abril del año pasado. Lo que sería la celebración de sábado de gloria se convirtió en una pesadilla para la chica de 19 años.",
+      "text": "Zaira  Itzel  Hernández  Díaz,  sobrina  de  Araceli  Hernández,  fue levantada junto con su novio en Tierra Blanca, Veracruz, cuando estaban de vacaciones en un balneario, el 15 de abril del año pasado. Lo que sería la celebración de sábado de gloria se convirtió en una pesadilla para la chica de 19 años."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.75,
+            "t": 628.445,
+            "r": 502.021,
+            "b": 554.929,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            435
+          ]
+        }
+      ],
+      "orig": "Su familia, originaria de la Ciudad de México, no ha recibido respaldo de las autoridades veracruzanas. 'Resulta frustrante no ver avances, que no hagan nada, que no busquen, que sea como normal. Lo único que nos dicen es que siguen buscando,  que  están  en  calidad  de  desaparecidos,  pero  no  más.  Encuentran cientos  de  cuerpos,  pero  sus  registros  de  ADN  son  incompletos,  no  nos  dan ninguna razón', señaló Hernández.",
+      "text": "Su familia, originaria de la Ciudad de México, no ha recibido respaldo de las autoridades veracruzanas. 'Resulta frustrante no ver avances, que no hagan nada, que no busquen, que sea como normal. Lo único que nos dicen es que siguen buscando,  que  están  en  calidad  de  desaparecidos,  pero  no  más.  Encuentran cientos  de  cuerpos,  pero  sus  registros  de  ADN  son  incompletos,  no  nos  dan ninguna razón', señaló Hernández."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.75,
+            "t": 535.445,
+            "r": 502.197,
+            "b": 488.929,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "María  Loza  López  busca  a  su  hijo  y  su  nuera,  Edmundo  González  Loza  y Patricia Chagala Hernández, de 23 años, desde hace un año. Ellos desaparecieron en Acapulco, Guerrero. Fue, se dice, la delincuencia organizada, pero no tiene más información.",
+      "text": "María  Loza  López  busca  a  su  hijo  y  su  nuera,  Edmundo  González  Loza  y Patricia Chagala Hernández, de 23 años, desde hace un año. Ellos desaparecieron en Acapulco, Guerrero. Fue, se dice, la delincuencia organizada, pero no tiene más información."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.730000000000018,
+            "r": 231.02,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2018/05/14/politica/012n1pol",
+      "text": "https://www.jornada.com.mx/2018/05/14/politica/012n1pol"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.730000000000018,
+            "r": 585.512,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2/3",
+      "text": "2/3"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.73,
+            "r": 62.043,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "2/10/2019",
+      "text": "2/10/2019"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 207.047,
+            "t": 775.73,
+            "r": 470.77,
+            "b": 771.341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "La Jornada: Nulo interés de autoridades, común en casos de desaparición",
+      "text": "La Jornada: Nulo interés de autoridades, común en casos de desaparición"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 192.992,
+            "t": 562.122,
+            "r": 420.017,
+            "b": 541.508,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203.",
+      "text": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.730000000000018,
+            "r": 231.02,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2018/05/14/politica/012n1pol",
+      "text": "https://www.jornada.com.mx/2018/05/14/politica/012n1pol"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 574.406,
+            "t": 22.730000000000018,
+            "r": 585.512,
+            "b": 18.341000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3/3",
+      "text": "3/3"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.34217071533203,
+            "t": 745.3276901245117,
+            "r": 232.5742645263672,
+            "b": 704.1949844360352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 450.325927734375,
+            "t": 743.020191192627,
+            "r": 582.5211791992188,
+            "b": 720.0208892822266,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 559.5270385742188,
+            "t": 672.4422912597656,
+            "r": 578.194091796875,
+            "b": 653.5311431884766,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    }
+  }
+}

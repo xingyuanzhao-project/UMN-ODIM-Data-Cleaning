@@ -90,10 +90,13 @@
         "$ref": "#/pictures/4"
       },
       {
-        "$ref": "#/texts/47"
+        "$ref": "#/texts/46"
       },
       {
         "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/57"
       },
       {
         "$ref": "#/texts/58"
@@ -138,9 +141,6 @@
         "$ref": "#/texts/71"
       },
       {
-        "$ref": "#/texts/72"
-      },
-      {
         "$ref": "#/pictures/6"
       },
       {
@@ -156,22 +156,25 @@
         "$ref": "#/pictures/10"
       },
       {
+        "$ref": "#/texts/72"
+      },
+      {
         "$ref": "#/texts/73"
       },
       {
         "$ref": "#/texts/74"
       },
       {
-        "$ref": "#/texts/75"
-      },
-      {
         "$ref": "#/pictures/11"
       },
       {
-        "$ref": "#/texts/78"
+        "$ref": "#/texts/77"
       },
       {
         "$ref": "#/pictures/12"
+      },
+      {
+        "$ref": "#/texts/79"
       },
       {
         "$ref": "#/texts/80"
@@ -264,9 +267,6 @@
         "$ref": "#/texts/109"
       },
       {
-        "$ref": "#/texts/110"
-      },
-      {
         "$ref": "#/pictures/13"
       },
       {
@@ -277,6 +277,9 @@
       },
       {
         "$ref": "#/pictures/16"
+      },
+      {
+        "$ref": "#/texts/110"
       },
       {
         "$ref": "#/texts/111"
@@ -300,10 +303,10 @@
         "$ref": "#/texts/117"
       },
       {
-        "$ref": "#/texts/118"
+        "$ref": "#/pictures/17"
       },
       {
-        "$ref": "#/pictures/17"
+        "$ref": "#/texts/118"
       },
       {
         "$ref": "#/texts/119"
@@ -324,16 +327,13 @@
         "$ref": "#/texts/124"
       },
       {
-        "$ref": "#/texts/125"
-      },
-      {
         "$ref": "#/pictures/18"
       },
       {
-        "$ref": "#/texts/127"
+        "$ref": "#/texts/126"
       },
       {
-        "$ref": "#/texts/128"
+        "$ref": "#/texts/127"
       },
       {
         "$ref": "#/pictures/19"
@@ -354,6 +354,9 @@
         "$ref": "#/groups/0"
       },
       {
+        "$ref": "#/texts/141"
+      },
+      {
         "$ref": "#/texts/142"
       },
       {
@@ -372,19 +375,16 @@
         "$ref": "#/texts/147"
       },
       {
-        "$ref": "#/texts/148"
+        "$ref": "#/pictures/24"
       },
       {
-        "$ref": "#/pictures/24"
+        "$ref": "#/texts/148"
       },
       {
         "$ref": "#/texts/149"
       },
       {
         "$ref": "#/texts/150"
-      },
-      {
-        "$ref": "#/texts/151"
       },
       {
         "$ref": "#/pictures/25"
@@ -399,6 +399,9 @@
         "$ref": "#/pictures/28"
       },
       {
+        "$ref": "#/texts/190"
+      },
+      {
         "$ref": "#/texts/191"
       },
       {
@@ -408,16 +411,13 @@
         "$ref": "#/texts/193"
       },
       {
-        "$ref": "#/texts/194"
-      },
-      {
         "$ref": "#/pictures/29"
       },
       {
-        "$ref": "#/texts/239"
+        "$ref": "#/texts/238"
       },
       {
-        "$ref": "#/texts/240"
+        "$ref": "#/texts/239"
       }
     ],
     "content_layer": "body",
@@ -431,6 +431,9 @@
         "$ref": "#/body"
       },
       "children": [
+        {
+          "$ref": "#/texts/129"
+        },
         {
           "$ref": "#/texts/130"
         },
@@ -463,9 +466,6 @@
         },
         {
           "$ref": "#/texts/140"
-        },
-        {
-          "$ref": "#/texts/141"
         }
       ],
       "content_layer": "body",
@@ -1701,33 +1701,6 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 420.6666666666667,
-            "t": 275.0,
-            "r": 459.3333333333333,
-            "b": 268.33333333333337,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            13
-          ]
-        }
-      ],
-      "orig": "Local 4128 Av",
-      "text": "Local 4128 Av"
-    },
-    {
-      "self_ref": "#/texts/46",
-      "parent": {
-        "$ref": "#/pictures/4"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 1,
-          "bbox": {
             "l": 461.3333333333333,
             "t": 275.0,
             "r": 554.6666666666666,
@@ -1744,7 +1717,7 @@
       "text": "Paseo de la Marina Marina Vollarta"
     },
     {
-      "self_ref": "#/texts/47",
+      "self_ref": "#/texts/46",
       "parent": {
         "$ref": "#/body"
       },
@@ -1771,7 +1744,7 @@
       "text": "CLASIFICADOS"
     },
     {
-      "self_ref": "#/texts/48",
+      "self_ref": "#/texts/47",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1798,7 +1771,7 @@
       "text": "Hoy"
     },
     {
-      "self_ref": "#/texts/49",
+      "self_ref": "#/texts/48",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1825,7 +1798,7 @@
       "text": "Ma-ana"
     },
     {
-      "self_ref": "#/texts/50",
+      "self_ref": "#/texts/49",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1852,7 +1825,7 @@
       "text": "S‡bado"
     },
     {
-      "self_ref": "#/texts/51",
+      "self_ref": "#/texts/50",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1879,7 +1852,7 @@
       "text": "32¡"
     },
     {
-      "self_ref": "#/texts/52",
+      "self_ref": "#/texts/51",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1906,7 +1879,7 @@
       "text": "|"
     },
     {
-      "self_ref": "#/texts/53",
+      "self_ref": "#/texts/52",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1933,7 +1906,7 @@
       "text": "18¡"
     },
     {
-      "self_ref": "#/texts/54",
+      "self_ref": "#/texts/53",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1960,7 +1933,7 @@
       "text": "30¡"
     },
     {
-      "self_ref": "#/texts/55",
+      "self_ref": "#/texts/54",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1987,7 +1960,7 @@
       "text": "|"
     },
     {
-      "self_ref": "#/texts/56",
+      "self_ref": "#/texts/55",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -2014,7 +1987,7 @@
       "text": "17¡"
     },
     {
-      "self_ref": "#/texts/57",
+      "self_ref": "#/texts/56",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -2041,7 +2014,7 @@
       "text": "29¡ | 16¡"
     },
     {
-      "self_ref": "#/texts/58",
+      "self_ref": "#/texts/57",
       "parent": {
         "$ref": "#/body"
       },
@@ -2068,7 +2041,7 @@
       "text": "ÈÈÈ"
     },
     {
-      "self_ref": "#/texts/59",
+      "self_ref": "#/texts/58",
       "parent": {
         "$ref": "#/body"
       },
@@ -2095,7 +2068,7 @@
       "text": "("
     },
     {
-      "self_ref": "#/texts/60",
+      "self_ref": "#/texts/59",
       "parent": {
         "$ref": "#/body"
       },
@@ -2122,7 +2095,7 @@
       "text": "REGISTRATE"
     },
     {
-      "self_ref": "#/texts/61",
+      "self_ref": "#/texts/60",
       "parent": {
         "$ref": "#/body"
       },
@@ -2149,7 +2122,7 @@
       "text": "https://vallartaindependiente.com/2018/08/30/exigen-al-gobierno-de-vallarta-cumplir-con-recomendaciones-de-alerta-de-genero/"
     },
     {
-      "self_ref": "#/texts/62",
+      "self_ref": "#/texts/61",
       "parent": {
         "$ref": "#/body"
       },
@@ -2176,7 +2149,7 @@
       "text": "Page 1 of 5"
     },
     {
-      "self_ref": "#/texts/63",
+      "self_ref": "#/texts/62",
       "parent": {
         "$ref": "#/body"
       },
@@ -2203,7 +2176,7 @@
       "text": "Exigen al gobierno de Vallarta cumplir con recomendaciones de Alerta de Genero"
     },
     {
-      "self_ref": "#/texts/64",
+      "self_ref": "#/texts/63",
       "parent": {
         "$ref": "#/body"
       },
@@ -2230,7 +2203,7 @@
       "text": "4/11/19, 10(01 AM"
     },
     {
-      "self_ref": "#/texts/65",
+      "self_ref": "#/texts/64",
       "parent": {
         "$ref": "#/body"
       },
@@ -2258,7 +2231,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/66",
+      "self_ref": "#/texts/65",
       "parent": {
         "$ref": "#/body"
       },
@@ -2285,7 +2258,7 @@
       "text": "En el marco del Día Internacional de las Víctimas de Desapariciones Forzadas, el 'Colectivo Mujeres Puerto Vallarta', 'La Agenda Feminista Jalisco', el 'Comité de América Latina y el Caribe para la defensa de los derechos de las Mujeres (CLADEM)', la 'Red Yo Voy 8 de Marzo en Puerto Vallarta', exigen al Gobierno del Municipio de Puerto Vallarta cumplir con las recomendaciones del informe de la Alerta de Genero."
     },
     {
-      "self_ref": "#/texts/67",
+      "self_ref": "#/texts/66",
       "parent": {
         "$ref": "#/body"
       },
@@ -2312,7 +2285,7 @@
       "text": "A través de un pronunciamiento, los organismos exigen se ponga especial atención en la conclusión primera que observa las de fi ciencias en las investigaciones en los delitos cometidos contra mujeres entre ellos la desaparición de mujeres, niñas y adolescentes."
     },
     {
-      "self_ref": "#/texts/68",
+      "self_ref": "#/texts/67",
       "parent": {
         "$ref": "#/body"
       },
@@ -2340,7 +2313,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/69",
+      "self_ref": "#/texts/68",
       "parent": {
         "$ref": "#/body"
       },
@@ -2367,7 +2340,7 @@
       "text": "De la misma manera, denuncian públicamente que las autoridades estatales y municipales 'no han podido contener la incidencia de desaparición de personas en el Estado y en los municipios. Con gran preocupación vemos que la desaparición de personas, especialmente de niñas y mujeres va en aumento'."
     },
     {
-      "self_ref": "#/texts/70",
+      "self_ref": "#/texts/69",
       "parent": {
         "$ref": "#/body"
       },
@@ -2395,7 +2368,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/71",
+      "self_ref": "#/texts/70",
       "parent": {
         "$ref": "#/body"
       },
@@ -2422,7 +2395,7 @@
       "text": "De acuerdo con información o fi cial -citan los organismos- son 2 mil 113 personas desaparecidas en Jalisco según el Registro Nacional de Datos de Personas Extraviadas o Desaparecidas (RNPED), actualizado el 21 de agosto de 2018."
     },
     {
-      "self_ref": "#/texts/72",
+      "self_ref": "#/texts/71",
       "parent": {
         "$ref": "#/body"
       },
@@ -2449,7 +2422,7 @@
       "text": "En el registro, Guadalajara se coloca como el octavo municipio con más desapariciones de todo el país, mientras que los cinco primeros lugares son: Matamoros, con mil 377; Nuevo Laredo, con 855; Tijuana, con 842; Reynosa, 806 y Juárez, 544 (sólo cinco por ciento más que Guadalajara)."
     },
     {
-      "self_ref": "#/texts/73",
+      "self_ref": "#/texts/72",
       "parent": {
         "$ref": "#/body"
       },
@@ -2476,7 +2449,7 @@
       "text": "De los 48 municipios del país con 100 o más desapariciones, 5 son municipios jaliscienses: Zapopan, en el lugar 13 (con 322); Tlaquepaque, en el 31 (con 152); Puerto Vallarta, en el 42 (con 107) y Tonalá, en el 43 (con 105). En Jalisco se han dado desapariciones en 108 de sus 125 municipios."
     },
     {
-      "self_ref": "#/texts/74",
+      "self_ref": "#/texts/73",
       "parent": {
         "$ref": "#/body"
       },
@@ -2503,7 +2476,7 @@
       "text": "De las 2 mil 113 desapariciones que arroja el Registro en Jalisco, 926 se dieron en durante esta administración, de marzo del 2013 a julio del 2014, es decir, en promedio ocurren dos desapariciones cada día."
     },
     {
-      "self_ref": "#/texts/75",
+      "self_ref": "#/texts/74",
       "parent": {
         "$ref": "#/body"
       },
@@ -2531,7 +2504,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/76",
+      "self_ref": "#/texts/75",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -2558,7 +2531,7 @@
       "text": "15% OFF on Ist Order"
     },
     {
-      "self_ref": "#/texts/77",
+      "self_ref": "#/texts/76",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -2585,7 +2558,7 @@
       "text": "More View"
     },
     {
-      "self_ref": "#/texts/78",
+      "self_ref": "#/texts/77",
       "parent": {
         "$ref": "#/body"
       },
@@ -2612,7 +2585,7 @@
       "text": "En el documento, los colectivos destacan últimos casos de desaparición, tales como el de María José Carrillo, Liliana"
     },
     {
-      "self_ref": "#/texts/79",
+      "self_ref": "#/texts/78",
       "parent": {
         "$ref": "#/pictures/12"
       },
@@ -2639,7 +2612,7 @@
       "text": "Converter"
     },
     {
-      "self_ref": "#/texts/80",
+      "self_ref": "#/texts/79",
       "parent": {
         "$ref": "#/body"
       },
@@ -2666,7 +2639,7 @@
       "text": "Your One-Stop Online File Converter. Free to Download and"
     },
     {
-      "self_ref": "#/texts/81",
+      "self_ref": "#/texts/80",
       "parent": {
         "$ref": "#/body"
       },
@@ -2694,7 +2667,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/82",
+      "self_ref": "#/texts/81",
       "parent": {
         "$ref": "#/body"
       },
@@ -2721,7 +2694,7 @@
       "text": "11 ABRIL, 2019"
     },
     {
-      "self_ref": "#/texts/83",
+      "self_ref": "#/texts/82",
       "parent": {
         "$ref": "#/body"
       },
@@ -2748,7 +2721,7 @@
       "text": "Con gol de Cristiano, la Juve empata en Amsterdan; el Barcelona gana con autogol"
     },
     {
-      "self_ref": "#/texts/84",
+      "self_ref": "#/texts/83",
       "parent": {
         "$ref": "#/body"
       },
@@ -2775,7 +2748,7 @@
       "text": "11 ABRIL, 2019"
     },
     {
-      "self_ref": "#/texts/85",
+      "self_ref": "#/texts/84",
       "parent": {
         "$ref": "#/body"
       },
@@ -2802,7 +2775,7 @@
       "text": "INE multa a Morena por no aclarar destino de recursos"
     },
     {
-      "self_ref": "#/texts/86",
+      "self_ref": "#/texts/85",
       "parent": {
         "$ref": "#/body"
       },
@@ -2829,7 +2802,7 @@
       "text": "11 ABRIL, 2019"
     },
     {
-      "self_ref": "#/texts/87",
+      "self_ref": "#/texts/86",
       "parent": {
         "$ref": "#/body"
       },
@@ -2856,7 +2829,7 @@
       "text": "Habrá nueva manifestación en la 200, ahora en Mismaloya"
     },
     {
-      "self_ref": "#/texts/88",
+      "self_ref": "#/texts/87",
       "parent": {
         "$ref": "#/body"
       },
@@ -2883,7 +2856,7 @@
       "text": "10 ABRIL, 2019"
     },
     {
-      "self_ref": "#/texts/89",
+      "self_ref": "#/texts/88",
       "parent": {
         "$ref": "#/body"
       },
@@ -2910,7 +2883,7 @@
       "text": "Perro se niega a apartarse del cuerpo de su amo arrollado por un tren"
     },
     {
-      "self_ref": "#/texts/90",
+      "self_ref": "#/texts/89",
       "parent": {
         "$ref": "#/body"
       },
@@ -2937,7 +2910,7 @@
       "text": "10 ABRIL, 2019"
     },
     {
-      "self_ref": "#/texts/91",
+      "self_ref": "#/texts/90",
       "parent": {
         "$ref": "#/body"
       },
@@ -2964,7 +2937,7 @@
       "text": "Surfistas vallartenses participarán en la Olimpiada Nacional Juvenil"
     },
     {
-      "self_ref": "#/texts/92",
+      "self_ref": "#/texts/91",
       "parent": {
         "$ref": "#/body"
       },
@@ -2991,7 +2964,7 @@
       "text": "ABRIL 4, 2019"
     },
     {
-      "self_ref": "#/texts/93",
+      "self_ref": "#/texts/92",
       "parent": {
         "$ref": "#/body"
       },
@@ -3018,7 +2991,7 @@
       "text": ") 2.509"
     },
     {
-      "self_ref": "#/texts/94",
+      "self_ref": "#/texts/93",
       "parent": {
         "$ref": "#/body"
       },
@@ -3045,7 +3018,7 @@
       "text": "Confirman que María del Rosario fue encontrada sin su bebé"
     },
     {
-      "self_ref": "#/texts/95",
+      "self_ref": "#/texts/94",
       "parent": {
         "$ref": "#/body"
       },
@@ -3072,7 +3045,7 @@
       "text": "ABRIL 5, 2019"
     },
     {
-      "self_ref": "#/texts/96",
+      "self_ref": "#/texts/95",
       "parent": {
         "$ref": "#/body"
       },
@@ -3099,7 +3072,7 @@
       "text": ") 1.512"
     },
     {
-      "self_ref": "#/texts/97",
+      "self_ref": "#/texts/96",
       "parent": {
         "$ref": "#/body"
       },
@@ -3126,7 +3099,7 @@
       "text": "Jovenes presumen en redes el mal uso que le dan a sus becas"
     },
     {
-      "self_ref": "#/texts/98",
+      "self_ref": "#/texts/97",
       "parent": {
         "$ref": "#/body"
       },
@@ -3153,7 +3126,7 @@
       "text": "MARZO 15, 2019"
     },
     {
-      "self_ref": "#/texts/99",
+      "self_ref": "#/texts/98",
       "parent": {
         "$ref": "#/body"
       },
@@ -3180,7 +3153,7 @@
       "text": ") 1.393"
     },
     {
-      "self_ref": "#/texts/100",
+      "self_ref": "#/texts/99",
       "parent": {
         "$ref": "#/body"
       },
@@ -3207,7 +3180,7 @@
       "text": "Hallan 19 cuerpos envueltos en bolsas en un canal de aguas negras en Jalisco"
     },
     {
-      "self_ref": "#/texts/101",
+      "self_ref": "#/texts/100",
       "parent": {
         "$ref": "#/body"
       },
@@ -3234,7 +3207,7 @@
       "text": "MARZO 16, 2019"
     },
     {
-      "self_ref": "#/texts/102",
+      "self_ref": "#/texts/101",
       "parent": {
         "$ref": "#/body"
       },
@@ -3261,7 +3234,7 @@
       "text": ") 784"
     },
     {
-      "self_ref": "#/texts/103",
+      "self_ref": "#/texts/102",
       "parent": {
         "$ref": "#/body"
       },
@@ -3288,7 +3261,7 @@
       "text": "Capturan a 2 sujetos con droga en Puerto Vallarta, traían marihuana y cristal"
     },
     {
-      "self_ref": "#/texts/104",
+      "self_ref": "#/texts/103",
       "parent": {
         "$ref": "#/body"
       },
@@ -3315,7 +3288,7 @@
       "text": "ABRIL 20, 2018"
     },
     {
-      "self_ref": "#/texts/105",
+      "self_ref": "#/texts/104",
       "parent": {
         "$ref": "#/body"
       },
@@ -3342,7 +3315,7 @@
       "text": "Autopista Jala-Puerto Vallarta estará en agosto de 2019: SCT"
     },
     {
-      "self_ref": "#/texts/106",
+      "self_ref": "#/texts/105",
       "parent": {
         "$ref": "#/body"
       },
@@ -3369,7 +3342,7 @@
       "text": "MARZO 25, 2019"
     },
     {
-      "self_ref": "#/texts/107",
+      "self_ref": "#/texts/106",
       "parent": {
         "$ref": "#/body"
       },
@@ -3396,7 +3369,7 @@
       "text": ") 708"
     },
     {
-      "self_ref": "#/texts/108",
+      "self_ref": "#/texts/107",
       "parent": {
         "$ref": "#/body"
       },
@@ -3423,7 +3396,7 @@
       "text": ") 690"
     },
     {
-      "self_ref": "#/texts/109",
+      "self_ref": "#/texts/108",
       "parent": {
         "$ref": "#/body"
       },
@@ -3450,7 +3423,7 @@
       "text": "Hombre abusa sexualmente de sus"
     },
     {
-      "self_ref": "#/texts/110",
+      "self_ref": "#/texts/109",
       "parent": {
         "$ref": "#/body"
       },
@@ -3478,7 +3451,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/111",
+      "self_ref": "#/texts/110",
       "parent": {
         "$ref": "#/body"
       },
@@ -3505,7 +3478,7 @@
       "text": "https://vallartaindependiente.com/2018/08/30/exigen-al-gobierno-de-vallarta-cumplir-con-recomendaciones-de-alerta-de-genero/"
     },
     {
-      "self_ref": "#/texts/112",
+      "self_ref": "#/texts/111",
       "parent": {
         "$ref": "#/body"
       },
@@ -3532,7 +3505,7 @@
       "text": "Page 2 of 5"
     },
     {
-      "self_ref": "#/texts/113",
+      "self_ref": "#/texts/112",
       "parent": {
         "$ref": "#/body"
       },
@@ -3559,7 +3532,7 @@
       "text": "Exigen al gobierno de Vallarta cumplir con recomendaciones de Alerta de Genero"
     },
     {
-      "self_ref": "#/texts/114",
+      "self_ref": "#/texts/113",
       "parent": {
         "$ref": "#/body"
       },
@@ -3586,7 +3559,7 @@
       "text": "4/11/19, 10(01 AM"
     },
     {
-      "self_ref": "#/texts/115",
+      "self_ref": "#/texts/114",
       "parent": {
         "$ref": "#/body"
       },
@@ -3613,7 +3586,7 @@
       "text": "Uribe Chávez. Así mismo aquellos que han transcendido de la vida pública y política, tales como los de Erika Berenice Cueto Vázquez y el regidor Humberto Gómez Arévalo."
     },
     {
-      "self_ref": "#/texts/116",
+      "self_ref": "#/texts/115",
       "parent": {
         "$ref": "#/body"
       },
@@ -3641,7 +3614,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/117",
+      "self_ref": "#/texts/116",
       "parent": {
         "$ref": "#/body"
       },
@@ -3668,7 +3641,7 @@
       "text": "Ante este contexto, destaca el pronunciamiento, se exige mayor atención y cumplimiento a las autoridades estatales y municipales, especialmente de Puerto Vallarta y Bahía de Banderas, a las fi scalías Regionales de los Gobiernos del Estado de Jalisco y Nayarit."
     },
     {
-      "self_ref": "#/texts/118",
+      "self_ref": "#/texts/117",
       "parent": {
         "$ref": "#/body"
       },
@@ -3696,7 +3669,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/119",
+      "self_ref": "#/texts/118",
       "parent": {
         "$ref": "#/body"
       },
@@ -3723,7 +3696,7 @@
       "text": "Al Gobernador del Estado de Jalisco, se dote de presupuesto a la Fiscalía Especializada de personas desaparecidas y a la Comisión de Búsqueda y a su vez a las agencias del Ministerio Publico de las regiones."
     },
     {
-      "self_ref": "#/texts/120",
+      "self_ref": "#/texts/119",
       "parent": {
         "$ref": "#/body"
       },
@@ -3750,7 +3723,7 @@
       "text": "'Que el Gobierno del Municipio de Puerto Vallarta cumpla con las 'Que el Gobierno del Municipio de Puerto Vallarta cumpla con las recomendaciones del informe de la Alerta de Genero poniendo especial atención recomendaciones del informe de la Alerta de Genero poniendo especial atención en la conclusión primera que observa las de fi ciencias en las investigaciones en en la conclusión primera que observa las de fi ciencias en las investigaciones en los delitos cometidos contra mujeres entre ellos la desaparición de mujeres, los delitos cometidos contra mujeres entre ellos la desaparición de mujeres, niñas y adolescentes' niñas y adolescentes'"
     },
     {
-      "self_ref": "#/texts/121",
+      "self_ref": "#/texts/120",
       "parent": {
         "$ref": "#/body"
       },
@@ -3777,7 +3750,7 @@
       "text": "Colectivos pro-mujeres."
     },
     {
-      "self_ref": "#/texts/122",
+      "self_ref": "#/texts/121",
       "parent": {
         "$ref": "#/body"
       },
@@ -3804,7 +3777,7 @@
       "text": "Exigen al ¿ gobierno del Estado la realización de convenios de búsqueda con los estados colindantes para e fi cientar la búsqueda de personas desaparecidas, así como se celebren convenios con las instancias públicas y privadas necesarias para la difusión y búsqueda de mujeres, niñas y adolescentes desaparecidas."
     },
     {
-      "self_ref": "#/texts/123",
+      "self_ref": "#/texts/122",
       "parent": {
         "$ref": "#/body"
       },
@@ -3832,7 +3805,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/124",
+      "self_ref": "#/texts/123",
       "parent": {
         "$ref": "#/body"
       },
@@ -3859,7 +3832,7 @@
       "text": "'Exigimos campañas permanentes de información a la población en general para informar, que hacer en caso de desaparición y se conozca el funcionamiento y objetivo de Protocolo Alba y Alerta Amber', señalan."
     },
     {
-      "self_ref": "#/texts/125",
+      "self_ref": "#/texts/124",
       "parent": {
         "$ref": "#/body"
       },
@@ -3886,7 +3859,7 @@
       "text": "Asimismo, llaman a que se trabaje desde la Fiscalía regional (con sede en Puerto Vallarta) con debida diligencia en la búsqueda e investigación de las personas desaparecidas."
     },
     {
-      "self_ref": "#/texts/126",
+      "self_ref": "#/texts/125",
       "parent": {
         "$ref": "#/pictures/18"
       },
@@ -3913,7 +3886,7 @@
       "text": "Anuncio"
     },
     {
-      "self_ref": "#/texts/127",
+      "self_ref": "#/texts/126",
       "parent": {
         "$ref": "#/body"
       },
@@ -3940,7 +3913,7 @@
       "text": "Exigen se garantice el derecho de las familias de personas desaparecidas, a conocer la verdad de los hechos y ser informados y participar de la búsqueda e investigación de su familiar."
     },
     {
-      "self_ref": "#/texts/128",
+      "self_ref": "#/texts/127",
       "parent": {
         "$ref": "#/body"
       },
@@ -3967,7 +3940,7 @@
       "text": "TE RECOMENDAMOS: Violencia de género: Contrastan políticas públicas y percepción ciudadana"
     },
     {
-      "self_ref": "#/texts/129",
+      "self_ref": "#/texts/128",
       "parent": {
         "$ref": "#/pictures/19"
       },
@@ -3994,7 +3967,7 @@
       "text": "3 hijas, embaraza a 2 de ellas"
     },
     {
-      "self_ref": "#/texts/130",
+      "self_ref": "#/texts/129",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -4021,7 +3994,7 @@
       "text": "ABRIL 9, 2019"
     },
     {
-      "self_ref": "#/texts/131",
+      "self_ref": "#/texts/130",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -4048,7 +4021,7 @@
       "text": ") 679"
     },
     {
-      "self_ref": "#/texts/132",
+      "self_ref": "#/texts/131",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -4075,7 +4048,7 @@
       "text": "MARZO 30, 2019"
     },
     {
-      "self_ref": "#/texts/133",
+      "self_ref": "#/texts/132",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -4102,7 +4075,7 @@
       "text": ") 660"
     },
     {
-      "self_ref": "#/texts/134",
+      "self_ref": "#/texts/133",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -4129,7 +4102,7 @@
       "text": "MARZO 23, 2019"
     },
     {
-      "self_ref": "#/texts/135",
+      "self_ref": "#/texts/134",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -4156,7 +4129,7 @@
       "text": ") 639"
     },
     {
-      "self_ref": "#/texts/136",
+      "self_ref": "#/texts/135",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -4183,7 +4156,7 @@
       "text": "MARZO 18, 2019"
     },
     {
-      "self_ref": "#/texts/137",
+      "self_ref": "#/texts/136",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -4210,7 +4183,7 @@
       "text": ") 618"
     },
     {
-      "self_ref": "#/texts/138",
+      "self_ref": "#/texts/137",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -4237,7 +4210,7 @@
       "text": "Por tobogán en Caletas, turista sufre discapacidad del 60%"
     },
     {
-      "self_ref": "#/texts/139",
+      "self_ref": "#/texts/138",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -4264,7 +4237,7 @@
       "text": "Arrestan a 'Lady Frijoles' en EU por presunto robo a mano armada"
     },
     {
-      "self_ref": "#/texts/140",
+      "self_ref": "#/texts/139",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -4291,7 +4264,7 @@
       "text": "Todo listo para el 'Down Puerto Vallarta 2019'"
     },
     {
-      "self_ref": "#/texts/141",
+      "self_ref": "#/texts/140",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -4318,7 +4291,7 @@
       "text": "Capturan a presunto líder del CJNG"
     },
     {
-      "self_ref": "#/texts/142",
+      "self_ref": "#/texts/141",
       "parent": {
         "$ref": "#/body"
       },
@@ -4345,7 +4318,7 @@
       "text": "https://vallartaindependiente.com/2018/08/30/exigen-al-gobierno-de-vallarta-cumplir-con-recomendaciones-de-alerta-de-genero/"
     },
     {
-      "self_ref": "#/texts/143",
+      "self_ref": "#/texts/142",
       "parent": {
         "$ref": "#/body"
       },
@@ -4372,7 +4345,7 @@
       "text": "Page 3 of 5"
     },
     {
-      "self_ref": "#/texts/144",
+      "self_ref": "#/texts/143",
       "parent": {
         "$ref": "#/body"
       },
@@ -4399,7 +4372,7 @@
       "text": "Exigen al gobierno de Vallarta cumplir con recomendaciones de Alerta de Genero"
     },
     {
-      "self_ref": "#/texts/145",
+      "self_ref": "#/texts/144",
       "parent": {
         "$ref": "#/body"
       },
@@ -4426,7 +4399,7 @@
       "text": "4/11/19, 10(01 AM"
     },
     {
-      "self_ref": "#/texts/146",
+      "self_ref": "#/texts/145",
       "parent": {
         "$ref": "#/body"
       },
@@ -4453,7 +4426,7 @@
       "text": "Piden garantizar el acompañamiento psicosocial a las víctimas directas e indirectas de desaparición forzada o por particulares desde la Comisión Ejecutiva de Víctimas, así como se realicen capacitaciones con perspectiva de género, atención a víctimas y derechos humanos en las policías municipales."
     },
     {
-      "self_ref": "#/texts/147",
+      "self_ref": "#/texts/146",
       "parent": {
         "$ref": "#/body"
       },
@@ -4480,7 +4453,7 @@
       "text": "Llaman a crear unidades de reacción inmediata de búsquedas de mujeres, niñas y adolescentes en las corporaciones de las policías municipales y exigen se sancione a las y los servidores públicos que han amenazado y acosado a las familias que buscan a sus familiares desaparecidos."
     },
     {
-      "self_ref": "#/texts/148",
+      "self_ref": "#/texts/147",
       "parent": {
         "$ref": "#/body"
       },
@@ -4507,7 +4480,7 @@
       "text": "alerta de género"
     },
     {
-      "self_ref": "#/texts/149",
+      "self_ref": "#/texts/148",
       "parent": {
         "$ref": "#/body"
       },
@@ -4534,7 +4507,7 @@
       "text": "desaparición forzada"
     },
     {
-      "self_ref": "#/texts/150",
+      "self_ref": "#/texts/149",
       "parent": {
         "$ref": "#/body"
       },
@@ -4561,7 +4534,7 @@
       "text": "Gobierno"
     },
     {
-      "self_ref": "#/texts/151",
+      "self_ref": "#/texts/150",
       "parent": {
         "$ref": "#/body"
       },
@@ -4602,7 +4575,7 @@
       "text": "Puerto Vallarta recomendaciones"
     },
     {
-      "self_ref": "#/texts/152",
+      "self_ref": "#/texts/151",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -4630,7 +4603,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/153",
+      "self_ref": "#/texts/152",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -4658,7 +4631,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/154",
+      "self_ref": "#/texts/153",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -4685,7 +4658,7 @@
       "text": "\""
     },
     {
-      "self_ref": "#/texts/155",
+      "self_ref": "#/texts/154",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -4712,7 +4685,7 @@
       "text": "#"
     },
     {
-      "self_ref": "#/texts/156",
+      "self_ref": "#/texts/155",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -4739,7 +4712,7 @@
       "text": "+"
     },
     {
-      "self_ref": "#/texts/157",
+      "self_ref": "#/texts/156",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -4766,7 +4739,7 @@
       "text": "$"
     },
     {
-      "self_ref": "#/texts/158",
+      "self_ref": "#/texts/157",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -4793,7 +4766,7 @@
       "text": "*"
     },
     {
-      "self_ref": "#/texts/159",
+      "self_ref": "#/texts/158",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -4821,7 +4794,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/160",
+      "self_ref": "#/texts/159",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -4848,7 +4821,7 @@
       "text": "¿Qué tan seguido puedes tomar"
     },
     {
-      "self_ref": "#/texts/161",
+      "self_ref": "#/texts/160",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -4875,7 +4848,7 @@
       "text": "la pastilla del día siguiente?"
     },
     {
-      "self_ref": "#/texts/162",
+      "self_ref": "#/texts/161",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -4902,7 +4875,7 @@
       "text": "5 ABRIL, 2019"
     },
     {
-      "self_ref": "#/texts/163",
+      "self_ref": "#/texts/162",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -4929,7 +4902,7 @@
       "text": "Se preparan para la entrega de"
     },
     {
-      "self_ref": "#/texts/164",
+      "self_ref": "#/texts/163",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -4956,7 +4929,7 @@
       "text": "mochilas, útiles, vestimenta y"
     },
     {
-      "self_ref": "#/texts/165",
+      "self_ref": "#/texts/164",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -4983,7 +4956,7 @@
       "text": "calzado"
     },
     {
-      "self_ref": "#/texts/166",
+      "self_ref": "#/texts/165",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5010,7 +4983,7 @@
       "text": "26 MARZO, 2019"
     },
     {
-      "self_ref": "#/texts/167",
+      "self_ref": "#/texts/166",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5037,7 +5010,7 @@
       "text": "Jalisco contrata crédito de 800"
     },
     {
-      "self_ref": "#/texts/168",
+      "self_ref": "#/texts/167",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5064,7 +5037,7 @@
       "text": "millones para 'rescatar'"
     },
     {
-      "self_ref": "#/texts/169",
+      "self_ref": "#/texts/168",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5091,7 +5064,7 @@
       "text": "municipios"
     },
     {
-      "self_ref": "#/texts/170",
+      "self_ref": "#/texts/169",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5118,7 +5091,7 @@
       "text": "5 MARZO, 2019"
     },
     {
-      "self_ref": "#/texts/171",
+      "self_ref": "#/texts/170",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5145,7 +5118,7 @@
       "text": "Mamás recibirán mil 600 pesos"
     },
     {
-      "self_ref": "#/texts/172",
+      "self_ref": "#/texts/171",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5172,7 +5145,7 @@
       "text": "para estancias infantiles"
     },
     {
-      "self_ref": "#/texts/173",
+      "self_ref": "#/texts/172",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5199,7 +5172,7 @@
       "text": "12 FEBRERO, 2019"
     },
     {
-      "self_ref": "#/texts/174",
+      "self_ref": "#/texts/173",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5226,7 +5199,7 @@
       "text": "13 Millones de estudiantes"
     },
     {
-      "self_ref": "#/texts/175",
+      "self_ref": "#/texts/174",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5253,7 +5226,7 @@
       "text": "serán becados por el Gobierno"
     },
     {
-      "self_ref": "#/texts/176",
+      "self_ref": "#/texts/175",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5280,7 +5253,7 @@
       "text": "de México"
     },
     {
-      "self_ref": "#/texts/177",
+      "self_ref": "#/texts/176",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5307,7 +5280,7 @@
       "text": "7 FEBRERO, 2019"
     },
     {
-      "self_ref": "#/texts/178",
+      "self_ref": "#/texts/177",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5334,7 +5307,7 @@
       "text": "Cabildo nuevamente en riesgo"
     },
     {
-      "self_ref": "#/texts/179",
+      "self_ref": "#/texts/178",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5361,7 +5334,7 @@
       "text": "de suspensión si no pagan"
     },
     {
-      "self_ref": "#/texts/180",
+      "self_ref": "#/texts/179",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5388,7 +5361,7 @@
       "text": "laudos"
     },
     {
-      "self_ref": "#/texts/181",
+      "self_ref": "#/texts/180",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5415,7 +5388,7 @@
       "text": "1 FEBRERO, 2019"
     },
     {
-      "self_ref": "#/texts/182",
+      "self_ref": "#/texts/181",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5443,7 +5416,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/183",
+      "self_ref": "#/texts/182",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5470,7 +5443,7 @@
       "text": "Ordenar por"
     },
     {
-      "self_ref": "#/texts/184",
+      "self_ref": "#/texts/183",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5497,7 +5470,7 @@
       "text": "Plugin de comentarios de Facebook"
     },
     {
-      "self_ref": "#/texts/185",
+      "self_ref": "#/texts/184",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5524,7 +5497,7 @@
       "text": "Más antiguos"
     },
     {
-      "self_ref": "#/texts/186",
+      "self_ref": "#/texts/185",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5551,7 +5524,7 @@
       "text": "Agregar un"
     },
     {
-      "self_ref": "#/texts/187",
+      "self_ref": "#/texts/186",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -5578,7 +5551,7 @@
       "text": "comentario..."
     },
     {
-      "self_ref": "#/texts/188",
+      "self_ref": "#/texts/187",
       "parent": {
         "$ref": "#/pictures/28"
       },
@@ -5605,7 +5578,7 @@
       "text": "JustFashion Vow"
     },
     {
-      "self_ref": "#/texts/189",
+      "self_ref": "#/texts/188",
       "parent": {
         "$ref": "#/pictures/28"
       },
@@ -5632,7 +5605,7 @@
       "text": "UP TO 45% 0"
     },
     {
-      "self_ref": "#/texts/190",
+      "self_ref": "#/texts/189",
       "parent": {
         "$ref": "#/pictures/28"
       },
@@ -5659,7 +5632,7 @@
       "text": "Shop Now"
     },
     {
-      "self_ref": "#/texts/191",
+      "self_ref": "#/texts/190",
       "parent": {
         "$ref": "#/body"
       },
@@ -5686,7 +5659,7 @@
       "text": "https://vallartaindependiente.com/2018/08/30/exigen-al-gobierno-de-vallarta-cumplir-con-recomendaciones-de-alerta-de-genero/"
     },
     {
-      "self_ref": "#/texts/192",
+      "self_ref": "#/texts/191",
       "parent": {
         "$ref": "#/body"
       },
@@ -5713,7 +5686,7 @@
       "text": "Page 4 of 5"
     },
     {
-      "self_ref": "#/texts/193",
+      "self_ref": "#/texts/192",
       "parent": {
         "$ref": "#/body"
       },
@@ -5740,7 +5713,7 @@
       "text": "Exigen al gobierno de Vallarta cumplir con recomendaciones de Alerta de Genero"
     },
     {
-      "self_ref": "#/texts/194",
+      "self_ref": "#/texts/193",
       "parent": {
         "$ref": "#/body"
       },
@@ -5767,7 +5740,7 @@
       "text": "4/11/19, 10(01 AM"
     },
     {
-      "self_ref": "#/texts/195",
+      "self_ref": "#/texts/194",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -5794,7 +5767,7 @@
       "text": "SITIO"
     },
     {
-      "self_ref": "#/texts/196",
+      "self_ref": "#/texts/195",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -5821,7 +5794,7 @@
       "text": "+"
     },
     {
-      "self_ref": "#/texts/197",
+      "self_ref": "#/texts/196",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -5848,7 +5821,7 @@
       "text": "Principal"
     },
     {
-      "self_ref": "#/texts/198",
+      "self_ref": "#/texts/197",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -5875,7 +5848,7 @@
       "text": "Login"
     },
     {
-      "self_ref": "#/texts/199",
+      "self_ref": "#/texts/198",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -5902,7 +5875,7 @@
       "text": ","
     },
     {
-      "self_ref": "#/texts/200",
+      "self_ref": "#/texts/199",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -5929,7 +5902,7 @@
       "text": "Facebook"
     },
     {
-      "self_ref": "#/texts/201",
+      "self_ref": "#/texts/200",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -5956,7 +5929,7 @@
       "text": "\""
     },
     {
-      "self_ref": "#/texts/202",
+      "self_ref": "#/texts/201",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -5983,7 +5956,7 @@
       "text": "Twitter"
     },
     {
-      "self_ref": "#/texts/203",
+      "self_ref": "#/texts/202",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6010,7 +5983,7 @@
       "text": "-"
     },
     {
-      "self_ref": "#/texts/204",
+      "self_ref": "#/texts/203",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6037,7 +6010,7 @@
       "text": "Youtube"
     },
     {
-      "self_ref": "#/texts/205",
+      "self_ref": "#/texts/204",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6064,7 +6037,7 @@
       "text": "."
     },
     {
-      "self_ref": "#/texts/206",
+      "self_ref": "#/texts/205",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6091,7 +6064,7 @@
       "text": "Clasi"
     },
     {
-      "self_ref": "#/texts/207",
+      "self_ref": "#/texts/206",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6118,7 +6091,7 @@
       "text": "fi"
     },
     {
-      "self_ref": "#/texts/208",
+      "self_ref": "#/texts/207",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6145,7 +6118,7 @@
       "text": "cados"
     },
     {
-      "self_ref": "#/texts/209",
+      "self_ref": "#/texts/208",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6172,7 +6145,7 @@
       "text": "%"
     },
     {
-      "self_ref": "#/texts/210",
+      "self_ref": "#/texts/209",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6199,7 +6172,7 @@
       "text": "RSS Feed"
     },
     {
-      "self_ref": "#/texts/211",
+      "self_ref": "#/texts/210",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6226,7 +6199,7 @@
       "text": "NOTICIERO DIGITAL"
     },
     {
-      "self_ref": "#/texts/212",
+      "self_ref": "#/texts/211",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6253,7 +6226,7 @@
       "text": "VALLARTA INDEPENDIENTE"
     },
     {
-      "self_ref": "#/texts/213",
+      "self_ref": "#/texts/212",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6280,7 +6253,7 @@
       "text": "Mostramos información relevante y de calidad para"
     },
     {
-      "self_ref": "#/texts/214",
+      "self_ref": "#/texts/213",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6307,7 +6280,7 @@
       "text": "el lector, si usted desea recibir mas información"
     },
     {
-      "self_ref": "#/texts/215",
+      "self_ref": "#/texts/214",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6334,7 +6307,7 @@
       "text": "ingrese su correo para recibir nuestras publicaciones."
     },
     {
-      "self_ref": "#/texts/216",
+      "self_ref": "#/texts/215",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6361,7 +6334,7 @@
       "text": "Recibe nuestras notas:"
     },
     {
-      "self_ref": "#/texts/217",
+      "self_ref": "#/texts/216",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6388,7 +6361,7 @@
       "text": "Correo"
     },
     {
-      "self_ref": "#/texts/218",
+      "self_ref": "#/texts/217",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6415,7 +6388,7 @@
       "text": "Suscribete"
     },
     {
-      "self_ref": "#/texts/219",
+      "self_ref": "#/texts/218",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6442,7 +6415,7 @@
       "text": "ABRIL 5, 2019"
     },
     {
-      "self_ref": "#/texts/220",
+      "self_ref": "#/texts/219",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6469,7 +6442,7 @@
       "text": ")"
     },
     {
-      "self_ref": "#/texts/221",
+      "self_ref": "#/texts/220",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6496,7 +6469,7 @@
       "text": "1.512"
     },
     {
-      "self_ref": "#/texts/222",
+      "self_ref": "#/texts/221",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6523,7 +6496,7 @@
       "text": "ABRIL 9, 2019"
     },
     {
-      "self_ref": "#/texts/223",
+      "self_ref": "#/texts/222",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6550,7 +6523,7 @@
       "text": ")"
     },
     {
-      "self_ref": "#/texts/224",
+      "self_ref": "#/texts/223",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6577,7 +6550,7 @@
       "text": "679"
     },
     {
-      "self_ref": "#/texts/225",
+      "self_ref": "#/texts/224",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6604,7 +6577,7 @@
       "text": "ABRIL 10, 2019"
     },
     {
-      "self_ref": "#/texts/226",
+      "self_ref": "#/texts/225",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6631,7 +6604,7 @@
       "text": ")"
     },
     {
-      "self_ref": "#/texts/227",
+      "self_ref": "#/texts/226",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6658,7 +6631,7 @@
       "text": "486"
     },
     {
-      "self_ref": "#/texts/228",
+      "self_ref": "#/texts/227",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6685,7 +6658,7 @@
       "text": "TENDENCIA"
     },
     {
-      "self_ref": "#/texts/229",
+      "self_ref": "#/texts/228",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6712,7 +6685,7 @@
       "text": "Jovenes presumen en redes el mal"
     },
     {
-      "self_ref": "#/texts/230",
+      "self_ref": "#/texts/229",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6739,7 +6712,7 @@
       "text": "uso que le dan a sus becas"
     },
     {
-      "self_ref": "#/texts/231",
+      "self_ref": "#/texts/230",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6766,7 +6739,7 @@
       "text": "Por tobogán en Caletas, turista sufre"
     },
     {
-      "self_ref": "#/texts/232",
+      "self_ref": "#/texts/231",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6793,7 +6766,7 @@
       "text": "discapacidad del 60%"
     },
     {
-      "self_ref": "#/texts/233",
+      "self_ref": "#/texts/232",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6820,7 +6793,7 @@
       "text": "Tobogán de Vallarta Adventures fue"
     },
     {
-      "self_ref": "#/texts/234",
+      "self_ref": "#/texts/233",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6847,7 +6820,7 @@
       "text": "ilegal desde su construcción"
     },
     {
-      "self_ref": "#/texts/235",
+      "self_ref": "#/texts/234",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6874,7 +6847,7 @@
       "text": "Copyright © 2018 Green Shield Technology"
     },
     {
-      "self_ref": "#/texts/236",
+      "self_ref": "#/texts/235",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6901,7 +6874,7 @@
       "text": "Aviso de privacidad · Terminos de Uso"
     },
     {
-      "self_ref": "#/texts/237",
+      "self_ref": "#/texts/236",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6928,7 +6901,7 @@
       "text": "easy way"
     },
     {
-      "self_ref": "#/texts/238",
+      "self_ref": "#/texts/237",
       "parent": {
         "$ref": "#/pictures/29"
       },
@@ -6955,7 +6928,7 @@
       "text": "Measure your ketones with one"
     },
     {
-      "self_ref": "#/texts/239",
+      "self_ref": "#/texts/238",
       "parent": {
         "$ref": "#/body"
       },
@@ -6982,7 +6955,7 @@
       "text": "https://vallartaindependiente.com/2018/08/30/exigen-al-gobierno-de-vallarta-cumplir-con-recomendaciones-de-alerta-de-genero/"
     },
     {
-      "self_ref": "#/texts/240",
+      "self_ref": "#/texts/239",
       "parent": {
         "$ref": "#/body"
       },
@@ -7077,10 +7050,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 34.78744888305664,
-            "t": 744.8670234680176,
-            "r": 576.0684204101562,
-            "b": 523.7486877441406,
+            "l": 34.78666687011719,
+            "t": 744.8690414428711,
+            "r": 576.068603515625,
+            "b": 523.7495422363281,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7116,10 +7089,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 35.14006042480469,
-            "t": 514.0438537597656,
-            "r": 169.7952423095703,
-            "b": 460.62164306640625,
+            "l": 35.13966751098633,
+            "t": 514.0448608398438,
+            "r": 169.79676818847656,
+            "b": 460.6231994628906,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7145,10 +7118,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 390.5859375,
-            "t": 503.6888732910156,
-            "r": 414.5443420410156,
-            "b": 480.1221618652344,
+            "l": 390.58636474609375,
+            "t": 503.6883239746094,
+            "r": 414.5453186035156,
+            "b": 480.12200927734375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7178,10 +7151,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 35.1639404296875,
+            "l": 35.16415786743164,
             "t": 391.4876708984375,
-            "r": 387.9144287109375,
-            "b": 189.5006103515625,
+            "r": 387.9150085449219,
+            "b": 189.50189208984375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7215,9 +7188,6 @@
         },
         {
           "$ref": "#/texts/45"
-        },
-        {
-          "$ref": "#/texts/46"
         }
       ],
       "content_layer": "body",
@@ -7226,10 +7196,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 411.66156005859375,
-            "t": 390.90496826171875,
-            "r": 564.1182861328125,
-            "b": 263.72247314453125,
+            "l": 411.6622009277344,
+            "t": 390.9059143066406,
+            "r": 564.1179809570312,
+            "b": 263.72265625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7253,6 +7223,9 @@
         "$ref": "#/body"
       },
       "children": [
+        {
+          "$ref": "#/texts/47"
+        },
         {
           "$ref": "#/texts/48"
         },
@@ -7279,9 +7252,6 @@
         },
         {
           "$ref": "#/texts/56"
-        },
-        {
-          "$ref": "#/texts/57"
         }
       ],
       "content_layer": "body",
@@ -7290,10 +7260,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 470.1843566894531,
-            "t": 514.7167663574219,
-            "r": 568.5197143554688,
-            "b": 468.5643615722656,
+            "l": 470.1834411621094,
+            "t": 514.7169799804688,
+            "r": 568.52001953125,
+            "b": 468.56439208984375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7319,10 +7289,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 40.489925384521484,
-            "t": 437.32672119140625,
-            "r": 106.69473266601562,
-            "b": 348.0502624511719,
+            "l": 40.489131927490234,
+            "t": 437.3264465332031,
+            "r": 106.6946029663086,
+            "b": 348.0506896972656,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7348,10 +7318,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 108.78691864013672,
-            "t": 436.9444274902344,
-            "r": 176.6750946044922,
-            "b": 347.7835693359375,
+            "l": 108.7870101928711,
+            "t": 436.9450378417969,
+            "r": 176.67477416992188,
+            "b": 347.7832336425781,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7377,10 +7347,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 178.29312133789062,
-            "t": 436.7767333984375,
-            "r": 245.11488342285156,
-            "b": 347.8104553222656,
+            "l": 178.29197692871094,
+            "t": 436.7765197753906,
+            "r": 245.1148223876953,
+            "b": 347.8100280761719,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7406,10 +7376,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 314.1805419921875,
-            "t": 436.53521728515625,
-            "r": 382.9941711425781,
-            "b": 347.951416015625,
+            "l": 314.17803955078125,
+            "t": 436.53546142578125,
+            "r": 382.9938659667969,
+            "b": 347.9513854980469,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7435,9 +7405,9 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 246.7925567626953,
-            "t": 436.4670715332031,
-            "r": 316.0627746582031,
+            "l": 246.7888946533203,
+            "t": 436.4659423828125,
+            "r": 316.0397644042969,
             "b": 347.9394226074219,
             "coord_origin": "BOTTOMLEFT"
           },
@@ -7459,10 +7429,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/76"
+          "$ref": "#/texts/75"
         },
         {
-          "$ref": "#/texts/77"
+          "$ref": "#/texts/76"
         }
       ],
       "content_layer": "body",
@@ -7471,10 +7441,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 39.73978042602539,
-            "t": 188.9718017578125,
-            "r": 382.5393981933594,
-            "b": 99.35870361328125,
+            "l": 39.73874282836914,
+            "t": 188.9744873046875,
+            "r": 382.5400390625,
+            "b": 99.359619140625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7495,7 +7465,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/79"
+          "$ref": "#/texts/78"
         }
       ],
       "content_layer": "body",
@@ -7504,10 +7474,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 412.44683837890625,
-            "t": 750.4285430908203,
-            "r": 576.273193359375,
-            "b": 724.4587020874023,
+            "l": 412.44573974609375,
+            "t": 750.4287185668945,
+            "r": 576.27294921875,
+            "b": 724.4595642089844,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7533,10 +7503,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 411.5362243652344,
-            "t": 302.7292175292969,
-            "r": 456.34564208984375,
-            "b": 263.66351318359375,
+            "l": 411.5355224609375,
+            "t": 302.7298889160156,
+            "r": 456.3453063964844,
+            "b": 263.6629638671875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7562,10 +7532,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 411.8702087402344,
+            "l": 411.86981201171875,
             "t": 253.5081787109375,
-            "r": 456.1763000488281,
-            "b": 215.05010986328125,
+            "r": 456.1759033203125,
+            "b": 215.0504150390625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7591,10 +7561,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 411.9913024902344,
-            "t": 194.45635986328125,
-            "r": 456.0274353027344,
-            "b": 156.83416748046875,
+            "l": 411.99041748046875,
+            "t": 194.4556884765625,
+            "r": 456.02789306640625,
+            "b": 156.83453369140625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7620,10 +7590,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 411.7922668457031,
-            "t": 136.5997314453125,
-            "r": 456.221435546875,
-            "b": 97.76361083984375,
+            "l": 411.791748046875,
+            "t": 136.5992431640625,
+            "r": 456.2218017578125,
+            "b": 97.763671875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7649,10 +7619,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 313.50689697265625,
-            "t": 618.3162689208984,
-            "r": 382.23590087890625,
-            "b": 530.0718383789062,
+            "l": 313.5071105957031,
+            "t": 618.3172760009766,
+            "r": 382.2362060546875,
+            "b": 530.0717468261719,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7673,7 +7643,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/126"
+          "$ref": "#/texts/125"
         }
       ],
       "content_layer": "body",
@@ -7682,10 +7652,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 39.760772705078125,
-            "t": 225.42010498046875,
-            "r": 382.6495666503906,
-            "b": 137.49920654296875,
+            "l": 39.757911682128906,
+            "t": 225.4237060546875,
+            "r": 382.6515197753906,
+            "b": 137.49530029296875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7706,7 +7676,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/129"
+          "$ref": "#/texts/128"
         }
       ],
       "content_layer": "body",
@@ -7715,10 +7685,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 411.97601318359375,
-            "t": 751.1441116333008,
-            "r": 456.4564514160156,
-            "b": 712.4154663085938,
+            "l": 411.97515869140625,
+            "t": 751.1444358825684,
+            "r": 456.4564208984375,
+            "b": 712.4152755737305,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7729,7 +7699,7 @@
       ],
       "captions": [
         {
-          "$ref": "#/texts/129"
+          "$ref": "#/texts/128"
         }
       ],
       "references": [],
@@ -7748,10 +7718,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 411.7369384765625,
-            "t": 701.3998489379883,
-            "r": 456.24853515625,
-            "b": 663.7442016601562,
+            "l": 411.7361755371094,
+            "t": 701.4006423950195,
+            "r": 456.2484130859375,
+            "b": 663.743408203125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7777,10 +7747,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 411.4374694824219,
-            "t": 652.4875946044922,
-            "r": 456.61810302734375,
-            "b": 614.7787628173828,
+            "l": 411.437255859375,
+            "t": 652.4878845214844,
+            "r": 456.6183166503906,
+            "b": 614.7782745361328,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7806,10 +7776,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 411.89019775390625,
-            "t": 604.0958709716797,
-            "r": 456.2595520019531,
-            "b": 566.1292724609375,
+            "l": 411.8901672363281,
+            "t": 604.0963897705078,
+            "r": 456.2591552734375,
+            "b": 566.1291046142578,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7835,10 +7805,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 411.83526611328125,
-            "t": 555.4049530029297,
-            "r": 456.35723876953125,
-            "b": 516.1989440917969,
+            "l": 411.8350830078125,
+            "t": 555.4062347412109,
+            "r": 456.35711669921875,
+            "b": 516.1978454589844,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7864,10 +7834,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 17.909257888793945,
-            "t": 172.83795166015625,
-            "r": 61.52143096923828,
-            "b": 116.1865234375,
+            "l": 17.908235549926758,
+            "t": 172.84112548828125,
+            "r": 61.52425003051758,
+            "b": 116.1864013671875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7887,6 +7857,9 @@
         "$ref": "#/body"
       },
       "children": [
+        {
+          "$ref": "#/texts/151"
+        },
         {
           "$ref": "#/texts/152"
         },
@@ -7991,9 +7964,6 @@
         },
         {
           "$ref": "#/texts/186"
-        },
-        {
-          "$ref": "#/texts/187"
         }
       ],
       "content_layer": "body",
@@ -8002,10 +7972,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 31.877704620361328,
-            "t": 622.8938140869141,
-            "r": 388.53448486328125,
-            "b": 114.43145751953125,
+            "l": 31.63249969482422,
+            "t": 624.1194763183594,
+            "r": 388.7408142089844,
+            "b": 114.6234130859375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8031,10 +8001,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 388.75482177734375,
-            "t": 172.83880615234375,
-            "r": 433.1639099121094,
-            "b": 115.74298095703125,
+            "l": 388.7554626464844,
+            "t": 172.8385009765625,
+            "r": 433.16375732421875,
+            "b": 115.74517822265625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8060,10 +8030,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 435.2926940917969,
-            "t": 173.0126953125,
-            "r": 479.8971862792969,
-            "b": 115.89501953125,
+            "l": 435.2935485839844,
+            "t": 173.01080322265625,
+            "r": 479.8977966308594,
+            "b": 115.89434814453125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8084,13 +8054,13 @@
       },
       "children": [
         {
+          "$ref": "#/texts/187"
+        },
+        {
           "$ref": "#/texts/188"
         },
         {
           "$ref": "#/texts/189"
-        },
-        {
-          "$ref": "#/texts/190"
         }
       ],
       "content_layer": "body",
@@ -8099,10 +8069,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 483.46710205078125,
-            "t": 168.771484375,
-            "r": 594.43994140625,
-            "b": 120.6795654296875,
+            "l": 483.47491455078125,
+            "t": 168.77362060546875,
+            "r": 594.4324340820312,
+            "b": 120.67706298828125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8122,6 +8092,9 @@
         "$ref": "#/body"
       },
       "children": [
+        {
+          "$ref": "#/texts/194"
+        },
         {
           "$ref": "#/texts/195"
         },
@@ -8250,9 +8223,6 @@
         },
         {
           "$ref": "#/texts/237"
-        },
-        {
-          "$ref": "#/texts/238"
         }
       ],
       "content_layer": "body",
@@ -8261,10 +8231,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 16.613012313842773,
-            "t": 750.6408042907715,
-            "r": 594.4108276367188,
-            "b": 492.5489807128906,
+            "l": 16.610933303833008,
+            "t": 750.6406021118164,
+            "r": 594.4112548828125,
+            "b": 492.5462341308594,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

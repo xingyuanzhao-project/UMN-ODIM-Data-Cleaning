@@ -69,6 +69,9 @@
         "$ref": "#/pictures/4"
       },
       {
+        "$ref": "#/texts/41"
+      },
+      {
         "$ref": "#/texts/42"
       },
       {
@@ -87,10 +90,10 @@
         "$ref": "#/texts/47"
       },
       {
-        "$ref": "#/texts/48"
+        "$ref": "#/groups/1"
       },
       {
-        "$ref": "#/groups/1"
+        "$ref": "#/texts/50"
       },
       {
         "$ref": "#/texts/51"
@@ -111,10 +114,10 @@
         "$ref": "#/texts/56"
       },
       {
-        "$ref": "#/texts/57"
+        "$ref": "#/pictures/5"
       },
       {
-        "$ref": "#/pictures/5"
+        "$ref": "#/texts/69"
       },
       {
         "$ref": "#/texts/70"
@@ -144,10 +147,10 @@
         "$ref": "#/texts/78"
       },
       {
-        "$ref": "#/texts/79"
+        "$ref": "#/pictures/6"
       },
       {
-        "$ref": "#/pictures/6"
+        "$ref": "#/texts/83"
       },
       {
         "$ref": "#/texts/84"
@@ -156,10 +159,10 @@
         "$ref": "#/texts/85"
       },
       {
-        "$ref": "#/texts/86"
+        "$ref": "#/pictures/7"
       },
       {
-        "$ref": "#/pictures/7"
+        "$ref": "#/texts/87"
       },
       {
         "$ref": "#/texts/88"
@@ -201,16 +204,13 @@
         "$ref": "#/texts/100"
       },
       {
-        "$ref": "#/texts/101"
-      },
-      {
         "$ref": "#/pictures/8"
       },
       {
-        "$ref": "#/texts/103"
+        "$ref": "#/texts/102"
       },
       {
-        "$ref": "#/texts/104"
+        "$ref": "#/texts/103"
       }
     ],
     "content_layer": "body",
@@ -225,7 +225,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/39"
+          "$ref": "#/texts/38"
         }
       ],
       "content_layer": "body",
@@ -239,10 +239,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/49"
+          "$ref": "#/texts/48"
         },
         {
-          "$ref": "#/texts/50"
+          "$ref": "#/texts/49"
         }
       ],
       "content_layer": "body",
@@ -939,33 +939,6 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 524.6666666666666,
-            "t": 166.0,
-            "r": 592.6666666666666,
-            "b": 156.0,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            18
-          ]
-        }
-      ],
-      "orig": "y Døsaparecidos de",
-      "text": "y Døsaparecidos de"
-    },
-    {
-      "self_ref": "#/texts/26",
-      "parent": {
-        "$ref": "#/pictures/3"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 2,
-          "bbox": {
             "l": 537.3333333333334,
             "t": 156.66666666666669,
             "r": 579.3333333333334,
@@ -982,7 +955,7 @@
       "text": "Muevoleón"
     },
     {
-      "self_ref": "#/texts/27",
+      "self_ref": "#/texts/26",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -1009,7 +982,7 @@
       "text": "DESAPARECIDOS"
     },
     {
-      "self_ref": "#/texts/28",
+      "self_ref": "#/texts/27",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -1036,7 +1009,7 @@
       "text": "aibeno"
     },
     {
-      "self_ref": "#/texts/29",
+      "self_ref": "#/texts/28",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -1063,7 +1036,7 @@
       "text": "Secuestrados"
     },
     {
-      "self_ref": "#/texts/30",
+      "self_ref": "#/texts/29",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -1090,7 +1063,7 @@
       "text": "Madres"
     },
     {
-      "self_ref": "#/texts/31",
+      "self_ref": "#/texts/30",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -1117,7 +1090,7 @@
       "text": "Ejecutados,"
     },
     {
-      "self_ref": "#/texts/32",
+      "self_ref": "#/texts/31",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -1144,7 +1117,7 @@
       "text": "Por"
     },
     {
-      "self_ref": "#/texts/33",
+      "self_ref": "#/texts/32",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -1171,7 +1144,7 @@
       "text": "desaparecidos"
     },
     {
-      "self_ref": "#/texts/34",
+      "self_ref": "#/texts/33",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -1198,7 +1171,7 @@
       "text": "AOORES"
     },
     {
-      "self_ref": "#/texts/35",
+      "self_ref": "#/texts/34",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -1225,7 +1198,7 @@
       "text": "NL"
     },
     {
-      "self_ref": "#/texts/36",
+      "self_ref": "#/texts/35",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -1252,7 +1225,7 @@
       "text": "Encontrarlos"
     },
     {
-      "self_ref": "#/texts/37",
+      "self_ref": "#/texts/36",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -1279,7 +1252,7 @@
       "text": "LA"
     },
     {
-      "self_ref": "#/texts/38",
+      "self_ref": "#/texts/37",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -1306,7 +1279,7 @@
       "text": "Unidas"
     },
     {
-      "self_ref": "#/texts/39",
+      "self_ref": "#/texts/38",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -1333,7 +1306,7 @@
       "text": "Foto: Melva Frutos."
     },
     {
-      "self_ref": "#/texts/40",
+      "self_ref": "#/texts/39",
       "parent": {
         "$ref": "#/pictures/4"
       },
@@ -1360,7 +1333,7 @@
       "text": "Pota redacción"
     },
     {
-      "self_ref": "#/texts/41",
+      "self_ref": "#/texts/40",
       "parent": {
         "$ref": "#/pictures/4"
       },
@@ -1387,7 +1360,7 @@
       "text": "P"
     },
     {
-      "self_ref": "#/texts/42",
+      "self_ref": "#/texts/41",
       "parent": {
         "$ref": "#/body"
       },
@@ -1414,7 +1387,7 @@
       "text": "http://www.posta.com.mx/nuevo-leon/celebran-misa-por-desaparecidos-y-ejecutados"
     },
     {
-      "self_ref": "#/texts/43",
+      "self_ref": "#/texts/42",
       "parent": {
         "$ref": "#/body"
       },
@@ -1441,7 +1414,7 @@
       "text": "2/9"
     },
     {
-      "self_ref": "#/texts/44",
+      "self_ref": "#/texts/43",
       "parent": {
         "$ref": "#/body"
       },
@@ -1468,7 +1441,7 @@
       "text": "11/2/2018"
     },
     {
-      "self_ref": "#/texts/45",
+      "self_ref": "#/texts/44",
       "parent": {
         "$ref": "#/body"
       },
@@ -1495,7 +1468,7 @@
       "text": "Celebran misa por desaparecidos y ejecutados | POSTA"
     },
     {
-      "self_ref": "#/texts/46",
+      "self_ref": "#/texts/45",
       "parent": {
         "$ref": "#/body"
       },
@@ -1522,7 +1495,7 @@
       "text": "Miércoles, Noviemre 1, 2017 - 14:59"
     },
     {
-      "self_ref": "#/texts/47",
+      "self_ref": "#/texts/46",
       "parent": {
         "$ref": "#/body"
       },
@@ -1550,7 +1523,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/48",
+      "self_ref": "#/texts/47",
       "parent": {
         "$ref": "#/body"
       },
@@ -1577,7 +1550,7 @@
       "text": "Comentarios"
     },
     {
-      "self_ref": "#/texts/49",
+      "self_ref": "#/texts/48",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -1604,7 +1577,7 @@
       "text": "Tag:"
     },
     {
-      "self_ref": "#/texts/50",
+      "self_ref": "#/texts/49",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -1632,7 +1605,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/51",
+      "self_ref": "#/texts/50",
       "parent": {
         "$ref": "#/body"
       },
@@ -1659,7 +1632,7 @@
       "text": "NUVO LÓN.te miércole e celeró una mia en la catedral de Monterre, en la que e recordó a quiene han perdido la vida a mano de la fuerza militare  policiale, aí como quiene fallecieron mientra ucaan a u familiare deaparecido."
     },
     {
-      "self_ref": "#/texts/52",
+      "self_ref": "#/texts/51",
       "parent": {
         "$ref": "#/body"
       },
@@ -1686,7 +1659,7 @@
       "text": "Ciudadano en Apoo a lo Derecho Humano (Cadhac)  la Agrupación de Mujere Organizada por lo jecutado, ecuetrado  Deaparecido de Nuevo León (Amore), acudieron a la celeración,  poteriormente protetaron por la deatención de la autoridade etatale, en la invetigación de perona deaparecida."
     },
     {
-      "self_ref": "#/texts/53",
+      "self_ref": "#/texts/52",
       "parent": {
         "$ref": "#/body"
       },
@@ -1713,7 +1686,7 @@
       "text": "Conuelo Morale, directora de Cadhac, encaezó el evento en el que, como parte de la homilía, la familia leeron emotiva carta dirigida a u familiare auente."
     },
     {
-      "self_ref": "#/texts/54",
+      "self_ref": "#/texts/53",
       "parent": {
         "$ref": "#/body"
       },
@@ -1740,7 +1713,7 @@
       "text": "http://www.posta.com.mx/nuevo-leon/celebran-misa-por-desaparecidos-y-ejecutados"
     },
     {
-      "self_ref": "#/texts/55",
+      "self_ref": "#/texts/54",
       "parent": {
         "$ref": "#/body"
       },
@@ -1767,7 +1740,7 @@
       "text": "3/9"
     },
     {
-      "self_ref": "#/texts/56",
+      "self_ref": "#/texts/55",
       "parent": {
         "$ref": "#/body"
       },
@@ -1794,7 +1767,7 @@
       "text": "11/2/2018"
     },
     {
-      "self_ref": "#/texts/57",
+      "self_ref": "#/texts/56",
       "parent": {
         "$ref": "#/body"
       },
@@ -1821,7 +1794,7 @@
       "text": "Celebran misa por desaparecidos y ejecutados | POSTA"
     },
     {
-      "self_ref": "#/texts/58",
+      "self_ref": "#/texts/57",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1848,7 +1821,7 @@
       "text": "TESUENO TE PiENSO ESPERO TUREGRL NO-DESCANSAREM JHAsTA ENCONTRAR"
     },
     {
-      "self_ref": "#/texts/59",
+      "self_ref": "#/texts/58",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1875,7 +1848,7 @@
       "text": "Evangelina"
     },
     {
-      "self_ref": "#/texts/60",
+      "self_ref": "#/texts/59",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1902,7 +1875,7 @@
       "text": "Arreola fallecio en"
     },
     {
-      "self_ref": "#/texts/61",
+      "self_ref": "#/texts/60",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1929,7 +1902,7 @@
       "text": "enero del 2014"
     },
     {
-      "self_ref": "#/texts/62",
+      "self_ref": "#/texts/61",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1956,7 +1929,7 @@
       "text": "En medio"
     },
     {
-      "self_ref": "#/texts/63",
+      "self_ref": "#/texts/62",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1983,7 +1956,7 @@
       "text": "deesta lucha"
     },
     {
-      "self_ref": "#/texts/64",
+      "self_ref": "#/texts/63",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -2010,7 +1983,7 @@
       "text": "Ia verdad y"
     },
     {
-      "self_ref": "#/texts/65",
+      "self_ref": "#/texts/64",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -2037,7 +2010,7 @@
       "text": "Gucrrero"
     },
     {
-      "self_ref": "#/texts/66",
+      "self_ref": "#/texts/65",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -2064,7 +2037,7 @@
       "text": "Romirez"
     },
     {
-      "self_ref": "#/texts/67",
+      "self_ref": "#/texts/66",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -2091,7 +2064,7 @@
       "text": "Eduordo"
     },
     {
-      "self_ref": "#/texts/68",
+      "self_ref": "#/texts/67",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -2118,7 +2091,7 @@
       "text": "por"
     },
     {
-      "self_ref": "#/texts/69",
+      "self_ref": "#/texts/68",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -2145,7 +2118,7 @@
       "text": "jusliciq"
     },
     {
-      "self_ref": "#/texts/70",
+      "self_ref": "#/texts/69",
       "parent": {
         "$ref": "#/body"
       },
@@ -2172,7 +2145,7 @@
       "text": "e hizo la mención de Rocío  Juan Carlo, ejecutado extrajudicialmente por elemento del jército Mexicano, en marzo de 2010 en el municipio de Anáhuac, aí como de Gutavo Acota Luján, de quien e dijo fue muerto a mano de la Marina, en an Nicolá de lo Garza, en eptiemre del 2011."
     },
     {
-      "self_ref": "#/texts/71",
+      "self_ref": "#/texts/70",
       "parent": {
         "$ref": "#/body"
       },
@@ -2199,7 +2172,7 @@
       "text": "http://www.posta.com.mx/nuevo-leon/celebran-misa-por-desaparecidos-y-ejecutados"
     },
     {
-      "self_ref": "#/texts/72",
+      "self_ref": "#/texts/71",
       "parent": {
         "$ref": "#/body"
       },
@@ -2226,7 +2199,7 @@
       "text": "4/9"
     },
     {
-      "self_ref": "#/texts/73",
+      "self_ref": "#/texts/72",
       "parent": {
         "$ref": "#/body"
       },
@@ -2253,7 +2226,7 @@
       "text": "11/2/2018"
     },
     {
-      "self_ref": "#/texts/74",
+      "self_ref": "#/texts/73",
       "parent": {
         "$ref": "#/body"
       },
@@ -2280,7 +2253,7 @@
       "text": "Celebran misa por desaparecidos y ejecutados | POSTA"
     },
     {
-      "self_ref": "#/texts/75",
+      "self_ref": "#/texts/74",
       "parent": {
         "$ref": "#/body"
       },
@@ -2307,7 +2280,7 @@
       "text": "Ademá e mencionó a quien fuera policía de coedo, Jeú García Martínez, deaparecido en mao de 2010 e identificado u cuerpo en ete año, a Mauricio Alejandro Garza Vélez, deaparecido en 2011 e identificado en 2012  a Javier alazar olí, ejecutado extrajudicialmente por la policía de Anáhuac en julio de 2017."
     },
     {
-      "self_ref": "#/texts/76",
+      "self_ref": "#/texts/75",
       "parent": {
         "$ref": "#/body"
       },
@@ -2334,7 +2307,7 @@
       "text": "http://www.posta.com.mx/nuevo-leon/celebran-misa-por-desaparecidos-y-ejecutados"
     },
     {
-      "self_ref": "#/texts/77",
+      "self_ref": "#/texts/76",
       "parent": {
         "$ref": "#/body"
       },
@@ -2361,7 +2334,7 @@
       "text": "5/9"
     },
     {
-      "self_ref": "#/texts/78",
+      "self_ref": "#/texts/77",
       "parent": {
         "$ref": "#/body"
       },
@@ -2388,7 +2361,7 @@
       "text": "11/2/2018"
     },
     {
-      "self_ref": "#/texts/79",
+      "self_ref": "#/texts/78",
       "parent": {
         "$ref": "#/body"
       },
@@ -2415,7 +2388,7 @@
       "text": "Celebran misa por desaparecidos y ejecutados | POSTA"
     },
     {
-      "self_ref": "#/texts/80",
+      "self_ref": "#/texts/79",
       "parent": {
         "$ref": "#/pictures/6"
       },
@@ -2442,7 +2415,7 @@
       "text": "http://www.posta.com.mx/nuevo-leon/celebran-misa-por-desaparecidos-y-ejecutados"
     },
     {
-      "self_ref": "#/texts/81",
+      "self_ref": "#/texts/80",
       "parent": {
         "$ref": "#/pictures/6"
       },
@@ -2469,7 +2442,7 @@
       "text": "de"
     },
     {
-      "self_ref": "#/texts/82",
+      "self_ref": "#/texts/81",
       "parent": {
         "$ref": "#/pictures/6"
       },
@@ -2496,7 +2469,7 @@
       "text": "GUSIAVO"
     },
     {
-      "self_ref": "#/texts/83",
+      "self_ref": "#/texts/82",
       "parent": {
         "$ref": "#/pictures/6"
       },
@@ -2523,7 +2496,7 @@
       "text": "To"
     },
     {
-      "self_ref": "#/texts/84",
+      "self_ref": "#/texts/83",
       "parent": {
         "$ref": "#/body"
       },
@@ -2550,7 +2523,7 @@
       "text": "6/9"
     },
     {
-      "self_ref": "#/texts/85",
+      "self_ref": "#/texts/84",
       "parent": {
         "$ref": "#/body"
       },
@@ -2577,7 +2550,7 @@
       "text": "11/2/2018"
     },
     {
-      "self_ref": "#/texts/86",
+      "self_ref": "#/texts/85",
       "parent": {
         "$ref": "#/body"
       },
@@ -2604,7 +2577,7 @@
       "text": "Celebran misa por desaparecidos y ejecutados | POSTA"
     },
     {
-      "self_ref": "#/texts/87",
+      "self_ref": "#/texts/86",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -2631,7 +2604,7 @@
       "text": "6"
     },
     {
-      "self_ref": "#/texts/88",
+      "self_ref": "#/texts/87",
       "parent": {
         "$ref": "#/body"
       },
@@ -2658,7 +2631,7 @@
       "text": "http://www.posta.com.mx/nuevo-leon/celebran-misa-por-desaparecidos-y-ejecutados"
     },
     {
-      "self_ref": "#/texts/89",
+      "self_ref": "#/texts/88",
       "parent": {
         "$ref": "#/body"
       },
@@ -2685,7 +2658,7 @@
       "text": "7/9"
     },
     {
-      "self_ref": "#/texts/90",
+      "self_ref": "#/texts/89",
       "parent": {
         "$ref": "#/body"
       },
@@ -2712,7 +2685,7 @@
       "text": "11/2/2018"
     },
     {
-      "self_ref": "#/texts/91",
+      "self_ref": "#/texts/90",
       "parent": {
         "$ref": "#/body"
       },
@@ -2739,7 +2712,7 @@
       "text": "Celebran misa por desaparecidos y ejecutados | POSTA"
     },
     {
-      "self_ref": "#/texts/92",
+      "self_ref": "#/texts/91",
       "parent": {
         "$ref": "#/body"
       },
@@ -2766,7 +2739,7 @@
       "text": "Como parte de la celeración de la mia por lo fiele difunto, tamién e recordó a padre  madre, que murieron a la par de que ucaan a u deaparecido."
     },
     {
-      "self_ref": "#/texts/93",
+      "self_ref": "#/texts/92",
       "parent": {
         "$ref": "#/body"
       },
@@ -2793,7 +2766,7 @@
       "text": "Al término de la homilía, lo integrante de Amore e apotaron en el exterior del recinto, para protetar por la falta de repueta de la autoridade de la Procuraduría de Juticia de Nuevo León, en la localización de la víctima de deaparición forzada."
     },
     {
-      "self_ref": "#/texts/94",
+      "self_ref": "#/texts/93",
       "parent": {
         "$ref": "#/body"
       },
@@ -2820,7 +2793,7 @@
       "text": "Conuelo Morale e pronunció en contra de la violencia que e ha vivido en el Paí, en epecial en el etado, la cual no ólo e por parte del crimen organizado, tamién de la autoridade  ha corado la vida de mucha perona, afectando a mile de familia."
     },
     {
-      "self_ref": "#/texts/95",
+      "self_ref": "#/texts/94",
       "parent": {
         "$ref": "#/body"
       },
@@ -2847,7 +2820,7 @@
       "text": "La dirigente de Cadhac initió en que en el reciente motín del Penal de Cadereta, ucitado a principio de octure, huo má de 50 muerto,  no 18 como informaron la autoridade."
     },
     {
-      "self_ref": "#/texts/96",
+      "self_ref": "#/texts/95",
       "parent": {
         "$ref": "#/body"
       },
@@ -2874,7 +2847,7 @@
       "text": "\"tamo en olidaridad con la mamá de lo muerto en el Cereo de Cadereta, la autoridade mencionaron que fueron 18 la perona (muerta), pero en informe que tenemo, aemo que on má de 50 a lo que mataron al interior del penal\", dijo Morale."
     },
     {
-      "self_ref": "#/texts/97",
+      "self_ref": "#/texts/96",
       "parent": {
         "$ref": "#/body"
       },
@@ -2901,7 +2874,7 @@
       "text": "Aeguró que en ae a entrevita con familiare de lo interno del Penal, tienen la certeza de que la autoridade del tado, han ocultado la cifra real."
     },
     {
-      "self_ref": "#/texts/98",
+      "self_ref": "#/texts/97",
       "parent": {
         "$ref": "#/body"
       },
@@ -2928,7 +2901,7 @@
       "text": "http://www.posta.com.mx/nuevo-leon/celebran-misa-por-desaparecidos-y-ejecutados"
     },
     {
-      "self_ref": "#/texts/99",
+      "self_ref": "#/texts/98",
       "parent": {
         "$ref": "#/body"
       },
@@ -2955,7 +2928,7 @@
       "text": "8/9"
     },
     {
-      "self_ref": "#/texts/100",
+      "self_ref": "#/texts/99",
       "parent": {
         "$ref": "#/body"
       },
@@ -2982,7 +2955,7 @@
       "text": "11/2/2018"
     },
     {
-      "self_ref": "#/texts/101",
+      "self_ref": "#/texts/100",
       "parent": {
         "$ref": "#/body"
       },
@@ -3009,7 +2982,7 @@
       "text": "Celebran misa por desaparecidos y ejecutados | POSTA"
     },
     {
-      "self_ref": "#/texts/102",
+      "self_ref": "#/texts/101",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -3036,7 +3009,7 @@
       "text": "MONICA"
     },
     {
-      "self_ref": "#/texts/103",
+      "self_ref": "#/texts/102",
       "parent": {
         "$ref": "#/body"
       },
@@ -3063,7 +3036,7 @@
       "text": "http://www.posta.com.mx/nuevo-leon/celebran-misa-por-desaparecidos-y-ejecutados"
     },
     {
-      "self_ref": "#/texts/104",
+      "self_ref": "#/texts/103",
       "parent": {
         "$ref": "#/body"
       },
@@ -3103,10 +3076,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 121.2043228149414,
-            "t": 577.3697242736816,
-            "r": 182.00140380859375,
-            "b": 509.5339660644531,
+            "l": 121.20462799072266,
+            "t": 577.3690147399902,
+            "r": 182.0009765625,
+            "b": 509.5351333618164,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3132,10 +3105,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 386.40350341796875,
-            "t": 553.3531455993652,
-            "r": 406.49957275390625,
-            "b": 532.8615341186523,
+            "l": 386.4031982421875,
+            "t": 553.3533973693848,
+            "r": 406.50018310546875,
+            "b": 532.8616104125977,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3161,10 +3134,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 612.5780639648438,
-            "t": 577.6641883850098,
-            "r": 671.1495361328125,
-            "b": 510.33748626708984,
+            "l": 612.579345703125,
+            "t": 577.663875579834,
+            "r": 671.1513671875,
+            "b": 510.33851623535156,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3264,9 +3237,6 @@
         },
         {
           "$ref": "#/texts/37"
-        },
-        {
-          "$ref": "#/texts/38"
         }
       ],
       "content_layer": "body",
@@ -3275,10 +3245,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 33.95500946044922,
-            "t": 586.3660774230957,
-            "r": 758.9187622070312,
-            "b": 102.31600952148438,
+            "l": 33.954891204833984,
+            "t": 586.3661136627197,
+            "r": 758.9199829101562,
+            "b": 102.31671142578125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3299,10 +3269,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/40"
+          "$ref": "#/texts/39"
         },
         {
-          "$ref": "#/texts/41"
+          "$ref": "#/texts/40"
         }
       ],
       "content_layer": "body",
@@ -3311,10 +3281,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 35.21340560913086,
-            "t": 64.52056884765625,
-            "r": 155.07293701171875,
-            "b": 38.4814453125,
+            "l": 35.212501525878906,
+            "t": 64.52081298828125,
+            "r": 155.07357788085938,
+            "b": 38.48211669921875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3334,6 +3304,9 @@
         "$ref": "#/body"
       },
       "children": [
+        {
+          "$ref": "#/texts/57"
+        },
         {
           "$ref": "#/texts/58"
         },
@@ -3366,9 +3339,6 @@
         },
         {
           "$ref": "#/texts/68"
-        },
-        {
-          "$ref": "#/texts/69"
         }
       ],
       "content_layer": "body",
@@ -3377,10 +3347,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 34.23031997680664,
-            "t": 584.661787033081,
-            "r": 758.8458251953125,
-            "b": 102.25924682617188,
+            "l": 34.230037689208984,
+            "t": 584.6619682312012,
+            "r": 758.845458984375,
+            "b": 102.25991821289062,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3401,6 +3371,9 @@
       },
       "children": [
         {
+          "$ref": "#/texts/79"
+        },
+        {
           "$ref": "#/texts/80"
         },
         {
@@ -3408,9 +3381,6 @@
         },
         {
           "$ref": "#/texts/82"
-        },
-        {
-          "$ref": "#/texts/83"
         }
       ],
       "content_layer": "body",
@@ -3419,10 +3389,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 34.12672424316406,
-            "t": 585.0084381103516,
-            "r": 758.684326171875,
-            "b": 26.228515625,
+            "l": 34.12767028808594,
+            "t": 585.0044422149658,
+            "r": 758.6812133789062,
+            "b": 26.2269287109375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3433,7 +3403,7 @@
       ],
       "captions": [
         {
-          "$ref": "#/texts/80"
+          "$ref": "#/texts/79"
         }
       ],
       "references": [],
@@ -3447,7 +3417,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/87"
+          "$ref": "#/texts/86"
         }
       ],
       "content_layer": "body",
@@ -3456,9 +3426,9 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 34.14348602294922,
-            "t": 585.2757663726807,
-            "r": 758.5170288085938,
+            "l": 34.143341064453125,
+            "t": 585.2762222290039,
+            "r": 758.5169067382812,
             "b": 56.4910888671875,
             "coord_origin": "BOTTOMLEFT"
           },
@@ -3480,7 +3450,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/102"
+          "$ref": "#/texts/101"
         }
       ],
       "content_layer": "body",
@@ -3489,10 +3459,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 34.40208435058594,
-            "t": 584.6185607910156,
-            "r": 758.5062255859375,
-            "b": 102.11334228515625,
+            "l": 34.401424407958984,
+            "t": 584.6187973022461,
+            "r": 758.5066528320312,
+            "b": 102.11355590820312,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

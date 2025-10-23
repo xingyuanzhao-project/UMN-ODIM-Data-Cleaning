@@ -1,0 +1,1673 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "La Jornada_ Persiste impunidad sobre secuestro de niños de los albergues conocidos como Las Cas",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 6221666422970486788,
+    "filename": "La Jornada_ Persiste impunidad sobre secuestro de niños de los albergues conocidos como Las Cas.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 595.293,
+            "r": 58.898,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "30/8/2019",
+      "text": "30/8/2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 263.891,
+            "t": 595.293,
+            "r": 590.785,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "La Jornada: Persiste impunidad sobre secuestro de niños de los albergues conocidos como Las Casitas",
+      "text": "La Jornada: Persiste impunidad sobre secuestro de niños de los albergues conocidos como Las Casitas"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 493.12,
+            "r": 500.92,
+            "b": 470.65,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "Testimonios de dos menores que escaparon y reviven historias de abuso y maltrato físico",
+      "text": "Testimonios de dos menores que escaparon y reviven historias de abuso y maltrato físico",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 450.574,
+            "r": 493.333,
+            "b": 400.43,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "Persiste impunidad sobre secuestro de niños de los albergues conocidos como Las Casitas",
+      "text": "Persiste impunidad sobre secuestro de niños de los albergues conocidos como Las Casitas",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 379.043,
+            "r": 581.025,
+            "b": 356.573,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "Son los primeros de una veintena de retenidos en asilos de la Iglesia cristiana restaurada",
+      "text": "Son los primeros de una veintena de retenidos en asilos de la Iglesia cristiana restaurada",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 209.94,
+            "t": 338.386,
+            "r": 306.089,
+            "b": 331.711,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "SANJUANA MARTÍNEZ",
+      "text": "SANJUANA MARTÍNEZ",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 473.228,
+            "t": 326.607,
+            "r": 592.387,
+            "b": 321.321,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Especial para La Jornada",
+      "text": "Especial para La Jornada"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 463.424,
+            "t": 309.231,
+            "r": 592.394,
+            "b": 295.322,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Periódico La Jornada Domingo 22 de abril de 2012, p. 15",
+      "text": "Periódico La Jornada Domingo 22 de abril de 2012, p. 15"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 282.735,
+            "r": 592.383,
+            "b": 209.89300000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            478
+          ]
+        }
+      ],
+      "orig": "Julio  César  Castañeda  Bernal  y  su  prima  Diana  Lizeth  Bernal  Hernández escucharon  cuando  sus  secuestradores  acordaban  detalles  de  la  'venta  de órganos' y no lo dudaron ni un segundo, se escaparon cada uno por su lado, de la casa  donde  los  tenían  en  Saltillo,  Coahuila.  Ambos  son  parte  de  más  de  una veintena  de  niños  sustraídos  ilegalmente  de  los  albergues  Caifac  Monterrey, Casitas del Sur, en el Distrito Federal, y La Casita de Cancún.",
+      "text": "Julio  César  Castañeda  Bernal  y  su  prima  Diana  Lizeth  Bernal  Hernández escucharon  cuando  sus  secuestradores  acordaban  detalles  de  la  'venta  de órganos' y no lo dudaron ni un segundo, se escaparon cada uno por su lado, de la casa  donde  los  tenían  en  Saltillo,  Coahuila.  Ambos  son  parte  de  más  de  una veintena  de  niños  sustraídos  ilegalmente  de  los  albergues  Caifac  Monterrey, Casitas del Sur, en el Distrito Federal, y La Casita de Cancún."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 189.67200000000003,
+            "r": 592.307,
+            "b": 116.82999999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            466
+          ]
+        }
+      ],
+      "orig": "Durante días, Julio César, de 14 años, vagó por las calles de Saltillo, pidió ayuda  para  comprar  comida,  pero  finalmente  la  desnutrición  que  padece  le provocó un desmayo y alguien lo llevó a un hospital. Apenas pesa 35 kilos y tiene los huesos pegados a la piel. Ríe nerviosamente porque sabe que hoy podría volver a ver a su madre. Hace unas semanas le hicieron las pruebas de ADN para cruzar los datos con los de ella siguiendo el protocolo de seguridad.",
+      "text": "Durante días, Julio César, de 14 años, vagó por las calles de Saltillo, pidió ayuda  para  comprar  comida,  pero  finalmente  la  desnutrición  que  padece  le provocó un desmayo y alguien lo llevó a un hospital. Apenas pesa 35 kilos y tiene los huesos pegados a la piel. Ríe nerviosamente porque sabe que hoy podría volver a ver a su madre. Hace unas semanas le hicieron las pruebas de ADN para cruzar los datos con los de ella siguiendo el protocolo de seguridad."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.617,
+            "t": 96.60900000000004,
+            "r": 592.336,
+            "b": 37.275999999999954,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            387
+          ]
+        }
+      ],
+      "orig": "Antes de entrar al edificio de la Subprocuraduría de Investigación Especializada  en  Delincuencia  Organizada  (Siedo),  María  Inés  Bernal  siente escalofrío en la espalda. Está muy nerviosa. Desde que supo que ese niño podría ser  su  hijo  secuestrado  hace  cuatro  años,  no  ha  podido  dormir.  Nunca  dejó  de buscarlo; hizo todas las denuncias necesarias y acudió a decenas de",
+      "text": "Antes de entrar al edificio de la Subprocuraduría de Investigación Especializada  en  Delincuencia  Organizada  (Siedo),  María  Inés  Bernal  siente escalofrío en la espalda. Está muy nerviosa. Desde que supo que ese niño podría ser  su  hijo  secuestrado  hace  cuatro  años,  no  ha  podido  dormir.  Nunca  dejó  de buscarlo; hizo todas las denuncias necesarias y acudió a decenas de"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.293000000000006,
+            "r": 217.258,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2012/04/22/opinion/015n1pol",
+      "text": "https://www.jornada.com.mx/2012/04/22/opinion/015n1pol"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 755.312,
+            "t": 22.293000000000006,
+            "r": 765.531,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1/5",
+      "text": "1/5"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 595.293,
+            "r": 58.898,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "30/8/2019",
+      "text": "30/8/2019"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 263.891,
+            "t": 595.293,
+            "r": 590.785,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "La Jornada: Persiste impunidad sobre secuestro de niños de los albergues conocidos como Las Casitas",
+      "text": "La Jornada: Persiste impunidad sobre secuestro de niños de los albergues conocidos como Las Casitas"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 581.438,
+            "r": 591.879,
+            "b": 549.123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            209
+          ]
+        }
+      ],
+      "orig": "manifestaciones con otras madres de hijos desaparecidos. Fueron años de dolor, insomnio,  angustia.  Apoyada  por  Cadhac  y  Alternativas  Pacíficas,  hoy  la  vida puede darle un vuelco y todo puede cambiar.",
+      "text": "manifestaciones con otras madres de hijos desaparecidos. Fueron años de dolor, insomnio,  angustia.  Apoyada  por  Cadhac  y  Alternativas  Pacíficas,  hoy  la  vida puede darle un vuelco y todo puede cambiar."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 528.902,
+            "r": 592.342,
+            "b": 456.06,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            474
+          ]
+        }
+      ],
+      "orig": "Se niega a sentarse. Cuando lo ve aparecer por la puerta no tiene duda: 'Es él, es  mi  hijo'.  El  oficial  a  cargo  del  niño  se  lo  confirma:  'Salieron  positivas  las pruebas, señora, el niño es su hijo'. Ella ríe llorando, lo mira y balbucea: 'Ya lo sé,  no  necesita  decírmelo,  es  mi  hijo'.  Desorientado,  Julio  César  no  sabe  qué decir.  Sin  mediar palabra, de manera instintiva, ambos se funden en un abrazo prolongado, eterno; el abrazo del rencuentro.",
+      "text": "Se niega a sentarse. Cuando lo ve aparecer por la puerta no tiene duda: 'Es él, es  mi  hijo'.  El  oficial  a  cargo  del  niño  se  lo  confirma:  'Salieron  positivas  las pruebas, señora, el niño es su hijo'. Ella ríe llorando, lo mira y balbucea: 'Ya lo sé,  no  necesita  decírmelo,  es  mi  hijo'.  Desorientado,  Julio  César  no  sabe  qué decir.  Sin  mediar palabra, de manera instintiva, ambos se funden en un abrazo prolongado, eterno; el abrazo del rencuentro."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 436.009,
+            "r": 296.436,
+            "b": 430.599,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Historias de terror",
+      "text": "Historias de terror",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 410.322,
+            "r": 592.318,
+            "b": 310.461,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            602
+          ]
+        }
+      ],
+      "orig": "La  historia  de  los  'niños  de  las  casitas'  secuestrados,  de  acuerdo  con  el expediente judicial al que se ha tenido acceso, se remonta a 2008 cuando Brenda Carolina,  prima  de  Julio  César,  escapó  del  Centro  de  Adaptación  Social  y Familiar, AC, debido al maltrato que recibía y se descubrió que algunos niños habían sido sustraídos. Los tres albergues de Monterrey fueron clausurados y la Procuraduría General de Justicia de la entidad inició las investigaciones con base en las denuncias de las hermanas María Inés y Mónica Bernal Hernández por la desaparición de tres de sus hijos.",
+      "text": "La  historia  de  los  'niños  de  las  casitas'  secuestrados,  de  acuerdo  con  el expediente judicial al que se ha tenido acceso, se remonta a 2008 cuando Brenda Carolina,  prima  de  Julio  César,  escapó  del  Centro  de  Adaptación  Social  y Familiar, AC, debido al maltrato que recibía y se descubrió que algunos niños habían sido sustraídos. Los tres albergues de Monterrey fueron clausurados y la Procuraduría General de Justicia de la entidad inició las investigaciones con base en las denuncias de las hermanas María Inés y Mónica Bernal Hernández por la desaparición de tres de sus hijos."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 290.24,
+            "r": 592.318,
+            "b": 230.90700000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            393
+          ]
+        }
+      ],
+      "orig": "Meses  después  la  abuela  de  Ilse  Michel  denunciaba  ante  la  Procuraduría General de Justicia del Distrito Federal la desaparición de su nieta en el albergue Casitas del Sur e igualmente surgieron denuncias de secuestros de niños en La Casita  de  Cancún.  Los  testimonios  de  los  niños  rescatados  hablan  de  maltrato físico y sicológico, abuso sexual y adoctrinamiento religioso.",
+      "text": "Meses  después  la  abuela  de  Ilse  Michel  denunciaba  ante  la  Procuraduría General de Justicia del Distrito Federal la desaparición de su nieta en el albergue Casitas del Sur e igualmente surgieron denuncias de secuestros de niños en La Casita  de  Cancún.  Los  testimonios  de  los  niños  rescatados  hablan  de  maltrato físico y sicológico, abuso sexual y adoctrinamiento religioso."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 210.68600000000004,
+            "r": 592.06,
+            "b": 151.353,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            385
+          ]
+        }
+      ],
+      "orig": "En  abril  de  2009  la  Siedo  atrajo  el  caso  para  investigar  una  presunta  red internacional de tráfico de menores liderada por la denominada Iglesia cristiana restaurada  y  la  secta  de  'Los  Perfectos',  dirigidas  presuntamente  por  Jorge Erdely  Graham  y  Sergio  Humberto  Canavati  Ayub,  con  fines  de  explotación sexual, adopciones ilegales y tráfico de órganos.",
+      "text": "En  abril  de  2009  la  Siedo  atrajo  el  caso  para  investigar  una  presunta  red internacional de tráfico de menores liderada por la denominada Iglesia cristiana restaurada  y  la  secta  de  'Los  Perfectos',  dirigidas  presuntamente  por  Jorge Erdely  Graham  y  Sergio  Humberto  Canavati  Ayub,  con  fines  de  explotación sexual, adopciones ilegales y tráfico de órganos."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 131.132,
+            "r": 592.166,
+            "b": 71.79899999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            345
+          ]
+        }
+      ],
+      "orig": "Desde  entonces,  siete  personas  han  sido  detenidas,  aunque  ninguno  de  los máximos responsables. Tampoco ninguno de los niños ha sido localizado, pese a que las autoridades fijaron una recompensa de 10 millones de pesos. Julio César y Diana Lizeth son los primeros niños recuperados, gracias a su propia audacia al huir de su cautiverio.",
+      "text": "Desde  entonces,  siete  personas  han  sido  detenidas,  aunque  ninguno  de  los máximos responsables. Tampoco ninguno de los niños ha sido localizado, pese a que las autoridades fijaron una recompensa de 10 millones de pesos. Julio César y Diana Lizeth son los primeros niños recuperados, gracias a su propia audacia al huir de su cautiverio."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.617,
+            "t": 51.577999999999975,
+            "r": 592.383,
+            "b": 32.773000000000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "Julio César fue puesto a disposición del DIF Capullos Nuevo León hasta que las  autoridades  resuelvan  entregarlo  a  su  madre,  quien  diariamente  lo  visita.",
+      "text": "Julio César fue puesto a disposición del DIF Capullos Nuevo León hasta que las  autoridades  resuelvan  entregarlo  a  su  madre,  quien  diariamente  lo  visita."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.293000000000006,
+            "r": 217.258,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2012/04/22/opinion/015n1pol",
+      "text": "https://www.jornada.com.mx/2012/04/22/opinion/015n1pol"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 755.312,
+            "t": 22.293000000000006,
+            "r": 765.531,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2/5",
+      "text": "2/5"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 595.293,
+            "r": 58.898,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "30/8/2019",
+      "text": "30/8/2019"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 263.891,
+            "t": 595.293,
+            "r": 590.785,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "La Jornada: Persiste impunidad sobre secuestro de niños de los albergues conocidos como Las Casitas",
+      "text": "La Jornada: Persiste impunidad sobre secuestro de niños de los albergues conocidos como Las Casitas"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 200.617,
+            "t": 581.438,
+            "r": 591.791,
+            "b": 562.632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "Durante  los  breves  encuentros  Julio  César  ha  podido  exponer  los  traumas ocasionados durante su secuestro.",
+      "text": "Durante  los  breves  encuentros  Julio  César  ha  podido  exponer  los  traumas ocasionados durante su secuestro."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 200.617,
+            "t": 542.411,
+            "r": 592.271,
+            "b": 469.569,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            478
+          ]
+        }
+      ],
+      "orig": "'El niño tiene pesadillas y dice que le metían la cabeza en un pozo', comenta María Inés antes de entrar a verlo; la acompaña Miguel, su hijo pequeño, de ocho años,  y  su  hermano  Francisco:  'Queremos  todo  el  peso  de  la  ley  contra  los secuestradores, que los detengan y los encierren de por vida. No entendemos por qué nunca detuvieron a Patricia Munguía Ibarra, quien desde el principio era la principal sospechosa. Aquí hay enredada mucha gente del gobierno', dice.",
+      "text": "'El niño tiene pesadillas y dice que le metían la cabeza en un pozo', comenta María Inés antes de entrar a verlo; la acompaña Miguel, su hijo pequeño, de ocho años,  y  su  hermano  Francisco:  'Queremos  todo  el  peso  de  la  ley  contra  los secuestradores, que los detengan y los encierren de por vida. No entendemos por qué nunca detuvieron a Patricia Munguía Ibarra, quien desde el principio era la principal sospechosa. Aquí hay enredada mucha gente del gobierno', dice."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 200.617,
+            "t": 449.348,
+            "r": 592.178,
+            "b": 390.015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            360
+          ]
+        }
+      ],
+      "orig": "Según los testimonios  del  niño,  Munguía  Ibarra,  ex  directora  de  Caifac,  es quien  secuestró  y  tenía  a  los  tres  hijos  de  María  Inés  y  Mónica  Bernal Hernández. Diana, la hija de Mónica, logró escapar al igual que Julio César, pero falta  la  hija  de  María  Inés,  Adriana  Guadalupe,  quien  aún  permanece  con  la presunta secuestradora.",
+      "text": "Según los testimonios  del  niño,  Munguía  Ibarra,  ex  directora  de  Caifac,  es quien  secuestró  y  tenía  a  los  tres  hijos  de  María  Inés  y  Mónica  Bernal Hernández. Diana, la hija de Mónica, logró escapar al igual que Julio César, pero falta  la  hija  de  María  Inés,  Adriana  Guadalupe,  quien  aún  permanece  con  la presunta secuestradora."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 200.617,
+            "t": 369.794,
+            "r": 592.342,
+            "b": 310.461,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            377
+          ]
+        }
+      ],
+      "orig": "El  domicilio  de  Munguía  Ibarra  fue  ubicado  por  las  víctimas  en  Apodaca, pero  ni  las  autoridades  judiciales  de  Nuevo  León  ni  las  federales  lograron detenerla: 'El niño dice que desde hace tres años se los llevaron a vivir a Saltillo a un lugar que se llama Las Palmas, porque el hijo de Patricia le había dicho que no quería problemas y no la ayudó', dice.",
+      "text": "El  domicilio  de  Munguía  Ibarra  fue  ubicado  por  las  víctimas  en  Apodaca, pero  ni  las  autoridades  judiciales  de  Nuevo  León  ni  las  federales  lograron detenerla: 'El niño dice que desde hace tres años se los llevaron a vivir a Saltillo a un lugar que se llama Las Palmas, porque el hijo de Patricia le había dicho que no quería problemas y no la ayudó', dice."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 200.617,
+            "t": 290.24,
+            "r": 592.201,
+            "b": 244.416,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            268
+          ]
+        }
+      ],
+      "orig": "La dicha de María Inés al encontrar a Julio César es a medias, porque aún le falta  recuperar  a  su  hija  Adriana  Guadalupe:  'Patricia  los  obligaba  a  decirle mamá Paty y Julio dice que la niña no pudo escapar y está con ella. Donde esté Patricia está mi hija'.",
+      "text": "La dicha de María Inés al encontrar a Julio César es a medias, porque aún le falta  recuperar  a  su  hija  Adriana  Guadalupe:  'Patricia  los  obligaba  a  decirle mamá Paty y Julio dice que la niña no pudo escapar y está con ella. Donde esté Patricia está mi hija'."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 200.617,
+            "t": 224.365,
+            "r": 258.33,
+            "b": 218.95600000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Nueva vida",
+      "text": "Nueva vida",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 200.617,
+            "t": 198.678,
+            "r": 592.348,
+            "b": 139.34500000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            385
+          ]
+        }
+      ],
+      "orig": "Julio César aparece por la puerta de la zona de visitas del DIF Capullos. No ha perdido  sus  rasgos  infantiles.  Exhibe  una  amplia  sonrisa  que  deja  ver  dientes frontales con caries y piezas gastadas. Dice que nunca ha ido con el dentista, que siempre  los  tenían  escondidos  y  que  jamás  fue  a  la  escuela.  Las  pesadillas continúan, así como el miedo y la inseguridad.",
+      "text": "Julio César aparece por la puerta de la zona de visitas del DIF Capullos. No ha perdido  sus  rasgos  infantiles.  Exhibe  una  amplia  sonrisa  que  deja  ver  dientes frontales con caries y piezas gastadas. Dice que nunca ha ido con el dentista, que siempre  los  tenían  escondidos  y  que  jamás  fue  a  la  escuela.  Las  pesadillas continúan, así como el miedo y la inseguridad."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 200.617,
+            "t": 119.12400000000002,
+            "r": 592.183,
+            "b": 59.79099999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            354
+          ]
+        }
+      ],
+      "orig": "La alegría de volver a ver a su hermanito Miguel es expansiva; lo abraza, lo besa. Ambos ríen contentos. Julio César le ofrece varios regalos que incluyen dos dibujos coloreados que tienen un mensaje escrito con letra infantil muy distante a la  que  corresponde  a  su  edad:  'Te  quiero  mucho  Miguelito.  Pronto  voy  estar contigo en nuestra casa'.",
+      "text": "La alegría de volver a ver a su hermanito Miguel es expansiva; lo abraza, lo besa. Ambos ríen contentos. Julio César le ofrece varios regalos que incluyen dos dibujos coloreados que tienen un mensaje escrito con letra infantil muy distante a la  que  corresponde  a  su  edad:  'Te  quiero  mucho  Miguelito.  Pronto  voy  estar contigo en nuestra casa'."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.293000000000006,
+            "r": 217.258,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2012/04/22/opinion/015n1pol",
+      "text": "https://www.jornada.com.mx/2012/04/22/opinion/015n1pol"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 755.312,
+            "t": 22.293000000000006,
+            "r": 765.531,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3/5",
+      "text": "3/5"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 26.453,
+            "t": 595.293,
+            "r": 58.898,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "30/8/2019",
+      "text": "30/8/2019"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 263.891,
+            "t": 595.293,
+            "r": 590.785,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "La Jornada: Persiste impunidad sobre secuestro de niños de los albergues conocidos como Las Casitas",
+      "text": "La Jornada: Persiste impunidad sobre secuestro de niños de los albergues conocidos como Las Casitas"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 200.617,
+            "t": 581.438,
+            "r": 592.324,
+            "b": 508.595,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            420
+          ]
+        }
+      ],
+      "orig": "María Inés llora: 'Mami, para qué lloras. No llores'. Su madre le contesta: 'Es de alegría por verlos juntos'. Julio César se sincera con su madre, dice que cuando duerme se le aparecen 'caras feas', le cuenta que sus captores lo sacaban a  la  calle  junto  a  otros  ocho  niños  para  vender  pan  de  queso,  pero  los disfrazaban,  les  ponían  pelucas  y  los  maquillaban,  incluida  la  propia  Patricia Munguía.",
+      "text": "María Inés llora: 'Mami, para qué lloras. No llores'. Su madre le contesta: 'Es de alegría por verlos juntos'. Julio César se sincera con su madre, dice que cuando duerme se le aparecen 'caras feas', le cuenta que sus captores lo sacaban a  la  calle  junto  a  otros  ocho  niños  para  vender  pan  de  queso,  pero  los disfrazaban,  les  ponían  pelucas  y  los  maquillaban,  incluida  la  propia  Patricia Munguía."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 200.617,
+            "t": 488.375,
+            "r": 592.324,
+            "b": 415.532,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            481
+          ]
+        }
+      ],
+      "orig": "'Yo escuché cómo decían que iban a vender los riñones, por eso corrí', dice Julio César con cara de miedo; su madre añade: 'Me da mucha pena verlo tan delgadito.  El  niño  dice  que  casi  no  les  daban  de  comer,  que  casi  siempre  les daban  frijoles  quemados  y  arroz  duro;  que  lo  encerraban  en  un  cuarto.  Y  me pregunta por su hermana Adriana, que si ya la encontramos. Le digo que estamos con la esperanza de encontrarla, pido a las autoridades que la busquen'.",
+      "text": "'Yo escuché cómo decían que iban a vender los riñones, por eso corrí', dice Julio César con cara de miedo; su madre añade: 'Me da mucha pena verlo tan delgadito.  El  niño  dice  que  casi  no  les  daban  de  comer,  que  casi  siempre  les daban  frijoles  quemados  y  arroz  duro;  que  lo  encerraban  en  un  cuarto.  Y  me pregunta por su hermana Adriana, que si ya la encontramos. Le digo que estamos con la esperanza de encontrarla, pido a las autoridades que la busquen'."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 200.617,
+            "t": 395.311,
+            "r": 592.348,
+            "b": 295.451,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            605
+          ]
+        }
+      ],
+      "orig": "Su hermano Francisco interviene. Comenta que Diana, la hija de Mónica que también escapó, les contó que Patricia separó a los tres niños: 'Al salir de donde la tenían, nos contó que tomó un taxi que la llevó a la casa de su mamá en Santa Catarina y le cobró 80 pesos. Eso quiere decir que la niña estaba en Monterrey, no  en  Saltillo.  La  niña  dice  que  no  sabe  dónde  estaba,  que  sólo  recuerda  las calles  Moctezuma o Tamazunchale. Mi pregunta es: ¿Por qué la policía nunca encontró a los niños ni a la secuestradora si siguieron viviendo en Monterrey, si como mucho iban y venían a Saltillo?'.",
+      "text": "Su hermano Francisco interviene. Comenta que Diana, la hija de Mónica que también escapó, les contó que Patricia separó a los tres niños: 'Al salir de donde la tenían, nos contó que tomó un taxi que la llevó a la casa de su mamá en Santa Catarina y le cobró 80 pesos. Eso quiere decir que la niña estaba en Monterrey, no  en  Saltillo.  La  niña  dice  que  no  sabe  dónde  estaba,  que  sólo  recuerda  las calles  Moctezuma o Tamazunchale. Mi pregunta es: ¿Por qué la policía nunca encontró a los niños ni a la secuestradora si siguieron viviendo en Monterrey, si como mucho iban y venían a Saltillo?'."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.293000000000006,
+            "r": 217.258,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2012/04/22/opinion/015n1pol",
+      "text": "https://www.jornada.com.mx/2012/04/22/opinion/015n1pol"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 755.312,
+            "t": 22.293000000000006,
+            "r": 765.531,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "4/5",
+      "text": "4/5"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 26.453,
+            "t": 595.293,
+            "r": 58.898,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "30/8/2019",
+      "text": "30/8/2019"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 263.891,
+            "t": 595.293,
+            "r": 590.785,
+            "b": 591.764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "La Jornada: Persiste impunidad sobre secuestro de niños de los albergues conocidos como Las Casitas",
+      "text": "La Jornada: Persiste impunidad sobre secuestro de niños de los albergues conocidos como Las Casitas"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 282.915,
+            "t": 382.243,
+            "r": 510.094,
+            "b": 360.455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203.",
+      "text": "Copyright © 1996-2018 DEMOS, Desarrollo de Medios, S.A. de C.V. Todos los Derechos Reservados. Derechos de Autor 04-2005-011817321500-203."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.293000000000006,
+            "r": 217.258,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "https://www.jornada.com.mx/2012/04/22/opinion/015n1pol",
+      "text": "https://www.jornada.com.mx/2012/04/22/opinion/015n1pol"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 755.312,
+            "t": 22.293000000000006,
+            "r": 765.531,
+            "b": 18.76400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "5/5",
+      "text": "5/5"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.68446159362793,
+            "t": 565.6478576660156,
+            "r": 217.65406799316406,
+            "b": 525.0932159423828,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 631.0042724609375,
+            "t": 564.0206756591797,
+            "r": 764.1090698242188,
+            "b": 540.4917755126953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 740.28857421875,
+            "t": 493.1110610961914,
+            "r": 759.0960693359375,
+            "b": 473.9746856689453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 792.0,
+        "height": 612.0
+      },
+      "page_no": 5
+    }
+  }
+}

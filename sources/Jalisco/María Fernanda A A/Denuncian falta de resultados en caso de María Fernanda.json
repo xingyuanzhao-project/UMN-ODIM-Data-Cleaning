@@ -108,13 +108,13 @@
         "$ref": "#/texts/30"
       },
       {
-        "$ref": "#/texts/31"
-      },
-      {
         "$ref": "#/groups/0"
       },
       {
         "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/32"
       },
       {
         "$ref": "#/texts/33"
@@ -123,10 +123,10 @@
         "$ref": "#/texts/34"
       },
       {
-        "$ref": "#/texts/35"
+        "$ref": "#/pictures/5"
       },
       {
-        "$ref": "#/pictures/5"
+        "$ref": "#/texts/35"
       },
       {
         "$ref": "#/texts/36"
@@ -189,10 +189,10 @@
         "$ref": "#/texts/55"
       },
       {
-        "$ref": "#/texts/56"
+        "$ref": "#/pictures/6"
       },
       {
-        "$ref": "#/pictures/6"
+        "$ref": "#/texts/56"
       },
       {
         "$ref": "#/texts/57"
@@ -228,10 +228,10 @@
         "$ref": "#/texts/67"
       },
       {
-        "$ref": "#/texts/68"
+        "$ref": "#/groups/1"
       },
       {
-        "$ref": "#/groups/1"
+        "$ref": "#/texts/107"
       },
       {
         "$ref": "#/texts/108"
@@ -477,10 +477,10 @@
         "$ref": "#/texts/188"
       },
       {
-        "$ref": "#/texts/189"
+        "$ref": "#/pictures/7"
       },
       {
-        "$ref": "#/pictures/7"
+        "$ref": "#/texts/189"
       },
       {
         "$ref": "#/texts/190"
@@ -498,22 +498,22 @@
         "$ref": "#/texts/194"
       },
       {
-        "$ref": "#/texts/195"
-      },
-      {
         "$ref": "#/pictures/8"
       },
       {
-        "$ref": "#/texts/196"
+        "$ref": "#/texts/195"
       },
       {
-        "$ref": "#/texts/197"
+        "$ref": "#/texts/196"
       },
       {
         "$ref": "#/pictures/9"
       },
       {
         "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/texts/198"
       },
       {
         "$ref": "#/texts/199"
@@ -525,10 +525,10 @@
         "$ref": "#/texts/201"
       },
       {
-        "$ref": "#/texts/202"
+        "$ref": "#/groups/2"
       },
       {
-        "$ref": "#/groups/2"
+        "$ref": "#/texts/203"
       },
       {
         "$ref": "#/texts/204"
@@ -540,10 +540,10 @@
         "$ref": "#/texts/206"
       },
       {
-        "$ref": "#/texts/207"
+        "$ref": "#/pictures/11"
       },
       {
-        "$ref": "#/pictures/11"
+        "$ref": "#/texts/212"
       },
       {
         "$ref": "#/texts/213"
@@ -556,9 +556,6 @@
       },
       {
         "$ref": "#/texts/216"
-      },
-      {
-        "$ref": "#/texts/217"
       }
     ],
     "content_layer": "body",
@@ -573,7 +570,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/32"
+          "$ref": "#/texts/31"
         }
       ],
       "content_layer": "body",
@@ -586,6 +583,9 @@
         "$ref": "#/body"
       },
       "children": [
+        {
+          "$ref": "#/texts/68"
+        },
         {
           "$ref": "#/texts/69"
         },
@@ -699,9 +699,6 @@
         },
         {
           "$ref": "#/texts/106"
-        },
-        {
-          "$ref": "#/texts/107"
         }
       ],
       "content_layer": "body",
@@ -715,7 +712,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/203"
+          "$ref": "#/texts/202"
         }
       ],
       "content_layer": "body",
@@ -1278,18 +1275,18 @@
           "bbox": {
             "l": 414.63,
             "t": 626.686,
-            "r": 473.821,
+            "r": 585.994,
             "b": 618.263,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             0,
-            15
+            44
           ]
         }
       ],
-      "orig": "Precio petróleo",
-      "text": "Precio petróleo"
+      "orig": "Viernes , 24.04.2020 / 16:42 Precio petróleo",
+      "text": "Viernes , 24.04.2020 / 16:42 Precio petróleo"
     },
     {
       "self_ref": "#/texts/21",
@@ -1433,33 +1430,6 @@
         "$ref": "#/body"
       },
       "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 1,
-          "bbox": {
-            "l": 475.575,
-            "t": 626.686,
-            "r": 585.994,
-            "b": 618.263,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            28
-          ]
-        }
-      ],
-      "orig": "Viernes , 24.04.2020 / 16:42",
-      "text": "Viernes , 24.04.2020 / 16:42"
-    },
-    {
-      "self_ref": "#/texts/27",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
       "content_layer": "furniture",
       "label": "page_footer",
       "prov": [
@@ -1482,7 +1452,7 @@
       "text": "https://www.milenio.com/policia/denuncian-falta-resultados-caso-maria-fernanda"
     },
     {
-      "self_ref": "#/texts/28",
+      "self_ref": "#/texts/27",
       "parent": {
         "$ref": "#/body"
       },
@@ -1509,7 +1479,7 @@
       "text": "Página 1 de 8"
     },
     {
-      "self_ref": "#/texts/29",
+      "self_ref": "#/texts/28",
       "parent": {
         "$ref": "#/body"
       },
@@ -1536,7 +1506,7 @@
       "text": "Denuncian falta de resultados en caso de María Fernanda"
     },
     {
-      "self_ref": "#/texts/30",
+      "self_ref": "#/texts/29",
       "parent": {
         "$ref": "#/body"
       },
@@ -1563,7 +1533,7 @@
       "text": "4/24/20 4&43 PM"
     },
     {
-      "self_ref": "#/texts/31",
+      "self_ref": "#/texts/30",
       "parent": {
         "$ref": "#/body"
       },
@@ -1591,7 +1561,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/32",
+      "self_ref": "#/texts/31",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -1618,7 +1588,7 @@
       "text": "08933 1 33"
     },
     {
-      "self_ref": "#/texts/33",
+      "self_ref": "#/texts/32",
       "parent": {
         "$ref": "#/body"
       },
@@ -1645,7 +1615,7 @@
       "text": "@Inigos"
     },
     {
-      "self_ref": "#/texts/34",
+      "self_ref": "#/texts/33",
       "parent": {
         "$ref": "#/body"
       },
@@ -1672,7 +1642,7 @@
       "text": "#vuelvell"
     },
     {
-      "self_ref": "#/texts/35",
+      "self_ref": "#/texts/34",
       "parent": {
         "$ref": "#/body"
       },
@@ -1699,7 +1669,7 @@
       "text": "You Tube"
     },
     {
-      "self_ref": "#/texts/36",
+      "self_ref": "#/texts/35",
       "parent": {
         "$ref": "#/body"
       },
@@ -1726,7 +1696,7 @@
       "text": "María Fernanda Azpeitia Amador, un año de impunidad"
     },
     {
-      "self_ref": "#/texts/37",
+      "self_ref": "#/texts/36",
       "parent": {
         "$ref": "#/body"
       },
@@ -1753,7 +1723,7 @@
       "text": "JORGE MARTÍNEZ Guadalajara / 28.08.2017 09:19:09"
     },
     {
-      "self_ref": "#/texts/38",
+      "self_ref": "#/texts/37",
       "parent": {
         "$ref": "#/body"
       },
@@ -1780,7 +1750,7 @@
       "text": "La última vez que María Fernanda Azpeitia Amador tuvo contacto con su familia fue el sábado 27 de agosto de 2016. Un año después, su madre, Vanessa Claudia Amador, espera que la Fiscalía General del"
     },
     {
-      "self_ref": "#/texts/39",
+      "self_ref": "#/texts/38",
       "parent": {
         "$ref": "#/body"
       },
@@ -1807,7 +1777,7 @@
       "text": "https://www.milenio.com/policia/denuncian-falta-resultados-caso-maria-fernanda"
     },
     {
-      "self_ref": "#/texts/40",
+      "self_ref": "#/texts/39",
       "parent": {
         "$ref": "#/body"
       },
@@ -1834,7 +1804,7 @@
       "text": "Página 2 de 8"
     },
     {
-      "self_ref": "#/texts/41",
+      "self_ref": "#/texts/40",
       "parent": {
         "$ref": "#/body"
       },
@@ -1861,7 +1831,7 @@
       "text": "Denuncian falta de resultados en caso de María Fernanda"
     },
     {
-      "self_ref": "#/texts/42",
+      "self_ref": "#/texts/41",
       "parent": {
         "$ref": "#/body"
       },
@@ -1888,7 +1858,7 @@
       "text": "4/24/20 4&43 PM"
     },
     {
-      "self_ref": "#/texts/43",
+      "self_ref": "#/texts/42",
       "parent": {
         "$ref": "#/body"
       },
@@ -1915,7 +1885,7 @@
       "text": "Estado (FGE) le ayude a encontrarla y detenga a los responsables de la desaparición de Mafer, como le decían de cariño."
     },
     {
-      "self_ref": "#/texts/44",
+      "self_ref": "#/texts/43",
       "parent": {
         "$ref": "#/body"
       },
@@ -1942,7 +1912,7 @@
       "text": "En esta dolorosa fecha, familiares y amigos de la joven escribieron una carta para expresar su sentir: 'Las autoridades del estado no han presentado ningún resultado positivo sobre su paradero. Una investigación mediocre, empezando por el recién creado Programa de Mujeres Desaparecidas, conocido como Protocolo Alba, un departamento que únicamente arrojó irregularidades en su investigación."
     },
     {
-      "self_ref": "#/texts/45",
+      "self_ref": "#/texts/44",
       "parent": {
         "$ref": "#/body"
       },
@@ -1969,7 +1939,7 @@
       "text": "'Por falta de capacidad o estrategia, el caso fue asignado al departamento de Homicidios de la Fiscalía del Estado de Jalisco, a cargo del Lic. Néstor Saldaña', explican en el documento, donde especifican que la carpeta de investigación quedó con el número de expediente DI/16780/2016."
     },
     {
-      "self_ref": "#/texts/46",
+      "self_ref": "#/texts/45",
       "parent": {
         "$ref": "#/body"
       },
@@ -1996,7 +1966,7 @@
       "text": "Señalaron que debido a que no hay una 'respuesta real' sobre el paradero de Mafer, 'hacemos responsable en primera instancia al gobernador del estado, Jorge Aristóteles Sandoval Díaz, por su poco interés en el caso y falta de resultados'."
     },
     {
-      "self_ref": "#/texts/47",
+      "self_ref": "#/texts/46",
       "parent": {
         "$ref": "#/body"
       },
@@ -2023,7 +1993,7 @@
       "text": "En segunda instancia, 'responsabilizamos al fiscal general del estado, Eduardo Almaguer Ramírez, por la falta de"
     },
     {
-      "self_ref": "#/texts/48",
+      "self_ref": "#/texts/47",
       "parent": {
         "$ref": "#/body"
       },
@@ -2050,7 +2020,7 @@
       "text": "https://www.milenio.com/policia/denuncian-falta-resultados-caso-maria-fernanda"
     },
     {
-      "self_ref": "#/texts/49",
+      "self_ref": "#/texts/48",
       "parent": {
         "$ref": "#/body"
       },
@@ -2077,7 +2047,7 @@
       "text": "Página 3 de 8"
     },
     {
-      "self_ref": "#/texts/50",
+      "self_ref": "#/texts/49",
       "parent": {
         "$ref": "#/body"
       },
@@ -2104,7 +2074,7 @@
       "text": "Denuncian falta de resultados en caso de María Fernanda"
     },
     {
-      "self_ref": "#/texts/51",
+      "self_ref": "#/texts/50",
       "parent": {
         "$ref": "#/body"
       },
@@ -2131,7 +2101,7 @@
       "text": "4/24/20 4&43 PM"
     },
     {
-      "self_ref": "#/texts/52",
+      "self_ref": "#/texts/51",
       "parent": {
         "$ref": "#/body"
       },
@@ -2159,7 +2129,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/53",
+      "self_ref": "#/texts/52",
       "parent": {
         "$ref": "#/body"
       },
@@ -2200,7 +2170,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/andrealegarreta-hija-baila-vals-xv- resultados del caso y no actuar contra los presuntos responsables plenamente identificados'."
     },
     {
-      "self_ref": "#/texts/54",
+      "self_ref": "#/texts/53",
       "parent": {
         "$ref": "#/body"
       },
@@ -2227,7 +2197,7 @@
       "text": "Además, acusaron a la Comisión Estatal de Derechos Humanos de Jalisco (CEDHJ) por no haber prestado el apoyo necesario a familiares y amigos de María Fernanda."
     },
     {
-      "self_ref": "#/texts/55",
+      "self_ref": "#/texts/54",
       "parent": {
         "$ref": "#/body"
       },
@@ -2268,7 +2238,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/andreaanos-erik-rubin) Reiteraron que 'Los amigos de Mafer que aquí expresamos nuestras ideas, tenemos el interés de saber su paradero y que se imponga el castigo que la ley manda a los responsables de los hechos. '365 días son demasiados, y no claudicaremos hasta saber de Mafer', finalizan."
     },
     {
-      "self_ref": "#/texts/56",
+      "self_ref": "#/texts/55",
       "parent": {
         "$ref": "#/body"
       },
@@ -2295,7 +2265,7 @@
       "text": "MC"
     },
     {
-      "self_ref": "#/texts/57",
+      "self_ref": "#/texts/56",
       "parent": {
         "$ref": "#/body"
       },
@@ -2322,7 +2292,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/andrea-"
     },
     {
-      "self_ref": "#/texts/58",
+      "self_ref": "#/texts/57",
       "parent": {
         "$ref": "#/body"
       },
@@ -2350,7 +2320,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/59",
+      "self_ref": "#/texts/58",
       "parent": {
         "$ref": "#/body"
       },
@@ -2377,7 +2347,7 @@
       "text": "(https://www.salesforce.com/blog/2020/03/building-covid-19resource-page.html?"
     },
     {
-      "self_ref": "#/texts/60",
+      "self_ref": "#/texts/59",
       "parent": {
         "$ref": "#/body"
       },
@@ -2404,7 +2374,7 @@
       "text": "d=7010M000002NZO5QAO&utm_source=taboola&utm_medium=display&utm"
     },
     {
-      "self_ref": "#/texts/61",
+      "self_ref": "#/texts/60",
       "parent": {
         "$ref": "#/body"
       },
@@ -2432,7 +2402,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/62",
+      "self_ref": "#/texts/61",
       "parent": {
         "$ref": "#/body"
       },
@@ -2459,7 +2429,7 @@
       "text": "Esto fue lo que dijo (VIDEO) (https://www.milenio.com/espectaculos/famosos/dannapaola-rechazada-belinda-"
     },
     {
-      "self_ref": "#/texts/63",
+      "self_ref": "#/texts/62",
       "parent": {
         "$ref": "#/body"
       },
@@ -2487,7 +2457,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/64",
+      "self_ref": "#/texts/63",
       "parent": {
         "$ref": "#/body"
       },
@@ -2514,7 +2484,7 @@
       "text": "(https://www.salesforce.com/blog/2020/03/building-covid-19resource-page.html?"
     },
     {
-      "self_ref": "#/texts/65",
+      "self_ref": "#/texts/64",
       "parent": {
         "$ref": "#/body"
       },
@@ -2555,7 +2525,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/karla- d=7010M000002NZO5QAO&utm_source=taboola&utm_medium=display&utm (https://ad.doubleclick.net/ddm/clk/466528085;270393151;k)"
     },
     {
-      "self_ref": "#/texts/66",
+      "self_ref": "#/texts/65",
       "parent": {
         "$ref": "#/body"
       },
@@ -2583,7 +2553,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/67",
+      "self_ref": "#/texts/66",
       "parent": {
         "$ref": "#/body"
       },
@@ -2611,7 +2581,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/68",
+      "self_ref": "#/texts/67",
       "parent": {
         "$ref": "#/body"
       },
@@ -2638,7 +2608,7 @@
       "text": "(https://ad.doubleclick.net/ddm/clk/466528085;270393151;k)"
     },
     {
-      "self_ref": "#/texts/69",
+      "self_ref": "#/texts/68",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -2665,7 +2635,7 @@
       "text": "legarreta-"
     },
     {
-      "self_ref": "#/texts/70",
+      "self_ref": "#/texts/69",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -2692,7 +2662,7 @@
       "text": "hija-baila-"
     },
     {
-      "self_ref": "#/texts/71",
+      "self_ref": "#/texts/70",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -2719,7 +2689,7 @@
       "text": "vals-xv-"
     },
     {
-      "self_ref": "#/texts/72",
+      "self_ref": "#/texts/71",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -2746,7 +2716,7 @@
       "text": "anos-erik- 2"
     },
     {
-      "self_ref": "#/texts/73",
+      "self_ref": "#/texts/72",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -2773,7 +2743,7 @@
       "text": "rubin)"
     },
     {
-      "self_ref": "#/texts/74",
+      "self_ref": "#/texts/73",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -2800,7 +2770,7 @@
       "text": "Andrea Legarreta comparte la emotiva fi esta de XV años de su hija (VIDEO)"
     },
     {
-      "self_ref": "#/texts/75",
+      "self_ref": "#/texts/74",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -2827,7 +2797,7 @@
       "text": "1"
     },
     {
-      "self_ref": "#/texts/76",
+      "self_ref": "#/texts/75",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -2854,7 +2824,7 @@
       "text": "(https://www.milenio.com/deportes/extra- noche-encontro-esposa-brad- pitt)"
     },
     {
-      "self_ref": "#/texts/77",
+      "self_ref": "#/texts/76",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -2881,7 +2851,7 @@
       "text": "cancha/mike-"
     },
     {
-      "self_ref": "#/texts/78",
+      "self_ref": "#/texts/77",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -2908,7 +2878,7 @@
       "text": "tyson-"
     },
     {
-      "self_ref": "#/texts/79",
+      "self_ref": "#/texts/78",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -2935,7 +2905,7 @@
       "text": "recuerda-"
     },
     {
-      "self_ref": "#/texts/80",
+      "self_ref": "#/texts/79",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -2962,7 +2932,7 @@
       "text": "noche-"
     },
     {
-      "self_ref": "#/texts/81",
+      "self_ref": "#/texts/80",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -2989,7 +2959,7 @@
       "text": "encontro- 3"
     },
     {
-      "self_ref": "#/texts/82",
+      "self_ref": "#/texts/81",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3016,7 +2986,7 @@
       "text": "esposa-"
     },
     {
-      "self_ref": "#/texts/83",
+      "self_ref": "#/texts/82",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3043,7 +3013,7 @@
       "text": "La noche que Mike Tyson"
     },
     {
-      "self_ref": "#/texts/84",
+      "self_ref": "#/texts/83",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3070,7 +3040,7 @@
       "text": "encontró a su ex esposa con"
     },
     {
-      "self_ref": "#/texts/85",
+      "self_ref": "#/texts/84",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3097,7 +3067,7 @@
       "text": "Brad Pitt"
     },
     {
-      "self_ref": "#/texts/86",
+      "self_ref": "#/texts/85",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3124,7 +3094,7 @@
       "text": "(https://www.milenio.com/deportes/extra- cancha/mike-tyson-recuerda-"
     },
     {
-      "self_ref": "#/texts/87",
+      "self_ref": "#/texts/86",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3151,7 +3121,7 @@
       "text": "recordar-"
     },
     {
-      "self_ref": "#/texts/88",
+      "self_ref": "#/texts/87",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3178,7 +3148,7 @@
       "text": "nacimiento- hija) 4"
     },
     {
-      "self_ref": "#/texts/89",
+      "self_ref": "#/texts/88",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3205,7 +3175,7 @@
       "text": "Andrea Legarreta se puso"
     },
     {
-      "self_ref": "#/texts/90",
+      "self_ref": "#/texts/89",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3232,7 +3202,7 @@
       "text": "sentimental y lloró al"
     },
     {
-      "self_ref": "#/texts/91",
+      "self_ref": "#/texts/90",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3259,7 +3229,7 @@
       "text": "recordar el nacimiento de su hija"
     },
     {
-      "self_ref": "#/texts/92",
+      "self_ref": "#/texts/91",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3286,7 +3256,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/danna- colaboracion-musical-video)"
     },
     {
-      "self_ref": "#/texts/93",
+      "self_ref": "#/texts/92",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3313,7 +3283,7 @@
       "text": "paola-"
     },
     {
-      "self_ref": "#/texts/94",
+      "self_ref": "#/texts/93",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3340,7 +3310,7 @@
       "text": "rechazada-"
     },
     {
-      "self_ref": "#/texts/95",
+      "self_ref": "#/texts/94",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3367,7 +3337,7 @@
       "text": "belinda-"
     },
     {
-      "self_ref": "#/texts/96",
+      "self_ref": "#/texts/95",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3394,7 +3364,7 @@
       "text": "colaboracion- 5"
     },
     {
-      "self_ref": "#/texts/97",
+      "self_ref": "#/texts/96",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3421,7 +3391,7 @@
       "text": "musical-"
     },
     {
-      "self_ref": "#/texts/98",
+      "self_ref": "#/texts/97",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3448,7 +3418,7 @@
       "text": "video)"
     },
     {
-      "self_ref": "#/texts/99",
+      "self_ref": "#/texts/98",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3475,7 +3445,7 @@
       "text": "Paola para canción juntas?"
     },
     {
-      "self_ref": "#/texts/100",
+      "self_ref": "#/texts/99",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3502,7 +3472,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/karla- americo-garza)"
     },
     {
-      "self_ref": "#/texts/101",
+      "self_ref": "#/texts/100",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3529,7 +3499,7 @@
       "text": "panini-"
     },
     {
-      "self_ref": "#/texts/102",
+      "self_ref": "#/texts/101",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3556,7 +3526,7 @@
       "text": "haters-"
     },
     {
-      "self_ref": "#/texts/103",
+      "self_ref": "#/texts/102",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3583,7 +3553,7 @@
       "text": "oscar-"
     },
     {
-      "self_ref": "#/texts/104",
+      "self_ref": "#/texts/103",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3610,7 +3580,7 @@
       "text": "¡Intercambio de parejas!:"
     },
     {
-      "self_ref": "#/texts/105",
+      "self_ref": "#/texts/104",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3637,7 +3607,7 @@
       "text": "Karla Panini bromea con su"
     },
     {
-      "self_ref": "#/texts/106",
+      "self_ref": "#/texts/105",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3664,7 +3634,7 @@
       "text": "ex Óscar Burgos (VIDEO)"
     },
     {
-      "self_ref": "#/texts/107",
+      "self_ref": "#/texts/106",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3691,7 +3661,7 @@
       "text": "panini-haters-oscar-burgos-"
     },
     {
-      "self_ref": "#/texts/108",
+      "self_ref": "#/texts/107",
       "parent": {
         "$ref": "#/body"
       },
@@ -3718,7 +3688,7 @@
       "text": "burgos-"
     },
     {
-      "self_ref": "#/texts/109",
+      "self_ref": "#/texts/108",
       "parent": {
         "$ref": "#/body"
       },
@@ -3745,7 +3715,7 @@
       "text": "https://www.milenio.com/policia/denuncian-falta-resultados-caso-maria-fernanda"
     },
     {
-      "self_ref": "#/texts/110",
+      "self_ref": "#/texts/109",
       "parent": {
         "$ref": "#/body"
       },
@@ -3772,7 +3742,7 @@
       "text": "Página 4 de 8"
     },
     {
-      "self_ref": "#/texts/111",
+      "self_ref": "#/texts/110",
       "parent": {
         "$ref": "#/body"
       },
@@ -3799,7 +3769,7 @@
       "text": "Denuncian falta de resultados en caso de María Fernanda"
     },
     {
-      "self_ref": "#/texts/112",
+      "self_ref": "#/texts/111",
       "parent": {
         "$ref": "#/body"
       },
@@ -3826,7 +3796,7 @@
       "text": "4/24/20 4&43 PM"
     },
     {
-      "self_ref": "#/texts/113",
+      "self_ref": "#/texts/112",
       "parent": {
         "$ref": "#/body"
       },
@@ -3853,7 +3823,7 @@
       "text": "burgosamericogarza)"
     },
     {
-      "self_ref": "#/texts/114",
+      "self_ref": "#/texts/113",
       "parent": {
         "$ref": "#/body"
       },
@@ -3880,7 +3850,7 @@
       "text": "(https://www.kelleruss.com/Buy-4-Free-Shipping-For-ExcellentBreathability-Extra-Comfort-p226557.html? utm_source=taboola&utm_medium=referral)"
     },
     {
-      "self_ref": "#/texts/115",
+      "self_ref": "#/texts/114",
       "parent": {
         "$ref": "#/body"
       },
@@ -3908,7 +3878,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/116",
+      "self_ref": "#/texts/115",
       "parent": {
         "$ref": "#/body"
       },
@@ -3936,7 +3906,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/117",
+      "self_ref": "#/texts/116",
       "parent": {
         "$ref": "#/body"
       },
@@ -3963,7 +3933,7 @@
       "text": "(https://www.kelleruss.com/Buy-4-Free-Shipping-For-ExcellentBreathability-Extra-Comfort-p226557.html? utm_source=taboola&utm_medium=referral) (https://www.fool.com/mms/mark/double-down-2? utm_source=taboola&utm_medium=contentmarketing&utm_campaign=sardoubledown2&aid=9187&paid=9187&waid=9187&source=esatabwdg0210889"
     },
     {
-      "self_ref": "#/texts/118",
+      "self_ref": "#/texts/117",
       "parent": {
         "$ref": "#/body"
       },
@@ -3991,7 +3961,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/119",
+      "self_ref": "#/texts/118",
       "parent": {
         "$ref": "#/body"
       },
@@ -4019,7 +3989,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/120",
+      "self_ref": "#/texts/119",
       "parent": {
         "$ref": "#/body"
       },
@@ -4046,7 +4016,7 @@
       "text": "(https://www.fool.com/mms/mark/double-down-2?"
     },
     {
-      "self_ref": "#/texts/121",
+      "self_ref": "#/texts/120",
       "parent": {
         "$ref": "#/body"
       },
@@ -4073,7 +4043,7 @@
       "text": "utm_source=taboola&utm_medium=contentmarketing&utm_campaign=sardoubledown2&aid=9187&paid=9187&waid=9187&source=esatabwdg0210889 (https://www.kbb.com/?"
     },
     {
-      "self_ref": "#/texts/122",
+      "self_ref": "#/texts/121",
       "parent": {
         "$ref": "#/body"
       },
@@ -4100,7 +4070,7 @@
       "text": "psid=99980&siomid=154493&rcmid=lastcts&campaignid=KBB+2020_Desktop"
     },
     {
-      "self_ref": "#/texts/123",
+      "self_ref": "#/texts/122",
       "parent": {
         "$ref": "#/body"
       },
@@ -4128,7 +4098,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/124",
+      "self_ref": "#/texts/123",
       "parent": {
         "$ref": "#/body"
       },
@@ -4156,7 +4126,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/125",
+      "self_ref": "#/texts/124",
       "parent": {
         "$ref": "#/body"
       },
@@ -4183,7 +4153,7 @@
       "text": "(https://www.kbb.com/? psid=99980&siomid=154493&rcmid=lastcts&campaignid=KBB+2020_Desktop (https://www.revistafama.com/celebridades/yalitza-aparicio-su-otravida-como-maestra-en-oaxaca? utm_source=taboola&utm_medium=exchange)"
     },
     {
-      "self_ref": "#/texts/126",
+      "self_ref": "#/texts/125",
       "parent": {
         "$ref": "#/body"
       },
@@ -4211,7 +4181,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/127",
+      "self_ref": "#/texts/126",
       "parent": {
         "$ref": "#/body"
       },
@@ -4239,7 +4209,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/128",
+      "self_ref": "#/texts/127",
       "parent": {
         "$ref": "#/body"
       },
@@ -4266,7 +4236,7 @@
       "text": "(https://www.revistafama.com/celebridades/yalitza-aparicio-su-otravida-como-maestra-en-oaxaca? utm_source=taboola&utm_medium=exchange) (https://www.milenio.com/deportes/extra-cancha/surfista-denunciaacoso-piden-fotos-ropa-modelo?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/129",
+      "self_ref": "#/texts/128",
       "parent": {
         "$ref": "#/body"
       },
@@ -4294,7 +4264,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/130",
+      "self_ref": "#/texts/129",
       "parent": {
         "$ref": "#/body"
       },
@@ -4322,7 +4292,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/131",
+      "self_ref": "#/texts/130",
       "parent": {
         "$ref": "#/body"
       },
@@ -4349,7 +4319,7 @@
       "text": "(https://www.milenio.com/deportes/extra-cancha/surfista-denunciaacoso-piden-fotos-ropa-modelo?utm_medium=taboola) (https://www.milenio.com/deportes/extra-cancha/michael-jordanencontro-dennis-rodman-cama-carmen-electra?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/132",
+      "self_ref": "#/texts/131",
       "parent": {
         "$ref": "#/body"
       },
@@ -4377,7 +4347,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/133",
+      "self_ref": "#/texts/132",
       "parent": {
         "$ref": "#/body"
       },
@@ -4404,7 +4374,7 @@
       "text": "https://www.milenio.com/policia/denuncian-falta-resultados-caso-maria-fernanda"
     },
     {
-      "self_ref": "#/texts/134",
+      "self_ref": "#/texts/133",
       "parent": {
         "$ref": "#/body"
       },
@@ -4431,7 +4401,7 @@
       "text": "Página 5 de 8"
     },
     {
-      "self_ref": "#/texts/135",
+      "self_ref": "#/texts/134",
       "parent": {
         "$ref": "#/body"
       },
@@ -4458,7 +4428,7 @@
       "text": "Denuncian falta de resultados en caso de María Fernanda"
     },
     {
-      "self_ref": "#/texts/136",
+      "self_ref": "#/texts/135",
       "parent": {
         "$ref": "#/body"
       },
@@ -4485,7 +4455,7 @@
       "text": "4/24/20 4&43 PM"
     },
     {
-      "self_ref": "#/texts/137",
+      "self_ref": "#/texts/136",
       "parent": {
         "$ref": "#/body"
       },
@@ -4513,7 +4483,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/138",
+      "self_ref": "#/texts/137",
       "parent": {
         "$ref": "#/body"
       },
@@ -4540,7 +4510,7 @@
       "text": "Rodman en la cama con Carmen Electra Milenio"
     },
     {
-      "self_ref": "#/texts/139",
+      "self_ref": "#/texts/138",
       "parent": {
         "$ref": "#/body"
       },
@@ -4567,7 +4537,7 @@
       "text": "(https://www.milenio.com/deportes/extra-cancha/michael-jordanencontro-dennis-rodman-cama-carmen-electra?utm_medium=taboola) (https://www.milenio.com/espectaculos/famosos/luis-miguel-noviaburla-instagram-dibujo?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/140",
+      "self_ref": "#/texts/139",
       "parent": {
         "$ref": "#/body"
       },
@@ -4595,7 +4565,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/141",
+      "self_ref": "#/texts/140",
       "parent": {
         "$ref": "#/body"
       },
@@ -4623,7 +4593,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/142",
+      "self_ref": "#/texts/141",
       "parent": {
         "$ref": "#/body"
       },
@@ -4650,7 +4620,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/luis-miguel-noviaburla-instagram-dibujo?utm_medium=taboola) (https://www.milenio.com/espectaculos/famosos/raul-araiza-divorciofernanda-rodriguez-relacion-daniela-castro?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/143",
+      "self_ref": "#/texts/142",
       "parent": {
         "$ref": "#/body"
       },
@@ -4678,7 +4648,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/144",
+      "self_ref": "#/texts/143",
       "parent": {
         "$ref": "#/body"
       },
@@ -4706,7 +4676,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/145",
+      "self_ref": "#/texts/144",
       "parent": {
         "$ref": "#/body"
       },
@@ -4733,7 +4703,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/raul-araiza-divorciofernanda-rodriguez-relacion-daniela-castro?utm_medium=taboola) (https://www.milenio.com/opinion/ricardo-aleman/itinerario-politico/yatienen-sus-muertos-el-nuevo-crimen-organizado? utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/146",
+      "self_ref": "#/texts/145",
       "parent": {
         "$ref": "#/body"
       },
@@ -4761,7 +4731,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/147",
+      "self_ref": "#/texts/146",
       "parent": {
         "$ref": "#/body"
       },
@@ -4789,7 +4759,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/148",
+      "self_ref": "#/texts/147",
       "parent": {
         "$ref": "#/body"
       },
@@ -4830,7 +4800,7 @@
       "text": "(https://www.milenio.com/opinion/ricardo-aleman/itinerario-politico/yatienen-sus-muertos-el-nuevo-crimen-organizado? utm_medium=taboola) (https://www.milenio.com/internacional/luce-joven-irani-querer- parecerse-angelina-jolie?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/149",
+      "self_ref": "#/texts/148",
       "parent": {
         "$ref": "#/body"
       },
@@ -4858,7 +4828,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/150",
+      "self_ref": "#/texts/149",
       "parent": {
         "$ref": "#/body"
       },
@@ -4886,7 +4856,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/151",
+      "self_ref": "#/texts/150",
       "parent": {
         "$ref": "#/body"
       },
@@ -4913,7 +4883,7 @@
       "text": "(https://www.milenio.com/internacional/luce-joven-irani-quererparecerse-angelina-jolie?utm_medium=taboola) (https://www.milenio.com/negocios/empresas-deudoras-sat-amlofantasia-coparmex?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/152",
+      "self_ref": "#/texts/151",
       "parent": {
         "$ref": "#/body"
       },
@@ -4941,7 +4911,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/153",
+      "self_ref": "#/texts/152",
       "parent": {
         "$ref": "#/body"
       },
@@ -4969,7 +4939,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/154",
+      "self_ref": "#/texts/153",
       "parent": {
         "$ref": "#/body"
       },
@@ -4996,7 +4966,7 @@
       "text": "(https://www.milenio.com/negocios/empresas-deudoras-sat-amlofantasia-coparmex?utm_medium=taboola) (https://www.milenio.com/politica/coronavirus-javier-alatorre-diputadodenuncia-terrorismo?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/155",
+      "self_ref": "#/texts/154",
       "parent": {
         "$ref": "#/body"
       },
@@ -5024,7 +4994,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/156",
+      "self_ref": "#/texts/155",
       "parent": {
         "$ref": "#/body"
       },
@@ -5051,7 +5021,7 @@
       "text": "That proud feeling that comes with"
     },
     {
-      "self_ref": "#/texts/157",
+      "self_ref": "#/texts/156",
       "parent": {
         "$ref": "#/body"
       },
@@ -5078,7 +5048,7 @@
       "text": "That proud feeling that comes with"
     },
     {
-      "self_ref": "#/texts/158",
+      "self_ref": "#/texts/157",
       "parent": {
         "$ref": "#/body"
       },
@@ -5105,7 +5075,7 @@
       "text": "https://www.milenio.com/policia/denuncian-falta-resultados-caso-maria-fernanda"
     },
     {
-      "self_ref": "#/texts/159",
+      "self_ref": "#/texts/158",
       "parent": {
         "$ref": "#/body"
       },
@@ -5132,7 +5102,7 @@
       "text": "Página 6 de 8"
     },
     {
-      "self_ref": "#/texts/160",
+      "self_ref": "#/texts/159",
       "parent": {
         "$ref": "#/body"
       },
@@ -5159,7 +5129,7 @@
       "text": "Denuncian falta de resultados en caso de María Fernanda"
     },
     {
-      "self_ref": "#/texts/161",
+      "self_ref": "#/texts/160",
       "parent": {
         "$ref": "#/body"
       },
@@ -5186,7 +5156,7 @@
       "text": "4/24/20 4&43 PM"
     },
     {
-      "self_ref": "#/texts/162",
+      "self_ref": "#/texts/161",
       "parent": {
         "$ref": "#/body"
       },
@@ -5214,7 +5184,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/163",
+      "self_ref": "#/texts/162",
       "parent": {
         "$ref": "#/body"
       },
@@ -5242,7 +5212,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/164",
+      "self_ref": "#/texts/163",
       "parent": {
         "$ref": "#/body"
       },
@@ -5270,7 +5240,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/165",
+      "self_ref": "#/texts/164",
       "parent": {
         "$ref": "#/body"
       },
@@ -5297,7 +5267,7 @@
       "text": "(https://www.milenio.com/politica/coronavirus-javier-alatorre-diputadodenuncia-terrorismo?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/166",
+      "self_ref": "#/texts/165",
       "parent": {
         "$ref": "#/body"
       },
@@ -5324,7 +5294,7 @@
       "text": "(https://ad.doubleclick.net/ddm/trackclk/N4492.2069703TABOOLA/B23538279.268011512;dc_trk_aid=462976502;dc_trk_cid=99460260;dc_lat=;d (https://www.milenio.com/opinion/elisa-alanis/razones-pasiones/losamigos-del-presidente?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/167",
+      "self_ref": "#/texts/166",
       "parent": {
         "$ref": "#/body"
       },
@@ -5351,7 +5321,7 @@
       "text": "utm_source=taboola&utm_medium=referral)"
     },
     {
-      "self_ref": "#/texts/168",
+      "self_ref": "#/texts/167",
       "parent": {
         "$ref": "#/body"
       },
@@ -5378,7 +5348,7 @@
       "text": "(https://www.bravenewlook.com/collections/cloth-facemasks?utm_source=taboola&utm_campaign=cloth-maskprospecting&utm_source=taboola&utm_medium=referral)"
     },
     {
-      "self_ref": "#/texts/169",
+      "self_ref": "#/texts/168",
       "parent": {
         "$ref": "#/body"
       },
@@ -5406,7 +5376,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/170",
+      "self_ref": "#/texts/169",
       "parent": {
         "$ref": "#/body"
       },
@@ -5434,7 +5404,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/171",
+      "self_ref": "#/texts/170",
       "parent": {
         "$ref": "#/body"
       },
@@ -5461,7 +5431,7 @@
       "text": "(https://www.bravenewlook.com/collections/cloth-facemasks?utm_source=taboola&utm_campaign=cloth-maskprospecting&utm_source=taboola&utm_medium=referral)"
     },
     {
-      "self_ref": "#/texts/172",
+      "self_ref": "#/texts/171",
       "parent": {
         "$ref": "#/body"
       },
@@ -5488,7 +5458,7 @@
       "text": "milenio&utm_medium=referral&utm_content=thumbnails-rr3:Right Rail Thumbnails:)"
     },
     {
-      "self_ref": "#/texts/173",
+      "self_ref": "#/texts/172",
       "parent": {
         "$ref": "#/body"
       },
@@ -5516,7 +5486,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/174",
+      "self_ref": "#/texts/173",
       "parent": {
         "$ref": "#/body"
       },
@@ -5544,7 +5514,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/175",
+      "self_ref": "#/texts/174",
       "parent": {
         "$ref": "#/body"
       },
@@ -5571,7 +5541,7 @@
       "text": "(https://www.milenio.com/opinion/elisa-alanis/razones-pasiones/losamigos-del-presidente?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/176",
+      "self_ref": "#/texts/175",
       "parent": {
         "$ref": "#/body"
       },
@@ -5598,7 +5568,7 @@
       "text": "(https://www.milenio.com/policia/por-neumonia-atipica-policia-decdmx-muere?"
     },
     {
-      "self_ref": "#/texts/177",
+      "self_ref": "#/texts/176",
       "parent": {
         "$ref": "#/body"
       },
@@ -5625,7 +5595,7 @@
       "text": "amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA=&utm_medium=tabo"
     },
     {
-      "self_ref": "#/texts/178",
+      "self_ref": "#/texts/177",
       "parent": {
         "$ref": "#/body"
       },
@@ -5653,7 +5623,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/179",
+      "self_ref": "#/texts/178",
       "parent": {
         "$ref": "#/body"
       },
@@ -5681,7 +5651,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/180",
+      "self_ref": "#/texts/179",
       "parent": {
         "$ref": "#/body"
       },
@@ -5708,7 +5678,7 @@
       "text": "(https://www.milenio.com/policia/por-neumonia-atipica-policia-decdmx-muere?"
     },
     {
-      "self_ref": "#/texts/181",
+      "self_ref": "#/texts/180",
       "parent": {
         "$ref": "#/body"
       },
@@ -5735,7 +5705,7 @@
       "text": "amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA=&utm_medium=tabo (https://www.milenio.com/opinion/alvaro-cueva/el-pozo-de-losdeseos-reprimidos/escandalo-de-tvazteca?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/182",
+      "self_ref": "#/texts/181",
       "parent": {
         "$ref": "#/body"
       },
@@ -5763,7 +5733,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/183",
+      "self_ref": "#/texts/182",
       "parent": {
         "$ref": "#/body"
       },
@@ -5791,7 +5761,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/184",
+      "self_ref": "#/texts/183",
       "parent": {
         "$ref": "#/body"
       },
@@ -5818,7 +5788,7 @@
       "text": "(https://www.milenio.com/opinion/alvaro-cueva/el-pozo-de-losdeseos-reprimidos/escandalo-de-tvazteca?utm_medium=taboola) (https://www.milenio.com/espectaculos/famosos/danna-paola-muevecaderas-ritmo-reggaeton-tik-tok?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/185",
+      "self_ref": "#/texts/184",
       "parent": {
         "$ref": "#/body"
       },
@@ -5846,7 +5816,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/186",
+      "self_ref": "#/texts/185",
       "parent": {
         "$ref": "#/body"
       },
@@ -5874,7 +5844,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/187",
+      "self_ref": "#/texts/186",
       "parent": {
         "$ref": "#/body"
       },
@@ -5901,7 +5871,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/danna-paola-muevecaderas-ritmo-reggaeton-tik-tok?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/188",
+      "self_ref": "#/texts/187",
       "parent": {
         "$ref": "#/body"
       },
@@ -5929,7 +5899,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/189",
+      "self_ref": "#/texts/188",
       "parent": {
         "$ref": "#/body"
       },
@@ -5956,7 +5926,7 @@
       "text": "Mota Engil gana licitaci Mota Engil gana licitaci ó n para n para primer tramo de Tren Maya primer tramo de Tren Maya"
     },
     {
-      "self_ref": "#/texts/190",
+      "self_ref": "#/texts/189",
       "parent": {
         "$ref": "#/body"
       },
@@ -5983,7 +5953,7 @@
       "text": "https://www.milenio.com/policia/denuncian-falta-resultados-caso-maria-fernanda"
     },
     {
-      "self_ref": "#/texts/191",
+      "self_ref": "#/texts/190",
       "parent": {
         "$ref": "#/body"
       },
@@ -6010,7 +5980,7 @@
       "text": "Página 7 de 8"
     },
     {
-      "self_ref": "#/texts/192",
+      "self_ref": "#/texts/191",
       "parent": {
         "$ref": "#/body"
       },
@@ -6037,7 +6007,7 @@
       "text": "Denuncian falta de resultados en caso de María Fernanda"
     },
     {
-      "self_ref": "#/texts/193",
+      "self_ref": "#/texts/192",
       "parent": {
         "$ref": "#/body"
       },
@@ -6064,7 +6034,7 @@
       "text": "4/24/20 4&43 PM"
     },
     {
-      "self_ref": "#/texts/194",
+      "self_ref": "#/texts/193",
       "parent": {
         "$ref": "#/body"
       },
@@ -6091,7 +6061,7 @@
       "text": "nes"
     },
     {
-      "self_ref": "#/texts/195",
+      "self_ref": "#/texts/194",
       "parent": {
         "$ref": "#/body"
       },
@@ -6119,7 +6089,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/196",
+      "self_ref": "#/texts/195",
       "parent": {
         "$ref": "#/body"
       },
@@ -6146,7 +6116,7 @@
       "text": "Agregar un comentario..."
     },
     {
-      "self_ref": "#/texts/197",
+      "self_ref": "#/texts/196",
       "parent": {
         "$ref": "#/body"
       },
@@ -6173,7 +6143,7 @@
       "text": "Plugin de comentarios de Facebook"
     },
     {
-      "self_ref": "#/texts/198",
+      "self_ref": "#/texts/197",
       "parent": {
         "$ref": "#/pictures/10"
       },
@@ -6200,7 +6170,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/199",
+      "self_ref": "#/texts/198",
       "parent": {
         "$ref": "#/body"
       },
@@ -6227,7 +6197,7 @@
       "text": "(https://www.bravenewlook.com/collections/cloth-face-masks?utm_source=taboola&utm_campaign=cloth-mask-prospecting&utm_source=taboola"
     },
     {
-      "self_ref": "#/texts/200",
+      "self_ref": "#/texts/199",
       "parent": {
         "$ref": "#/body"
       },
@@ -6254,7 +6224,7 @@
       "text": "Directorio"
     },
     {
-      "self_ref": "#/texts/201",
+      "self_ref": "#/texts/200",
       "parent": {
         "$ref": "#/body"
       },
@@ -6281,7 +6251,7 @@
       "text": "Ordenar por"
     },
     {
-      "self_ref": "#/texts/202",
+      "self_ref": "#/texts/201",
       "parent": {
         "$ref": "#/body"
       },
@@ -6308,7 +6278,7 @@
       "text": "Privacidad"
     },
     {
-      "self_ref": "#/texts/203",
+      "self_ref": "#/texts/202",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -6337,7 +6307,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/204",
+      "self_ref": "#/texts/203",
       "parent": {
         "$ref": "#/body"
       },
@@ -6364,7 +6334,7 @@
       "text": "Visítanos en"
     },
     {
-      "self_ref": "#/texts/205",
+      "self_ref": "#/texts/204",
       "parent": {
         "$ref": "#/body"
       },
@@ -6391,7 +6361,7 @@
       "text": "Anúnciate"
     },
     {
-      "self_ref": "#/texts/206",
+      "self_ref": "#/texts/205",
       "parent": {
         "$ref": "#/body"
       },
@@ -6418,7 +6388,7 @@
       "text": "DERECHOS RESERVADOS © GRUPO MILENIO 2020"
     },
     {
-      "self_ref": "#/texts/207",
+      "self_ref": "#/texts/206",
       "parent": {
         "$ref": "#/body"
       },
@@ -6445,7 +6415,7 @@
       "text": "utilizar dicha tecnología, según nuestra (/politica-cookies). Puedes cambiar la configuración en tu navegador cuando gustes."
     },
     {
-      "self_ref": "#/texts/208",
+      "self_ref": "#/texts/207",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -6472,7 +6442,7 @@
       "text": "Buscan ahorro de 622 mil mdp con nuevo plan"
     },
     {
-      "self_ref": "#/texts/209",
+      "self_ref": "#/texts/208",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -6499,7 +6469,7 @@
       "text": "FALLECIDOS 970"
     },
     {
-      "self_ref": "#/texts/210",
+      "self_ref": "#/texts/209",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -6526,7 +6496,7 @@
       "text": "10.21"
     },
     {
-      "self_ref": "#/texts/211",
+      "self_ref": "#/texts/210",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -6553,7 +6523,7 @@
       "text": "WULARES"
     },
     {
-      "self_ref": "#/texts/212",
+      "self_ref": "#/texts/211",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -6580,7 +6550,7 @@
       "text": "Fase"
     },
     {
-      "self_ref": "#/texts/213",
+      "self_ref": "#/texts/212",
       "parent": {
         "$ref": "#/body"
       },
@@ -6607,7 +6577,7 @@
       "text": "Newsfeed"
     },
     {
-      "self_ref": "#/texts/214",
+      "self_ref": "#/texts/213",
       "parent": {
         "$ref": "#/body"
       },
@@ -6634,7 +6604,7 @@
       "text": "Más antiguos"
     },
     {
-      "self_ref": "#/texts/215",
+      "self_ref": "#/texts/214",
       "parent": {
         "$ref": "#/body"
       },
@@ -6661,7 +6631,7 @@
       "text": "Aviso Legal"
     },
     {
-      "self_ref": "#/texts/216",
+      "self_ref": "#/texts/215",
       "parent": {
         "$ref": "#/body"
       },
@@ -6688,7 +6658,7 @@
       "text": "https://www.milenio.com/policia/denuncian-falta-resultados-caso-maria-fernanda"
     },
     {
-      "self_ref": "#/texts/217",
+      "self_ref": "#/texts/216",
       "parent": {
         "$ref": "#/body"
       },
@@ -6732,10 +6702,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 26.019336700439453,
-            "t": 662.6226501464844,
-            "r": 41.21253204345703,
-            "b": 647.3726196289062,
+            "l": 26.01813316345215,
+            "t": 662.6221923828125,
+            "r": 41.21332550048828,
+            "b": 647.3725738525391,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6765,10 +6735,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 568.6218872070312,
-            "t": 704.9269714355469,
-            "r": 586.377685546875,
-            "b": 686.9495086669922,
+            "l": 568.6214599609375,
+            "t": 704.9267120361328,
+            "r": 586.3778076171875,
+            "b": 686.9497985839844,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6794,10 +6764,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 345.2225646972656,
-            "t": 711.644157409668,
-            "r": 427.1234436035156,
-            "b": 680.1199798583984,
+            "l": 345.18402099609375,
+            "t": 711.6443710327148,
+            "r": 427.1205749511719,
+            "b": 680.1209716796875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6833,10 +6803,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 144.8753204345703,
-            "t": 431.30670166015625,
-            "r": 467.00433349609375,
-            "b": 369.4339599609375,
+            "l": 144.8751983642578,
+            "t": 431.3080749511719,
+            "r": 467.00189208984375,
+            "b": 369.433349609375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6862,10 +6832,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 352.86968994140625,
-            "t": 507.7247009277344,
-            "r": 419.4022216796875,
-            "b": 441.66412353515625,
+            "l": 352.8689880371094,
+            "t": 507.7239990234375,
+            "r": 419.4010925292969,
+            "b": 441.66448974609375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6891,10 +6861,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 40.26151657104492,
-            "t": 677.6293792724609,
-            "r": 340.5886535644531,
-            "b": 301.3290710449219,
+            "l": 40.261226654052734,
+            "t": 677.628791809082,
+            "r": 340.58734130859375,
+            "b": 301.3290100097656,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6920,10 +6890,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 305.78167724609375,
-            "t": 410.68853759765625,
-            "r": 328.2645568847656,
-            "b": 390.4697570800781,
+            "l": 305.78076171875,
+            "t": 410.6883850097656,
+            "r": 328.2656555175781,
+            "b": 390.47003173828125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6949,10 +6919,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 313.2146911621094,
-            "t": 102.19940185546875,
-            "r": 570.1636352539062,
-            "b": 63.6773681640625,
+            "l": 313.2132873535156,
+            "t": 102.200927734375,
+            "r": 570.1638793945312,
+            "b": 63.67724609375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6978,10 +6948,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 47.20562744140625,
-            "t": 470.5611267089844,
-            "r": 87.6438980102539,
-            "b": 430.7585754394531,
+            "l": 47.20492172241211,
+            "t": 470.5615539550781,
+            "r": 87.64387512207031,
+            "b": 430.7584228515625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7007,10 +6977,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 24.172090530395508,
-            "t": 346.4088439941406,
-            "r": 70.10807800292969,
-            "b": 306.53582763671875,
+            "l": 24.1707820892334,
+            "t": 346.41082763671875,
+            "r": 70.10932159423828,
+            "b": 306.5352783203125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7031,7 +7001,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/198"
+          "$ref": "#/texts/197"
         }
       ],
       "content_layer": "body",
@@ -7040,10 +7010,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 560.7496337890625,
-            "t": 331.30767822265625,
-            "r": 570.8587036132812,
-            "b": 319.0400390625,
+            "l": 560.7489624023438,
+            "t": 331.30877685546875,
+            "r": 570.859130859375,
+            "b": 319.0398864746094,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7064,6 +7034,9 @@
       },
       "children": [
         {
+          "$ref": "#/texts/207"
+        },
+        {
           "$ref": "#/texts/208"
         },
         {
@@ -7074,9 +7047,6 @@
         },
         {
           "$ref": "#/texts/211"
-        },
-        {
-          "$ref": "#/texts/212"
         }
       ],
       "content_layer": "body",
@@ -7085,10 +7055,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 313.1720886230469,
-            "t": 750.2312812805176,
-            "r": 570.1942138671875,
-            "b": 641.472900390625,
+            "l": 313.1713562011719,
+            "t": 750.2308921813965,
+            "r": 570.1943359375,
+            "b": 641.4727172851562,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

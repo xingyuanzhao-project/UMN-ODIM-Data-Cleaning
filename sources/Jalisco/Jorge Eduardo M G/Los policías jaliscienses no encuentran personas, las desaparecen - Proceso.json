@@ -324,9 +324,6 @@
         "$ref": "#/texts/113"
       },
       {
-        "$ref": "#/texts/114"
-      },
-      {
         "$ref": "#/pictures/7"
       },
       {
@@ -334,6 +331,9 @@
       },
       {
         "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/129"
       },
       {
         "$ref": "#/texts/130"
@@ -369,16 +369,13 @@
         "$ref": "#/texts/140"
       },
       {
-        "$ref": "#/texts/141"
-      },
-      {
         "$ref": "#/groups/1"
       },
       {
-        "$ref": "#/texts/143"
+        "$ref": "#/texts/142"
       },
       {
-        "$ref": "#/texts/144"
+        "$ref": "#/texts/143"
       },
       {
         "$ref": "#/pictures/10"
@@ -397,6 +394,9 @@
       },
       {
         "$ref": "#/pictures/15"
+      },
+      {
+        "$ref": "#/texts/144"
       },
       {
         "$ref": "#/texts/145"
@@ -423,19 +423,19 @@
         "$ref": "#/texts/152"
       },
       {
-        "$ref": "#/texts/153"
+        "$ref": "#/groups/2"
       },
       {
-        "$ref": "#/groups/2"
+        "$ref": "#/texts/155"
       },
       {
         "$ref": "#/texts/156"
       },
       {
-        "$ref": "#/texts/157"
+        "$ref": "#/groups/3"
       },
       {
-        "$ref": "#/groups/3"
+        "$ref": "#/texts/159"
       },
       {
         "$ref": "#/texts/160"
@@ -454,9 +454,6 @@
       },
       {
         "$ref": "#/texts/165"
-      },
-      {
-        "$ref": "#/texts/166"
       },
       {
         "$ref": "#/tables/0"
@@ -512,7 +509,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/142"
+          "$ref": "#/texts/141"
         }
       ],
       "content_layer": "body",
@@ -526,10 +523,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/154"
+          "$ref": "#/texts/153"
         },
         {
-          "$ref": "#/texts/155"
+          "$ref": "#/texts/154"
         }
       ],
       "content_layer": "body",
@@ -543,10 +540,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/158"
+          "$ref": "#/texts/157"
         },
         {
-          "$ref": "#/texts/159"
+          "$ref": "#/texts/158"
         }
       ],
       "content_layer": "body",
@@ -560,7 +557,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/167"
+          "$ref": "#/texts/166"
         }
       ],
       "content_layer": "body",
@@ -2234,47 +2231,20 @@
             "l": 41.5,
             "t": 758.688,
             "r": 392.078,
-            "b": 754.496,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            96
-          ]
-        }
-      ],
-      "orig": "GUADALAJARA, Jal. (Proceso).- La desaparición de personas, en especial de  jóvenes entre 15 y 19",
-      "text": "GUADALAJARA, Jal. (Proceso).- La desaparición de personas, en especial de  jóvenes entre 15 y 19"
-    },
-    {
-      "self_ref": "#/texts/62",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 2,
-          "bbox": {
-            "l": 41.5,
-            "t": 744.188,
-            "r": 391.437,
             "b": 54.99699999999996,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             0,
-            3108
+            3205
           ]
         }
       ],
-      "orig": "años, se ha incrementado a un ritmo alarmante en la entidad: mientras en el sexenio del panista Emilio González Márquez se reportaron 2 mil 175 casos, en la administración que encabeza el priista Aristóteles Sandoval Díaz suman ya 14 mil 19, con el agravante de que en algunos se ha denunciado la participación de policías municipales o estatales. Durante el sexenio de Felipe Calderón desaparecieron en el país 20 mil 851 personas. El 75% de esos reportes ociales se concentraron en seis entidades, de las cuales Jalisco ocupó el tercer lugar, con 2 mil 175, después de la Ciudad de México y el Estado de México, como consta en el Informe Sobre la Situación de los Derechos Humanos en Jalisco 2012. El pasado 21 de marzo, la Comisión Estatal de Derechos Humanos de Jalisco (CEDHJ) dio a conocer, en su recomendación 3/2018, que según datos de la propia Fiscalía General del Estado (FGE) se registraron 14 mil 19 desapariciones desde 2013 hasta el 31 de octubre de 2017. De ese total, 3 mil 206 fueron reportados de enero a octubre de 2017, con lo cual Jalisco sigue ocupando el tercer lugar nacional, después de Tamaulipas (5 mil 989) y el Estado de México (3 mil 864). Pese a todo, la sociedad jalisciense parece indiferente, excepto por las asociaciones civiles que realizan marchas en las que sólo participan los afectados, para exigir al gobierno que encuentre a sus familiares. En el periodo de Emilio González, la única gran manifestación se realizó el 23 de mayo de 2012, cuando estudiantes de la Universidad de Guadalajara (UdeG) exigieron mayor seguridad, tras el asesinato de 11 de sus compañeros en seis meses. Marco Antonio Núñez, entonces líder de la Federación de Estudiantes Universitarios (FEU), declaró entonces que también tenía información sobre estudiantes desaparecidos, pero que sus familias no denunciaban por miedo. Ya con Sandoval Díaz en el Ejecutivo, seis jóvenes y un mesero, cuyas edades oscilaban entre 18 y 22 años, fueron levantados la madrugada del l7 de julio de 2013 en Lagos de Moreno. Al no localizarlos, 17 días después sus amigos y familiares se manifestaron en el jardín principal del municipio y exigieron a las autoridades frenar la inseguridad. Cuando fueron hallados sus cadáveres, el entonces scal estatal Luis Carlos Nájera informó que tras una investigación se estableció que fueron asesinados por integrantes del Cártel de Jalisco Nueva Generación (CJNG), como venganza por haberle robado dos bolsas con droga y dinero. Casi seis años después la consigna de esa ocasión ('Vivos se los llevaron, vivos los queremos') se escuchó en cuatro manifestaciones en Lagos de Moreno, ya que entre el 19 y el 21 de marzo pasados se reportó la desaparición de seis estudiantes, cinco de ellos universitarios -tres de una institución privada más dos de la UdeG- y uno de secundaria. Los dos de la UdeG fueron hallados (uno aparentemente se suicidó, a decir de la FGE) y el de secundaria apareció, pero hasta el cierre de edición no se ha ubicado a los alumnos de la Universidad de Medios Audiovisuales CAAV, Javier Salomón Aceves Gastélum, Marco Ávalos y Jesús Daniel Díaz.",
-      "text": "años, se ha incrementado a un ritmo alarmante en la entidad: mientras en el sexenio del panista Emilio González Márquez se reportaron 2 mil 175 casos, en la administración que encabeza el priista Aristóteles Sandoval Díaz suman ya 14 mil 19, con el agravante de que en algunos se ha denunciado la participación de policías municipales o estatales. Durante el sexenio de Felipe Calderón desaparecieron en el país 20 mil 851 personas. El 75% de esos reportes ociales se concentraron en seis entidades, de las cuales Jalisco ocupó el tercer lugar, con 2 mil 175, después de la Ciudad de México y el Estado de México, como consta en el Informe Sobre la Situación de los Derechos Humanos en Jalisco 2012. El pasado 21 de marzo, la Comisión Estatal de Derechos Humanos de Jalisco (CEDHJ) dio a conocer, en su recomendación 3/2018, que según datos de la propia Fiscalía General del Estado (FGE) se registraron 14 mil 19 desapariciones desde 2013 hasta el 31 de octubre de 2017. De ese total, 3 mil 206 fueron reportados de enero a octubre de 2017, con lo cual Jalisco sigue ocupando el tercer lugar nacional, después de Tamaulipas (5 mil 989) y el Estado de México (3 mil 864). Pese a todo, la sociedad jalisciense parece indiferente, excepto por las asociaciones civiles que realizan marchas en las que sólo participan los afectados, para exigir al gobierno que encuentre a sus familiares. En el periodo de Emilio González, la única gran manifestación se realizó el 23 de mayo de 2012, cuando estudiantes de la Universidad de Guadalajara (UdeG) exigieron mayor seguridad, tras el asesinato de 11 de sus compañeros en seis meses. Marco Antonio Núñez, entonces líder de la Federación de Estudiantes Universitarios (FEU), declaró entonces que también tenía información sobre estudiantes desaparecidos, pero que sus familias no denunciaban por miedo. Ya con Sandoval Díaz en el Ejecutivo, seis jóvenes y un mesero, cuyas edades oscilaban entre 18 y 22 años, fueron levantados la madrugada del l7 de julio de 2013 en Lagos de Moreno. Al no localizarlos, 17 días después sus amigos y familiares se manifestaron en el jardín principal del municipio y exigieron a las autoridades frenar la inseguridad. Cuando fueron hallados sus cadáveres, el entonces scal estatal Luis Carlos Nájera informó que tras una investigación se estableció que fueron asesinados por integrantes del Cártel de Jalisco Nueva Generación (CJNG), como venganza por haberle robado dos bolsas con droga y dinero. Casi seis años después la consigna de esa ocasión ('Vivos se los llevaron, vivos los queremos') se escuchó en cuatro manifestaciones en Lagos de Moreno, ya que entre el 19 y el 21 de marzo pasados se reportó la desaparición de seis estudiantes, cinco de ellos universitarios -tres de una institución privada más dos de la UdeG- y uno de secundaria. Los dos de la UdeG fueron hallados (uno aparentemente se suicidó, a decir de la FGE) y el de secundaria apareció, pero hasta el cierre de edición no se ha ubicado a los alumnos de la Universidad de Medios Audiovisuales CAAV, Javier Salomón Aceves Gastélum, Marco Ávalos y Jesús Daniel Díaz."
+      "orig": "GUADALAJARA, Jal. (Proceso).- La desaparición de personas, en especial de  jóvenes entre 15 y 19 años, se ha incrementado a un ritmo alarmante en la entidad: mientras en el sexenio del panista Emilio González Márquez se reportaron 2 mil 175 casos, en la administración que encabeza el priista Aristóteles Sandoval Díaz suman ya 14 mil 19, con el agravante de que en algunos se ha denunciado la participación de policías municipales o estatales. Durante el sexenio de Felipe Calderón desaparecieron en el país 20 mil 851 personas. El 75% de esos reportes ociales se concentraron en seis entidades, de las cuales Jalisco ocupó el tercer lugar, con 2 mil 175, después de la Ciudad de México y el Estado de México, como consta en el Informe Sobre la Situación de los Derechos Humanos en Jalisco 2012. El pasado 21 de marzo, la Comisión Estatal de Derechos Humanos de Jalisco (CEDHJ) dio a conocer, en su recomendación 3/2018, que según datos de la propia Fiscalía General del Estado (FGE) se registraron 14 mil 19 desapariciones desde 2013 hasta el 31 de octubre de 2017. De ese total, 3 mil 206 fueron reportados de enero a octubre de 2017, con lo cual Jalisco sigue ocupando el tercer lugar nacional, después de Tamaulipas (5 mil 989) y el Estado de México (3 mil 864). Pese a todo, la sociedad jalisciense parece indiferente, excepto por las asociaciones civiles que realizan marchas en las que sólo participan los afectados, para exigir al gobierno que encuentre a sus familiares. En el periodo de Emilio González, la única gran manifestación se realizó el 23 de mayo de 2012, cuando estudiantes de la Universidad de Guadalajara (UdeG) exigieron mayor seguridad, tras el asesinato de 11 de sus compañeros en seis meses. Marco Antonio Núñez, entonces líder de la Federación de Estudiantes Universitarios (FEU), declaró entonces que también tenía información sobre estudiantes desaparecidos, pero que sus familias no denunciaban por miedo. Ya con Sandoval Díaz en el Ejecutivo, seis jóvenes y un mesero, cuyas edades oscilaban entre 18 y 22 años, fueron levantados la madrugada del l7 de julio de 2013 en Lagos de Moreno. Al no localizarlos, 17 días después sus amigos y familiares se manifestaron en el jardín principal del municipio y exigieron a las autoridades frenar la inseguridad. Cuando fueron hallados sus cadáveres, el entonces scal estatal Luis Carlos Nájera informó que tras una investigación se estableció que fueron asesinados por integrantes del Cártel de Jalisco Nueva Generación (CJNG), como venganza por haberle robado dos bolsas con droga y dinero. Casi seis años después la consigna de esa ocasión ('Vivos se los llevaron, vivos los queremos') se escuchó en cuatro manifestaciones en Lagos de Moreno, ya que entre el 19 y el 21 de marzo pasados se reportó la desaparición de seis estudiantes, cinco de ellos universitarios -tres de una institución privada más dos de la UdeG- y uno de secundaria. Los dos de la UdeG fueron hallados (uno aparentemente se suicidó, a decir de la FGE) y el de secundaria apareció, pero hasta el cierre de edición no se ha ubicado a los alumnos de la Universidad de Medios Audiovisuales CAAV, Javier Salomón Aceves Gastélum, Marco Ávalos y Jesús Daniel Díaz.",
+      "text": "GUADALAJARA, Jal. (Proceso).- La desaparición de personas, en especial de  jóvenes entre 15 y 19 años, se ha incrementado a un ritmo alarmante en la entidad: mientras en el sexenio del panista Emilio González Márquez se reportaron 2 mil 175 casos, en la administración que encabeza el priista Aristóteles Sandoval Díaz suman ya 14 mil 19, con el agravante de que en algunos se ha denunciado la participación de policías municipales o estatales. Durante el sexenio de Felipe Calderón desaparecieron en el país 20 mil 851 personas. El 75% de esos reportes ociales se concentraron en seis entidades, de las cuales Jalisco ocupó el tercer lugar, con 2 mil 175, después de la Ciudad de México y el Estado de México, como consta en el Informe Sobre la Situación de los Derechos Humanos en Jalisco 2012. El pasado 21 de marzo, la Comisión Estatal de Derechos Humanos de Jalisco (CEDHJ) dio a conocer, en su recomendación 3/2018, que según datos de la propia Fiscalía General del Estado (FGE) se registraron 14 mil 19 desapariciones desde 2013 hasta el 31 de octubre de 2017. De ese total, 3 mil 206 fueron reportados de enero a octubre de 2017, con lo cual Jalisco sigue ocupando el tercer lugar nacional, después de Tamaulipas (5 mil 989) y el Estado de México (3 mil 864). Pese a todo, la sociedad jalisciense parece indiferente, excepto por las asociaciones civiles que realizan marchas en las que sólo participan los afectados, para exigir al gobierno que encuentre a sus familiares. En el periodo de Emilio González, la única gran manifestación se realizó el 23 de mayo de 2012, cuando estudiantes de la Universidad de Guadalajara (UdeG) exigieron mayor seguridad, tras el asesinato de 11 de sus compañeros en seis meses. Marco Antonio Núñez, entonces líder de la Federación de Estudiantes Universitarios (FEU), declaró entonces que también tenía información sobre estudiantes desaparecidos, pero que sus familias no denunciaban por miedo. Ya con Sandoval Díaz en el Ejecutivo, seis jóvenes y un mesero, cuyas edades oscilaban entre 18 y 22 años, fueron levantados la madrugada del l7 de julio de 2013 en Lagos de Moreno. Al no localizarlos, 17 días después sus amigos y familiares se manifestaron en el jardín principal del municipio y exigieron a las autoridades frenar la inseguridad. Cuando fueron hallados sus cadáveres, el entonces scal estatal Luis Carlos Nájera informó que tras una investigación se estableció que fueron asesinados por integrantes del Cártel de Jalisco Nueva Generación (CJNG), como venganza por haberle robado dos bolsas con droga y dinero. Casi seis años después la consigna de esa ocasión ('Vivos se los llevaron, vivos los queremos') se escuchó en cuatro manifestaciones en Lagos de Moreno, ya que entre el 19 y el 21 de marzo pasados se reportó la desaparición de seis estudiantes, cinco de ellos universitarios -tres de una institución privada más dos de la UdeG- y uno de secundaria. Los dos de la UdeG fueron hallados (uno aparentemente se suicidó, a decir de la FGE) y el de secundaria apareció, pero hasta el cierre de edición no se ha ubicado a los alumnos de la Universidad de Medios Audiovisuales CAAV, Javier Salomón Aceves Gastélum, Marco Ávalos y Jesús Daniel Díaz."
     },
     {
-      "self_ref": "#/texts/63",
+      "self_ref": "#/texts/62",
       "parent": {
         "$ref": "#/body"
       },
@@ -2301,7 +2271,7 @@
       "text": "Ya no más una televisión para una clase media jodida: Jenaro Villamil"
     },
     {
-      "self_ref": "#/texts/64",
+      "self_ref": "#/texts/63",
       "parent": {
         "$ref": "#/body"
       },
@@ -2328,7 +2298,7 @@
       "text": "24 ENERO, 2019 Militares le disparan a una joven y la presionan para que les dé su 'perdón'"
     },
     {
-      "self_ref": "#/texts/65",
+      "self_ref": "#/texts/64",
       "parent": {
         "$ref": "#/body"
       },
@@ -2355,7 +2325,7 @@
       "text": "25 ENERO, 2019 La portada de Vogue con Yalitza Aparicio, la más difundida en la historia de la publicación"
     },
     {
-      "self_ref": "#/texts/66",
+      "self_ref": "#/texts/65",
       "parent": {
         "$ref": "#/body"
       },
@@ -2382,7 +2352,7 @@
       "text": "CARTÓN DE LA SEMANA 24 enero, 2019"
     },
     {
-      "self_ref": "#/texts/67",
+      "self_ref": "#/texts/66",
       "parent": {
         "$ref": "#/body"
       },
@@ -2409,7 +2379,7 @@
       "text": "Monosapiens"
     },
     {
-      "self_ref": "#/texts/68",
+      "self_ref": "#/texts/67",
       "parent": {
         "$ref": "#/body"
       },
@@ -2436,7 +2406,7 @@
       "text": "Ante la presión nacional y de medios de comunicación extranjeros, tras la segunda manifestación, el 23 de marzo las autoridades ofrecieron 1 millón de pesos a quien diera información que llevara a localizar a los estudiantes del CAAV."
     },
     {
-      "self_ref": "#/texts/69",
+      "self_ref": "#/texts/68",
       "parent": {
         "$ref": "#/body"
       },
@@ -2463,7 +2433,7 @@
       "text": "Ante las críticas que generó la medida por favorecer a víctimas de una institución privada, el día 25 el gobernador extendió la oferta de graticación a quien aporte datos para localizar a cualquier desaparecido."
     },
     {
-      "self_ref": "#/texts/70",
+      "self_ref": "#/texts/69",
       "parent": {
         "$ref": "#/body"
       },
@@ -2490,7 +2460,7 @@
       "text": "Pero la presión internacional ya estaba sobre el gobierno de Sandoval Díaz. El 31 de enero pasado, 29, desa  parecieron en el municipio de Tecalitlán."
     },
     {
-      "self_ref": "#/texts/71",
+      "self_ref": "#/texts/70",
       "parent": {
         "$ref": "#/body"
       },
@@ -2517,7 +2487,7 @@
       "text": "los italianos Raffaele Russo, de 60 años, su hijo Antonio, de 25, y su sobrino Vincenzo Cimmino, de En Italia hubo varias manifestaciones para exigir su localización. La más difundida se realizó el 17 de febrero, durante un partido de futbol en la ciudad de Nápoles. Hasta el momento, las indagatorias en Jalisco apuntan hacia la presunta responsabilidad de líder del CJNG y la complicidad de policías municipales. El 23 de febrero pasado un centenar de personas, en su mayoría familiares de los veracruzanos Juan y José Ángel Meléndrez Luna, Juan José Santos Meléndrez y José Meléndrez Pineda quienes desaparecieron el 1 de febrero en Autlán de Navarro-, se manifestaron frente a la FGE. Los inconformes exigieron la aparición con vida de las víctimas y que se detuviera a los cinco policías municipales que bajaron a los veracruzanos del taxi, pues esa ocasión fue la última que se les vio. El mismo día la FGE informó de la detención de cinco policías de Autlán por estar implicados en la desaparición de los veracruzanos. Laberintos burocráticos de la FGE Zonia Gómez Zúñiga busca a su hijo Jorge Eduardo Martínez Gómez, estudiante de Negocios Internacionales en el Centro Universitario de Ciencias Económico Administrativas (CUCEA) de la UdeG, a quien policías estatales sacaron el sábado 20 de febrero de 2016, a las 15:30 horas, de su domicilio en la colonia Valdepeñas, en Zapopan. Eduardo tenía apenas tres meses de rentar la vivienda, de la que subarrendaba tres habitaciones a otros jóvenes. Se mudó para llegar más rápido al CUCEA. La mañana del domingo, el padre visitó a la señora Gómez sin avisar y le informó que ocho hombres armados, identicados como elementos de la FGE y que llegaron en camionetas RAM blancas, habían 'levantado a Lalo'. Le relató que él y Eduardo habían regresado de pasear a su perro cuando -según recuerda Zonia'unas personas armadas los empujaron hacia dentro de la casa. Ahí había otro muchacho que tenía apenas tres días viviendo en ella, al que mi hijo no conocía, y se los llevaron a ambos, además de un Cadillac modelo 2000 y sus pertenencias'. El exmarido, que padecía de cáncer, no le avisó de inmediato a Zonia porque esperaba que liberaran pronto a Eduardo. Tan pronto se enteró Zonia, ella acudió a la FGE pero le aseguraron que su hijo no estaba ahí. Cuando la enviaron al área de desaparecidos recibió por whatsapp el mensaje de un amigo de los"
     },
     {
-      "self_ref": "#/texts/72",
+      "self_ref": "#/texts/71",
       "parent": {
         "$ref": "#/body"
       },
@@ -2544,7 +2514,7 @@
       "text": "LO MÁS RECIENTE"
     },
     {
-      "self_ref": "#/texts/73",
+      "self_ref": "#/texts/72",
       "parent": {
         "$ref": "#/body"
       },
@@ -2571,7 +2541,7 @@
       "text": "25 ENERO, 2019"
     },
     {
-      "self_ref": "#/texts/74",
+      "self_ref": "#/texts/73",
       "parent": {
         "$ref": "#/body"
       },
@@ -2598,7 +2568,7 @@
       "text": "Salen de Venezuela familiares de diplomáticos de EU; Guaidó teme que lo apresen"
     },
     {
-      "self_ref": "#/texts/75",
+      "self_ref": "#/texts/74",
       "parent": {
         "$ref": "#/body"
       },
@@ -2625,7 +2595,7 @@
       "text": "25 ENERO, 2019"
     },
     {
-      "self_ref": "#/texts/76",
+      "self_ref": "#/texts/75",
       "parent": {
         "$ref": "#/body"
       },
@@ -2652,7 +2622,7 @@
       "text": "Detienen a Roger Stone, excolaborador de Trump"
     },
     {
-      "self_ref": "#/texts/77",
+      "self_ref": "#/texts/76",
       "parent": {
         "$ref": "#/body"
       },
@@ -2679,7 +2649,7 @@
       "text": "25 ENERO, 2019"
     },
     {
-      "self_ref": "#/texts/78",
+      "self_ref": "#/texts/77",
       "parent": {
         "$ref": "#/body"
       },
@@ -2706,7 +2676,7 @@
       "text": "Inteligencia articial y sus límites"
     },
     {
-      "self_ref": "#/texts/79",
+      "self_ref": "#/texts/78",
       "parent": {
         "$ref": "#/body"
       },
@@ -2733,7 +2703,7 @@
       "text": "25 ENERO, 2019"
     },
     {
-      "self_ref": "#/texts/80",
+      "self_ref": "#/texts/79",
       "parent": {
         "$ref": "#/body"
       },
@@ -2760,7 +2730,7 @@
       "text": "'No descarten ninguna línea de investigación', pide a AMLO la viuda de Javier Valdez"
     },
     {
-      "self_ref": "#/texts/81",
+      "self_ref": "#/texts/80",
       "parent": {
         "$ref": "#/body"
       },
@@ -2787,7 +2757,7 @@
       "text": "25 ENERO, 2019"
     },
     {
-      "self_ref": "#/texts/82",
+      "self_ref": "#/texts/81",
       "parent": {
         "$ref": "#/body"
       },
@@ -2814,7 +2784,7 @@
       "text": "El Fonadin, otra descomunal veta de corrupción del gobierno de Peña Nieto"
     },
     {
-      "self_ref": "#/texts/83",
+      "self_ref": "#/texts/82",
       "parent": {
         "$ref": "#/body"
       },
@@ -2842,7 +2812,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/84",
+      "self_ref": "#/texts/83",
       "parent": {
         "$ref": "#/body"
       },
@@ -2869,7 +2839,7 @@
       "text": "24 enero, 2019"
     },
     {
-      "self_ref": "#/texts/85",
+      "self_ref": "#/texts/84",
       "parent": {
         "$ref": "#/body"
       },
@@ -2897,7 +2867,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/86",
+      "self_ref": "#/texts/85",
       "parent": {
         "$ref": "#/body"
       },
@@ -2938,7 +2908,7 @@
       "text": "Sara Pantoja jóvenes que subarrendaban las habitaciones: decía saber quién se había llevado a su hijo y dónde lo tenían, pero le pedía de 50 a 100 mil pesos por la información. Personal de la FGE tomó el control de su celular y respondió. Acordaron reunirse con el informante en un centro comercial, a las tres de la tarde. El Plan de la FGE era que Zonia acudiera con agentes para detener al autor del mensaje y llevarlo a declarar. A punto de trasladarse al centro comercial, la entonces directora del área de Desaparecidos de la FGE, Violeta Cristina Meza, le indicó a la señora Gómez que el área de secuestros se encargaría del asunto. Ahí decidieron que no se presentara a la cita con quien decía tener información sobre Eduardo. Zonia y su exmarido regresaron con Meza para informarle de la decisión del área de secuestros. La funcionaria llamó para que le tomaran la declaración a la señora, cuando el testigo de los hechos fue el padre de Eduardo. A él le tomaron declaración el lunes 22, mientras que la averiguación previa por el robo de auto no se abrió hasta el 24 de febrero. El vehículo tampoco ha aparecido. En secuestros le comentaron a Zonia que 'ellos no hacían investigaciones de campo, que atendían el caso porque así se los habían ordenado, y que si no había una llamada para pedir un rescate no iban a hacer nada', narra con dolor. A la tercera semana del levantón, la señora Gómez se puso en contacto con el entonces líder de la FEU, Alberto Galarza, El Rojo, quien por su cuenta de Twitter pidió a la comunidad universitaria que compartiera la foto de Eduardo por si alguien lo veía. En tanto, recuerda Zonia, 'me decían en la scalía que si yo hacía pública la situación iba a poner en riesgo la vida de mi hijo, que realmente no sabían si se trataba de un secuestro. Evidentemente no fue un secuestro, les dije, fue gente de la scalía. Les insistía en eso'. Cuando se dio a conocer el caso, el entonces scal general Eduardo Almaguer la mandó llamar. El ahora aspirante a la alcaldía de Guadalajara le reveló que él dio la orden de que su caso fuera atendido por el área de secuestros, según él porque contaba con el mejor equipo de geolocalización y personal más capacitado. Almaguer llamó a los encargados de secuestros y desaparecidos para que colaboraran en la localización de Eduardo. Pero ninguna de las áreas interrogó al joven que decía saber quién tenía al estudiante. A la persona a la que el informante señaló de retener a la víctima, la mataron el 24 de septiembre de 2016, comenta Zonia. Y a nales de junio de 2017 falleció el padre de Eduardo, quien presenció los hechos. La averiguación fue turnada al área de extorsión con el visto bueno de Fausto Mancilla, actual scal regional. A principio del año pasado el expediente 12/2016, que se abrió en el área de secuestros, se envió a la dirección de desaparecidos. 'Si hubiera entrado a desaparecidos le hubiera tocado casi el 300, porque la mamá del otro muchacho que se llevaron junto con mi hijo sí puso su denuncia en desaparecidos y le dieron un número doscientos setenta y tantos', acota. Zonia Gómez está consciente de que la policía investigadora no se da abasto para localizar al gran número de desaparecidos: 'La FGE no tiene los recursos necesarios. Yo sé que a algunos"
     },
     {
-      "self_ref": "#/texts/87",
+      "self_ref": "#/texts/86",
       "parent": {
         "$ref": "#/body"
       },
@@ -2965,7 +2935,7 @@
       "text": "CIUDAD DE MÉXICO (apro).- El gobierno de Claudia"
     },
     {
-      "self_ref": "#/texts/88",
+      "self_ref": "#/texts/87",
       "parent": {
         "$ref": "#/body"
       },
@@ -3006,7 +2976,7 @@
       "text": "Sheinbaum enfrenta el primer revés judicial derivado de obras que la gestión de su antecesor, Miguel"
     },
     {
-      "self_ref": "#/texts/89",
+      "self_ref": "#/texts/88",
       "parent": {
         "$ref": "#/body"
       },
@@ -3047,7 +3017,7 @@
       "text": "Ángel Mancera, realizó de manera irregular. Y es que, un juez federal declaró 'inconstitucional' la"
     },
     {
-      "self_ref": "#/texts/90",
+      "self_ref": "#/texts/89",
       "parent": {
         "$ref": "#/body"
       },
@@ -3074,7 +3044,7 @@
       "text": "construcción de la Línea 7 del Metrobús y ordenó"
     },
     {
-      "self_ref": "#/texts/91",
+      "self_ref": "#/texts/90",
       "parent": {
         "$ref": "#/body"
       },
@@ -3101,7 +3071,7 @@
       "text": "cumplir con ciertas normas de publicidad para"
     },
     {
-      "self_ref": "#/texts/92",
+      "self_ref": "#/texts/91",
       "parent": {
         "$ref": "#/body"
       },
@@ -3128,7 +3098,7 @@
       "text": "Leer más"
     },
     {
-      "self_ref": "#/texts/93",
+      "self_ref": "#/texts/92",
       "parent": {
         "$ref": "#/body"
       },
@@ -3155,7 +3125,7 @@
       "text": "REPORTE ESPECIAL"
     },
     {
-      "self_ref": "#/texts/94",
+      "self_ref": "#/texts/93",
       "parent": {
         "$ref": "#/body"
       },
@@ -3182,7 +3152,7 @@
       "text": "20 enero, 2019"
     },
     {
-      "self_ref": "#/texts/95",
+      "self_ref": "#/texts/94",
       "parent": {
         "$ref": "#/body"
       },
@@ -3210,7 +3180,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/96",
+      "self_ref": "#/texts/95",
       "parent": {
         "$ref": "#/body"
       },
@@ -3238,7 +3208,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/97",
+      "self_ref": "#/texts/96",
       "parent": {
         "$ref": "#/body"
       },
@@ -3279,7 +3249,7 @@
       "text": "CIUDAD DE MÉXICO (Proceso).- En vísperas de la reforma energética que abriría plenamente el"
     },
     {
-      "self_ref": "#/texts/98",
+      "self_ref": "#/texts/97",
       "parent": {
         "$ref": "#/body"
       },
@@ -3306,7 +3276,7 @@
       "text": "mercado de las gasolinas y de los hidrocarburos,"
     },
     {
-      "self_ref": "#/texts/99",
+      "self_ref": "#/texts/98",
       "parent": {
         "$ref": "#/body"
       },
@@ -3347,7 +3317,7 @@
       "text": "Pemex convocó en 2013 a una licitación pública internacional (ITS-27235) para producir, fabricar y"
     },
     {
-      "self_ref": "#/texts/100",
+      "self_ref": "#/texts/99",
       "parent": {
         "$ref": "#/body"
       },
@@ -3374,7 +3344,7 @@
       "text": "entregar 700 pipas o carrotanques, de los cuales"
     },
     {
-      "self_ref": "#/texts/101",
+      "self_ref": "#/texts/100",
       "parent": {
         "$ref": "#/body"
       },
@@ -3415,7 +3385,7 @@
       "text": "300 distribuirían gasolinas y 400 se utilizarían para desa  lojar combustóleo. La"
     },
     {
-      "self_ref": "#/texts/102",
+      "self_ref": "#/texts/101",
       "parent": {
         "$ref": "#/body"
       },
@@ -3442,7 +3412,7 @@
       "text": "Leer más"
     },
     {
-      "self_ref": "#/texts/103",
+      "self_ref": "#/texts/102",
       "parent": {
         "$ref": "#/body"
       },
@@ -3469,7 +3439,7 @@
       "text": "REPORTE ESPECIAL"
     },
     {
-      "self_ref": "#/texts/104",
+      "self_ref": "#/texts/103",
       "parent": {
         "$ref": "#/body"
       },
@@ -3496,7 +3466,7 @@
       "text": "19 enero, 2019"
     },
     {
-      "self_ref": "#/texts/105",
+      "self_ref": "#/texts/104",
       "parent": {
         "$ref": "#/body"
       },
@@ -3524,7 +3494,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/106",
+      "self_ref": "#/texts/105",
       "parent": {
         "$ref": "#/body"
       },
@@ -3551,7 +3521,7 @@
       "text": "elementos les falta voluntad, pero también les hace falta personal y recursos, no puede ser que no tengan para la gasolina'. Ella también habló en abril del año pasado con Aristóteles Sandoval, quien le dio su número de celular y le dijo que una persona de la FGE le informaría sobre los avances de la investigación. 'Jamás me llamó (el gobernador), no me contestó ni una llamada. O sea que te dan la atención, pero realmente no te resuelven el problema. Es mentira', lamenta. Para colmo, dice, personal de la FGE le recomendó que 'ya no le moviera; no vaya andar de revoltosa porque muy seguramente a los que se llevaron a su hijo no les va a gustar. Usted cuide a su hijito, cuídese. Eran consejos de prudencia, pero realmente era amedrentamiento oculto'. Zonia acudió con un abogado de la Comisión Estatal de Atención a Víctimas (CEAV) para consultar el expediente de su hijo, pero no se lo permitieron 'por su protección y sigilo'. Posteriormente el Ministerio Público le advirtió que si llevaba al 'abogadillo' de la CEAV no la atendería. En diciembre pasado la señora presentó una queja ante la CEDHJ, que ya presidía Alfonso Hernández Barrón, porque, conesa, 'no teníamos mucha conanza en el anterior presidente'. Presunta complicidad policiaca Esa falta de coordinación policiaca y las amenazas veladas se repiten en otros casos, como el de Martha Leticia García, quien desde el 4 de agosto de 2017 busca a su hijo César Ulises Quintero García, de 19 años, quien fue visto por última vez en Ocotlán. Estudiaba en el Centro Universitario de la Ciénega, con sede en La Barca, donde vive su familia. César Ulises laboró durante las vacaciones en una granja y, como no regresaba, Martha llamó a su celular a las 14 horas del viernes 4 de agosto, pero no respondió. Horas después le informaron que César Ulises había sido detenido con el hijo de su patrón y otras dos personas. La señora García contrató un abogado, quien le cobró 'una fuerte cantidad' por informarle que César estaba detenido con una persona de 55 años, pero al día siguiente armó que el joven no estaba encarcelado. Ella acudió a las instalaciones de la FGE en Guadalajara, donde también negaron que tuvieran a su hijo. Cuando quiso interponer una queja en la CEDHJ, le dijeron que era imposible porque 'no había un registro de César' entre los detenidos por la FGE. El lunes fue a la agencia del Ministerio Público de Ocotlán, donde le hicieron preguntas muy especícas (¿su hijo es mesero?, ¿qué estudia?, ¿a qué fue a Ocotlán?). 'Pensé: ya encontré a mi hijo. Lo último que me preguntó fue si mi hijo traía un celular grande. El funcionario encuadró con la mano el tamaño del celular de mi hijo. Yo le dije: 'Así es de grande' (…) Ya nada más se metió las manos al pantalón y me dijo: 'Pues no, nosotros no lo tenemos''. Señala que la mayor parte de la carpeta de investigación 1558/2017, sobre la desaparición de su hijo, ha corrido a cargo de ella: 'Uno aporta, uno se mete de lleno a indagar, a darles líneas de investigación, pero yo no he visto resultados'. Como los encargados de investigar ya no le toman la llamada, la señora García decidió enviar el expediente a Guadalajara."
     },
     {
-      "self_ref": "#/texts/107",
+      "self_ref": "#/texts/106",
       "parent": {
         "$ref": "#/body"
       },
@@ -3578,7 +3548,7 @@
       "text": "Arturo Rodríguez García Antes de que Enrique Peña Nieto dejara el poder, Pemex otorgó 36 contratos por adjudicación directa a empresas de transporte de hidrocarburos ligadas con políticos del PRI y del PAN. De esa forma, el rubro de transporte con pipas o autotanques se encuentra copado por esa élite de proveedores, que en conjunto se embolsaron más Leer más REPORTE ESPECIAL 19 enero, 2019 La nueva abogada de Pemex, con negros antecedentes Álvaro Delgado Con una trayectoria patrocinada por Enrique Peña Nieto y Eruviel Ávila en el Estado de México, donde está implicada en prácticas de corrupción y defraudación electoral, María de la Luz Zarza Delgado es la nueva abogada de Pemex. Este cargo representa una posición estratégica para el combate al robo de combustible que ha emprendido el"
     },
     {
-      "self_ref": "#/texts/108",
+      "self_ref": "#/texts/107",
       "parent": {
         "$ref": "#/body"
       },
@@ -3605,7 +3575,7 @@
       "text": "Leer más"
     },
     {
-      "self_ref": "#/texts/109",
+      "self_ref": "#/texts/108",
       "parent": {
         "$ref": "#/body"
       },
@@ -3632,7 +3602,7 @@
       "text": "Es prácticamente la misma experiencia de Mayra Hernández. Un grupo de policías estatales que llegó en camionetas ociales se llevó a su hijo Antonio Reynoso Hernández de una esta familiar en Tlaquepaque, el 30 de agosto de 2013, cuando tenía 24 años."
     },
     {
-      "self_ref": "#/texts/110",
+      "self_ref": "#/texts/109",
       "parent": {
         "$ref": "#/body"
       },
@@ -3659,7 +3629,7 @@
       "text": "Los uniformados detuvieron a cuatro personas, pero Antonio no estaba entre ellas cuando las presentaron ante la autoridad. 'Lo empecé a buscar desde entonces. Fui a todas las dependencias, pero en ninguna me dieron noticias de él. Contraté un abogado. Por medio de él me di cuenta de que mi hijo no está detenido, y a partir de entonces empieza mi martirio. Son cuatro años y medio, y todavía no sé nada', dice Mayra."
     },
     {
-      "self_ref": "#/texts/111",
+      "self_ref": "#/texts/110",
       "parent": {
         "$ref": "#/body"
       },
@@ -3686,7 +3656,7 @@
       "text": "Al presumirse desaparición forzada con participación de policías del estado, la denuncia de Mayra se envió a la Visitaduría General de la FGE, pero después se canalizó al área de desaparecidos 'y hasta hoy no han hecho nada', dice la afectada."
     },
     {
-      "self_ref": "#/texts/112",
+      "self_ref": "#/texts/111",
       "parent": {
         "$ref": "#/body"
       },
@@ -3713,7 +3683,7 @@
       "text": "Ella vio cuando los uniformados lo subieron a la camioneta con los otros tres. Los policías declararon que Antonio huyó."
     },
     {
-      "self_ref": "#/texts/113",
+      "self_ref": "#/texts/112",
       "parent": {
         "$ref": "#/body"
       },
@@ -3740,7 +3710,7 @@
       "text": "Este reportaje se publicó el 1 de abril de 2018 en la edición 2161 de la revista Proceso."
     },
     {
-      "self_ref": "#/texts/114",
+      "self_ref": "#/texts/113",
       "parent": {
         "$ref": "#/body"
       },
@@ -3768,7 +3738,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/115",
+      "self_ref": "#/texts/114",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -3795,7 +3765,7 @@
       "text": "Curoncws"
     },
     {
-      "self_ref": "#/texts/116",
+      "self_ref": "#/texts/115",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -3822,7 +3792,7 @@
       "text": "no comment"
     },
     {
-      "self_ref": "#/texts/117",
+      "self_ref": "#/texts/116",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -3849,7 +3819,7 @@
       "text": "London, UK 02.12.2014"
     },
     {
-      "self_ref": "#/texts/118",
+      "self_ref": "#/texts/117",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -3876,7 +3846,7 @@
       "text": "video en curso"
     },
     {
-      "self_ref": "#/texts/119",
+      "self_ref": "#/texts/118",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -3903,7 +3873,7 @@
       "text": "AhqclDmGLYPH<c=3,font=/Roboto-Bold>OhcdqDGLYPH<c=3,font=/Roboto-Bold>OnrGLYPH<c=3,font=/Roboto-Bold>FOnanrGLYPH<c=3,font=/Roboto-Bold>cdGLYPH<c=3,font=/Roboto-Bold>Nqn"
     },
     {
-      "self_ref": "#/texts/120",
+      "self_ref": "#/texts/119",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -3930,7 +3900,7 @@
       "text": "00.01.03"
     },
     {
-      "self_ref": "#/texts/121",
+      "self_ref": "#/texts/120",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -3957,7 +3927,7 @@
       "text": "$qfdmshmDGLYPH<c=3,font=/Roboto-Bold>hqiGLYPH<c=3,font=/Roboto-Bold>DOnrGLYPH<c=3,font=/Roboto-Bold>NrbDqrGLYPH<c=3,font=/Roboto-Bold>bnm"
     },
     {
-      "self_ref": "#/texts/122",
+      "self_ref": "#/texts/121",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -3984,7 +3954,7 @@
       "text": "5dODsnrGLYPH<c=3,font=/Roboto-Bold>RDOuDidr"
     },
     {
-      "self_ref": "#/texts/123",
+      "self_ref": "#/texts/122",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -4011,7 +3981,7 @@
       "text": "06.GLYPH<c=19,font=/Roboto-Bold>0.04"
     },
     {
-      "self_ref": "#/texts/124",
+      "self_ref": "#/texts/123",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -4038,7 +4008,7 @@
       "text": "Lp["
     },
     {
-      "self_ref": "#/texts/125",
+      "self_ref": "#/texts/124",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -4065,7 +4035,7 @@
       "text": "drst"
     },
     {
-      "self_ref": "#/texts/126",
+      "self_ref": "#/texts/125",
       "parent": {
         "$ref": "#/pictures/9"
       },
@@ -4092,7 +4062,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/127",
+      "self_ref": "#/texts/126",
       "parent": {
         "$ref": "#/pictures/9"
       },
@@ -4119,7 +4089,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/128",
+      "self_ref": "#/texts/127",
       "parent": {
         "$ref": "#/pictures/9"
       },
@@ -4146,7 +4116,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/129",
+      "self_ref": "#/texts/128",
       "parent": {
         "$ref": "#/pictures/9"
       },
@@ -4173,7 +4143,7 @@
       "text": "0"
     },
     {
-      "self_ref": "#/texts/130",
+      "self_ref": "#/texts/129",
       "parent": {
         "$ref": "#/body"
       },
@@ -4200,7 +4170,7 @@
       "text": "ARTÍCULOS RELACIONADOS"
     },
     {
-      "self_ref": "#/texts/131",
+      "self_ref": "#/texts/130",
       "parent": {
         "$ref": "#/body"
       },
@@ -4227,7 +4197,7 @@
       "text": "Seguir a @GloReza"
     },
     {
-      "self_ref": "#/texts/132",
+      "self_ref": "#/texts/131",
       "parent": {
         "$ref": "#/body"
       },
@@ -4254,7 +4224,7 @@
       "text": "POR MATHIEU TOURLIERE"
     },
     {
-      "self_ref": "#/texts/133",
+      "self_ref": "#/texts/132",
       "parent": {
         "$ref": "#/body"
       },
@@ -4281,7 +4251,7 @@
       "text": "- 25 ENERO, 2019"
     },
     {
-      "self_ref": "#/texts/134",
+      "self_ref": "#/texts/133",
       "parent": {
         "$ref": "#/body"
       },
@@ -4308,7 +4278,7 @@
       "text": "El Fonadin, otra descomunal veta de corrupción del gobierno de Peña Nieto"
     },
     {
-      "self_ref": "#/texts/135",
+      "self_ref": "#/texts/134",
       "parent": {
         "$ref": "#/body"
       },
@@ -4335,7 +4305,7 @@
       "text": "POR SARA PANTOJA"
     },
     {
-      "self_ref": "#/texts/136",
+      "self_ref": "#/texts/135",
       "parent": {
         "$ref": "#/body"
       },
@@ -4362,7 +4332,7 @@
       "text": "- 24 ENERO, 2019"
     },
     {
-      "self_ref": "#/texts/137",
+      "self_ref": "#/texts/136",
       "parent": {
         "$ref": "#/body"
       },
@@ -4389,7 +4359,7 @@
       "text": "Sheinbaum enfrenta primer revés judicial, herencia de Mancera: La 'inconstitucional' Línea 7 del Metrobús"
     },
     {
-      "self_ref": "#/texts/138",
+      "self_ref": "#/texts/137",
       "parent": {
         "$ref": "#/body"
       },
@@ -4416,7 +4386,7 @@
       "text": "POR GLORIA REZA M."
     },
     {
-      "self_ref": "#/texts/139",
+      "self_ref": "#/texts/138",
       "parent": {
         "$ref": "#/body"
       },
@@ -4443,7 +4413,7 @@
       "text": "- 24 ENERO, 2019"
     },
     {
-      "self_ref": "#/texts/140",
+      "self_ref": "#/texts/139",
       "parent": {
         "$ref": "#/body"
       },
@@ -4484,7 +4454,7 @@
       "text": "Exigen a AMLO normalizar el abasto de combustible en Jalisco theLotter.com | Patrocinado ¿1,6 billones de dólares? ¡La mayor lotería del mundo llega a Ecuador!"
     },
     {
-      "self_ref": "#/texts/141",
+      "self_ref": "#/texts/140",
       "parent": {
         "$ref": "#/body"
       },
@@ -4511,7 +4481,7 @@
       "text": "Una experta en lingüística explica como hablar inglés con solo 20 minutos de estudio al día."
     },
     {
-      "self_ref": "#/texts/142",
+      "self_ref": "#/texts/141",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -4538,7 +4508,7 @@
       "text": "Fast Phrases | Patrocinado"
     },
     {
-      "self_ref": "#/texts/143",
+      "self_ref": "#/texts/142",
       "parent": {
         "$ref": "#/body"
       },
@@ -4565,7 +4535,7 @@
       "text": "COMENTARIOS"
     },
     {
-      "self_ref": "#/texts/144",
+      "self_ref": "#/texts/143",
       "parent": {
         "$ref": "#/body"
       },
@@ -4592,7 +4562,7 @@
       "text": "6 Comments"
     },
     {
-      "self_ref": "#/texts/145",
+      "self_ref": "#/texts/144",
       "parent": {
         "$ref": "#/body"
       },
@@ -4619,7 +4589,7 @@
       "text": "Add a comment..."
     },
     {
-      "self_ref": "#/texts/146",
+      "self_ref": "#/texts/145",
       "parent": {
         "$ref": "#/body"
       },
@@ -4647,7 +4617,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/147",
+      "self_ref": "#/texts/146",
       "parent": {
         "$ref": "#/body"
       },
@@ -4674,7 +4644,7 @@
       "text": "Muy cabron el asunto ¡¡, Esperemos el gober haga algo y se pongan a chambear y escuchar las propue en este tema y tampoco escucho a los presindeciables que chongados haran ¡¡"
     },
     {
-      "self_ref": "#/texts/148",
+      "self_ref": "#/texts/147",
       "parent": {
         "$ref": "#/body"
       },
@@ -4701,7 +4671,7 @@
       "text": "Like · Reply · 42w"
     },
     {
-      "self_ref": "#/texts/149",
+      "self_ref": "#/texts/148",
       "parent": {
         "$ref": "#/body"
       },
@@ -4728,7 +4698,7 @@
       "text": "Luis Cobra"
     },
     {
-      "self_ref": "#/texts/150",
+      "self_ref": "#/texts/149",
       "parent": {
         "$ref": "#/body"
       },
@@ -4755,7 +4725,7 @@
       "text": "Jalisquillos putillos, que dejados son. Valemadristas ahhhhh pero para la joteria son rebuenos"
     },
     {
-      "self_ref": "#/texts/151",
+      "self_ref": "#/texts/150",
       "parent": {
         "$ref": "#/body"
       },
@@ -4782,7 +4752,7 @@
       "text": "Like · Reply · 42w"
     },
     {
-      "self_ref": "#/texts/152",
+      "self_ref": "#/texts/151",
       "parent": {
         "$ref": "#/body"
       },
@@ -4809,7 +4779,7 @@
       "text": "Jj Ma"
     },
     {
-      "self_ref": "#/texts/153",
+      "self_ref": "#/texts/152",
       "parent": {
         "$ref": "#/body"
       },
@@ -4836,7 +4806,7 @@
       "text": "Jalisco, el estado de México y Tamaulipas tienen algo en común. Incluso otros estados han pasado por solo mencionare a Coahuila y hace unos años Veracruz. La cosa no va a mejorar mientras que la gente por una despensa, tarjeta rosa, tele, etc."
     },
     {
-      "self_ref": "#/texts/154",
+      "self_ref": "#/texts/153",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -4863,7 +4833,7 @@
       "text": "Like · Reply ·"
     },
     {
-      "self_ref": "#/texts/155",
+      "self_ref": "#/texts/154",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -4890,7 +4860,7 @@
       "text": "1 · 42w"
     },
     {
-      "self_ref": "#/texts/156",
+      "self_ref": "#/texts/155",
       "parent": {
         "$ref": "#/body"
       },
@@ -4918,7 +4888,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/157",
+      "self_ref": "#/texts/156",
       "parent": {
         "$ref": "#/body"
       },
@@ -4945,7 +4915,7 @@
       "text": "NO SE PUEDE ESPERAR OTRA COSA: LOS CUERPOS POLICIACOS ESTAN conformados por pura se venderan siempre, siempre, al mejor postor. ademas saben que estan en un pais sin ley con cerca d impunidad."
     },
     {
-      "self_ref": "#/texts/158",
+      "self_ref": "#/texts/157",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -4972,7 +4942,7 @@
       "text": "Like · Reply ·"
     },
     {
-      "self_ref": "#/texts/159",
+      "self_ref": "#/texts/158",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -4999,7 +4969,7 @@
       "text": "1 · 42w"
     },
     {
-      "self_ref": "#/texts/160",
+      "self_ref": "#/texts/159",
       "parent": {
         "$ref": "#/body"
       },
@@ -5027,7 +4997,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/161",
+      "self_ref": "#/texts/160",
       "parent": {
         "$ref": "#/body"
       },
@@ -5054,7 +5024,7 @@
       "text": "Mientras tanto el honorable gobernador Ratistonteles Sandoval sólo sigue hablando pendejadas y lle de dinero para él y para la campaña de Miados.. Sigan votando por las ratas del Prian...."
     },
     {
-      "self_ref": "#/texts/162",
+      "self_ref": "#/texts/161",
       "parent": {
         "$ref": "#/body"
       },
@@ -5081,7 +5051,7 @@
       "text": "Like · Reply · 42w"
     },
     {
-      "self_ref": "#/texts/163",
+      "self_ref": "#/texts/162",
       "parent": {
         "$ref": "#/body"
       },
@@ -5108,7 +5078,7 @@
       "text": "Facebook Comments Plugin"
     },
     {
-      "self_ref": "#/texts/164",
+      "self_ref": "#/texts/163",
       "parent": {
         "$ref": "#/body"
       },
@@ -5136,7 +5106,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/165",
+      "self_ref": "#/texts/164",
       "parent": {
         "$ref": "#/body"
       },
@@ -5163,7 +5133,7 @@
       "text": "Proceso NUEVA YORK (apro).- Isaías Valdez Ríos, Memín, exintegrante del Grupo Aeromóvil de Fuerzas Especiales (GAFE) del Ejército Mexicano, sicario y piloto del Cártel de Sinaloa, …"
     },
     {
-      "self_ref": "#/texts/166",
+      "self_ref": "#/texts/165",
       "parent": {
         "$ref": "#/body"
       },
@@ -5190,7 +5160,7 @@
       "text": "ADVERTISEMENT"
     },
     {
-      "self_ref": "#/texts/167",
+      "self_ref": "#/texts/166",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -5234,10 +5204,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 47.75404357910156,
-            "t": 713.5631561279297,
-            "r": 211.64439392089844,
-            "b": 679.6584396362305,
+            "l": 47.753204345703125,
+            "t": 713.5630950927734,
+            "r": 211.64495849609375,
+            "b": 679.6589126586914,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5282,10 +5252,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 40.66209411621094,
-            "t": 593.8886566162109,
-            "r": 392.8639831542969,
-            "b": 339.4360656738281,
+            "l": 40.661346435546875,
+            "t": 593.8890380859375,
+            "r": 392.86297607421875,
+            "b": 339.4358825683594,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5319,10 +5289,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 56.03127670288086,
-            "t": 223.01202392578125,
-            "r": 65.60142517089844,
-            "b": 214.23516845703125,
+            "l": 56.03159713745117,
+            "t": 223.01165771484375,
+            "r": 65.60100555419922,
+            "b": 214.2353515625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5352,10 +5322,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 101.39808654785156,
-            "t": 224.349853515625,
-            "r": 107.42630004882812,
-            "b": 213.67779541015625,
+            "l": 101.39747619628906,
+            "t": 224.34991455078125,
+            "r": 107.42706298828125,
+            "b": 213.6771240234375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5388,10 +5358,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 140.24557495117188,
-            "t": 223.7694091796875,
-            "r": 154.9590301513672,
-            "b": 213.523681640625,
+            "l": 140.24501037597656,
+            "t": 223.76837158203125,
+            "r": 154.9604949951172,
+            "b": 213.52276611328125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5421,10 +5391,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 427.87066650390625,
-            "t": 755.1798782348633,
-            "r": 435.2514953613281,
-            "b": 747.2766609191895,
+            "l": 427.8709411621094,
+            "t": 755.1804161071777,
+            "r": 435.25177001953125,
+            "b": 747.2765464782715,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5454,10 +5424,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 522.3855590820312,
-            "t": 734.1501579284668,
-            "r": 579.7515869140625,
-            "b": 659.5138702392578,
+            "l": 522.38525390625,
+            "t": 734.1493339538574,
+            "r": 579.7512817382812,
+            "b": 659.5139923095703,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5478,13 +5448,13 @@
       },
       "children": [
         {
+          "$ref": "#/texts/114"
+        },
+        {
           "$ref": "#/texts/115"
         },
         {
           "$ref": "#/texts/116"
-        },
-        {
-          "$ref": "#/texts/117"
         }
       ],
       "content_layer": "body",
@@ -5493,10 +5463,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 40.64162063598633,
-            "t": 461.49853515625,
-            "r": 342.3477783203125,
-            "b": 291.6912536621094,
+            "l": 40.640586853027344,
+            "t": 461.4996032714844,
+            "r": 342.3483581542969,
+            "b": 291.69097900390625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5517,6 +5487,9 @@
       },
       "children": [
         {
+          "$ref": "#/texts/117"
+        },
+        {
           "$ref": "#/texts/118"
         },
         {
@@ -5536,9 +5509,6 @@
         },
         {
           "$ref": "#/texts/124"
-        },
-        {
-          "$ref": "#/texts/125"
         }
       ],
       "content_layer": "body",
@@ -5547,10 +5517,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 41.24304962158203,
-            "t": 281.9908142089844,
-            "r": 343.3834533691406,
-            "b": 208.57891845703125,
+            "l": 41.24209213256836,
+            "t": 281.99200439453125,
+            "r": 343.38458251953125,
+            "b": 208.57916259765625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5571,6 +5541,9 @@
       },
       "children": [
         {
+          "$ref": "#/texts/125"
+        },
+        {
           "$ref": "#/texts/126"
         },
         {
@@ -5578,9 +5551,6 @@
         },
         {
           "$ref": "#/texts/128"
-        },
-        {
-          "$ref": "#/texts/129"
         }
       ],
       "content_layer": "body",
@@ -5589,10 +5559,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 55.41578674316406,
-            "t": 193.19781494140625,
-            "r": 155.4672088623047,
-            "b": 181.45208740234375,
+            "l": 55.41568374633789,
+            "t": 193.197998046875,
+            "r": 155.46664428710938,
+            "b": 181.4515380859375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5618,10 +5588,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 44.6942253112793,
-            "t": 730.7893371582031,
-            "r": 70.35237121582031,
-            "b": 705.3165969848633,
+            "l": 44.693695068359375,
+            "t": 730.7894477844238,
+            "r": 70.35242462158203,
+            "b": 705.3169326782227,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5647,10 +5617,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 44.47794723510742,
+            "l": 44.47770309448242,
             "t": 692.6045227050781,
-            "r": 70.3637924194336,
-            "b": 666.5024719238281,
+            "r": 70.36420440673828,
+            "b": 666.5019073486328,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5676,10 +5646,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 44.733604431152344,
-            "t": 644.6868591308594,
-            "r": 70.1858139038086,
-            "b": 619.9100189208984,
+            "l": 44.73217010498047,
+            "t": 644.6859893798828,
+            "r": 70.18610382080078,
+            "b": 619.9105987548828,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5705,10 +5675,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 44.57571792602539,
-            "t": 606.4140319824219,
-            "r": 70.12466430664062,
-            "b": 580.2486419677734,
+            "l": 44.57464599609375,
+            "t": 606.4142761230469,
+            "r": 70.12482452392578,
+            "b": 580.2483978271484,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5734,10 +5704,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 44.59288787841797,
-            "t": 547.4671936035156,
-            "r": 70.33698272705078,
-            "b": 521.8793029785156,
+            "l": 44.59196853637695,
+            "t": 547.4672393798828,
+            "r": 70.33723449707031,
+            "b": 521.8792724609375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5763,10 +5733,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 44.656578063964844,
-            "t": 488.8318176269531,
-            "r": 70.10798645019531,
-            "b": 463.0277099609375,
+            "l": 44.656044006347656,
+            "t": 488.8320007324219,
+            "r": 70.10780334472656,
+            "b": 463.0293273925781,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5794,10 +5764,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 40.2532844543457,
-            "t": 132.3489990234375,
-            "r": 499.1164245605469,
-            "b": 39.0274658203125,
+            "l": 40.25053024291992,
+            "t": 132.3475341796875,
+            "r": 499.114013671875,
+            "b": 39.03472900390625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6387,10 +6357,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 36.68691635131836,
-            "t": 760.488603591919,
-            "r": 519.5178833007812,
-            "b": 680.7965393066406,
+            "l": 36.710792541503906,
+            "t": 760.4919700622559,
+            "r": 519.5107421875,
+            "b": 680.7964172363281,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

@@ -114,13 +114,10 @@
         "$ref": "#/pictures/3"
       },
       {
-        "$ref": "#/texts/47"
+        "$ref": "#/texts/48"
       },
       {
         "$ref": "#/pictures/4"
-      },
-      {
-        "$ref": "#/texts/50"
       },
       {
         "$ref": "#/texts/51"
@@ -135,10 +132,10 @@
         "$ref": "#/texts/54"
       },
       {
-        "$ref": "#/pictures/5"
+        "$ref": "#/texts/55"
       },
       {
-        "$ref": "#/texts/63"
+        "$ref": "#/pictures/5"
       },
       {
         "$ref": "#/texts/64"
@@ -148,6 +145,9 @@
       },
       {
         "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
       }
     ],
     "content_layer": "body",
@@ -1406,9 +1406,9 @@
           "page_no": 2,
           "bbox": {
             "l": 48.0,
-            "t": 441.0,
+            "t": 440.6666666666667,
             "r": 131.33333333333331,
-            "b": 422.3333333333333,
+            "b": 422.0,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1417,8 +1417,8 @@
           ]
         }
       ],
-      "orig": "Página 84",
-      "text": "Página 84"
+      "orig": "Página 34",
+      "text": "Página 34"
     },
     {
       "self_ref": "#/texts/43",
@@ -1427,29 +1427,55 @@
       },
       "children": [],
       "content_layer": "body",
-      "label": "section_header",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 30.666666666666668,
+            "t": 402.3333333333333,
+            "r": 134.66666666666669,
+            "b": 386.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Alfaro quedó a deber:",
+      "text": "Alfaro quedó a deber:"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
       "prov": [
         {
           "page_no": 2,
           "bbox": {
             "l": 25.666666666666664,
-            "t": 402.3333333333333,
+            "t": 390.3333333333333,
             "r": 139.0,
             "b": 376.3333333333333,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             0,
-            46
+            24
           ]
         }
       ],
-      "orig": "Alfaro quedó a deber: Víctimas del 22 de abril",
-      "text": "Alfaro quedó a deber: Víctimas del 22 de abril",
-      "level": 1
+      "orig": "Víctimas del 22 de abril",
+      "text": "Víctimas del 22 de abril"
     },
     {
-      "self_ref": "#/texts/44",
+      "self_ref": "#/texts/45",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -1476,7 +1502,7 @@
       "text": "11 trabajadores de la salud"
     },
     {
-      "self_ref": "#/texts/45",
+      "self_ref": "#/texts/46",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -1503,7 +1529,7 @@
       "text": "denunciaron agresiones"
     },
     {
-      "self_ref": "#/texts/46",
+      "self_ref": "#/texts/47",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -1530,7 +1556,7 @@
       "text": "do"
     },
     {
-      "self_ref": "#/texts/47",
+      "self_ref": "#/texts/48",
       "parent": {
         "$ref": "#/body"
       },
@@ -1558,7 +1584,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/48",
+      "self_ref": "#/texts/49",
       "parent": {
         "$ref": "#/pictures/4"
       },
@@ -1585,7 +1611,7 @@
       "text": "Página 84"
     },
     {
-      "self_ref": "#/texts/49",
+      "self_ref": "#/texts/50",
       "parent": {
         "$ref": "#/pictures/4"
       },
@@ -1613,7 +1639,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/50",
+      "self_ref": "#/texts/51",
       "parent": {
         "$ref": "#/body"
       },
@@ -1640,7 +1666,7 @@
       "text": "`Ya Salio!"
     },
     {
-      "self_ref": "#/texts/51",
+      "self_ref": "#/texts/52",
       "parent": {
         "$ref": "#/body"
       },
@@ -1667,7 +1693,7 @@
       "text": "https://pagina24jalisco.com.mx/2018/04/21/local/feu-da-espaldarazo-al-fiscal-para-desaparecidos/"
     },
     {
-      "self_ref": "#/texts/52",
+      "self_ref": "#/texts/53",
       "parent": {
         "$ref": "#/body"
       },
@@ -1694,7 +1720,7 @@
       "text": "Página 2 de 3"
     },
     {
-      "self_ref": "#/texts/53",
+      "self_ref": "#/texts/54",
       "parent": {
         "$ref": "#/body"
       },
@@ -1721,7 +1747,7 @@
       "text": "FEU da espaldarazo al fiscal para desaparecidos | Página 24 Jalisco"
     },
     {
-      "self_ref": "#/texts/54",
+      "self_ref": "#/texts/55",
       "parent": {
         "$ref": "#/body"
       },
@@ -1748,7 +1774,7 @@
       "text": "4/23/20 1(52 PM"
     },
     {
-      "self_ref": "#/texts/55",
+      "self_ref": "#/texts/56",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1775,7 +1801,7 @@
       "text": "FRIBUNA LIBRE"
     },
     {
-      "self_ref": "#/texts/56",
+      "self_ref": "#/texts/57",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1802,7 +1828,7 @@
       "text": "JALISCO"
     },
     {
-      "self_ref": "#/texts/57",
+      "self_ref": "#/texts/58",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1829,7 +1855,7 @@
       "text": "Un feminicidio mas, ahora en el lago"
     },
     {
-      "self_ref": "#/texts/58",
+      "self_ref": "#/texts/59",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1856,7 +1882,7 @@
       "text": "iElecutada"
     },
     {
-      "self_ref": "#/texts/59",
+      "self_ref": "#/texts/60",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1883,7 +1909,7 @@
       "text": "en Chapalal"
     },
     {
-      "self_ref": "#/texts/60",
+      "self_ref": "#/texts/61",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1910,7 +1936,7 @@
       "text": "Animales depredaron el cadaver"
     },
     {
-      "self_ref": "#/texts/61",
+      "self_ref": "#/texts/62",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1937,7 +1963,7 @@
       "text": "i~Yen playa de PV"
     },
     {
-      "self_ref": "#/texts/62",
+      "self_ref": "#/texts/63",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1964,7 +1990,7 @@
       "text": "hallan osamenta!"
     },
     {
-      "self_ref": "#/texts/63",
+      "self_ref": "#/texts/64",
       "parent": {
         "$ref": "#/body"
       },
@@ -1991,7 +2017,7 @@
       "text": "' Página 24 es una marca registrada ante el IMPI"
     },
     {
-      "self_ref": "#/texts/64",
+      "self_ref": "#/texts/65",
       "parent": {
         "$ref": "#/body"
       },
@@ -2018,7 +2044,7 @@
       "text": "Página 24 El mejor periodismo diario. RESERVA DE DERECHOS AL USO EXCLUSIVO DEL TITULO N¡ 04-2017-020215514600-203 EXPEDIDA POR EL INDAUTOR Consulte nuestro aviso de Privacidad"
     },
     {
-      "self_ref": "#/texts/65",
+      "self_ref": "#/texts/66",
       "parent": {
         "$ref": "#/body"
       },
@@ -2045,7 +2071,7 @@
       "text": "https://pagina24jalisco.com.mx/2018/04/21/local/feu-da-espaldarazo-al-fiscal-para-desaparecidos/"
     },
     {
-      "self_ref": "#/texts/66",
+      "self_ref": "#/texts/67",
       "parent": {
         "$ref": "#/body"
       },
@@ -2085,10 +2111,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 40.71794509887695,
-            "t": 744.808837890625,
+            "l": 40.71561813354492,
+            "t": 744.8102264404297,
             "r": 161.7758331298828,
-            "b": 646.0471954345703,
+            "b": 646.0470428466797,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2118,10 +2144,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 21.545482635498047,
-            "t": 364.076904296875,
-            "r": 448.2677917480469,
-            "b": 113.09197998046875,
+            "l": 21.54462432861328,
+            "t": 364.07855224609375,
+            "r": 448.2691345214844,
+            "b": 113.09222412109375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2151,10 +2177,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 21.32749366760254,
-            "t": 576.2439422607422,
-            "r": 52.314727783203125,
-            "b": 544.6136779785156,
+            "l": 21.32707977294922,
+            "t": 576.2475433349609,
+            "r": 52.317352294921875,
+            "b": 544.6121368408203,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2188,6 +2214,9 @@
         },
         {
           "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
         }
       ],
       "content_layer": "body",
@@ -2196,10 +2225,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 24.18659210205078,
-            "t": 441.0873107910156,
-            "r": 139.4990997314453,
-            "b": 284.59271240234375,
+            "l": 24.18195152282715,
+            "t": 441.08984375,
+            "r": 139.49929809570312,
+            "b": 284.59564208984375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2220,10 +2249,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/48"
+          "$ref": "#/texts/49"
         },
         {
-          "$ref": "#/texts/49"
+          "$ref": "#/texts/50"
         }
       ],
       "content_layer": "body",
@@ -2232,10 +2261,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 25.11644172668457,
-            "t": 246.22149658203125,
-            "r": 138.23745727539062,
-            "b": 93.2093505859375,
+            "l": 25.11029815673828,
+            "t": 246.22418212890625,
+            "r": 138.24337768554688,
+            "b": 93.21014404296875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2256,9 +2285,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/55"
-        },
-        {
           "$ref": "#/texts/56"
         },
         {
@@ -2278,6 +2304,9 @@
         },
         {
           "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
         }
       ],
       "content_layer": "body",
@@ -2286,10 +2315,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 25.758039474487305,
-            "t": 746.4642448425293,
-            "r": 137.13865661621094,
-            "b": 593.1890106201172,
+            "l": 25.757707595825195,
+            "t": 746.4641990661621,
+            "r": 137.1392059326172,
+            "b": 593.1884460449219,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

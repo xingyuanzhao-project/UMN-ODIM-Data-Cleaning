@@ -144,12 +144,6 @@
         "$ref": "#/pictures/7"
       },
       {
-        "$ref": "#/texts/49"
-      },
-      {
-        "$ref": "#/texts/50"
-      },
-      {
         "$ref": "#/texts/51"
       },
       {
@@ -162,16 +156,22 @@
         "$ref": "#/texts/54"
       },
       {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
         "$ref": "#/groups/4"
       },
       {
-        "$ref": "#/texts/65"
-      },
-      {
-        "$ref": "#/texts/66"
-      },
-      {
         "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
       }
     ],
     "content_layer": "body",
@@ -256,12 +256,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/55"
-        },
-        {
-          "$ref": "#/texts/56"
-        },
-        {
           "$ref": "#/texts/57"
         },
         {
@@ -284,6 +278,12 @@
         },
         {
           "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
         }
       ],
       "content_layer": "body",
@@ -1527,22 +1527,76 @@
           "page_no": 4,
           "bbox": {
             "l": 197.33333333333334,
+            "t": 745.9199829101562,
+            "r": 400.0,
+            "b": 731.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Inforrnes por ese medio 0 al 8112861744",
+      "text": "Inforrnes por ese medio 0 al 8112861744"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 198.0,
             "t": 731.9199829101562,
             "r": 410.0,
+            "b": 717.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "NOTA: la última ves que se le vió portaba la",
+      "text": "NOTA: la última ves que se le vió portaba la"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 197.33333333333334,
+            "t": 717.9199829101562,
+            "r": 300.6666666666667,
             "b": 703.9199829101562,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             0,
-            65
+            20
           ]
         }
       ],
-      "orig": "NOTA: la última ves que se le vió portaba la ropa como en la foto",
-      "text": "NOTA: la última ves que se le vió portaba la ropa como en la foto"
+      "orig": "ropa como en la foto",
+      "text": "ropa como en la foto"
     },
     {
-      "self_ref": "#/texts/46",
+      "self_ref": "#/texts/48",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -1569,7 +1623,7 @@
       "text": "La última vez que se le vio fue en Salinas"
     },
     {
-      "self_ref": "#/texts/47",
+      "self_ref": "#/texts/49",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -1596,7 +1650,7 @@
       "text": "Victoria"
     },
     {
-      "self_ref": "#/texts/48",
+      "self_ref": "#/texts/50",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -1623,7 +1677,7 @@
       "text": "Comparte y difunde por favor"
     },
     {
-      "self_ref": "#/texts/49",
+      "self_ref": "#/texts/51",
       "parent": {
         "$ref": "#/body"
       },
@@ -1650,7 +1704,7 @@
       "text": "Han pasado 17 días desde que su hijo desapreció, los cuales considera que han sido cruciales para su localización, pero la indiferencia de los investigadores no ha dado resultados."
     },
     {
-      "self_ref": "#/texts/50",
+      "self_ref": "#/texts/52",
       "parent": {
         "$ref": "#/body"
       },
@@ -1677,7 +1731,7 @@
       "text": "'Quiero denunciar que las autoridades nada más así me traen. No me dicen nada; ya son 17 días y no apresuran esta situación. Los del GEBI me dijeron desde acá lo vamos a buscar, o sea ¿cómo?, no entiendo, todos los días voy, todos los días les hablo."
     },
     {
-      "self_ref": "#/texts/51",
+      "self_ref": "#/texts/53",
       "parent": {
         "$ref": "#/body"
       },
@@ -1704,7 +1758,7 @@
       "text": "'Los ministeriales sólo me dicen que es que 'los muchachos (amigos de Carlos) tienen miedo y están mintiendo y no podemos hacer nada'', relató Marisol."
     },
     {
-      "self_ref": "#/texts/52",
+      "self_ref": "#/texts/54",
       "parent": {
         "$ref": "#/body"
       },
@@ -1731,7 +1785,7 @@
       "text": "El Registro Nacional de Datos de Personas Extraviadas o Desaparecidas, RNPED ha reportado que Nuevo León ocupa el quinto lugar con personas desaparecidas en México en carpetas del fuero común, dando una cifra oficial de 2 mil 636."
     },
     {
-      "self_ref": "#/texts/53",
+      "self_ref": "#/texts/55",
       "parent": {
         "$ref": "#/body"
       },
@@ -1758,7 +1812,7 @@
       "text": "Organizaciones como Fuerzas Unidas por Nuestros Desaparecidos Nuevo León (FUNDENL) y Ciudadanos en Apoyo a los Derechos Humanos (CADHAC), han evidenciado en repetidas ocasiones que pese a lo anterior, las autoridades estatales no han atendido sus demandas desde que inició la presente administración estatal."
     },
     {
-      "self_ref": "#/texts/54",
+      "self_ref": "#/texts/56",
       "parent": {
         "$ref": "#/body"
       },
@@ -1785,7 +1839,7 @@
       "text": "Han declarado que los trabajos de búsqueda inmediata de desaparecidos y de localización e identificación de restos, se han detenido desde la llegada de Jaime Rodríguez como gobernador y sólo se han dado algunos acercamientos desde que arribó el nuevo fiscal general, Gustavo Guerrero."
     },
     {
-      "self_ref": "#/texts/55",
+      "self_ref": "#/texts/57",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -1812,7 +1866,7 @@
       "text": "Te puede interesar:"
     },
     {
-      "self_ref": "#/texts/56",
+      "self_ref": "#/texts/58",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -1839,7 +1893,7 @@
       "text": "Te puede interesar:"
     },
     {
-      "self_ref": "#/texts/57",
+      "self_ref": "#/texts/59",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -1866,7 +1920,7 @@
       "text": "Comparte"
     },
     {
-      "self_ref": "#/texts/58",
+      "self_ref": "#/texts/60",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -1893,7 +1947,7 @@
       "text": "Gobierno de Nuevo León contempla tarifa única de transporte"
     },
     {
-      "self_ref": "#/texts/59",
+      "self_ref": "#/texts/61",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -1920,7 +1974,7 @@
       "text": "¿Qué hay de regalo para Mamá?"
     },
     {
-      "self_ref": "#/texts/60",
+      "self_ref": "#/texts/62",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -1948,7 +2002,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/61",
+      "self_ref": "#/texts/63",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -1975,7 +2029,7 @@
       "text": "VIDEO: Riña entre aficionados Rayados y Tigres dejan al menos un herido"
     },
     {
-      "self_ref": "#/texts/62",
+      "self_ref": "#/texts/64",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2002,7 +2056,7 @@
       "text": "Convierten ciudadanos el 21K de Guadalupe en una tradición deportiva"
     },
     {
-      "self_ref": "#/texts/63",
+      "self_ref": "#/texts/65",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2029,7 +2083,7 @@
       "text": "VIDEO: Mujeres riñen en paso peatonal Morelos"
     },
     {
-      "self_ref": "#/texts/64",
+      "self_ref": "#/texts/66",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2056,7 +2110,7 @@
       "text": "Encuentran cabeza humana en Guadalupe"
     },
     {
-      "self_ref": "#/texts/65",
+      "self_ref": "#/texts/67",
       "parent": {
         "$ref": "#/body"
       },
@@ -2083,7 +2137,7 @@
       "text": "Realiza Monterrey Carrera 5K Fundadores"
     },
     {
-      "self_ref": "#/texts/66",
+      "self_ref": "#/texts/68",
       "parent": {
         "$ref": "#/body"
       },
@@ -2110,7 +2164,7 @@
       "text": "Quién es Posta"
     },
     {
-      "self_ref": "#/texts/67",
+      "self_ref": "#/texts/69",
       "parent": {
         "$ref": "#/body"
       },
@@ -2150,10 +2204,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 34.91490173339844,
-            "t": 543.4721984863281,
-            "r": 560.35009765625,
-            "b": 263.0787353515625,
+            "l": 34.91493606567383,
+            "t": 543.47265625,
+            "r": 560.3514404296875,
+            "b": 263.07745361328125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2183,10 +2237,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 35.2503662109375,
+            "l": 35.25029754638672,
             "t": 226.6900634765625,
-            "r": 139.2873077392578,
-            "b": 198.4576416015625,
+            "r": 139.28744506835938,
+            "b": 198.457275390625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2212,10 +2266,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 38.24708557128906,
-            "t": 550.8967590332031,
-            "r": 61.17414093017578,
-            "b": 532.387451171875,
+            "l": 38.246849060058594,
+            "t": 550.8974304199219,
+            "r": 61.175262451171875,
+            "b": 532.3844604492188,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2241,10 +2295,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 59.484676361083984,
-            "t": 813.9770355224609,
-            "r": 105.23892211914062,
-            "b": 766.3531265258789,
+            "l": 59.48180389404297,
+            "t": 813.9763793945312,
+            "r": 105.2387924194336,
+            "b": 766.3522491455078,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2270,10 +2324,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 58.76065444946289,
-            "t": 746.629280090332,
-            "r": 231.8882293701172,
-            "b": 548.7919921875,
+            "l": 58.740360260009766,
+            "t": 746.6361312866211,
+            "r": 231.8983917236328,
+            "b": 548.7870788574219,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2299,10 +2353,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 50.36286926269531,
-            "t": 492.99493408203125,
-            "r": 138.34222412109375,
-            "b": 448.57208251953125,
+            "l": 50.365966796875,
+            "t": 493.0021057128906,
+            "r": 138.34304809570312,
+            "b": 448.5680236816406,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2332,10 +2386,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 435.13800048828125,
-            "t": 482.6134338378906,
-            "r": 541.2833862304688,
-            "b": 448.344970703125,
+            "l": 435.135498046875,
+            "t": 482.6401062011719,
+            "r": 541.2903442382812,
+            "b": 448.26531982421875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2378,6 +2432,12 @@
         },
         {
           "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
         }
       ],
       "content_layer": "body",
@@ -2386,10 +2446,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 35.08745574951172,
-            "t": 814.6505908966064,
-            "r": 560.3091430664062,
-            "b": 392.4537658691406,
+            "l": 35.088111877441406,
+            "t": 814.6501636505127,
+            "r": 560.3125610351562,
+            "b": 392.4527587890625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

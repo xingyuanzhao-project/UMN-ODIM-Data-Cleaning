@@ -495,9 +495,6 @@
         "$ref": "#/texts/190"
       },
       {
-        "$ref": "#/texts/191"
-      },
-      {
         "$ref": "#/pictures/10"
       },
       {
@@ -507,31 +504,31 @@
         "$ref": "#/pictures/12"
       },
       {
-        "$ref": "#/texts/192"
+        "$ref": "#/texts/191"
       },
       {
-        "$ref": "#/texts/193"
+        "$ref": "#/texts/192"
       },
       {
         "$ref": "#/pictures/13"
       },
       {
-        "$ref": "#/texts/194"
+        "$ref": "#/texts/193"
       },
       {
         "$ref": "#/pictures/14"
       },
       {
-        "$ref": "#/texts/196"
+        "$ref": "#/texts/195"
       },
       {
         "$ref": "#/pictures/15"
       },
       {
-        "$ref": "#/texts/210"
+        "$ref": "#/texts/209"
       },
       {
-        "$ref": "#/texts/211"
+        "$ref": "#/texts/210"
       }
     ],
     "content_layer": "body",
@@ -5868,48 +5865,21 @@
           "bbox": {
             "l": 3.558,
             "t": 455.438,
-            "r": 21.217,
-            "b": 446.116,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            3
-          ]
-        }
-      ],
-      "orig": "nes",
-      "text": "nes"
-    },
-    {
-      "self_ref": "#/texts/189",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 8,
-          "bbox": {
-            "l": 26.0,
-            "t": 455.438,
             "r": 230.511,
             "b": 446.116,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             0,
-            50
+            54
           ]
         }
       ],
-      "orig": "Anúnciate DERECHOS RESERVADOS © GRUPO MILENIO 2019",
-      "text": "Anúnciate DERECHOS RESERVADOS © GRUPO MILENIO 2019"
+      "orig": "nes Anúnciate DERECHOS RESERVADOS © GRUPO MILENIO 2019",
+      "text": "nes Anúnciate DERECHOS RESERVADOS © GRUPO MILENIO 2019"
     },
     {
-      "self_ref": "#/texts/190",
+      "self_ref": "#/texts/189",
       "parent": {
         "$ref": "#/body"
       },
@@ -5936,7 +5906,7 @@
       "text": "iones)"
     },
     {
-      "self_ref": "#/texts/191",
+      "self_ref": "#/texts/190",
       "parent": {
         "$ref": "#/body"
       },
@@ -5963,7 +5933,7 @@
       "text": "(http://publicidad.milenio.com/2019/MediaKit/index.html)"
     },
     {
-      "self_ref": "#/texts/192",
+      "self_ref": "#/texts/191",
       "parent": {
         "$ref": "#/body"
       },
@@ -5990,7 +5960,7 @@
       "text": "Cada mensaje que nos llega de ustedes, cada mensaje que se publica en este foro, lo leemos y seleccionamos. Por favor, sigan escribiendo, solo pedimos buen criterio. Aquí hay lugar para casi todo: réplicas y contrarréplicas, datos duros, sugerencias de lecturas, humor, muestras de inconformidad y de indignación y hasta bromas. Solo pedimos civilidad y respeto."
     },
     {
-      "self_ref": "#/texts/193",
+      "self_ref": "#/texts/192",
       "parent": {
         "$ref": "#/body"
       },
@@ -6017,7 +5987,7 @@
       "text": "Directorio (/quienessomos) Visítanos en"
     },
     {
-      "self_ref": "#/texts/194",
+      "self_ref": "#/texts/193",
       "parent": {
         "$ref": "#/body"
       },
@@ -6045,7 +6015,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/195",
+      "self_ref": "#/texts/194",
       "parent": {
         "$ref": "#/pictures/14"
       },
@@ -6072,7 +6042,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/196",
+      "self_ref": "#/texts/195",
       "parent": {
         "$ref": "#/body"
       },
@@ -6099,7 +6069,7 @@
       "text": "(https:"
     },
     {
-      "self_ref": "#/texts/197",
+      "self_ref": "#/texts/196",
       "parent": {
         "$ref": "#/pictures/15"
       },
@@ -6126,7 +6096,7 @@
       "text": "Privacidad (/aviso-de- privacidad) ! \""
     },
     {
-      "self_ref": "#/texts/198",
+      "self_ref": "#/texts/197",
       "parent": {
         "$ref": "#/pictures/15"
       },
@@ -6153,7 +6123,7 @@
       "text": "Aviso"
     },
     {
-      "self_ref": "#/texts/199",
+      "self_ref": "#/texts/198",
       "parent": {
         "$ref": "#/pictures/15"
       },
@@ -6180,7 +6150,7 @@
       "text": "Legal"
     },
     {
-      "self_ref": "#/texts/200",
+      "self_ref": "#/texts/199",
       "parent": {
         "$ref": "#/pictures/15"
       },
@@ -6207,7 +6177,7 @@
       "text": "(/aviso-"
     },
     {
-      "self_ref": "#/texts/201",
+      "self_ref": "#/texts/200",
       "parent": {
         "$ref": "#/pictures/15"
       },
@@ -6234,7 +6204,7 @@
       "text": "legal)"
     },
     {
-      "self_ref": "#/texts/202",
+      "self_ref": "#/texts/201",
       "parent": {
         "$ref": "#/pictures/15"
       },
@@ -6261,7 +6231,7 @@
       "text": "(https://www.facebook.co"
     },
     {
-      "self_ref": "#/texts/203",
+      "self_ref": "#/texts/202",
       "parent": {
         "$ref": "#/pictures/15"
       },
@@ -6288,7 +6258,7 @@
       "text": "(https://twitter.com/"
     },
     {
-      "self_ref": "#/texts/204",
+      "self_ref": "#/texts/203",
       "parent": {
         "$ref": "#/pictures/15"
       },
@@ -6315,7 +6285,7 @@
       "text": "#"
     },
     {
-      "self_ref": "#/texts/205",
+      "self_ref": "#/texts/204",
       "parent": {
         "$ref": "#/pictures/15"
       },
@@ -6342,7 +6312,7 @@
       "text": "(https://www.ins"
     },
     {
-      "self_ref": "#/texts/206",
+      "self_ref": "#/texts/205",
       "parent": {
         "$ref": "#/pictures/15"
       },
@@ -6369,7 +6339,7 @@
       "text": "hl=en)"
     },
     {
-      "self_ref": "#/texts/207",
+      "self_ref": "#/texts/206",
       "parent": {
         "$ref": "#/pictures/15"
       },
@@ -6396,7 +6366,7 @@
       "text": "+"
     },
     {
-      "self_ref": "#/texts/208",
+      "self_ref": "#/texts/207",
       "parent": {
         "$ref": "#/pictures/15"
       },
@@ -6423,7 +6393,7 @@
       "text": "(https://plu"
     },
     {
-      "self_ref": "#/texts/209",
+      "self_ref": "#/texts/208",
       "parent": {
         "$ref": "#/pictures/15"
       },
@@ -6450,7 +6420,7 @@
       "text": "%"
     },
     {
-      "self_ref": "#/texts/210",
+      "self_ref": "#/texts/209",
       "parent": {
         "$ref": "#/body"
       },
@@ -6477,7 +6447,7 @@
       "text": "https://www.milenio.com/policia/emiten-alerta-amber-menor-tlajomulco-desaparecido"
     },
     {
-      "self_ref": "#/texts/211",
+      "self_ref": "#/texts/210",
       "parent": {
         "$ref": "#/body"
       },
@@ -6527,10 +6497,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 25.111557006835938,
-            "t": 716.0353317260742,
-            "r": 403.2120056152344,
-            "b": 681.3170852661133,
+            "l": 25.11418342590332,
+            "t": 716.03662109375,
+            "r": 403.2123718261719,
+            "b": 681.3151168823242,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6560,10 +6530,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 25.88947296142578,
-            "t": 661.7474365234375,
-            "r": 39.236793518066406,
-            "b": 648.4714660644531,
+            "l": 25.889522552490234,
+            "t": 661.7468566894531,
+            "r": 39.23713302612305,
+            "b": 648.4709625244141,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6589,10 +6559,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 89.26734924316406,
-            "t": 364.0093994140625,
-            "r": 117.07454681396484,
-            "b": 336.4098205566406,
+            "l": 89.2664566040039,
+            "t": 364.00885009765625,
+            "r": 117.07379913330078,
+            "b": 336.409912109375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6618,10 +6588,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 120.02391052246094,
-            "t": 363.99188232421875,
-            "r": 148.05987548828125,
-            "b": 336.48321533203125,
+            "l": 120.0243148803711,
+            "t": 363.9920349121094,
+            "r": 148.06028747558594,
+            "b": 336.4828796386719,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6651,10 +6621,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 568.6064453125,
-            "t": 704.9831619262695,
-            "r": 586.4127197265625,
-            "b": 686.9583435058594,
+            "l": 568.6063842773438,
+            "t": 704.9835052490234,
+            "r": 586.413330078125,
+            "b": 686.9571762084961,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6680,10 +6650,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 151.3407745361328,
-            "t": 364.2567138671875,
-            "r": 179.97079467773438,
-            "b": 336.231689453125,
+            "l": 151.3411865234375,
+            "t": 364.2554626464844,
+            "r": 179.97085571289062,
+            "b": 336.23175048828125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6713,10 +6683,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 65.24053955078125,
-            "t": 722.8410568237305,
-            "r": 583.7222290039062,
-            "b": 630.0941925048828,
+            "l": 65.226806640625,
+            "t": 722.8374710083008,
+            "r": 583.7337036132812,
+            "b": 630.0839996337891,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6742,10 +6712,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 36.07970428466797,
-            "t": 604.0513305664062,
-            "r": 345.0118408203125,
-            "b": 246.57305908203125,
+            "l": 36.08087158203125,
+            "t": 604.0510711669922,
+            "r": 345.01104736328125,
+            "b": 246.57232666015625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6771,10 +6741,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 305.7550354003906,
-            "t": 550.5375671386719,
-            "r": 328.247802734375,
-            "b": 530.3200378417969,
+            "l": 305.75469970703125,
+            "t": 550.5386047363281,
+            "r": 328.2479248046875,
+            "b": 530.3199462890625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6800,10 +6770,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 23.549358367919922,
-            "t": 512.4876098632812,
-            "r": 70.49687194824219,
-            "b": 472.5648498535156,
+            "l": 23.546672821044922,
+            "t": 512.4904174804688,
+            "r": 70.49667358398438,
+            "b": 472.5661315917969,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6829,10 +6799,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 45.340248107910156,
-            "t": 445.9460144042969,
-            "r": 146.53651428222656,
-            "b": 422.1766052246094,
+            "l": 45.35860061645508,
+            "t": 445.9530029296875,
+            "r": 146.56373596191406,
+            "b": 422.17327880859375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6858,10 +6828,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 149.33705139160156,
-            "t": 440.9346923828125,
-            "r": 212.14002990722656,
-            "b": 421.25823974609375,
+            "l": 149.34596252441406,
+            "t": 440.9353942871094,
+            "r": 212.1372528076172,
+            "b": 421.25872802734375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6887,10 +6857,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 224.81661987304688,
-            "t": 444.076171875,
-            "r": 249.6035614013672,
-            "b": 421.560791015625,
+            "l": 224.8157196044922,
+            "t": 444.0763244628906,
+            "r": 249.60630798339844,
+            "b": 421.56146240234375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6916,10 +6886,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 263.3392333984375,
-            "t": 441.3924560546875,
-            "r": 328.9117126464844,
-            "b": 421.3451232910156,
+            "l": 263.33795166015625,
+            "t": 441.3930358886719,
+            "r": 328.9129638671875,
+            "b": 421.3467712402344,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6940,7 +6910,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/195"
+          "$ref": "#/texts/194"
         }
       ],
       "content_layer": "body",
@@ -6949,10 +6919,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 560.8276977539062,
-            "t": 497.7220764160156,
-            "r": 570.8071899414062,
-            "b": 485.4846496582031,
+            "l": 560.8245239257812,
+            "t": 497.7237854003906,
+            "r": 570.8092651367188,
+            "b": 485.4838562011719,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6972,6 +6942,9 @@
         "$ref": "#/body"
       },
       "children": [
+        {
+          "$ref": "#/texts/196"
+        },
         {
           "$ref": "#/texts/197"
         },
@@ -7007,9 +6980,6 @@
         },
         {
           "$ref": "#/texts/208"
-        },
-        {
-          "$ref": "#/texts/209"
         }
       ],
       "content_layer": "body",
@@ -7018,10 +6988,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 418.90673828125,
-            "t": 471.1585998535156,
-            "r": 594.3646240234375,
-            "b": 405.2576904296875,
+            "l": 418.9015197753906,
+            "t": 471.1494445800781,
+            "r": 594.3682861328125,
+            "b": 405.2637939453125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "En 2 años Policía de Chilpancingo desapareció a 20 jóvenes  padres; Amnistía avizora otro Ayotzi",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13029352648011548329,
+    "filename": "En 2 años Policía de Chilpancingo desapareció a 20 jóvenes  padres; Amnistía avizora otro Ayotzi.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.41305234375,
+            "r": 620.233,
+            "b": 601.07005234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "El Mañanero Diario SITIO EN MANTENIMIENTO Contrataciones y cualquier duda relacionada a este sitio aquí .",
+      "text": "El Mañanero Diario SITIO EN MANTENIMIENTO Contrataciones y cualquier duda relacionada a este sitio aquí ."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 627.0045776367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

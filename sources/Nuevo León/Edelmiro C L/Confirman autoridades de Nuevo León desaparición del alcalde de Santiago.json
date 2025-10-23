@@ -291,16 +291,19 @@
         "$ref": "#/pictures/11"
       },
       {
-        "$ref": "#/texts/102"
+        "$ref": "#/texts/101"
       },
       {
         "$ref": "#/pictures/12"
       },
       {
-        "$ref": "#/texts/103"
+        "$ref": "#/texts/102"
       },
       {
         "$ref": "#/pictures/13"
+      },
+      {
+        "$ref": "#/texts/105"
       },
       {
         "$ref": "#/texts/106"
@@ -342,13 +345,13 @@
         "$ref": "#/texts/118"
       },
       {
-        "$ref": "#/texts/119"
-      },
-      {
         "$ref": "#/pictures/14"
       },
       {
         "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/119"
       },
       {
         "$ref": "#/texts/120"
@@ -406,9 +409,6 @@
       },
       {
         "$ref": "#/texts/138"
-      },
-      {
-        "$ref": "#/texts/139"
       }
     ],
     "content_layer": "body",
@@ -3000,33 +3000,6 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 305.66666666666663,
-            "t": 160.33333333333331,
-            "r": 329.66666666666663,
-            "b": 145.66666666666669,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            2
-          ]
-        }
-      ],
-      "orig": "RA",
-      "text": "RA"
-    },
-    {
-      "self_ref": "#/texts/95",
-      "parent": {
-        "$ref": "#/pictures/10"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
             "l": 350.33333333333337,
             "t": 159.0,
             "r": 375.0,
@@ -3043,7 +3016,7 @@
       "text": "ER"
     },
     {
-      "self_ref": "#/texts/96",
+      "self_ref": "#/texts/95",
       "parent": {
         "$ref": "#/pictures/10"
       },
@@ -3070,7 +3043,7 @@
       "text": "Van"
     },
     {
-      "self_ref": "#/texts/97",
+      "self_ref": "#/texts/96",
       "parent": {
         "$ref": "#/pictures/10"
       },
@@ -3097,7 +3070,7 @@
       "text": "Por"
     },
     {
-      "self_ref": "#/texts/98",
+      "self_ref": "#/texts/97",
       "parent": {
         "$ref": "#/pictures/10"
       },
@@ -3124,7 +3097,7 @@
       "text": "México"
     },
     {
-      "self_ref": "#/texts/99",
+      "self_ref": "#/texts/98",
       "parent": {
         "$ref": "#/pictures/10"
       },
@@ -3151,7 +3124,7 @@
       "text": "GRNDES"
     },
     {
-      "self_ref": "#/texts/100",
+      "self_ref": "#/texts/99",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -3178,7 +3151,7 @@
       "text": "top"
     },
     {
-      "self_ref": "#/texts/101",
+      "self_ref": "#/texts/100",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -3205,7 +3178,7 @@
       "text": "(e"
     },
     {
-      "self_ref": "#/texts/102",
+      "self_ref": "#/texts/101",
       "parent": {
         "$ref": "#/body"
       },
@@ -3232,7 +3205,7 @@
       "text": "Ex chofer de AMLO le pide empleo por los años de lealtad; hoy vende flores"
     },
     {
-      "self_ref": "#/texts/103",
+      "self_ref": "#/texts/102",
       "parent": {
         "$ref": "#/body"
       },
@@ -3259,7 +3232,7 @@
       "text": "Recibe Claudia Heredia Presea de Oro Internacional 'Ray Tico'"
     },
     {
-      "self_ref": "#/texts/104",
+      "self_ref": "#/texts/103",
       "parent": {
         "$ref": "#/pictures/13"
       },
@@ -3286,7 +3259,7 @@
       "text": "HEARI"
     },
     {
-      "self_ref": "#/texts/105",
+      "self_ref": "#/texts/104",
       "parent": {
         "$ref": "#/pictures/13"
       },
@@ -3313,7 +3286,7 @@
       "text": "PPEVENTION"
     },
     {
-      "self_ref": "#/texts/106",
+      "self_ref": "#/texts/105",
       "parent": {
         "$ref": "#/body"
       },
@@ -3340,7 +3313,7 @@
       "text": "https://www.horacero.com.mx/nacional/confirman-autoridades-de-nuevo-leon-desaparicion-del-alcalde-de-santiago/"
     },
     {
-      "self_ref": "#/texts/107",
+      "self_ref": "#/texts/106",
       "parent": {
         "$ref": "#/body"
       },
@@ -3367,7 +3340,7 @@
       "text": "4/6"
     },
     {
-      "self_ref": "#/texts/108",
+      "self_ref": "#/texts/107",
       "parent": {
         "$ref": "#/body"
       },
@@ -3394,7 +3367,7 @@
       "text": "30/8/2019"
     },
     {
-      "self_ref": "#/texts/109",
+      "self_ref": "#/texts/108",
       "parent": {
         "$ref": "#/body"
       },
@@ -3421,7 +3394,7 @@
       "text": "REYNOSA"
     },
     {
-      "self_ref": "#/texts/110",
+      "self_ref": "#/texts/109",
       "parent": {
         "$ref": "#/body"
       },
@@ -3448,7 +3421,7 @@
       "text": "TAMAULIPAS"
     },
     {
-      "self_ref": "#/texts/111",
+      "self_ref": "#/texts/110",
       "parent": {
         "$ref": "#/body"
       },
@@ -3475,7 +3448,7 @@
       "text": "Confirman autoridades de Nuevo León desaparición del alcalde de Santiago"
     },
     {
-      "self_ref": "#/texts/112",
+      "self_ref": "#/texts/111",
       "parent": {
         "$ref": "#/body"
       },
@@ -3502,7 +3475,7 @@
       "text": "NUEVO LEÓN"
     },
     {
-      "self_ref": "#/texts/113",
+      "self_ref": "#/texts/112",
       "parent": {
         "$ref": "#/body"
       },
@@ -3529,7 +3502,7 @@
       "text": "NACIONAL"
     },
     {
-      "self_ref": "#/texts/114",
+      "self_ref": "#/texts/113",
       "parent": {
         "$ref": "#/body"
       },
@@ -3556,7 +3529,7 @@
       "text": "INTERNACIONAL"
     },
     {
-      "self_ref": "#/texts/115",
+      "self_ref": "#/texts/114",
       "parent": {
         "$ref": "#/body"
       },
@@ -3583,7 +3556,7 @@
       "text": "COLUMNAS"
     },
     {
-      "self_ref": "#/texts/116",
+      "self_ref": "#/texts/115",
       "parent": {
         "$ref": "#/body"
       },
@@ -3610,7 +3583,7 @@
       "text": "DEPORTES"
     },
     {
-      "self_ref": "#/texts/117",
+      "self_ref": "#/texts/116",
       "parent": {
         "$ref": "#/body"
       },
@@ -3637,7 +3610,7 @@
       "text": "VIRAL"
     },
     {
-      "self_ref": "#/texts/118",
+      "self_ref": "#/texts/117",
       "parent": {
         "$ref": "#/body"
       },
@@ -3664,7 +3637,7 @@
       "text": "PORTADA"
     },
     {
-      "self_ref": "#/texts/119",
+      "self_ref": "#/texts/118",
       "parent": {
         "$ref": "#/body"
       },
@@ -3691,7 +3664,7 @@
       "text": "FINANZAS"
     },
     {
-      "self_ref": "#/texts/120",
+      "self_ref": "#/texts/119",
       "parent": {
         "$ref": "#/body"
       },
@@ -3718,7 +3691,7 @@
       "text": "ESPECTÁCULOS Y MÁS"
     },
     {
-      "self_ref": "#/texts/121",
+      "self_ref": "#/texts/120",
       "parent": {
         "$ref": "#/body"
       },
@@ -3745,7 +3718,7 @@
       "text": "https://www.horacero.com.mx/nacional/confirman-autoridades-de-nuevo-leon-desaparicion-del-alcalde-de-santiago/"
     },
     {
-      "self_ref": "#/texts/122",
+      "self_ref": "#/texts/121",
       "parent": {
         "$ref": "#/body"
       },
@@ -3772,7 +3745,7 @@
       "text": "5/6"
     },
     {
-      "self_ref": "#/texts/123",
+      "self_ref": "#/texts/122",
       "parent": {
         "$ref": "#/body"
       },
@@ -3799,7 +3772,7 @@
       "text": "30/8/2019"
     },
     {
-      "self_ref": "#/texts/124",
+      "self_ref": "#/texts/123",
       "parent": {
         "$ref": "#/body"
       },
@@ -3826,7 +3799,7 @@
       "text": "Confirman autoridades de Nuevo León desaparición del alcalde de Santiago"
     },
     {
-      "self_ref": "#/texts/125",
+      "self_ref": "#/texts/124",
       "parent": {
         "$ref": "#/body"
       },
@@ -3853,7 +3826,7 @@
       "text": "PORTADA"
     },
     {
-      "self_ref": "#/texts/126",
+      "self_ref": "#/texts/125",
       "parent": {
         "$ref": "#/body"
       },
@@ -3880,7 +3853,7 @@
       "text": "REYNOSA"
     },
     {
-      "self_ref": "#/texts/127",
+      "self_ref": "#/texts/126",
       "parent": {
         "$ref": "#/body"
       },
@@ -3907,7 +3880,7 @@
       "text": "Copyright © 2017 Hora Cero Web | Te informa. Te forma ·"
     },
     {
-      "self_ref": "#/texts/128",
+      "self_ref": "#/texts/127",
       "parent": {
         "$ref": "#/body"
       },
@@ -3948,7 +3921,7 @@
       "text": "Este sitio ha sido optimizado con el estándar W3C. Le sugerimos usar navegadores apegados al estándar; como Mozila Firefox, Google Chrome o Internet Explorer 8+. ©"
     },
     {
-      "self_ref": "#/texts/129",
+      "self_ref": "#/texts/128",
       "parent": {
         "$ref": "#/body"
       },
@@ -3975,7 +3948,7 @@
       "text": "NACIONAL"
     },
     {
-      "self_ref": "#/texts/130",
+      "self_ref": "#/texts/129",
       "parent": {
         "$ref": "#/body"
       },
@@ -4002,7 +3975,7 @@
       "text": "INTERNACIONAL"
     },
     {
-      "self_ref": "#/texts/131",
+      "self_ref": "#/texts/130",
       "parent": {
         "$ref": "#/body"
       },
@@ -4029,7 +4002,7 @@
       "text": "TAMAULIPAS"
     },
     {
-      "self_ref": "#/texts/132",
+      "self_ref": "#/texts/131",
       "parent": {
         "$ref": "#/body"
       },
@@ -4056,7 +4029,7 @@
       "text": "NUEVO LEÓN"
     },
     {
-      "self_ref": "#/texts/133",
+      "self_ref": "#/texts/132",
       "parent": {
         "$ref": "#/body"
       },
@@ -4083,7 +4056,7 @@
       "text": "COLUMNAS"
     },
     {
-      "self_ref": "#/texts/134",
+      "self_ref": "#/texts/133",
       "parent": {
         "$ref": "#/body"
       },
@@ -4110,7 +4083,7 @@
       "text": "DEPORTES"
     },
     {
-      "self_ref": "#/texts/135",
+      "self_ref": "#/texts/134",
       "parent": {
         "$ref": "#/body"
       },
@@ -4137,7 +4110,7 @@
       "text": "VIRAL"
     },
     {
-      "self_ref": "#/texts/136",
+      "self_ref": "#/texts/135",
       "parent": {
         "$ref": "#/body"
       },
@@ -4164,7 +4137,7 @@
       "text": "FINANZAS"
     },
     {
-      "self_ref": "#/texts/137",
+      "self_ref": "#/texts/136",
       "parent": {
         "$ref": "#/body"
       },
@@ -4191,7 +4164,7 @@
       "text": "ESPECTÁCULOS Y MÁS"
     },
     {
-      "self_ref": "#/texts/138",
+      "self_ref": "#/texts/137",
       "parent": {
         "$ref": "#/body"
       },
@@ -4218,7 +4191,7 @@
       "text": "https://www.horacero.com.mx/nacional/confirman-autoridades-de-nuevo-leon-desaparicion-del-alcalde-de-santiago/"
     },
     {
-      "self_ref": "#/texts/139",
+      "self_ref": "#/texts/138",
       "parent": {
         "$ref": "#/body"
       },
@@ -4271,10 +4244,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 559.015869140625,
-            "t": 480.9123840332031,
-            "r": 742.96142578125,
-            "b": 345.7744140625,
+            "l": 559.0157470703125,
+            "t": 480.91131591796875,
+            "r": 742.9614868164062,
+            "b": 345.7748107910156,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4300,10 +4273,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 625.4398803710938,
-            "t": 279.6484069824219,
-            "r": 677.7173461914062,
-            "b": 242.87139892578125,
+            "l": 625.4387817382812,
+            "t": 279.6474914550781,
+            "r": 677.7265625,
+            "b": 242.87237548828125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4329,10 +4302,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 625.4624633789062,
-            "t": 160.86679077148438,
-            "r": 677.6705932617188,
-            "b": 123.71463012695312,
+            "l": 625.4605712890625,
+            "t": 160.86709594726562,
+            "r": 677.6724243164062,
+            "b": 123.7154541015625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4362,10 +4335,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 49.18038558959961,
-            "t": 481.42193603515625,
-            "r": 467.94403076171875,
-            "b": 314.506591796875,
+            "l": 49.17941665649414,
+            "t": 481.42169189453125,
+            "r": 467.9465026855469,
+            "b": 314.5066833496094,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4402,10 +4375,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 573.691162109375,
-            "t": 402.81817626953125,
-            "r": 728.339599609375,
-            "b": 347.6775207519531,
+            "l": 573.6908569335938,
+            "t": 402.8144989013672,
+            "r": 728.3394775390625,
+            "b": 347.67779541015625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4441,10 +4414,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 582.6754760742188,
-            "t": 328.4917907714844,
-            "r": 722.48486328125,
-            "b": 291.29827880859375,
+            "l": 582.6722412109375,
+            "t": 328.4923095703125,
+            "r": 722.4861450195312,
+            "b": 291.29931640625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4474,9 +4447,9 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 558.7261352539062,
-            "t": 236.9891357421875,
-            "r": 743.5216064453125,
+            "l": 558.7234497070312,
+            "t": 236.98941040039062,
+            "r": 743.5225219726562,
             "b": 181.4781494140625,
             "coord_origin": "BOTTOMLEFT"
           },
@@ -4507,10 +4480,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 558.8812255859375,
-            "t": 374.24078369140625,
-            "r": 742.82177734375,
-            "b": 270.0508117675781,
+            "l": 558.8799438476562,
+            "t": 374.24012756347656,
+            "r": 742.8212280273438,
+            "b": 270.05108642578125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4544,10 +4517,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 559.0843505859375,
-            "t": 184.59747314453125,
-            "r": 742.7952270507812,
-            "b": 81.32916259765625,
+            "l": 559.0845336914062,
+            "t": 184.59976196289062,
+            "r": 742.7935791015625,
+            "b": 81.32769775390625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4584,10 +4557,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 152.62289428710938,
-            "t": 162.71316528320312,
-            "r": 266.6022033691406,
-            "b": 36.76513671875,
+            "l": 152.62376403808594,
+            "t": 162.7125244140625,
+            "r": 266.5987548828125,
+            "b": 36.7664794921875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4621,9 +4594,6 @@
         },
         {
           "$ref": "#/texts/98"
-        },
-        {
-          "$ref": "#/texts/99"
         }
       ],
       "content_layer": "body",
@@ -4632,10 +4602,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 278.2122497558594,
-            "t": 162.7742919921875,
-            "r": 392.3078918457031,
-            "b": 36.078369140625,
+            "l": 278.2151184082031,
+            "t": 162.77133178710938,
+            "r": 392.3103332519531,
+            "b": 36.0828857421875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4656,10 +4626,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/100"
+          "$ref": "#/texts/99"
         },
         {
-          "$ref": "#/texts/101"
+          "$ref": "#/texts/100"
         }
       ],
       "content_layer": "body",
@@ -4668,10 +4638,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 405.7272033691406,
-            "t": 162.82412719726562,
-            "r": 519.1083984375,
-            "b": 37.68194580078125,
+            "l": 405.7339172363281,
+            "t": 162.8250732421875,
+            "r": 519.1123046875,
+            "b": 37.6802978515625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4697,10 +4667,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 559.15869140625,
-            "t": 395.42926025390625,
-            "r": 742.9797973632812,
-            "b": 291.1030578613281,
+            "l": 559.1607666015625,
+            "t": 395.43199157714844,
+            "r": 742.9795532226562,
+            "b": 291.1008605957031,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4721,10 +4691,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/104"
+          "$ref": "#/texts/103"
         },
         {
-          "$ref": "#/texts/105"
+          "$ref": "#/texts/104"
         }
       ],
       "content_layer": "body",
@@ -4733,10 +4703,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 657.0249633789062,
-            "t": 163.04495239257812,
-            "r": 765.724365234375,
-            "b": 40.12249755859375,
+            "l": 657.0277099609375,
+            "t": 163.04959106445312,
+            "r": 765.7286376953125,
+            "b": 40.11944580078125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4763,9 +4733,9 @@
           "page_no": 5,
           "bbox": {
             "l": 530.8151245117188,
-            "t": 480.87452697753906,
-            "r": 645.2390747070312,
-            "b": 452.7623291015625,
+            "t": 480.87548828125,
+            "r": 645.2386474609375,
+            "b": 452.76194763183594,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4793,10 +4763,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 98.3282470703125,
-            "t": 346.88043212890625,
-            "r": 626.5332641601562,
-            "b": 131.37100219726562,
+            "l": 98.32291412353516,
+            "t": 346.8840026855469,
+            "r": 626.53759765625,
+            "b": 131.36721801757812,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

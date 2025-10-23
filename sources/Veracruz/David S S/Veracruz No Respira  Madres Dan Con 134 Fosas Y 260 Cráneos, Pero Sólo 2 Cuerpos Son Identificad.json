@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Veracruz No Respira  Madres Dan Con 134 Fosas Y 260 Cráneos, Pero Sólo 2 Cuerpos Son Identificad",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8261110072048853403,
+    "filename": "Veracruz No Respira  Madres Dan Con 134 Fosas Y 260 Cráneos, Pero Sólo 2 Cuerpos Son Identificad.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.52305234375,
+            "r": 487.793,
+            "b": 612.87305234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "elpinerodelacuenca.com.mx ___ Buy this domain. | More domains at Seo.Domains",
+      "text": "elpinerodelacuenca.com.mx ___ Buy this domain. | More domains at Seo.Domains"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 494.6607971191406,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

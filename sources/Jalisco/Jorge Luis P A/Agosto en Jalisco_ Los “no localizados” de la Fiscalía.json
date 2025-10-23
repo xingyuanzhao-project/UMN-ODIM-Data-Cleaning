@@ -267,13 +267,13 @@
         "$ref": "#/texts/87"
       },
       {
-        "$ref": "#/texts/88"
-      },
-      {
         "$ref": "#/groups/1"
       },
       {
         "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/95"
       },
       {
         "$ref": "#/texts/96"
@@ -286,9 +286,6 @@
       },
       {
         "$ref": "#/texts/99"
-      },
-      {
-        "$ref": "#/texts/100"
       },
       {
         "$ref": "#/pictures/5"
@@ -359,6 +356,9 @@
       },
       "children": [
         {
+          "$ref": "#/texts/88"
+        },
+        {
           "$ref": "#/texts/89"
         },
         {
@@ -366,9 +366,6 @@
         },
         {
           "$ref": "#/texts/91"
-        },
-        {
-          "$ref": "#/texts/92"
         }
       ],
       "content_layer": "body",
@@ -382,13 +379,13 @@
       },
       "children": [
         {
+          "$ref": "#/texts/92"
+        },
+        {
           "$ref": "#/texts/93"
         },
         {
           "$ref": "#/texts/94"
-        },
-        {
-          "$ref": "#/texts/95"
         }
       ],
       "content_layer": "body",
@@ -403,6 +400,9 @@
       "children": [
         {
           "$ref": "#/groups/4"
+        },
+        {
+          "$ref": "#/texts/101"
         },
         {
           "$ref": "#/texts/102"
@@ -441,10 +441,10 @@
           "$ref": "#/texts/113"
         },
         {
-          "$ref": "#/texts/114"
+          "$ref": "#/groups/5"
         },
         {
-          "$ref": "#/groups/5"
+          "$ref": "#/texts/115"
         },
         {
           "$ref": "#/texts/116"
@@ -509,7 +509,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/101"
+          "$ref": "#/texts/100"
         }
       ],
       "content_layer": "body",
@@ -523,7 +523,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/115"
+          "$ref": "#/texts/114"
         }
       ],
       "content_layer": "body",
@@ -2374,10 +2374,24 @@
             0,
             366
           ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 18.0,
+            "t": 47.934999999999945,
+            "r": 523.162,
+            "b": 41.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            367,
+            500
+          ]
         }
       ],
-      "orig": "A  travŽs  de  la  solicitud  de  informaci-n  (LTAIPJ/FG/832/2015)  realizada  a  la  Unidad  de  Transparencia  de  la Fiscal'a  General  de  Jalisco,  se  pregunt-  cu‡les  fueron  los  motivos  de  la  desaparici-n  y  el  regreso  de  estas  73 personas, as' como el gŽnero y el a-o en que sus familias interpusieron la denuncia por desaparici-n. En relaci-n al",
-      "text": "A  travŽs  de  la  solicitud  de  informaci-n  (LTAIPJ/FG/832/2015)  realizada  a  la  Unidad  de  Transparencia  de  la Fiscal'a  General  de  Jalisco,  se  pregunt-  cu‡les  fueron  los  motivos  de  la  desaparici-n  y  el  regreso  de  estas  73 personas, as' como el gŽnero y el a-o en que sus familias interpusieron la denuncia por desaparici-n. En relaci-n al"
+      "orig": "A  travŽs  de  la  solicitud  de  informaci-n  (LTAIPJ/FG/832/2015)  realizada  a  la  Unidad  de  Transparencia  de  la Fiscal'a  General  de  Jalisco,  se  pregunt-  cu‡les  fueron  los  motivos  de  la  desaparici-n  y  el  regreso  de  estas  73 personas, as' como el gŽnero y el a-o en que sus familias interpusieron la denuncia por desaparici-n. En relaci-n al http://nuestraaparenterendicion.com/index.php/estamos-haciendo/est…em/2895-agosto-en-jalisco-los-'no-localizados'-de-la-fiscal%C3%ADa",
+      "text": "A  travŽs  de  la  solicitud  de  informaci-n  (LTAIPJ/FG/832/2015)  realizada  a  la  Unidad  de  Transparencia  de  la Fiscal'a  General  de  Jalisco,  se  pregunt-  cu‡les  fueron  los  motivos  de  la  desaparici-n  y  el  regreso  de  estas  73 personas, as' como el gŽnero y el a-o en que sus familias interpusieron la denuncia por desaparici-n. En relaci-n al http://nuestraaparenterendicion.com/index.php/estamos-haciendo/est…em/2895-agosto-en-jalisco-los-'no-localizados'-de-la-fiscal%C3%ADa"
     },
     {
       "self_ref": "#/texts/65",
@@ -2583,33 +2597,6 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 18.0,
-            "t": 47.934999999999945,
-            "r": 523.162,
-            "b": 41.923,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            133
-          ]
-        }
-      ],
-      "orig": "http://nuestraaparenterendicion.com/index.php/estamos-haciendo/est…em/2895-agosto-en-jalisco-los-'no-localizados'-de-la-fiscal%C3%ADa",
-      "text": "http://nuestraaparenterendicion.com/index.php/estamos-haciendo/est…em/2895-agosto-en-jalisco-los-'no-localizados'-de-la-fiscal%C3%ADa"
-    },
-    {
-      "self_ref": "#/texts/73",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "furniture",
-      "label": "page_footer",
-      "prov": [
-        {
-          "page_no": 2,
-          "bbox": {
             "l": 546.131,
             "t": 47.934999999999945,
             "r": 593.786,
@@ -2626,7 +2613,7 @@
       "text": "Página 2 de 5"
     },
     {
-      "self_ref": "#/texts/74",
+      "self_ref": "#/texts/73",
       "parent": {
         "$ref": "#/body"
       },
@@ -2653,7 +2640,7 @@
       "text": "Agosto en Jalisco: Los 'no localizados' de la Fiscalía"
     },
     {
-      "self_ref": "#/texts/75",
+      "self_ref": "#/texts/74",
       "parent": {
         "$ref": "#/body"
       },
@@ -2680,7 +2667,7 @@
       "text": "4/24/20 8'18 PM"
     },
     {
-      "self_ref": "#/texts/76",
+      "self_ref": "#/texts/75",
       "parent": {
         "$ref": "#/body"
       },
@@ -2707,7 +2694,7 @@
       "text": "primer punto, la Fiscal'a dijo que no cuenta con una base de datos de los motivos por los cuales desaparecen las personas en Jalisco."
     },
     {
-      "self_ref": "#/texts/77",
+      "self_ref": "#/texts/76",
       "parent": {
         "$ref": "#/body"
       },
@@ -2734,7 +2721,7 @@
       "text": "En lo referente al gŽnero de las personas que ya hab'an regresado a casa se precis- que fueron 40 hombres y 33 mujeres,  los  cuales  fueron  denunciados  por  sus  familiares  como  desaparecidos  entre  los  a-os  2007  y  2015.  Es decir,  la  Fiscal'a  ten'a  en  esos  casos  un  rezago  que,  incluso,  rond-  los  8  a-os,  ya  que  en  todo  este  tiempo  su personal fue incapaz de corroborar que muchas de estas personas ya hab'an regresado a casa."
     },
     {
-      "self_ref": "#/texts/78",
+      "self_ref": "#/texts/77",
       "parent": {
         "$ref": "#/body"
       },
@@ -2761,7 +2748,7 @@
       "text": "Desde la Fiscal'a se responsabiliz- de esto a las familias que simplemente Òno avisaronÓ que su ser querido hab'a aparecido  siendo  que  su  labor  pericial  deb'a  obligarlos  a  saber  cu‡ntas  personas  (no  expedientes)  siguen desaparecidas."
     },
     {
-      "self_ref": "#/texts/79",
+      "self_ref": "#/texts/78",
       "parent": {
         "$ref": "#/body"
       },
@@ -2788,7 +2775,7 @@
       "text": "Dentro de la Òoperaci-n confirmaci-nÓ se localizaron a un total de 73 personas, 25 de ellas hab'an sido reportadas como desaparecidas en el a-o 2014; 13 en 2001; 12 en 2013; 6 en 2010, 4 en los a-os 2007, 2008 y 2012; 3 en 2015 y 2 en 2009."
     },
     {
-      "self_ref": "#/texts/80",
+      "self_ref": "#/texts/79",
       "parent": {
         "$ref": "#/body"
       },
@@ -2815,7 +2802,7 @@
       "text": "En Jalisco, desde el a-o 2006 hasta el 31 de julio del 2015, hay 3 mil 071 desaparecidos ."
     },
     {
-      "self_ref": "#/texts/81",
+      "self_ref": "#/texts/80",
       "parent": {
         "$ref": "#/body"
       },
@@ -2843,7 +2830,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/82",
+      "self_ref": "#/texts/81",
       "parent": {
         "$ref": "#/body"
       },
@@ -2870,7 +2857,7 @@
       "text": "Ana Sara Bertha C-rdova Espinoza y Ana Karina G-mez de la Torre no s-lo compart'an el primer nombre y la edad, 24 a-os, sino que ahora ambas terriblemente murieron por su condici-n de gŽnero."
     },
     {
-      "self_ref": "#/texts/83",
+      "self_ref": "#/texts/82",
       "parent": {
         "$ref": "#/body"
       },
@@ -2897,7 +2884,7 @@
       "text": "Ana Sara  Bertha  C-rdova  Espinoza  fue  hallada  sin  vida  el  15  de  agosto,  se  le  encontr-  en  su  propio  domicilio ubicado en la colonia centro en Guadalajara. Las marcas y las huellas de la violencia eran evidentes, el responsable de  su  muerte  fue  su  esposo.  As'  pas-  tambiŽn  con  Ana  Karina  G-mez  de  la  Torre,  quien  el  27  de  agosto,  en Tepatitl‡n perdi- la vida al ser agredida por su propio esposo con un arma blanca."
     },
     {
-      "self_ref": "#/texts/84",
+      "self_ref": "#/texts/83",
       "parent": {
         "$ref": "#/body"
       },
@@ -2924,7 +2911,7 @@
       "text": "En lo que va del a-o, en Jalisco han sido asesinadas 97 mujeres pero si esta situaci-n se contabiliza desde el 1 marzo de 2013 en que inici- la actual administraci-n de Arist-teles Sandoval hasta el 31 de agosto de 2015, las mujeres asesinadas son 339."
     },
     {
-      "self_ref": "#/texts/85",
+      "self_ref": "#/texts/84",
       "parent": {
         "$ref": "#/body"
       },
@@ -2951,7 +2938,7 @@
       "text": "Este nivel de violencia es tan grave que el ComitŽ de AmŽrica Latina para la Defensa de los Derechos de la Mujer (Cladem), ha exigido al gobierno de Jalisco que emita una alerta de gŽnero, cuesti-n que Ða decir del gobernadorest‡ siendo analizada y podr'a activarse en algunos municipios del estado. Hasta la fecha s-lo dos estados del pa's han emitido esta Òalerta de gŽneroÓ, el Estado de MŽxico y Morelos."
     },
     {
-      "self_ref": "#/texts/86",
+      "self_ref": "#/texts/85",
       "parent": {
         "$ref": "#/body"
       },
@@ -2978,7 +2965,7 @@
       "text": "Sin embargo, este mismo colectivo advierte que la Òalerta de gŽneroÓ debe estar acompa-ada de medidas judiciales que de verdad permitan que los agresores de una mujer sean debidamente consignados, ya que en Jalisco s' est‡ tipificado el feminicidio pero no muchos de los homicidas son encarcelados por este delito."
     },
     {
-      "self_ref": "#/texts/87",
+      "self_ref": "#/texts/86",
       "parent": {
         "$ref": "#/body"
       },
@@ -3005,7 +2992,7 @@
       "text": "Esto fue agosto en Jalisco."
     },
     {
-      "self_ref": "#/texts/88",
+      "self_ref": "#/texts/87",
       "parent": {
         "$ref": "#/body"
       },
@@ -3033,7 +3020,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/89",
+      "self_ref": "#/texts/88",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3060,7 +3047,7 @@
       "text": "Por: :"
     },
     {
-      "self_ref": "#/texts/90",
+      "self_ref": "#/texts/89",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3087,7 +3074,7 @@
       "text": "Fecha:"
     },
     {
-      "self_ref": "#/texts/91",
+      "self_ref": "#/texts/90",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3114,7 +3101,7 @@
       "text": "Darwin Franco"
     },
     {
-      "self_ref": "#/texts/92",
+      "self_ref": "#/texts/91",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3141,7 +3128,7 @@
       "text": "7 de septiembre de 2015"
     },
     {
-      "self_ref": "#/texts/93",
+      "self_ref": "#/texts/92",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -3168,7 +3155,7 @@
       "text": "Twittear"
     },
     {
-      "self_ref": "#/texts/94",
+      "self_ref": "#/texts/93",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -3195,7 +3182,7 @@
       "text": "38 people like this. Be the first of your friends."
     },
     {
-      "self_ref": "#/texts/95",
+      "self_ref": "#/texts/94",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -3222,7 +3209,7 @@
       "text": "Like"
     },
     {
-      "self_ref": "#/texts/96",
+      "self_ref": "#/texts/95",
       "parent": {
         "$ref": "#/body"
       },
@@ -3249,7 +3236,7 @@
       "text": "MçS EN ESTA CATEGORêA:"
     },
     {
-      "self_ref": "#/texts/97",
+      "self_ref": "#/texts/96",
       "parent": {
         "$ref": "#/body"
       },
@@ -3276,7 +3263,7 @@
       "text": "http://nuestraaparenterendicion.com/index.php/estamos-haciendo/est…em/2895-agosto-en-jalisco-los-'no-localizados'-de-la-fiscal%C3%ADa"
     },
     {
-      "self_ref": "#/texts/98",
+      "self_ref": "#/texts/97",
       "parent": {
         "$ref": "#/body"
       },
@@ -3303,7 +3290,7 @@
       "text": "Página 3 de 5"
     },
     {
-      "self_ref": "#/texts/99",
+      "self_ref": "#/texts/98",
       "parent": {
         "$ref": "#/body"
       },
@@ -3330,7 +3317,7 @@
       "text": "Agosto en Jalisco: Los 'no localizados' de la Fiscalía"
     },
     {
-      "self_ref": "#/texts/100",
+      "self_ref": "#/texts/99",
       "parent": {
         "$ref": "#/body"
       },
@@ -3357,7 +3344,7 @@
       "text": "4/24/20 8'18 PM"
     },
     {
-      "self_ref": "#/texts/101",
+      "self_ref": "#/texts/100",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -3386,7 +3373,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/102",
+      "self_ref": "#/texts/101",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3414,7 +3401,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/103",
+      "self_ref": "#/texts/102",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3441,7 +3428,7 @@
       "text": "Dr. Marty Pro Power Plus Dog Supplement"
     },
     {
-      "self_ref": "#/texts/104",
+      "self_ref": "#/texts/103",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3468,7 +3455,7 @@
       "text": "Livingly"
     },
     {
-      "self_ref": "#/texts/105",
+      "self_ref": "#/texts/104",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3495,7 +3482,7 @@
       "text": "SilverSingles"
     },
     {
-      "self_ref": "#/texts/106",
+      "self_ref": "#/texts/105",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3522,7 +3509,7 @@
       "text": "TruthFinder"
     },
     {
-      "self_ref": "#/texts/107",
+      "self_ref": "#/texts/106",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3549,7 +3536,7 @@
       "text": "Beverly Hills MD"
     },
     {
-      "self_ref": "#/texts/108",
+      "self_ref": "#/texts/107",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3576,7 +3563,7 @@
       "text": "Beach Raider"
     },
     {
-      "self_ref": "#/texts/109",
+      "self_ref": "#/texts/108",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3603,7 +3590,7 @@
       "text": "The Hidden Battle For Your DogÕs Health"
     },
     {
-      "self_ref": "#/texts/110",
+      "self_ref": "#/texts/109",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3630,7 +3617,7 @@
       "text": "Her Dress Went Down In ACM History"
     },
     {
-      "self_ref": "#/texts/111",
+      "self_ref": "#/texts/110",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3657,7 +3644,7 @@
       "text": "This Is Where the Majority of Singles Over 50 Are Finding Love in Lakeville"
     },
     {
-      "self_ref": "#/texts/112",
+      "self_ref": "#/texts/111",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3684,7 +3671,7 @@
       "text": "Locate Anyone By Entering Their Name (This is addicting!)"
     },
     {
-      "self_ref": "#/texts/113",
+      "self_ref": "#/texts/112",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3711,7 +3698,7 @@
       "text": "Plastic Surgeon Tells: ÒDoing This Every Morning Can Snap Back Sagging Skin (No Creams Needed)Ó"
     },
     {
-      "self_ref": "#/texts/114",
+      "self_ref": "#/texts/113",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3739,7 +3726,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/115",
+      "self_ref": "#/texts/114",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -3768,7 +3755,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/116",
+      "self_ref": "#/texts/115",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3795,7 +3782,7 @@
       "text": "Nuestra Aparente Rendición"
     },
     {
-      "self_ref": "#/texts/117",
+      "self_ref": "#/texts/116",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3822,7 +3809,7 @@
       "text": "! Disqus' Privacy Policy"
     },
     {
-      "self_ref": "#/texts/118",
+      "self_ref": "#/texts/117",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3849,7 +3836,7 @@
       "text": "Login"
     },
     {
-      "self_ref": "#/texts/119",
+      "self_ref": "#/texts/118",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3876,7 +3863,7 @@
       "text": "\""
     },
     {
-      "self_ref": "#/texts/120",
+      "self_ref": "#/texts/119",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3903,7 +3890,7 @@
       "text": "1"
     },
     {
-      "self_ref": "#/texts/121",
+      "self_ref": "#/texts/120",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3930,7 +3917,7 @@
       "text": "t Tweet"
     },
     {
-      "self_ref": "#/texts/122",
+      "self_ref": "#/texts/121",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3957,7 +3944,7 @@
       "text": "f Share"
     },
     {
-      "self_ref": "#/texts/123",
+      "self_ref": "#/texts/122",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -3984,7 +3971,7 @@
       "text": "Sort by Best"
     },
     {
-      "self_ref": "#/texts/124",
+      "self_ref": "#/texts/123",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -4011,7 +3998,7 @@
       "text": "LOG IN WITH"
     },
     {
-      "self_ref": "#/texts/125",
+      "self_ref": "#/texts/124",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -4038,7 +4025,7 @@
       "text": "OR SIGN UP WITH DISQUS ?"
     },
     {
-      "self_ref": "#/texts/126",
+      "self_ref": "#/texts/125",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -4065,7 +4052,7 @@
       "text": "Name"
     },
     {
-      "self_ref": "#/texts/127",
+      "self_ref": "#/texts/126",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -4092,7 +4079,7 @@
       "text": "Start the discussion…"
     },
     {
-      "self_ref": "#/texts/128",
+      "self_ref": "#/texts/127",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -4119,7 +4106,7 @@
       "text": "Be the first to comment."
     },
     {
-      "self_ref": "#/texts/129",
+      "self_ref": "#/texts/128",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -4146,6 +4133,33 @@
       "text": "Subscribe ✉"
     },
     {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 91.919,
+            "t": 134.226,
+            "r": 211.275,
+            "b": 128.45600000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Add Disqus to your siteAdd DisqusAdd",
+      "text": "Add Disqus to your siteAdd DisqusAdd"
+    },
+    {
       "self_ref": "#/texts/130",
       "parent": {
         "$ref": "#/groups/3"
@@ -4159,18 +4173,18 @@
           "bbox": {
             "l": 81.34,
             "t": 135.54700000000003,
-            "r": 211.275,
+            "r": 89.568,
             "b": 128.24299999999994,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             0,
-            38
+            1
           ]
         }
       ],
-      "orig": "Add Disqus to your siteAdd DisqusAdd d",
-      "text": "Add Disqus to your siteAdd DisqusAdd d"
+      "orig": "d",
+      "text": "d"
     },
     {
       "self_ref": "#/texts/131",
@@ -4870,10 +4884,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 17.420974731445312,
-            "t": 532.0003051757812,
-            "r": 195.29136657714844,
-            "b": 399.0732421875,
+            "l": 17.419660568237305,
+            "t": 532.0062561035156,
+            "r": 195.28887939453125,
+            "b": 399.0739440917969,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4903,10 +4917,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 459.537109375,
-            "t": 731.3739280700684,
-            "r": 577.4611206054688,
-            "b": 686.5352554321289,
+            "l": 459.54351806640625,
+            "t": 731.3719100952148,
+            "r": 577.4609985351562,
+            "b": 686.5336151123047,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4939,10 +4953,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 435.7412109375,
-            "t": 590.4271240234375,
-            "r": 590.3882446289062,
-            "b": 507.8792724609375,
+            "l": 435.7092590332031,
+            "t": 590.5274200439453,
+            "r": 590.3778076171875,
+            "b": 507.9164733886719,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4968,10 +4982,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 563.9983520507812,
-            "t": 252.718505859375,
-            "r": 571.4274291992188,
-            "b": 238.44451904296875,
+            "l": 563.9993896484375,
+            "t": 252.7203369140625,
+            "r": 571.4296875,
+            "b": 238.445556640625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5010,10 +5024,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 442.0781555175781,
-            "t": 452.39874267578125,
-            "r": 588.7897338867188,
-            "b": 366.45703125,
+            "l": 442.0765686035156,
+            "t": 452.399169921875,
+            "r": 588.7923583984375,
+            "b": 366.4520263671875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5039,10 +5053,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 28.32810401916504,
-            "t": 300.31060791015625,
-            "r": 58.1523323059082,
-            "b": 270.7548828125,
+            "l": 28.327133178710938,
+            "t": 300.31103515625,
+            "r": 58.15175247192383,
+            "b": 270.755859375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5070,10 +5084,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 442.0781555175781,
-            "t": 452.39874267578125,
-            "r": 588.7897338867188,
-            "b": 366.45703125,
+            "l": 442.0765686035156,
+            "t": 452.399169921875,
+            "r": 588.7923583984375,
+            "b": 366.4520263671875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

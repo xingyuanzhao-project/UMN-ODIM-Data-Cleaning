@@ -1,0 +1,1422 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Buscan pistas en Redes - 22 de Febrero de 2017 - Metro - Guadalajara - Noticias - VLEX 666970321",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 10475970002451878243,
+    "filename": "Buscan pistas en Redes - 22 de Febrero de 2017 - Metro - Guadalajara - Noticias - VLEX 666970321.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/groups/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/groups/1"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.007,
+            "t": 771.4940009375,
+            "r": 180.657,
+            "b": 750.1860009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Información jurídica inteligente (//vlex.com.mx)",
+      "text": "Información jurídica inteligente (//vlex.com.mx)"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 505.076,
+            "t": 811.4030009375,
+            "r": 544.223,
+            "b": 806.1110009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "ENTRAR",
+      "text": "ENTRAR"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 554.352,
+            "t": 815.7010009375,
+            "r": 568.608,
+            "b": 810.1600009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 382.01,
+            "t": 813.9110009374999,
+            "r": 471.302,
+            "b": 808.4370009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "+52 55 6820 2109",
+      "text": "+52 55 6820 2109"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 358.75,
+            "t": 820.3990009375,
+            "r": 377.508,
+            "b": 813.1090009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.007,
+            "t": 712.3230009375,
+            "r": 564.798,
+            "b": 681.9090009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "22 de Febrero de 2017 (https://noticias.vlex.com.mx/source/diario-metro-guadala … Buscan pistas en Redes <",
+      "text": "22 de Febrero de 2017 (https://noticias.vlex.com.mx/source/diario-metro-guadala … Buscan pistas en Redes <",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.007,
+            "t": 626.8880009375,
+            "r": 80.535,
+            "b": 621.1280009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "RESUMEN",
+      "text": "RESUMEN",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 348.398,
+            "t": 619.2740009375,
+            "r": 371.337,
+            "b": 614.7490009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Share",
+      "text": "Share"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 395.891,
+            "t": 619.4500009375,
+            "r": 429.967,
+            "b": 615.5190009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Compartir",
+      "text": "Compartir"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 520.223,
+            "t": 619.2780009375,
+            "r": 549.119,
+            "b": 614.7490009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Twittear",
+      "text": "Twittear"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 456.867,
+            "t": 618.5230009375,
+            "r": 496.306,
+            "b": 613.9980009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Compartir",
+      "text": "Compartir"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 39.262,
+            "t": 585.6250009375,
+            "r": 536.892,
+            "b": 564.8550009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "CONTACTARON A FABIOLA POR FACEBOOK. Le dicen a madre en la Fiscalía que no tienen avances en investigación",
+      "text": "CONTACTARON A FABIOLA POR FACEBOOK. Le dicen a madre en la Fiscalía que no tienen avances en investigación"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 22.754,
+            "t": 519.5900009375,
+            "r": 137.141,
+            "b": 513.8310009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "EXTRACTO GRATUITO",
+      "text": "EXTRACTO GRATUITO",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.258,
+            "t": 488.83200093749997,
+            "r": 555.766,
+            "b": 468.0620009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "ZMG.- Las investigaciones de la Fiscalía en torno a la desaparición de Fabiola Monserrat Regalado Guerrero, de 21 años, apuntan a que fue a través de redes sociales como fue contactada.",
+      "text": "ZMG.- Las investigaciones de la Fiscalía en torno a la desaparición de Fabiola Monserrat Regalado Guerrero, de 21 años, apuntan a que fue a través de redes sociales como fue contactada."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.258,
+            "t": 451.3150009375,
+            "r": 562.244,
+            "b": 430.54600093749997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "Aunque investigadores no han precisado si su desaparición es voluntaria o forzada, revisan el contacto que tuvo a través de Facebook con diversos usuarios, para poder dar con su paradero.",
+      "text": "Aunque investigadores no han precisado si su desaparición es voluntaria o forzada, revisan el contacto que tuvo a través de Facebook con diversos usuarios, para poder dar con su paradero."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.258,
+            "t": 413.79900093749995,
+            "r": 554.268,
+            "b": 363.0160009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            340
+          ]
+        }
+      ],
+      "orig": "\"Es un caso similar al de una jovencita que fue contactada vía redes sociales, en este caso, así ha sido también, para nosotros todos los casos son relevantes independientemente de cuales hayan sido las causas, y pedir el apoyo de la ciudadanía para (reportar) donde pudiera ser vista para nosotros acudir\", dijo el Fiscal Eduardo Almaguer.",
+      "text": "\"Es un caso similar al de una jovencita que fue contactada vía redes sociales, en este caso, así ha sido también, para nosotros todos los casos son relevantes independientemente de cuales hayan sido las causas, y pedir el apoyo de la ciudadanía para (reportar) donde pudiera ser vista para nosotros acudir\", dijo el Fiscal Eduardo Almaguer."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.258,
+            "t": 346.2690009375,
+            "r": 556.904,
+            "b": 310.4930009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            256
+          ]
+        }
+      ],
+      "orig": "Por su parte, Rosa María Guerrero, su mamá, acudió ayer a la Fiscalía para saber si los investigadores ya tienen alguna pista sobre su ubicación, pero le dijeron que todavía no tenían un avance concreto, solo que seguían revisando sus redes y sus llamadas.",
+      "text": "Por su parte, Rosa María Guerrero, su mamá, acudió ayer a la Fiscalía para saber si los investigadores ya tienen alguna pista sobre su ubicación, pero le dijeron que todavía no tenían un avance concreto, solo que seguían revisando sus redes y sus llamadas."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.258,
+            "t": 293.74600093749996,
+            "r": 554.668,
+            "b": 272.9760009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "Se reportó que Fabiola desapareció el pasado 8 de febrero cuando se dirigía de su trabajo en López Mateos Sur hacia Las Águilas, y aunque quedó de ver a un amigo en un café, nunca llegó a la cita.",
+      "text": "Se reportó que Fabiola desapareció el pasado 8 de febrero cuando se dirigía de su trabajo en López Mateos Sur hacia Las Águilas, y aunque quedó de ver a un amigo en un café, nunca llegó a la cita."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.258,
+            "t": 256.2300009375,
+            "r": 499.201,
+            "b": 235.4600009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "Aunque según los lineamientos del protocolo la difusión del caso debe darse 24 horas después de la desaparición, fue hasta 10 días después que dieron a conocer el caso.",
+      "text": "Aunque según los lineamientos del protocolo la difusión del caso debe darse 24 horas después de la desaparición, fue hasta 10 días después que dieron a conocer el caso."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.258,
+            "t": 218.71300093749994,
+            "r": 396.981,
+            "b": 212.9500009374999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "De detener informes sobre su ubicación, llame al 3837-6000, extensión 16145.",
+      "text": "De detener informes sobre su ubicación, llame al 3837-6000, extensión 16145."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.258,
+            "t": 196.20300093749995,
+            "r": 257.974,
+            "b": 190.44000093749992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Por otro lado, para evitar la violencia contra los...",
+      "text": "Por otro lado, para evitar la violencia contra los..."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 197.429,
+            "t": 134.03900093749996,
+            "r": 396.571,
+            "b": 124.16600093750003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Para continuar leyendo",
+      "text": "Para continuar leyendo",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 245.696,
+            "t": 86.84100093749998,
+            "r": 348.293,
+            "b": 81.36700093749994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "SOLICITA TU PRUEBA",
+      "text": "SOLICITA TU PRUEBA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 24.255,
+            "t": 60.069000937499936,
+            "r": 520.229,
+            "b": 40.122000937499934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "VLEX NETWORKS utiliza cookies de inicio de sesión para aportarte una mejor experiencia de navegación. Si haces click en 'Aceptar' o continúas navegando por esta web consideramos que aceptas nuestra política de cookies (/terms-of-service/).",
+      "text": "VLEX NETWORKS utiliza cookies de inicio de sesión para aportarte una mejor experiencia de navegación. Si haces click en 'Aceptar' o continúas navegando por esta web consideramos que aceptas nuestra política de cookies (/terms-of-service/)."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.758,
+            "t": 30.05100093750002,
+            "r": 74.611,
+            "b": 25.115000937499985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "ACEPTAR",
+      "text": "ACEPTAR"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 544.234,
+            "t": 70.18500093750004,
+            "r": 579.499,
+            "b": 58.52000093749996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": " ",
+      "text": " "
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 382.01,
+            "t": 813.9110009374999,
+            "r": 471.302,
+            "b": 808.4370009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "+52 55 6820 2109",
+      "text": "+52 55 6820 2109"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 505.076,
+            "t": 811.4030009375,
+            "r": 544.223,
+            "b": 806.1110009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "ENTRAR",
+      "text": "ENTRAR"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 554.352,
+            "t": 815.7010009375,
+            "r": 568.608,
+            "b": 810.1600009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 39.262,
+            "t": 801.7140009375,
+            "r": 200.95,
+            "b": 795.9550009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Otros documentos interesantes:",
+      "text": "Otros documentos interesantes:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.575,
+            "t": 780.8970009375,
+            "r": 546.684,
+            "b": 773.4470009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": " Limitan a transmigrantes cambios a Ley Aduanera (https://norte-monterrey.vlex.com.mx/vid/limitan-trans…",
+      "text": " Limitan a transmigrantes cambios a Ley Aduanera (https://norte-monterrey.vlex.com.mx/vid/limitan-trans…",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 257.701,
+            "t": 280.23100093749997,
+            "r": 370.805,
+            "b": 273.2970009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "+52 55 6820 2109",
+      "text": "+52 55 6820 2109"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 76.11,
+            "t": 219.8890009375,
+            "r": 517.895,
+            "b": 214.94900093749993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "Condiciones de uso (http://vlex.com.mx/condiciones-de-uso)  ©2017 vLex.com Todos los derechos reservados",
+      "text": "Condiciones de uso (http://vlex.com.mx/condiciones-de-uso)  ©2017 vLex.com Todos los derechos reservados"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 230.69,
+            "t": 283.8210009375,
+            "r": 250.198,
+            "b": 276.2390009374999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 505.076,
+            "t": 811.4030009375,
+            "r": 544.223,
+            "b": 806.1110009375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "ENTRAR",
+      "text": "ENTRAR"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 24.255,
+            "t": 60.069000937499936,
+            "r": 520.229,
+            "b": 40.122000937499934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "VLEX NETWORKS utiliza cookies de inicio de sesión para aportarte una mejor experiencia de navegación. Si haces click en 'Aceptar' o continúas navegando por esta web consideramos que aceptas nuestra política de cookies (/terms-of-service/).",
+      "text": "VLEX NETWORKS utiliza cookies de inicio de sesión para aportarte una mejor experiencia de navegación. Si haces click en 'Aceptar' o continúas navegando por esta web consideramos que aceptas nuestra política de cookies (/terms-of-service/)."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 31.758,
+            "t": 30.05100093750002,
+            "r": 74.611,
+            "b": 25.115000937499985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "ACEPTAR",
+      "text": "ACEPTAR"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 544.234,
+            "t": 70.18500093750004,
+            "r": 579.499,
+            "b": 58.52000093749996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": " ",
+      "text": " "
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 17.93621826171875,
+            "t": 816.9678077697754,
+            "r": 180.32579040527344,
+            "b": 745.3396987915039,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 504.1766052246094,
+            "t": 816.9184112548828,
+            "r": 567.3428344726562,
+            "b": 802.8766136169434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 359.0379943847656,
+            "t": 821.424072265625,
+            "r": 471.058349609375,
+            "b": 803.6937103271484,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 554.7467651367188,
+            "t": 64.27581787109375,
+            "r": 568.7677001953125,
+            "b": 50.68927001953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 504.4194641113281,
+            "t": 816.6916904449463,
+            "r": 567.3958740234375,
+            "b": 802.9553489685059,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 554.786865234375,
+            "t": 64.1072998046875,
+            "r": 568.8095703125,
+            "b": 50.77093505859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 594.0,
+        "height": 840.9599609375
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 594.0,
+        "height": 840.9599609375
+      },
+      "page_no": 2
+    }
+  }
+}

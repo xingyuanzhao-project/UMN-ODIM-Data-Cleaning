@@ -114,10 +114,25 @@
         "$ref": "#/groups/2"
       },
       {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
         "$ref": "#/groups/3"
       },
       {
         "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/57"
       },
       {
         "$ref": "#/texts/58"
@@ -129,13 +144,13 @@
         "$ref": "#/texts/60"
       },
       {
-        "$ref": "#/texts/61"
-      },
-      {
         "$ref": "#/groups/4"
       },
       {
         "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/82"
       },
       {
         "$ref": "#/texts/83"
@@ -147,16 +162,16 @@
         "$ref": "#/texts/85"
       },
       {
-        "$ref": "#/texts/86"
-      },
-      {
         "$ref": "#/groups/5"
       },
       {
-        "$ref": "#/texts/104"
+        "$ref": "#/texts/103"
       },
       {
         "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/105"
       },
       {
         "$ref": "#/texts/106"
@@ -174,16 +189,13 @@
         "$ref": "#/texts/110"
       },
       {
-        "$ref": "#/texts/111"
-      },
-      {
         "$ref": "#/pictures/6"
       },
       {
-        "$ref": "#/texts/113"
+        "$ref": "#/texts/112"
       },
       {
-        "$ref": "#/texts/114"
+        "$ref": "#/texts/113"
       }
     ],
     "content_layer": "body",
@@ -266,18 +278,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/47"
-        },
-        {
-          "$ref": "#/texts/48"
-        },
-        {
-          "$ref": "#/texts/49"
-        },
-        {
-          "$ref": "#/texts/50"
-        },
-        {
           "$ref": "#/texts/51"
         },
         {
@@ -291,9 +291,6 @@
         },
         {
           "$ref": "#/texts/55"
-        },
-        {
-          "$ref": "#/texts/56"
         }
       ],
       "content_layer": "body",
@@ -306,6 +303,9 @@
         "$ref": "#/body"
       },
       "children": [
+        {
+          "$ref": "#/texts/61"
+        },
         {
           "$ref": "#/texts/62"
         },
@@ -362,9 +362,6 @@
         },
         {
           "$ref": "#/texts/80"
-        },
-        {
-          "$ref": "#/texts/81"
         }
       ],
       "content_layer": "body",
@@ -377,6 +374,9 @@
         "$ref": "#/body"
       },
       "children": [
+        {
+          "$ref": "#/texts/86"
+        },
         {
           "$ref": "#/texts/87"
         },
@@ -424,9 +424,6 @@
         },
         {
           "$ref": "#/texts/102"
-        },
-        {
-          "$ref": "#/texts/103"
         }
       ],
       "content_layer": "body",
@@ -1710,6 +1707,114 @@
     {
       "self_ref": "#/texts/47",
       "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 35.507,
+            "t": 661.383,
+            "r": 549.839,
+            "b": 613.07,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            254
+          ]
+        }
+      ],
+      "orig": "Tal ha sido el eco de la publicación que los padres fueron citados por autoridades de Nuevo León para seguir la pista de cerca, realizando el viaje con la esperanza de poder reencontrarse con su pequeño, quien a la fecha contaría con cuatro años de edad.",
+      "text": "Tal ha sido el eco de la publicación que los padres fueron citados por autoridades de Nuevo León para seguir la pista de cerca, realizando el viaje con la esperanza de poder reencontrarse con su pequeño, quien a la fecha contaría con cuatro años de edad."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 35.507,
+            "t": 583.313,
+            "r": 560.765,
+            "b": 534.999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            263
+          ]
+        }
+      ],
+      "orig": "'Hay mucha movilización por lo que salió en el Face de que vieron al niño, o sea, de que está saliendo la señora mostrando al niño, desde que se supo lo del niño todos quieren saber si es él, nos han estado llamando, nosotros creemos que sí es' aseveró Inocencio.",
+      "text": "'Hay mucha movilización por lo que salió en el Face de que vieron al niño, o sea, de que está saliendo la señora mostrando al niño, desde que se supo lo del niño todos quieren saber si es él, nos han estado llamando, nosotros creemos que sí es' aseveró Inocencio."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 35.507,
+            "t": 505.243,
+            "r": 560.49,
+            "b": 456.929,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            234
+          ]
+        }
+      ],
+      "orig": "La familia se siente agradecida con todas las personas que han estado al pendiente de la investigación y esperan que esta sea una pista que los conduzca al paradero de Johan y ponga fin a esta amarga historia que empezó hace dos años.",
+      "text": "La familia se siente agradecida con todas las personas que han estado al pendiente de la investigación y esperan que esta sea una pista que los conduzca al paradero de Johan y ponga fin a esta amarga historia que empezó hace dos años."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 35.507,
+            "t": 427.173,
+            "r": 565.181,
+            "b": 357.84,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            279
+          ]
+        }
+      ],
+      "orig": "Actualmente la investigación sobre la desaparición de Johan Gael Cardona es llevada por la Procuraduría de Nuevo León, pues desde hace tiempo las autoridades de Coahuila decidieron dar por terminadas las diligencias en ésta entidad aludiendo que el caso corresponde a ese Estado.",
+      "text": "Actualmente la investigación sobre la desaparición de Johan Gael Cardona es llevada por la Procuraduría de Nuevo León, pues desde hace tiempo las autoridades de Coahuila decidieron dar por terminadas las diligencias en ésta entidad aludiendo que el caso corresponde a ese Estado."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
         "$ref": "#/groups/3"
       },
       "children": [],
@@ -1735,142 +1840,7 @@
       "text": "COMENTARIOS"
     },
     {
-      "self_ref": "#/texts/48",
-      "parent": {
-        "$ref": "#/groups/3"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
-            "l": 35.507,
-            "t": 661.383,
-            "r": 549.839,
-            "b": 613.07,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            254
-          ]
-        }
-      ],
-      "orig": "Tal ha sido el eco de la publicación que los padres fueron citados por autoridades de Nuevo León para seguir la pista de cerca, realizando el viaje con la esperanza de poder reencontrarse con su pequeño, quien a la fecha contaría con cuatro años de edad.",
-      "text": "Tal ha sido el eco de la publicación que los padres fueron citados por autoridades de Nuevo León para seguir la pista de cerca, realizando el viaje con la esperanza de poder reencontrarse con su pequeño, quien a la fecha contaría con cuatro años de edad."
-    },
-    {
-      "self_ref": "#/texts/49",
-      "parent": {
-        "$ref": "#/groups/3"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
-            "l": 35.507,
-            "t": 583.313,
-            "r": 560.765,
-            "b": 534.999,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            263
-          ]
-        }
-      ],
-      "orig": "'Hay mucha movilización por lo que salió en el Face de que vieron al niño, o sea, de que está saliendo la señora mostrando al niño, desde que se supo lo del niño todos quieren saber si es él, nos han estado llamando, nosotros creemos que sí es' aseveró Inocencio.",
-      "text": "'Hay mucha movilización por lo que salió en el Face de que vieron al niño, o sea, de que está saliendo la señora mostrando al niño, desde que se supo lo del niño todos quieren saber si es él, nos han estado llamando, nosotros creemos que sí es' aseveró Inocencio."
-    },
-    {
-      "self_ref": "#/texts/50",
-      "parent": {
-        "$ref": "#/groups/3"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
-            "l": 35.507,
-            "t": 505.243,
-            "r": 560.49,
-            "b": 456.929,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            234
-          ]
-        }
-      ],
-      "orig": "La familia se siente agradecida con todas las personas que han estado al pendiente de la investigación y esperan que esta sea una pista que los conduzca al paradero de Johan y ponga fin a esta amarga historia que empezó hace dos años.",
-      "text": "La familia se siente agradecida con todas las personas que han estado al pendiente de la investigación y esperan que esta sea una pista que los conduzca al paradero de Johan y ponga fin a esta amarga historia que empezó hace dos años."
-    },
-    {
-      "self_ref": "#/texts/51",
-      "parent": {
-        "$ref": "#/groups/3"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
-            "l": 35.507,
-            "t": 427.173,
-            "r": 565.181,
-            "b": 357.84,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            279
-          ]
-        }
-      ],
-      "orig": "Actualmente la investigación sobre la desaparición de Johan Gael Cardona es llevada por la Procuraduría de Nuevo León, pues desde hace tiempo las autoridades de Coahuila decidieron dar por terminadas las diligencias en ésta entidad aludiendo que el caso corresponde a ese Estado.",
-      "text": "Actualmente la investigación sobre la desaparición de Johan Gael Cardona es llevada por la Procuraduría de Nuevo León, pues desde hace tiempo las autoridades de Coahuila decidieron dar por terminadas las diligencias en ésta entidad aludiendo que el caso corresponde a ese Estado."
-    },
-    {
       "self_ref": "#/texts/52",
-      "parent": {
-        "$ref": "#/groups/3"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
-            "l": 73.04,
-            "t": 713.939,
-            "r": 262.216,
-            "b": 702.808,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            29
-          ]
-        }
-      ],
-      "orig": "empresas fantasma de Coahuila",
-      "text": "empresas fantasma de Coahuila"
-    },
-    {
-      "self_ref": "#/texts/53",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -1897,7 +1867,7 @@
       "text": "COMPARTIR"
     },
     {
-      "self_ref": "#/texts/54",
+      "self_ref": "#/texts/53",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -1924,7 +1894,7 @@
       "text": "Facebook"
     },
     {
-      "self_ref": "#/texts/55",
+      "self_ref": "#/texts/54",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -1951,7 +1921,7 @@
       "text": "Twitter"
     },
     {
-      "self_ref": "#/texts/56",
+      "self_ref": "#/texts/55",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -1978,7 +1948,7 @@
       "text": "Más..."
     },
     {
-      "self_ref": "#/texts/57",
+      "self_ref": "#/texts/56",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -2005,7 +1975,7 @@
       "text": "Ć"
     },
     {
-      "self_ref": "#/texts/58",
+      "self_ref": "#/texts/57",
       "parent": {
         "$ref": "#/body"
       },
@@ -2032,7 +2002,7 @@
       "text": "https://vanguardia.com.mx/articulo/familiares-van-monterrey-por-posible-hallazgo-de-johan-gael"
     },
     {
-      "self_ref": "#/texts/59",
+      "self_ref": "#/texts/58",
       "parent": {
         "$ref": "#/body"
       },
@@ -2059,7 +2029,7 @@
       "text": "4/7"
     },
     {
-      "self_ref": "#/texts/60",
+      "self_ref": "#/texts/59",
       "parent": {
         "$ref": "#/body"
       },
@@ -2086,7 +2056,7 @@
       "text": "8/28/2019"
     },
     {
-      "self_ref": "#/texts/61",
+      "self_ref": "#/texts/60",
       "parent": {
         "$ref": "#/body"
       },
@@ -2113,7 +2083,7 @@
       "text": "Familiares van a Monterrey por posible hallazgo de Johan Gael | Vangua"
     },
     {
-      "self_ref": "#/texts/62",
+      "self_ref": "#/texts/61",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2141,7 +2111,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/63",
+      "self_ref": "#/texts/62",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2168,7 +2138,7 @@
       "text": "Ordenar por"
     },
     {
-      "self_ref": "#/texts/64",
+      "self_ref": "#/texts/63",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2195,7 +2165,7 @@
       "text": "Plugin de comentarios de Facebook"
     },
     {
-      "self_ref": "#/texts/65",
+      "self_ref": "#/texts/64",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2222,7 +2192,7 @@
       "text": "Lo más re"
     },
     {
-      "self_ref": "#/texts/66",
+      "self_ref": "#/texts/65",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2249,7 +2219,7 @@
       "text": "Añade un comentario..."
     },
     {
-      "self_ref": "#/texts/67",
+      "self_ref": "#/texts/66",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2277,7 +2247,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/68",
+      "self_ref": "#/texts/67",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2304,7 +2274,7 @@
       "text": "Advertisement"
     },
     {
-      "self_ref": "#/texts/69",
+      "self_ref": "#/texts/68",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2331,7 +2301,7 @@
       "text": "Hace 1 dia"
     },
     {
-      "self_ref": "#/texts/70",
+      "self_ref": "#/texts/69",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2358,7 +2328,7 @@
       "text": "La infidelidad de Andrea Legarreta, es de dominio público, afirma Alfredo Adame"
     },
     {
-      "self_ref": "#/texts/71",
+      "self_ref": "#/texts/70",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2385,7 +2355,7 @@
       "text": "Hace 1 dia"
     },
     {
-      "self_ref": "#/texts/72",
+      "self_ref": "#/texts/71",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2412,7 +2382,7 @@
       "text": "¿Quienes son Los Mexicles?... el brazo armado del cártel de Sinaloa y responsables del asesinato de 3"
     },
     {
-      "self_ref": "#/texts/73",
+      "self_ref": "#/texts/72",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2439,7 +2409,7 @@
       "text": "niñas en Juárez"
     },
     {
-      "self_ref": "#/texts/74",
+      "self_ref": "#/texts/73",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2466,7 +2436,7 @@
       "text": "Hace 1 dia"
     },
     {
-      "self_ref": "#/texts/75",
+      "self_ref": "#/texts/74",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2493,7 +2463,7 @@
       "text": "Asesina a su tía y la entierra bajo su cama, en Saltillo... hoy está libre; familiar le otorga el perdón"
     },
     {
-      "self_ref": "#/texts/76",
+      "self_ref": "#/texts/75",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2520,7 +2490,7 @@
       "text": "Hace 1 dia"
     },
     {
-      "self_ref": "#/texts/77",
+      "self_ref": "#/texts/76",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2547,7 +2517,7 @@
       "text": "Tribunal confirma vinculación a proceso a Juan Collado; seguirá en la cárcel"
     },
     {
-      "self_ref": "#/texts/78",
+      "self_ref": "#/texts/77",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2574,7 +2544,7 @@
       "text": "Hace 1 dia"
     },
     {
-      "self_ref": "#/texts/79",
+      "self_ref": "#/texts/78",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2601,7 +2571,7 @@
       "text": "Ellos son los Artistas Asesinos... de la mano del Cártel de Sinaloa asesinan y secuestran en las calles de"
     },
     {
-      "self_ref": "#/texts/80",
+      "self_ref": "#/texts/79",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2628,7 +2598,7 @@
       "text": "Juárez"
     },
     {
-      "self_ref": "#/texts/81",
+      "self_ref": "#/texts/80",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -2655,7 +2625,7 @@
       "text": "Ć"
     },
     {
-      "self_ref": "#/texts/82",
+      "self_ref": "#/texts/81",
       "parent": {
         "$ref": "#/pictures/4"
       },
@@ -2682,7 +2652,7 @@
       "text": "Ć"
     },
     {
-      "self_ref": "#/texts/83",
+      "self_ref": "#/texts/82",
       "parent": {
         "$ref": "#/body"
       },
@@ -2709,7 +2679,7 @@
       "text": "https://vanguardia.com.mx/articulo/familiares-van-monterrey-por-posible-hallazgo-de-johan-gael"
     },
     {
-      "self_ref": "#/texts/84",
+      "self_ref": "#/texts/83",
       "parent": {
         "$ref": "#/body"
       },
@@ -2736,7 +2706,7 @@
       "text": "5/7"
     },
     {
-      "self_ref": "#/texts/85",
+      "self_ref": "#/texts/84",
       "parent": {
         "$ref": "#/body"
       },
@@ -2763,7 +2733,7 @@
       "text": "8/28/2019"
     },
     {
-      "self_ref": "#/texts/86",
+      "self_ref": "#/texts/85",
       "parent": {
         "$ref": "#/body"
       },
@@ -2790,7 +2760,7 @@
       "text": "Familiares van a Monterrey por posible hallazgo de Johan Gael | Vangua"
     },
     {
-      "self_ref": "#/texts/87",
+      "self_ref": "#/texts/86",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -2817,7 +2787,7 @@
       "text": "RELACIONADAS A ESTA NOTA"
     },
     {
-      "self_ref": "#/texts/88",
+      "self_ref": "#/texts/87",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -2844,7 +2814,7 @@
       "text": "Advertisement"
     },
     {
-      "self_ref": "#/texts/89",
+      "self_ref": "#/texts/88",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -2871,7 +2841,7 @@
       "text": "Hace 19 años"
     },
     {
-      "self_ref": "#/texts/90",
+      "self_ref": "#/texts/89",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -2898,7 +2868,7 @@
       "text": "• Un primer reclamo"
     },
     {
-      "self_ref": "#/texts/91",
+      "self_ref": "#/texts/90",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -2925,7 +2895,7 @@
       "text": "Hace 4 min"
     },
     {
-      "self_ref": "#/texts/92",
+      "self_ref": "#/texts/91",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -2952,7 +2922,7 @@
       "text": "• En México cada día asesinan a 3 y desaparecen 4 menores:"
     },
     {
-      "self_ref": "#/texts/93",
+      "self_ref": "#/texts/92",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -2979,7 +2949,7 @@
       "text": "Redim"
     },
     {
-      "self_ref": "#/texts/94",
+      "self_ref": "#/texts/93",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -3006,7 +2976,7 @@
       "text": "Hace 43 min"
     },
     {
-      "self_ref": "#/texts/95",
+      "self_ref": "#/texts/94",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -3033,7 +3003,7 @@
       "text": "• Roman Polanski, Joaquin Phoenix, Brad Pitt y Nextiflix"
     },
     {
-      "self_ref": "#/texts/96",
+      "self_ref": "#/texts/95",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -3060,7 +3030,7 @@
       "text": "darán la pelea en el Festival de Venecia"
     },
     {
-      "self_ref": "#/texts/97",
+      "self_ref": "#/texts/96",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -3087,7 +3057,7 @@
       "text": "Hace 3 horas"
     },
     {
-      "self_ref": "#/texts/98",
+      "self_ref": "#/texts/97",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -3114,7 +3084,7 @@
       "text": "• Surge nueva denuncia por violencia a mujer saltillense"
     },
     {
-      "self_ref": "#/texts/99",
+      "self_ref": "#/texts/98",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -3142,7 +3112,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/100",
+      "self_ref": "#/texts/99",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -3170,7 +3140,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/101",
+      "self_ref": "#/texts/100",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -3197,7 +3167,7 @@
       "text": "Suscríbete y recibe las noticias del día antes que nadie"
     },
     {
-      "self_ref": "#/texts/102",
+      "self_ref": "#/texts/101",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -3224,7 +3194,7 @@
       "text": "Escribe tu Email *"
     },
     {
-      "self_ref": "#/texts/103",
+      "self_ref": "#/texts/102",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -3251,7 +3221,7 @@
       "text": "Ć"
     },
     {
-      "self_ref": "#/texts/104",
+      "self_ref": "#/texts/103",
       "parent": {
         "$ref": "#/body"
       },
@@ -3278,7 +3248,7 @@
       "text": "Visita nuestras redes sociales y mantente informado"
     },
     {
-      "self_ref": "#/texts/105",
+      "self_ref": "#/texts/104",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -3305,7 +3275,7 @@
       "text": "Ć"
     },
     {
-      "self_ref": "#/texts/106",
+      "self_ref": "#/texts/105",
       "parent": {
         "$ref": "#/body"
       },
@@ -3332,7 +3302,7 @@
       "text": "https://vanguardia.com.mx/articulo/familiares-van-monterrey-por-posible-hallazgo-de-johan-gael"
     },
     {
-      "self_ref": "#/texts/107",
+      "self_ref": "#/texts/106",
       "parent": {
         "$ref": "#/body"
       },
@@ -3359,7 +3329,7 @@
       "text": "6/7"
     },
     {
-      "self_ref": "#/texts/108",
+      "self_ref": "#/texts/107",
       "parent": {
         "$ref": "#/body"
       },
@@ -3386,7 +3356,7 @@
       "text": "8/28/2019"
     },
     {
-      "self_ref": "#/texts/109",
+      "self_ref": "#/texts/108",
       "parent": {
         "$ref": "#/body"
       },
@@ -3413,7 +3383,7 @@
       "text": "Familiares van a Monterrey por posible hallazgo de Johan Gael | Vangua"
     },
     {
-      "self_ref": "#/texts/110",
+      "self_ref": "#/texts/109",
       "parent": {
         "$ref": "#/body"
       },
@@ -3441,7 +3411,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/111",
+      "self_ref": "#/texts/110",
       "parent": {
         "$ref": "#/body"
       },
@@ -3468,7 +3438,7 @@
       "text": "© Vanguardia 2019, todos los derechos reservados"
     },
     {
-      "self_ref": "#/texts/112",
+      "self_ref": "#/texts/111",
       "parent": {
         "$ref": "#/pictures/6"
       },
@@ -3495,7 +3465,7 @@
       "text": "Ć"
     },
     {
-      "self_ref": "#/texts/113",
+      "self_ref": "#/texts/112",
       "parent": {
         "$ref": "#/body"
       },
@@ -3522,7 +3492,7 @@
       "text": "https://vanguardia.com.mx/articulo/familiares-van-monterrey-por-posible-hallazgo-de-johan-gael"
     },
     {
-      "self_ref": "#/texts/114",
+      "self_ref": "#/texts/113",
       "parent": {
         "$ref": "#/body"
       },
@@ -3566,10 +3536,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 524.855224609375,
-            "t": 102.92437744140625,
-            "r": 573.9109497070312,
-            "b": 53.1517333984375,
+            "l": 524.85546875,
+            "t": 102.9263916015625,
+            "r": 573.9112548828125,
+            "b": 53.1510009765625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3620,10 +3590,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 27.111848831176758,
-            "t": 498.67730712890625,
-            "r": 587.1273803710938,
-            "b": 25.52899169921875,
+            "l": 27.11102867126465,
+            "t": 498.6766357421875,
+            "r": 587.1282348632812,
+            "b": 25.532958984375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3649,10 +3619,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 26.8136043548584,
-            "t": 766.2030963897705,
-            "r": 585.985107421875,
-            "b": 729.043701171875,
+            "l": 26.81336784362793,
+            "t": 766.2033653259277,
+            "r": 585.9848022460938,
+            "b": 729.0437965393066,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3673,7 +3643,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/57"
+          "$ref": "#/texts/56"
         }
       ],
       "content_layer": "body",
@@ -3682,10 +3652,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 524.6841430664062,
-            "t": 102.406494140625,
-            "r": 573.8515014648438,
-            "b": 53.095703125,
+            "l": 524.6847534179688,
+            "t": 102.406005859375,
+            "r": 573.8515625,
+            "b": 53.09521484375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3706,7 +3676,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/82"
+          "$ref": "#/texts/81"
         }
       ],
       "content_layer": "body",
@@ -3715,10 +3685,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 524.8035888671875,
-            "t": 103.178466796875,
-            "r": 574.106689453125,
-            "b": 53.0638427734375,
+            "l": 524.8036499023438,
+            "t": 103.18023681640625,
+            "r": 574.1066284179688,
+            "b": 53.063720703125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3739,7 +3709,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/105"
+          "$ref": "#/texts/104"
         }
       ],
       "content_layer": "body",
@@ -3748,10 +3718,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 524.68701171875,
-            "t": 102.95831298828125,
-            "r": 574.8759155273438,
-            "b": 53.07110595703125,
+            "l": 524.6853637695312,
+            "t": 102.96063232421875,
+            "r": 574.8800659179688,
+            "b": 53.07147216796875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3772,7 +3742,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/112"
+          "$ref": "#/texts/111"
         }
       ],
       "content_layer": "body",
@@ -3781,10 +3751,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 524.818603515625,
-            "t": 102.8812255859375,
-            "r": 574.0590209960938,
-            "b": 53.026123046875,
+            "l": 524.8182983398438,
+            "t": 102.88262939453125,
+            "r": 574.0596923828125,
+            "b": 53.025146484375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

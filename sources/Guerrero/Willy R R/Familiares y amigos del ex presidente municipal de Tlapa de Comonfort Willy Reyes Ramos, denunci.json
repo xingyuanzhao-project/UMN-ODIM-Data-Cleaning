@@ -1,0 +1,129 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Familiares y amigos del ex presidente municipal de Tlapa de Comonfort Willy Reyes Ramos, denunci",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2787964805567400606,
+    "filename": "Familiares y amigos del ex presidente municipal de Tlapa de Comonfort Willy Reyes Ramos, denunci.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 686.6930075,
+            "r": 620.233,
+            "b": 6.996007500000019,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4017
+          ]
+        }
+      ],
+      "orig": "Privacy error Your connection is not private Attackers might be trying to steal your information from www.agenciainformativaguerrero.com (for example, passwords, messages, or credit cards). Learn more net::ERR_CERT_DATE_INVALID Subject: 24outlet.eu Issuer: R10 Expires on: Jul 19, 2025 Current date: Sep 15, 2025 PEM encoded chain: -----BEGIN CERTIFICATE----MIIJ1DCCCLygAwIBAgISBX8vh66hVjjX4Xtzu1ty1aVJMA0GCSqGSIb3DQEBCwUA MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD EwNSMTAwHhcNMjUwNDIwMjIwOTA3WhcNMjUwNzE5MjIwOTA2WjAWMRQwEgYDVQQD EwsyNG91dGxldC5ldTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAKgQ HAdy6OP2EARc/DkcutuRWCo61NCWT/NpuSyMa/flffupt9wI0KSfzVDoCEDCZrs9 hrthJBMy1VyLbT6NkQgrUF3nEOMgvzihFoaWkT5crLblrvuUCl7kp4/ppq6jSmT/ J3uG1nvqpRh+zT0ko+mN5gt5mV+QtL+0nQehMOzG6q5RsEh+hnsFYk8JZ7D2UXN9 WuwyvUd7IIIU0mFFr+5GdDSd083AKlRz+cSjbJMbtobKOwrV3jmQE7BTRKxXHR1r WvWT/bYMf34Vi4xN8K/m4zZKTfhyAcmeVAztIfWMjITKqSkE2N5htSWqGV/JL9iZ j0R6xTWzjsrslwlSQs8Gye4Ej2uQKWxU7jRh10lfPvz0AfIDAKWGHsriGl7j95LZ 02avtdPyOEuErohGjpaPGTgh91UbaubgehAPm0rgA2+rhmmYbpiJzamndhX3Hcfv Ysh06eFOfFaW3OJIV8vQKoyC7eLOaAeRTg5Pks3IWyhNgKyWXNuE8QGpBfTeiHSw P34R6csfgSlDh3QJDST9Tx3pqznyCPGYcRCF9/5utQfwPYI42+iRed3EyDC1OEJZ 6EryR8IjbDQ9TXIt8Zm4yfDA4D2iS82TsKGaxCMOOY7ei/xkeZnZmIG219/rtxc+ RKD9OoatneW7wWXZsHD04nPl1j1BM5lbZhSG/7epAgMBAAGjggX9MIIF+TAOBgNV HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1Ud EwEB/wQCMAAwHQYDVR0OBBYEFHlCToa9VCfi93kajgQ5L0xpBKgDMB8GA1UdIwQY MBaAFLu8w0el5LypxsOkcgwQjaI14cjoMFcGCCsGAQUFBwEBBEswSTAiBggrBgEF BQcwAYYWaHR0cDovL3IxMC5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDov L3IxMC5pLmxlbmNyLm9yZy8wggPTBgNVHREEggPKMIIDxoINKi4yNG91dGxldC5l dYIcKi5hYW5nZW5zYmVkYW5kYnJlYWtmYXN0LmNvbYIUKi5hZ2FkaXJkb2xwaGlu cy5jb22CICouYWdlbmNpYWluZm9ybWF0aXZhZ3VlcnJlcm8uY29tghIqLmJ1cnlj YW5wYXJpcy5jb22CDCouZWVidWR5LmNvbYIXKi5ob3N0bWFzdGVyLmVlYnVkeS5j b22CHCouaG9zdG1hc3Rlci54c2h1dHRlcmZseS5jb22CGSouamFja3JvYmVydHNj bGltYmluZy5jb22CEiouam9vc3R2YW5icnVnLmNvbYIQKi5sYWxsYXNtaW5kLmNv bYIPKi5saWdodC1ib3gucHJvghMqLm1vYmlsZS53d3d0Y2wuY29tgg8qLm14Lnd3 d3RjbC5jb22CCyoubm1zcDEuY29tghYqLm5vcnR3ZXN0cGhhcm1hY3kuY29tghMq LnByaW5jZXNzc2hheWUuY29tgh0qLnJhbmRvbS5ub3J0d2VzdHBoYXJtYWN5LmNv bYIaKi5zYWxvbmVyb3RpY29kZW1hZHJpZC5jb22CESouc3l1c3Vub2t1dHUuY29t ghIqLnRheG9mZmljZS5jb20uYXWCEioudG9uZXJtYXJ0LmNvbS5hdYIbKi53dzM4 Lm5vcnR3ZXN0cGhhcm1hY3kuY29tghEqLnd3Mzgud3d3dGNsLmNvbYIQKi53dzM4 Lnp6enp2LnRvcIIMKi53d3d0Y2wuY29tghEqLnhzaHV0dGVyZmx5LmNvbYILKi56 enp6di50b3CCCzI0b3V0bGV0LmV1ghphYW5nZW5zYmVkYW5kYnJlYWtmYXN0LmNv bYISYWdhZGlyZG9scGhpbnMuY29tgh5hZ2VuY2lhaW5mb3JtYXRpdmFndWVycmVy by5jb22CEGJ1cnljYW5wYXJpcy5jb22CCmVlYnVkeS5jb22CF2phY2tyb2JlcnRz Y2xpbWJpbmcuY29tghBqb29zdHZhbmJydWcuY29tgg5sYWxsYXNtaW5kLmNvbYIN bGlnaHQtYm94LnByb4IJbm1zcDEuY29tghRub3J0d2VzdHBoYXJtYWN5LmNvbYIR cHJpbmNlc3NzaGF5ZS5jb22CGHNhbG9uZXJvdGljb2RlbWFkcmlkLmNvbYIPc3l1 c3Vub2t1dHUuY29tghB0YXhvZmZpY2UuY29tLmF1ghB0b25lcm1hcnQuY29tLmF1 ggp3d3d0Y2wuY29tgg94c2h1dHRlcmZseS5jb22CCXp6enp2LnRvcDATBgNVHSAE DDAKMAgGBmeBDAECATAuBgNVHR8EJzAlMCOgIaAfhh1odHRwOi8vcjEwLmMubGVu Y3Iub3JnLzc0LmNybDCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AKRCxQZJYGFU jw/U6pz7ei0mRU2HqX8v30VZ9idPOoRUAAABllV1ECYAAAQDAEYwRAIgDXvoEhzb DZPdUpbDvxtmueS6C/kn650OlSs+UIVsHBoCIFdxLfS4niK3u4fwq7BLFNU/kEcP +ysqofwM7alI+HYiAHYAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAA AAGWVXUX/wAABAMARzBFAiEAuqId36GE8aBecq+DwPorE5b+sh4x9C7iyt2am5gY S3oCIGN5uK0ACF3WsO2Qg9A8QR/V1IxAlkouNQ3xQQMoVujLMA0GCSqGSIb3DQEB CwUAA4IBAQC2kUvEFlkMw5wsGz4NLTmHUsmd6rm4sBE5W73+4wpzn0OaATf7jX2J lEnRl+olsSsrMn+Z1sJKK44otRsm7Co+SKQejN1x9X7SZvR7vSJlNvN1hkjRvY7w Kwp+b5K60h+TnZnhvHhUGn0tdFBGHZQhuewhI1DHkOkHGuz5UpM18gA1gQSg/p6H ylWuv5hDegHQjP1uVi/POU1U20OMKHe8HtKbvxCjF40yF4jzftkSTl9PQYYjRSH7 XqE/fxEcQhB6Kvoqwr2XaUYpuu11W5l1gEeQ2IEl1fYXrsNNq8aAwhcVcHjBpk84 umg6WtRoxnZJNK73B4Yfe5evUpCFkr8k -----END CERTIFICATE----- -----BEGIN CERTIFICATE----MIIFBTCCAu2gAwIBAgIQS6hSk/eaL6JzBkuoBI110DANBgkqhkiG9w0BAQsFADBP MQswCQYDVQQGEwJVUzEpMCcGA1UEChMgSW50ZXJuZXQgU2VjdXJpdHkgUmVzZWFy Y2ggR3JvdXAxFTATBgNVBAMTDElTUkcgUm9vdCBYMTAeFw0yNDAzMTMwMDAwMDBa",
+      "text": "Privacy error Your connection is not private Attackers might be trying to steal your information from www.agenciainformativaguerrero.com (for example, passwords, messages, or credit cards). Learn more net::ERR_CERT_DATE_INVALID Subject: 24outlet.eu Issuer: R10 Expires on: Jul 19, 2025 Current date: Sep 15, 2025 PEM encoded chain: -----BEGIN CERTIFICATE----MIIJ1DCCCLygAwIBAgISBX8vh66hVjjX4Xtzu1ty1aVJMA0GCSqGSIb3DQEBCwUA MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD EwNSMTAwHhcNMjUwNDIwMjIwOTA3WhcNMjUwNzE5MjIwOTA2WjAWMRQwEgYDVQQD EwsyNG91dGxldC5ldTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAKgQ HAdy6OP2EARc/DkcutuRWCo61NCWT/NpuSyMa/flffupt9wI0KSfzVDoCEDCZrs9 hrthJBMy1VyLbT6NkQgrUF3nEOMgvzihFoaWkT5crLblrvuUCl7kp4/ppq6jSmT/ J3uG1nvqpRh+zT0ko+mN5gt5mV+QtL+0nQehMOzG6q5RsEh+hnsFYk8JZ7D2UXN9 WuwyvUd7IIIU0mFFr+5GdDSd083AKlRz+cSjbJMbtobKOwrV3jmQE7BTRKxXHR1r WvWT/bYMf34Vi4xN8K/m4zZKTfhyAcmeVAztIfWMjITKqSkE2N5htSWqGV/JL9iZ j0R6xTWzjsrslwlSQs8Gye4Ej2uQKWxU7jRh10lfPvz0AfIDAKWGHsriGl7j95LZ 02avtdPyOEuErohGjpaPGTgh91UbaubgehAPm0rgA2+rhmmYbpiJzamndhX3Hcfv Ysh06eFOfFaW3OJIV8vQKoyC7eLOaAeRTg5Pks3IWyhNgKyWXNuE8QGpBfTeiHSw P34R6csfgSlDh3QJDST9Tx3pqznyCPGYcRCF9/5utQfwPYI42+iRed3EyDC1OEJZ 6EryR8IjbDQ9TXIt8Zm4yfDA4D2iS82TsKGaxCMOOY7ei/xkeZnZmIG219/rtxc+ RKD9OoatneW7wWXZsHD04nPl1j1BM5lbZhSG/7epAgMBAAGjggX9MIIF+TAOBgNV HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1Ud EwEB/wQCMAAwHQYDVR0OBBYEFHlCToa9VCfi93kajgQ5L0xpBKgDMB8GA1UdIwQY MBaAFLu8w0el5LypxsOkcgwQjaI14cjoMFcGCCsGAQUFBwEBBEswSTAiBggrBgEF BQcwAYYWaHR0cDovL3IxMC5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDov L3IxMC5pLmxlbmNyLm9yZy8wggPTBgNVHREEggPKMIIDxoINKi4yNG91dGxldC5l dYIcKi5hYW5nZW5zYmVkYW5kYnJlYWtmYXN0LmNvbYIUKi5hZ2FkaXJkb2xwaGlu cy5jb22CICouYWdlbmNpYWluZm9ybWF0aXZhZ3VlcnJlcm8uY29tghIqLmJ1cnlj YW5wYXJpcy5jb22CDCouZWVidWR5LmNvbYIXKi5ob3N0bWFzdGVyLmVlYnVkeS5j b22CHCouaG9zdG1hc3Rlci54c2h1dHRlcmZseS5jb22CGSouamFja3JvYmVydHNj bGltYmluZy5jb22CEiouam9vc3R2YW5icnVnLmNvbYIQKi5sYWxsYXNtaW5kLmNv bYIPKi5saWdodC1ib3gucHJvghMqLm1vYmlsZS53d3d0Y2wuY29tgg8qLm14Lnd3 d3RjbC5jb22CCyoubm1zcDEuY29tghYqLm5vcnR3ZXN0cGhhcm1hY3kuY29tghMq LnByaW5jZXNzc2hheWUuY29tgh0qLnJhbmRvbS5ub3J0d2VzdHBoYXJtYWN5LmNv bYIaKi5zYWxvbmVyb3RpY29kZW1hZHJpZC5jb22CESouc3l1c3Vub2t1dHUuY29t ghIqLnRheG9mZmljZS5jb20uYXWCEioudG9uZXJtYXJ0LmNvbS5hdYIbKi53dzM4 Lm5vcnR3ZXN0cGhhcm1hY3kuY29tghEqLnd3Mzgud3d3dGNsLmNvbYIQKi53dzM4 Lnp6enp2LnRvcIIMKi53d3d0Y2wuY29tghEqLnhzaHV0dGVyZmx5LmNvbYILKi56 enp6di50b3CCCzI0b3V0bGV0LmV1ghphYW5nZW5zYmVkYW5kYnJlYWtmYXN0LmNv bYISYWdhZGlyZG9scGhpbnMuY29tgh5hZ2VuY2lhaW5mb3JtYXRpdmFndWVycmVy by5jb22CEGJ1cnljYW5wYXJpcy5jb22CCmVlYnVkeS5jb22CF2phY2tyb2JlcnRz Y2xpbWJpbmcuY29tghBqb29zdHZhbmJydWcuY29tgg5sYWxsYXNtaW5kLmNvbYIN bGlnaHQtYm94LnByb4IJbm1zcDEuY29tghRub3J0d2VzdHBoYXJtYWN5LmNvbYIR cHJpbmNlc3NzaGF5ZS5jb22CGHNhbG9uZXJvdGljb2RlbWFkcmlkLmNvbYIPc3l1 c3Vub2t1dHUuY29tghB0YXhvZmZpY2UuY29tLmF1ghB0b25lcm1hcnQuY29tLmF1 ggp3d3d0Y2wuY29tgg94c2h1dHRlcmZseS5jb22CCXp6enp2LnRvcDATBgNVHSAE DDAKMAgGBmeBDAECATAuBgNVHR8EJzAlMCOgIaAfhh1odHRwOi8vcjEwLmMubGVu Y3Iub3JnLzc0LmNybDCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AKRCxQZJYGFU jw/U6pz7ei0mRU2HqX8v30VZ9idPOoRUAAABllV1ECYAAAQDAEYwRAIgDXvoEhzb DZPdUpbDvxtmueS6C/kn650OlSs+UIVsHBoCIFdxLfS4niK3u4fwq7BLFNU/kEcP +ysqofwM7alI+HYiAHYAzPsPaoVxCWX+lZtTzumyfCLphVwNl422qX5UwP5MDbAA AAGWVXUX/wAABAMARzBFAiEAuqId36GE8aBecq+DwPorE5b+sh4x9C7iyt2am5gY S3oCIGN5uK0ACF3WsO2Qg9A8QR/V1IxAlkouNQ3xQQMoVujLMA0GCSqGSIb3DQEB CwUAA4IBAQC2kUvEFlkMw5wsGz4NLTmHUsmd6rm4sBE5W73+4wpzn0OaATf7jX2J lEnRl+olsSsrMn+Z1sJKK44otRsm7Co+SKQejN1x9X7SZvR7vSJlNvN1hkjRvY7w Kwp+b5K60h+TnZnhvHhUGn0tdFBGHZQhuewhI1DHkOkHGuz5UpM18gA1gQSg/p6H ylWuv5hDegHQjP1uVi/POU1U20OMKHe8HtKbvxCjF40yF4jzftkSTl9PQYYjRSH7 XqE/fxEcQhB6Kvoqwr2XaUYpuu11W5l1gEeQ2IEl1fYXrsNNq8aAwhcVcHjBpk84 umg6WtRoxnZJNK73B4Yfe5evUpCFkr8k -----END CERTIFICATE----- -----BEGIN CERTIFICATE----MIIFBTCCAu2gAwIBAgIQS6hSk/eaL6JzBkuoBI110DANBgkqhkiG9w0BAQsFADBP MQswCQYDVQQGEwJVUzEpMCcGA1UEChMgSW50ZXJuZXQgU2VjdXJpdHkgUmVzZWFy Y2ggR3JvdXAxFTATBgNVBAMTDElTUkcgUm9vdCBYMTAeFw0yNDAzMTMwMDAwMDBa"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 30.273,
+            "t": 687.0530075,
+            "r": 626.253,
+            "b": 6.996007500000019,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4194
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 30.273,
+            "t": 687.0528375,
+            "r": 626.253,
+            "b": 652.7148374999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            4195,
+            4446
+          ]
+        }
+      ],
+      "orig": "Fw0yNzAzMTIyMzU5NTlaMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBF bmNyeXB0MQwwCgYDVQQDEwNSMTAwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK AoIBAQDPV+XmxFQS7bRH/sknWHZGUCiMHT6I3wWd1bUYKb3dtVq/+vbOo76vACFL YlpaPAEvxVgD9on/jhFD68G14BQHlo9vH9fnuoE5CXVlt8KvGFs3Jijno/QHK20a /6tYvJWuQP/py1fEtVt/eA0YYbwX51TGu0mRzW4Y0YCF7qZlNrx06rxQTOr8IfM4 FpOUurDTazgGzRYSespSdcitdrLCnF2YRVxvYXvGLe48E1KGAdlX5jgc3421H5KR mudKHMxFqHJV8LDmowfs/acbZp4/SItxhHFYyTr6717yW0QrPHTnj7JHwQdqzZq3 DZb3EoEmUVQK7GH29/Xi8orIlQ2NAgMBAAGjgfgwgfUwDgYDVR0PAQH/BAQDAgGG MB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDATASBgNVHRMBAf8ECDAGAQH/ AgEAMB0GA1UdDgQWBBS7vMNHpeS8qcbDpHIMEI2iNeHI6DAfBgNVHSMEGDAWgBR5 tFnme7bl5AFzgAiIyBpY9umbbjAyBggrBgEFBQcBAQQmMCQwIgYIKwYBBQUHMAKG Fmh0dHA6Ly94MS5pLmxlbmNyLm9yZy8wEwYDVR0gBAwwCjAIBgZngQwBAgEwJwYD VR0fBCAwHjAcoBqgGIYWaHR0cDovL3gxLmMubGVuY3Iub3JnLzANBgkqhkiG9w0B AQsFAAOCAgEAkrHnQTfreZ2B5s3iJeE6IOmQRJWjgVzPw139vaBw1bGWKCIL0vIo zwzn1OZDjCQiHcFCktEJr59L9MhwTyAWsVrdAfYf+B9haxQnsHKNY67u4s5Lzzfd u6PUzeetUK29v+PsPmI2cJkxp+iN3epi4hKu9ZzUPSwMqtCceb7qPVxEbpYxY1p9 1n5PJKBLBX9eb9LU6l8zSxPWV7bK3lG4XaMJgnT9x3ies7msFtpKK5bDtotij/l0 GaKeA97pb5uwD9KgWvaFXMIEt8jVTjLEvwRdvCn294GPDF08U8lAkIv7tghluaQh 1QnlE4SEN4LOECj8dsIGJXpGUk3aU3KkJz9icKy+aUgA+2cP21uh6NcDIS3XyfaZ QjmDQ993ChII8SXWupQZVBiIpcWO4RqZk3lr7Bz5MUCwzDIA359e57SSq5CCkY0N 4B6Vulk7LktfwrdGNVI5BsC9qqxSwSKgRJeZ9wygIaehbHFHFhcBaMDKpiZlBHyz rsnnlFXCb5s8HKn5LsUgGvB24L7sGNZP2CX7dhHov+YhD+jozLW2p9W4959Bz2Ei RmqDtmiXLnzqTpXbI+suyCsohKRg6Un0RC47+cpiVwHiXZAW+cn8eiNIjqbVgXLx KPpdzvvtTnOPlC7SQZSYmdunr3Bf9b77AiC/ZidstK36dRILKz7OA54= -----END CERTIFICATE----- -----BEGIN CERTIFICATE----- MIIFazCCA1OgAwIBAgIRAIIQz7DSQONZRGPgu2OCiwAwDQYJKoZIhvcNAQELBQAw TzELMAkGA1UEBhMCVVMxKTAnBgNVBAoTIEludGVybmV0IFNlY3VyaXR5IFJlc2Vh cmNoIEdyb3VwMRUwEwYDVQQDEwxJU1JHIFJvb3QgWDEwHhcNMTUwNjA0MTEwNDM4 WhcNMzUwNjA0MTEwNDM4WjBPMQswCQYDVQQGEwJVUzEpMCcGA1UEChMgSW50ZXJu ZXQgU2VjdXJpdHkgUmVzZWFyY2ggR3JvdXAxFTATBgNVBAMTDElTUkcgUm9vdCBY MTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAK3oJHP0FDfzm54rVygc h77ct984kIxuPOZXoHj3dcKi/vVqbvYATyjb3miGbESTtrFj/RQSa78f0uoxmyF+ 0TM8ukj13Xnfs7j/EvEhmkvBioZxaUpmZmyPfjxwv60pIgbz5MDmgK7iS4+3mX6U A5/TR5d8mUgjU+g4rk8Kb4Mu0UlXjIB0ttov0DiNewNwIRt18jA8+o+u3dpjq+sW T8KOEUt+zwvo/7V3LvSye0rgTBIlDHCNAymg4VMk7BPZ7hm/ELNKjD+Jo2FR3qyH B5T0Y3HsLuJvW5iB4YlcNHlsdu87kGJ55tukmi8mxdAQ4Q7e2RCOFvu396j3x+UC B5iPNgiV5+I3lg02dZ77DnKxHZu8A/lJBdiB3QW0KtZB6awBdpUKD9jf1b0SHzUv KBds0pjBqAlkd25HN7rOrFleaJ1/ctaJxQZBKT5ZPt0m9STJEadao0xAH0ahmbWn OlFuhjuefXKnEgV4We0+UXgVCwOPjdAvBbI+e0ocS3MFEvzG6uBQE3xDk3SzynTn jh8BCNAw1FtxNrQHusEwMFxIt4I7mKZ9YIqioymCzLq9gwQbooMDQaHWBfEbwrbw qHyGO0aoSCqI3Haadr8faqU9GY/rOPNk3sgrDQoo//fb4hVC1CLQJ13hef4Y53CI rU7m2Ys6xt0nUW7/vGT1M0NPAgMBAAGjQjBAMA4GA1UdDwEB/wQEAwIBBjAPBgNV HRMBAf8EBTADAQH/MB0GA1UdDgQWBBR5tFnme7bl5AFzgAiIyBpY9umbbjANBgkq hkiG9w0BAQsFAAOCAgEAVR9YqbyyqFDQDLHYGmkgJykIrGF1XIpu+ILlaS/V9lZL ubhzEFnTIZd+50xx+7LSYK05qAvqFyFWhfFQDlnrzuBZ6brJFe+GnY+EgPbk6ZGQ 3BebYhtF8GaV0nxvwuo77x/Py9auJ/GpsMiu/X1+mvoiBOv/2X/qkSsisRcOj/KK NFtY2PwByVS5uCbMiogziUwthDyC3+6WVwW6LLv3xLfHTjuCvjHIInNzktHCgKQ5 ORAzI4JMPJ+GslWYHb4phowim57iaztXOoJwTdwJx4nLCgdNbOhdjsnvzqvHu7Ur TkXWStAmzOVyyghqpZXjFaH3pO3JLF+l+/+sKAIuvtd7u+Nxe5AW0wdeRlN8NwdC jNPElpzVmbUq4JUagEiuTDkHzsxHpFKVK7q4+63SM1N95R1NbdWhscdCb+ZAJzVc oyi3B43njTOQ5yOf+1CceWxG1bQVs5ZufpsMljq4Ui0/1lvh+wjChP4kqKOJ2qxq 4RgqsahDYVvTH9w7jXbyLeiNdd8XM2w9U/t7y0Ff/9yi0GE44Za4rF2LN9d11TPA mRGunUHBcnWEvgJBQl9nJEiU0Zsnvgc/ubhPgXRR4Xq37Z0j4r7g1SgEEzwxA57d emyPxgcYxn/eR44/KJ4EBs+lVDR3veyJm+kXQ99b21/+jh5Xos1AnX5iItreGCc= -----END CERTIFICATE----Certificate Transparency: SCT DigiCert 'Sphinx2025h2' Log (Embedded in certificate, Verified) SCT Cloudflare 'Nimbus2025' (Embedded in certificate, Verified) Warnings may be common while websites update their security. This should improve soon. Help improve security on the web for everyone by sending URLs of some pages you visit, limited system information, and some page content to Google. Privacy policy Turn on enhanced protection to get Chrome's highest level of security Back to safety Advanced This server could not prove that it is www.agenciainformativaguerrero.com ; its security certificate expired 58 days ago. This may be caused by a misconfiguration or an attacker intercepting your connection. Your computer's clock is currently set to Monday, September 15, 2025. Does that look right? If not, you should correct your system's clock and then refresh this page. Proceed to www.agenciainformativaguerrero.com (unsafe)",
+      "text": "Fw0yNzAzMTIyMzU5NTlaMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBF bmNyeXB0MQwwCgYDVQQDEwNSMTAwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK AoIBAQDPV+XmxFQS7bRH/sknWHZGUCiMHT6I3wWd1bUYKb3dtVq/+vbOo76vACFL YlpaPAEvxVgD9on/jhFD68G14BQHlo9vH9fnuoE5CXVlt8KvGFs3Jijno/QHK20a /6tYvJWuQP/py1fEtVt/eA0YYbwX51TGu0mRzW4Y0YCF7qZlNrx06rxQTOr8IfM4 FpOUurDTazgGzRYSespSdcitdrLCnF2YRVxvYXvGLe48E1KGAdlX5jgc3421H5KR mudKHMxFqHJV8LDmowfs/acbZp4/SItxhHFYyTr6717yW0QrPHTnj7JHwQdqzZq3 DZb3EoEmUVQK7GH29/Xi8orIlQ2NAgMBAAGjgfgwgfUwDgYDVR0PAQH/BAQDAgGG MB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDATASBgNVHRMBAf8ECDAGAQH/ AgEAMB0GA1UdDgQWBBS7vMNHpeS8qcbDpHIMEI2iNeHI6DAfBgNVHSMEGDAWgBR5 tFnme7bl5AFzgAiIyBpY9umbbjAyBggrBgEFBQcBAQQmMCQwIgYIKwYBBQUHMAKG Fmh0dHA6Ly94MS5pLmxlbmNyLm9yZy8wEwYDVR0gBAwwCjAIBgZngQwBAgEwJwYD VR0fBCAwHjAcoBqgGIYWaHR0cDovL3gxLmMubGVuY3Iub3JnLzANBgkqhkiG9w0B AQsFAAOCAgEAkrHnQTfreZ2B5s3iJeE6IOmQRJWjgVzPw139vaBw1bGWKCIL0vIo zwzn1OZDjCQiHcFCktEJr59L9MhwTyAWsVrdAfYf+B9haxQnsHKNY67u4s5Lzzfd u6PUzeetUK29v+PsPmI2cJkxp+iN3epi4hKu9ZzUPSwMqtCceb7qPVxEbpYxY1p9 1n5PJKBLBX9eb9LU6l8zSxPWV7bK3lG4XaMJgnT9x3ies7msFtpKK5bDtotij/l0 GaKeA97pb5uwD9KgWvaFXMIEt8jVTjLEvwRdvCn294GPDF08U8lAkIv7tghluaQh 1QnlE4SEN4LOECj8dsIGJXpGUk3aU3KkJz9icKy+aUgA+2cP21uh6NcDIS3XyfaZ QjmDQ993ChII8SXWupQZVBiIpcWO4RqZk3lr7Bz5MUCwzDIA359e57SSq5CCkY0N 4B6Vulk7LktfwrdGNVI5BsC9qqxSwSKgRJeZ9wygIaehbHFHFhcBaMDKpiZlBHyz rsnnlFXCb5s8HKn5LsUgGvB24L7sGNZP2CX7dhHov+YhD+jozLW2p9W4959Bz2Ei RmqDtmiXLnzqTpXbI+suyCsohKRg6Un0RC47+cpiVwHiXZAW+cn8eiNIjqbVgXLx KPpdzvvtTnOPlC7SQZSYmdunr3Bf9b77AiC/ZidstK36dRILKz7OA54= -----END CERTIFICATE----- -----BEGIN CERTIFICATE----- MIIFazCCA1OgAwIBAgIRAIIQz7DSQONZRGPgu2OCiwAwDQYJKoZIhvcNAQELBQAw TzELMAkGA1UEBhMCVVMxKTAnBgNVBAoTIEludGVybmV0IFNlY3VyaXR5IFJlc2Vh cmNoIEdyb3VwMRUwEwYDVQQDEwxJU1JHIFJvb3QgWDEwHhcNMTUwNjA0MTEwNDM4 WhcNMzUwNjA0MTEwNDM4WjBPMQswCQYDVQQGEwJVUzEpMCcGA1UEChMgSW50ZXJu ZXQgU2VjdXJpdHkgUmVzZWFyY2ggR3JvdXAxFTATBgNVBAMTDElTUkcgUm9vdCBY MTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAK3oJHP0FDfzm54rVygc h77ct984kIxuPOZXoHj3dcKi/vVqbvYATyjb3miGbESTtrFj/RQSa78f0uoxmyF+ 0TM8ukj13Xnfs7j/EvEhmkvBioZxaUpmZmyPfjxwv60pIgbz5MDmgK7iS4+3mX6U A5/TR5d8mUgjU+g4rk8Kb4Mu0UlXjIB0ttov0DiNewNwIRt18jA8+o+u3dpjq+sW T8KOEUt+zwvo/7V3LvSye0rgTBIlDHCNAymg4VMk7BPZ7hm/ELNKjD+Jo2FR3qyH B5T0Y3HsLuJvW5iB4YlcNHlsdu87kGJ55tukmi8mxdAQ4Q7e2RCOFvu396j3x+UC B5iPNgiV5+I3lg02dZ77DnKxHZu8A/lJBdiB3QW0KtZB6awBdpUKD9jf1b0SHzUv KBds0pjBqAlkd25HN7rOrFleaJ1/ctaJxQZBKT5ZPt0m9STJEadao0xAH0ahmbWn OlFuhjuefXKnEgV4We0+UXgVCwOPjdAvBbI+e0ocS3MFEvzG6uBQE3xDk3SzynTn jh8BCNAw1FtxNrQHusEwMFxIt4I7mKZ9YIqioymCzLq9gwQbooMDQaHWBfEbwrbw qHyGO0aoSCqI3Haadr8faqU9GY/rOPNk3sgrDQoo//fb4hVC1CLQJ13hef4Y53CI rU7m2Ys6xt0nUW7/vGT1M0NPAgMBAAGjQjBAMA4GA1UdDwEB/wQEAwIBBjAPBgNV HRMBAf8EBTADAQH/MB0GA1UdDgQWBBR5tFnme7bl5AFzgAiIyBpY9umbbjANBgkq hkiG9w0BAQsFAAOCAgEAVR9YqbyyqFDQDLHYGmkgJykIrGF1XIpu+ILlaS/V9lZL ubhzEFnTIZd+50xx+7LSYK05qAvqFyFWhfFQDlnrzuBZ6brJFe+GnY+EgPbk6ZGQ 3BebYhtF8GaV0nxvwuo77x/Py9auJ/GpsMiu/X1+mvoiBOv/2X/qkSsisRcOj/KK NFtY2PwByVS5uCbMiogziUwthDyC3+6WVwW6LLv3xLfHTjuCvjHIInNzktHCgKQ5 ORAzI4JMPJ+GslWYHb4phowim57iaztXOoJwTdwJx4nLCgdNbOhdjsnvzqvHu7Ur TkXWStAmzOVyyghqpZXjFaH3pO3JLF+l+/+sKAIuvtd7u+Nxe5AW0wdeRlN8NwdC jNPElpzVmbUq4JUagEiuTDkHzsxHpFKVK7q4+63SM1N95R1NbdWhscdCb+ZAJzVc oyi3B43njTOQ5yOf+1CceWxG1bQVs5ZufpsMljq4Ui0/1lvh+wjChP4kqKOJ2qxq 4RgqsahDYVvTH9w7jXbyLeiNdd8XM2w9U/t7y0Ff/9yi0GE44Za4rF2LN9d11TPA mRGunUHBcnWEvgJBQl9nJEiU0Zsnvgc/ubhPgXRR4Xq37Z0j4r7g1SgEEzwxA57d emyPxgcYxn/eR44/KJ4EBs+lVDR3veyJm+kXQ99b21/+jh5Xos1AnX5iItreGCc= -----END CERTIFICATE----Certificate Transparency: SCT DigiCert 'Sphinx2025h2' Log (Embedded in certificate, Verified) SCT Cloudflare 'Nimbus2025' (Embedded in certificate, Verified) Warnings may be common while websites update their security. This should improve soon. Help improve security on the web for everyone by sending URLs of some pages you visit, limited system information, and some page content to Google. Privacy policy Turn on enhanced protection to get Chrome's highest level of security Back to safety Advanced This server could not prove that it is www.agenciainformativaguerrero.com ; its security certificate expired 58 days ago. This may be caused by a misconfiguration or an attacker intercepting your connection. Your computer's clock is currently set to Monday, September 15, 2025. Does that look right? If not, you should correct your system's clock and then refresh this page. Proceed to www.agenciainformativaguerrero.com (unsafe)"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 627.0045776367188,
+        "height": 724.6640625
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 633.0202026367188,
+        "height": 725.0234375
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 633.0202026367188,
+        "height": 662.49365234375
+      },
+      "page_no": 3
+    }
+  }
+}

@@ -171,7 +171,7 @@
         "$ref": "#/groups/4"
       },
       {
-        "$ref": "#/texts/131"
+        "$ref": "#/texts/132"
       },
       {
         "$ref": "#/pictures/17"
@@ -180,22 +180,19 @@
         "$ref": "#/pictures/18"
       },
       {
-        "$ref": "#/texts/133"
-      },
-      {
         "$ref": "#/texts/134"
-      },
-      {
-        "$ref": "#/pictures/19"
       },
       {
         "$ref": "#/texts/135"
       },
       {
-        "$ref": "#/pictures/20"
+        "$ref": "#/pictures/19"
       },
       {
         "$ref": "#/texts/136"
+      },
+      {
+        "$ref": "#/pictures/20"
       },
       {
         "$ref": "#/texts/137"
@@ -210,10 +207,10 @@
         "$ref": "#/texts/140"
       },
       {
-        "$ref": "#/pictures/21"
+        "$ref": "#/texts/141"
       },
       {
-        "$ref": "#/texts/143"
+        "$ref": "#/pictures/21"
       },
       {
         "$ref": "#/texts/144"
@@ -234,25 +231,25 @@
         "$ref": "#/texts/149"
       },
       {
-        "$ref": "#/pictures/22"
-      },
-      {
         "$ref": "#/texts/150"
       },
       {
-        "$ref": "#/pictures/23"
+        "$ref": "#/pictures/22"
       },
       {
         "$ref": "#/texts/151"
       },
       {
+        "$ref": "#/pictures/23"
+      },
+      {
         "$ref": "#/texts/152"
       },
       {
-        "$ref": "#/pictures/24"
+        "$ref": "#/texts/153"
       },
       {
-        "$ref": "#/texts/153"
+        "$ref": "#/pictures/24"
       },
       {
         "$ref": "#/texts/154"
@@ -267,10 +264,10 @@
         "$ref": "#/texts/157"
       },
       {
-        "$ref": "#/pictures/25"
+        "$ref": "#/texts/158"
       },
       {
-        "$ref": "#/texts/158"
+        "$ref": "#/pictures/25"
       },
       {
         "$ref": "#/texts/159"
@@ -279,28 +276,31 @@
         "$ref": "#/texts/160"
       },
       {
+        "$ref": "#/texts/161"
+      },
+      {
         "$ref": "#/pictures/26"
       },
       {
-        "$ref": "#/texts/161"
+        "$ref": "#/texts/162"
       },
       {
         "$ref": "#/groups/6"
       },
       {
-        "$ref": "#/texts/164"
+        "$ref": "#/texts/165"
       },
       {
         "$ref": "#/groups/7"
       },
       {
-        "$ref": "#/texts/169"
+        "$ref": "#/texts/170"
       },
       {
         "$ref": "#/groups/8"
       },
       {
-        "$ref": "#/texts/178"
+        "$ref": "#/texts/179"
       },
       {
         "$ref": "#/groups/9"
@@ -309,10 +309,10 @@
         "$ref": "#/pictures/27"
       },
       {
-        "$ref": "#/texts/185"
+        "$ref": "#/texts/186"
       },
       {
-        "$ref": "#/texts/186"
+        "$ref": "#/texts/187"
       },
       {
         "$ref": "#/groups/10"
@@ -500,10 +500,10 @@
           "$ref": "#/texts/122"
         },
         {
-          "$ref": "#/groups/5"
+          "$ref": "#/texts/123"
         },
         {
-          "$ref": "#/texts/124"
+          "$ref": "#/groups/5"
         },
         {
           "$ref": "#/texts/125"
@@ -522,6 +522,9 @@
         },
         {
           "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
         }
       ],
       "content_layer": "body",
@@ -535,7 +538,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/123"
+          "$ref": "#/texts/124"
         }
       ],
       "content_layer": "body",
@@ -549,10 +552,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/162"
+          "$ref": "#/texts/163"
         },
         {
-          "$ref": "#/texts/163"
+          "$ref": "#/texts/164"
         }
       ],
       "content_layer": "body",
@@ -566,9 +569,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/165"
-        },
-        {
           "$ref": "#/texts/166"
         },
         {
@@ -576,6 +576,9 @@
         },
         {
           "$ref": "#/texts/168"
+        },
+        {
+          "$ref": "#/texts/169"
         }
       ],
       "content_layer": "body",
@@ -588,9 +591,6 @@
         "$ref": "#/body"
       },
       "children": [
-        {
-          "$ref": "#/texts/170"
-        },
         {
           "$ref": "#/texts/171"
         },
@@ -611,6 +611,9 @@
         },
         {
           "$ref": "#/texts/177"
+        },
+        {
+          "$ref": "#/texts/178"
         }
       ],
       "content_layer": "body",
@@ -624,9 +627,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/179"
-        },
-        {
           "$ref": "#/texts/180"
         },
         {
@@ -637,6 +637,9 @@
         },
         {
           "$ref": "#/texts/183"
+        },
+        {
+          "$ref": "#/texts/184"
         }
       ],
       "content_layer": "body",
@@ -650,7 +653,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/187"
+          "$ref": "#/texts/188"
         }
       ],
       "content_layer": "body",
@@ -3991,21 +3994,48 @@
           "bbox": {
             "l": 70.269,
             "t": 378.16300291015625,
+            "r": 103.619,
+            "b": 372.14400291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Seguir",
+      "text": "Seguir"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 121.621,
+            "t": 376.1760029101562,
             "r": 463.629,
             "b": 371.6620029101562,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             0,
-            102
+            95
           ]
         }
       ],
-      "orig": "Seguir Marca esta casilla para recibir una notificación cuando alguien más comente sobre esta noticia.",
-      "text": "Seguir Marca esta casilla para recibir una notificación cuando alguien más comente sobre esta noticia."
+      "orig": "Marca esta casilla para recibir una notificación cuando alguien más comente sobre esta noticia.",
+      "text": "Marca esta casilla para recibir una notificación cuando alguien más comente sobre esta noticia."
     },
     {
-      "self_ref": "#/texts/121",
+      "self_ref": "#/texts/122",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -4032,7 +4062,7 @@
       "text": "Comentario"
     },
     {
-      "self_ref": "#/texts/122",
+      "self_ref": "#/texts/123",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -4059,7 +4089,7 @@
       "text": "A fin de mantener la buena conducta, queda estrictamente prohibido cualquier insulto, amenaza o insinuación hacia cualquier persona. No se permite el lenguaje difamatorio, ilegal, obsceno, ofensivo o faltas de respeto."
     },
     {
-      "self_ref": "#/texts/123",
+      "self_ref": "#/texts/124",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -4088,7 +4118,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/124",
+      "self_ref": "#/texts/125",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -4115,7 +4145,7 @@
       "text": "Gracias"
     },
     {
-      "self_ref": "#/texts/125",
+      "self_ref": "#/texts/126",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -4142,7 +4172,7 @@
       "text": "Aviso de privacidad"
     },
     {
-      "self_ref": "#/texts/126",
+      "self_ref": "#/texts/127",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -4169,7 +4199,7 @@
       "text": "Agregar"
     },
     {
-      "self_ref": "#/texts/127",
+      "self_ref": "#/texts/128",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -4196,7 +4226,7 @@
       "text": "07/20/2018 10:10:52 a. m. - MUNRA"
     },
     {
-      "self_ref": "#/texts/128",
+      "self_ref": "#/texts/129",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -4223,7 +4253,7 @@
       "text": "1"
     },
     {
-      "self_ref": "#/texts/129",
+      "self_ref": "#/texts/130",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -4250,7 +4280,7 @@
       "text": "2"
     },
     {
-      "self_ref": "#/texts/130",
+      "self_ref": "#/texts/131",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -4277,7 +4307,7 @@
       "text": "SE DESAPARECIO HECTOR SANTOS ??? TA CABRON. VIEJO DECREPITO"
     },
     {
-      "self_ref": "#/texts/131",
+      "self_ref": "#/texts/132",
       "parent": {
         "$ref": "#/body"
       },
@@ -4304,7 +4334,7 @@
       "text": "PUBLICIDAD"
     },
     {
-      "self_ref": "#/texts/132",
+      "self_ref": "#/texts/133",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -4331,7 +4361,7 @@
       "text": "Las Últimas 7 de Locales"
     },
     {
-      "self_ref": "#/texts/133",
+      "self_ref": "#/texts/134",
       "parent": {
         "$ref": "#/body"
       },
@@ -4358,7 +4388,7 @@
       "text": "Aseguran patrulla clonada al sur de Monterrey"
     },
     {
-      "self_ref": "#/texts/134",
+      "self_ref": "#/texts/135",
       "parent": {
         "$ref": "#/body"
       },
@@ -4385,7 +4415,7 @@
       "text": "Adolescente ignora peligro en estación San Bernabé"
     },
     {
-      "self_ref": "#/texts/135",
+      "self_ref": "#/texts/136",
       "parent": {
         "$ref": "#/body"
       },
@@ -4412,7 +4442,7 @@
       "text": "Ataque a balazos en Apodaca deja 1 muerto y 4 heridos"
     },
     {
-      "self_ref": "#/texts/136",
+      "self_ref": "#/texts/137",
       "parent": {
         "$ref": "#/body"
       },
@@ -4439,7 +4469,7 @@
       "text": "Identifican a 2 de los asesinados en Doctor González Recomendado"
     },
     {
-      "self_ref": "#/texts/137",
+      "self_ref": "#/texts/138",
       "parent": {
         "$ref": "#/body"
       },
@@ -4480,7 +4510,7 @@
       "text": "Catean autoridades domicilio en Cumbres"
     },
     {
-      "self_ref": "#/texts/138",
+      "self_ref": "#/texts/139",
       "parent": {
         "$ref": "#/body"
       },
@@ -4507,7 +4537,7 @@
       "text": "Elementos estatales y federales catearon un domicilio en la colonia Cumbres Providencia,"
     },
     {
-      "self_ref": "#/texts/139",
+      "self_ref": "#/texts/140",
       "parent": {
         "$ref": "#/body"
       },
@@ -4535,7 +4565,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/140",
+      "self_ref": "#/texts/141",
       "parent": {
         "$ref": "#/body"
       },
@@ -4562,7 +4592,7 @@
       "text": "Ejecutan a 5 en Doctor González; niña"
     },
     {
-      "self_ref": "#/texts/141",
+      "self_ref": "#/texts/142",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -4589,7 +4619,7 @@
       "text": "Locales"
     },
     {
-      "self_ref": "#/texts/142",
+      "self_ref": "#/texts/143",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -4616,7 +4646,7 @@
       "text": "Nacional"
     },
     {
-      "self_ref": "#/texts/143",
+      "self_ref": "#/texts/144",
       "parent": {
         "$ref": "#/body"
       },
@@ -4657,7 +4687,7 @@
       "text": "PGR deberá publicar resulta lesionada"
     },
     {
-      "self_ref": "#/texts/144",
+      "self_ref": "#/texts/145",
       "parent": {
         "$ref": "#/body"
       },
@@ -4698,7 +4728,7 @@
       "text": "videocasete sobre asesinato de Luis Donaldo Colosio"
     },
     {
-      "self_ref": "#/texts/145",
+      "self_ref": "#/texts/146",
       "parent": {
         "$ref": "#/body"
       },
@@ -4725,7 +4755,7 @@
       "text": "El Instituto de Transparencia ordenó a la Procuraduría"
     },
     {
-      "self_ref": "#/texts/146",
+      "self_ref": "#/texts/147",
       "parent": {
         "$ref": "#/body"
       },
@@ -4753,7 +4783,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/147",
+      "self_ref": "#/texts/148",
       "parent": {
         "$ref": "#/body"
       },
@@ -4794,7 +4824,7 @@
       "text": "Crece tragedia por sismo en Indonesia: habría unos siete mil muertos"
     },
     {
-      "self_ref": "#/texts/148",
+      "self_ref": "#/texts/149",
       "parent": {
         "$ref": "#/body"
       },
@@ -4821,7 +4851,7 @@
       "text": "Muere mujer atropellada en la"
     },
     {
-      "self_ref": "#/texts/149",
+      "self_ref": "#/texts/150",
       "parent": {
         "$ref": "#/body"
       },
@@ -4848,7 +4878,7 @@
       "text": "Autoridades de Indonesia"
     },
     {
-      "self_ref": "#/texts/150",
+      "self_ref": "#/texts/151",
       "parent": {
         "$ref": "#/body"
       },
@@ -4875,7 +4905,7 @@
       "text": "Internacional"
     },
     {
-      "self_ref": "#/texts/151",
+      "self_ref": "#/texts/152",
       "parent": {
         "$ref": "#/body"
       },
@@ -4902,7 +4932,7 @@
       "text": "Carretera Nacional"
     },
     {
-      "self_ref": "#/texts/152",
+      "self_ref": "#/texts/153",
       "parent": {
         "$ref": "#/body"
       },
@@ -4929,7 +4959,7 @@
       "text": "Deportes"
     },
     {
-      "self_ref": "#/texts/153",
+      "self_ref": "#/texts/154",
       "parent": {
         "$ref": "#/body"
       },
@@ -4957,7 +4987,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/154",
+      "self_ref": "#/texts/155",
       "parent": {
         "$ref": "#/body"
       },
@@ -4984,7 +5014,7 @@
       "text": "Feria de goles jornada 12 Apertura 2018 Disfruta los goles de la jornada 12 del Torneo Apertura 2018 de la Liga MX"
     },
     {
-      "self_ref": "#/texts/155",
+      "self_ref": "#/texts/156",
       "parent": {
         "$ref": "#/body"
       },
@@ -5025,7 +5055,7 @@
       "text": "Impacta tráiler a dos vehículos y deja 4 ESPECIALES Espectáculos lesionados en Pesquería"
     },
     {
-      "self_ref": "#/texts/156",
+      "self_ref": "#/texts/157",
       "parent": {
         "$ref": "#/body"
       },
@@ -5066,7 +5096,7 @@
       "text": "Lena Dunham mostró su ropa interior a Brad Pitt,"
     },
     {
-      "self_ref": "#/texts/157",
+      "self_ref": "#/texts/158",
       "parent": {
         "$ref": "#/body"
       },
@@ -5093,7 +5123,7 @@
       "text": "pero ¿por qué?"
     },
     {
-      "self_ref": "#/texts/158",
+      "self_ref": "#/texts/159",
       "parent": {
         "$ref": "#/body"
       },
@@ -5120,7 +5150,7 @@
       "text": "estimaron hoy que más de"
     },
     {
-      "self_ref": "#/texts/159",
+      "self_ref": "#/texts/160",
       "parent": {
         "$ref": "#/body"
       },
@@ -5147,7 +5177,7 @@
       "text": "Aquí la explicación de lo que"
     },
     {
-      "self_ref": "#/texts/160",
+      "self_ref": "#/texts/161",
       "parent": {
         "$ref": "#/body"
       },
@@ -5174,7 +5204,7 @@
       "text": "Espectáculos"
     },
     {
-      "self_ref": "#/texts/161",
+      "self_ref": "#/texts/162",
       "parent": {
         "$ref": "#/body"
       },
@@ -5202,7 +5232,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/162",
+      "self_ref": "#/texts/163",
       "parent": {
         "$ref": "#/groups/6"
       },
@@ -5231,7 +5261,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/163",
+      "self_ref": "#/texts/164",
       "parent": {
         "$ref": "#/groups/6"
       },
@@ -5260,7 +5290,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/164",
+      "self_ref": "#/texts/165",
       "parent": {
         "$ref": "#/body"
       },
@@ -5288,7 +5318,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/165",
+      "self_ref": "#/texts/166",
       "parent": {
         "$ref": "#/groups/7"
       },
@@ -5317,7 +5347,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/166",
+      "self_ref": "#/texts/167",
       "parent": {
         "$ref": "#/groups/7"
       },
@@ -5346,7 +5376,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/167",
+      "self_ref": "#/texts/168",
       "parent": {
         "$ref": "#/groups/7"
       },
@@ -5375,7 +5405,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/168",
+      "self_ref": "#/texts/169",
       "parent": {
         "$ref": "#/groups/7"
       },
@@ -5404,7 +5434,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/169",
+      "self_ref": "#/texts/170",
       "parent": {
         "$ref": "#/body"
       },
@@ -5432,7 +5462,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/170",
+      "self_ref": "#/texts/171",
       "parent": {
         "$ref": "#/groups/8"
       },
@@ -5461,7 +5491,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/171",
+      "self_ref": "#/texts/172",
       "parent": {
         "$ref": "#/groups/8"
       },
@@ -5490,7 +5520,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/172",
+      "self_ref": "#/texts/173",
       "parent": {
         "$ref": "#/groups/8"
       },
@@ -5519,7 +5549,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/173",
+      "self_ref": "#/texts/174",
       "parent": {
         "$ref": "#/groups/8"
       },
@@ -5548,7 +5578,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/174",
+      "self_ref": "#/texts/175",
       "parent": {
         "$ref": "#/groups/8"
       },
@@ -5577,7 +5607,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/175",
+      "self_ref": "#/texts/176",
       "parent": {
         "$ref": "#/groups/8"
       },
@@ -5606,7 +5636,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/176",
+      "self_ref": "#/texts/177",
       "parent": {
         "$ref": "#/groups/8"
       },
@@ -5635,7 +5665,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/177",
+      "self_ref": "#/texts/178",
       "parent": {
         "$ref": "#/groups/8"
       },
@@ -5664,7 +5694,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/178",
+      "self_ref": "#/texts/179",
       "parent": {
         "$ref": "#/body"
       },
@@ -5692,7 +5722,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/179",
+      "self_ref": "#/texts/180",
       "parent": {
         "$ref": "#/groups/9"
       },
@@ -5721,7 +5751,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/180",
+      "self_ref": "#/texts/181",
       "parent": {
         "$ref": "#/groups/9"
       },
@@ -5750,7 +5780,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/181",
+      "self_ref": "#/texts/182",
       "parent": {
         "$ref": "#/groups/9"
       },
@@ -5779,7 +5809,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/182",
+      "self_ref": "#/texts/183",
       "parent": {
         "$ref": "#/groups/9"
       },
@@ -5808,7 +5838,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/183",
+      "self_ref": "#/texts/184",
       "parent": {
         "$ref": "#/groups/9"
       },
@@ -5837,7 +5867,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/184",
+      "self_ref": "#/texts/185",
       "parent": {
         "$ref": "#/pictures/27"
       },
@@ -5864,7 +5894,7 @@
       "text": "©2018 Azteca Noreste"
     },
     {
-      "self_ref": "#/texts/185",
+      "self_ref": "#/texts/186",
       "parent": {
         "$ref": "#/body"
       },
@@ -5892,7 +5922,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/186",
+      "self_ref": "#/texts/187",
       "parent": {
         "$ref": "#/body"
       },
@@ -5919,7 +5949,7 @@
       "text": "Mujeres Desde La Raíz: Tendencias en maquillaje otoño-invierno Carolina Zendejas nos presenta las últimas tendencias sobre"
     },
     {
-      "self_ref": "#/texts/187",
+      "self_ref": "#/texts/188",
       "parent": {
         "$ref": "#/groups/10"
       },
@@ -5961,10 +5991,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 34.737403869628906,
-            "t": 399.1792907714844,
-            "r": 99.99181365966797,
-            "b": 348.6054382324219,
+            "l": 34.73755645751953,
+            "t": 399.1792297363281,
+            "r": 99.99183654785156,
+            "b": 348.60577392578125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5997,10 +6027,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 45.771827697753906,
-            "t": 333.873046875,
-            "r": 132.98707580566406,
-            "b": 304.50665283203125,
+            "l": 45.77210235595703,
+            "t": 333.872802734375,
+            "r": 132.98660278320312,
+            "b": 304.5067138671875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6147,10 +6177,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 47.596229553222656,
-            "t": 649.5997772216797,
-            "r": 506.2209777832031,
-            "b": 391.62725830078125,
+            "l": 47.594085693359375,
+            "t": 649.5990600585938,
+            "r": 506.2221984863281,
+            "b": 391.6289367675781,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6180,10 +6210,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 210.32667541503906,
-            "t": 264.34075927734375,
-            "r": 350.4273376464844,
-            "b": 244.75823974609375,
+            "l": 210.3260040283203,
+            "t": 264.340576171875,
+            "r": 350.4276123046875,
+            "b": 244.75836181640625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6219,10 +6249,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 176.3714141845703,
-            "t": 788.3208770751953,
-            "r": 249.312744140625,
-            "b": 749.4956741333008,
+            "l": 176.3717498779297,
+            "t": 788.3195533752441,
+            "r": 249.3126220703125,
+            "b": 749.4951705932617,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6248,10 +6278,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 177.26551818847656,
-            "t": 747.725715637207,
-            "r": 247.79591369628906,
-            "b": 654.6769104003906,
+            "l": 177.26589965820312,
+            "t": 747.7253723144531,
+            "r": 247.79470825195312,
+            "b": 654.6723022460938,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6277,10 +6307,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 64.37430572509766,
-            "t": 575.55615234375,
-            "r": 130.01255798339844,
-            "b": 511.2640075683594,
+            "l": 64.34890747070312,
+            "t": 575.5113525390625,
+            "r": 130.02076721191406,
+            "b": 511.2677917480469,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6310,10 +6340,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 38.45108413696289,
-            "t": 431.6351318359375,
-            "r": 94.24822998046875,
-            "b": 404.81414794921875,
+            "l": 38.45134735107422,
+            "t": 431.63323974609375,
+            "r": 94.25020599365234,
+            "b": 404.8169860839844,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6343,10 +6373,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 79.18592834472656,
-            "t": 349.89263916015625,
-            "r": 164.49131774902344,
-            "b": 281.2940673828125,
+            "l": 79.19562530517578,
+            "t": 349.892822265625,
+            "r": 164.5031280517578,
+            "b": 281.29327392578125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6376,10 +6406,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 38.4000129699707,
-            "t": 205.238037109375,
-            "r": 94.23133850097656,
-            "b": 178.179443359375,
+            "l": 38.399818420410156,
+            "t": 205.23834228515625,
+            "r": 94.2326889038086,
+            "b": 178.1798095703125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6409,10 +6439,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 37.74169921875,
-            "t": 158.23260498046875,
-            "r": 146.47911071777344,
-            "b": 88.93115234375,
+            "l": 37.739044189453125,
+            "t": 158.2332763671875,
+            "r": 146.47906494140625,
+            "b": 88.92755126953125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6442,10 +6472,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 55.42344284057617,
-            "t": 810.5424861907959,
-            "r": 134.13265991210938,
-            "b": 748.0496597290039,
+            "l": 55.422054290771484,
+            "t": 810.5435943603516,
+            "r": 134.13308715820312,
+            "b": 748.0480270385742,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6471,10 +6501,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 36.97268295288086,
-            "t": 694.7069091796875,
-            "r": 146.59375,
-            "b": 627.73388671875,
+            "l": 36.97029495239258,
+            "t": 694.7069396972656,
+            "r": 146.59291076660156,
+            "b": 627.7329406738281,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6500,10 +6530,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 37.532371520996094,
-            "t": 576.21240234375,
-            "r": 146.30325317382812,
-            "b": 508.28875732421875,
+            "l": 37.53071975708008,
+            "t": 576.2133178710938,
+            "r": 146.30503845214844,
+            "b": 508.2894592285156,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6529,10 +6559,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 109.56605529785156,
-            "t": 382.6974792480469,
-            "r": 121.26492309570312,
-            "b": 369.7265319824219,
+            "l": 109.56604766845703,
+            "t": 382.6957702636719,
+            "r": 121.2672348022461,
+            "b": 369.72711181640625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6558,10 +6588,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 54.667240142822266,
-            "t": 139.57427978515625,
-            "r": 73.24546813964844,
-            "b": 128.48553466796875,
+            "l": 54.6666145324707,
+            "t": 139.5733642578125,
+            "r": 73.24513244628906,
+            "b": 128.4869384765625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6591,10 +6621,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 79.0531234741211,
-            "t": 139.934326171875,
-            "r": 97.66816711425781,
-            "b": 128.7701416015625,
+            "l": 79.05284881591797,
+            "t": 139.933837890625,
+            "r": 97.6673583984375,
+            "b": 128.7706298828125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6615,7 +6645,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/132"
+          "$ref": "#/texts/133"
         }
       ],
       "content_layer": "body",
@@ -6624,10 +6654,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 33.375823974609375,
-            "t": 58.4969482421875,
-            "r": 178.2783203125,
-            "b": 44.26239013671875,
+            "l": 33.37564468383789,
+            "t": 58.49652099609375,
+            "r": 178.27931213378906,
+            "b": 44.2623291015625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6653,10 +6683,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 60.169189453125,
-            "t": 813.861686706543,
-            "r": 155.7088623046875,
-            "b": 756.5701370239258,
+            "l": 60.15728759765625,
+            "t": 813.8629722595215,
+            "r": 155.71026611328125,
+            "b": 756.5713348388672,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6682,10 +6712,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 59.80656814575195,
-            "t": 593.1992340087891,
-            "r": 156.03848266601562,
-            "b": 535.7510070800781,
+            "l": 59.717750549316406,
+            "t": 593.2034301757812,
+            "r": 156.03472900390625,
+            "b": 535.7511291503906,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6711,10 +6741,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 53.69740676879883,
-            "t": 483.7192687988281,
-            "r": 155.67202758789062,
-            "b": 426.00946044921875,
+            "l": 53.681480407714844,
+            "t": 483.7223205566406,
+            "r": 155.67318725585938,
+            "b": 426.0089111328125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6735,10 +6765,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/141"
+          "$ref": "#/texts/142"
         },
         {
-          "$ref": "#/texts/142"
+          "$ref": "#/texts/143"
         }
       ],
       "content_layer": "body",
@@ -6747,10 +6777,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 36.00023651123047,
-            "t": 402.9786376953125,
-            "r": 154.50794982910156,
-            "b": 314.63519287109375,
+            "l": 36.0002326965332,
+            "t": 402.9776916503906,
+            "r": 154.50698852539062,
+            "b": 314.63385009765625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6776,10 +6806,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 57.49211883544922,
-            "t": 262.13055419921875,
-            "r": 156.1613006591797,
-            "b": 197.21612548828125,
+            "l": 57.52058792114258,
+            "t": 262.129150390625,
+            "r": 156.16278076171875,
+            "b": 197.2313232421875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6805,10 +6835,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 35.60311508178711,
-            "t": 237.3782958984375,
-            "r": 65.01152038574219,
-            "b": 193.4893798828125,
+            "l": 35.603485107421875,
+            "t": 237.37762451171875,
+            "r": 65.01266479492188,
+            "b": 193.48980712890625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6834,10 +6864,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 35.71192932128906,
-            "t": 159.19384765625,
-            "r": 154.8731689453125,
-            "b": 95.7015380859375,
+            "l": 35.71165084838867,
+            "t": 159.18359375,
+            "r": 154.87460327148438,
+            "b": 95.69964599609375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6863,10 +6893,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 36.15996551513672,
-            "t": 81.71014404296875,
-            "r": 112.67977905273438,
-            "b": 38.06683349609375,
+            "l": 36.15998840332031,
+            "t": 81.70654296875,
+            "r": 112.68009185791016,
+            "b": 38.066162109375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6892,10 +6922,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 36.228538513183594,
-            "t": 790.2964706420898,
-            "r": 112.36994171142578,
-            "b": 745.2984161376953,
+            "l": 36.23069763183594,
+            "t": 790.2993469238281,
+            "r": 112.36851501464844,
+            "b": 745.3008575439453,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6916,7 +6946,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/184"
+          "$ref": "#/texts/185"
         }
       ],
       "content_layer": "body",
@@ -6925,10 +6955,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 33.62652587890625,
-            "t": 294.76531982421875,
-            "r": 235.74169921875,
-            "b": 209.4088134765625,
+            "l": 33.62588882446289,
+            "t": 294.76336669921875,
+            "r": 235.74105834960938,
+            "b": 209.4075927734375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

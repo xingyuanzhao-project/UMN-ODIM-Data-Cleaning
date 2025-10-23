@@ -222,16 +222,16 @@
         "$ref": "#/texts/81"
       },
       {
-        "$ref": "#/texts/82"
-      },
-      {
         "$ref": "#/pictures/12"
       },
       {
-        "$ref": "#/texts/83"
+        "$ref": "#/texts/82"
       },
       {
         "$ref": "#/pictures/13"
+      },
+      {
+        "$ref": "#/texts/83"
       },
       {
         "$ref": "#/texts/84"
@@ -252,25 +252,25 @@
         "$ref": "#/texts/89"
       },
       {
-        "$ref": "#/texts/90"
-      },
-      {
         "$ref": "#/groups/0"
       },
       {
         "$ref": "#/pictures/14"
       },
       {
-        "$ref": "#/texts/94"
+        "$ref": "#/texts/93"
       },
       {
-        "$ref": "#/texts/95"
+        "$ref": "#/texts/94"
       },
       {
         "$ref": "#/groups/1"
       },
       {
         "$ref": "#/pictures/15"
+      },
+      {
+        "$ref": "#/texts/97"
       },
       {
         "$ref": "#/texts/98"
@@ -282,13 +282,13 @@
         "$ref": "#/texts/100"
       },
       {
-        "$ref": "#/texts/101"
-      },
-      {
         "$ref": "#/groups/2"
       },
       {
         "$ref": "#/pictures/16"
+      },
+      {
+        "$ref": "#/texts/102"
       },
       {
         "$ref": "#/texts/103"
@@ -408,10 +408,10 @@
         "$ref": "#/texts/141"
       },
       {
-        "$ref": "#/texts/142"
+        "$ref": "#/pictures/17"
       },
       {
-        "$ref": "#/pictures/17"
+        "$ref": "#/texts/144"
       },
       {
         "$ref": "#/texts/145"
@@ -543,10 +543,10 @@
         "$ref": "#/texts/187"
       },
       {
-        "$ref": "#/texts/188"
+        "$ref": "#/pictures/18"
       },
       {
-        "$ref": "#/pictures/18"
+        "$ref": "#/texts/190"
       },
       {
         "$ref": "#/texts/191"
@@ -603,25 +603,22 @@
         "$ref": "#/texts/208"
       },
       {
-        "$ref": "#/texts/209"
+        "$ref": "#/pictures/19"
       },
       {
-        "$ref": "#/pictures/19"
+        "$ref": "#/texts/210"
       },
       {
         "$ref": "#/texts/211"
       },
       {
-        "$ref": "#/texts/212"
-      },
-      {
         "$ref": "#/pictures/20"
       },
       {
-        "$ref": "#/texts/213"
+        "$ref": "#/texts/212"
       },
       {
-        "$ref": "#/texts/214"
+        "$ref": "#/texts/213"
       },
       {
         "$ref": "#/pictures/21"
@@ -634,6 +631,9 @@
       },
       {
         "$ref": "#/pictures/24"
+      },
+      {
+        "$ref": "#/texts/217"
       },
       {
         "$ref": "#/texts/218"
@@ -669,9 +669,6 @@
         "$ref": "#/texts/228"
       },
       {
-        "$ref": "#/texts/229"
-      },
-      {
         "$ref": "#/pictures/25"
       }
     ],
@@ -687,13 +684,13 @@
       },
       "children": [
         {
+          "$ref": "#/texts/90"
+        },
+        {
           "$ref": "#/texts/91"
         },
         {
           "$ref": "#/texts/92"
-        },
-        {
-          "$ref": "#/texts/93"
         }
       ],
       "content_layer": "body",
@@ -707,10 +704,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/96"
+          "$ref": "#/texts/95"
         },
         {
-          "$ref": "#/texts/97"
+          "$ref": "#/texts/96"
         }
       ],
       "content_layer": "body",
@@ -724,7 +721,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/102"
+          "$ref": "#/texts/101"
         }
       ],
       "content_layer": "body",
@@ -2694,49 +2691,21 @@
             "l": 34.976,
             "t": 526.9510029101563,
             "r": 264.596,
-            "b": 519.5460029101563,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            35
-          ]
-        }
-      ],
-      "orig": "mbnails-rr3:Right Rail Thumbnails:)",
-      "text": "mbnails-rr3:Right Rail Thumbnails:)",
-      "level": 1
-    },
-    {
-      "self_ref": "#/texts/73",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "section_header",
-      "prov": [
-        {
-          "page_no": 3,
-          "bbox": {
-            "l": 40.255,
-            "t": 502.21400291015624,
-            "r": 131.033,
             "b": 495.44200291015625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             0,
-            12
+            48
           ]
         }
       ],
-      "orig": "Recomendamos",
-      "text": "Recomendamos",
+      "orig": "Recomendamos mbnails-rr3:Right Rail Thumbnails:)",
+      "text": "Recomendamos mbnails-rr3:Right Rail Thumbnails:)",
       "level": 1
     },
     {
-      "self_ref": "#/texts/74",
+      "self_ref": "#/texts/73",
       "parent": {
         "$ref": "#/body"
       },
@@ -2763,7 +2732,7 @@
       "text": "(https://www.thelotter.com/es/ecuatorianos-pueden-jugarpowerball/? affid=167&utm_source=Taboola&utm_medium=Article&utm_c"
     },
     {
-      "self_ref": "#/texts/75",
+      "self_ref": "#/texts/74",
       "parent": {
         "$ref": "#/body"
       },
@@ -2791,7 +2760,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/76",
+      "self_ref": "#/texts/75",
       "parent": {
         "$ref": "#/body"
       },
@@ -2819,7 +2788,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/77",
+      "self_ref": "#/texts/76",
       "parent": {
         "$ref": "#/body"
       },
@@ -2846,7 +2815,7 @@
       "text": "(https://www.thelotter.com/es/ecuatorianos-pueden-jugarpowerball/? affid=167&utm_source=Taboola&utm_medium=Article&utm_c"
     },
     {
-      "self_ref": "#/texts/78",
+      "self_ref": "#/texts/77",
       "parent": {
         "$ref": "#/body"
       },
@@ -2873,7 +2842,7 @@
       "text": "(https://om.forgeofempires.com/foe/?"
     },
     {
-      "self_ref": "#/texts/79",
+      "self_ref": "#/texts/78",
       "parent": {
         "$ref": "#/body"
       },
@@ -2900,7 +2869,7 @@
       "text": "ref=tab_row_en_mktdet2&&external_param=123979063&pid="
     },
     {
-      "self_ref": "#/texts/80",
+      "self_ref": "#/texts/79",
       "parent": {
         "$ref": "#/body"
       },
@@ -2928,7 +2897,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/81",
+      "self_ref": "#/texts/80",
       "parent": {
         "$ref": "#/body"
       },
@@ -2956,7 +2925,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/82",
+      "self_ref": "#/texts/81",
       "parent": {
         "$ref": "#/body"
       },
@@ -2983,7 +2952,7 @@
       "text": "utm_medium=referral&utm_content=thumbnails-rr3:Right Rail Thumbnails:) utm_medium=referral&utm_content=thumbnails-rr3:Right Rail Thumbnails:) (https://om.forgeofempires.com/foe/? ref=tab_row_en_mktdet2&&external_param=123979063&pid="
     },
     {
-      "self_ref": "#/texts/83",
+      "self_ref": "#/texts/82",
       "parent": {
         "$ref": "#/body"
       },
@@ -3010,7 +2979,7 @@
       "text": "323.3K"
     },
     {
-      "self_ref": "#/texts/84",
+      "self_ref": "#/texts/83",
       "parent": {
         "$ref": "#/body"
       },
@@ -3037,7 +3006,7 @@
       "text": "Leticia Hidalgo, vocera de este grupo, relató que la búsqueda inició alrededor de las 10 de la mañana, cuando se internaron en el monte en búsqueda de Carlos Anselmo.  Ingresar Regístrate "
     },
     {
-      "self_ref": "#/texts/85",
+      "self_ref": "#/texts/84",
       "parent": {
         "$ref": "#/body"
       },
@@ -3064,7 +3033,7 @@
       "text": "Pasada la 1 de la tarde, encontraron un rancho abandonado en el que había huellas de impactos de balas, casquillos de arma corta y larga, además de restos de ropa."
     },
     {
-      "self_ref": "#/texts/86",
+      "self_ref": "#/texts/85",
       "parent": {
         "$ref": "#/body"
       },
@@ -3091,7 +3060,7 @@
       "text": "Te recomendamos: Joven sale a festejar su cumpleaños y desaparece (/policia/salea-festejar-su-cumpleanos-y-desaparece)"
     },
     {
-      "self_ref": "#/texts/87",
+      "self_ref": "#/texts/86",
       "parent": {
         "$ref": "#/body"
       },
@@ -3118,7 +3087,7 @@
       "text": "Basada en su experiencia, Leticia Hidalgo relacionó este lugar con otros en los que se han encontrado restos humanos, y lo calificó como un posible campo de exterminio."
     },
     {
-      "self_ref": "#/texts/88",
+      "self_ref": "#/texts/87",
       "parent": {
         "$ref": "#/body"
       },
@@ -3145,7 +3114,7 @@
       "text": "\"Encontramos prendas de vestir, casquillos calibre grande y calibre pequeño, aunque el lugar se ve un poco abandonado, presume las mismas características de los otros campos de exterminio y o de entrenamiento, porque había muchas huellas de balazos en las paredes de lo que es como un rancho abandonado, entonces asemeja mucho al campo de exterminio en Las Abejas y al de García también\", dijo."
     },
     {
-      "self_ref": "#/texts/89",
+      "self_ref": "#/texts/88",
       "parent": {
         "$ref": "#/body"
       },
@@ -3172,7 +3141,7 @@
       "text": "Hidalgo dijo que al momento de encontrar el lugar, avisaron a elementos de Fuerza Civil, quienes la resguardaban en la búsqueda, quienes a su vez llamaron a servicios periciales, para marcar el perímetro."
     },
     {
-      "self_ref": "#/texts/90",
+      "self_ref": "#/texts/89",
       "parent": {
         "$ref": "#/body"
       },
@@ -3199,7 +3168,7 @@
       "text": "Cuentas con alg¼ n seguro para proteger tu hogar ante desastres naturales? IMPRESO (/IMPRESO) TELEVISIÓN (/MILENIOTV)"
     },
     {
-      "self_ref": "#/texts/91",
+      "self_ref": "#/texts/90",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -3226,7 +3195,7 @@
       "text": "S¯"
     },
     {
-      "self_ref": "#/texts/92",
+      "self_ref": "#/texts/91",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -3253,7 +3222,7 @@
       "text": "No"
     },
     {
-      "self_ref": "#/texts/93",
+      "self_ref": "#/texts/92",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -3280,7 +3249,7 @@
       "text": "By"
     },
     {
-      "self_ref": "#/texts/94",
+      "self_ref": "#/texts/93",
       "parent": {
         "$ref": "#/body"
       },
@@ -3307,7 +3276,7 @@
       "text": "SUSCRÍBETE AL NEWSLETTER DE MILENIO"
     },
     {
-      "self_ref": "#/texts/95",
+      "self_ref": "#/texts/94",
       "parent": {
         "$ref": "#/body"
       },
@@ -3334,7 +3303,7 @@
       "text": "Para arrancar y cerrar bien el día."
     },
     {
-      "self_ref": "#/texts/96",
+      "self_ref": "#/texts/95",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3361,7 +3330,7 @@
       "text": "Tu correo electrónico"
     },
     {
-      "self_ref": "#/texts/97",
+      "self_ref": "#/texts/96",
       "parent": {
         "$ref": "#/groups/1"
       },
@@ -3388,7 +3357,7 @@
       "text": "ENVIAR"
     },
     {
-      "self_ref": "#/texts/98",
+      "self_ref": "#/texts/97",
       "parent": {
         "$ref": "#/body"
       },
@@ -3415,7 +3384,7 @@
       "text": "En la búsqueda también participó el Grupo Jaguares, con el binomio Canino integrado por Maya y Atila, explicó Hidalgo.  Ingresar Regístrate "
     },
     {
-      "self_ref": "#/texts/99",
+      "self_ref": "#/texts/98",
       "parent": {
         "$ref": "#/body"
       },
@@ -3442,7 +3411,7 @@
       "text": "\"Maya detecta y marca un área de posibles restos humanos... llegó periciales, y como ya encontramos ese lugar, a los que les corresponde es a la autoridad investigar... el lugar se quedó resguardado\", contó la vocera de FundeNL."
     },
     {
-      "self_ref": "#/texts/100",
+      "self_ref": "#/texts/99",
       "parent": {
         "$ref": "#/body"
       },
@@ -3469,7 +3438,7 @@
       "text": "Tanto la madre como Leticia Hidalgo explicaron que será a partir de aquí que esperen información que resulte de los hallazgos y la investigación de Servicios Periciales en el lugar."
     },
     {
-      "self_ref": "#/texts/101",
+      "self_ref": "#/texts/100",
       "parent": {
         "$ref": "#/body"
       },
@@ -3496,7 +3465,7 @@
       "text": "De acuerdo a la madre, Carlos Anselmo Garza Sánchez salió a una fiesta en una quinta localizada en Sabinas Hidalgo, la noche del 21 de abril. Al llegar de regreso a su casa, alrededor de las 6 de la mañana, volvió a salir de vuelta a la fiesta, y esta fue la última vez que la familia lo vio."
     },
     {
-      "self_ref": "#/texts/102",
+      "self_ref": "#/texts/101",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -3523,7 +3492,7 @@
       "text": "Tags Relacionados: desaparecidos (/temas/desaparecidos) policía (/temas/policia) Sabinas Hidalgo (/temas/sabinashidalgo)"
     },
     {
-      "self_ref": "#/texts/103",
+      "self_ref": "#/texts/102",
       "parent": {
         "$ref": "#/body"
       },
@@ -3550,7 +3519,7 @@
       "text": "Queda prohibida la reproducción total 0 parcial del contenido de esta página, mismo que es propiedad de MILENIO DIARIO, S.A. DE C.V.; su reproducción no autorizada constituye una infracción y un delito de conformidad con las leyes aplicables"
     },
     {
-      "self_ref": "#/texts/104",
+      "self_ref": "#/texts/103",
       "parent": {
         "$ref": "#/body"
       },
@@ -3577,7 +3546,7 @@
       "text": "0 COMENTARIOS"
     },
     {
-      "self_ref": "#/texts/105",
+      "self_ref": "#/texts/104",
       "parent": {
         "$ref": "#/body"
       },
@@ -3604,7 +3573,7 @@
       "text": "COMENTAR"
     },
     {
-      "self_ref": "#/texts/106",
+      "self_ref": "#/texts/105",
       "parent": {
         "$ref": "#/body"
       },
@@ -3631,7 +3600,7 @@
       "text": "ESCRIBIR COMENTARIO"
     },
     {
-      "self_ref": "#/texts/107",
+      "self_ref": "#/texts/106",
       "parent": {
         "$ref": "#/body"
       },
@@ -3672,7 +3641,7 @@
       "text": "Cada mensaje que nos llega de ustedes, cada mensaje que se publica en este foro, lo leemos y seleccionamos. Por favor, sigan escribiendo, solo"
     },
     {
-      "self_ref": "#/texts/108",
+      "self_ref": "#/texts/107",
       "parent": {
         "$ref": "#/body"
       },
@@ -3699,7 +3668,7 @@
       "text": "IMPRESO (/IMPRESO)"
     },
     {
-      "self_ref": "#/texts/109",
+      "self_ref": "#/texts/108",
       "parent": {
         "$ref": "#/body"
       },
@@ -3726,7 +3695,7 @@
       "text": "TELEVISIÓN (/MILENIOTV)"
     },
     {
-      "self_ref": "#/texts/110",
+      "self_ref": "#/texts/109",
       "parent": {
         "$ref": "#/body"
       },
@@ -3767,7 +3736,7 @@
       "text": "Ingresar pedimos buen criterio. Aquí hay lugar para casi todo: réplicas y contrarréplicas, datos duros, sugerencias de lecturas, humor, muestras de inconformidad y de indignación y hasta bromas. Solo pedimos civilidad y respeto."
     },
     {
-      "self_ref": "#/texts/111",
+      "self_ref": "#/texts/110",
       "parent": {
         "$ref": "#/body"
       },
@@ -3794,7 +3763,7 @@
       "text": "Regístrate"
     },
     {
-      "self_ref": "#/texts/112",
+      "self_ref": "#/texts/111",
       "parent": {
         "$ref": "#/body"
       },
@@ -3821,7 +3790,7 @@
       "text": "PUBLICAR"
     },
     {
-      "self_ref": "#/texts/113",
+      "self_ref": "#/texts/112",
       "parent": {
         "$ref": "#/body"
       },
@@ -3849,7 +3818,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/114",
+      "self_ref": "#/texts/113",
       "parent": {
         "$ref": "#/body"
       },
@@ -3876,7 +3845,7 @@
       "text": "(https://cat.va.us.criteo.com/delivery/ckn.php?"
     },
     {
-      "self_ref": "#/texts/115",
+      "self_ref": "#/texts/114",
       "parent": {
         "$ref": "#/body"
       },
@@ -3903,7 +3872,7 @@
       "text": "cppv=1&cpp=P3swZnxHa2dBaVgxbHdKK3lpL2NHdWlCZUFQaC9nU1hUa2cyVkNmcWdDOEt1a05aUDIzWjZxNkgxYlN0ZlZIekgxdk1WNmxh 11-854-075%26utm_medium%3Ddisplay%26utm_source%3Dcriteo%26utm_campaign%3D9b-11-854-075%26nm_mc%3Dbac-criteob2b%26cm_mmc%3Dbac-criteo-b2b-_-cases%2Bcomputer%2Bcases%2Batx%2Bform%2B-"
     },
     {
-      "self_ref": "#/texts/116",
+      "self_ref": "#/texts/115",
       "parent": {
         "$ref": "#/body"
       },
@@ -3930,7 +3899,7 @@
       "text": "%2Bcases%2Bcomputer%2Bcases%2Batx%2Bform-_-phanteks%2Bcompany-_-9b-11-854-075%26utm_source%3Dcriteo)"
     },
     {
-      "self_ref": "#/texts/117",
+      "self_ref": "#/texts/116",
       "parent": {
         "$ref": "#/body"
       },
@@ -3958,7 +3927,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/118",
+      "self_ref": "#/texts/117",
       "parent": {
         "$ref": "#/body"
       },
@@ -3986,7 +3955,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/119",
+      "self_ref": "#/texts/118",
       "parent": {
         "$ref": "#/body"
       },
@@ -4013,7 +3982,7 @@
       "text": "(https://cat.va.us.criteo.com/delivery/ckn.php?"
     },
     {
-      "self_ref": "#/texts/120",
+      "self_ref": "#/texts/119",
       "parent": {
         "$ref": "#/body"
       },
@@ -4040,7 +4009,7 @@
       "text": "cppv=1&cpp=P3swZnxHa2dBaVgxbHdKK3lpL2NHdWlCZUFQaC9nU1hUa2cyVkNmcWdDOEt1a05aUDIzWjZxNkgxYlN0ZlZIekgxdk1WNmxh 11-854-075%26utm_medium%3Ddisplay%26utm_source%3Dcriteo%26utm_campaign%3D9b-11-854-075%26nm_mc%3Dbac-criteob2b%26cm_mmc%3Dbac-criteo-b2b-_-cases%2Bcomputer%2Bcases%2Batx%2Bform%2B-"
     },
     {
-      "self_ref": "#/texts/121",
+      "self_ref": "#/texts/120",
       "parent": {
         "$ref": "#/body"
       },
@@ -4067,7 +4036,7 @@
       "text": "%2Bcases%2Bcomputer%2Bcases%2Batx%2Bform-_-phanteks%2Bcompany-_-9b-11-854-075%26utm_source%3Dcriteo)"
     },
     {
-      "self_ref": "#/texts/122",
+      "self_ref": "#/texts/121",
       "parent": {
         "$ref": "#/body"
       },
@@ -4094,7 +4063,7 @@
       "text": "(//info.criteo.com/privacy/informations?"
     },
     {
-      "self_ref": "#/texts/123",
+      "self_ref": "#/texts/122",
       "parent": {
         "$ref": "#/body"
       },
@@ -4121,7 +4090,7 @@
       "text": "cppv=2&cpp=9OBhpHxWamMxMHFHTXZuOU94K3h4SjllTjBzTjlQdDBmaXJBYml0MVZ5Q29QVGhNKzZ2NkZETzZCQUt3U0d5V2NaWmR0"
     },
     {
-      "self_ref": "#/texts/124",
+      "self_ref": "#/texts/123",
       "parent": {
         "$ref": "#/body"
       },
@@ -4148,7 +4117,7 @@
       "text": "(http://www.relocationtarget.com/10-paises-a-los-que-es-muy-facil-inmigrar/?"
     },
     {
-      "self_ref": "#/texts/125",
+      "self_ref": "#/texts/124",
       "parent": {
         "$ref": "#/body"
       },
@@ -4175,7 +4144,7 @@
       "text": "utm_source=milenio&utm_medium=taboola&utm_campaign=047_relo_10countriesimmigrate_sp_all&utm_content=123904816)"
     },
     {
-      "self_ref": "#/texts/126",
+      "self_ref": "#/texts/125",
       "parent": {
         "$ref": "#/body"
       },
@@ -4203,7 +4172,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/127",
+      "self_ref": "#/texts/126",
       "parent": {
         "$ref": "#/body"
       },
@@ -4230,7 +4199,7 @@
       "text": "Relocation Target"
     },
     {
-      "self_ref": "#/texts/128",
+      "self_ref": "#/texts/127",
       "parent": {
         "$ref": "#/body"
       },
@@ -4257,7 +4226,7 @@
       "text": "(http://www.relocationtarget.com/10-paises-a-los-que-es-muy-facil-inmigrar/?"
     },
     {
-      "self_ref": "#/texts/129",
+      "self_ref": "#/texts/128",
       "parent": {
         "$ref": "#/body"
       },
@@ -4284,7 +4253,7 @@
       "text": "utm_source=milenio&utm_medium=taboola&utm_campaign=047_relo_10countriesimmigrate_sp_all&utm_content=123904816)"
     },
     {
-      "self_ref": "#/texts/130",
+      "self_ref": "#/texts/129",
       "parent": {
         "$ref": "#/body"
       },
@@ -4311,7 +4280,7 @@
       "text": "(http://gran-oportunidad.com/art/ec/la-nueva-formula-de-aprendizaje-automatico-de-idiomas-en-2-semanas?"
     },
     {
-      "self_ref": "#/texts/131",
+      "self_ref": "#/texts/130",
       "parent": {
         "$ref": "#/body"
       },
@@ -4338,7 +4307,7 @@
       "text": "utm_content=bedsmile_bezgramatyki_jakgabka&utm_source=taboola&utm_medium=maxcpc&utm_campaign=ec-taboola-maxcpc-msnsmartbid-2018-09-20&utm_term=milenio)"
     },
     {
-      "self_ref": "#/texts/132",
+      "self_ref": "#/texts/131",
       "parent": {
         "$ref": "#/body"
       },
@@ -4366,7 +4335,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/133",
+      "self_ref": "#/texts/132",
       "parent": {
         "$ref": "#/body"
       },
@@ -4393,7 +4362,7 @@
       "text": "Fast Phrases"
     },
     {
-      "self_ref": "#/texts/134",
+      "self_ref": "#/texts/133",
       "parent": {
         "$ref": "#/body"
       },
@@ -4420,7 +4389,7 @@
       "text": "(http://gran-oportunidad.com/art/ec/la-nueva-formula-de-aprendizaje-automatico-de-idiomas-en-2-semanas?"
     },
     {
-      "self_ref": "#/texts/135",
+      "self_ref": "#/texts/134",
       "parent": {
         "$ref": "#/body"
       },
@@ -4447,7 +4416,7 @@
       "text": "utm_content=bedsmile_bezgramatyki_jakgabka&utm_source=taboola&utm_medium=maxcpc&utm_campaign=ec-taboola-maxcpc-msnsmartbid-2018-09-20&utm_term=milenio)"
     },
     {
-      "self_ref": "#/texts/136",
+      "self_ref": "#/texts/135",
       "parent": {
         "$ref": "#/body"
       },
@@ -4474,7 +4443,7 @@
       "text": "(https://www.save70.com/flights/?utm_source=taboola_flights_spanish_2&lang=es&nl=0)"
     },
     {
-      "self_ref": "#/texts/137",
+      "self_ref": "#/texts/136",
       "parent": {
         "$ref": "#/body"
       },
@@ -4502,7 +4471,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/138",
+      "self_ref": "#/texts/137",
       "parent": {
         "$ref": "#/body"
       },
@@ -4529,7 +4498,7 @@
       "text": "Save70"
     },
     {
-      "self_ref": "#/texts/139",
+      "self_ref": "#/texts/138",
       "parent": {
         "$ref": "#/body"
       },
@@ -4556,7 +4525,7 @@
       "text": "(https://www.save70.com/flights/?utm_source=taboola_flights_spanish_2&lang=es&nl=0)"
     },
     {
-      "self_ref": "#/texts/140",
+      "self_ref": "#/texts/139",
       "parent": {
         "$ref": "#/body"
       },
@@ -4583,7 +4552,7 @@
       "text": "(http://www.tripsinsider.com/hotels/?utm_source=ti_taboola_hotels_desktop_11)"
     },
     {
-      "self_ref": "#/texts/141",
+      "self_ref": "#/texts/140",
       "parent": {
         "$ref": "#/body"
       },
@@ -4611,7 +4580,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/142",
+      "self_ref": "#/texts/141",
       "parent": {
         "$ref": "#/body"
       },
@@ -4636,6 +4605,33 @@
       ],
       "orig": "Trips Insider",
       "text": "Trips Insider"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/pictures/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 543.739,
+            "t": 766.1730029101562,
+            "r": 559.496,
+            "b": 756.1870029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
     },
     {
       "self_ref": "#/texts/143",
@@ -4667,33 +4663,6 @@
     {
       "self_ref": "#/texts/144",
       "parent": {
-        "$ref": "#/pictures/17"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 5,
-          "bbox": {
-            "l": 543.739,
-            "t": 766.1730029101562,
-            "r": 559.496,
-            "b": 756.1870029101563,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            1
-          ]
-        }
-      ],
-      "orig": "",
-      "text": ""
-    },
-    {
-      "self_ref": "#/texts/145",
-      "parent": {
         "$ref": "#/body"
       },
       "children": [],
@@ -4719,7 +4688,7 @@
       "text": "(http://www.tripsinsider.com/hotels/?utm_source=ti_taboola_hotels_desktop_11)"
     },
     {
-      "self_ref": "#/texts/146",
+      "self_ref": "#/texts/145",
       "parent": {
         "$ref": "#/body"
       },
@@ -4746,7 +4715,7 @@
       "text": "(https://om.forgeofempires.com/foe/?ref=tab_row_mktdet&&external_param=123985927&pid=milenio&bid=123985927)"
     },
     {
-      "self_ref": "#/texts/147",
+      "self_ref": "#/texts/146",
       "parent": {
         "$ref": "#/body"
       },
@@ -4774,7 +4743,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/148",
+      "self_ref": "#/texts/147",
       "parent": {
         "$ref": "#/body"
       },
@@ -4801,7 +4770,7 @@
       "text": "Forge of Empires - Free Online Game"
     },
     {
-      "self_ref": "#/texts/149",
+      "self_ref": "#/texts/148",
       "parent": {
         "$ref": "#/body"
       },
@@ -4828,7 +4797,7 @@
       "text": "(https://om.forgeofempires.com/foe/?ref=tab_row_mktdet&&external_param=123985927&pid=milenio&bid=123985927)"
     },
     {
-      "self_ref": "#/texts/150",
+      "self_ref": "#/texts/149",
       "parent": {
         "$ref": "#/body"
       },
@@ -4855,7 +4824,7 @@
       "text": "(http://www.relocationtarget.com/11-paises-mas-baratos-para-la-jubilacion/?"
     },
     {
-      "self_ref": "#/texts/151",
+      "self_ref": "#/texts/150",
       "parent": {
         "$ref": "#/body"
       },
@@ -4882,7 +4851,7 @@
       "text": "utm_source=milenio&utm_medium=taboola&utm_campaign=048_relo_11retirement_sp_all&utm_content=123905957)"
     },
     {
-      "self_ref": "#/texts/152",
+      "self_ref": "#/texts/151",
       "parent": {
         "$ref": "#/body"
       },
@@ -4910,7 +4879,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/153",
+      "self_ref": "#/texts/152",
       "parent": {
         "$ref": "#/body"
       },
@@ -4938,7 +4907,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/154",
+      "self_ref": "#/texts/153",
       "parent": {
         "$ref": "#/body"
       },
@@ -4965,7 +4934,7 @@
       "text": "(http://www.relocationtarget.com/11-paises-mas-baratos-para-la-jubilacion/?"
     },
     {
-      "self_ref": "#/texts/155",
+      "self_ref": "#/texts/154",
       "parent": {
         "$ref": "#/body"
       },
@@ -4992,7 +4961,7 @@
       "text": "utm_source=milenio&utm_medium=taboola&utm_campaign=048_relo_11retirement_sp_all&utm_content=123905957)"
     },
     {
-      "self_ref": "#/texts/156",
+      "self_ref": "#/texts/155",
       "parent": {
         "$ref": "#/body"
       },
@@ -5019,7 +4988,7 @@
       "text": "(http://www.relocationtarget.com/los-10-mejores-metodos-para-inmigrar-a-canada/?"
     },
     {
-      "self_ref": "#/texts/157",
+      "self_ref": "#/texts/156",
       "parent": {
         "$ref": "#/body"
       },
@@ -5046,7 +5015,7 @@
       "text": "utm_source=milenio&utm_medium=taboola&utm_campaign=049_relo_10immigratecanada_sp_all&utm_content=123907203)"
     },
     {
-      "self_ref": "#/texts/158",
+      "self_ref": "#/texts/157",
       "parent": {
         "$ref": "#/body"
       },
@@ -5074,7 +5043,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/159",
+      "self_ref": "#/texts/158",
       "parent": {
         "$ref": "#/body"
       },
@@ -5102,7 +5071,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/160",
+      "self_ref": "#/texts/159",
       "parent": {
         "$ref": "#/body"
       },
@@ -5129,7 +5098,7 @@
       "text": "(http://www.relocationtarget.com/los-10-mejores-metodos-para-inmigrar-a-canada/?"
     },
     {
-      "self_ref": "#/texts/161",
+      "self_ref": "#/texts/160",
       "parent": {
         "$ref": "#/body"
       },
@@ -5156,7 +5125,7 @@
       "text": "utm_source=milenio&utm_medium=taboola&utm_campaign=049_relo_10immigratecanada_sp_all&utm_content=123907203)"
     },
     {
-      "self_ref": "#/texts/162",
+      "self_ref": "#/texts/161",
       "parent": {
         "$ref": "#/body"
       },
@@ -5183,7 +5152,7 @@
       "text": "(https://es.simplesite.com/pages/receive.aspx?"
     },
     {
-      "self_ref": "#/texts/163",
+      "self_ref": "#/texts/162",
       "parent": {
         "$ref": "#/body"
       },
@@ -5210,7 +5179,7 @@
       "text": "partnerkey=taboolacoreg:Taboola_CPA_Coreg_SAM_EC_ES_Site=milenio_Title=SimpleSite+-"
     },
     {
-      "self_ref": "#/texts/164",
+      "self_ref": "#/texts/163",
       "parent": {
         "$ref": "#/body"
       },
@@ -5237,7 +5206,7 @@
       "text": "+El+creador+de+sitios+m%C3%A1s+simple_CampaignID=546276_ItemID=67134095_Device=Desktop&target=ftp3:crea&culturekey=es&&u"
     },
     {
-      "self_ref": "#/texts/165",
+      "self_ref": "#/texts/164",
       "parent": {
         "$ref": "#/body"
       },
@@ -5265,7 +5234,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/166",
+      "self_ref": "#/texts/165",
       "parent": {
         "$ref": "#/body"
       },
@@ -5293,7 +5262,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/167",
+      "self_ref": "#/texts/166",
       "parent": {
         "$ref": "#/body"
       },
@@ -5320,7 +5289,7 @@
       "text": "(https://es.simplesite.com/pages/receive.aspx?"
     },
     {
-      "self_ref": "#/texts/168",
+      "self_ref": "#/texts/167",
       "parent": {
         "$ref": "#/body"
       },
@@ -5347,7 +5316,7 @@
       "text": "partnerkey=taboolacoreg:Taboola_CPA_Coreg_SAM_EC_ES_Site=milenio_Title=SimpleSite+-"
     },
     {
-      "self_ref": "#/texts/169",
+      "self_ref": "#/texts/168",
       "parent": {
         "$ref": "#/body"
       },
@@ -5374,7 +5343,7 @@
       "text": "+El+creador+de+sitios+m%C3%A1s+simple_CampaignID=546276_ItemID=67134095_Device=Desktop&target=ftp3:crea&culturekey=es&&u (http://buquiz.com/eres-capaz-de-acertar-la-marca-de-un-coche-viendo-su-logotipo.html)"
     },
     {
-      "self_ref": "#/texts/170",
+      "self_ref": "#/texts/169",
       "parent": {
         "$ref": "#/body"
       },
@@ -5402,7 +5371,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/171",
+      "self_ref": "#/texts/170",
       "parent": {
         "$ref": "#/body"
       },
@@ -5429,7 +5398,7 @@
       "text": "Buquiz.com"
     },
     {
-      "self_ref": "#/texts/172",
+      "self_ref": "#/texts/171",
       "parent": {
         "$ref": "#/body"
       },
@@ -5456,7 +5425,7 @@
       "text": "(http://buquiz.com/eres-capaz-de-acertar-la-marca-de-un-coche-viendo-su-logotipo.html)"
     },
     {
-      "self_ref": "#/texts/173",
+      "self_ref": "#/texts/172",
       "parent": {
         "$ref": "#/body"
       },
@@ -5483,7 +5452,7 @@
       "text": "(http://lp.gclexperts.com/newg_lp/GCLE/Live_Dream?utm_lang=es&af=gcl_2543&utm_subid2=EC7&utm_medium=milenio)"
     },
     {
-      "self_ref": "#/texts/174",
+      "self_ref": "#/texts/173",
       "parent": {
         "$ref": "#/body"
       },
@@ -5511,7 +5480,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/175",
+      "self_ref": "#/texts/174",
       "parent": {
         "$ref": "#/body"
       },
@@ -5538,7 +5507,7 @@
       "text": "(http://lp.gclexperts.com/newg_lp/GCLE/Live_Dream?utm_lang=es&af=gcl_2543&utm_subid2=EC7&utm_medium=milenio) (http://buhamster.com/los-22-ancianos-mas-increibles-que-hemos-visto-nunca.html)"
     },
     {
-      "self_ref": "#/texts/176",
+      "self_ref": "#/texts/175",
       "parent": {
         "$ref": "#/body"
       },
@@ -5566,7 +5535,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/177",
+      "self_ref": "#/texts/176",
       "parent": {
         "$ref": "#/body"
       },
@@ -5594,7 +5563,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/178",
+      "self_ref": "#/texts/177",
       "parent": {
         "$ref": "#/body"
       },
@@ -5621,7 +5590,7 @@
       "text": "(http://buhamster.com/los-22-ancianos-mas-increibles-que-hemos-visto-nunca.html)"
     },
     {
-      "self_ref": "#/texts/179",
+      "self_ref": "#/texts/178",
       "parent": {
         "$ref": "#/body"
       },
@@ -5648,7 +5617,7 @@
       "text": "(http://buhamster.com/18-cosas-extravagantes-que-solo-son-posibles-en-dubai-.html)"
     },
     {
-      "self_ref": "#/texts/180",
+      "self_ref": "#/texts/179",
       "parent": {
         "$ref": "#/body"
       },
@@ -5676,7 +5645,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/181",
+      "self_ref": "#/texts/180",
       "parent": {
         "$ref": "#/body"
       },
@@ -5703,7 +5672,7 @@
       "text": "BuHamster.com"
     },
     {
-      "self_ref": "#/texts/182",
+      "self_ref": "#/texts/181",
       "parent": {
         "$ref": "#/body"
       },
@@ -5730,7 +5699,7 @@
       "text": "(http://buhamster.com/18-cosas-extravagantes-que-solo-son-posibles-en-dubai-.html)"
     },
     {
-      "self_ref": "#/texts/183",
+      "self_ref": "#/texts/182",
       "parent": {
         "$ref": "#/body"
       },
@@ -5757,7 +5726,7 @@
       "text": "(http://lp.gclexperts.com/newg_lp/GCLE/Live_Dream?utm_lang=es&af=gcl_2543&utm_subid2=EC4&utm_medium=milenio)"
     },
     {
-      "self_ref": "#/texts/184",
+      "self_ref": "#/texts/183",
       "parent": {
         "$ref": "#/body"
       },
@@ -5785,7 +5754,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/185",
+      "self_ref": "#/texts/184",
       "parent": {
         "$ref": "#/body"
       },
@@ -5813,7 +5782,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/186",
+      "self_ref": "#/texts/185",
       "parent": {
         "$ref": "#/body"
       },
@@ -5840,7 +5809,7 @@
       "text": "(http://lp.gclexperts.com/newg_lp/GCLE/Live_Dream?utm_lang=es&af=gcl_2543&utm_subid2=EC4&utm_medium=milenio) (http://buhamster.com/20-fotos-inolvidables-que-nos-han-impresionado-mucho-ultimamente.html)"
     },
     {
-      "self_ref": "#/texts/187",
+      "self_ref": "#/texts/186",
       "parent": {
         "$ref": "#/body"
       },
@@ -5867,7 +5836,7 @@
       "text": "Ingresar"
     },
     {
-      "self_ref": "#/texts/188",
+      "self_ref": "#/texts/187",
       "parent": {
         "$ref": "#/body"
       },
@@ -5892,6 +5861,33 @@
       ],
       "orig": "Regístrate",
       "text": "Regístrate"
+    },
+    {
+      "self_ref": "#/texts/188",
+      "parent": {
+        "$ref": "#/pictures/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 543.739,
+            "t": 766.1730029101562,
+            "r": 559.496,
+            "b": 756.1870029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
     },
     {
       "self_ref": "#/texts/189",
@@ -5923,33 +5919,6 @@
     {
       "self_ref": "#/texts/190",
       "parent": {
-        "$ref": "#/pictures/18"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 6,
-          "bbox": {
-            "l": 543.739,
-            "t": 766.1730029101562,
-            "r": 559.496,
-            "b": 756.1870029101563,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            1
-          ]
-        }
-      ],
-      "orig": "",
-      "text": ""
-    },
-    {
-      "self_ref": "#/texts/191",
-      "parent": {
         "$ref": "#/body"
       },
       "children": [],
@@ -5976,7 +5945,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/192",
+      "self_ref": "#/texts/191",
       "parent": {
         "$ref": "#/body"
       },
@@ -6003,7 +5972,7 @@
       "text": "BuHamster.com"
     },
     {
-      "self_ref": "#/texts/193",
+      "self_ref": "#/texts/192",
       "parent": {
         "$ref": "#/body"
       },
@@ -6030,7 +5999,7 @@
       "text": "(http://buhamster.com/20-fotos-inolvidables-que-nos-han-impresionado-mucho-ultimamente.html) IMPRESO (/IMPRESO) TELEVISIÓN (/MILENIOTV)"
     },
     {
-      "self_ref": "#/texts/194",
+      "self_ref": "#/texts/193",
       "parent": {
         "$ref": "#/body"
       },
@@ -6057,7 +6026,7 @@
       "text": "(http://buhamster.com/15-gatos-que-han-ganado-internet-este-ano.html)"
     },
     {
-      "self_ref": "#/texts/195",
+      "self_ref": "#/texts/194",
       "parent": {
         "$ref": "#/body"
       },
@@ -6085,7 +6054,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/196",
+      "self_ref": "#/texts/195",
       "parent": {
         "$ref": "#/body"
       },
@@ -6112,7 +6081,7 @@
       "text": "BuHamster.com"
     },
     {
-      "self_ref": "#/texts/197",
+      "self_ref": "#/texts/196",
       "parent": {
         "$ref": "#/body"
       },
@@ -6139,7 +6108,7 @@
       "text": "(http://buhamster.com/15-gatos-que-han-ganado-internet-este-ano.html)"
     },
     {
-      "self_ref": "#/texts/198",
+      "self_ref": "#/texts/197",
       "parent": {
         "$ref": "#/body"
       },
@@ -6166,7 +6135,7 @@
       "text": "(http://www.viralxfiles.com/20-maneras-legitimas-de-ganar-dinero-en-linea/?"
     },
     {
-      "self_ref": "#/texts/199",
+      "self_ref": "#/texts/198",
       "parent": {
         "$ref": "#/body"
       },
@@ -6193,7 +6162,7 @@
       "text": "utm_source=milenio&utm_medium=taboola&utm_campaign=159_VXF_MMO_es_all&utm_content=123279888)"
     },
     {
-      "self_ref": "#/texts/200",
+      "self_ref": "#/texts/199",
       "parent": {
         "$ref": "#/body"
       },
@@ -6221,7 +6190,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/201",
+      "self_ref": "#/texts/200",
       "parent": {
         "$ref": "#/body"
       },
@@ -6248,7 +6217,7 @@
       "text": "Viral X Files"
     },
     {
-      "self_ref": "#/texts/202",
+      "self_ref": "#/texts/201",
       "parent": {
         "$ref": "#/body"
       },
@@ -6275,7 +6244,7 @@
       "text": "(http://www.viralxfiles.com/20-maneras-legitimas-de-ganar-dinero-en-linea/?"
     },
     {
-      "self_ref": "#/texts/203",
+      "self_ref": "#/texts/202",
       "parent": {
         "$ref": "#/body"
       },
@@ -6302,7 +6271,7 @@
       "text": "utm_source=milenio&utm_medium=taboola&utm_campaign=159_VXF_MMO_es_all&utm_content=123279888)"
     },
     {
-      "self_ref": "#/texts/204",
+      "self_ref": "#/texts/203",
       "parent": {
         "$ref": "#/body"
       },
@@ -6329,7 +6298,7 @@
       "text": "(http://buquiz.com/puedes-identificar-a-estas-famosas-figuras-historicas.html)"
     },
     {
-      "self_ref": "#/texts/205",
+      "self_ref": "#/texts/204",
       "parent": {
         "$ref": "#/body"
       },
@@ -6357,7 +6326,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/206",
+      "self_ref": "#/texts/205",
       "parent": {
         "$ref": "#/body"
       },
@@ -6384,7 +6353,7 @@
       "text": "Buquiz.com"
     },
     {
-      "self_ref": "#/texts/207",
+      "self_ref": "#/texts/206",
       "parent": {
         "$ref": "#/body"
       },
@@ -6411,7 +6380,7 @@
       "text": "(http://buquiz.com/puedes-identificar-a-estas-famosas-figuras-historicas.html)"
     },
     {
-      "self_ref": "#/texts/208",
+      "self_ref": "#/texts/207",
       "parent": {
         "$ref": "#/body"
       },
@@ -6438,7 +6407,7 @@
       "text": "http://popup.taboola.com/es/?template=colorbox&utm_source=milenio&utm_medium=referral&utm_content=ab_thumbnails-a_abp-mode:Below Article Thumbnails No Feed:)"
     },
     {
-      "self_ref": "#/texts/209",
+      "self_ref": "#/texts/208",
       "parent": {
         "$ref": "#/body"
       },
@@ -6465,7 +6434,7 @@
       "text": "ttp://popup.taboola.com/es/?template=colorbox&utm_source=milenio&utm_medium=referral&utm_content=ab_thumbnails-a_abp-mode:Below Article Thumbnails No Feed:)"
     },
     {
-      "self_ref": "#/texts/210",
+      "self_ref": "#/texts/209",
       "parent": {
         "$ref": "#/pictures/19"
       },
@@ -6477,7 +6446,7 @@
           "page_no": 7,
           "bbox": {
             "l": 42.0,
-            "t": 473.91998291015625,
+            "t": 473.25331624348956,
             "r": 66.66666666666666,
             "b": 451.25331624348956,
             "coord_origin": "BOTTOMLEFT"
@@ -6492,7 +6461,7 @@
       "text": "M"
     },
     {
-      "self_ref": "#/texts/211",
+      "self_ref": "#/texts/210",
       "parent": {
         "$ref": "#/body"
       },
@@ -6519,7 +6488,7 @@
       "text": "scripciones Anúnciate DERECHOS RESERVADOS © GRUPO MILENIO 2018"
     },
     {
-      "self_ref": "#/texts/212",
+      "self_ref": "#/texts/211",
       "parent": {
         "$ref": "#/body"
       },
@@ -6546,7 +6515,7 @@
       "text": "uscripciones)"
     },
     {
-      "self_ref": "#/texts/213",
+      "self_ref": "#/texts/212",
       "parent": {
         "$ref": "#/body"
       },
@@ -6573,7 +6542,7 @@
       "text": "(http://publicidad.milenio.com/2018/MediaKit/)"
     },
     {
-      "self_ref": "#/texts/214",
+      "self_ref": "#/texts/213",
       "parent": {
         "$ref": "#/body"
       },
@@ -6600,7 +6569,7 @@
       "text": "comSCORE"
     },
     {
-      "self_ref": "#/texts/215",
+      "self_ref": "#/texts/214",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -6627,7 +6596,7 @@
       "text": "RESPONSABLE\""
     },
     {
-      "self_ref": "#/texts/216",
+      "self_ref": "#/texts/215",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -6654,7 +6623,7 @@
       "text": "iab"
     },
     {
-      "self_ref": "#/texts/217",
+      "self_ref": "#/texts/216",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -6681,7 +6650,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/218",
+      "self_ref": "#/texts/217",
       "parent": {
         "$ref": "#/body"
       },
@@ -6708,7 +6677,7 @@
       "text": "Quiénes Somos (/quienessomos) Visítanos en"
     },
     {
-      "self_ref": "#/texts/219",
+      "self_ref": "#/texts/218",
       "parent": {
         "$ref": "#/body"
       },
@@ -6735,7 +6704,7 @@
       "text": "Ingresar"
     },
     {
-      "self_ref": "#/texts/220",
+      "self_ref": "#/texts/219",
       "parent": {
         "$ref": "#/body"
       },
@@ -6762,7 +6731,7 @@
       "text": "Privacidad (/aviso-deprivacidad)  "
     },
     {
-      "self_ref": "#/texts/221",
+      "self_ref": "#/texts/220",
       "parent": {
         "$ref": "#/body"
       },
@@ -6789,7 +6758,7 @@
       "text": "Aviso"
     },
     {
-      "self_ref": "#/texts/222",
+      "self_ref": "#/texts/221",
       "parent": {
         "$ref": "#/body"
       },
@@ -6816,7 +6785,7 @@
       "text": "Legal"
     },
     {
-      "self_ref": "#/texts/223",
+      "self_ref": "#/texts/222",
       "parent": {
         "$ref": "#/body"
       },
@@ -6843,7 +6812,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/224",
+      "self_ref": "#/texts/223",
       "parent": {
         "$ref": "#/body"
       },
@@ -6870,7 +6839,7 @@
       "text": "(/aviso-"
     },
     {
-      "self_ref": "#/texts/225",
+      "self_ref": "#/texts/224",
       "parent": {
         "$ref": "#/body"
       },
@@ -6911,7 +6880,7 @@
       "text": "(https://www.insta legal)"
     },
     {
-      "self_ref": "#/texts/226",
+      "self_ref": "#/texts/225",
       "parent": {
         "$ref": "#/body"
       },
@@ -6938,7 +6907,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/227",
+      "self_ref": "#/texts/226",
       "parent": {
         "$ref": "#/body"
       },
@@ -6965,7 +6934,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/228",
+      "self_ref": "#/texts/227",
       "parent": {
         "$ref": "#/body"
       },
@@ -6992,7 +6961,7 @@
       "text": "(https://www.facebook.com/m (https://twitter.com/Mile hl=en) (https://plus (https"
     },
     {
-      "self_ref": "#/texts/229",
+      "self_ref": "#/texts/228",
       "parent": {
         "$ref": "#/body"
       },
@@ -7019,7 +6988,7 @@
       "text": "Regístrate"
     },
     {
-      "self_ref": "#/texts/230",
+      "self_ref": "#/texts/229",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -7046,7 +7015,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/231",
+      "self_ref": "#/texts/230",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -7090,10 +7059,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 36.080318450927734,
-            "t": 731.5192794799805,
-            "r": 48.93294906616211,
-            "b": 718.8458786010742,
+            "l": 36.07981491088867,
+            "t": 731.5193939208984,
+            "r": 48.93268966674805,
+            "b": 718.8463668823242,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7119,10 +7088,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 94.8703384399414,
-            "t": 658.0022583007812,
-            "r": 121.51685333251953,
-            "b": 631.8528137207031,
+            "l": 94.87015533447266,
+            "t": 658.0012969970703,
+            "r": 121.51692962646484,
+            "b": 631.8518981933594,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7148,10 +7117,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 123.45111846923828,
-            "t": 658.3873138427734,
-            "r": 149.26805114746094,
-            "b": 631.9024505615234,
+            "l": 123.45093536376953,
+            "t": 658.3867950439453,
+            "r": 149.26834106445312,
+            "b": 631.9019317626953,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7177,10 +7146,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 151.478759765625,
-            "t": 658.2221374511719,
-            "r": 177.15237426757812,
-            "b": 632.0133209228516,
+            "l": 151.47923278808594,
+            "t": 658.2235565185547,
+            "r": 177.15330505371094,
+            "b": 632.0134887695312,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7210,10 +7179,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 542.4803466796875,
-            "t": 772.8439712524414,
-            "r": 560.4375610351562,
-            "b": 754.8913726806641,
+            "l": 542.4801025390625,
+            "t": 772.8445281982422,
+            "r": 560.438232421875,
+            "b": 754.8916549682617,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7246,10 +7215,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 38.82901382446289,
-            "t": 813.9126396179199,
-            "r": 266.5605163574219,
-            "b": 616.0144653320312,
+            "l": 38.828861236572266,
+            "t": 813.9124889373779,
+            "r": 266.5603942871094,
+            "b": 616.0135498046875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7279,10 +7248,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 38.713050842285156,
-            "t": 438.4386901855469,
-            "r": 102.53158569335938,
-            "b": 365.09112548828125,
+            "l": 38.71263122558594,
+            "t": 438.4404602050781,
+            "r": 102.53168487548828,
+            "b": 365.0911865234375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7327,10 +7296,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 37.31623840332031,
-            "t": 346.55694580078125,
-            "r": 102.3801040649414,
-            "b": 268.15716552734375,
+            "l": 37.314876556396484,
+            "t": 346.5592041015625,
+            "r": 102.38077545166016,
+            "b": 268.1575927734375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7375,10 +7344,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 37.03246307373047,
-            "t": 236.97039794921875,
-            "r": 102.40735626220703,
-            "b": 158.3321533203125,
+            "l": 37.03015899658203,
+            "t": 236.97021484375,
+            "r": 102.40723419189453,
+            "b": 158.33172607421875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7417,10 +7386,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 36.88510513305664,
-            "t": 130.5146484375,
-            "r": 102.07295989990234,
-            "b": 61.6273193359375,
+            "l": 36.88008117675781,
+            "t": 130.5076904296875,
+            "r": 102.07319641113281,
+            "b": 61.626708984375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7450,10 +7419,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 39.447872161865234,
-            "t": 46.576904296875,
-            "r": 102.5619888305664,
-            "b": 27.49322509765625,
+            "l": 39.4464111328125,
+            "t": 46.57794189453125,
+            "r": 102.56289672851562,
+            "b": 27.49127197265625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7492,10 +7461,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 36.798988342285156,
-            "t": 814.2298583984375,
-            "r": 103.98857116699219,
-            "b": 762.2734527587891,
+            "l": 36.800018310546875,
+            "t": 814.2337741851807,
+            "r": 103.98258209228516,
+            "b": 762.2691345214844,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7521,10 +7490,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 47.54904556274414,
-            "t": 118.5452880859375,
-            "r": 61.908363342285156,
-            "b": 105.167236328125,
+            "l": 47.54821014404297,
+            "t": 118.54718017578125,
+            "r": 61.90919876098633,
+            "b": 105.166259765625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7550,10 +7519,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 235.92747497558594,
-            "t": 115.90667724609375,
-            "r": 247.48495483398438,
-            "b": 107.9530029296875,
+            "l": 235.92547607421875,
+            "t": 115.9068603515625,
+            "r": 247.48489379882812,
+            "b": 107.95159912109375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7579,10 +7548,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 41.46181869506836,
-            "t": 684.4507904052734,
-            "r": 52.18440628051758,
-            "b": 673.3041076660156,
+            "l": 41.461429595947266,
+            "t": 684.4515686035156,
+            "r": 52.184165954589844,
+            "b": 673.3050384521484,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7608,10 +7577,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 542.4581909179688,
-            "t": 772.6876449584961,
-            "r": 560.4884033203125,
-            "b": 754.7292098999023,
+            "l": 542.4588623046875,
+            "t": 772.6876602172852,
+            "r": 560.4888916015625,
+            "b": 754.7286529541016,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7637,10 +7606,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 298.68743896484375,
-            "t": 216.260009765625,
-            "r": 320.6961669921875,
-            "b": 197.0457763671875,
+            "l": 298.6874084472656,
+            "t": 216.26116943359375,
+            "r": 320.6963195800781,
+            "b": 197.0455322265625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7661,10 +7630,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/143"
+          "$ref": "#/texts/142"
         },
         {
-          "$ref": "#/texts/144"
+          "$ref": "#/texts/143"
         }
       ],
       "content_layer": "body",
@@ -7673,10 +7642,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 542.3928833007812,
-            "t": 772.7005462646484,
-            "r": 560.570068359375,
-            "b": 754.7807235717773,
+            "l": 542.392333984375,
+            "t": 772.7011337280273,
+            "r": 560.5697021484375,
+            "b": 754.7806243896484,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7697,10 +7666,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/189"
+          "$ref": "#/texts/188"
         },
         {
-          "$ref": "#/texts/190"
+          "$ref": "#/texts/189"
         }
       ],
       "content_layer": "body",
@@ -7709,10 +7678,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 542.3909912109375,
-            "t": 772.6466445922852,
-            "r": 560.6600952148438,
-            "b": 754.7562713623047,
+            "l": 542.3900756835938,
+            "t": 772.6478271484375,
+            "r": 560.661376953125,
+            "b": 754.7558898925781,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7733,7 +7702,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/210"
+          "$ref": "#/texts/209"
         }
       ],
       "content_layer": "body",
@@ -7742,10 +7711,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 41.25908660888672,
-            "t": 472.5464172363281,
-            "r": 66.13117218017578,
-            "b": 452.71392822265625,
+            "l": 41.259246826171875,
+            "t": 472.546875,
+            "r": 66.13227081298828,
+            "b": 452.7140808105469,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7771,10 +7740,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 67.53292846679688,
-            "t": 420.4815368652344,
-            "r": 95.88175201416016,
-            "b": 396.5006408691406,
+            "l": 67.5335922241211,
+            "t": 420.48291015625,
+            "r": 95.88190460205078,
+            "b": 396.4992980957031,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7795,7 +7764,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/215"
+          "$ref": "#/texts/214"
         }
       ],
       "content_layer": "body",
@@ -7804,10 +7773,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 98.4886703491211,
-            "t": 416.7486877441406,
-            "r": 147.60244750976562,
-            "b": 396.6259460449219,
+            "l": 98.49041748046875,
+            "t": 416.7481689453125,
+            "r": 147.60057067871094,
+            "b": 396.6265563964844,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7833,10 +7802,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 149.15354919433594,
-            "t": 413.71112060546875,
-            "r": 208.5862579345703,
-            "b": 395.4130859375,
+            "l": 149.15420532226562,
+            "t": 413.71240234375,
+            "r": 208.5841064453125,
+            "b": 395.41229248046875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7857,7 +7826,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/216"
+          "$ref": "#/texts/215"
         }
       ],
       "content_layer": "body",
@@ -7866,10 +7835,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 220.3487548828125,
-            "t": 417.2557678222656,
-            "r": 243.6566162109375,
-            "b": 395.609375,
+            "l": 220.34860229492188,
+            "t": 417.2560119628906,
+            "r": 243.65789794921875,
+            "b": 395.6094055175781,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7890,7 +7859,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/217"
+          "$ref": "#/texts/216"
         }
       ],
       "content_layer": "body",
@@ -7899,10 +7868,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 536.1607055664062,
-            "t": 468.0184631347656,
-            "r": 545.6997680664062,
-            "b": 455.7957763671875,
+            "l": 536.1602172851562,
+            "t": 468.0187683105469,
+            "r": 545.7006225585938,
+            "b": 455.79547119140625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7923,10 +7892,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/230"
+          "$ref": "#/texts/229"
         },
         {
-          "$ref": "#/texts/231"
+          "$ref": "#/texts/230"
         }
       ],
       "content_layer": "body",
@@ -7935,10 +7904,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 542.5224609375,
-            "t": 772.6322631835938,
-            "r": 560.4723510742188,
-            "b": 754.701042175293,
+            "l": 542.52294921875,
+            "t": 772.6330108642578,
+            "r": 560.4730834960938,
+            "b": 754.7007675170898,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

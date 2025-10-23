@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Piden a Mariana volver a casa; Busca familia recuperar a menor desaparecida, y pide certeza a la",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8193144916042543164,
+    "filename": "Piden a Mariana volver a casa; Busca familia recuperar a menor desaparecida, y pide certeza a la.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.52305234375,
+            "r": 626.253,
+            "b": 477.02905234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1167
+          ]
+        }
+      ],
+      "orig": "IIS 10.0 Detailed Error - 404.0 - Not Found HTTP Error 404.0 - Not Found The resource you are looking for has been removed, had its name changed, or is temporarily unavailable. Most likely causes: The directory or file specified does not exist on the Web server. The URL contains a typographical error. A custom filter or module, such as URLScan, restricts access to the file. Things you can try: Create the content on the Web server. Review the browser URL. Create a tracing rule to track failed requests for this HTTP status code and see which module is calling SetStatus. For more information about creating a tracing rule for failed requests, click here . Detailed Error Information: Module    IIS Web Core Notification    MapRequestHandler Handler    StaticFile Error Code    0x80070002 Requested URL    http://abcnoticias.mx:80/piden-a-mariana-volver-a-casa/98448 Physical Path    D:\\inetpub\\abcnoticias.mx\\piden-a-mariana-volver-a-casa\\98448 Logon Method Anonymous Logon User    Anonymous More Information: This error means that the file or directory does not exist on the server. Create the file or directory and try the request again. View more information »",
+      "text": "IIS 10.0 Detailed Error - 404.0 - Not Found HTTP Error 404.0 - Not Found The resource you are looking for has been removed, had its name changed, or is temporarily unavailable. Most likely causes: The directory or file specified does not exist on the Web server. The URL contains a typographical error. A custom filter or module, such as URLScan, restricts access to the file. Things you can try: Create the content on the Web server. Review the browser URL. Create a tracing rule to track failed requests for this HTTP status code and see which module is calling SetStatus. For more information about creating a tracing rule for failed requests, click here . Detailed Error Information: Module    IIS Web Core Notification    MapRequestHandler Handler    StaticFile Error Code    0x80070002 Requested URL    http://abcnoticias.mx:80/piden-a-mariana-volver-a-casa/98448 Physical Path    D:\\inetpub\\abcnoticias.mx\\piden-a-mariana-volver-a-casa\\98448 Logon Method Anonymous Logon User    Anonymous More Information: This error means that the file or directory does not exist on the server. Create the file or directory and try the request again. View more information »"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 633.0202026367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

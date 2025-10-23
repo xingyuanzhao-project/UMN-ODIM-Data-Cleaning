@@ -600,10 +600,10 @@
         "$ref": "#/texts/210"
       },
       {
-        "$ref": "#/texts/211"
+        "$ref": "#/pictures/6"
       },
       {
-        "$ref": "#/pictures/6"
+        "$ref": "#/texts/217"
       },
       {
         "$ref": "#/texts/218"
@@ -618,19 +618,16 @@
         "$ref": "#/texts/221"
       },
       {
-        "$ref": "#/texts/222"
-      },
-      {
         "$ref": "#/pictures/7"
       },
       {
         "$ref": "#/groups/4"
       },
       {
-        "$ref": "#/texts/241"
+        "$ref": "#/texts/240"
       },
       {
-        "$ref": "#/texts/242"
+        "$ref": "#/texts/241"
       }
     ],
     "content_layer": "body",
@@ -754,6 +751,9 @@
           "$ref": "#/groups/5"
         },
         {
+          "$ref": "#/texts/223"
+        },
+        {
           "$ref": "#/texts/224"
         },
         {
@@ -800,9 +800,6 @@
         },
         {
           "$ref": "#/texts/239"
-        },
-        {
-          "$ref": "#/texts/240"
         }
       ],
       "content_layer": "body",
@@ -816,7 +813,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/223"
+          "$ref": "#/texts/222"
         }
       ],
       "content_layer": "body",
@@ -6315,49 +6312,21 @@
             "l": 302.0,
             "t": 197.08299999999997,
             "r": 530.096,
-            "b": 184.144,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            30
-          ]
-        }
-      ],
-      "orig": "Covid19. CdMx tendr‡ 500 camas",
-      "text": "Covid19. CdMx tendr‡ 500 camas",
-      "level": 1
-    },
-    {
-      "self_ref": "#/texts/195",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "section_header",
-      "prov": [
-        {
-          "page_no": 7,
-          "bbox": {
-            "l": 302.0,
-            "t": 177.88300000000004,
-            "r": 514.178,
             "b": 164.94399999999996,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             0,
-            29
+            60
           ]
         }
       ],
-      "orig": "adicionales la pr-xima semana",
-      "text": "adicionales la pr-xima semana",
+      "orig": "Covid19. CdMx tendr‡ 500 camas adicionales la pr-xima semana",
+      "text": "Covid19. CdMx tendr‡ 500 camas adicionales la pr-xima semana",
       "level": 1
     },
     {
-      "self_ref": "#/texts/196",
+      "self_ref": "#/texts/195",
       "parent": {
         "$ref": "#/body"
       },
@@ -6385,7 +6354,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/197",
+      "self_ref": "#/texts/196",
       "parent": {
         "$ref": "#/body"
       },
@@ -6412,7 +6381,7 @@
       "text": "(https://www.milenio.com/politica/comunidad/covid19-cdmx-500camas-adicionales-proxima-semana?utm_medium=taboola) (https://www.milenio.com/policia/llevan-cadaver-ejecutado-evitardiligencias-texmelucan?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/198",
+      "self_ref": "#/texts/197",
       "parent": {
         "$ref": "#/body"
       },
@@ -6440,7 +6409,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/199",
+      "self_ref": "#/texts/198",
       "parent": {
         "$ref": "#/body"
       },
@@ -6467,7 +6436,7 @@
       "text": "ff"
     },
     {
-      "self_ref": "#/texts/200",
+      "self_ref": "#/texts/199",
       "parent": {
         "$ref": "#/body"
       },
@@ -6494,7 +6463,7 @@
       "text": "https://www.milenio.com/policia/indagan-a-sujeto-por-desaparicion-de-regidor"
     },
     {
-      "self_ref": "#/texts/201",
+      "self_ref": "#/texts/200",
       "parent": {
         "$ref": "#/body"
       },
@@ -6521,7 +6490,7 @@
       "text": "Página 7 de 9"
     },
     {
-      "self_ref": "#/texts/202",
+      "self_ref": "#/texts/201",
       "parent": {
         "$ref": "#/body"
       },
@@ -6548,7 +6517,7 @@
       "text": "Indagan a sujeto por desaparición de regidor"
     },
     {
-      "self_ref": "#/texts/203",
+      "self_ref": "#/texts/202",
       "parent": {
         "$ref": "#/body"
       },
@@ -6575,7 +6544,7 @@
       "text": "4/24/20 2&39 PM"
     },
     {
-      "self_ref": "#/texts/204",
+      "self_ref": "#/texts/203",
       "parent": {
         "$ref": "#/body"
       },
@@ -6603,7 +6572,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/205",
+      "self_ref": "#/texts/204",
       "parent": {
         "$ref": "#/body"
       },
@@ -6631,7 +6600,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/206",
+      "self_ref": "#/texts/205",
       "parent": {
         "$ref": "#/body"
       },
@@ -6658,7 +6627,7 @@
       "text": "(https://www.milenio.com/policia/llevan-cadaver-ejecutado-evitardiligencias-texmelucan?utm_medium=taboola) (https://www.milenio.com/negocios/oreal-nombra-kenneth-campbellceo-mexico?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/207",
+      "self_ref": "#/texts/206",
       "parent": {
         "$ref": "#/body"
       },
@@ -6686,7 +6655,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/208",
+      "self_ref": "#/texts/207",
       "parent": {
         "$ref": "#/body"
       },
@@ -6714,7 +6683,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/209",
+      "self_ref": "#/texts/208",
       "parent": {
         "$ref": "#/body"
       },
@@ -6741,7 +6710,7 @@
       "text": "(https://www.milenio.com/negocios/oreal-nombra-kenneth-campbellceo-mexico?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/210",
+      "self_ref": "#/texts/209",
       "parent": {
         "$ref": "#/body"
       },
@@ -6769,7 +6738,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/211",
+      "self_ref": "#/texts/210",
       "parent": {
         "$ref": "#/body"
       },
@@ -6797,7 +6766,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/212",
+      "self_ref": "#/texts/211",
       "parent": {
         "$ref": "#/pictures/6"
       },
@@ -6824,7 +6793,7 @@
       "text": "Almomento"
     },
     {
-      "self_ref": "#/texts/213",
+      "self_ref": "#/texts/212",
       "parent": {
         "$ref": "#/pictures/6"
       },
@@ -6851,7 +6820,7 @@
       "text": "Buscan ahorro de 622 mil mdp con nuevo plan"
     },
     {
-      "self_ref": "#/texts/214",
+      "self_ref": "#/texts/213",
       "parent": {
         "$ref": "#/pictures/6"
       },
@@ -6878,7 +6847,7 @@
       "text": "Fase 3"
     },
     {
-      "self_ref": "#/texts/215",
+      "self_ref": "#/texts/214",
       "parent": {
         "$ref": "#/pictures/6"
       },
@@ -6905,7 +6874,7 @@
       "text": "FALLECIDOS 970"
     },
     {
-      "self_ref": "#/texts/216",
+      "self_ref": "#/texts/215",
       "parent": {
         "$ref": "#/pictures/6"
       },
@@ -6932,7 +6901,7 @@
       "text": "12.21"
     },
     {
-      "self_ref": "#/texts/217",
+      "self_ref": "#/texts/216",
       "parent": {
         "$ref": "#/pictures/6"
       },
@@ -6959,7 +6928,7 @@
       "text": "Seconvierte"
     },
     {
-      "self_ref": "#/texts/218",
+      "self_ref": "#/texts/217",
       "parent": {
         "$ref": "#/body"
       },
@@ -6986,7 +6955,7 @@
       "text": "Newsfeed"
     },
     {
-      "self_ref": "#/texts/219",
+      "self_ref": "#/texts/218",
       "parent": {
         "$ref": "#/body"
       },
@@ -7013,7 +6982,7 @@
       "text": "https://www.milenio.com/policia/indagan-a-sujeto-por-desaparicion-de-regidor"
     },
     {
-      "self_ref": "#/texts/220",
+      "self_ref": "#/texts/219",
       "parent": {
         "$ref": "#/body"
       },
@@ -7040,7 +7009,7 @@
       "text": "Página 8 de 9"
     },
     {
-      "self_ref": "#/texts/221",
+      "self_ref": "#/texts/220",
       "parent": {
         "$ref": "#/body"
       },
@@ -7067,7 +7036,7 @@
       "text": "Indagan a sujeto por desaparición de regidor"
     },
     {
-      "self_ref": "#/texts/222",
+      "self_ref": "#/texts/221",
       "parent": {
         "$ref": "#/body"
       },
@@ -7094,7 +7063,7 @@
       "text": "4/24/20 2&39 PM"
     },
     {
-      "self_ref": "#/texts/223",
+      "self_ref": "#/texts/222",
       "parent": {
         "$ref": "#/groups/5"
       },
@@ -7123,7 +7092,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/224",
+      "self_ref": "#/texts/223",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -7142,15 +7111,15 @@
           },
           "charspan": [
             0,
-            515
+            538
           ]
         }
       ],
-      "orig": "iones) (http://publicidad.milenio.com/2020/MediaKit/index.html) somos) privacidad) (/aviso- legal) ! (https://www.facebook \" (https://twitter.co # (https://ww hl=en) $ (https:/ continúas navegando el sitio, das tu consentimiento para utilizar dicha tecnología, según nuestra Política de cookies Quiero saber más (/politica-cookies) Estoy de acuerdo amomedia | Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=milenio&utm_medium=referral&utm_content=alte This Photo Is Not Edited - Look Closer",
-      "text": "iones) (http://publicidad.milenio.com/2020/MediaKit/index.html) somos) privacidad) (/aviso- legal) ! (https://www.facebook \" (https://twitter.co # (https://ww hl=en) $ (https:/ continúas navegando el sitio, das tu consentimiento para utilizar dicha tecnología, según nuestra Política de cookies Quiero saber más (/politica-cookies) Estoy de acuerdo amomedia | Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=milenio&utm_medium=referral&utm_content=alte This Photo Is Not Edited - Look Closer"
+      "orig": "iones) (http://publicidad.milenio.com/2020/MediaKit/index.html) (/quienes- somos) (/aviso-de- privacidad) (/aviso- legal) ! (https://www.facebook \" (https://twitter.co # (https://ww hl=en) $ (https:/ continúas navegando el sitio, das tu consentimiento para utilizar dicha tecnología, según nuestra Política de cookies Quiero saber más (/politica-cookies) Estoy de acuerdo amomedia | Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=milenio&utm_medium=referral&utm_content=alte This Photo Is Not Edited - Look Closer",
+      "text": "iones) (http://publicidad.milenio.com/2020/MediaKit/index.html) (/quienes- somos) (/aviso-de- privacidad) (/aviso- legal) ! (https://www.facebook \" (https://twitter.co # (https://ww hl=en) $ (https:/ continúas navegando el sitio, das tu consentimiento para utilizar dicha tecnología, según nuestra Política de cookies Quiero saber más (/politica-cookies) Estoy de acuerdo amomedia | Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=milenio&utm_medium=referral&utm_content=alte This Photo Is Not Edited - Look Closer"
     },
     {
-      "self_ref": "#/texts/225",
+      "self_ref": "#/texts/224",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -7163,21 +7132,21 @@
           "bbox": {
             "l": 353.638,
             "t": 521.89,
-            "r": 472.409,
-            "b": 498.101,
+            "r": 472.396,
+            "b": 506.431,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             0,
-            57
+            34
           ]
         }
       ],
-      "orig": "Directorio (/quienes- Privacidad (/aviso-de- Visítanos en",
-      "text": "Directorio (/quienes- Privacidad (/aviso-de- Visítanos en"
+      "orig": "Directorio Privacidad Visítanos en",
+      "text": "Directorio Privacidad Visítanos en"
     },
     {
-      "self_ref": "#/texts/226",
+      "self_ref": "#/texts/225",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -7204,7 +7173,7 @@
       "text": "Aviso Legal"
     },
     {
-      "self_ref": "#/texts/227",
+      "self_ref": "#/texts/226",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -7231,7 +7200,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/228",
+      "self_ref": "#/texts/227",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -7259,7 +7228,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/229",
+      "self_ref": "#/texts/228",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -7286,7 +7255,7 @@
       "text": "Ordenar por"
     },
     {
-      "self_ref": "#/texts/230",
+      "self_ref": "#/texts/229",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -7313,7 +7282,7 @@
       "text": "Plugin de comentarios de Facebook"
     },
     {
-      "self_ref": "#/texts/231",
+      "self_ref": "#/texts/230",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -7340,7 +7309,7 @@
       "text": "Más antiguos"
     },
     {
-      "self_ref": "#/texts/232",
+      "self_ref": "#/texts/231",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -7367,7 +7336,7 @@
       "text": "Agregar un comentario..."
     },
     {
-      "self_ref": "#/texts/233",
+      "self_ref": "#/texts/232",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -7394,7 +7363,7 @@
       "text": "Utilizamos cookies para darte la mejor experiencia de"
     },
     {
-      "self_ref": "#/texts/234",
+      "self_ref": "#/texts/233",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -7421,7 +7390,7 @@
       "text": "(/politica-cookies). Puedes cambiar la configuración en tu navegador cuando gustes."
     },
     {
-      "self_ref": "#/texts/235",
+      "self_ref": "#/texts/234",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -7448,7 +7417,7 @@
       "text": "Prevent Food | Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=milenio&utm_medium=referral&utm_content=a Guanajuatenses buscan la opci-n de generar"
     },
     {
-      "self_ref": "#/texts/236",
+      "self_ref": "#/texts/235",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -7476,7 +7445,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/237",
+      "self_ref": "#/texts/236",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -7503,7 +7472,7 @@
       "text": "ingresos a falta de remesas"
     },
     {
-      "self_ref": "#/texts/238",
+      "self_ref": "#/texts/237",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -7530,7 +7499,7 @@
       "text": "Read Next Story"
     },
     {
-      "self_ref": "#/texts/239",
+      "self_ref": "#/texts/238",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -7557,7 +7526,7 @@
       "text": "(https://amomedia.com/186105-funny-sports-photos.html?"
     },
     {
-      "self_ref": "#/texts/240",
+      "self_ref": "#/texts/239",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -7584,7 +7553,7 @@
       "text": "amo_session=186105_5049&utm_source=1084034&utm_medium=186105_5049+B26294+US+23.01+M1+MSN+Safe+desktop+now)"
     },
     {
-      "self_ref": "#/texts/241",
+      "self_ref": "#/texts/240",
       "parent": {
         "$ref": "#/body"
       },
@@ -7611,7 +7580,7 @@
       "text": "https://www.milenio.com/policia/indagan-a-sujeto-por-desaparicion-de-regidor"
     },
     {
-      "self_ref": "#/texts/242",
+      "self_ref": "#/texts/241",
       "parent": {
         "$ref": "#/body"
       },
@@ -7655,10 +7624,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 26.033567428588867,
-            "t": 662.6673431396484,
-            "r": 41.22380065917969,
-            "b": 647.3736267089844,
+            "l": 26.031902313232422,
+            "t": 662.6667785644531,
+            "r": 41.223018646240234,
+            "b": 647.373779296875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7688,10 +7657,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 568.65771484375,
-            "t": 704.9508438110352,
-            "r": 586.4226684570312,
-            "b": 686.9309387207031,
+            "l": 568.6565551757812,
+            "t": 704.9509658813477,
+            "r": 586.422607421875,
+            "b": 686.9308013916016,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7717,10 +7686,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 347.1359558105469,
-            "t": 711.5542831420898,
-            "r": 427.1307678222656,
-            "b": 680.0391387939453,
+            "l": 347.13934326171875,
+            "t": 711.5517272949219,
+            "r": 427.1324157714844,
+            "b": 680.0405426025391,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7756,10 +7725,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 144.9273223876953,
-            "t": 431.2101135253906,
-            "r": 466.7865295410156,
-            "b": 369.3104248046875,
+            "l": 144.9269561767578,
+            "t": 431.2108459472656,
+            "r": 466.78704833984375,
+            "b": 369.3109436035156,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7789,10 +7758,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 31.923904418945312,
-            "t": 658.4071502685547,
-            "r": 582.8922729492188,
-            "b": 178.73590087890625,
+            "l": 31.923812866210938,
+            "t": 658.408447265625,
+            "r": 582.8921508789062,
+            "b": 178.73583984375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7822,10 +7791,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 305.7947692871094,
-            "t": 695.9485549926758,
-            "r": 329.0749816894531,
-            "b": 675.7439117431641,
+            "l": 305.7934875488281,
+            "t": 695.9493103027344,
+            "r": 329.0747375488281,
+            "b": 675.7446670532227,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7846,6 +7815,9 @@
       },
       "children": [
         {
+          "$ref": "#/texts/211"
+        },
+        {
           "$ref": "#/texts/212"
         },
         {
@@ -7859,9 +7831,6 @@
         },
         {
           "$ref": "#/texts/216"
-        },
-        {
-          "$ref": "#/texts/217"
         }
       ],
       "content_layer": "body",
@@ -7870,9 +7839,9 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 313.2183532714844,
+            "l": 313.21881103515625,
             "t": 441.82489013671875,
-            "r": 570.0821533203125,
+            "r": 570.0808715820312,
             "b": 295.97113037109375,
             "coord_origin": "BOTTOMLEFT"
           },
@@ -7899,10 +7868,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 47.298095703125,
-            "t": 696.6944427490234,
-            "r": 87.6937255859375,
-            "b": 656.2057952880859,
+            "l": 47.31373596191406,
+            "t": 696.7562484741211,
+            "r": 87.77095031738281,
+            "b": 656.1964569091797,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

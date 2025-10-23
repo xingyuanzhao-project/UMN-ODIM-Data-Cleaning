@@ -51,6 +51,9 @@
         "$ref": "#/groups/2"
       },
       {
+        "$ref": "#/texts/32"
+      },
+      {
         "$ref": "#/texts/33"
       },
       {
@@ -76,9 +79,6 @@
       },
       {
         "$ref": "#/texts/41"
-      },
-      {
-        "$ref": "#/texts/42"
       },
       {
         "$ref": "#/pictures/2"
@@ -188,9 +188,6 @@
         },
         {
           "$ref": "#/texts/31"
-        },
-        {
-          "$ref": "#/texts/32"
         }
       ],
       "content_layer": "body",
@@ -1049,33 +1046,6 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 251.66666666666666,
-            "t": 481.6666666666667,
-            "r": 357.0,
-            "b": 467.0,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            20
-          ]
-        }
-      ],
-      "orig": "Lugar de los hechos;",
-      "text": "Lugar de los hechos;"
-    },
-    {
-      "self_ref": "#/texts/32",
-      "parent": {
-        "$ref": "#/groups/2"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 2,
-          "bbox": {
             "l": 391.0,
             "t": 481.6666666666667,
             "r": 466.3333333333333,
@@ -1092,7 +1062,7 @@
       "text": "Ameca, Jalisco."
     },
     {
-      "self_ref": "#/texts/33",
+      "self_ref": "#/texts/32",
       "parent": {
         "$ref": "#/body"
       },
@@ -1119,7 +1089,7 @@
       "text": "13  de  septiembre  de  2016. -  La  Alerta  Ámbar  para  encontrar  a Jostyn  Roberto  Treviño  Rizo fue desactivada, pues este lunes encontraron al pequeño sin vida."
     },
     {
-      "self_ref": "#/texts/34",
+      "self_ref": "#/texts/33",
       "parent": {
         "$ref": "#/body"
       },
@@ -1146,7 +1116,7 @@
       "text": "Cerca  de  las  10:30  horas,  tras  el  reporte  de  los  habitantes  del  poblado  Los  Pocitos municipio  de Ameca, de  una persona flotando en  un  canal  de  aguas,  la  Policía  Municipal  y  cuerpos  de  rescate acudieron al lugar y se dieron cuenta que se trataba de un niño."
     },
     {
-      "self_ref": "#/texts/35",
+      "self_ref": "#/texts/34",
       "parent": {
         "$ref": "#/body"
       },
@@ -1173,7 +1143,7 @@
       "text": "La sospecha se confirmó, el cadáver vestía camisa a cuadros, pantalón de mezclilla y tenis negros, tal y como fue visto Jostyn por última vez cuando lo sustrajeron del lado de su abuelo, a quien el pasado miércoles golpearon con un machete para llevarse al menor."
     },
     {
-      "self_ref": "#/texts/36",
+      "self_ref": "#/texts/35",
       "parent": {
         "$ref": "#/body"
       },
@@ -1200,7 +1170,7 @@
       "text": "Los hechos ocurrieron cuando el adulto mayor esperaba a su hija para entregar al niño de cuatro años que dormía en la parte trasera de su camioneta, cuando llegaron dos sujetos armados con un bate y un machete, en contra de él para robarle la camioneta , según la declaración del abuelo ante el Ministerio Público."
     },
     {
-      "self_ref": "#/texts/37",
+      "self_ref": "#/texts/36",
       "parent": {
         "$ref": "#/body"
       },
@@ -1227,7 +1197,7 @@
       "text": "Al resistirse, éste fue herido de gravedad con el machete en el abdomen, e inmediatamente después los agresores huyeron con rumbo a la Zona Metropolitana y al parecer, no se percataron de la presencia del menor en la parte trasera del vehículo, según hipótesis de la Policía Municipal."
     },
     {
-      "self_ref": "#/texts/38",
+      "self_ref": "#/texts/37",
       "parent": {
         "$ref": "#/body"
       },
@@ -1254,7 +1224,7 @@
       "text": "Los  uniformados  entrevistaron  a  los  familiares  del  menor  y descartaron  que  se  tratara  de  un secuestro o  problemas entre parientes, por lo que la línea de investigación se centró por el robo del automotor."
     },
     {
-      "self_ref": "#/texts/39",
+      "self_ref": "#/texts/38",
       "parent": {
         "$ref": "#/body"
       },
@@ -1281,7 +1251,7 @@
       "text": "Desde el pasado 8 de septiembre, la policía local en conjunto con la Fuerza Única patrullaron la Región Valles en la búsqueda del niño y la camioneta color rojo, pero la búsqueda no fue fructífera."
     },
     {
-      "self_ref": "#/texts/40",
+      "self_ref": "#/texts/39",
       "parent": {
         "$ref": "#/body"
       },
@@ -1308,7 +1278,7 @@
       "text": "Destaca que la Alerta Amber fue habilitada hasta 29 horas después de la sustracción del menor, pues este se reportó cerca de las 21:00 horas del 7 de septiembre pasado."
     },
     {
-      "self_ref": "#/texts/41",
+      "self_ref": "#/texts/40",
       "parent": {
         "$ref": "#/body"
       },
@@ -1335,7 +1305,7 @@
       "text": "Hacía el mediodía de este lunes, las autoridades informaron que la víctima encontrada en el canal era Jostyn, que no había detenidos y que las investigaciones continúan su curso. También señalaron que el vehículo no ha sido localizado."
     },
     {
-      "self_ref": "#/texts/42",
+      "self_ref": "#/texts/41",
       "parent": {
         "$ref": "#/body"
       },
@@ -1362,7 +1332,7 @@
       "text": "A decir de técnicos en urgencias, el cuerpo del niño presentaba signos de ahogamiento con más de 12 horas de evolución."
     },
     {
-      "self_ref": "#/texts/43",
+      "self_ref": "#/texts/42",
       "parent": {
         "$ref": "#/pictures/2"
       },
@@ -1390,7 +1360,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/44",
+      "self_ref": "#/texts/43",
       "parent": {
         "$ref": "#/pictures/2"
       },
@@ -1417,7 +1387,7 @@
       "text": "Sort by"
     },
     {
-      "self_ref": "#/texts/45",
+      "self_ref": "#/texts/44",
       "parent": {
         "$ref": "#/pictures/2"
       },
@@ -1444,7 +1414,7 @@
       "text": "Facebook Comments Plugin"
     },
     {
-      "self_ref": "#/texts/46",
+      "self_ref": "#/texts/45",
       "parent": {
         "$ref": "#/pictures/2"
       },
@@ -1471,7 +1441,7 @@
       "text": "Oldest"
     },
     {
-      "self_ref": "#/texts/47",
+      "self_ref": "#/texts/46",
       "parent": {
         "$ref": "#/pictures/2"
       },
@@ -1518,10 +1488,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 77.32862854003906,
-            "t": 749.968090057373,
-            "r": 221.0347900390625,
-            "b": 664.9339141845703,
+            "l": 77.3290023803711,
+            "t": 749.9692649841309,
+            "r": 221.03404235839844,
+            "b": 664.9345932006836,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1551,10 +1521,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 74.0062255859375,
-            "t": 654.7021484375,
-            "r": 220.5837860107422,
-            "b": 461.3086853027344,
+            "l": 74.00444030761719,
+            "t": 654.7029418945312,
+            "r": 220.58323669433594,
+            "b": 461.3078918457031,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1575,6 +1545,9 @@
       },
       "children": [
         {
+          "$ref": "#/texts/42"
+        },
+        {
           "$ref": "#/texts/43"
         },
         {
@@ -1585,9 +1558,6 @@
         },
         {
           "$ref": "#/texts/46"
-        },
-        {
-          "$ref": "#/texts/47"
         }
       ],
       "content_layer": "body",
@@ -1596,10 +1566,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 48.579959869384766,
-            "t": 756.2357788085938,
-            "r": 488.968505859375,
-            "b": 636.8558044433594,
+            "l": 48.57742691040039,
+            "t": 756.2394256591797,
+            "r": 488.9596252441406,
+            "b": 636.8560333251953,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

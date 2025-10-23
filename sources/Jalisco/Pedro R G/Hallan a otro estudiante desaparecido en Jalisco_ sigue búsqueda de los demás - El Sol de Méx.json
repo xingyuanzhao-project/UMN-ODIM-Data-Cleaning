@@ -1,0 +1,1224 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Hallan a otro estudiante desaparecido en Jalisco_ sigue búsqueda de los demás - El Sol de Méx",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13153446980121961464,
+    "filename": "Hallan a otro estudiante desaparecido en Jalisco_ sigue búsqueda de los demás - El Sol de Méx.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.406,
+            "r": 58.898,
+            "b": 771.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "10/1/2018",
+      "text": "10/1/2018"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 181.156,
+            "t": 775.406,
+            "r": 493.512,
+            "b": 771.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "Hallan a otro estudiante desaparecido en Jalisco; sigue búsqueda de los demás - El Sol de México",
+      "text": "Hallan a otro estudiante desaparecido en Jalisco; sigue búsqueda de los demás - El Sol de México"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 298.482,
+            "t": 697.363,
+            "r": 403.862,
+            "b": 686.009,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Struggling",
+      "text": "Struggling"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 298.482,
+            "t": 673.013,
+            "r": 402.452,
+            "b": 661.659,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "to Recruit?",
+      "text": "to Recruit?"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 416.67,
+            "t": 710.446,
+            "r": 499.085,
+            "b": 645.378,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "Join our network of over 10+ job sites to reach 2.3 million local candidates near you.",
+      "text": "Join our network of over 10+ job sites to reach 2.3 million local candidates near you."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 306.5,
+            "t": 577.836,
+            "r": 439.58,
+            "b": 574.09,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Ciudad de México, 1 de octubre de 2018",
+      "text": "Ciudad de México, 1 de octubre de 2018",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 22.909,
+            "t": 530.625,
+            "r": 514.854,
+            "b": 494.942,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "Hallan a otro estudiante desaparecido en Jalisco; sigue búsqueda de los demás",
+      "text": "Hallan a otro estudiante desaparecido en Jalisco; sigue búsqueda de los demás",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 22.909,
+            "t": 478.858,
+            "r": 561.174,
+            "b": 473.239,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "Hasta el momento no se sabe nada de la desaparición de los jóvenes estudiantes de cine, ni del de medicina",
+      "text": "Hasta el momento no se sabe nada de la desaparición de los jóvenes estudiantes de cine, ni del de medicina"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.787,
+            "t": 168.899,
+            "r": 87.57,
+            "b": 164.529,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Foto: Especial",
+      "text": "Foto: Especial"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 579.6666666666666,
+            "t": 736.0,
+            "r": 597.6666666666666,
+            "b": 727.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "[Plx",
+      "text": "[Plx"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.40599999999995,
+            "r": 500.898,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "https://www.elsoldemexico.com.mx/republica/justicia/hallan-a-otro-estudiante-desaparecido-en-jalisco-sigue-busqueda-de-los-demas-1532723.html",
+      "text": "https://www.elsoldemexico.com.mx/republica/justicia/hallan-a-otro-estudiante-desaparecido-en-jalisco-sigue-busqueda-de-los-demas-1532723.html"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 571.312,
+            "t": 22.40599999999995,
+            "r": 585.531,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1/16",
+      "text": "1/16"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 775.406,
+            "r": 58.898,
+            "b": 771.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "10/1/2018",
+      "text": "10/1/2018"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 181.156,
+            "t": 775.406,
+            "r": 493.512,
+            "b": 771.802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "Hallan a otro estudiante desaparecido en Jalisco; sigue búsqueda de los demás - El Sol de México",
+      "text": "Hallan a otro estudiante desaparecido en Jalisco; sigue búsqueda de los demás - El Sol de México"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 22.909,
+            "t": 732.785,
+            "r": 152.028,
+            "b": 727.79,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Román Ortega I El Occidental",
+      "text": "Román Ortega I El Occidental",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 22.909,
+            "t": 704.871,
+            "r": 451.52,
+            "b": 686.81,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "Guadalajara. -La Fiscalía General del Estado conrmó la localización del menor de 14 años, Pedro Ruiz Guerrero, estudiante de 14 años desaparecido desde el pasado martes.",
+      "text": "Guadalajara. -La Fiscalía General del Estado conrmó la localización del menor de 14 años, Pedro Ruiz Guerrero, estudiante de 14 años desaparecido desde el pasado martes."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 22.909,
+            "t": 672.8,
+            "r": 465.092,
+            "b": 641.673,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "Sin dar detalles, la dependencia estatal informó en su cuenta de twitter que 'ya fue localizado Pedro Ruiz Guerrero de 14 años, quien se reportó como desaparecido el pasado 20 de marzo en el municipio de Zapopan'.",
+      "text": "Sin dar detalles, la dependencia estatal informó en su cuenta de twitter que 'ya fue localizado Pedro Ruiz Guerrero de 14 años, quien se reportó como desaparecido el pasado 20 de marzo en el municipio de Zapopan'."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 22.909,
+            "t": 603.906,
+            "r": 453.052,
+            "b": 585.845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "Ese día, Pedro salió de casa para ir a su escuela, la secundaria 45 en Zapopan, pero nunca llegó al plantel educativo.",
+      "text": "Ese día, Pedro salió de casa para ir a su escuela, la secundaria 45 en Zapopan, pero nunca llegó al plantel educativo."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 22.909,
+            "t": 565.896,
+            "r": 470.757,
+            "b": 508.637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            461
+          ]
+        }
+      ],
+      "orig": "La noche del jueves, la Fiscalía General del Estado informó que Susana Carolina, de 20 años, alumna de la facultad de psicología de la Universidad de Guadalajara, fue localizada sana y salva en Periférico a la altura de Centro Sur, en Tlaquepaque, después de que unos desconocidos la privaron de la libertad el miércoles. Un día después, Raúl Sánchez Jiménez, Fiscal de Jalisco, informó que la joven 'duró más de 24 horas privada de su libertad en un vehículo'.",
+      "text": "La noche del jueves, la Fiscalía General del Estado informó que Susana Carolina, de 20 años, alumna de la facultad de psicología de la Universidad de Guadalajara, fue localizada sana y salva en Periférico a la altura de Centro Sur, en Tlaquepaque, después de que unos desconocidos la privaron de la libertad el miércoles. Un día después, Raúl Sánchez Jiménez, Fiscal de Jalisco, informó que la joven 'duró más de 24 horas privada de su libertad en un vehículo'."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 22.909,
+            "t": 488.688,
+            "r": 452.263,
+            "b": 470.627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "La Fiscalía General del Estado continúa con las investigaciones para localizar a cuatro estudiantes universitarios que siguen desaparecidos.",
+      "text": "La Fiscalía General del Estado continúa con las investigaciones para localizar a cuatro estudiantes universitarios que siguen desaparecidos."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 22.909,
+            "t": 450.678,
+            "r": 459.668,
+            "b": 406.485,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            345
+          ]
+        }
+      ],
+      "orig": "Uno de ellos es César Ulises, de 18 años, estudiante de medicina de la Universidad de Guadalajara, quien fue visto por última vez el pasado lunes, en Huentitán, después de bajar de la estación del macrobús, de acuerdo a las imágenes captadas por las cámaras de seguridad y cuyo contenido fue revelado por el Fiscal General, Raúl Sánchez Jiménez.",
+      "text": "Uno de ellos es César Ulises, de 18 años, estudiante de medicina de la Universidad de Guadalajara, quien fue visto por última vez el pasado lunes, en Huentitán, después de bajar de la estación del macrobús, de acuerdo a las imágenes captadas por las cámaras de seguridad y cuyo contenido fue revelado por el Fiscal General, Raúl Sánchez Jiménez."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 22.909,
+            "t": 386.536,
+            "r": 471.143,
+            "b": 342.343,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            322
+          ]
+        }
+      ],
+      "orig": "Los otros tres desaparecidos son: Javier Aceves Gastelum, de 25 años; Jesús Díaz García, de 20 años; Marco García Ávalos, de 20 años y César Ulises Arellano, de 18 años, estudiantes de la Universidad de Medios Audiovisuales, que fueron privados de la libertad por sujetos armados el pasado lunes en el municipio de Tonalá.",
+      "text": "Los otros tres desaparecidos son: Javier Aceves Gastelum, de 25 años; Jesús Díaz García, de 20 años; Marco García Ávalos, de 20 años y César Ulises Arellano, de 18 años, estudiantes de la Universidad de Medios Audiovisuales, que fueron privados de la libertad por sujetos armados el pasado lunes en el municipio de Tonalá."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 22.909,
+            "t": 322.394,
+            "r": 469.579,
+            "b": 291.267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "La tarde del viernes, el Gobernador de Jalisco, Aristóteles Sandoval Días, anunció una recompensa de un millón de pesos para quien aporte información que lleve a la localización de los jóvenes desaparecidos.",
+      "text": "La tarde del viernes, el Gobernador de Jalisco, Aristóteles Sandoval Días, anunció una recompensa de un millón de pesos para quien aporte información que lleve a la localización de los jóvenes desaparecidos."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 27.66,
+            "t": 212.21799999999996,
+            "r": 84.036,
+            "b": 208.02099999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "0 comentarios",
+      "text": "0 comentarios",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 472.043,
+            "t": 212.19799999999998,
+            "r": 519.174,
+            "b": 208.015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Ordenar por",
+      "text": "Ordenar por"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 524.511,
+            "t": 210.769,
+            "r": 571.653,
+            "b": 207.17200000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Más recientes",
+      "text": "Más recientes"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 34.842,
+            "t": 169.69399999999996,
+            "r": 139.37,
+            "b": 164.914,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Agregar un comentario...",
+      "text": "Agregar un comentario..."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.944,
+            "t": 128.96000000000004,
+            "r": 143.172,
+            "b": 125.67399999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Plugin de comentarios de Facebook",
+      "text": "Plugin de comentarios de Facebook"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.848,
+            "t": 75.28899999999999,
+            "r": 61.232,
+            "b": 68.27499999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "MÁS",
+      "text": "MÁS"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 61.225,
+            "t": 75.346,
+            "r": 125.296,
+            "b": 68.29399999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "NOTICIAS",
+      "text": "NOTICIAS"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 26.453,
+            "t": 22.40599999999995,
+            "r": 500.898,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "https://www.elsoldemexico.com.mx/republica/justicia/hallan-a-otro-estudiante-desaparecido-en-jalisco-sigue-busqueda-de-los-demas-1532723.html",
+      "text": "https://www.elsoldemexico.com.mx/republica/justicia/hallan-a-otro-estudiante-desaparecido-en-jalisco-sigue-busqueda-de-los-demas-1532723.html"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 571.312,
+            "t": 22.40599999999995,
+            "r": 585.531,
+            "b": 18.80200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2/16",
+      "text": "2/16"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 14.769485473632812,
+            "t": 734.9513092041016,
+            "r": 219.92800903320312,
+            "b": 621.7308044433594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 229.9063262939453,
+            "t": 704.4158706665039,
+            "r": 402.1285705566406,
+            "b": 650.4124298095703,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 11.870100975036621,
+            "t": 600.0176544189453,
+            "r": 440.1923828125,
+            "b": 559.7337493896484,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 22.035600662231445,
+            "t": 458.9533386230469,
+            "r": 469.2159729003906,
+            "b": 179.34588623046875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 578.5905151367188,
+            "t": 737.6925926208496,
+            "r": 598.1970825195312,
+            "b": 726.6224365234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.269529342651367,
+            "t": 78.37542724609375,
+            "r": 125.36478424072266,
+            "b": 64.04217529296875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

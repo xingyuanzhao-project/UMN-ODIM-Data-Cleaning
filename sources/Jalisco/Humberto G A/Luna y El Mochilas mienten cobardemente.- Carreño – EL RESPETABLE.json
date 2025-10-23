@@ -87,10 +87,10 @@
         "$ref": "#/texts/23"
       },
       {
-        "$ref": "#/pictures/2"
+        "$ref": "#/texts/24"
       },
       {
-        "$ref": "#/texts/25"
+        "$ref": "#/pictures/2"
       },
       {
         "$ref": "#/texts/26"
@@ -123,10 +123,10 @@
         "$ref": "#/texts/35"
       },
       {
-        "$ref": "#/texts/36"
+        "$ref": "#/pictures/3"
       },
       {
-        "$ref": "#/pictures/3"
+        "$ref": "#/texts/38"
       },
       {
         "$ref": "#/texts/39"
@@ -210,10 +210,10 @@
         "$ref": "#/texts/65"
       },
       {
-        "$ref": "#/texts/66"
+        "$ref": "#/pictures/4"
       },
       {
-        "$ref": "#/pictures/4"
+        "$ref": "#/texts/66"
       },
       {
         "$ref": "#/texts/67"
@@ -271,9 +271,6 @@
       },
       {
         "$ref": "#/texts/85"
-      },
-      {
-        "$ref": "#/texts/86"
       }
     ],
     "content_layer": "body",
@@ -928,6 +925,47 @@
         {
           "page_no": 2,
           "bbox": {
+            "l": 141.43,
+            "t": 227.39499999999998,
+            "r": 651.572,
+            "b": 204.50800000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 304.672,
+            "t": 194.39499999999998,
+            "r": 488.328,
+            "b": 188.00800000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            127,
+            159
+          ]
+        }
+      ],
+      "orig": "(http://www.linkedin.com/shareArticle? mini=true&url=http%3A%2F%2Felrespetable.com%2F2016%2F08%2F28%2Fhugo-luna-y-el-mochilas- mienten-cobardemente-carreno%2F)",
+      "text": "(http://www.linkedin.com/shareArticle? mini=true&url=http%3A%2F%2Felrespetable.com%2F2016%2F08%2F28%2Fhugo-luna-y-el-mochilas- mienten-cobardemente-carreno%2F)"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
             "l": 300.875,
             "t": 513.895,
             "r": 492.125,
@@ -944,7 +982,7 @@
       "text": "(http://www.facebook.com/sharer.php?"
     },
     {
-      "self_ref": "#/texts/23",
+      "self_ref": "#/texts/24",
       "parent": {
         "$ref": "#/body"
       },
@@ -971,7 +1009,7 @@
       "text": "u=http%3A%2F%2Felrespetable.com%2F2016%2F08%2F28%2Fhugo-luna-y-el-mochilas-mientencobardemente-carreno%2F)"
     },
     {
-      "self_ref": "#/texts/24",
+      "self_ref": "#/texts/25",
       "parent": {
         "$ref": "#/pictures/2"
       },
@@ -998,7 +1036,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/25",
+      "self_ref": "#/texts/26",
       "parent": {
         "$ref": "#/body"
       },
@@ -1039,7 +1077,7 @@
       "text": "(http://twitter.com/share?url=http%3A%2F%2Felrespetable.com%2F2016%2F08%2F28%2Fhugo-lunay-el-mochilas-mienten-cobardemente- carreno%2F&text=Luna%20y%20El%20Mochilas%20mienten%20cobardemente.-%20Carreño) "
     },
     {
-      "self_ref": "#/texts/26",
+      "self_ref": "#/texts/27",
       "parent": {
         "$ref": "#/body"
       },
@@ -1066,7 +1104,7 @@
       "text": "(https://plus.google.com/share?url=http%3A%2F%2Felrespetable.com%2F2016%2F08%2F28%2Fhugoluna-y-el-mochilas-mienten-cobardemente-carreno%2F)"
     },
     {
-      "self_ref": "#/texts/27",
+      "self_ref": "#/texts/28",
       "parent": {
         "$ref": "#/body"
       },
@@ -1093,7 +1131,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/28",
+      "self_ref": "#/texts/29",
       "parent": {
         "$ref": "#/body"
       },
@@ -1120,7 +1158,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/29",
+      "self_ref": "#/texts/30",
       "parent": {
         "$ref": "#/body"
       },
@@ -1161,61 +1199,7 @@
       "text": "(http://www.stumbleupon.com/submit? url=http%3A%2F%2Felrespetable.com%2F2016%2F08%2F28%2Fhugo-luna-y-el-mochilas-mienten- cobardemente-carreno%2F)"
     },
     {
-      "self_ref": "#/texts/30",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 2,
-          "bbox": {
-            "l": 299.879,
-            "t": 227.39499999999998,
-            "r": 493.12,
-            "b": 221.00800000000004,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            38
-          ]
-        }
-      ],
-      "orig": "(http://www.linkedin.com/shareArticle?",
-      "text": "(http://www.linkedin.com/shareArticle?"
-    },
-    {
       "self_ref": "#/texts/31",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 2,
-          "bbox": {
-            "l": 141.43,
-            "t": 210.89499999999998,
-            "r": 651.572,
-            "b": 188.00800000000004,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            118
-          ]
-        }
-      ],
-      "orig": "mini=true&url=http%3A%2F%2Felrespetable.com%2F2016%2F08%2F28%2Fhugo-luna-y-el-mochilasmienten-cobardemente-carreno%2F)",
-      "text": "mini=true&url=http%3A%2F%2Felrespetable.com%2F2016%2F08%2F28%2Fhugo-luna-y-el-mochilasmienten-cobardemente-carreno%2F)"
-    },
-    {
-      "self_ref": "#/texts/32",
       "parent": {
         "$ref": "#/body"
       },
@@ -1242,7 +1226,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/33",
+      "self_ref": "#/texts/32",
       "parent": {
         "$ref": "#/body"
       },
@@ -1269,7 +1253,7 @@
       "text": "http://elrespetable.com/2016/08/28/hugo-luna-y-el-mochilas-mienten-cobardemente-carreno/"
     },
     {
-      "self_ref": "#/texts/34",
+      "self_ref": "#/texts/33",
       "parent": {
         "$ref": "#/body"
       },
@@ -1296,7 +1280,7 @@
       "text": "2/16"
     },
     {
-      "self_ref": "#/texts/35",
+      "self_ref": "#/texts/34",
       "parent": {
         "$ref": "#/body"
       },
@@ -1323,7 +1307,7 @@
       "text": "10/17/2018"
     },
     {
-      "self_ref": "#/texts/36",
+      "self_ref": "#/texts/35",
       "parent": {
         "$ref": "#/body"
       },
@@ -1350,7 +1334,7 @@
       "text": "Luna y El Mochilas mienten cobardemente.- Carreño - EL RESPETABLE"
     },
     {
-      "self_ref": "#/texts/37",
+      "self_ref": "#/texts/36",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -1377,7 +1361,7 @@
       "text": "(http://elrespetable.com/wp-content/uploads/2016/08/luna-y-mochilas.jpg) Hugo Luna y El Mochilas."
     },
     {
-      "self_ref": "#/texts/38",
+      "self_ref": "#/texts/37",
       "parent": {
         "$ref": "#/pictures/3"
       },
@@ -1404,7 +1388,7 @@
       "text": "VIN"
     },
     {
-      "self_ref": "#/texts/39",
+      "self_ref": "#/texts/38",
       "parent": {
         "$ref": "#/body"
       },
@@ -1432,7 +1416,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/40",
+      "self_ref": "#/texts/39",
       "parent": {
         "$ref": "#/body"
       },
@@ -1459,7 +1443,7 @@
       "text": "Susana  Carreño,  ex  regidora  en  Puerto  Vallarta del  Partido  Movimiento  Ciudadano,  envió  el  n  de semana  un  comunicado  para  precisar  sobre  las  presiones  que  asegura  recibió  de  Hugo  Luna,  Jefe  de Gabinete del Ayuntamiento de Guadalajara, cuando éste era dirigente estatal de MC, 'todo para beneciar a Sergio Kurt  Schmidt', detenido recientemente por ser presuntamente un operador nanciero del Cártel de Jalisco Nueva Generación."
     },
     {
-      "self_ref": "#/texts/41",
+      "self_ref": "#/texts/40",
       "parent": {
         "$ref": "#/body"
       },
@@ -1486,7 +1470,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/42",
+      "self_ref": "#/texts/41",
       "parent": {
         "$ref": "#/body"
       },
@@ -1513,7 +1497,7 @@
       "text": "http://elrespetable.com/2016/08/28/hugo-luna-y-el-mochilas-mienten-cobardemente-carreno/"
     },
     {
-      "self_ref": "#/texts/43",
+      "self_ref": "#/texts/42",
       "parent": {
         "$ref": "#/body"
       },
@@ -1540,7 +1524,7 @@
       "text": "3/16"
     },
     {
-      "self_ref": "#/texts/44",
+      "self_ref": "#/texts/43",
       "parent": {
         "$ref": "#/body"
       },
@@ -1567,7 +1551,7 @@
       "text": "10/17/2018"
     },
     {
-      "self_ref": "#/texts/45",
+      "self_ref": "#/texts/44",
       "parent": {
         "$ref": "#/body"
       },
@@ -1594,7 +1578,7 @@
       "text": "Luna y El Mochilas mienten cobardemente.- Carreño - EL RESPETABLE"
     },
     {
-      "self_ref": "#/texts/46",
+      "self_ref": "#/texts/45",
       "parent": {
         "$ref": "#/body"
       },
@@ -1621,7 +1605,7 @@
       "text": "Además, se investiga al mismo personaje por la desaparición de un regidor, Humberto Gómez Arévalo, quien junto con Susana Carreño, se opuso a que se le entregaran recursos públicos de Puerto Vallarta al espectáculo Fandango, donde tenía intereses el hoy detenido."
     },
     {
-      "self_ref": "#/texts/47",
+      "self_ref": "#/texts/46",
       "parent": {
         "$ref": "#/body"
       },
@@ -1648,7 +1632,7 @@
       "text": "'No es la primera vez que Puerto Vallarta es nota nacional e internacional por la violencia y escándalos como el  de Sergio Kurt Schmidt. A las ocinas del alcalde y funcionarios de la administración municipal, llegaron  personajes  que  después  vimos  en  notas  periodísticas  de  medios  estatales,  nacionales  e internacionales. Su  amigo,  así  me  lo  presentó,  Edelmiro  Sánchez  Hernández,  se  la  vivía  en  las instalaciones municipales, concretamente en la ocina de Ramón Guerrero', asienta Susana Carreno en el comunicado."
     },
     {
-      "self_ref": "#/texts/48",
+      "self_ref": "#/texts/47",
       "parent": {
         "$ref": "#/body"
       },
@@ -1675,7 +1659,7 @@
       "text": "Agrega: 'Ahora Sergio Kurt Schmidt ,  ¿quién  era?,    ¿qué  hacía  esta  persona  en  la  ocina  del  Secretario General  del  Ayuntamiento,  José  Antonio  Pinto?  ¿Por  qué  no  le  han  preguntado?  ¿Por  qué  Sergio  Kurt Schmidt,  amenazó  al  regidor  Humberto  Gómez  Arévalo?  ¿Cuáles  eran  sus  intereses?  La  única  vez  que hablé con Sergio Kurt, fue en la ocina de José Antonio Pinto. De haber sabido, no entro a la ocina del Secretario General'."
     },
     {
-      "self_ref": "#/texts/49",
+      "self_ref": "#/texts/48",
       "parent": {
         "$ref": "#/body"
       },
@@ -1702,7 +1686,7 @@
       "text": "'Por  la  prensa  nacional  nos  enteramos  de  la  detención  e  identidad  de  Sergio  Kurt  Schmidt.  El  video circulaba ya en las redes, (YouTube: 'Me la pelan, empresario al pueblo de Puerto Vallarta') .  Me buscó y contactó la prensa, medios nacionales, estatales para preguntarme, si yo aparecía en el video y respondí' [sic], asienta."
     },
     {
-      "self_ref": "#/texts/50",
+      "self_ref": "#/texts/49",
       "parent": {
         "$ref": "#/body"
       },
@@ -1729,7 +1713,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/51",
+      "self_ref": "#/texts/50",
       "parent": {
         "$ref": "#/body"
       },
@@ -1756,7 +1740,7 @@
       "text": "http://elrespetable.com/2016/08/28/hugo-luna-y-el-mochilas-mienten-cobardemente-carreno/"
     },
     {
-      "self_ref": "#/texts/52",
+      "self_ref": "#/texts/51",
       "parent": {
         "$ref": "#/body"
       },
@@ -1783,7 +1767,7 @@
       "text": "4/16"
     },
     {
-      "self_ref": "#/texts/53",
+      "self_ref": "#/texts/52",
       "parent": {
         "$ref": "#/body"
       },
@@ -1810,7 +1794,7 @@
       "text": "10/17/2018"
     },
     {
-      "self_ref": "#/texts/54",
+      "self_ref": "#/texts/53",
       "parent": {
         "$ref": "#/body"
       },
@@ -1837,7 +1821,7 @@
       "text": "Luna y El Mochilas mienten cobardemente.- Carreño - EL RESPETABLE"
     },
     {
-      "self_ref": "#/texts/55",
+      "self_ref": "#/texts/54",
       "parent": {
         "$ref": "#/body"
       },
@@ -1864,7 +1848,7 @@
       "text": "LA EX REGIDORA EXPLICA EN EL COMUNICADO QUE HUMBERTO GÓMEZ ARÉVALO, EL REGIDOR DESAPARECIDO, FUE PRESIDENTE DE LA COMISIÓN DE CULTURA. ENTONCES SE OPUSO AL DISPENDIO, A QUE LOS RECURSOS PÚBLICOS FUERAN A UN ENTE PRIVADO, ES DECIR, AL ESPECTÁCULO DE FANDANDO."
     },
     {
-      "self_ref": "#/texts/56",
+      "self_ref": "#/texts/55",
       "parent": {
         "$ref": "#/body"
       },
@@ -1891,7 +1875,7 @@
       "text": "Carreno da también en su comunicado las ligas para acceder a los documentos de la orden del día y acta de sesión del 2 de noviembre en el Ayuntamiento. En esa sesión que fue extraordinaria, asegura, estuvo el entonces  Alcalde  Ramón  Guerrero, 'para  que  le  aprobáramos  los  recursos  para  Fandango,  Teatro Vallarta. Sin  que  los  regidores  conociéramos  el  contenido  del  expediente  y  para  qué  se  destinarían recursos federales a un ente privado. Ramón Guerrero estaba muy interesado'."
     },
     {
-      "self_ref": "#/texts/57",
+      "self_ref": "#/texts/56",
       "parent": {
         "$ref": "#/body"
       },
@@ -1918,7 +1902,7 @@
       "text": "'La administración municipal en Puerto Vallarta, Jalisco , que encabezó Ramón Guerrero Martínez , estuvo plagada de ilegalidades. Como alcalde se comportó autoritario, gansteril. Todo está documentado, sería demasiado extenso realizar una cronología de lo que fue su administración. Sólo detallo algunos episodios: de inicio, sin tomar protesta, nos solicitó cambios de uso de suelo', sostiene."
     },
     {
-      "self_ref": "#/texts/58",
+      "self_ref": "#/texts/57",
       "parent": {
         "$ref": "#/body"
       },
@@ -1945,7 +1929,7 @@
       "text": "Y  agrega:  'Su  autoritarismo  quedó  demostrado  con  la  'Ley  Mordaza',  nadie  habla,  nadie  da  entrevistas, declaraciones:  'sólo  yo'.  De  su  postura  dio  cuenta  la  prensa  local.  Ramón  Guerrero,  violó  la  Ley sistemáticamente,  dejó  de  sesionar  por  cinco  meses  continuos.  En  los  primeros  tres  meses,  envié  al Congreso un exhorto, para que el Presidente Municipal cumpliera con las sesiones como lo marca lo Ley. Entonces se pronunció en la tribuna del Congreso, el entonces Diputado local por el 5 Distrito, Juan José Cuevas García, panista, hoy regidor de Movimiento Ciudadano. No pasó nada, se burló la LEY una vez más,  archivaron  el  exhorto.  Podría  abundar  mucho  más,  en  temas  como  con  la  venta  y  remate  del patrimonio de Puerto Vallarta.  Por ahora es suciente', señala la ex regidora de MC."
     },
     {
-      "self_ref": "#/texts/59",
+      "self_ref": "#/texts/58",
       "parent": {
         "$ref": "#/body"
       },
@@ -1972,7 +1956,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/60",
+      "self_ref": "#/texts/59",
       "parent": {
         "$ref": "#/body"
       },
@@ -1999,7 +1983,7 @@
       "text": "http://elrespetable.com/2016/08/28/hugo-luna-y-el-mochilas-mienten-cobardemente-carreno/"
     },
     {
-      "self_ref": "#/texts/61",
+      "self_ref": "#/texts/60",
       "parent": {
         "$ref": "#/body"
       },
@@ -2026,7 +2010,7 @@
       "text": "5/16"
     },
     {
-      "self_ref": "#/texts/62",
+      "self_ref": "#/texts/61",
       "parent": {
         "$ref": "#/body"
       },
@@ -2053,7 +2037,7 @@
       "text": "10/17/2018"
     },
     {
-      "self_ref": "#/texts/63",
+      "self_ref": "#/texts/62",
       "parent": {
         "$ref": "#/body"
       },
@@ -2080,7 +2064,7 @@
       "text": "Luna y El Mochilas mienten cobardemente.- Carreño - EL RESPETABLE"
     },
     {
-      "self_ref": "#/texts/64",
+      "self_ref": "#/texts/63",
       "parent": {
         "$ref": "#/body"
       },
@@ -2107,7 +2091,7 @@
       "text": "Para  cerrar  el  comunicado,  Susana  Carreño  puntualiza: 'Hugo  Luna  y  Ramón  Guerrero  mienten, cobardemente. Hoy se deslindan y salen por la tangente, dicen que no conocen a Sergio Kurt Schmidt, que es golpeteo político, que miento, que mis armaciones son falsas, quieren distraer el verdadero objetivo de este asunto. Esto es un asunto de congruencia, que asuman su responsabilidad como hombres: olvidaron los principios y valores de su partido. ¿En dónde quedó la promesa de 'Cambiar la Historia, sacudir la vida pública, el compromiso indeclinable de combatir la corrupción y mentira'?. Ramón, Hugo, ustedes son más de lo mismo, de lo que está dañando a Jalisco, a México'."
     },
     {
-      "self_ref": "#/texts/65",
+      "self_ref": "#/texts/64",
       "parent": {
         "$ref": "#/body"
       },
@@ -2135,7 +2119,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/66",
+      "self_ref": "#/texts/65",
       "parent": {
         "$ref": "#/body"
       },
@@ -2162,7 +2146,7 @@
       "text": "Ya se conocía también en sobremesas la acusación de la ex regidora de Puerto Vallarta, Susana Mendoza Carreño:  Hugo  Luna,  hoy  Jefe  de  Gabinete  del  Ayuntamiento  de  Guadalajara,  le  llamó  cuando  se desempeñaba como líder estatal del Partido Movimiento Ciudadano y la presionó para que votara a favor de la aprobación de 6.3 millones para  el  Festival  Fandango, donde ahora se sabe tenía intereses Sergio Schmidt."
     },
     {
-      "self_ref": "#/texts/67",
+      "self_ref": "#/texts/66",
       "parent": {
         "$ref": "#/body"
       },
@@ -2189,7 +2173,7 @@
       "text": "La  comunicadora  llegó  de  regidora  a  Puerto  Vallarta  invitada  como candidata ciudadana por el Partido Movimiento Ciudadano, pero no tardó mucho  en  pelearse con el entonces Alcalde, Ramón  Guerrero,  'El Mochilas', y hoy diputado local de Movimiento Ciudadano. Carreño tenía como  aliado  a  otro  regidor  que  también  dejó  las  las  de  Movimiento Ciudadano, Humberto Gómez Arévalo."
     },
     {
-      "self_ref": "#/texts/68",
+      "self_ref": "#/texts/67",
       "parent": {
         "$ref": "#/body"
       },
@@ -2216,7 +2200,7 @@
       "text": "(http://elrespetable.com/wpcontent/uploads/2016/08/susanamendoza-regidora-puertovallarta.jpg) Ambos regidores se opusieron a autorizar los 6.3 millones de pesos para el Festival  Fandango,  y  según  consta  en  un  video  que  circula  en  las  redes, Sergio Schmidt se apersonó en el Ayuntamiento de Puerto Vallarta para amenazar a los regidores, estando presente el entonces Secretario de la administración y panista, Antonio Pinto."
     },
     {
-      "self_ref": "#/texts/69",
+      "self_ref": "#/texts/68",
       "parent": {
         "$ref": "#/body"
       },
@@ -2243,7 +2227,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/70",
+      "self_ref": "#/texts/69",
       "parent": {
         "$ref": "#/body"
       },
@@ -2270,7 +2254,7 @@
       "text": "http://elrespetable.com/2016/08/28/hugo-luna-y-el-mochilas-mienten-cobardemente-carreno/"
     },
     {
-      "self_ref": "#/texts/71",
+      "self_ref": "#/texts/70",
       "parent": {
         "$ref": "#/body"
       },
@@ -2297,7 +2281,7 @@
       "text": "6/16"
     },
     {
-      "self_ref": "#/texts/72",
+      "self_ref": "#/texts/71",
       "parent": {
         "$ref": "#/body"
       },
@@ -2324,7 +2308,7 @@
       "text": "10/17/2018"
     },
     {
-      "self_ref": "#/texts/73",
+      "self_ref": "#/texts/72",
       "parent": {
         "$ref": "#/body"
       },
@@ -2351,7 +2335,7 @@
       "text": "Luna y El Mochilas mienten cobardemente.- Carreño - EL RESPETABLE"
     },
     {
-      "self_ref": "#/texts/74",
+      "self_ref": "#/texts/73",
       "parent": {
         "$ref": "#/body"
       },
@@ -2378,7 +2362,7 @@
       "text": "Susana Carreño."
     },
     {
-      "self_ref": "#/texts/75",
+      "self_ref": "#/texts/74",
       "parent": {
         "$ref": "#/body"
       },
@@ -2419,7 +2403,7 @@
       "text": "Susana Carreño estuvo siempre dispuesta para ofrecer declaraciones en los medios en el sentido que Hugo Luna la había llamado para presionarla para  que  aprobara  esa  partida,  pero  entonces  hasta  ella  desconocía  por qué tanta urgencia e interés de Luna y de quien éste llamó 'El patrón', o 'Nuestro amigo', según comenta la ex regidora, el hoy Alcalde de Guadalajara, Enrique Alfaro Ramírez."
     },
     {
-      "self_ref": "#/texts/76",
+      "self_ref": "#/texts/75",
       "parent": {
         "$ref": "#/body"
       },
@@ -2446,7 +2430,7 @@
       "text": "Susana  Carreño  y  Humberto  Gómez  Arévalo,  eran  piedrotas  en  el  zapato de  la  administración  de  'El Mochilas'. Hasta que sorpresivamente, a principios de enero de 2015, 'desaparecen' al entonces regidor independiente. Un día apareció su camioneta abandonada en una calle del Puerto, y ya no se supo más de su paradero."
     },
     {
-      "self_ref": "#/texts/77",
+      "self_ref": "#/texts/76",
       "parent": {
         "$ref": "#/body"
       },
@@ -2473,7 +2457,7 @@
       "text": "Hoy sabemos que la Comisión Nacional de Seguridad investigaba a Sergio Schmidt por la desaparición del ex regidor Humberto Gómez Arévalo."
     },
     {
-      "self_ref": "#/texts/78",
+      "self_ref": "#/texts/77",
       "parent": {
         "$ref": "#/body"
       },
@@ -2500,7 +2484,7 @@
       "text": "ETIQUETA"
     },
     {
-      "self_ref": "#/texts/79",
+      "self_ref": "#/texts/78",
       "parent": {
         "$ref": "#/body"
       },
@@ -2527,7 +2511,7 @@
       "text": "EL MOCHILAS (HTTP://ELRESPETABLE.COM/TAG/EL-MOCHILAS/)"
     },
     {
-      "self_ref": "#/texts/80",
+      "self_ref": "#/texts/79",
       "parent": {
         "$ref": "#/body"
       },
@@ -2554,7 +2538,7 @@
       "text": "HUGO LUNA (HTTP://ELRESPETABLE.COM/TAG/HUGO-LUNA/)"
     },
     {
-      "self_ref": "#/texts/81",
+      "self_ref": "#/texts/80",
       "parent": {
         "$ref": "#/body"
       },
@@ -2581,7 +2565,7 @@
       "text": "MC (HTTP://ELRESPETABLE.COM/TAG/MC/)"
     },
     {
-      "self_ref": "#/texts/82",
+      "self_ref": "#/texts/81",
       "parent": {
         "$ref": "#/body"
       },
@@ -2608,7 +2592,7 @@
       "text": "PUERTO VALLARTA (HTTP://ELRESPETABLE.COM/TAG/PUERTO-VALLARTA/)"
     },
     {
-      "self_ref": "#/texts/83",
+      "self_ref": "#/texts/82",
       "parent": {
         "$ref": "#/body"
       },
@@ -2635,7 +2619,7 @@
       "text": "SUSANA CARREÑO (HTTP://ELRESPETABLE.COM/TAG/SUSANA-CARRENO/)"
     },
     {
-      "self_ref": "#/texts/84",
+      "self_ref": "#/texts/83",
       "parent": {
         "$ref": "#/body"
       },
@@ -2662,7 +2646,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/85",
+      "self_ref": "#/texts/84",
       "parent": {
         "$ref": "#/body"
       },
@@ -2689,7 +2673,7 @@
       "text": "http://elrespetable.com/2016/08/28/hugo-luna-y-el-mochilas-mienten-cobardemente-carreno/"
     },
     {
-      "self_ref": "#/texts/86",
+      "self_ref": "#/texts/85",
       "parent": {
         "$ref": "#/body"
       },
@@ -2733,10 +2717,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 135.8717498779297,
-            "t": 494.30560302734375,
-            "r": 158.12876892089844,
-            "b": 476.0464630126953,
+            "l": 135.87081909179688,
+            "t": 494.3058776855469,
+            "r": 158.12985229492188,
+            "b": 476.0469970703125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2766,10 +2750,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 602.0316162109375,
-            "t": 338.79827880859375,
-            "r": 614.6347045898438,
-            "b": 328.8425598144531,
+            "l": 602.0336303710938,
+            "t": 338.797119140625,
+            "r": 614.6341552734375,
+            "b": 328.84234619140625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2790,7 +2774,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/24"
+          "$ref": "#/texts/25"
         }
       ],
       "content_layer": "body",
@@ -2799,10 +2783,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 151.8518829345703,
-            "t": 464.3469696044922,
-            "r": 164.16336059570312,
-            "b": 454.12168884277344,
+            "l": 151.85110473632812,
+            "t": 464.34718322753906,
+            "r": 164.163330078125,
+            "b": 454.1219787597656,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2823,10 +2807,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/37"
+          "$ref": "#/texts/36"
         },
         {
-          "$ref": "#/texts/38"
+          "$ref": "#/texts/37"
         }
       ],
       "content_layer": "body",
@@ -2835,10 +2819,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 135.82542419433594,
-            "t": 557.0086936950684,
-            "r": 656.49169921875,
-            "b": 344.09552001953125,
+            "l": 135.82257080078125,
+            "t": 557.0079383850098,
+            "r": 656.4916381835938,
+            "b": 344.09442138671875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2849,7 +2833,7 @@
       ],
       "captions": [
         {
-          "$ref": "#/texts/37"
+          "$ref": "#/texts/36"
         }
       ],
       "references": [],
@@ -2868,10 +2852,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 138.73892211914062,
-            "t": 280.9768981933594,
-            "r": 274.7665710449219,
-            "b": 123.396728515625,
+            "l": 138.73765563964844,
+            "t": 280.977783203125,
+            "r": 274.77093505859375,
+            "b": 123.39495849609375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

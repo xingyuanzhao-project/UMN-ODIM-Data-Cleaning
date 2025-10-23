@@ -99,25 +99,25 @@
         "$ref": "#/groups/0"
       },
       {
-        "$ref": "#/texts/43"
+        "$ref": "#/texts/44"
       },
       {
         "$ref": "#/pictures/4"
       },
       {
-        "$ref": "#/texts/45"
+        "$ref": "#/texts/46"
       },
       {
         "$ref": "#/pictures/5"
       },
       {
-        "$ref": "#/texts/46"
+        "$ref": "#/texts/47"
       },
       {
         "$ref": "#/pictures/6"
       },
       {
-        "$ref": "#/texts/47"
+        "$ref": "#/texts/48"
       },
       {
         "$ref": "#/pictures/7"
@@ -133,9 +133,6 @@
       },
       {
         "$ref": "#/pictures/11"
-      },
-      {
-        "$ref": "#/texts/48"
       },
       {
         "$ref": "#/texts/49"
@@ -165,16 +162,19 @@
         "$ref": "#/texts/57"
       },
       {
-        "$ref": "#/pictures/12"
+        "$ref": "#/texts/58"
       },
       {
-        "$ref": "#/texts/58"
+        "$ref": "#/pictures/12"
       },
       {
         "$ref": "#/texts/59"
       },
       {
         "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
       },
       {
         "$ref": "#/pictures/13"
@@ -186,19 +186,13 @@
         "$ref": "#/pictures/15"
       },
       {
-        "$ref": "#/texts/62"
-      },
-      {
         "$ref": "#/texts/63"
       },
       {
+        "$ref": "#/texts/64"
+      },
+      {
         "$ref": "#/pictures/16"
-      },
-      {
-        "$ref": "#/texts/66"
-      },
-      {
-        "$ref": "#/texts/67"
       },
       {
         "$ref": "#/texts/68"
@@ -210,13 +204,19 @@
         "$ref": "#/texts/70"
       },
       {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
         "$ref": "#/pictures/17"
       },
       {
-        "$ref": "#/texts/75"
+        "$ref": "#/texts/77"
       },
       {
-        "$ref": "#/texts/76"
+        "$ref": "#/texts/78"
       }
     ],
     "content_layer": "body",
@@ -247,6 +247,9 @@
         },
         {
           "$ref": "#/groups/2"
+        },
+        {
+          "$ref": "#/texts/43"
         }
       ],
       "content_layer": "body",
@@ -1436,23 +1439,50 @@
           "bbox": {
             "l": 49.793,
             "t": 214.36300000000006,
-            "r": 284.765,
+            "r": 89.168,
             "b": 207.27499999999998,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             0,
-            83
+            11
           ]
         }
       ],
-      "orig": "3 Print PDF Convert and Print PDF Files with Document Converter. Document Converter",
-      "text": "3 Print PDF Convert and Print PDF Files with Document Converter. Document Converter",
+      "orig": "3 Print PDF",
+      "text": "3 Print PDF",
       "enumerated": false,
       "marker": ""
     },
     {
       "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 99.064,
+            "t": 210.97299999999996,
+            "r": 284.765,
+            "b": 208.53999999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "Convert and Print PDF Files with Document Converter. Document Converter",
+      "text": "Convert and Print PDF Files with Document Converter. Document Converter"
+    },
+    {
+      "self_ref": "#/texts/44",
       "parent": {
         "$ref": "#/body"
       },
@@ -1480,7 +1510,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/44",
+      "self_ref": "#/texts/45",
       "parent": {
         "$ref": "#/pictures/4"
       },
@@ -1507,7 +1537,7 @@
       "text": "Rescatan tres gatos atrapados en cripta de Mezquitán"
     },
     {
-      "self_ref": "#/texts/45",
+      "self_ref": "#/texts/46",
       "parent": {
         "$ref": "#/body"
       },
@@ -1534,7 +1564,7 @@
       "text": "PUBLICIDAD"
     },
     {
-      "self_ref": "#/texts/46",
+      "self_ref": "#/texts/47",
       "parent": {
         "$ref": "#/body"
       },
@@ -1561,7 +1591,7 @@
       "text": "ROSELINLIN"
     },
     {
-      "self_ref": "#/texts/47",
+      "self_ref": "#/texts/48",
       "parent": {
         "$ref": "#/body"
       },
@@ -1588,7 +1618,7 @@
       "text": "RECIENTE"
     },
     {
-      "self_ref": "#/texts/48",
+      "self_ref": "#/texts/49",
       "parent": {
         "$ref": "#/body"
       },
@@ -1615,7 +1645,7 @@
       "text": "Rescatan tres gatos atrapados en c Mezquitán"
     },
     {
-      "self_ref": "#/texts/49",
+      "self_ref": "#/texts/50",
       "parent": {
         "$ref": "#/body"
       },
@@ -1642,7 +1672,7 @@
       "text": "23 de Abril de 2019"
     },
     {
-      "self_ref": "#/texts/50",
+      "self_ref": "#/texts/51",
       "parent": {
         "$ref": "#/body"
       },
@@ -1669,7 +1699,7 @@
       "text": "No perder es un buen resultado: To"
     },
     {
-      "self_ref": "#/texts/51",
+      "self_ref": "#/texts/52",
       "parent": {
         "$ref": "#/body"
       },
@@ -1696,7 +1726,7 @@
       "text": "23 de Abril de 2019"
     },
     {
-      "self_ref": "#/texts/52",
+      "self_ref": "#/texts/53",
       "parent": {
         "$ref": "#/body"
       },
@@ -1723,7 +1753,7 @@
       "text": "Esperan juicio por robar una niña p venderla"
     },
     {
-      "self_ref": "#/texts/53",
+      "self_ref": "#/texts/54",
       "parent": {
         "$ref": "#/body"
       },
@@ -1750,7 +1780,7 @@
       "text": "23 de Abril de 2019"
     },
     {
-      "self_ref": "#/texts/54",
+      "self_ref": "#/texts/55",
       "parent": {
         "$ref": "#/body"
       },
@@ -1777,7 +1807,7 @@
       "text": "Alerta Amber localiza a tres niños reportados como desaparecidos"
     },
     {
-      "self_ref": "#/texts/55",
+      "self_ref": "#/texts/56",
       "parent": {
         "$ref": "#/body"
       },
@@ -1804,7 +1834,7 @@
       "text": "23 de Abril de 2019"
     },
     {
-      "self_ref": "#/texts/56",
+      "self_ref": "#/texts/57",
       "parent": {
         "$ref": "#/body"
       },
@@ -1831,7 +1861,7 @@
       "text": "Dan arranque o£cial a Talent Land"
     },
     {
-      "self_ref": "#/texts/57",
+      "self_ref": "#/texts/58",
       "parent": {
         "$ref": "#/body"
       },
@@ -1858,7 +1888,7 @@
       "text": "23 de Abril de 2019"
     },
     {
-      "self_ref": "#/texts/58",
+      "self_ref": "#/texts/59",
       "parent": {
         "$ref": "#/body"
       },
@@ -1885,7 +1915,7 @@
       "text": "Pipa atropella a 3 policías en La Ve Astillero"
     },
     {
-      "self_ref": "#/texts/59",
+      "self_ref": "#/texts/60",
       "parent": {
         "$ref": "#/body"
       },
@@ -1912,7 +1942,7 @@
       "text": "23 de Abril de 2019"
     },
     {
-      "self_ref": "#/texts/60",
+      "self_ref": "#/texts/61",
       "parent": {
         "$ref": "#/body"
       },
@@ -1939,7 +1969,7 @@
       "text": "PUBLICIDAD"
     },
     {
-      "self_ref": "#/texts/61",
+      "self_ref": "#/texts/62",
       "parent": {
         "$ref": "#/pictures/13"
       },
@@ -1966,7 +1996,7 @@
       "text": "No perder es un buen resultado: Tomás Boy"
     },
     {
-      "self_ref": "#/texts/62",
+      "self_ref": "#/texts/63",
       "parent": {
         "$ref": "#/body"
       },
@@ -1993,7 +2023,7 @@
       "text": "Ordenar por"
     },
     {
-      "self_ref": "#/texts/63",
+      "self_ref": "#/texts/64",
       "parent": {
         "$ref": "#/body"
       },
@@ -2020,7 +2050,7 @@
       "text": "Más recientes"
     },
     {
-      "self_ref": "#/texts/64",
+      "self_ref": "#/texts/65",
       "parent": {
         "$ref": "#/pictures/16"
       },
@@ -2047,7 +2077,7 @@
       "text": "Esperan juicio por robar una niña para venderla"
     },
     {
-      "self_ref": "#/texts/65",
+      "self_ref": "#/texts/66",
       "parent": {
         "$ref": "#/pictures/16"
       },
@@ -2074,7 +2104,34 @@
       "text": "3"
     },
     {
-      "self_ref": "#/texts/66",
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/pictures/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 376.6666666666667,
+            "t": 127.66666666666663,
+            "r": 384.6666666666667,
+            "b": 121.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "Ja",
+      "text": "Ja"
+    },
+    {
+      "self_ref": "#/texts/68",
       "parent": {
         "$ref": "#/body"
       },
@@ -2101,7 +2158,7 @@
       "text": "https://www.ntrguadalajara.com/post.php?id_nota=30820"
     },
     {
-      "self_ref": "#/texts/67",
+      "self_ref": "#/texts/69",
       "parent": {
         "$ref": "#/body"
       },
@@ -2128,7 +2185,7 @@
       "text": "1/2"
     },
     {
-      "self_ref": "#/texts/68",
+      "self_ref": "#/texts/70",
       "parent": {
         "$ref": "#/body"
       },
@@ -2155,7 +2212,7 @@
       "text": "4/23/2019"
     },
     {
-      "self_ref": "#/texts/69",
+      "self_ref": "#/texts/71",
       "parent": {
         "$ref": "#/body"
       },
@@ -2182,7 +2239,7 @@
       "text": "Hay nuevas pistas de Daniela, desaparecida en Zapotiltic | NTR Guadalajara"
     },
     {
-      "self_ref": "#/texts/70",
+      "self_ref": "#/texts/72",
       "parent": {
         "$ref": "#/body"
       },
@@ -2209,7 +2266,7 @@
       "text": "Copyright © 2015 NTR Guadalajara ."
     },
     {
-      "self_ref": "#/texts/71",
+      "self_ref": "#/texts/73",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -2236,7 +2293,7 @@
       "text": "Inicio"
     },
     {
-      "self_ref": "#/texts/72",
+      "self_ref": "#/texts/74",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -2263,7 +2320,7 @@
       "text": "Contacto"
     },
     {
-      "self_ref": "#/texts/73",
+      "self_ref": "#/texts/75",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -2290,7 +2347,7 @@
       "text": "Publicidad"
     },
     {
-      "self_ref": "#/texts/74",
+      "self_ref": "#/texts/76",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -2317,7 +2374,7 @@
       "text": "Aviso de"
     },
     {
-      "self_ref": "#/texts/75",
+      "self_ref": "#/texts/77",
       "parent": {
         "$ref": "#/body"
       },
@@ -2344,7 +2401,7 @@
       "text": "https://www.ntrguadalajara.com/post.php?id_nota=30820"
     },
     {
-      "self_ref": "#/texts/76",
+      "self_ref": "#/texts/78",
       "parent": {
         "$ref": "#/body"
       },
@@ -2418,10 +2475,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 27.41242790222168,
-            "t": 667.892463684082,
-            "r": 485.8174133300781,
-            "b": 643.6588439941406,
+            "l": 27.411460876464844,
+            "t": 667.8936920166016,
+            "r": 485.818115234375,
+            "b": 643.6568145751953,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2457,10 +2514,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 306.31317138671875,
-            "t": 584.6354827880859,
-            "r": 416.203857421875,
-            "b": 553.7173767089844,
+            "l": 306.3126525878906,
+            "t": 584.6357879638672,
+            "r": 416.2070007324219,
+            "b": 553.7161254882812,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2490,10 +2547,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 39.39302062988281,
-            "t": 541.6563720703125,
-            "r": 225.2870635986328,
-            "b": 415.9642333984375,
+            "l": 39.392948150634766,
+            "t": 541.6561889648438,
+            "r": 225.28707885742188,
+            "b": 415.96295166015625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2523,10 +2580,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 43.4228515625,
-            "t": 310.25799560546875,
-            "r": 69.84739685058594,
-            "b": 283.3398742675781,
+            "l": 43.42245864868164,
+            "t": 310.25787353515625,
+            "r": 69.8499984741211,
+            "b": 283.3387145996094,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2547,7 +2604,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/44"
+          "$ref": "#/texts/45"
         }
       ],
       "content_layer": "body",
@@ -2556,10 +2613,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 39.293113708496094,
-            "t": 159.9915771484375,
-            "r": 157.80718994140625,
-            "b": 80.758056640625,
+            "l": 39.29210662841797,
+            "t": 159.99163818359375,
+            "r": 157.8070831298828,
+            "b": 80.75787353515625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2570,7 +2627,7 @@
       ],
       "captions": [
         {
-          "$ref": "#/texts/44"
+          "$ref": "#/texts/45"
         }
       ],
       "references": [],
@@ -2589,10 +2646,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 443.0734558105469,
-            "t": 598.5691528320312,
-            "r": 528.1823120117188,
-            "b": 466.1330871582031,
+            "l": 443.0732421875,
+            "t": 598.5689849853516,
+            "r": 528.1825561523438,
+            "b": 466.1330261230469,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2618,10 +2675,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 529.1962890625,
-            "t": 593.1070861816406,
-            "r": 576.3639526367188,
-            "b": 463.4687194824219,
+            "l": 529.195556640625,
+            "t": 593.1224670410156,
+            "r": 576.3889770507812,
+            "b": 463.4685363769531,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2647,10 +2704,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 439.8647766113281,
-            "t": 420.91351318359375,
-            "r": 471.42572021484375,
-            "b": 389.4097900390625,
+            "l": 439.8651428222656,
+            "t": 420.9140625,
+            "r": 471.4253845214844,
+            "b": 389.40936279296875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2676,10 +2733,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 439.9547424316406,
-            "t": 381.2978820800781,
-            "r": 471.59332275390625,
-            "b": 349.8957824707031,
+            "l": 439.955078125,
+            "t": 381.29949951171875,
+            "r": 471.5925598144531,
+            "b": 349.896240234375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2705,10 +2762,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 443.69854736328125,
-            "t": 343.21539306640625,
-            "r": 467.3816223144531,
-            "b": 311.2407531738281,
+            "l": 443.696044921875,
+            "t": 343.2161560058594,
+            "r": 467.3802185058594,
+            "b": 311.2400817871094,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2734,10 +2791,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 439.7287292480469,
-            "t": 303.6741638183594,
-            "r": 471.73046875,
-            "b": 271.90631103515625,
+            "l": 439.72808837890625,
+            "t": 303.6743469238281,
+            "r": 471.7308044433594,
+            "b": 271.90411376953125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2763,10 +2820,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 439.7826843261719,
-            "t": 264.5045166015625,
-            "r": 472.0345153808594,
-            "b": 233.23553466796875,
+            "l": 439.7825927734375,
+            "t": 264.50506591796875,
+            "r": 472.03509521484375,
+            "b": 233.235595703125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2792,10 +2849,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 439.9954833984375,
-            "t": 225.9560546875,
-            "r": 471.78448486328125,
-            "b": 194.02850341796875,
+            "l": 439.9948425292969,
+            "t": 225.9559326171875,
+            "r": 471.78558349609375,
+            "b": 194.02752685546875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2816,7 +2873,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/61"
+          "$ref": "#/texts/62"
         }
       ],
       "content_layer": "body",
@@ -2825,10 +2882,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 200.20822143554688,
-            "t": 248.15692138671875,
-            "r": 214.46690368652344,
-            "b": 234.91748046875,
+            "l": 200.20838928222656,
+            "t": 248.15948486328125,
+            "r": 214.46644592285156,
+            "b": 234.9171142578125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2839,7 +2896,7 @@
       ],
       "captions": [
         {
-          "$ref": "#/texts/61"
+          "$ref": "#/texts/62"
         }
       ],
       "references": [],
@@ -2858,10 +2915,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 229.92733764648438,
-            "t": 232.700439453125,
-            "r": 243.2781524658203,
-            "b": 219.415771484375,
+            "l": 229.92721557617188,
+            "t": 232.70068359375,
+            "r": 243.27821350097656,
+            "b": 219.41546630859375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2887,10 +2944,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 169.37417602539062,
-            "t": 159.72613525390625,
-            "r": 287.39990234375,
-            "b": 81.12640380859375,
+            "l": 169.37469482421875,
+            "t": 159.72662353515625,
+            "r": 287.4000244140625,
+            "b": 81.12518310546875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2911,10 +2968,13 @@
       },
       "children": [
         {
-          "$ref": "#/texts/64"
+          "$ref": "#/texts/65"
         },
         {
-          "$ref": "#/texts/65"
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
         }
       ],
       "content_layer": "body",
@@ -2923,10 +2983,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 313.0433654785156,
-            "t": 159.3917236328125,
-            "r": 401.390625,
-            "b": 80.528564453125,
+            "l": 313.0441589355469,
+            "t": 159.39178466796875,
+            "r": 401.3880615234375,
+            "b": 80.52777099609375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2937,7 +2997,7 @@
       ],
       "captions": [
         {
-          "$ref": "#/texts/64"
+          "$ref": "#/texts/65"
         }
       ],
       "references": [],
@@ -2951,16 +3011,16 @@
       },
       "children": [
         {
-          "$ref": "#/texts/71"
-        },
-        {
-          "$ref": "#/texts/72"
-        },
-        {
           "$ref": "#/texts/73"
         },
         {
           "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
         }
       ],
       "content_layer": "body",
@@ -2969,10 +3029,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 444.1104736328125,
-            "t": 763.5116634368896,
-            "r": 586.4385986328125,
-            "b": 699.939079284668,
+            "l": 444.10992431640625,
+            "t": 763.514030456543,
+            "r": 586.4368896484375,
+            "b": 699.9377288818359,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

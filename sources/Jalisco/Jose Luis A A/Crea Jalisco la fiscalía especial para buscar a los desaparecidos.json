@@ -366,10 +366,10 @@
         "$ref": "#/texts/172"
       },
       {
-        "$ref": "#/texts/173"
+        "$ref": "#/pictures/11"
       },
       {
-        "$ref": "#/pictures/11"
+        "$ref": "#/texts/173"
       },
       {
         "$ref": "#/texts/174"
@@ -402,10 +402,10 @@
         "$ref": "#/texts/183"
       },
       {
-        "$ref": "#/pictures/12"
+        "$ref": "#/texts/184"
       },
       {
-        "$ref": "#/texts/184"
+        "$ref": "#/pictures/12"
       },
       {
         "$ref": "#/texts/185"
@@ -435,19 +435,19 @@
         "$ref": "#/texts/193"
       },
       {
+        "$ref": "#/texts/194"
+      },
+      {
         "$ref": "#/pictures/13"
       },
       {
-        "$ref": "#/texts/195"
+        "$ref": "#/texts/196"
       },
       {
         "$ref": "#/pictures/14"
       },
       {
         "$ref": "#/pictures/15"
-      },
-      {
-        "$ref": "#/texts/197"
       },
       {
         "$ref": "#/texts/198"
@@ -594,10 +594,10 @@
         "$ref": "#/texts/245"
       },
       {
-        "$ref": "#/pictures/16"
+        "$ref": "#/texts/246"
       },
       {
-        "$ref": "#/texts/246"
+        "$ref": "#/pictures/16"
       },
       {
         "$ref": "#/texts/247"
@@ -705,10 +705,10 @@
         "$ref": "#/texts/281"
       },
       {
-        "$ref": "#/pictures/17"
+        "$ref": "#/texts/282"
       },
       {
-        "$ref": "#/texts/283"
+        "$ref": "#/pictures/17"
       },
       {
         "$ref": "#/texts/284"
@@ -744,10 +744,10 @@
         "$ref": "#/texts/294"
       },
       {
-        "$ref": "#/pictures/18"
+        "$ref": "#/texts/295"
       },
       {
-        "$ref": "#/texts/295"
+        "$ref": "#/pictures/18"
       },
       {
         "$ref": "#/texts/296"
@@ -801,6 +801,9 @@
         "$ref": "#/texts/312"
       },
       {
+        "$ref": "#/texts/313"
+      },
+      {
         "$ref": "#/pictures/19"
       },
       {
@@ -816,10 +819,10 @@
         "$ref": "#/groups/2"
       },
       {
-        "$ref": "#/texts/353"
+        "$ref": "#/texts/354"
       },
       {
-        "$ref": "#/texts/354"
+        "$ref": "#/texts/355"
       }
     ],
     "content_layer": "body",
@@ -979,9 +982,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/314"
-        },
-        {
           "$ref": "#/texts/315"
         },
         {
@@ -1094,6 +1094,9 @@
         },
         {
           "$ref": "#/texts/352"
+        },
+        {
+          "$ref": "#/texts/353"
         }
       ],
       "content_layer": "body",
@@ -5776,33 +5779,6 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 294.489,
-            "t": 710.388,
-            "r": 531.819,
-            "b": 698.078,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            38
-          ]
-        }
-      ],
-      "orig": "Penitenciaria, de la Comisión Nacional",
-      "text": "Penitenciaria, de la Comisión Nacional"
-    },
-    {
-      "self_ref": "#/texts/173",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 6,
-          "bbox": {
             "l": 494.473,
             "t": 715.32,
             "r": 542.955,
@@ -5819,6 +5795,33 @@
       "text": "Regístrate"
     },
     {
+      "self_ref": "#/texts/173",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 474.158,
+            "t": 675.503,
+            "r": 577.473,
+            "b": 670.813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "OPINIÓN (/OPINION)",
+      "text": "OPINIÓN (/OPINION)"
+    },
+    {
       "self_ref": "#/texts/174",
       "parent": {
         "$ref": "#/body"
@@ -5830,23 +5833,64 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 255.912,
-            "t": 691.622,
-            "r": 577.473,
-            "b": 670.813,
+            "l": 294.489,
+            "t": 710.388,
+            "r": 531.819,
+            "b": 698.078,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             0,
-            78
+            38
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 294.489,
+            "t": 691.622,
+            "r": 371.358,
+            "b": 679.311,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            39,
+            50
           ]
         }
       ],
-      "orig": "deSeguridad OPINIÓN (/OPINION) Violencia de Género (/policia/violencia-genero)",
-      "text": "deSeguridad OPINIÓN (/OPINION) Violencia de Género (/policia/violencia-genero)"
+      "orig": "Penitenciaria, de la Comisión Nacional deSeguridad",
+      "text": "Penitenciaria, de la Comisión Nacional deSeguridad"
     },
     {
       "self_ref": "#/texts/175",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 255.912,
+            "t": 676.009,
+            "r": 458.077,
+            "b": 671.345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Violencia de Género (/policia/violencia-genero)",
+      "text": "Violencia de Género (/policia/violencia-genero)"
+    },
+    {
+      "self_ref": "#/texts/176",
       "parent": {
         "$ref": "#/body"
       },
@@ -5874,7 +5918,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/176",
+      "self_ref": "#/texts/177",
       "parent": {
         "$ref": "#/body"
       },
@@ -5901,7 +5945,7 @@
       "text": "AMLO (/temas/amlo)"
     },
     {
-      "self_ref": "#/texts/177",
+      "self_ref": "#/texts/178",
       "parent": {
         "$ref": "#/body"
       },
@@ -5928,7 +5972,7 @@
       "text": "Averiguaciones Previas en la PGR Jueves , 28.02.2019 / 13:32 Venezuela (/temas/venezuela) MILEN"
     },
     {
-      "self_ref": "#/texts/178",
+      "self_ref": "#/texts/179",
       "parent": {
         "$ref": "#/body"
       },
@@ -5955,7 +5999,7 @@
       "text": "Ex directora general adjuntade Proyectos de Apoyo a la Función Ministerial en Materia de Violencia contra las Mujeres y Trata de Personas en la PGR"
     },
     {
-      "self_ref": "#/texts/179",
+      "self_ref": "#/texts/180",
       "parent": {
         "$ref": "#/body"
       },
@@ -5982,7 +6026,7 @@
       "text": "Fue directora de la Comisión para Prevenir y Erradicar la Violencia contra las Mujeres en Ciudad Juárez, de la Segob"
     },
     {
-      "self_ref": "#/texts/180",
+      "self_ref": "#/texts/181",
       "parent": {
         "$ref": "#/body"
       },
@@ -6009,7 +6053,7 @@
       "text": "Ex subprocuradora para los municipios de Tijuana, Tecate y Playas de Rosarito, de la Procuraduría de Derechos Humanos y Protección Ciudadana de Baja California"
     },
     {
-      "self_ref": "#/texts/181",
+      "self_ref": "#/texts/182",
       "parent": {
         "$ref": "#/body"
       },
@@ -6036,7 +6080,7 @@
       "text": "Ocupó la cuarta Visitaduría General de la Comisión Estatal de Derechos Humanos del Estado de Jalisco"
     },
     {
-      "self_ref": "#/texts/182",
+      "self_ref": "#/texts/183",
       "parent": {
         "$ref": "#/body"
       },
@@ -6063,7 +6107,7 @@
       "text": "Conferencista y consultora en diversos congresos y seminarios de temas de violencia contra las mujeres en México, España y Paraguay"
     },
     {
-      "self_ref": "#/texts/183",
+      "self_ref": "#/texts/184",
       "parent": {
         "$ref": "#/body"
       },
@@ -6090,7 +6134,7 @@
       "text": "SRN"
     },
     {
-      "self_ref": "#/texts/184",
+      "self_ref": "#/texts/185",
       "parent": {
         "$ref": "#/body"
       },
@@ -6117,7 +6161,7 @@
       "text": "Queda prohibida la reproducción total 0 parcial del contenido de esta página, mismo que es propiedad de MILENIO DIARIO S.A. DE CV; su reproducción no autorizada constituye una infracción y un delito de conformidad con las aplicables. leyes"
     },
     {
-      "self_ref": "#/texts/185",
+      "self_ref": "#/texts/186",
       "parent": {
         "$ref": "#/body"
       },
@@ -6145,7 +6189,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/186",
+      "self_ref": "#/texts/187",
       "parent": {
         "$ref": "#/body"
       },
@@ -6172,7 +6216,7 @@
       "text": "(https://nv.enurmxb.net/t/clk? id=RMXXviQBy8fKlyGS6y7Eliz&s1=__1839893__1084034__176069003&s2= 17.09.18)&s5=CjA2MzBiNGQxZi01YjgyLTRkYzItODNmMC0yOWE4MzIxZDg"
     },
     {
-      "self_ref": "#/texts/187",
+      "self_ref": "#/texts/188",
       "parent": {
         "$ref": "#/body"
       },
@@ -6199,7 +6243,7 @@
       "text": "https://www.milenio.com/policia/crea-jalisco-fiscalia-especial-buscar-desaparecidos"
     },
     {
-      "self_ref": "#/texts/188",
+      "self_ref": "#/texts/189",
       "parent": {
         "$ref": "#/body"
       },
@@ -6226,7 +6270,7 @@
       "text": "6/10"
     },
     {
-      "self_ref": "#/texts/189",
+      "self_ref": "#/texts/190",
       "parent": {
         "$ref": "#/body"
       },
@@ -6253,7 +6297,7 @@
       "text": "2/28/2019"
     },
     {
-      "self_ref": "#/texts/190",
+      "self_ref": "#/texts/191",
       "parent": {
         "$ref": "#/body"
       },
@@ -6280,7 +6324,7 @@
       "text": "Crea Jalisco la fiscalía especial para buscar a los desaparecidos"
     },
     {
-      "self_ref": "#/texts/191",
+      "self_ref": "#/texts/192",
       "parent": {
         "$ref": "#/body"
       },
@@ -6308,7 +6352,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/192",
+      "self_ref": "#/texts/193",
       "parent": {
         "$ref": "#/body"
       },
@@ -6335,7 +6379,7 @@
       "text": "Classmates"
     },
     {
-      "self_ref": "#/texts/193",
+      "self_ref": "#/texts/194",
       "parent": {
         "$ref": "#/body"
       },
@@ -6362,7 +6406,7 @@
       "text": "(https://nv.enurmxb.net/t/clk? id=RMXXviQBy8fKlyGS6y7Eliz&s1=__1839893__1084034__176069003&s2= 17.09.18)&s5=CjA2MzBiNGQxZi01YjgyLTRkYzItODNmMC0yOWE4MzIxZDg Ingresar Regístrate"
     },
     {
-      "self_ref": "#/texts/194",
+      "self_ref": "#/texts/195",
       "parent": {
         "$ref": "#/pictures/13"
       },
@@ -6389,7 +6433,7 @@
       "text": "(/)"
     },
     {
-      "self_ref": "#/texts/195",
+      "self_ref": "#/texts/196",
       "parent": {
         "$ref": "#/body"
       },
@@ -6416,7 +6460,7 @@
       "text": "IMPRESO (/IMPRESO) TELEVISIÓN (/MILENIOTV)"
     },
     {
-      "self_ref": "#/texts/196",
+      "self_ref": "#/texts/197",
       "parent": {
         "$ref": "#/pictures/14"
       },
@@ -6443,7 +6487,7 @@
       "text": "û"
     },
     {
-      "self_ref": "#/texts/197",
+      "self_ref": "#/texts/198",
       "parent": {
         "$ref": "#/body"
       },
@@ -6470,7 +6514,7 @@
       "text": "(https://plarium.com/landings/en/vikings/village_steps_m_prelp001_2? publisherID=162114465&placement=milenio&adpartnerset=1145591&plid=1 OPINIÓN (/OPINION) Violencia de Género (/policia/violencia-genero)"
     },
     {
-      "self_ref": "#/texts/198",
+      "self_ref": "#/texts/199",
       "parent": {
         "$ref": "#/body"
       },
@@ -6497,7 +6541,7 @@
       "text": "SECCIONES"
     },
     {
-      "self_ref": "#/texts/199",
+      "self_ref": "#/texts/200",
       "parent": {
         "$ref": "#/body"
       },
@@ -6524,7 +6568,7 @@
       "text": "Inicio (/)"
     },
     {
-      "self_ref": "#/texts/200",
+      "self_ref": "#/texts/201",
       "parent": {
         "$ref": "#/body"
       },
@@ -6551,7 +6595,7 @@
       "text": "Policía (/policia)"
     },
     {
-      "self_ref": "#/texts/201",
+      "self_ref": "#/texts/202",
       "parent": {
         "$ref": "#/body"
       },
@@ -6578,7 +6622,7 @@
       "text": "k"
     },
     {
-      "self_ref": "#/texts/202",
+      "self_ref": "#/texts/203",
       "parent": {
         "$ref": "#/body"
       },
@@ -6605,7 +6649,7 @@
       "text": "HOY Premios Oscar (/temas/premiososcar)"
     },
     {
-      "self_ref": "#/texts/203",
+      "self_ref": "#/texts/204",
       "parent": {
         "$ref": "#/body"
       },
@@ -6633,7 +6677,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/204",
+      "self_ref": "#/texts/205",
       "parent": {
         "$ref": "#/body"
       },
@@ -6660,7 +6704,7 @@
       "text": "(https://article.everquote.com/?"
     },
     {
-      "self_ref": "#/texts/205",
+      "self_ref": "#/texts/206",
       "parent": {
         "$ref": "#/body"
       },
@@ -6701,7 +6745,7 @@
       "text": "h1=dnt&h2=do_this_now&auuid=968c538f-bc7e-4d48ab07- c22b8c30719b&&tid=584&id=584&subid=6871&dt=dup&utm_ d613-4e89-b851-4ebc7f0ace96.jpg&campaign_id=1433165)"
     },
     {
-      "self_ref": "#/texts/206",
+      "self_ref": "#/texts/207",
       "parent": {
         "$ref": "#/body"
       },
@@ -6729,7 +6773,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/207",
+      "self_ref": "#/texts/208",
       "parent": {
         "$ref": "#/body"
       },
@@ -6757,7 +6801,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/208",
+      "self_ref": "#/texts/209",
       "parent": {
         "$ref": "#/body"
       },
@@ -6798,7 +6842,7 @@
       "text": "(https://article.everquote.com/? h1=dnt&h2=do_this_now&auuid=968c538f-bc7e-4d48- ab07-"
     },
     {
-      "self_ref": "#/texts/209",
+      "self_ref": "#/texts/210",
       "parent": {
         "$ref": "#/body"
       },
@@ -6825,7 +6869,7 @@
       "text": "c22b8c30719b&&tid=584&id=584&subid=6871&dt=dup&utm_ d613-4e89-b851-4ebc7f0ace96.jpg&campaign_id=1433165)"
     },
     {
-      "self_ref": "#/texts/210",
+      "self_ref": "#/texts/211",
       "parent": {
         "$ref": "#/body"
       },
@@ -6852,7 +6896,7 @@
       "text": "AMLO (/temas/amlo)"
     },
     {
-      "self_ref": "#/texts/211",
+      "self_ref": "#/texts/212",
       "parent": {
         "$ref": "#/body"
       },
@@ -6880,7 +6924,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/212",
+      "self_ref": "#/texts/213",
       "parent": {
         "$ref": "#/body"
       },
@@ -6908,7 +6952,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/213",
+      "self_ref": "#/texts/214",
       "parent": {
         "$ref": "#/body"
       },
@@ -6935,7 +6979,7 @@
       "text": "(https://plarium.com/landings/en/vikings/village_steps_m_prelp001_2? publisherID=162114465&placement=milenio&adpartnerset=1145591&plid=1 (https://www.joinhoney.com/r/TB_US_190212_Amazon_RON_Broad_None_ 65_All_NA_AmazonBookstore4_9614?"
     },
     {
-      "self_ref": "#/texts/214",
+      "self_ref": "#/texts/215",
       "parent": {
         "$ref": "#/body"
       },
@@ -6962,7 +7006,7 @@
       "text": "utm_source=tabo&utm_medium=dis&utm_campaign=TB_US_190212_Amaz 65_All_NA_AmazonBookstore4_9614&utm_content=GhostAmazonStack19& blog%2Fthe-amazon-tip-you-need-to-know-in-2019)"
     },
     {
-      "self_ref": "#/texts/215",
+      "self_ref": "#/texts/216",
       "parent": {
         "$ref": "#/body"
       },
@@ -6990,7 +7034,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/216",
+      "self_ref": "#/texts/217",
       "parent": {
         "$ref": "#/body"
       },
@@ -7018,7 +7062,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/217",
+      "self_ref": "#/texts/218",
       "parent": {
         "$ref": "#/body"
       },
@@ -7045,7 +7089,7 @@
       "text": "(https://www.joinhoney.com/r/TB_US_190212_Amazon_RON_Broad_None_ 65_All_NA_AmazonBookstore4_9614?"
     },
     {
-      "self_ref": "#/texts/218",
+      "self_ref": "#/texts/219",
       "parent": {
         "$ref": "#/body"
       },
@@ -7072,7 +7116,7 @@
       "text": "utm_source=tabo&utm_medium=dis&utm_campaign=TB_US_190212_Amaz 65_All_NA_AmazonBookstore4_9614&utm_content=GhostAmazonStack19& blog%2Fthe-amazon-tip-you-need-to-know-in-2019) (http://gundrymd.com/cmd.php?"
     },
     {
-      "self_ref": "#/texts/219",
+      "self_ref": "#/texts/220",
       "parent": {
         "$ref": "#/body"
       },
@@ -7099,7 +7143,7 @@
       "text": "ad=873650&utm_source=taboola&utm_medium=referral)"
     },
     {
-      "self_ref": "#/texts/220",
+      "self_ref": "#/texts/221",
       "parent": {
         "$ref": "#/body"
       },
@@ -7127,7 +7171,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/221",
+      "self_ref": "#/texts/222",
       "parent": {
         "$ref": "#/body"
       },
@@ -7155,7 +7199,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/222",
+      "self_ref": "#/texts/223",
       "parent": {
         "$ref": "#/body"
       },
@@ -7182,7 +7226,7 @@
       "text": "(http://gundrymd.com/cmd.php? ad=873650&utm_source=taboola&utm_medium=referral) (https://www.fetcharate.com/pa/? tg_ref=janpremron&pag_ref=tab_fmp&csg_ref=tabfmp&camp_id=say_bye_to"
     },
     {
-      "self_ref": "#/texts/223",
+      "self_ref": "#/texts/224",
       "parent": {
         "$ref": "#/body"
       },
@@ -7210,7 +7254,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/224",
+      "self_ref": "#/texts/225",
       "parent": {
         "$ref": "#/body"
       },
@@ -7238,7 +7282,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/225",
+      "self_ref": "#/texts/226",
       "parent": {
         "$ref": "#/body"
       },
@@ -7265,7 +7309,7 @@
       "text": "(https://www.fetcharate.com/pa/?"
     },
     {
-      "self_ref": "#/texts/226",
+      "self_ref": "#/texts/227",
       "parent": {
         "$ref": "#/body"
       },
@@ -7292,7 +7336,7 @@
       "text": "tg_ref=janpremron&pag_ref=tab_fmp&csg_ref=tabfmp&camp_id=say_bye_to (https://www.milenio.com/politica/presentan-audios-de-accidente-delhelicoptero-en-puebla)"
     },
     {
-      "self_ref": "#/texts/227",
+      "self_ref": "#/texts/228",
       "parent": {
         "$ref": "#/body"
       },
@@ -7320,7 +7364,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/228",
+      "self_ref": "#/texts/229",
       "parent": {
         "$ref": "#/body"
       },
@@ -7347,7 +7391,7 @@
       "text": "(https://www.milenio.com/politica/presentan-audios-de-accidente-delhelicoptero-en-puebla)"
     },
     {
-      "self_ref": "#/texts/229",
+      "self_ref": "#/texts/230",
       "parent": {
         "$ref": "#/body"
       },
@@ -7374,7 +7418,7 @@
       "text": "(https://www.milenio.com/politica/rafael-moreno-valle-martha-erika-audiocaida-helicoptero)"
     },
     {
-      "self_ref": "#/texts/230",
+      "self_ref": "#/texts/231",
       "parent": {
         "$ref": "#/body"
       },
@@ -7402,7 +7446,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/231",
+      "self_ref": "#/texts/232",
       "parent": {
         "$ref": "#/body"
       },
@@ -7429,7 +7473,7 @@
       "text": "https://www.milenio.com/policia/crea-jalisco-fiscalia-especial-buscar-desaparecidos"
     },
     {
-      "self_ref": "#/texts/232",
+      "self_ref": "#/texts/233",
       "parent": {
         "$ref": "#/body"
       },
@@ -7456,7 +7500,7 @@
       "text": "7/10"
     },
     {
-      "self_ref": "#/texts/233",
+      "self_ref": "#/texts/234",
       "parent": {
         "$ref": "#/body"
       },
@@ -7483,7 +7527,7 @@
       "text": "2/28/2019"
     },
     {
-      "self_ref": "#/texts/234",
+      "self_ref": "#/texts/235",
       "parent": {
         "$ref": "#/body"
       },
@@ -7510,7 +7554,7 @@
       "text": "Crea Jalisco la fiscalía especial para buscar a los desaparecidos"
     },
     {
-      "self_ref": "#/texts/235",
+      "self_ref": "#/texts/236",
       "parent": {
         "$ref": "#/body"
       },
@@ -7537,7 +7581,7 @@
       "text": "(https://clknext.com/path/lp.php?"
     },
     {
-      "self_ref": "#/texts/236",
+      "self_ref": "#/texts/237",
       "parent": {
         "$ref": "#/body"
       },
@@ -7564,7 +7608,7 @@
       "text": "EDICIONES:"
     },
     {
-      "self_ref": "#/texts/237",
+      "self_ref": "#/texts/238",
       "parent": {
         "$ref": "#/body"
       },
@@ -7591,7 +7635,7 @@
       "text": "trvid=10437&trvx=17f5d0ae&cid=15&utm_term=milenio&tabo"
     },
     {
-      "self_ref": "#/texts/238",
+      "self_ref": "#/texts/239",
       "parent": {
         "$ref": "#/body"
       },
@@ -7618,7 +7662,7 @@
       "text": "U.S. Cardiologist: It's Like a Pressure (/)"
     },
     {
-      "self_ref": "#/texts/239",
+      "self_ref": "#/texts/240",
       "parent": {
         "$ref": "#/body"
       },
@@ -7645,7 +7689,7 @@
       "text": "Wash for Your Insides IMPRESO (/IMPRESO) TELEVISIÓN (/MILENIOTV)"
     },
     {
-      "self_ref": "#/texts/240",
+      "self_ref": "#/texts/241",
       "parent": {
         "$ref": "#/body"
       },
@@ -7672,7 +7716,7 @@
       "text": "Gundry MD Total Restore Supplement"
     },
     {
-      "self_ref": "#/texts/241",
+      "self_ref": "#/texts/242",
       "parent": {
         "$ref": "#/body"
       },
@@ -7699,7 +7743,7 @@
       "text": "(https://www.milenio.com/politica/rafael-moreno-valle-martha-erika-audio-"
     },
     {
-      "self_ref": "#/texts/242",
+      "self_ref": "#/texts/243",
       "parent": {
         "$ref": "#/body"
       },
@@ -7726,7 +7770,7 @@
       "text": "CDMX (/CDMX)   MONTERREY (/MONTERREY)   JALISCO (/JALISCO)   ESTADO DE MÉXICO (/ESTADO-D"
     },
     {
-      "self_ref": "#/texts/243",
+      "self_ref": "#/texts/244",
       "parent": {
         "$ref": "#/body"
       },
@@ -7753,7 +7797,7 @@
       "text": "caida-helicoptero)"
     },
     {
-      "self_ref": "#/texts/244",
+      "self_ref": "#/texts/245",
       "parent": {
         "$ref": "#/body"
       },
@@ -7794,7 +7838,7 @@
       "text": "(https://www.milenio.com/espectaculos/premios-oscar/cuanto-le-pagaron- a-yalitza-aparicio-por-la-pelicula-roma) Ingresar"
     },
     {
-      "self_ref": "#/texts/245",
+      "self_ref": "#/texts/246",
       "parent": {
         "$ref": "#/body"
       },
@@ -7821,7 +7865,7 @@
       "text": "Regístrate"
     },
     {
-      "self_ref": "#/texts/246",
+      "self_ref": "#/texts/247",
       "parent": {
         "$ref": "#/body"
       },
@@ -7849,7 +7893,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/247",
+      "self_ref": "#/texts/248",
       "parent": {
         "$ref": "#/body"
       },
@@ -7876,7 +7920,7 @@
       "text": "(https://clknext.com/path/lp.php?"
     },
     {
-      "self_ref": "#/texts/248",
+      "self_ref": "#/texts/249",
       "parent": {
         "$ref": "#/body"
       },
@@ -7903,7 +7947,7 @@
       "text": "SECCIONES"
     },
     {
-      "self_ref": "#/texts/249",
+      "self_ref": "#/texts/250",
       "parent": {
         "$ref": "#/body"
       },
@@ -7930,7 +7974,7 @@
       "text": "trvid=10437&trvx=17f5d0ae&cid=15&utm_term=milenio&tabo"
     },
     {
-      "self_ref": "#/texts/250",
+      "self_ref": "#/texts/251",
       "parent": {
         "$ref": "#/body"
       },
@@ -7958,7 +8002,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/251",
+      "self_ref": "#/texts/252",
       "parent": {
         "$ref": "#/body"
       },
@@ -7985,7 +8029,7 @@
       "text": "Inicio (/)"
     },
     {
-      "self_ref": "#/texts/252",
+      "self_ref": "#/texts/253",
       "parent": {
         "$ref": "#/body"
       },
@@ -8012,7 +8056,7 @@
       "text": "Policía (/policia)"
     },
     {
-      "self_ref": "#/texts/253",
+      "self_ref": "#/texts/254",
       "parent": {
         "$ref": "#/body"
       },
@@ -8039,7 +8083,7 @@
       "text": "û"
     },
     {
-      "self_ref": "#/texts/254",
+      "self_ref": "#/texts/255",
       "parent": {
         "$ref": "#/body"
       },
@@ -8066,7 +8110,7 @@
       "text": "k"
     },
     {
-      "self_ref": "#/texts/255",
+      "self_ref": "#/texts/256",
       "parent": {
         "$ref": "#/body"
       },
@@ -8093,7 +8137,7 @@
       "text": "utm_medium=referral&utm_content=thumbnails­rr3:Right Rail Thumbnails:)"
     },
     {
-      "self_ref": "#/texts/256",
+      "self_ref": "#/texts/257",
       "parent": {
         "$ref": "#/body"
       },
@@ -8120,7 +8164,7 @@
       "text": "(https://www.milenio.com/espectaculos/premios-oscar/cuanto-le-pagarona-yalitza-aparicio-por-la-pelicula-roma) Jueves , 28.02.2019 / 13:32 HOY Premios Oscar (/temas/premiososcar) AMLO (/temas/amlo) Venezuela (/temas/venezuela) MILEN"
     },
     {
-      "self_ref": "#/texts/257",
+      "self_ref": "#/texts/258",
       "parent": {
         "$ref": "#/body"
       },
@@ -8147,7 +8191,7 @@
       "text": "(https://www.milenio.com/espectaculos/premios-oscar/memes-graciososdivertidos-premios-oscar-2019)"
     },
     {
-      "self_ref": "#/texts/258",
+      "self_ref": "#/texts/259",
       "parent": {
         "$ref": "#/body"
       },
@@ -8175,7 +8219,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/259",
+      "self_ref": "#/texts/260",
       "parent": {
         "$ref": "#/body"
       },
@@ -8202,7 +8246,7 @@
       "text": "(https://www.milenio.com/espectaculos/premios-oscar/memes-graciososdivertidos-premios-oscar-2019)"
     },
     {
-      "self_ref": "#/texts/260",
+      "self_ref": "#/texts/261",
       "parent": {
         "$ref": "#/body"
       },
@@ -8229,7 +8273,7 @@
       "text": "(https://www.milenio.com/espectaculos/novia-sergio-goyri-difundio-videoyalitza)"
     },
     {
-      "self_ref": "#/texts/261",
+      "self_ref": "#/texts/262",
       "parent": {
         "$ref": "#/body"
       },
@@ -8257,7 +8301,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/262",
+      "self_ref": "#/texts/263",
       "parent": {
         "$ref": "#/body"
       },
@@ -8284,7 +8328,7 @@
       "text": "(https://www.milenio.com/espectaculos/novia-sergio-goyri-difundio-videoyalitza)"
     },
     {
-      "self_ref": "#/texts/263",
+      "self_ref": "#/texts/264",
       "parent": {
         "$ref": "#/body"
       },
@@ -8311,7 +8355,7 @@
       "text": "(https://www.milenio.com/espectaculos/alfonso-cuaron-responde-criticassergio-goyri-yalitza-aparicio)"
     },
     {
-      "self_ref": "#/texts/264",
+      "self_ref": "#/texts/265",
       "parent": {
         "$ref": "#/body"
       },
@@ -8339,7 +8383,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/265",
+      "self_ref": "#/texts/266",
       "parent": {
         "$ref": "#/body"
       },
@@ -8366,7 +8410,7 @@
       "text": "(https://www.milenio.com/espectaculos/alfonso-cuaron-responde-criticassergio-goyri-yalitza-aparicio)"
     },
     {
-      "self_ref": "#/texts/266",
+      "self_ref": "#/texts/267",
       "parent": {
         "$ref": "#/body"
       },
@@ -8393,7 +8437,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/sergio-mayer-equivocacambia-nombre-yalitza-aparicio)"
     },
     {
-      "self_ref": "#/texts/267",
+      "self_ref": "#/texts/268",
       "parent": {
         "$ref": "#/body"
       },
@@ -8421,7 +8465,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/268",
+      "self_ref": "#/texts/269",
       "parent": {
         "$ref": "#/body"
       },
@@ -8448,7 +8492,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/sergio-mayer-equivocacambia-nombre-yalitza-aparicio)"
     },
     {
-      "self_ref": "#/texts/269",
+      "self_ref": "#/texts/270",
       "parent": {
         "$ref": "#/body"
       },
@@ -8475,7 +8519,7 @@
       "text": "(https://www.milenio.com/deportes/extra-cancha/serena-williams-revelaspoiler-muerte-capitan-america-avengers-endgame)"
     },
     {
-      "self_ref": "#/texts/270",
+      "self_ref": "#/texts/271",
       "parent": {
         "$ref": "#/body"
       },
@@ -8503,7 +8547,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/271",
+      "self_ref": "#/texts/272",
       "parent": {
         "$ref": "#/body"
       },
@@ -8530,7 +8574,7 @@
       "text": "(https://www.milenio.com/deportes/extra-cancha/serena-williams-revelaspoiler-muerte-capitan-america-avengers-endgame)"
     },
     {
-      "self_ref": "#/texts/272",
+      "self_ref": "#/texts/273",
       "parent": {
         "$ref": "#/body"
       },
@@ -8571,7 +8615,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/golpean-en-bar-de- polanco-a-conductora-de-televisa)"
     },
     {
-      "self_ref": "#/texts/273",
+      "self_ref": "#/texts/274",
       "parent": {
         "$ref": "#/body"
       },
@@ -8599,7 +8643,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/274",
+      "self_ref": "#/texts/275",
       "parent": {
         "$ref": "#/body"
       },
@@ -8626,7 +8670,7 @@
       "text": "OPINIÓN (/OPINION)"
     },
     {
-      "self_ref": "#/texts/275",
+      "self_ref": "#/texts/276",
       "parent": {
         "$ref": "#/body"
       },
@@ -8653,7 +8697,7 @@
       "text": "https://www.milenio.com/policia/crea-jalisco-fiscalia-especial-buscar-desaparecidos"
     },
     {
-      "self_ref": "#/texts/276",
+      "self_ref": "#/texts/277",
       "parent": {
         "$ref": "#/body"
       },
@@ -8680,7 +8724,7 @@
       "text": "8/10"
     },
     {
-      "self_ref": "#/texts/277",
+      "self_ref": "#/texts/278",
       "parent": {
         "$ref": "#/body"
       },
@@ -8707,7 +8751,7 @@
       "text": "2/28/2019"
     },
     {
-      "self_ref": "#/texts/278",
+      "self_ref": "#/texts/279",
       "parent": {
         "$ref": "#/body"
       },
@@ -8734,7 +8778,7 @@
       "text": "Crea Jalisco la fiscalía especial para buscar a los desaparecidos"
     },
     {
-      "self_ref": "#/texts/279",
+      "self_ref": "#/texts/280",
       "parent": {
         "$ref": "#/body"
       },
@@ -8761,7 +8805,7 @@
       "text": "EDICIONES:"
     },
     {
-      "self_ref": "#/texts/280",
+      "self_ref": "#/texts/281",
       "parent": {
         "$ref": "#/body"
       },
@@ -8788,7 +8832,7 @@
       "text": "(/)"
     },
     {
-      "self_ref": "#/texts/281",
+      "self_ref": "#/texts/282",
       "parent": {
         "$ref": "#/body"
       },
@@ -8815,7 +8859,7 @@
       "text": "IMPRESO (/IMPRESO) TELEVISIÓN (/MILENIOTV)"
     },
     {
-      "self_ref": "#/texts/282",
+      "self_ref": "#/texts/283",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -8842,7 +8886,7 @@
       "text": "û"
     },
     {
-      "self_ref": "#/texts/283",
+      "self_ref": "#/texts/284",
       "parent": {
         "$ref": "#/body"
       },
@@ -8869,7 +8913,7 @@
       "text": "SECCIONES"
     },
     {
-      "self_ref": "#/texts/284",
+      "self_ref": "#/texts/285",
       "parent": {
         "$ref": "#/body"
       },
@@ -8896,7 +8940,7 @@
       "text": "Inicio (/)"
     },
     {
-      "self_ref": "#/texts/285",
+      "self_ref": "#/texts/286",
       "parent": {
         "$ref": "#/body"
       },
@@ -8923,7 +8967,7 @@
       "text": "Policía (/policia)"
     },
     {
-      "self_ref": "#/texts/286",
+      "self_ref": "#/texts/287",
       "parent": {
         "$ref": "#/body"
       },
@@ -8950,7 +8994,7 @@
       "text": "k"
     },
     {
-      "self_ref": "#/texts/287",
+      "self_ref": "#/texts/288",
       "parent": {
         "$ref": "#/body"
       },
@@ -8977,7 +9021,7 @@
       "text": "HOY Premios Oscar (/temas/premiososcar)"
     },
     {
-      "self_ref": "#/texts/288",
+      "self_ref": "#/texts/289",
       "parent": {
         "$ref": "#/body"
       },
@@ -9004,7 +9048,7 @@
       "text": "ESCRIBIR COMENTARIO"
     },
     {
-      "self_ref": "#/texts/289",
+      "self_ref": "#/texts/290",
       "parent": {
         "$ref": "#/body"
       },
@@ -9031,7 +9075,7 @@
       "text": "Cada mensaje que nos llega de ustedes, cada mensaje que se publica en este foro, lo leemos y seleccionamos. Por favor, sigan escribiendo, solo pedimos buen criterio. Aquí hay lugar para casi todo: réplicas y contrarréplicas, datos duros, sugerencias de lecturas, humor, muestras de inconformidad y de indignación y hasta bromas. Solo pedimos civilidad y respeto."
     },
     {
-      "self_ref": "#/texts/290",
+      "self_ref": "#/texts/291",
       "parent": {
         "$ref": "#/body"
       },
@@ -9058,7 +9102,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/golpean-en-bar-de-"
     },
     {
-      "self_ref": "#/texts/291",
+      "self_ref": "#/texts/292",
       "parent": {
         "$ref": "#/body"
       },
@@ -9085,7 +9129,7 @@
       "text": "CDMX (/CDMX)   MONTERREY (/MONTERREY)   JALISCO (/JALISCO)   ESTADO DE MÉXICO (/ESTADO-D"
     },
     {
-      "self_ref": "#/texts/292",
+      "self_ref": "#/texts/293",
       "parent": {
         "$ref": "#/body"
       },
@@ -9112,7 +9156,7 @@
       "text": "polanco-a-conductora-de-televisa)"
     },
     {
-      "self_ref": "#/texts/293",
+      "self_ref": "#/texts/294",
       "parent": {
         "$ref": "#/body"
       },
@@ -9153,7 +9197,7 @@
       "text": "(https://www.milenio.com/espectaculos/consuelo-duval-dice-que-realizo- visitas-conyugales)"
     },
     {
-      "self_ref": "#/texts/294",
+      "self_ref": "#/texts/295",
       "parent": {
         "$ref": "#/body"
       },
@@ -9181,7 +9225,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/295",
+      "self_ref": "#/texts/296",
       "parent": {
         "$ref": "#/body"
       },
@@ -9208,7 +9252,7 @@
       "text": "Violencia de Género (/policia/violencia-genero)"
     },
     {
-      "self_ref": "#/texts/296",
+      "self_ref": "#/texts/297",
       "parent": {
         "$ref": "#/body"
       },
@@ -9235,7 +9279,7 @@
       "text": "OPINIÓN (/OPINION)"
     },
     {
-      "self_ref": "#/texts/297",
+      "self_ref": "#/texts/298",
       "parent": {
         "$ref": "#/body"
       },
@@ -9262,7 +9306,7 @@
       "text": "(https://www.milenio.com/espectaculos/consuelo-duval-dice-que-realizovisitas-conyugales) (https://www.milenio.com/estados/joven-quita-vida-publicarse-fotosJueves , 28.02.2019 / 13:32 AMLO (/temas/amlo) Venezuela (/temas/venezuela) MILEN"
     },
     {
-      "self_ref": "#/texts/298",
+      "self_ref": "#/texts/299",
       "parent": {
         "$ref": "#/body"
       },
@@ -9289,7 +9333,7 @@
       "text": "intimas-redes-sociales)"
     },
     {
-      "self_ref": "#/texts/299",
+      "self_ref": "#/texts/300",
       "parent": {
         "$ref": "#/body"
       },
@@ -9317,7 +9361,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/300",
+      "self_ref": "#/texts/301",
       "parent": {
         "$ref": "#/body"
       },
@@ -9344,7 +9388,7 @@
       "text": "(https://www.milenio.com/estados/joven-quita-vida-publicarse-fotosintimas-redes-sociales)"
     },
     {
-      "self_ref": "#/texts/301",
+      "self_ref": "#/texts/302",
       "parent": {
         "$ref": "#/body"
       },
@@ -9371,7 +9415,7 @@
       "text": "(https://www.milenio.com/policia/asaltante-mata-pasajero-muere-linchadoecatepec)"
     },
     {
-      "self_ref": "#/texts/302",
+      "self_ref": "#/texts/303",
       "parent": {
         "$ref": "#/body"
       },
@@ -9399,7 +9443,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/303",
+      "self_ref": "#/texts/304",
       "parent": {
         "$ref": "#/body"
       },
@@ -9426,7 +9470,7 @@
       "text": "(https://www.milenio.com/policia/asaltante-mata-pasajero-muere-linchadoecatepec)"
     },
     {
-      "self_ref": "#/texts/304",
+      "self_ref": "#/texts/305",
       "parent": {
         "$ref": "#/body"
       },
@@ -9453,7 +9497,7 @@
       "text": "(https://www.milenio.com/opinion/joaquin-lopez-doriga/en-privado/si-escierto-no-la-vi-venir)"
     },
     {
-      "self_ref": "#/texts/305",
+      "self_ref": "#/texts/306",
       "parent": {
         "$ref": "#/body"
       },
@@ -9481,7 +9525,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/306",
+      "self_ref": "#/texts/307",
       "parent": {
         "$ref": "#/body"
       },
@@ -9508,7 +9552,7 @@
       "text": "(https://www.milenio.com/opinion/joaquin-lopez-doriga/en-privado/si-escierto-no-la-vi-venir)"
     },
     {
-      "self_ref": "#/texts/307",
+      "self_ref": "#/texts/308",
       "parent": {
         "$ref": "#/body"
       },
@@ -9536,7 +9580,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/308",
+      "self_ref": "#/texts/309",
       "parent": {
         "$ref": "#/body"
       },
@@ -9564,7 +9608,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/309",
+      "self_ref": "#/texts/310",
       "parent": {
         "$ref": "#/body"
       },
@@ -9591,7 +9635,7 @@
       "text": "https://www.milenio.com/policia/crea-jalisco-fiscalia-especial-buscar-desaparecidos"
     },
     {
-      "self_ref": "#/texts/310",
+      "self_ref": "#/texts/311",
       "parent": {
         "$ref": "#/body"
       },
@@ -9618,7 +9662,7 @@
       "text": "9/10"
     },
     {
-      "self_ref": "#/texts/311",
+      "self_ref": "#/texts/312",
       "parent": {
         "$ref": "#/body"
       },
@@ -9645,7 +9689,7 @@
       "text": "2/28/2019"
     },
     {
-      "self_ref": "#/texts/312",
+      "self_ref": "#/texts/313",
       "parent": {
         "$ref": "#/body"
       },
@@ -9672,7 +9716,7 @@
       "text": "Crea Jalisco la fiscalía especial para buscar a los desaparecidos"
     },
     {
-      "self_ref": "#/texts/313",
+      "self_ref": "#/texts/314",
       "parent": {
         "$ref": "#/pictures/19"
       },
@@ -9699,7 +9743,7 @@
       "text": "û"
     },
     {
-      "self_ref": "#/texts/314",
+      "self_ref": "#/texts/315",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -9726,7 +9770,7 @@
       "text": "PUBLICAR EDICIONES: CDMX (/CDMX)   MONTERREY (/MONTERREY)   JALISCO (/JALISCO)   ESTADO DE MÉXICO (/ESTADO-D"
     },
     {
-      "self_ref": "#/texts/315",
+      "self_ref": "#/texts/316",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -9753,7 +9797,7 @@
       "text": "nes Anúnciate DERECHOS RESERVADOS © GRUPO MILENIO 2019"
     },
     {
-      "self_ref": "#/texts/316",
+      "self_ref": "#/texts/317",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -9780,7 +9824,7 @@
       "text": "ones)"
     },
     {
-      "self_ref": "#/texts/317",
+      "self_ref": "#/texts/318",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -9807,7 +9851,7 @@
       "text": "(http://publicidad.milenio.com/2019/MediaKit/index.html)"
     },
     {
-      "self_ref": "#/texts/318",
+      "self_ref": "#/texts/319",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -9834,7 +9878,7 @@
       "text": "Directorio (/quienes- somos) Visítanos en"
     },
     {
-      "self_ref": "#/texts/319",
+      "self_ref": "#/texts/320",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -9861,7 +9905,7 @@
       "text": "Privacidad (/aviso-de- privacidad)  "
     },
     {
-      "self_ref": "#/texts/320",
+      "self_ref": "#/texts/321",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -9888,7 +9932,7 @@
       "text": "Aviso"
     },
     {
-      "self_ref": "#/texts/321",
+      "self_ref": "#/texts/322",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -9915,7 +9959,7 @@
       "text": "Legal"
     },
     {
-      "self_ref": "#/texts/322",
+      "self_ref": "#/texts/323",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -9942,7 +9986,7 @@
       "text": "(/aviso-"
     },
     {
-      "self_ref": "#/texts/323",
+      "self_ref": "#/texts/324",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -9969,7 +10013,7 @@
       "text": "legal)"
     },
     {
-      "self_ref": "#/texts/324",
+      "self_ref": "#/texts/325",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -9996,7 +10040,7 @@
       "text": "(https://www.facebook.com/m"
     },
     {
-      "self_ref": "#/texts/325",
+      "self_ref": "#/texts/326",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10023,7 +10067,7 @@
       "text": "(https://twitter.com/Mile"
     },
     {
-      "self_ref": "#/texts/326",
+      "self_ref": "#/texts/327",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10050,7 +10094,7 @@
       "text": "Ř"
     },
     {
-      "self_ref": "#/texts/327",
+      "self_ref": "#/texts/328",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10077,7 +10121,7 @@
       "text": "(https://www.insta"
     },
     {
-      "self_ref": "#/texts/328",
+      "self_ref": "#/texts/329",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10104,7 +10148,7 @@
       "text": "hl=en)"
     },
     {
-      "self_ref": "#/texts/329",
+      "self_ref": "#/texts/330",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10131,7 +10175,7 @@
       "text": "É"
     },
     {
-      "self_ref": "#/texts/330",
+      "self_ref": "#/texts/331",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10158,7 +10202,7 @@
       "text": "(https://plus"
     },
     {
-      "self_ref": "#/texts/331",
+      "self_ref": "#/texts/332",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10185,7 +10229,7 @@
       "text": "Œ"
     },
     {
-      "self_ref": "#/texts/332",
+      "self_ref": "#/texts/333",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10212,7 +10256,7 @@
       "text": "(https"
     },
     {
-      "self_ref": "#/texts/333",
+      "self_ref": "#/texts/334",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10239,7 +10283,7 @@
       "text": "x"
     },
     {
-      "self_ref": "#/texts/334",
+      "self_ref": "#/texts/335",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10266,7 +10310,7 @@
       "text": "SECCIONES"
     },
     {
-      "self_ref": "#/texts/335",
+      "self_ref": "#/texts/336",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10293,7 +10337,7 @@
       "text": "OPINIÓN (/OPINION)"
     },
     {
-      "self_ref": "#/texts/336",
+      "self_ref": "#/texts/337",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10320,7 +10364,7 @@
       "text": "Jueves , 28.02.2019 / 13:32"
     },
     {
-      "self_ref": "#/texts/337",
+      "self_ref": "#/texts/338",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10347,7 +10391,7 @@
       "text": "HOY"
     },
     {
-      "self_ref": "#/texts/338",
+      "self_ref": "#/texts/339",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10374,7 +10418,7 @@
       "text": "Inicio (/)"
     },
     {
-      "self_ref": "#/texts/339",
+      "self_ref": "#/texts/340",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10401,7 +10445,7 @@
       "text": "Policía (/policia)"
     },
     {
-      "self_ref": "#/texts/340",
+      "self_ref": "#/texts/341",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10428,7 +10472,7 @@
       "text": "Violencia de Género (/policia/violencia-genero)"
     },
     {
-      "self_ref": "#/texts/341",
+      "self_ref": "#/texts/342",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10455,7 +10499,7 @@
       "text": "Premios Oscar (/temas/premiososcar)"
     },
     {
-      "self_ref": "#/texts/342",
+      "self_ref": "#/texts/343",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10482,7 +10526,7 @@
       "text": "AMLO (/temas/amlo)"
     },
     {
-      "self_ref": "#/texts/343",
+      "self_ref": "#/texts/344",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10509,7 +10553,7 @@
       "text": "Venezuela (/temas/venezuela)"
     },
     {
-      "self_ref": "#/texts/344",
+      "self_ref": "#/texts/345",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10536,7 +10580,7 @@
       "text": "MILEN"
     },
     {
-      "self_ref": "#/texts/345",
+      "self_ref": "#/texts/346",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10563,7 +10607,7 @@
       "text": "(/)"
     },
     {
-      "self_ref": "#/texts/346",
+      "self_ref": "#/texts/347",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10590,7 +10634,7 @@
       "text": "IMPRESO (/IMPRESO)"
     },
     {
-      "self_ref": "#/texts/347",
+      "self_ref": "#/texts/348",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10617,7 +10661,7 @@
       "text": "TELEVISIÓN (/MILENIOTV)"
     },
     {
-      "self_ref": "#/texts/348",
+      "self_ref": "#/texts/349",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10644,7 +10688,7 @@
       "text": "Ingresar"
     },
     {
-      "self_ref": "#/texts/349",
+      "self_ref": "#/texts/350",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10671,7 +10715,7 @@
       "text": "Regístrate"
     },
     {
-      "self_ref": "#/texts/350",
+      "self_ref": "#/texts/351",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10698,7 +10742,7 @@
       "text": "û"
     },
     {
-      "self_ref": "#/texts/351",
+      "self_ref": "#/texts/352",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10725,7 +10769,7 @@
       "text": "k"
     },
     {
-      "self_ref": "#/texts/352",
+      "self_ref": "#/texts/353",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -10752,7 +10796,7 @@
       "text": "RESPONSABLE\""
     },
     {
-      "self_ref": "#/texts/353",
+      "self_ref": "#/texts/354",
       "parent": {
         "$ref": "#/body"
       },
@@ -10779,7 +10823,7 @@
       "text": "https://www.milenio.com/policia/crea-jalisco-fiscalia-especial-buscar-desaparecidos"
     },
     {
-      "self_ref": "#/texts/354",
+      "self_ref": "#/texts/355",
       "parent": {
         "$ref": "#/body"
       },
@@ -10823,10 +10867,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 35.18039321899414,
-            "t": 682.4161376953125,
-            "r": 47.763153076171875,
-            "b": 670.0486907958984,
+            "l": 35.17912292480469,
+            "t": 682.4156951904297,
+            "r": 47.76226806640625,
+            "b": 670.0482788085938,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -10852,10 +10896,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 94.0562744140625,
-            "t": 403.3077697753906,
-            "r": 120.59200286865234,
-            "b": 376.79931640625,
+            "l": 94.05562591552734,
+            "t": 403.3074951171875,
+            "r": 120.58841705322266,
+            "b": 376.7989196777344,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -10881,10 +10925,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 123.0810317993164,
-            "t": 403.16864013671875,
-            "r": 148.24774169921875,
-            "b": 376.9173889160156,
+            "l": 123.07877349853516,
+            "t": 403.1688232421875,
+            "r": 148.24696350097656,
+            "b": 376.91680908203125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -10910,10 +10954,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 149.8035430908203,
-            "t": 403.2261657714844,
-            "r": 175.95362854003906,
-            "b": 376.84661865234375,
+            "l": 149.80410766601562,
+            "t": 403.22625732421875,
+            "r": 175.95361328125,
+            "b": 376.8463134765625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -10939,10 +10983,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 560.8418579101562,
-            "t": 722.9807662963867,
-            "r": 577.9279174804688,
-            "b": 705.8343276977539,
+            "l": 560.84130859375,
+            "t": 722.9810943603516,
+            "r": 577.927734375,
+            "b": 705.8344268798828,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11032,10 +11076,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 34.13469314575195,
-            "t": 765.6243362426758,
-            "r": 584.1898193359375,
-            "b": 315.5944519042969,
+            "l": 34.134254455566406,
+            "t": 765.6249980926514,
+            "r": 584.1911010742188,
+            "b": 315.59527587890625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11069,10 +11113,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 35.09561538696289,
-            "t": 682.475700378418,
-            "r": 47.768524169921875,
-            "b": 670.0359344482422,
+            "l": 35.09532928466797,
+            "t": 682.4757308959961,
+            "r": 47.768829345703125,
+            "b": 670.0353546142578,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11099,9 +11143,9 @@
           "page_no": 3,
           "bbox": {
             "l": 560.8984375,
-            "t": 722.8799209594727,
-            "r": 577.9026489257812,
-            "b": 705.5922393798828,
+            "t": 722.8806457519531,
+            "r": 577.9029541015625,
+            "b": 705.5929641723633,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11131,10 +11175,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 34.9993782043457,
-            "t": 682.507942199707,
-            "r": 47.756141662597656,
-            "b": 669.9458160400391,
+            "l": 34.998695373535156,
+            "t": 682.5082702636719,
+            "r": 47.75617218017578,
+            "b": 669.9448471069336,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11173,10 +11217,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 35.37761688232422,
-            "t": 689.471923828125,
-            "r": 95.56902313232422,
-            "b": 664.8708572387695,
+            "l": 35.378440856933594,
+            "t": 689.4727249145508,
+            "r": 95.5704345703125,
+            "b": 664.8710479736328,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11206,10 +11250,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 35.05909729003906,
-            "t": 682.4903945922852,
-            "r": 47.72742462158203,
-            "b": 670.019889831543,
+            "l": 35.058631896972656,
+            "t": 682.489990234375,
+            "r": 47.7274284362793,
+            "b": 670.0192794799805,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11235,10 +11279,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 560.578369140625,
-            "t": 723.0998306274414,
-            "r": 577.9533081054688,
-            "b": 705.7353363037109,
+            "l": 560.5772094726562,
+            "t": 723.1008529663086,
+            "r": 577.9539184570312,
+            "b": 705.7357559204102,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11264,10 +11308,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 297.64044189453125,
-            "t": 185.7081298828125,
-            "r": 320.57147216796875,
-            "b": 165.80059814453125,
+            "l": 297.6386413574219,
+            "t": 185.70794677734375,
+            "r": 320.5743713378906,
+            "b": 165.80096435546875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11288,7 +11332,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/194"
+          "$ref": "#/texts/195"
         }
       ],
       "content_layer": "body",
@@ -11297,10 +11341,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 34.61249923706055,
-            "t": 735.3425445556641,
-            "r": 43.912322998046875,
-            "b": 724.3818893432617,
+            "l": 34.61240005493164,
+            "t": 735.34228515625,
+            "r": 43.91288375854492,
+            "b": 724.3821105957031,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11321,7 +11365,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/196"
+          "$ref": "#/texts/197"
         }
       ],
       "content_layer": "body",
@@ -11330,10 +11374,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 34.945037841796875,
-            "t": 682.4034271240234,
-            "r": 47.75013732910156,
-            "b": 670.0897216796875,
+            "l": 34.94751739501953,
+            "t": 682.4024200439453,
+            "r": 47.75005340576172,
+            "b": 670.0934906005859,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11359,10 +11403,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 560.4719848632812,
-            "t": 722.8156051635742,
-            "r": 577.8320922851562,
-            "b": 705.8026809692383,
+            "l": 560.4715576171875,
+            "t": 722.8159866333008,
+            "r": 577.8313598632812,
+            "b": 705.8026733398438,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11388,10 +11432,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 560.5105590820312,
-            "t": 722.6139984130859,
-            "r": 577.9835815429688,
-            "b": 705.1420516967773,
+            "l": 560.509765625,
+            "t": 722.6143951416016,
+            "r": 577.9849853515625,
+            "b": 705.1434478759766,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11412,7 +11456,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/282"
+          "$ref": "#/texts/283"
         }
       ],
       "content_layer": "body",
@@ -11421,10 +11465,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 35.05122756958008,
-            "t": 682.3752288818359,
-            "r": 47.75740432739258,
-            "b": 670.0519714355469,
+            "l": 35.04973602294922,
+            "t": 682.3760681152344,
+            "r": 47.75801086425781,
+            "b": 670.0507278442383,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11450,10 +11494,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 560.6148681640625,
-            "t": 722.9376220703125,
-            "r": 577.8831176757812,
-            "b": 705.748893737793,
+            "l": 560.6132202148438,
+            "t": 722.9382095336914,
+            "r": 577.8836669921875,
+            "b": 705.7490768432617,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11474,7 +11518,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/313"
+          "$ref": "#/texts/314"
         }
       ],
       "content_layer": "body",
@@ -11483,10 +11527,10 @@
         {
           "page_no": 10,
           "bbox": {
-            "l": 35.26248550415039,
-            "t": 682.3315887451172,
-            "r": 47.88387680053711,
-            "b": 669.9600601196289,
+            "l": 35.26213073730469,
+            "t": 682.3325881958008,
+            "r": 47.88483428955078,
+            "b": 669.9593353271484,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11512,10 +11556,10 @@
         {
           "page_no": 10,
           "bbox": {
-            "l": 84.79674530029297,
-            "t": 613.5067138671875,
-            "r": 114.0099868774414,
-            "b": 589.5718994140625,
+            "l": 84.79570007324219,
+            "t": 613.5071563720703,
+            "r": 114.01156616210938,
+            "b": 589.5699920654297,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11542,9 +11586,9 @@
           "page_no": 10,
           "bbox": {
             "l": 238.67462158203125,
-            "t": 610.2945098876953,
-            "r": 261.36181640625,
-            "b": 588.9410095214844,
+            "t": 610.2940979003906,
+            "r": 261.3623046875,
+            "b": 588.9411163330078,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11570,10 +11614,10 @@
         {
           "page_no": 10,
           "bbox": {
-            "l": 560.822021484375,
-            "t": 723.0432357788086,
-            "r": 577.9705810546875,
-            "b": 705.7367477416992,
+            "l": 560.8221435546875,
+            "t": 723.0432434082031,
+            "r": 577.9708251953125,
+            "b": 705.7361831665039,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

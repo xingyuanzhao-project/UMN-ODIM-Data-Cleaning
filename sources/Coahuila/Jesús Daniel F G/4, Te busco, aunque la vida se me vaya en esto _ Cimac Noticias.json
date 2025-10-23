@@ -117,9 +117,6 @@
         "$ref": "#/pictures/6"
       },
       {
-        "$ref": "#/texts/51"
-      },
-      {
         "$ref": "#/texts/52"
       },
       {
@@ -135,10 +132,10 @@
         "$ref": "#/texts/56"
       },
       {
-        "$ref": "#/pictures/7"
+        "$ref": "#/texts/57"
       },
       {
-        "$ref": "#/texts/64"
+        "$ref": "#/pictures/7"
       },
       {
         "$ref": "#/texts/65"
@@ -147,10 +144,10 @@
         "$ref": "#/texts/66"
       },
       {
-        "$ref": "#/pictures/8"
+        "$ref": "#/texts/67"
       },
       {
-        "$ref": "#/texts/71"
+        "$ref": "#/pictures/8"
       },
       {
         "$ref": "#/texts/72"
@@ -174,10 +171,10 @@
         "$ref": "#/texts/78"
       },
       {
-        "$ref": "#/pictures/9"
+        "$ref": "#/texts/79"
       },
       {
-        "$ref": "#/texts/82"
+        "$ref": "#/pictures/9"
       },
       {
         "$ref": "#/texts/83"
@@ -211,6 +208,9 @@
       },
       {
         "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
       }
     ],
     "content_layer": "body",
@@ -1546,6 +1546,33 @@
         {
           "page_no": 4,
           "bbox": {
+            "l": 238.0,
+            "t": 553.6666666666667,
+            "r": 276.66666666666663,
+            "b": 547.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Scxo femenino",
+      "text": "Scxo femenino"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
             "l": 266.0,
             "t": 542.3333333333333,
             "r": 273.33333333333337,
@@ -1562,7 +1589,7 @@
       "text": "50"
     },
     {
-      "self_ref": "#/texts/49",
+      "self_ref": "#/texts/50",
       "parent": {
         "$ref": "#/pictures/6"
       },
@@ -1589,7 +1616,7 @@
       "text": "01000 00 05400"
     },
     {
-      "self_ref": "#/texts/50",
+      "self_ref": "#/texts/51",
       "parent": {
         "$ref": "#/pictures/6"
       },
@@ -1616,7 +1643,7 @@
       "text": "o"
     },
     {
-      "self_ref": "#/texts/51",
+      "self_ref": "#/texts/52",
       "parent": {
         "$ref": "#/body"
       },
@@ -1643,7 +1670,7 @@
       "text": "Carolina Manzano busca a su hija Erika de la Piedra Manzano desde el  2  de  julio  de  2012,  fecha  en  la  que  desapareció  afuera  de  un centro comercial en la Ciudad de México. Ya jubilada, Carolina dice que eso 'me permitió al cien por ciento dedicarme a buscar a mi hija'."
     },
     {
-      "self_ref": "#/texts/52",
+      "self_ref": "#/texts/53",
       "parent": {
         "$ref": "#/body"
       },
@@ -1670,7 +1697,7 @@
       "text": "'Cargo  únicamente  con  la  fotografía  de  mi  hija  porque  traer  su fotografía es traerla en mi corazón, día y noche, los 365 días del año  ella está conmigo  sabiendo  que  nunca  voy  a  dejar  de buscarla'."
     },
     {
-      "self_ref": "#/texts/53",
+      "self_ref": "#/texts/54",
       "parent": {
         "$ref": "#/body"
       },
@@ -1697,7 +1724,7 @@
       "text": "https://www.cimacnoticias.com.mx/noticia/te-busco-aunque-la-vida-se-me-vaya-en-esto"
     },
     {
-      "self_ref": "#/texts/54",
+      "self_ref": "#/texts/55",
       "parent": {
         "$ref": "#/body"
       },
@@ -1724,7 +1751,7 @@
       "text": "4/7"
     },
     {
-      "self_ref": "#/texts/55",
+      "self_ref": "#/texts/56",
       "parent": {
         "$ref": "#/body"
       },
@@ -1751,7 +1778,7 @@
       "text": "8/8/2019"
     },
     {
-      "self_ref": "#/texts/56",
+      "self_ref": "#/texts/57",
       "parent": {
         "$ref": "#/body"
       },
@@ -1778,7 +1805,7 @@
       "text": "Te busco, aunque la vida se me vaya en esto | Cimac Noticias"
     },
     {
-      "self_ref": "#/texts/57",
+      "self_ref": "#/texts/58",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -1805,7 +1832,7 @@
       "text": "AMAIRAnY"
     },
     {
-      "self_ref": "#/texts/58",
+      "self_ref": "#/texts/59",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -1832,7 +1859,7 @@
       "text": "GONZALEZ"
     },
     {
-      "self_ref": "#/texts/59",
+      "self_ref": "#/texts/60",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -1859,7 +1886,7 @@
       "text": "01/08/2012"
     },
     {
-      "self_ref": "#/texts/60",
+      "self_ref": "#/texts/61",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -1886,7 +1913,7 @@
       "text": "ëHasvistoa ?"
     },
     {
-      "self_ref": "#/texts/61",
+      "self_ref": "#/texts/62",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -1913,7 +1940,7 @@
       "text": "Gonzaler"
     },
     {
-      "self_ref": "#/texts/62",
+      "self_ref": "#/texts/63",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -1940,7 +1967,7 @@
       "text": "Roblero"
     },
     {
-      "self_ref": "#/texts/63",
+      "self_ref": "#/texts/64",
       "parent": {
         "$ref": "#/pictures/7"
       },
@@ -1967,7 +1994,7 @@
       "text": "Amairany"
     },
     {
-      "self_ref": "#/texts/64",
+      "self_ref": "#/texts/65",
       "parent": {
         "$ref": "#/body"
       },
@@ -1994,7 +2021,7 @@
       "text": "A cinco años de la desaparición de Amairany Roblero González en Iztapalapa, su madre Cecilia González no tiene noticias de su hija. En su búsqueda recorrieron escuelas, hospitales, delegaciones, fue a levantar la denuncia al Ministerio Público donde la mandaron al Centro  de  Apoyo  de  Personales  Extraviadas  y  Ausentes  y  ahí 'empezó mi peregrinación hoy en día'."
     },
     {
-      "self_ref": "#/texts/65",
+      "self_ref": "#/texts/66",
       "parent": {
         "$ref": "#/body"
       },
@@ -2021,7 +2048,7 @@
       "text": "Con  las  autoridades  'hacen  su  búsqueda,  pero  no  como  uno quisiera, sólo dicen muchos desaparecidos y pocos licenciados'."
     },
     {
-      "self_ref": "#/texts/66",
+      "self_ref": "#/texts/67",
       "parent": {
         "$ref": "#/body"
       },
@@ -2048,7 +2075,7 @@
       "text": "'La búsqueda implica gastos que una no tiene previsto, como ir de un lado a otro, nos ha costado mucho sacrificio y solamente dios nos da fuerza para seguir adelante, nos ha costado mucho, uno ríe va viene pero lleva un dolor uno muy dentro en el corazón, en la mente, sales a la calle con la esperanza de verla, a ver si alguien nos  da  una  noticia,  con  esa  esperanza  sale  uno  a  las  calles,  la esperanza de encontrarla'."
     },
     {
-      "self_ref": "#/texts/67",
+      "self_ref": "#/texts/68",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -2075,7 +2102,7 @@
       "text": "ANDREA MICHAEL)"
     },
     {
-      "self_ref": "#/texts/68",
+      "self_ref": "#/texts/69",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -2102,7 +2129,7 @@
       "text": "Michael"
     },
     {
-      "self_ref": "#/texts/69",
+      "self_ref": "#/texts/70",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -2129,7 +2156,7 @@
       "text": "DÁVILA MARINEZ"
     },
     {
-      "self_ref": "#/texts/70",
+      "self_ref": "#/texts/71",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -2156,7 +2183,7 @@
       "text": "15 AÑOS"
     },
     {
-      "self_ref": "#/texts/71",
+      "self_ref": "#/texts/72",
       "parent": {
         "$ref": "#/body"
       },
@@ -2183,7 +2210,7 @@
       "text": "https://www.cimacnoticias.com.mx/noticia/te-busco-aunque-la-vida-se-me-vaya-en-esto"
     },
     {
-      "self_ref": "#/texts/72",
+      "self_ref": "#/texts/73",
       "parent": {
         "$ref": "#/body"
       },
@@ -2210,7 +2237,7 @@
       "text": "5/7"
     },
     {
-      "self_ref": "#/texts/73",
+      "self_ref": "#/texts/74",
       "parent": {
         "$ref": "#/body"
       },
@@ -2237,7 +2264,7 @@
       "text": "8/8/2019"
     },
     {
-      "self_ref": "#/texts/74",
+      "self_ref": "#/texts/75",
       "parent": {
         "$ref": "#/body"
       },
@@ -2264,7 +2291,7 @@
       "text": "Te busco, aunque la vida se me vaya en esto | Cimac Noticias"
     },
     {
-      "self_ref": "#/texts/75",
+      "self_ref": "#/texts/76",
       "parent": {
         "$ref": "#/body"
       },
@@ -2291,7 +2318,7 @@
       "text": "A cien metros de llegar a su casa, Andrea Michael Dávila Martínez desapareció el 6 de agosto del 2014 en Ecatepec, en el Estado de México.  Su  madre,  Angélica  Martínez  Santos,  menciona  que  al denunciar la desaparición de su hija, las autoridades 'deciden no levantar la alerta Amber por protocolo porque tenían que revisar el expediente para ver si entraba a la Alerta'. Con las autoridades 'no hay nada'."
     },
     {
-      "self_ref": "#/texts/76",
+      "self_ref": "#/texts/77",
       "parent": {
         "$ref": "#/body"
       },
@@ -2318,7 +2345,7 @@
       "text": "Año  con  año,  Angélica  se  suma  a  la  Marcha  para  pedirle  a  las autoridades  que  'le  pongan  más  empeño  a  su  trabajo,  que  sean capacitadas para hacer las búsquedas'."
     },
     {
-      "self_ref": "#/texts/77",
+      "self_ref": "#/texts/78",
       "parent": {
         "$ref": "#/body"
       },
@@ -2345,7 +2372,7 @@
       "text": "'Antes, en la búsqueda cargaba con unos escapularios de mi hija pero con el tiempo se van desgastando, ahora ya los dejé, para que no se acaben'."
     },
     {
-      "self_ref": "#/texts/78",
+      "self_ref": "#/texts/79",
       "parent": {
         "$ref": "#/body"
       },
@@ -2372,7 +2399,7 @@
       "text": "Visita la galería completa:"
     },
     {
-      "self_ref": "#/texts/79",
+      "self_ref": "#/texts/80",
       "parent": {
         "$ref": "#/pictures/9"
       },
@@ -2399,7 +2426,7 @@
       "text": "@"
     },
     {
-      "self_ref": "#/texts/80",
+      "self_ref": "#/texts/81",
       "parent": {
         "$ref": "#/pictures/9"
       },
@@ -2426,7 +2453,7 @@
       "text": "Mientras"
     },
     {
-      "self_ref": "#/texts/81",
+      "self_ref": "#/texts/82",
       "parent": {
         "$ref": "#/pictures/9"
       },
@@ -2453,7 +2480,7 @@
       "text": "seguire)"
     },
     {
-      "self_ref": "#/texts/82",
+      "self_ref": "#/texts/83",
       "parent": {
         "$ref": "#/body"
       },
@@ -2494,7 +2521,7 @@
       "text": "All rights reserved by Agencia Cimacnoticias CIMACFoto VI Marcha de la Dignidad"
     },
     {
-      "self_ref": "#/texts/83",
+      "self_ref": "#/texts/84",
       "parent": {
         "$ref": "#/body"
       },
@@ -2521,7 +2548,7 @@
       "text": "Alb m VI Marcha de la Dignidad Nacional Madres buscando a sus"
     },
     {
-      "self_ref": "#/texts/84",
+      "self_ref": "#/texts/85",
       "parent": {
         "$ref": "#/body"
       },
@@ -2548,7 +2575,7 @@
       "text": "17/CML/GGQ"
     },
     {
-      "self_ref": "#/texts/85",
+      "self_ref": "#/texts/86",
       "parent": {
         "$ref": "#/body"
       },
@@ -2589,7 +2616,7 @@
       "text": "Marcha madres de personas desaparecidas. Monumento a la Madre   10 de mayo   Marcha por la Dignidad Nacional   madres de desaparecidas   VI Marcha por la Dignidad   madres buscando a sus hijas e hijos compartir esta nota:"
     },
     {
-      "self_ref": "#/texts/86",
+      "self_ref": "#/texts/87",
       "parent": {
         "$ref": "#/body"
       },
@@ -2616,7 +2643,7 @@
       "text": "https://www.cimacnoticias.com.mx/noticia/te-busco-aunque-la-vida-se-me-vaya-en-esto"
     },
     {
-      "self_ref": "#/texts/87",
+      "self_ref": "#/texts/88",
       "parent": {
         "$ref": "#/body"
       },
@@ -2643,7 +2670,7 @@
       "text": "6/7"
     },
     {
-      "self_ref": "#/texts/88",
+      "self_ref": "#/texts/89",
       "parent": {
         "$ref": "#/body"
       },
@@ -2670,7 +2697,7 @@
       "text": "8/8/2019"
     },
     {
-      "self_ref": "#/texts/89",
+      "self_ref": "#/texts/90",
       "parent": {
         "$ref": "#/body"
       },
@@ -2697,7 +2724,7 @@
       "text": "Te busco, aunque la vida se me vaya en esto | Cimac Noticias"
     },
     {
-      "self_ref": "#/texts/90",
+      "self_ref": "#/texts/91",
       "parent": {
         "$ref": "#/body"
       },
@@ -2725,7 +2752,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/91",
+      "self_ref": "#/texts/92",
       "parent": {
         "$ref": "#/body"
       },
@@ -2752,7 +2779,7 @@
       "text": "Ya superamos al Estado, que no asume la búsqueda de nuestras hijas e hijos"
     },
     {
-      "self_ref": "#/texts/92",
+      "self_ref": "#/texts/93",
       "parent": {
         "$ref": "#/body"
       },
@@ -2779,7 +2806,7 @@
       "text": "https://www.cimacnoticias.com.mx/noticia/te-busco-aunque-la-vida-se-me-vaya-en-esto"
     },
     {
-      "self_ref": "#/texts/93",
+      "self_ref": "#/texts/94",
       "parent": {
         "$ref": "#/body"
       },
@@ -2826,10 +2853,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 78.13404083251953,
-            "t": 751.1502151489258,
-            "r": 319.048095703125,
-            "b": 681.9201354980469,
+            "l": 78.1333236694336,
+            "t": 751.1490287780762,
+            "r": 319.0481872558594,
+            "b": 681.9216918945312,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2865,10 +2892,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 61.6639404296875,
-            "t": 561.8407440185547,
-            "r": 551.2511596679688,
-            "b": 235.08477783203125,
+            "l": 61.664634704589844,
+            "t": 561.8389282226562,
+            "r": 551.2528076171875,
+            "b": 235.086181640625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2894,10 +2921,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 61.75807571411133,
-            "t": 763.6496963500977,
-            "r": 443.36492919921875,
-            "b": 510.2033386230469,
+            "l": 61.758056640625,
+            "t": 763.6503810882568,
+            "r": 443.365234375,
+            "b": 510.2030334472656,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2927,10 +2954,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 61.611324310302734,
-            "t": 422.9005126953125,
-            "r": 443.123291015625,
-            "b": 168.5654296875,
+            "l": 61.61126708984375,
+            "t": 422.9004211425781,
+            "r": 443.12432861328125,
+            "b": 168.56524658203125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2956,10 +2983,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 61.415802001953125,
-            "t": 730.7224731445312,
-            "r": 443.34881591796875,
-            "b": 476.5121765136719,
+            "l": 61.41614532470703,
+            "t": 730.720703125,
+            "r": 443.3463134765625,
+            "b": 476.5122375488281,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3025,10 +3052,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 61.57136154174805,
-            "t": 318.27490234375,
-            "r": 443.40460205078125,
-            "b": 64.1866455078125,
+            "l": 61.56991958618164,
+            "t": 318.2762756347656,
+            "r": 443.40380859375,
+            "b": 64.18585205078125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3066,6 +3093,9 @@
         },
         {
           "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
         }
       ],
       "content_layer": "body",
@@ -3074,10 +3104,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 61.691375732421875,
-            "t": 659.8362731933594,
-            "r": 443.30108642578125,
-            "b": 404.8134765625,
+            "l": 61.6918830871582,
+            "t": 659.8366851806641,
+            "r": 443.3001708984375,
+            "b": 404.81304931640625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3098,9 +3128,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/57"
-        },
-        {
           "$ref": "#/texts/58"
         },
         {
@@ -3117,6 +3144,9 @@
         },
         {
           "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
         }
       ],
       "content_layer": "body",
@@ -3125,10 +3155,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 61.802085876464844,
-            "t": 764.1394805908203,
-            "r": 443.27423095703125,
-            "b": 509.6871032714844,
+            "l": 61.8012809753418,
+            "t": 764.1414737701416,
+            "r": 443.27435302734375,
+            "b": 509.68670654296875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3149,9 +3179,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/67"
-        },
-        {
           "$ref": "#/texts/68"
         },
         {
@@ -3159,6 +3186,9 @@
         },
         {
           "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
         }
       ],
       "content_layer": "body",
@@ -3167,10 +3197,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 61.588157653808594,
-            "t": 291.10614013671875,
-            "r": 443.2854919433594,
-            "b": 36.5673828125,
+            "l": 61.5870475769043,
+            "t": 291.1058044433594,
+            "r": 443.28521728515625,
+            "b": 36.56793212890625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3191,13 +3221,13 @@
       },
       "children": [
         {
-          "$ref": "#/texts/79"
-        },
-        {
           "$ref": "#/texts/80"
         },
         {
           "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
         }
       ],
       "content_layer": "body",
@@ -3206,10 +3236,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 67.72471618652344,
-            "t": 548.0020904541016,
-            "r": 443.71075439453125,
-            "b": 227.909912109375,
+            "l": 67.72334289550781,
+            "t": 548.0051116943359,
+            "r": 443.7108459472656,
+            "b": 227.9090576171875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

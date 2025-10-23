@@ -135,34 +135,25 @@
         "$ref": "#/texts/58"
       },
       {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
         "$ref": "#/groups/1"
-      },
-      {
-        "$ref": "#/texts/67"
-      },
-      {
-        "$ref": "#/texts/68"
-      },
-      {
-        "$ref": "#/texts/69"
-      },
-      {
-        "$ref": "#/texts/70"
-      },
-      {
-        "$ref": "#/texts/71"
-      },
-      {
-        "$ref": "#/texts/72"
-      },
-      {
-        "$ref": "#/groups/2"
-      },
-      {
-        "$ref": "#/texts/79"
-      },
-      {
-        "$ref": "#/texts/80"
       },
       {
         "$ref": "#/texts/81"
@@ -183,16 +174,16 @@
         "$ref": "#/texts/86"
       },
       {
-        "$ref": "#/groups/3"
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/groups/2"
       },
       {
         "$ref": "#/pictures/7"
-      },
-      {
-        "$ref": "#/texts/123"
-      },
-      {
-        "$ref": "#/texts/124"
       },
       {
         "$ref": "#/texts/125"
@@ -495,16 +486,16 @@
         "$ref": "#/texts/224"
       },
       {
+        "$ref": "#/texts/225"
+      },
+      {
+        "$ref": "#/texts/226"
+      },
+      {
         "$ref": "#/pictures/8"
       },
       {
         "$ref": "#/pictures/9"
-      },
-      {
-        "$ref": "#/texts/233"
-      },
-      {
-        "$ref": "#/texts/234"
       },
       {
         "$ref": "#/texts/235"
@@ -513,19 +504,25 @@
         "$ref": "#/texts/236"
       },
       {
+        "$ref": "#/texts/237"
+      },
+      {
+        "$ref": "#/texts/238"
+      },
+      {
         "$ref": "#/pictures/10"
       },
       {
         "$ref": "#/pictures/11"
       },
       {
-        "$ref": "#/groups/4"
+        "$ref": "#/groups/3"
       },
       {
-        "$ref": "#/texts/251"
+        "$ref": "#/texts/253"
       },
       {
-        "$ref": "#/texts/252"
+        "$ref": "#/texts/254"
       }
     ],
     "content_layer": "body",
@@ -611,40 +608,29 @@
       },
       "children": [
         {
-          "$ref": "#/texts/59"
-        },
-        {
-          "$ref": "#/texts/60"
-        },
-        {
-          "$ref": "#/texts/61"
-        },
-        {
-          "$ref": "#/texts/62"
-        },
-        {
-          "$ref": "#/texts/63"
-        },
-        {
-          "$ref": "#/texts/64"
-        },
-        {
           "$ref": "#/texts/65"
         },
         {
           "$ref": "#/texts/66"
-        }
-      ],
-      "content_layer": "body",
-      "name": "group",
-      "label": "key_value_area"
-    },
-    {
-      "self_ref": "#/groups/2",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
         {
           "$ref": "#/texts/73"
         },
@@ -662,6 +648,12 @@
         },
         {
           "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
         }
       ],
       "content_layer": "body",
@@ -669,17 +661,11 @@
       "label": "key_value_area"
     },
     {
-      "self_ref": "#/groups/3",
+      "self_ref": "#/groups/2",
       "parent": {
         "$ref": "#/body"
       },
       "children": [
-        {
-          "$ref": "#/texts/87"
-        },
-        {
-          "$ref": "#/texts/88"
-        },
         {
           "$ref": "#/texts/89"
         },
@@ -781,6 +767,12 @@
         },
         {
           "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
         }
       ],
       "content_layer": "body",
@@ -788,19 +780,13 @@
       "label": "key_value_area"
     },
     {
-      "self_ref": "#/groups/4",
+      "self_ref": "#/groups/3",
       "parent": {
         "$ref": "#/body"
       },
       "children": [
         {
-          "$ref": "#/groups/5"
-        },
-        {
-          "$ref": "#/texts/239"
-        },
-        {
-          "$ref": "#/texts/240"
+          "$ref": "#/groups/4"
         },
         {
           "$ref": "#/texts/241"
@@ -831,6 +817,12 @@
         },
         {
           "$ref": "#/texts/250"
+        },
+        {
+          "$ref": "#/texts/251"
+        },
+        {
+          "$ref": "#/texts/252"
         }
       ],
       "content_layer": "body",
@@ -838,13 +830,13 @@
       "label": "form_area"
     },
     {
-      "self_ref": "#/groups/5",
+      "self_ref": "#/groups/4",
       "parent": {
-        "$ref": "#/groups/4"
+        "$ref": "#/groups/3"
       },
       "children": [
         {
-          "$ref": "#/texts/238"
+          "$ref": "#/texts/240"
         }
       ],
       "content_layer": "body",
@@ -2433,263 +2425,6 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 30.0,
-            "t": 288.376,
-            "r": 78.115,
-            "b": 278.371,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            10
-          ]
-        }
-      ],
-      "orig": "legarreta-",
-      "text": "legarreta-"
-    },
-    {
-      "self_ref": "#/texts/59",
-      "parent": {
-        "$ref": "#/groups/1"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
-            "l": 30.0,
-            "t": 272.376,
-            "r": 79.571,
-            "b": 262.371,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            11
-          ]
-        }
-      ],
-      "orig": "hija-baila-",
-      "text": "hija-baila-"
-    },
-    {
-      "self_ref": "#/texts/60",
-      "parent": {
-        "$ref": "#/groups/1"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
-            "l": 30.0,
-            "t": 256.376,
-            "r": 69.816,
-            "b": 246.37099999999998,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            8
-          ]
-        }
-      ],
-      "orig": "vals-xv-",
-      "text": "vals-xv-"
-    },
-    {
-      "self_ref": "#/texts/61",
-      "parent": {
-        "$ref": "#/groups/1"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
-            "l": 27.286,
-            "t": 240.37599999999998,
-            "r": 81.027,
-            "b": 225.17100000000005,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            12
-          ]
-        }
-      ],
-      "orig": "anos-erik- 2",
-      "text": "anos-erik- 2"
-    },
-    {
-      "self_ref": "#/texts/62",
-      "parent": {
-        "$ref": "#/groups/1"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
-            "l": 30.0,
-            "t": 224.37599999999998,
-            "r": 58.213,
-            "b": 214.37099999999998,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            6
-          ]
-        }
-      ],
-      "orig": "rubin)",
-      "text": "rubin)"
-    },
-    {
-      "self_ref": "#/texts/63",
-      "parent": {
-        "$ref": "#/groups/1"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
-            "l": 30.0,
-            "t": 205.65100000000007,
-            "r": 262.715,
-            "b": 175.17100000000005,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            87
-          ]
-        }
-      ],
-      "orig": "(https://www.milenio.com/deportes/extra- cancha/mike- noche-encontro-esposa-brad- pitt)",
-      "text": "(https://www.milenio.com/deportes/extra- cancha/mike- noche-encontro-esposa-brad- pitt)"
-    },
-    {
-      "self_ref": "#/texts/64",
-      "parent": {
-        "$ref": "#/groups/1"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
-            "l": 103.6,
-            "t": 277.65100000000007,
-            "r": 239.023,
-            "b": 267.53999999999996,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            23
-          ]
-        }
-      ],
-      "orig": "La noche que Mike Tyson",
-      "text": "La noche que Mike Tyson"
-    },
-    {
-      "self_ref": "#/texts/65",
-      "parent": {
-        "$ref": "#/groups/1"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
-            "l": 103.6,
-            "t": 263.251,
-            "r": 255.685,
-            "b": 253.14,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            27
-          ]
-        }
-      ],
-      "orig": "encontró a su ex esposa con",
-      "text": "encontró a su ex esposa con"
-    },
-    {
-      "self_ref": "#/texts/66",
-      "parent": {
-        "$ref": "#/groups/1"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
-            "l": 103.6,
-            "t": 248.851,
-            "r": 150.8,
-            "b": 238.74,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            9
-          ]
-        }
-      ],
-      "orig": "Brad Pitt",
-      "text": "Brad Pitt"
-    },
-    {
-      "self_ref": "#/texts/67",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 4,
-          "bbox": {
-            "l": 30.0,
-            "t": 169.17599999999993,
-            "r": 61.741,
-            "b": 159.17100000000005,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            6
-          ]
-        },
-        {
-          "page_no": 4,
-          "bbox": {
             "l": 302.0,
             "t": 744.378,
             "r": 577.833,
@@ -2697,16 +2432,16 @@
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
-            7,
-            325
+            0,
+            318
           ]
         }
       ],
-      "orig": "tyson- y pintado de blanco, pero al ser inspeccionado se corroboró que el color original era rosa, además, se halló una lámina de la matrícula en uno de los asientos, la cual coincidía con el coche de Cueto Vázquez, por lo que fue asegurado y puesto a disposición de las autoridades ministeriales para ampliar la indagatoria.",
-      "text": "tyson- y pintado de blanco, pero al ser inspeccionado se corroboró que el color original era rosa, además, se halló una lámina de la matrícula en uno de los asientos, la cual coincidía con el coche de Cueto Vázquez, por lo que fue asegurado y puesto a disposición de las autoridades ministeriales para ampliar la indagatoria."
+      "orig": "y pintado de blanco, pero al ser inspeccionado se corroboró que el color original era rosa, además, se halló una lámina de la matrícula en uno de los asientos, la cual coincidía con el coche de Cueto Vázquez, por lo que fue asegurado y puesto a disposición de las autoridades ministeriales para ampliar la indagatoria.",
+      "text": "y pintado de blanco, pero al ser inspeccionado se corroboró que el color original era rosa, además, se halló una lámina de la matrícula en uno de los asientos, la cual coincidía con el coche de Cueto Vázquez, por lo que fue asegurado y puesto a disposición de las autoridades ministeriales para ampliar la indagatoria."
     },
     {
-      "self_ref": "#/texts/68",
+      "self_ref": "#/texts/59",
       "parent": {
         "$ref": "#/body"
       },
@@ -2733,7 +2468,7 @@
       "text": "Trascendió que dentro del coche se hallaron también documentos de la mujer y unos cinchos de plástico, entre otra evidencia que quedó bajo resguardo del ministerio público."
     },
     {
-      "self_ref": "#/texts/69",
+      "self_ref": "#/texts/60",
       "parent": {
         "$ref": "#/body"
       },
@@ -2760,7 +2495,7 @@
       "text": "Cueto Vázquez es conocida en Puerto Vallarta por su trayectoria como instructora de pole fitness, pues es directora de un estudio especializado en entrenamiento y coreografía que se encuentra en Plaza Marina, además de ser licenciada en Cultura Física y Deportes por la Universidad de Guadalajara."
     },
     {
-      "self_ref": "#/texts/70",
+      "self_ref": "#/texts/61",
       "parent": {
         "$ref": "#/body"
       },
@@ -2787,7 +2522,7 @@
       "text": "El currículo de la mujer incluye certificación en disciplinas como kickboxing fitness y aerokids."
     },
     {
-      "self_ref": "#/texts/71",
+      "self_ref": "#/texts/62",
       "parent": {
         "$ref": "#/body"
       },
@@ -2815,7 +2550,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/72",
+      "self_ref": "#/texts/63",
       "parent": {
         "$ref": "#/body"
       },
@@ -2842,9 +2577,225 @@
       "text": "(https://www.milenio.com/deportes/extracancha/mike-tyson-recuerda-"
     },
     {
-      "self_ref": "#/texts/73",
+      "self_ref": "#/texts/64",
       "parent": {
-        "$ref": "#/groups/2"
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 103.6,
+            "t": 102.45100000000002,
+            "r": 414.604,
+            "b": 92.34000000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "(https://www.milenio.com/espectaculos/famosos/andrea-",
+      "text": "(https://www.milenio.com/espectaculos/famosos/andrea-"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 30.0,
+            "t": 288.376,
+            "r": 78.115,
+            "b": 278.371,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "legarreta-",
+      "text": "legarreta-"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 30.0,
+            "t": 272.376,
+            "r": 79.571,
+            "b": 262.371,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "hija-baila-",
+      "text": "hija-baila-"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 30.0,
+            "t": 256.376,
+            "r": 69.816,
+            "b": 246.37099999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "vals-xv-",
+      "text": "vals-xv-"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 27.286,
+            "t": 240.37599999999998,
+            "r": 81.027,
+            "b": 225.17100000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "anos-erik- 2",
+      "text": "anos-erik- 2"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 30.0,
+            "t": 224.37599999999998,
+            "r": 58.213,
+            "b": 214.37099999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "rubin)",
+      "text": "rubin)"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 30.0,
+            "t": 205.65100000000007,
+            "r": 262.715,
+            "b": 175.17100000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "(https://www.milenio.com/deportes/extra- cancha/mike- noche-encontro-esposa-brad- pitt)",
+      "text": "(https://www.milenio.com/deportes/extra- cancha/mike- noche-encontro-esposa-brad- pitt)"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 30.0,
+            "t": 169.17599999999993,
+            "r": 61.741,
+            "b": 159.17100000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "tyson-",
+      "text": "tyson-"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -2869,9 +2820,9 @@
       "text": "recuerda-"
     },
     {
-      "self_ref": "#/texts/74",
+      "self_ref": "#/texts/73",
       "parent": {
-        "$ref": "#/groups/2"
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -2896,9 +2847,9 @@
       "text": "noche-"
     },
     {
-      "self_ref": "#/texts/75",
+      "self_ref": "#/texts/74",
       "parent": {
-        "$ref": "#/groups/2"
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -2923,9 +2874,9 @@
       "text": "encontro- 3"
     },
     {
-      "self_ref": "#/texts/76",
+      "self_ref": "#/texts/75",
       "parent": {
-        "$ref": "#/groups/2"
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -2950,9 +2901,90 @@
       "text": "esposa-"
     },
     {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 103.6,
+            "t": 277.65100000000007,
+            "r": 239.023,
+            "b": 267.53999999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "La noche que Mike Tyson",
+      "text": "La noche que Mike Tyson"
+    },
+    {
       "self_ref": "#/texts/77",
       "parent": {
-        "$ref": "#/groups/2"
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 103.6,
+            "t": 263.251,
+            "r": 255.685,
+            "b": 253.14,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "encontró a su ex esposa con",
+      "text": "encontró a su ex esposa con"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 103.6,
+            "t": 248.851,
+            "r": 150.8,
+            "b": 238.74,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Brad Pitt",
+      "text": "Brad Pitt"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -2977,9 +3009,9 @@
       "text": "Andrea Legarreta se puso sentimental y lloró al"
     },
     {
-      "self_ref": "#/texts/78",
+      "self_ref": "#/texts/80",
       "parent": {
-        "$ref": "#/groups/2"
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -3004,7 +3036,7 @@
       "text": "recordar el nacimiento de su hija"
     },
     {
-      "self_ref": "#/texts/79",
+      "self_ref": "#/texts/81",
       "parent": {
         "$ref": "#/body"
       },
@@ -3015,20 +3047,6 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 103.6,
-            "t": 102.45100000000002,
-            "r": 414.604,
-            "b": 92.34000000000003,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            53
-          ]
-        },
-        {
-          "page_no": 4,
-          "bbox": {
             "l": 30.0,
             "t": 89.17600000000004,
             "r": 528.524,
@@ -3036,16 +3054,16 @@
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
-            54,
-            175
+            0,
+            121
           ]
         }
       ],
-      "orig": "(https://www.milenio.com/espectaculos/famosos/andrea- brad-pitt) (https://www.milenio.com/espectaculos/famosos/andrealegarreta-llora-recordarGuadalajara por un asunto laboral.",
-      "text": "(https://www.milenio.com/espectaculos/famosos/andrea- brad-pitt) (https://www.milenio.com/espectaculos/famosos/andrealegarreta-llora-recordarGuadalajara por un asunto laboral."
+      "orig": "brad-pitt) (https://www.milenio.com/espectaculos/famosos/andrealegarreta-llora-recordarGuadalajara por un asunto laboral.",
+      "text": "brad-pitt) (https://www.milenio.com/espectaculos/famosos/andrealegarreta-llora-recordarGuadalajara por un asunto laboral."
     },
     {
-      "self_ref": "#/texts/80",
+      "self_ref": "#/texts/82",
       "parent": {
         "$ref": "#/body"
       },
@@ -3086,7 +3104,7 @@
       "text": "legarreta- nacimiento-hija)"
     },
     {
-      "self_ref": "#/texts/81",
+      "self_ref": "#/texts/83",
       "parent": {
         "$ref": "#/body"
       },
@@ -3113,7 +3131,7 @@
       "text": "Familiares del chef argentino Federico Tobares, de 37 años de edad, quien estaba radicado en Puerto Vallarta no han tenido información desde que desapareció, el pasado 5 de junio de 2013, cuando viajó a"
     },
     {
-      "self_ref": "#/texts/82",
+      "self_ref": "#/texts/84",
       "parent": {
         "$ref": "#/body"
       },
@@ -3140,7 +3158,7 @@
       "text": "https://www.milenio.com/policia/desaparece-bailarina-en-puerto-vallarta"
     },
     {
-      "self_ref": "#/texts/83",
+      "self_ref": "#/texts/85",
       "parent": {
         "$ref": "#/body"
       },
@@ -3167,7 +3185,7 @@
       "text": "Página 4 de 10"
     },
     {
-      "self_ref": "#/texts/84",
+      "self_ref": "#/texts/86",
       "parent": {
         "$ref": "#/body"
       },
@@ -3194,7 +3212,7 @@
       "text": "Desaparece bailarina en Puerto Vallarta"
     },
     {
-      "self_ref": "#/texts/85",
+      "self_ref": "#/texts/87",
       "parent": {
         "$ref": "#/body"
       },
@@ -3221,7 +3239,7 @@
       "text": "4/24/20 2&09 PM"
     },
     {
-      "self_ref": "#/texts/86",
+      "self_ref": "#/texts/88",
       "parent": {
         "$ref": "#/body"
       },
@@ -3262,9 +3280,9 @@
       "text": "legarreta- nacimiento-hija)"
     },
     {
-      "self_ref": "#/texts/87",
+      "self_ref": "#/texts/89",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3289,9 +3307,9 @@
       "text": "llora-"
     },
     {
-      "self_ref": "#/texts/88",
+      "self_ref": "#/texts/90",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3316,9 +3334,9 @@
       "text": "recordar-"
     },
     {
-      "self_ref": "#/texts/89",
+      "self_ref": "#/texts/91",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3343,9 +3361,9 @@
       "text": "nacimiento- hija) 4"
     },
     {
-      "self_ref": "#/texts/90",
+      "self_ref": "#/texts/92",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3370,9 +3388,9 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/danna- colaboracion-musical-video)"
     },
     {
-      "self_ref": "#/texts/91",
+      "self_ref": "#/texts/93",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3397,9 +3415,9 @@
       "text": "paola-"
     },
     {
-      "self_ref": "#/texts/92",
+      "self_ref": "#/texts/94",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3424,9 +3442,9 @@
       "text": "rechazada-"
     },
     {
-      "self_ref": "#/texts/93",
+      "self_ref": "#/texts/95",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3451,9 +3469,9 @@
       "text": "belinda-"
     },
     {
-      "self_ref": "#/texts/94",
+      "self_ref": "#/texts/96",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3478,9 +3496,9 @@
       "text": "colaboracion- 5"
     },
     {
-      "self_ref": "#/texts/95",
+      "self_ref": "#/texts/97",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3505,9 +3523,9 @@
       "text": "musical-"
     },
     {
-      "self_ref": "#/texts/96",
+      "self_ref": "#/texts/98",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3532,9 +3550,9 @@
       "text": "video) (https://www.milenio.com/espectaculos/famosos/karla- americo-garza)"
     },
     {
-      "self_ref": "#/texts/97",
+      "self_ref": "#/texts/99",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3559,9 +3577,9 @@
       "text": "¿Belinda 'batea' a Danna Paola para canción juntas? Esto fue lo que dijo (VIDEO) (https://www.milenio.com/espectaculos/famosos/danna- paola-rechazada-belinda-"
     },
     {
-      "self_ref": "#/texts/98",
+      "self_ref": "#/texts/100",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3586,9 +3604,9 @@
       "text": "panini-"
     },
     {
-      "self_ref": "#/texts/99",
+      "self_ref": "#/texts/101",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3613,9 +3631,9 @@
       "text": "haters-"
     },
     {
-      "self_ref": "#/texts/100",
+      "self_ref": "#/texts/102",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3640,9 +3658,9 @@
       "text": "oscar-"
     },
     {
-      "self_ref": "#/texts/101",
+      "self_ref": "#/texts/103",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3667,9 +3685,9 @@
       "text": "burgos-"
     },
     {
-      "self_ref": "#/texts/102",
+      "self_ref": "#/texts/104",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3694,9 +3712,9 @@
       "text": "americo- garza)"
     },
     {
-      "self_ref": "#/texts/103",
+      "self_ref": "#/texts/105",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3721,9 +3739,9 @@
       "text": "¡Intercambio de parejas!: Karla Panini bromea con su ex Óscar Burgos (VIDEO) (https://www.milenio.com/espectaculos/famosos/karla- panini-haters-oscar-burgos-"
     },
     {
-      "self_ref": "#/texts/104",
+      "self_ref": "#/texts/106",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3748,9 +3766,9 @@
       "text": "El extranjero manejaba un vehículo Caliber, modelo 2009, color plata, con placas del estado de San Luis Potosí, el cual fue localizado en La Piedad, Michoacán, el 16 de junio."
     },
     {
-      "self_ref": "#/texts/105",
+      "self_ref": "#/texts/107",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3775,9 +3793,9 @@
       "text": "Hasta el momento se desconoce el paradero del argentino, quien habría trabajado en varios hoteles del popular destino turístico."
     },
     {
-      "self_ref": "#/texts/106",
+      "self_ref": "#/texts/108",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3803,9 +3821,9 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/107",
+      "self_ref": "#/texts/109",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3830,9 +3848,9 @@
       "text": "Nombre:"
     },
     {
-      "self_ref": "#/texts/108",
+      "self_ref": "#/texts/110",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3857,9 +3875,9 @@
       "text": "Erika Cueto Vázquez"
     },
     {
-      "self_ref": "#/texts/109",
+      "self_ref": "#/texts/111",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3884,9 +3902,9 @@
       "text": "Edad:"
     },
     {
-      "self_ref": "#/texts/110",
+      "self_ref": "#/texts/112",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3911,9 +3929,9 @@
       "text": "38 años"
     },
     {
-      "self_ref": "#/texts/111",
+      "self_ref": "#/texts/113",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3938,9 +3956,9 @@
       "text": "Estatura:"
     },
     {
-      "self_ref": "#/texts/112",
+      "self_ref": "#/texts/114",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3965,9 +3983,9 @@
       "text": "1.50 metros"
     },
     {
-      "self_ref": "#/texts/113",
+      "self_ref": "#/texts/115",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -3992,9 +4010,9 @@
       "text": "Complexión:"
     },
     {
-      "self_ref": "#/texts/114",
+      "self_ref": "#/texts/116",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -4019,9 +4037,9 @@
       "text": "Delgada"
     },
     {
-      "self_ref": "#/texts/115",
+      "self_ref": "#/texts/117",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -4046,9 +4064,9 @@
       "text": "Peso:"
     },
     {
-      "self_ref": "#/texts/116",
+      "self_ref": "#/texts/118",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -4073,9 +4091,9 @@
       "text": "45 kilos"
     },
     {
-      "self_ref": "#/texts/117",
+      "self_ref": "#/texts/119",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -4100,9 +4118,9 @@
       "text": "Tez:"
     },
     {
-      "self_ref": "#/texts/118",
+      "self_ref": "#/texts/120",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -4127,9 +4145,9 @@
       "text": "Morena clara"
     },
     {
-      "self_ref": "#/texts/119",
+      "self_ref": "#/texts/121",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -4154,9 +4172,9 @@
       "text": "Cabello:"
     },
     {
-      "self_ref": "#/texts/120",
+      "self_ref": "#/texts/122",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -4181,9 +4199,9 @@
       "text": "Lacio, negro y hasta el hombro"
     },
     {
-      "self_ref": "#/texts/121",
+      "self_ref": "#/texts/123",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -4208,9 +4226,9 @@
       "text": "Ojos"
     },
     {
-      "self_ref": "#/texts/122",
+      "self_ref": "#/texts/124",
       "parent": {
-        "$ref": "#/groups/3"
+        "$ref": "#/groups/2"
       },
       "children": [],
       "content_layer": "body",
@@ -4235,7 +4253,7 @@
       "text": ": Café oscuro."
     },
     {
-      "self_ref": "#/texts/123",
+      "self_ref": "#/texts/125",
       "parent": {
         "$ref": "#/body"
       },
@@ -4263,7 +4281,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/124",
+      "self_ref": "#/texts/126",
       "parent": {
         "$ref": "#/body"
       },
@@ -4290,7 +4308,7 @@
       "text": "(https://pensandpatron.com/lists/most-eligible-royals-tb/? utm_campaign=Most%20Eligible%20Royals%20Beatrice%20SoHy1903%20 %20Desktop%20USA&utm_source=taboola&utm_medium=milenio&utm_term Year+Relationship+And+Now+She+Is+One+Of+The+Most+Eligible+Royals&ut 3a05-4379-b601-0dc193f322a1.jpg&psl=g_c5afe5)"
     },
     {
-      "self_ref": "#/texts/125",
+      "self_ref": "#/texts/127",
       "parent": {
         "$ref": "#/body"
       },
@@ -4317,7 +4335,7 @@
       "text": "https://www.milenio.com/policia/desaparece-bailarina-en-puerto-vallarta"
     },
     {
-      "self_ref": "#/texts/126",
+      "self_ref": "#/texts/128",
       "parent": {
         "$ref": "#/body"
       },
@@ -4344,7 +4362,7 @@
       "text": "Página 5 de 10"
     },
     {
-      "self_ref": "#/texts/127",
+      "self_ref": "#/texts/129",
       "parent": {
         "$ref": "#/body"
       },
@@ -4371,7 +4389,7 @@
       "text": "Desaparece bailarina en Puerto Vallarta"
     },
     {
-      "self_ref": "#/texts/128",
+      "self_ref": "#/texts/130",
       "parent": {
         "$ref": "#/body"
       },
@@ -4398,7 +4416,7 @@
       "text": "4/24/20 2&09 PM"
     },
     {
-      "self_ref": "#/texts/129",
+      "self_ref": "#/texts/131",
       "parent": {
         "$ref": "#/body"
       },
@@ -4426,7 +4444,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/130",
+      "self_ref": "#/texts/132",
       "parent": {
         "$ref": "#/body"
       },
@@ -4454,7 +4472,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/131",
+      "self_ref": "#/texts/133",
       "parent": {
         "$ref": "#/body"
       },
@@ -4481,7 +4499,7 @@
       "text": "(https://pensandpatron.com/lists/most-eligible-royals-tb/? utm_campaign=Most%20Eligible%20Royals%20Beatrice%20SoHy1903%20 %20Desktop%20USA&utm_source=taboola&utm_medium=milenio&utm_term Year+Relationship+And+Now+She+Is+One+Of+The+Most+Eligible+Royals&ut 3a05-4379-b601-0dc193f322a1.jpg&psl=g_c5afe5) (http://chopstick.com/results.php?k=the-best-deals-on-kcups&rgid=91170&utm_source=taboola&utm_medium=milenio&utm_campaig"
     },
     {
-      "self_ref": "#/texts/132",
+      "self_ref": "#/texts/134",
       "parent": {
         "$ref": "#/body"
       },
@@ -4508,7 +4526,7 @@
       "text": "Cups_B__MDT&utm_content=2858812251)"
     },
     {
-      "self_ref": "#/texts/133",
+      "self_ref": "#/texts/135",
       "parent": {
         "$ref": "#/body"
       },
@@ -4536,7 +4554,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/134",
+      "self_ref": "#/texts/136",
       "parent": {
         "$ref": "#/body"
       },
@@ -4564,7 +4582,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/135",
+      "self_ref": "#/texts/137",
       "parent": {
         "$ref": "#/body"
       },
@@ -4605,7 +4623,7 @@
       "text": "(http://chopstick.com/results.php?k=the-best-deals-on-k- cups&rgid=91170&utm_source=taboola&utm_medium=milenio&utm_campaig Cups_B__MDT&utm_content=2858812251)"
     },
     {
-      "self_ref": "#/texts/136",
+      "self_ref": "#/texts/138",
       "parent": {
         "$ref": "#/body"
       },
@@ -4632,7 +4650,7 @@
       "text": "(http://jaysproducts.net/electric-razor-for-men-by-jtrim-3dflex-wet-drysystem-jpt-gf500/?utm_source=taboola&utm_medium=referral)"
     },
     {
-      "self_ref": "#/texts/137",
+      "self_ref": "#/texts/139",
       "parent": {
         "$ref": "#/body"
       },
@@ -4660,7 +4678,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/138",
+      "self_ref": "#/texts/140",
       "parent": {
         "$ref": "#/body"
       },
@@ -4688,7 +4706,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/139",
+      "self_ref": "#/texts/141",
       "parent": {
         "$ref": "#/body"
       },
@@ -4715,7 +4733,7 @@
       "text": "(http://jaysproducts.net/electric-razor-for-men-by-jtrim-3dflex-wet-drysystem-jpt-gf500/?utm_source=taboola&utm_medium=referral) (https://track.cinderco.com/5d9aee19fcd9a90001700386? sub1=milenio&sub2=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic% 04-"
     },
     {
-      "self_ref": "#/texts/140",
+      "self_ref": "#/texts/142",
       "parent": {
         "$ref": "#/body"
       },
@@ -4742,7 +4760,7 @@
       "text": "24+19%3A07%3A29&sub5=Desktop&sub6=2989499&sub7=2836076193&su"
     },
     {
-      "self_ref": "#/texts/141",
+      "self_ref": "#/texts/143",
       "parent": {
         "$ref": "#/body"
       },
@@ -4770,7 +4788,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/142",
+      "self_ref": "#/texts/144",
       "parent": {
         "$ref": "#/body"
       },
@@ -4798,7 +4816,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/143",
+      "self_ref": "#/texts/145",
       "parent": {
         "$ref": "#/body"
       },
@@ -4825,7 +4843,7 @@
       "text": "(https://track.cinderco.com/5d9aee19fcd9a90001700386? sub1=milenio&sub2=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%"
     },
     {
-      "self_ref": "#/texts/144",
+      "self_ref": "#/texts/146",
       "parent": {
         "$ref": "#/body"
       },
@@ -4852,7 +4870,7 @@
       "text": "04-"
     },
     {
-      "self_ref": "#/texts/145",
+      "self_ref": "#/texts/147",
       "parent": {
         "$ref": "#/body"
       },
@@ -4879,7 +4897,7 @@
       "text": "24+19%3A07%3A29&sub5=Desktop&sub6=2989499&sub7=2836076193&su (http://ou-gz-plumbingservices.gunuj.com/rd?"
     },
     {
-      "self_ref": "#/texts/146",
+      "self_ref": "#/texts/148",
       "parent": {
         "$ref": "#/body"
       },
@@ -4920,7 +4938,7 @@
       "text": "hspart=yahoo&hsimp=yhs- is11a&evtolg=d_serp_imp&p=Plumbers%20Near%20Me&gt0=14&ggb=2&gjl= -tc-131660-spid-2-dmid-14-sid-1084034--&a=gnz_tbl_00_00_--tc131660-spid-2-dmid-14-sid-1084034--"
     },
     {
-      "self_ref": "#/texts/147",
+      "self_ref": "#/texts/149",
       "parent": {
         "$ref": "#/body"
       },
@@ -4961,7 +4979,7 @@
       "text": "&g57=131660&gu8=9877&g1d=6020&gks=TINZU&g8i=0.28&aid=yhsplumbers sc&ghj=2&site=milenio&network=taboola&gr3=milenio&gkf=milenio&glb=4361"
     },
     {
-      "self_ref": "#/texts/148",
+      "self_ref": "#/texts/150",
       "parent": {
         "$ref": "#/body"
       },
@@ -4989,7 +5007,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/149",
+      "self_ref": "#/texts/151",
       "parent": {
         "$ref": "#/body"
       },
@@ -5017,7 +5035,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/150",
+      "self_ref": "#/texts/152",
       "parent": {
         "$ref": "#/body"
       },
@@ -5044,7 +5062,7 @@
       "text": "(http://ou-gz-plumbingservices.gunuj.com/rd?"
     },
     {
-      "self_ref": "#/texts/151",
+      "self_ref": "#/texts/153",
       "parent": {
         "$ref": "#/body"
       },
@@ -5071,7 +5089,7 @@
       "text": "https://www.milenio.com/policia/desaparece-bailarina-en-puerto-vallarta"
     },
     {
-      "self_ref": "#/texts/152",
+      "self_ref": "#/texts/154",
       "parent": {
         "$ref": "#/body"
       },
@@ -5098,7 +5116,7 @@
       "text": "Página 6 de 10"
     },
     {
-      "self_ref": "#/texts/153",
+      "self_ref": "#/texts/155",
       "parent": {
         "$ref": "#/body"
       },
@@ -5125,7 +5143,7 @@
       "text": "Desaparece bailarina en Puerto Vallarta"
     },
     {
-      "self_ref": "#/texts/154",
+      "self_ref": "#/texts/156",
       "parent": {
         "$ref": "#/body"
       },
@@ -5152,7 +5170,7 @@
       "text": "4/24/20 2&09 PM"
     },
     {
-      "self_ref": "#/texts/155",
+      "self_ref": "#/texts/157",
       "parent": {
         "$ref": "#/body"
       },
@@ -5179,7 +5197,7 @@
       "text": "hspart=yahoo&hsimp=yhsis11a&evtolg=d_serp_imp&p=Plumbers%20Near%20Me&gt0=14&ggb=2&gjl= -tc-131660-spid-2-dmid-14-sid-1084034--&a=gnz_tbl_00_00_--tc131660-spid-2-dmid-14-sid-1084034-&g57=131660&gu8=9877&g1d=6020&gks=TINZU&g8i=0.28&aid=yhsplumbers sc&ghj=2&site=milenio&network=taboola&gr3=milenio&gkf=milenio&glb=4361 (https://www.revistafama.com/celebridades/yalitza-aparicio-su-otravida-como-maestra-en-oaxaca? utm_source=taboola&utm_medium=exchange)"
     },
     {
-      "self_ref": "#/texts/156",
+      "self_ref": "#/texts/158",
       "parent": {
         "$ref": "#/body"
       },
@@ -5207,7 +5225,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/157",
+      "self_ref": "#/texts/159",
       "parent": {
         "$ref": "#/body"
       },
@@ -5235,7 +5253,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/158",
+      "self_ref": "#/texts/160",
       "parent": {
         "$ref": "#/body"
       },
@@ -5262,7 +5280,7 @@
       "text": "(https://www.revistafama.com/celebridades/yalitza-aparicio-su-otravida-como-maestra-en-oaxaca?"
     },
     {
-      "self_ref": "#/texts/159",
+      "self_ref": "#/texts/161",
       "parent": {
         "$ref": "#/body"
       },
@@ -5289,7 +5307,7 @@
       "text": "utm_source=taboola&utm_medium=exchange)"
     },
     {
-      "self_ref": "#/texts/160",
+      "self_ref": "#/texts/162",
       "parent": {
         "$ref": "#/body"
       },
@@ -5316,7 +5334,7 @@
       "text": "(https://www.milenio.com/ciencia-y-salud/naturalista-participa-retocapturar-flora-fauna?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/161",
+      "self_ref": "#/texts/163",
       "parent": {
         "$ref": "#/body"
       },
@@ -5344,7 +5362,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/162",
+      "self_ref": "#/texts/164",
       "parent": {
         "$ref": "#/body"
       },
@@ -5372,7 +5390,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/163",
+      "self_ref": "#/texts/165",
       "parent": {
         "$ref": "#/body"
       },
@@ -5413,7 +5431,7 @@
       "text": "(https://www.milenio.com/ciencia-y-salud/naturalista-participa-reto- capturar-flora-fauna?utm_medium=taboola) (https://www.milenio.com/politica/carceles-mexicanas-foco-rojocontagios-masivos-coronavirus?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/164",
+      "self_ref": "#/texts/166",
       "parent": {
         "$ref": "#/body"
       },
@@ -5441,7 +5459,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/165",
+      "self_ref": "#/texts/167",
       "parent": {
         "$ref": "#/body"
       },
@@ -5469,7 +5487,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/166",
+      "self_ref": "#/texts/168",
       "parent": {
         "$ref": "#/body"
       },
@@ -5496,7 +5514,7 @@
       "text": "(https://www.milenio.com/politica/carceles-mexicanas-foco-rojocontagios-masivos-coronavirus?utm_medium=taboola) (https://www.milenio.com/espectaculos/famosos/alejandro-fernandezy-la-historia-detras-de-sus-fotos-mas-polemicas? utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/167",
+      "self_ref": "#/texts/169",
       "parent": {
         "$ref": "#/body"
       },
@@ -5524,7 +5542,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/168",
+      "self_ref": "#/texts/170",
       "parent": {
         "$ref": "#/body"
       },
@@ -5552,7 +5570,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/169",
+      "self_ref": "#/texts/171",
       "parent": {
         "$ref": "#/body"
       },
@@ -5579,7 +5597,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/alejandro-fernandezy-la-historia-detras-de-sus-fotos-mas-polemicas? utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/170",
+      "self_ref": "#/texts/172",
       "parent": {
         "$ref": "#/body"
       },
@@ -5606,7 +5624,7 @@
       "text": "(https://www.milenio.com/ciencia-y-salud/bajo-control-brote-de-covid19-en-el-hospital-general-de-atizapan?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/171",
+      "self_ref": "#/texts/173",
       "parent": {
         "$ref": "#/body"
       },
@@ -5634,7 +5652,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/172",
+      "self_ref": "#/texts/174",
       "parent": {
         "$ref": "#/body"
       },
@@ -5662,7 +5680,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/173",
+      "self_ref": "#/texts/175",
       "parent": {
         "$ref": "#/body"
       },
@@ -5689,7 +5707,7 @@
       "text": "(https://www.milenio.com/ciencia-y-salud/bajo-control-brote-de-covid19-en-el-hospital-general-de-atizapan?utm_medium=taboola) (https://www.milenio.com/opinion/catalina-gomez/columna-catalina-"
     },
     {
-      "self_ref": "#/texts/174",
+      "self_ref": "#/texts/176",
       "parent": {
         "$ref": "#/body"
       },
@@ -5716,7 +5734,7 @@
       "text": "https://www.milenio.com/policia/desaparece-bailarina-en-puerto-vallarta"
     },
     {
-      "self_ref": "#/texts/175",
+      "self_ref": "#/texts/177",
       "parent": {
         "$ref": "#/body"
       },
@@ -5743,7 +5761,7 @@
       "text": "Página 7 de 10"
     },
     {
-      "self_ref": "#/texts/176",
+      "self_ref": "#/texts/178",
       "parent": {
         "$ref": "#/body"
       },
@@ -5770,7 +5788,7 @@
       "text": "Desaparece bailarina en Puerto Vallarta"
     },
     {
-      "self_ref": "#/texts/177",
+      "self_ref": "#/texts/179",
       "parent": {
         "$ref": "#/body"
       },
@@ -5797,7 +5815,7 @@
       "text": "4/24/20 2&09 PM"
     },
     {
-      "self_ref": "#/texts/178",
+      "self_ref": "#/texts/180",
       "parent": {
         "$ref": "#/body"
       },
@@ -5825,7 +5843,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/179",
+      "self_ref": "#/texts/181",
       "parent": {
         "$ref": "#/body"
       },
@@ -5852,7 +5870,7 @@
       "text": "(https://quesalud.net/6-consejos-maquillaje-pielesmaduras/?"
     },
     {
-      "self_ref": "#/texts/180",
+      "self_ref": "#/texts/182",
       "parent": {
         "$ref": "#/body"
       },
@@ -5879,7 +5897,7 @@
       "text": "gomez/los-ninos-de-la-recesion?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/181",
+      "self_ref": "#/texts/183",
       "parent": {
         "$ref": "#/body"
       },
@@ -5907,7 +5925,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/182",
+      "self_ref": "#/texts/184",
       "parent": {
         "$ref": "#/body"
       },
@@ -5935,7 +5953,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/183",
+      "self_ref": "#/texts/185",
       "parent": {
         "$ref": "#/body"
       },
@@ -5976,7 +5994,7 @@
       "text": "(https://www.milenio.com/opinion/catalina-gomez/columna-catalina- utm_source=tb&utm_medium=3194025&utm_campaign=3194025_milenio&utm_content=2848232711)"
     },
     {
-      "self_ref": "#/texts/184",
+      "self_ref": "#/texts/186",
       "parent": {
         "$ref": "#/body"
       },
@@ -6004,7 +6022,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/185",
+      "self_ref": "#/texts/187",
       "parent": {
         "$ref": "#/body"
       },
@@ -6032,7 +6050,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/186",
+      "self_ref": "#/texts/188",
       "parent": {
         "$ref": "#/body"
       },
@@ -6059,7 +6077,7 @@
       "text": "(https://quesalud.net/6-consejos-maquillaje-pielesmaduras/?"
     },
     {
-      "self_ref": "#/texts/187",
+      "self_ref": "#/texts/189",
       "parent": {
         "$ref": "#/body"
       },
@@ -6086,7 +6104,7 @@
       "text": "gomez/los-ninos-de-la-recesion?utm_medium=taboola) (https://www.milenio.com/policia/llevan-cadaver-ejecutado-evitardiligencias-texmelucan?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/188",
+      "self_ref": "#/texts/190",
       "parent": {
         "$ref": "#/body"
       },
@@ -6114,7 +6132,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/189",
+      "self_ref": "#/texts/191",
       "parent": {
         "$ref": "#/body"
       },
@@ -6141,7 +6159,7 @@
       "text": "utm_source=tb&utm_medium=3194025&utm_campaign=3194025_milenio&utm_content=2848232711) Milenio"
     },
     {
-      "self_ref": "#/texts/190",
+      "self_ref": "#/texts/192",
       "parent": {
         "$ref": "#/body"
       },
@@ -6168,7 +6186,7 @@
       "text": "(https://www.milenio.com/policia/llevan-cadaver-ejecutado-evitardiligencias-texmelucan?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/191",
+      "self_ref": "#/texts/193",
       "parent": {
         "$ref": "#/body"
       },
@@ -6195,7 +6213,7 @@
       "text": "(https://www.milenio.com/politica/comunidad/leon-iluminan-torrejardin-mensaje-fe?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/192",
+      "self_ref": "#/texts/194",
       "parent": {
         "$ref": "#/body"
       },
@@ -6222,7 +6240,7 @@
       "text": "(https://falafelandcaviar.com/post-81554943/? dai=6MBRGg1hG3m9k4ITf0x86&utm_source=taboolaem&utm_campaign=em-us-d-fnc-epmanen-290320c282&utm_medium=tb4213380_1084034&utm_term=milenio&fpCode=uvegvxav)"
     },
     {
-      "self_ref": "#/texts/193",
+      "self_ref": "#/texts/195",
       "parent": {
         "$ref": "#/body"
       },
@@ -6250,7 +6268,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/194",
+      "self_ref": "#/texts/196",
       "parent": {
         "$ref": "#/body"
       },
@@ -6278,7 +6296,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/195",
+      "self_ref": "#/texts/197",
       "parent": {
         "$ref": "#/body"
       },
@@ -6305,7 +6323,7 @@
       "text": "(https://falafelandcaviar.com/post-81554943/? dai=6MBRGg1hG3m9k4ITf0x86&utm_source=taboolaem&utm_campaign=em-us-d-fnc-epmanen-290320c282&utm_medium=tb4213380_1084034&utm_term=milenio&fpCode=uvegvxav)"
     },
     {
-      "self_ref": "#/texts/196",
+      "self_ref": "#/texts/198",
       "parent": {
         "$ref": "#/body"
       },
@@ -6333,7 +6351,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/197",
+      "self_ref": "#/texts/199",
       "parent": {
         "$ref": "#/body"
       },
@@ -6361,7 +6379,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/198",
+      "self_ref": "#/texts/200",
       "parent": {
         "$ref": "#/body"
       },
@@ -6388,7 +6406,7 @@
       "text": "(https://www.milenio.com/politica/comunidad/leon-iluminan-torrejardin-mensaje-fe?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/199",
+      "self_ref": "#/texts/201",
       "parent": {
         "$ref": "#/body"
       },
@@ -6415,7 +6433,7 @@
       "text": "(https://www.milenio.com/politica/coronavirus-unam-hara-pruebacovid-19-publico?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/200",
+      "self_ref": "#/texts/202",
       "parent": {
         "$ref": "#/body"
       },
@@ -6442,7 +6460,7 @@
       "text": "milenio&utm_medium=referral&utm_content=thumbnails-rr3:Right Rail Thumbnails:)"
     },
     {
-      "self_ref": "#/texts/201",
+      "self_ref": "#/texts/203",
       "parent": {
         "$ref": "#/body"
       },
@@ -6470,7 +6488,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/202",
+      "self_ref": "#/texts/204",
       "parent": {
         "$ref": "#/body"
       },
@@ -6498,7 +6516,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/203",
+      "self_ref": "#/texts/205",
       "parent": {
         "$ref": "#/body"
       },
@@ -6525,7 +6543,7 @@
       "text": "(https://www.milenio.com/politica/coronavirus-unam-hara-pruebacovid-19-publico?utm_medium=taboola) (https://www.milenio.com/politica/comunidad/guanajuatenses-buscanopcion-generar-ingresos-falta-remesas? __twitter_impression=true&utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/204",
+      "self_ref": "#/texts/206",
       "parent": {
         "$ref": "#/body"
       },
@@ -6553,7 +6571,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/205",
+      "self_ref": "#/texts/207",
       "parent": {
         "$ref": "#/body"
       },
@@ -6581,7 +6599,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/206",
+      "self_ref": "#/texts/208",
       "parent": {
         "$ref": "#/body"
       },
@@ -6608,7 +6626,7 @@
       "text": "(https://www.milenio.com/politica/comunidad/guanajuatenses-buscanopcion-generar-ingresos-falta-remesas?"
     },
     {
-      "self_ref": "#/texts/207",
+      "self_ref": "#/texts/209",
       "parent": {
         "$ref": "#/body"
       },
@@ -6635,7 +6653,7 @@
       "text": "__twitter_impression=true&utm_medium=taboola) (https://www.milenio.com/deportes/futbol-internacional/covid-19corea-sur-prueba-medidas-prevencion-amistoso? utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/208",
+      "self_ref": "#/texts/210",
       "parent": {
         "$ref": "#/body"
       },
@@ -6663,7 +6681,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/209",
+      "self_ref": "#/texts/211",
       "parent": {
         "$ref": "#/body"
       },
@@ -6691,7 +6709,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/210",
+      "self_ref": "#/texts/212",
       "parent": {
         "$ref": "#/body"
       },
@@ -6718,7 +6736,7 @@
       "text": "(https://www.milenio.com/deportes/futbol-internacional/covid-19corea-sur-prueba-medidas-prevencion-amistoso?"
     },
     {
-      "self_ref": "#/texts/211",
+      "self_ref": "#/texts/213",
       "parent": {
         "$ref": "#/body"
       },
@@ -6745,7 +6763,7 @@
       "text": "https://www.milenio.com/policia/desaparece-bailarina-en-puerto-vallarta"
     },
     {
-      "self_ref": "#/texts/212",
+      "self_ref": "#/texts/214",
       "parent": {
         "$ref": "#/body"
       },
@@ -6772,7 +6790,7 @@
       "text": "Página 8 de 10"
     },
     {
-      "self_ref": "#/texts/213",
+      "self_ref": "#/texts/215",
       "parent": {
         "$ref": "#/body"
       },
@@ -6799,7 +6817,7 @@
       "text": "Desaparece bailarina en Puerto Vallarta"
     },
     {
-      "self_ref": "#/texts/214",
+      "self_ref": "#/texts/216",
       "parent": {
         "$ref": "#/body"
       },
@@ -6826,7 +6844,7 @@
       "text": "4/24/20 2&09 PM"
     },
     {
-      "self_ref": "#/texts/215",
+      "self_ref": "#/texts/217",
       "parent": {
         "$ref": "#/body"
       },
@@ -6853,7 +6871,7 @@
       "text": "utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/216",
+      "self_ref": "#/texts/218",
       "parent": {
         "$ref": "#/body"
       },
@@ -6880,7 +6898,7 @@
       "text": "(https://www.milenio.com/deportes/extra-cancha/jose-ramon-lapregunta-que-lo-hizo-llorar-en-una-entrevista?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/217",
+      "self_ref": "#/texts/219",
       "parent": {
         "$ref": "#/body"
       },
@@ -6908,7 +6926,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/218",
+      "self_ref": "#/texts/220",
       "parent": {
         "$ref": "#/body"
       },
@@ -6936,7 +6954,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/219",
+      "self_ref": "#/texts/221",
       "parent": {
         "$ref": "#/body"
       },
@@ -6963,7 +6981,7 @@
       "text": "(https://www.milenio.com/deportes/extra-cancha/jose-ramon-lapregunta-que-lo-hizo-llorar-en-una-entrevista?utm_medium=taboola) (https://www.milenio.com/espectaculos/musica/ximena-sarinana-seune-a-chingonesunidosxmexico?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/220",
+      "self_ref": "#/texts/222",
       "parent": {
         "$ref": "#/body"
       },
@@ -6991,7 +7009,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/221",
+      "self_ref": "#/texts/223",
       "parent": {
         "$ref": "#/body"
       },
@@ -7019,7 +7037,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/222",
+      "self_ref": "#/texts/224",
       "parent": {
         "$ref": "#/body"
       },
@@ -7046,7 +7064,7 @@
       "text": "(https://www.milenio.com/espectaculos/musica/ximena-sarinana-seune-a-chingonesunidosxmexico?utm_medium=taboola)"
     },
     {
-      "self_ref": "#/texts/223",
+      "self_ref": "#/texts/225",
       "parent": {
         "$ref": "#/body"
       },
@@ -7074,7 +7092,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/224",
+      "self_ref": "#/texts/226",
       "parent": {
         "$ref": "#/body"
       },
@@ -7102,7 +7120,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/225",
+      "self_ref": "#/texts/227",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -7129,7 +7147,7 @@
       "text": "Almomento"
     },
     {
-      "self_ref": "#/texts/226",
+      "self_ref": "#/texts/228",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -7156,7 +7174,7 @@
       "text": "Buscan ahorro de 622 mil mdp con nuevo plan"
     },
     {
-      "self_ref": "#/texts/227",
+      "self_ref": "#/texts/229",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -7183,7 +7201,7 @@
       "text": "Fase 3"
     },
     {
-      "self_ref": "#/texts/228",
+      "self_ref": "#/texts/230",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -7210,7 +7228,7 @@
       "text": "FALLECIDOS 970"
     },
     {
-      "self_ref": "#/texts/229",
+      "self_ref": "#/texts/231",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -7237,7 +7255,7 @@
       "text": "10.21"
     },
     {
-      "self_ref": "#/texts/230",
+      "self_ref": "#/texts/232",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -7264,7 +7282,7 @@
       "text": "TiULARES"
     },
     {
-      "self_ref": "#/texts/231",
+      "self_ref": "#/texts/233",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -7291,7 +7309,7 @@
       "text": "ASA"
     },
     {
-      "self_ref": "#/texts/232",
+      "self_ref": "#/texts/234",
       "parent": {
         "$ref": "#/pictures/9"
       },
@@ -7318,7 +7336,7 @@
       "text": "Newsfeed"
     },
     {
-      "self_ref": "#/texts/233",
+      "self_ref": "#/texts/235",
       "parent": {
         "$ref": "#/body"
       },
@@ -7345,7 +7363,7 @@
       "text": "https://www.milenio.com/policia/desaparece-bailarina-en-puerto-vallarta"
     },
     {
-      "self_ref": "#/texts/234",
+      "self_ref": "#/texts/236",
       "parent": {
         "$ref": "#/body"
       },
@@ -7372,7 +7390,7 @@
       "text": "Página 9 de 10"
     },
     {
-      "self_ref": "#/texts/235",
+      "self_ref": "#/texts/237",
       "parent": {
         "$ref": "#/body"
       },
@@ -7399,7 +7417,7 @@
       "text": "Desaparece bailarina en Puerto Vallarta"
     },
     {
-      "self_ref": "#/texts/236",
+      "self_ref": "#/texts/238",
       "parent": {
         "$ref": "#/body"
       },
@@ -7426,7 +7444,7 @@
       "text": "4/24/20 2&09 PM"
     },
     {
-      "self_ref": "#/texts/237",
+      "self_ref": "#/texts/239",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -7453,9 +7471,9 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/238",
+      "self_ref": "#/texts/240",
       "parent": {
-        "$ref": "#/groups/5"
+        "$ref": "#/groups/4"
       },
       "children": [],
       "content_layer": "body",
@@ -7482,9 +7500,9 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/239",
+      "self_ref": "#/texts/241",
       "parent": {
-        "$ref": "#/groups/4"
+        "$ref": "#/groups/3"
       },
       "children": [],
       "content_layer": "body",
@@ -7509,9 +7527,9 @@
       "text": "Directorio Privacidad"
     },
     {
-      "self_ref": "#/texts/240",
+      "self_ref": "#/texts/242",
       "parent": {
-        "$ref": "#/groups/4"
+        "$ref": "#/groups/3"
       },
       "children": [],
       "content_layer": "body",
@@ -7536,9 +7554,9 @@
       "text": "Aviso Legal"
     },
     {
-      "self_ref": "#/texts/241",
+      "self_ref": "#/texts/243",
       "parent": {
-        "$ref": "#/groups/4"
+        "$ref": "#/groups/3"
       },
       "children": [],
       "content_layer": "body",
@@ -7563,9 +7581,9 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/242",
+      "self_ref": "#/texts/244",
       "parent": {
-        "$ref": "#/groups/4"
+        "$ref": "#/groups/3"
       },
       "children": [],
       "content_layer": "body",
@@ -7591,9 +7609,9 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/243",
+      "self_ref": "#/texts/245",
       "parent": {
-        "$ref": "#/groups/4"
+        "$ref": "#/groups/3"
       },
       "children": [],
       "content_layer": "body",
@@ -7618,9 +7636,9 @@
       "text": "Ordenar por"
     },
     {
-      "self_ref": "#/texts/244",
+      "self_ref": "#/texts/246",
       "parent": {
-        "$ref": "#/groups/4"
+        "$ref": "#/groups/3"
       },
       "children": [],
       "content_layer": "body",
@@ -7645,9 +7663,9 @@
       "text": "Plugin de comentarios de Facebook"
     },
     {
-      "self_ref": "#/texts/245",
+      "self_ref": "#/texts/247",
       "parent": {
-        "$ref": "#/groups/4"
+        "$ref": "#/groups/3"
       },
       "children": [],
       "content_layer": "body",
@@ -7672,9 +7690,9 @@
       "text": "Más antiguos"
     },
     {
-      "self_ref": "#/texts/246",
+      "self_ref": "#/texts/248",
       "parent": {
-        "$ref": "#/groups/4"
+        "$ref": "#/groups/3"
       },
       "children": [],
       "content_layer": "body",
@@ -7699,9 +7717,9 @@
       "text": "Agregar un comentario..."
     },
     {
-      "self_ref": "#/texts/247",
+      "self_ref": "#/texts/249",
       "parent": {
-        "$ref": "#/groups/4"
+        "$ref": "#/groups/3"
       },
       "children": [],
       "content_layer": "body",
@@ -7726,9 +7744,9 @@
       "text": "Utilizamos cookies para darte la mejor experiencia de (https://gadgets.feedbox.info/10-new-gadgets-for-your-bicycle/?utm_source=taboola3&utm_medium=bikegadgets&utm_term=1084034&utm_conte"
     },
     {
-      "self_ref": "#/texts/248",
+      "self_ref": "#/texts/250",
       "parent": {
-        "$ref": "#/groups/4"
+        "$ref": "#/groups/3"
       },
       "children": [],
       "content_layer": "body",
@@ -7753,9 +7771,9 @@
       "text": "storytimes | Patrocinado (https://popup.taboola.com/es/?template=colorbox&utm_source=milenio&utm_medium=referral&utm_content=alte Los ni-os de la recesi-n"
     },
     {
-      "self_ref": "#/texts/249",
+      "self_ref": "#/texts/251",
       "parent": {
-        "$ref": "#/groups/4"
+        "$ref": "#/groups/3"
       },
       "children": [],
       "content_layer": "body",
@@ -7781,9 +7799,9 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/250",
+      "self_ref": "#/texts/252",
       "parent": {
-        "$ref": "#/groups/4"
+        "$ref": "#/groups/3"
       },
       "children": [],
       "content_layer": "body",
@@ -7808,7 +7826,7 @@
       "text": "Read Next Story"
     },
     {
-      "self_ref": "#/texts/251",
+      "self_ref": "#/texts/253",
       "parent": {
         "$ref": "#/body"
       },
@@ -7835,7 +7853,7 @@
       "text": "https://www.milenio.com/policia/desaparece-bailarina-en-puerto-vallarta"
     },
     {
-      "self_ref": "#/texts/252",
+      "self_ref": "#/texts/254",
       "parent": {
         "$ref": "#/body"
       },
@@ -7879,10 +7897,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 26.043306350708008,
-            "t": 662.6460266113281,
-            "r": 41.21642303466797,
-            "b": 647.3687744140625,
+            "l": 26.042348861694336,
+            "t": 662.6465148925781,
+            "r": 41.216548919677734,
+            "b": 647.3689575195312,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7908,10 +7926,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 346.34454345703125,
-            "t": 711.5526580810547,
-            "r": 427.1191101074219,
-            "b": 680.146842956543,
+            "l": 346.3023986816406,
+            "t": 711.5530090332031,
+            "r": 427.1200866699219,
+            "b": 680.1471328735352,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7947,10 +7965,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 144.86428833007812,
-            "t": 431.3972473144531,
-            "r": 467.2239074707031,
-            "b": 369.4090270996094,
+            "l": 144.8644256591797,
+            "t": 431.3968811035156,
+            "r": 467.2209167480469,
+            "b": 369.4075622558594,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7980,10 +7998,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 568.6563110351562,
+            "l": 568.656005859375,
             "t": 704.9335174560547,
-            "r": 586.3916015625,
-            "b": 686.9577941894531,
+            "r": 586.3920288085938,
+            "b": 686.9568481445312,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8013,10 +8031,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 29.267335891723633,
-            "t": 750.8794555664062,
-            "r": 582.8322143554688,
-            "b": 271.3538818359375,
+            "l": 29.266679763793945,
+            "t": 750.8799514770508,
+            "r": 582.8323974609375,
+            "b": 271.353271484375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8050,10 +8068,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 489.916015625,
-            "t": 242.8873291015625,
-            "r": 512.3795776367188,
-            "b": 216.064453125,
+            "l": 489.915771484375,
+            "t": 242.88720703125,
+            "r": 512.3798217773438,
+            "b": 216.06439208984375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8083,10 +8101,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 518.2845458984375,
-            "t": 242.873291015625,
-            "r": 540.8214721679688,
-            "b": 215.90570068359375,
+            "l": 518.2846069335938,
+            "t": 242.87335205078125,
+            "r": 540.8207397460938,
+            "b": 215.9056396484375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8112,10 +8130,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 305.9410400390625,
-            "t": 243.23095703125,
-            "r": 328.3745422363281,
-            "b": 223.10614013671875,
+            "l": 305.94036865234375,
+            "t": 243.23138427734375,
+            "r": 328.373779296875,
+            "b": 223.10546875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8136,12 +8154,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/225"
-        },
-        {
-          "$ref": "#/texts/226"
-        },
-        {
           "$ref": "#/texts/227"
         },
         {
@@ -8155,6 +8167,12 @@
         },
         {
           "$ref": "#/texts/231"
+        },
+        {
+          "$ref": "#/texts/232"
+        },
+        {
+          "$ref": "#/texts/233"
         }
       ],
       "content_layer": "body",
@@ -8164,9 +8182,9 @@
           "page_no": 9,
           "bbox": {
             "l": 313.4630432128906,
-            "t": 373.45965576171875,
-            "r": 570.1072998046875,
-            "b": 227.89178466796875,
+            "t": 373.4601745605469,
+            "r": 570.10693359375,
+            "b": 227.89190673828125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8187,7 +8205,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/232"
+          "$ref": "#/texts/234"
         }
       ],
       "content_layer": "body",
@@ -8196,10 +8214,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 482.3717041015625,
-            "t": 165.137451171875,
-            "r": 570.177978515625,
-            "b": 153.07470703125,
+            "l": 482.3715515136719,
+            "t": 165.13861083984375,
+            "r": 570.1785888671875,
+            "b": 153.07452392578125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8225,10 +8243,10 @@
         {
           "page_no": 10,
           "bbox": {
-            "l": 47.308937072753906,
-            "t": 696.6558532714844,
-            "r": 87.63471984863281,
-            "b": 656.1043243408203,
+            "l": 47.30839538574219,
+            "t": 696.6571197509766,
+            "r": 87.63501739501953,
+            "b": 656.1041717529297,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -8249,7 +8267,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/237"
+          "$ref": "#/texts/239"
         }
       ],
       "content_layer": "body",
@@ -8258,10 +8276,10 @@
         {
           "page_no": 10,
           "bbox": {
-            "l": 560.7376098632812,
-            "t": 556.6323394775391,
-            "r": 570.6744995117188,
-            "b": 544.2552490234375,
+            "l": 560.737060546875,
+            "t": 556.6333770751953,
+            "r": 570.6746215820312,
+            "b": 544.2564849853516,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

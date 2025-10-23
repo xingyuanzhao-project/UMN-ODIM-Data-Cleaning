@@ -132,13 +132,13 @@
         "$ref": "#/pictures/7"
       },
       {
+        "$ref": "#/texts/39"
+      },
+      {
         "$ref": "#/pictures/8"
       },
       {
         "$ref": "#/pictures/9"
-      },
-      {
-        "$ref": "#/texts/41"
       },
       {
         "$ref": "#/texts/42"
@@ -147,16 +147,19 @@
         "$ref": "#/texts/43"
       },
       {
-        "$ref": "#/pictures/10"
+        "$ref": "#/texts/44"
       },
       {
-        "$ref": "#/texts/44"
+        "$ref": "#/pictures/10"
       },
       {
         "$ref": "#/texts/45"
       },
       {
         "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
       }
     ],
     "content_layer": "body",
@@ -1250,21 +1253,48 @@
           "bbox": {
             "l": 224.708,
             "t": 295.913,
+            "r": 353.891,
+            "b": 285.151,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Denuncian desaparición de",
+      "text": "Denuncian desaparición de"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 224.708,
+            "t": 281.682,
             "r": 379.69,
             "b": 270.9200000000001,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             0,
-            58
+            32
           ]
         }
       ],
-      "orig": "Denuncian desaparición de Gonzalo Molina, integrante de la",
-      "text": "Denuncian desaparición de Gonzalo Molina, integrante de la"
+      "orig": "Gonzalo Molina, integrante de la",
+      "text": "Gonzalo Molina, integrante de la"
     },
     {
-      "self_ref": "#/texts/39",
+      "self_ref": "#/texts/40",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -1291,7 +1321,7 @@
       "text": "CRAC en Tixtla 28/03/2019 09:21 Save to Facebook"
     },
     {
-      "self_ref": "#/texts/40",
+      "self_ref": "#/texts/41",
       "parent": {
         "$ref": "#/pictures/9"
       },
@@ -1318,7 +1348,7 @@
       "text": "Aseguran a 4 policías de Aguascalientes por desaparición forzada"
     },
     {
-      "self_ref": "#/texts/41",
+      "self_ref": "#/texts/42",
       "parent": {
         "$ref": "#/body"
       },
@@ -1345,7 +1375,7 @@
       "text": "09/04/2019 09:32"
     },
     {
-      "self_ref": "#/texts/42",
+      "self_ref": "#/texts/43",
       "parent": {
         "$ref": "#/body"
       },
@@ -1372,7 +1402,7 @@
       "text": "Save to Facebook"
     },
     {
-      "self_ref": "#/texts/43",
+      "self_ref": "#/texts/44",
       "parent": {
         "$ref": "#/body"
       },
@@ -1399,7 +1429,7 @@
       "text": "Sort by"
     },
     {
-      "self_ref": "#/texts/44",
+      "self_ref": "#/texts/45",
       "parent": {
         "$ref": "#/body"
       },
@@ -1426,7 +1456,7 @@
       "text": "Oldest"
     },
     {
-      "self_ref": "#/texts/45",
+      "self_ref": "#/texts/46",
       "parent": {
         "$ref": "#/body"
       },
@@ -1453,7 +1483,7 @@
       "text": "https://www.sdpnoticias.com/estados/2013/06/20/desaparece-chef-argentino-en-guadalajara-hallan-su-camioneta-en-michoacan"
     },
     {
-      "self_ref": "#/texts/46",
+      "self_ref": "#/texts/47",
       "parent": {
         "$ref": "#/body"
       },
@@ -1493,10 +1523,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 37.8723258972168,
-            "t": 751.6712417602539,
-            "r": 52.33053207397461,
-            "b": 739.8437385559082,
+            "l": 37.871795654296875,
+            "t": 751.6716003417969,
+            "r": 52.33060836791992,
+            "b": 739.8440818786621,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1522,10 +1552,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 70.78118896484375,
-            "t": 750.425724029541,
-            "r": 137.37088012695312,
-            "b": 741.2502975463867,
+            "l": 70.78133392333984,
+            "t": 750.4259986877441,
+            "r": 137.37045288085938,
+            "b": 741.2502822875977,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1555,10 +1585,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 50.673583984375,
-            "t": 611.4935302734375,
-            "r": 97.45211029052734,
-            "b": 595.5005950927734,
+            "l": 50.67342758178711,
+            "t": 611.4942932128906,
+            "r": 97.45267486572266,
+            "b": 595.5001525878906,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1588,10 +1618,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 35.09187698364258,
-            "t": 571.4189453125,
-            "r": 501.71502685546875,
-            "b": 307.6288146972656,
+            "l": 35.091896057128906,
+            "t": 571.4197235107422,
+            "r": 501.7157897949219,
+            "b": 307.6287841796875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1621,10 +1651,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 37.83439254760742,
-            "t": 751.7679862976074,
-            "r": 52.29070281982422,
-            "b": 739.8360404968262,
+            "l": 37.83316421508789,
+            "t": 751.7675895690918,
+            "r": 52.29108428955078,
+            "b": 739.8363151550293,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1663,10 +1693,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 51.432456970214844,
-            "t": 393.9363098144531,
-            "r": 200.91976928710938,
-            "b": 307.7568359375,
+            "l": 51.43163299560547,
+            "t": 393.9368591308594,
+            "r": 200.92037963867188,
+            "b": 307.7575988769531,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1696,10 +1726,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 98.05936431884766,
+            "l": 98.05857849121094,
             "t": 254.4920654296875,
-            "r": 107.41849517822266,
-            "b": 243.0089111328125,
+            "r": 107.41858673095703,
+            "b": 243.00823974609375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1729,10 +1759,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 230.2153778076172,
-            "t": 393.69024658203125,
-            "r": 381.6629638671875,
-            "b": 307.7190856933594,
+            "l": 230.21546936035156,
+            "t": 393.6899719238281,
+            "r": 381.66259765625,
+            "b": 307.72021484375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1757,7 +1787,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/39"
+          "$ref": "#/texts/40"
         }
       ],
       "content_layer": "body",
@@ -1766,10 +1796,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 278.07073974609375,
-            "t": 254.11181640625,
-            "r": 287.0166015625,
-            "b": 242.438720703125,
+            "l": 278.0719299316406,
+            "t": 254.11163330078125,
+            "r": 287.0169982910156,
+            "b": 242.4388427734375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1780,7 +1810,7 @@
       ],
       "captions": [
         {
-          "$ref": "#/texts/39"
+          "$ref": "#/texts/40"
         }
       ],
       "references": [],
@@ -1794,7 +1824,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/40"
+          "$ref": "#/texts/41"
         }
       ],
       "content_layer": "body",
@@ -1803,10 +1833,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 411.3857727050781,
-            "t": 392.9880065917969,
-            "r": 562.00537109375,
-            "b": 307.8248291015625,
+            "l": 411.3848876953125,
+            "t": 392.98834228515625,
+            "r": 562.0064697265625,
+            "b": 307.82391357421875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1817,7 +1847,7 @@
       ],
       "captions": [
         {
-          "$ref": "#/texts/40"
+          "$ref": "#/texts/41"
         }
       ],
       "references": [],
@@ -1836,10 +1866,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 457.8217468261719,
-            "t": 254.45196533203125,
-            "r": 467.1038818359375,
-            "b": 243.1705322265625,
+            "l": 457.82000732421875,
+            "t": 254.451904296875,
+            "r": 467.1044006347656,
+            "b": 243.1695556640625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

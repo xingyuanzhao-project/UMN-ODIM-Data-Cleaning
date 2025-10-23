@@ -126,22 +126,7 @@
         "$ref": "#/pictures/7"
       },
       {
-        "$ref": "#/pictures/8"
-      },
-      {
-        "$ref": "#/texts/36"
-      },
-      {
-        "$ref": "#/pictures/9"
-      },
-      {
-        "$ref": "#/texts/38"
-      },
-      {
-        "$ref": "#/pictures/10"
-      },
-      {
-        "$ref": "#/pictures/11"
+        "$ref": "#/texts/43"
       },
       {
         "$ref": "#/texts/44"
@@ -1026,196 +1011,7 @@
     {
       "self_ref": "#/texts/32",
       "parent": {
-        "$ref": "#/pictures/8"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 2,
-          "bbox": {
-            "l": 332.791,
-            "t": 886.980873984375,
-            "r": 420.83,
-            "b": 881.738873984375,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            15
-          ]
-        }
-      ],
-      "orig": "CAMIONETA CAE A",
-      "text": "CAMIONETA CAE A"
-    },
-    {
-      "self_ref": "#/texts/33",
-      "parent": {
-        "$ref": "#/pictures/8"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 2,
-          "bbox": {
-            "l": 332.791,
-            "t": 875.723873984375,
-            "r": 427.109,
-            "b": 870.480873984375,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            16
-          ]
-        }
-      ],
-      "orig": "LAS AGUAS NEGRAS",
-      "text": "LAS AGUAS NEGRAS"
-    },
-    {
-      "self_ref": "#/texts/34",
-      "parent": {
-        "$ref": "#/pictures/8"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 2,
-          "bbox": {
-            "l": 332.791,
-            "t": 860.413873984375,
-            "r": 401.943,
-            "b": 855.9778739843749,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            14
-          ]
-        }
-      ],
-      "orig": "POST SIGUIENTE",
-      "text": "POST SIGUIENTE"
-    },
-    {
-      "self_ref": "#/texts/35",
-      "parent": {
-        "$ref": "#/pictures/8"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 2,
-          "bbox": {
-            "l": 332.791,
-            "t": 846.146873984375,
-            "r": 337.951,
-            "b": 841.252873984375,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            1
-          ]
-        }
-      ],
-      "orig": "",
-      "text": ""
-    },
-    {
-      "self_ref": "#/texts/36",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 2,
-          "bbox": {
-            "l": 236.33333333333334,
-            "t": 793.7465006510417,
-            "r": 370.3333333333333,
-            "b": 768.4131673177084,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            13
-          ]
-        }
-      ],
-      "orig": "Desintoxícate",
-      "text": "Desintoxícate"
-    },
-    {
-      "self_ref": "#/texts/37",
-      "parent": {
-        "$ref": "#/pictures/9"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 2,
-          "bbox": {
-            "l": 409.6666666666667,
-            "t": 794.079833984375,
-            "r": 503.0,
-            "b": 760.4131673177084,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            7
-          ]
-        }
-      ],
-      "orig": "magktea",
-      "text": "magktea"
-    },
-    {
-      "self_ref": "#/texts/38",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 2,
-          "bbox": {
-            "l": 304.261,
-            "t": 624.692873984375,
-            "r": 516.235,
-            "b": 619.800873984375,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            51
-          ]
-        }
-      ],
-      "orig": "© 2019 El Buen Tono. Todos los derechos reservados.",
-      "text": "© 2019 El Buen Tono. Todos los derechos reservados."
-    },
-    {
-      "self_ref": "#/texts/39",
-      "parent": {
-        "$ref": "#/pictures/10"
+        "$ref": "#/pictures/7"
       },
       "children": [],
       "content_layer": "body",
@@ -1240,9 +1036,9 @@
       "text": "TERMINAN"
     },
     {
-      "self_ref": "#/texts/40",
+      "self_ref": "#/texts/33",
       "parent": {
-        "$ref": "#/pictures/10"
+        "$ref": "#/pictures/7"
       },
       "children": [],
       "content_layer": "body",
@@ -1267,9 +1063,9 @@
       "text": "CALCINADOS"
     },
     {
-      "self_ref": "#/texts/41",
+      "self_ref": "#/texts/34",
       "parent": {
-        "$ref": "#/pictures/10"
+        "$ref": "#/pictures/7"
       },
       "children": [],
       "content_layer": "body",
@@ -1294,9 +1090,9 @@
       "text": "POST ANTERIOR"
     },
     {
-      "self_ref": "#/texts/42",
+      "self_ref": "#/texts/35",
       "parent": {
-        "$ref": "#/pictures/10"
+        "$ref": "#/pictures/7"
       },
       "children": [],
       "content_layer": "body",
@@ -1321,9 +1117,117 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/43",
+      "self_ref": "#/texts/36",
       "parent": {
-        "$ref": "#/pictures/10"
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 332.791,
+            "t": 886.980873984375,
+            "r": 420.83,
+            "b": 881.738873984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "CAMIONETA CAE A",
+      "text": "CAMIONETA CAE A"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 332.791,
+            "t": 875.723873984375,
+            "r": 427.109,
+            "b": 870.480873984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "LAS AGUAS NEGRAS",
+      "text": "LAS AGUAS NEGRAS"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 332.791,
+            "t": 860.413873984375,
+            "r": 401.943,
+            "b": 855.9778739843749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "POST SIGUIENTE",
+      "text": "POST SIGUIENTE"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 332.791,
+            "t": 846.146873984375,
+            "r": 337.951,
+            "b": 841.252873984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/7"
       },
       "children": [],
       "content_layer": "body",
@@ -1346,6 +1250,87 @@
       ],
       "orig": "CLBue",
       "text": "CLBue"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 236.33333333333334,
+            "t": 793.7465006510417,
+            "r": 370.3333333333333,
+            "b": 768.4131673177084,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Desintoxícate",
+      "text": "Desintoxícate"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 409.6666666666667,
+            "t": 794.079833984375,
+            "r": 503.0,
+            "b": 760.4131673177084,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "magktea",
+      "text": "magktea"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 304.261,
+            "t": 624.692873984375,
+            "r": 516.235,
+            "b": 619.800873984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "© 2019 El Buen Tono. Todos los derechos reservados.",
+      "text": "© 2019 El Buen Tono. Todos los derechos reservados."
     },
     {
       "self_ref": "#/texts/44",
@@ -1415,10 +1400,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 38.50370788574219,
-            "t": 1090.2780838012695,
-            "r": 515.4096069335938,
-            "b": 825.5729370117188,
+            "l": 38.503379821777344,
+            "t": 1090.280776977539,
+            "r": 515.4093017578125,
+            "b": 825.5718383789062,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1444,10 +1429,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 38.7447395324707,
-            "t": 652.712890625,
-            "r": 515.3146362304688,
-            "b": 359.48858642578125,
+            "l": 38.74428939819336,
+            "t": 652.7129516601562,
+            "r": 515.3150634765625,
+            "b": 359.488525390625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1478,9 +1463,9 @@
           "page_no": 1,
           "bbox": {
             "l": 534.5994873046875,
-            "t": 1056.0797729492188,
-            "r": 612.248046875,
-            "b": 979.60400390625,
+            "t": 1056.0807037353516,
+            "r": 612.247314453125,
+            "b": 979.6020660400391,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1507,9 +1492,9 @@
           "page_no": 1,
           "bbox": {
             "l": 534.9546508789062,
-            "t": 966.5221405029297,
+            "t": 966.5225524902344,
             "r": 611.9281005859375,
-            "b": 889.8258666992188,
+            "b": 889.8243713378906,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1535,10 +1520,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 534.6580200195312,
+            "l": 534.65771484375,
             "t": 875.916748046875,
-            "r": 611.5855102539062,
-            "b": 799.7098693847656,
+            "r": 611.58642578125,
+            "b": 799.7099609375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1564,10 +1549,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 534.5206298828125,
-            "t": 785.5684814453125,
-            "r": 612.0639038085938,
-            "b": 709.5420837402344,
+            "l": 534.5214233398438,
+            "t": 785.5689086914062,
+            "r": 612.0633544921875,
+            "b": 709.5425720214844,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1600,10 +1585,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 734.0794677734375,
-            "t": 1141.04935836792,
-            "r": 773.0459594726562,
-            "b": 1127.1338272094727,
+            "l": 734.0791625976562,
+            "t": 1141.0486869812012,
+            "r": 773.0446166992188,
+            "b": 1127.133445739746,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -1625,37 +1610,7 @@
       "children": [
         {
           "$ref": "#/texts/31"
-        }
-      ],
-      "content_layer": "body",
-      "label": "picture",
-      "prov": [
-        {
-          "page_no": 2,
-          "bbox": {
-            "l": 441.4215087890625,
-            "t": 956.9505004882812,
-            "r": 514.9462280273438,
-            "b": 939.5391540527344,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            0
-          ]
-        }
-      ],
-      "captions": [],
-      "references": [],
-      "footnotes": [],
-      "annotations": []
-    },
-    {
-      "self_ref": "#/pictures/8",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [
+        },
         {
           "$ref": "#/texts/32"
         },
@@ -1667,70 +1622,16 @@
         },
         {
           "$ref": "#/texts/35"
-        }
-      ],
-      "content_layer": "body",
-      "label": "picture",
-      "prov": [
+        },
         {
-          "page_no": 2,
-          "bbox": {
-            "l": 324.3570556640625,
-            "t": 903.2605590820312,
-            "r": 513.894775390625,
-            "b": 825.7231750488281,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            0
-          ]
-        }
-      ],
-      "captions": [],
-      "references": [],
-      "footnotes": [],
-      "annotations": []
-    },
-    {
-      "self_ref": "#/pictures/9",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [
+          "$ref": "#/texts/36"
+        },
         {
           "$ref": "#/texts/37"
-        }
-      ],
-      "content_layer": "body",
-      "label": "picture",
-      "prov": [
+        },
         {
-          "page_no": 2,
-          "bbox": {
-            "l": 412.6581115722656,
-            "t": 798.43603515625,
-            "r": 498.711669921875,
-            "b": 759.1082153320312,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            0
-          ]
-        }
-      ],
-      "captions": [],
-      "references": [],
-      "footnotes": [],
-      "annotations": []
-    },
-    {
-      "self_ref": "#/pictures/10",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [
+          "$ref": "#/texts/38"
+        },
         {
           "$ref": "#/texts/39"
         },
@@ -1742,9 +1643,6 @@
         },
         {
           "$ref": "#/texts/42"
-        },
-        {
-          "$ref": "#/texts/43"
         }
       ],
       "content_layer": "body",
@@ -1753,39 +1651,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 39.710060119628906,
-            "t": 902.2910461425781,
-            "r": 229.89524841308594,
-            "b": 825.4657592773438,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            0
-          ]
-        }
-      ],
-      "captions": [],
-      "references": [],
-      "footnotes": [],
-      "annotations": []
-    },
-    {
-      "self_ref": "#/pictures/11",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "picture",
-      "prov": [
-        {
-          "page_no": 2,
-          "bbox": {
-            "l": 84.77485656738281,
-            "t": 813.8041381835938,
-            "r": 192.59266662597656,
-            "b": 749.923095703125,
+            "l": 39.21052551269531,
+            "t": 959.8964385986328,
+            "r": 515.7577514648438,
+            "b": 751.2241516113281,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

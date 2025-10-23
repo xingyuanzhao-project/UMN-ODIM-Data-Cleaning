@@ -1,0 +1,71 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "Lo localizan victimado - Su cuerpo estaba en una brecha de Zapopan. El vecino de Colinas de San ",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8766815870333704734,
+    "filename": "Lo localizan victimado - Su cuerpo estaba en una brecha de Zapopan. El vecino de Colinas de San .pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.273,
+            "t": 624.52305234375,
+            "r": 632.273,
+            "b": 578.84105234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            324
+          ]
+        }
+      ],
+      "orig": "User account Skip to main content Warning message Log in You will be automatically redirected to the page you requested. Username * Enter your NewsBank username. Password * Enter the password that accompanies your username. No username and password? Click here for additional log in options. Your IP address is 104.7.154.140",
+      "text": "User account Skip to main content Warning message Log in You will be automatically redirected to the page you requested. Username * Enter your NewsBank username. Password * Enter the password that accompanies your username. No username and password? Click here for additional log in options. Your IP address is 104.7.154.140"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 639.0358276367188,
+        "height": 662.49365234375
+      },
+      "page_no": 1
+    }
+  }
+}

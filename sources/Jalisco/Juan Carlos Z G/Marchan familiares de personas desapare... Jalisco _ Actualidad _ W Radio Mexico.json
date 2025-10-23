@@ -45,6 +45,9 @@
         "$ref": "#/pictures/2"
       },
       {
+        "$ref": "#/texts/17"
+      },
+      {
         "$ref": "#/texts/18"
       },
       {
@@ -54,10 +57,10 @@
         "$ref": "#/texts/20"
       },
       {
-        "$ref": "#/texts/21"
+        "$ref": "#/pictures/3"
       },
       {
-        "$ref": "#/pictures/3"
+        "$ref": "#/texts/21"
       },
       {
         "$ref": "#/texts/22"
@@ -114,9 +117,6 @@
         "$ref": "#/texts/39"
       },
       {
-        "$ref": "#/texts/40"
-      },
-      {
         "$ref": "#/pictures/4"
       },
       {
@@ -130,6 +130,9 @@
       },
       {
         "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/43"
       },
       {
         "$ref": "#/texts/44"
@@ -159,16 +162,16 @@
         "$ref": "#/texts/52"
       },
       {
-        "$ref": "#/texts/53"
-      },
-      {
         "$ref": "#/pictures/9"
       },
       {
-        "$ref": "#/texts/56"
+        "$ref": "#/texts/55"
       },
       {
         "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/texts/56"
       },
       {
         "$ref": "#/texts/57"
@@ -180,31 +183,31 @@
         "$ref": "#/texts/59"
       },
       {
-        "$ref": "#/texts/60"
-      },
-      {
         "$ref": "#/pictures/11"
       },
       {
         "$ref": "#/pictures/12"
       },
       {
-        "$ref": "#/texts/64"
+        "$ref": "#/texts/63"
       },
       {
         "$ref": "#/pictures/13"
       },
       {
-        "$ref": "#/texts/65"
+        "$ref": "#/texts/64"
       },
       {
         "$ref": "#/pictures/14"
       },
       {
-        "$ref": "#/texts/66"
+        "$ref": "#/texts/65"
       },
       {
         "$ref": "#/pictures/15"
+      },
+      {
+        "$ref": "#/texts/66"
       },
       {
         "$ref": "#/texts/67"
@@ -216,22 +219,22 @@
         "$ref": "#/texts/69"
       },
       {
-        "$ref": "#/texts/70"
-      },
-      {
         "$ref": "#/pictures/16"
       },
       {
-        "$ref": "#/texts/71"
+        "$ref": "#/texts/70"
       },
       {
         "$ref": "#/pictures/17"
       },
       {
-        "$ref": "#/texts/72"
+        "$ref": "#/texts/71"
       },
       {
         "$ref": "#/pictures/18"
+      },
+      {
+        "$ref": "#/texts/72"
       },
       {
         "$ref": "#/texts/73"
@@ -241,9 +244,6 @@
       },
       {
         "$ref": "#/texts/75"
-      },
-      {
-        "$ref": "#/texts/76"
       }
     ],
     "content_layer": "body",
@@ -536,33 +536,6 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 69.66666666666666,
-            "t": 378.3333333333333,
-            "r": 119.33333333333333,
-            "b": 360.6666666666667,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            10
-          ]
-        }
-      ],
-      "orig": "RESPUESTAS",
-      "text": "RESPUESTAS"
-    },
-    {
-      "self_ref": "#/texts/11",
-      "parent": {
-        "$ref": "#/pictures/0"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 1,
-          "bbox": {
             "l": 133.66666666666669,
             "t": 375.0,
             "r": 220.33333333333334,
@@ -579,7 +552,7 @@
       "text": "EXIGIMOS LA BUSQUEDA"
     },
     {
-      "self_ref": "#/texts/12",
+      "self_ref": "#/texts/11",
       "parent": {
         "$ref": "#/pictures/0"
       },
@@ -606,7 +579,7 @@
       "text": "DONDE"
     },
     {
-      "self_ref": "#/texts/13",
+      "self_ref": "#/texts/12",
       "parent": {
         "$ref": "#/pictures/0"
       },
@@ -633,7 +606,7 @@
       "text": "JALISCO"
     },
     {
-      "self_ref": "#/texts/14",
+      "self_ref": "#/texts/13",
       "parent": {
         "$ref": "#/pictures/0"
       },
@@ -660,7 +633,7 @@
       "text": "UEREMOS"
     },
     {
-      "self_ref": "#/texts/15",
+      "self_ref": "#/texts/14",
       "parent": {
         "$ref": "#/pictures/0"
       },
@@ -687,7 +660,7 @@
       "text": "OFICINAS"
     },
     {
-      "self_ref": "#/texts/16",
+      "self_ref": "#/texts/15",
       "parent": {
         "$ref": "#/pictures/0"
       },
@@ -714,7 +687,7 @@
       "text": "RESULT"
     },
     {
-      "self_ref": "#/texts/17",
+      "self_ref": "#/texts/16",
       "parent": {
         "$ref": "#/pictures/0"
       },
@@ -741,7 +714,7 @@
       "text": "JOTENEMOS"
     },
     {
-      "self_ref": "#/texts/18",
+      "self_ref": "#/texts/17",
       "parent": {
         "$ref": "#/body"
       },
@@ -768,7 +741,7 @@
       "text": "W RADIO 01/02/2016 - 14:59 CST"
     },
     {
-      "self_ref": "#/texts/19",
+      "self_ref": "#/texts/18",
       "parent": {
         "$ref": "#/body"
       },
@@ -795,7 +768,7 @@
       "text": "Por Priscila Hernández CorresponsalGuadalajara.Como cada domingo de fin de mes, los familiares de personas desaparecidas en Jalisco salieron a las calles acompañadas con la fotografía de sus hijos, esposos o hermanos. Mientras que las familias disfrutaban de un domingo de paseo de bicicleta, ellos dieron a conocer que se deslindan de la agrupación Familias Unidas por Nuestros Desaparecidos Jalisco (FUNDEJ)"
     },
     {
-      "self_ref": "#/texts/20",
+      "self_ref": "#/texts/19",
       "parent": {
         "$ref": "#/body"
       },
@@ -822,7 +795,7 @@
       "text": "A través de un comunicado que leyeron en una manifestaron informaron a la sociedad que el gobierno, en lugar de buscar a sus familiares desaparecidos, están dividiendo a las familias"
     },
     {
-      "self_ref": "#/texts/21",
+      "self_ref": "#/texts/20",
       "parent": {
         "$ref": "#/body"
       },
@@ -849,7 +822,7 @@
       "text": "\" Al ritmo  que  crecieron  nuestras  exigencias  hacia  los  gobiernos  federal  y  estatal, ha crecido el número de desaparecidos y también ha crecido la presión que ejercen estos gobiernos sobre nosotros.Esto no solamente ocurre en Jalisco, ocurre en cada rincón del país, a cada colectivo de familias que buscan incansablemente respuestas. Tanto el gobierno  federal  como el estatal  han  sido  claros  en  sus  acciones,  no  para  buscar  a nuestros  hijos,  pero  si  para"
     },
     {
-      "self_ref": "#/texts/22",
+      "self_ref": "#/texts/21",
       "parent": {
         "$ref": "#/body"
       },
@@ -876,7 +849,7 @@
       "text": "http://wradio.com.mx/radio/2016/02/01/nacional/1454348940_050475.html"
     },
     {
-      "self_ref": "#/texts/23",
+      "self_ref": "#/texts/22",
       "parent": {
         "$ref": "#/body"
       },
@@ -903,7 +876,7 @@
       "text": "1/6"
     },
     {
-      "self_ref": "#/texts/24",
+      "self_ref": "#/texts/23",
       "parent": {
         "$ref": "#/body"
       },
@@ -930,7 +903,7 @@
       "text": "2/4/2019"
     },
     {
-      "self_ref": "#/texts/25",
+      "self_ref": "#/texts/24",
       "parent": {
         "$ref": "#/body"
       },
@@ -957,7 +930,7 @@
       "text": "Marchan familiares de personas desaparecidas en Jalisco | Actualidad | W Radio Mexico"
     },
     {
-      "self_ref": "#/texts/26",
+      "self_ref": "#/texts/25",
       "parent": {
         "$ref": "#/body"
       },
@@ -984,7 +957,7 @@
       "text": "acallar  nuestras  voces  y  para  dividirnosy  corrompernuestros intereses y principios de no lucrar con nuestro dolor\" explico el familiar de uno de los desaparecidos"
     },
     {
-      "self_ref": "#/texts/27",
+      "self_ref": "#/texts/26",
       "parent": {
         "$ref": "#/body"
       },
@@ -1011,7 +984,7 @@
       "text": "En Jalisco según datos del Registro Nacional de Personas Extraviadas y Desapareidas hay más de 2 mil 900 personas desaparecidas, la entidad está entre los primeros cinco lugares. Entre esas mamás que salieron con la fotografía de su hijo fue Adriana, ella pide que la sociedad se solidarice"
     },
     {
-      "self_ref": "#/texts/28",
+      "self_ref": "#/texts/27",
       "parent": {
         "$ref": "#/body"
       },
@@ -1038,7 +1011,7 @@
       "text": "\"Buscamos que la sociedad se de cuenta de lo que está pasando, principalmente porque la sociedad es la que puede ayudarnos a buscar a nuestros hijos. Cada día, investigando y todo eso no hay respuesta. No hay nada. Mi hijo desapreció, Juan Carlos Zaragoza Gaona y hasta la fecha no sé nada\". pidio Adriana"
     },
     {
-      "self_ref": "#/texts/29",
+      "self_ref": "#/texts/28",
       "parent": {
         "$ref": "#/body"
       },
@@ -1065,7 +1038,7 @@
       "text": "Fundej, la agrupación de la que se deslindan los familiares desaparecidos, surgió en el 2014 para denunciar cómo casi 300 familias buscaban alguno de sus integrantes que desaparecieron en la Zona Metropolitana de Guadalajara y demás municipios del estado de Jalisco como Puerto Vallarta"
     },
     {
-      "self_ref": "#/texts/30",
+      "self_ref": "#/texts/29",
       "parent": {
         "$ref": "#/body"
       },
@@ -1092,7 +1065,7 @@
       "text": "En el mensaje que leyeron este domingo hicieron énfasis que su búsqueda no parará ni serán coptados por el gobierno de Jalisco"
     },
     {
-      "self_ref": "#/texts/31",
+      "self_ref": "#/texts/30",
       "parent": {
         "$ref": "#/body"
       },
@@ -1119,7 +1092,7 @@
       "text": "\"Nuestros familiares  desaparecidosestán  por  encima  de  todo  trámite u  ofrecimiento económico  que  en  su  momento quiera  dar  este  gobierno  estatal  como  ya  hoy  lo  hace  el gobierno federal. Queremos a TODOShijos, esposos, hermanos, de vuelta en casa\" exigieron los familiares de los desaparecidos."
     },
     {
-      "self_ref": "#/texts/32",
+      "self_ref": "#/texts/31",
       "parent": {
         "$ref": "#/body"
       },
@@ -1160,7 +1133,7 @@
       "text": "Sal de la rutina y conócenos"
     },
     {
-      "self_ref": "#/texts/33",
+      "self_ref": "#/texts/32",
       "parent": {
         "$ref": "#/body"
       },
@@ -1201,7 +1174,7 @@
       "text": "Te esperamos en Perisur, ideal para disfrutar en"
     },
     {
-      "self_ref": "#/texts/34",
+      "self_ref": "#/texts/33",
       "parent": {
         "$ref": "#/body"
       },
@@ -1228,7 +1201,7 @@
       "text": "familia"
     },
     {
-      "self_ref": "#/texts/35",
+      "self_ref": "#/texts/34",
       "parent": {
         "$ref": "#/body"
       },
@@ -1255,7 +1228,7 @@
       "text": "Centro Comercial Galerías"
     },
     {
-      "self_ref": "#/texts/36",
+      "self_ref": "#/texts/35",
       "parent": {
         "$ref": "#/body"
       },
@@ -1283,7 +1256,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/37",
+      "self_ref": "#/texts/36",
       "parent": {
         "$ref": "#/body"
       },
@@ -1310,7 +1283,7 @@
       "text": "http://wradio.com.mx/radio/2016/02/01/nacional/1454348940_050475.html"
     },
     {
-      "self_ref": "#/texts/38",
+      "self_ref": "#/texts/37",
       "parent": {
         "$ref": "#/body"
       },
@@ -1337,7 +1310,7 @@
       "text": "2/6"
     },
     {
-      "self_ref": "#/texts/39",
+      "self_ref": "#/texts/38",
       "parent": {
         "$ref": "#/body"
       },
@@ -1364,7 +1337,7 @@
       "text": "2/4/2019"
     },
     {
-      "self_ref": "#/texts/40",
+      "self_ref": "#/texts/39",
       "parent": {
         "$ref": "#/body"
       },
@@ -1391,7 +1364,7 @@
       "text": "Marchan familiares de personas desaparecidas en Jalisco | Actualidad | W Radio Mexico"
     },
     {
-      "self_ref": "#/texts/41",
+      "self_ref": "#/texts/40",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1418,7 +1391,7 @@
       "text": "3"
     },
     {
-      "self_ref": "#/texts/42",
+      "self_ref": "#/texts/41",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1445,7 +1418,7 @@
       "text": "6"
     },
     {
-      "self_ref": "#/texts/43",
+      "self_ref": "#/texts/42",
       "parent": {
         "$ref": "#/pictures/5"
       },
@@ -1472,7 +1445,7 @@
       "text": "9"
     },
     {
-      "self_ref": "#/texts/44",
+      "self_ref": "#/texts/43",
       "parent": {
         "$ref": "#/body"
       },
@@ -1499,7 +1472,7 @@
       "text": "Conferencia matutina de Andrés Manuel López Obrador"
     },
     {
-      "self_ref": "#/texts/45",
+      "self_ref": "#/texts/44",
       "parent": {
         "$ref": "#/body"
       },
@@ -1526,7 +1499,7 @@
       "text": "Calendario 2019: Estos son los puentes y días de asueto"
     },
     {
-      "self_ref": "#/texts/46",
+      "self_ref": "#/texts/45",
       "parent": {
         "$ref": "#/body"
       },
@@ -1553,7 +1526,7 @@
       "text": "Sheinbaum presenta estrategia para detener intentos de secuestro"
     },
     {
-      "self_ref": "#/texts/47",
+      "self_ref": "#/texts/46",
       "parent": {
         "$ref": "#/body"
       },
@@ -1580,7 +1553,7 @@
       "text": "El avión, el avión... AMLO pierde vuelo tras presentar Sembrando Vida"
     },
     {
-      "self_ref": "#/texts/48",
+      "self_ref": "#/texts/47",
       "parent": {
         "$ref": "#/body"
       },
@@ -1607,7 +1580,7 @@
       "text": "Héroes sin capa: científicos mexicanos eliminan Virus del Papiloma Humano"
     },
     {
-      "self_ref": "#/texts/49",
+      "self_ref": "#/texts/48",
       "parent": {
         "$ref": "#/body"
       },
@@ -1634,7 +1607,7 @@
       "text": "http://wradio.com.mx/radio/2016/02/01/nacional/1454348940_050475.html"
     },
     {
-      "self_ref": "#/texts/50",
+      "self_ref": "#/texts/49",
       "parent": {
         "$ref": "#/body"
       },
@@ -1661,7 +1634,7 @@
       "text": "3/6"
     },
     {
-      "self_ref": "#/texts/51",
+      "self_ref": "#/texts/50",
       "parent": {
         "$ref": "#/body"
       },
@@ -1688,7 +1661,7 @@
       "text": "2/4/2019"
     },
     {
-      "self_ref": "#/texts/52",
+      "self_ref": "#/texts/51",
       "parent": {
         "$ref": "#/body"
       },
@@ -1715,7 +1688,7 @@
       "text": "Marchan familiares de personas desaparecidas en Jalisco | Actualidad | W Radio Mexico"
     },
     {
-      "self_ref": "#/texts/53",
+      "self_ref": "#/texts/52",
       "parent": {
         "$ref": "#/body"
       },
@@ -1743,7 +1716,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/54",
+      "self_ref": "#/texts/53",
       "parent": {
         "$ref": "#/pictures/9"
       },
@@ -1770,7 +1743,7 @@
       "text": "4"
     },
     {
-      "self_ref": "#/texts/55",
+      "self_ref": "#/texts/54",
       "parent": {
         "$ref": "#/pictures/9"
       },
@@ -1797,7 +1770,7 @@
       "text": "fano"
     },
     {
-      "self_ref": "#/texts/56",
+      "self_ref": "#/texts/55",
       "parent": {
         "$ref": "#/body"
       },
@@ -1824,7 +1797,7 @@
       "text": "(W Radio)"
     },
     {
-      "self_ref": "#/texts/57",
+      "self_ref": "#/texts/56",
       "parent": {
         "$ref": "#/body"
       },
@@ -1851,7 +1824,7 @@
       "text": "http://wradio.com.mx/radio/2016/02/01/nacional/1454348940_050475.html"
     },
     {
-      "self_ref": "#/texts/58",
+      "self_ref": "#/texts/57",
       "parent": {
         "$ref": "#/body"
       },
@@ -1878,7 +1851,7 @@
       "text": "4/6"
     },
     {
-      "self_ref": "#/texts/59",
+      "self_ref": "#/texts/58",
       "parent": {
         "$ref": "#/body"
       },
@@ -1905,7 +1878,7 @@
       "text": "2/4/2019"
     },
     {
-      "self_ref": "#/texts/60",
+      "self_ref": "#/texts/59",
       "parent": {
         "$ref": "#/body"
       },
@@ -1932,7 +1905,7 @@
       "text": "Marchan familiares de personas desaparecidas en Jalisco | Actualidad | W Radio Mexico"
     },
     {
-      "self_ref": "#/texts/61",
+      "self_ref": "#/texts/60",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -1959,7 +1932,7 @@
       "text": "(W Radio)"
     },
     {
-      "self_ref": "#/texts/62",
+      "self_ref": "#/texts/61",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -1986,7 +1959,7 @@
       "text": "PASA"
     },
     {
-      "self_ref": "#/texts/63",
+      "self_ref": "#/texts/62",
       "parent": {
         "$ref": "#/pictures/12"
       },
@@ -2013,7 +1986,7 @@
       "text": "(W Radio)"
     },
     {
-      "self_ref": "#/texts/64",
+      "self_ref": "#/texts/63",
       "parent": {
         "$ref": "#/body"
       },
@@ -2040,7 +2013,7 @@
       "text": "(Excite)"
     },
     {
-      "self_ref": "#/texts/65",
+      "self_ref": "#/texts/64",
       "parent": {
         "$ref": "#/body"
       },
@@ -2067,7 +2040,7 @@
       "text": "(Buzz Excite)"
     },
     {
-      "self_ref": "#/texts/66",
+      "self_ref": "#/texts/65",
       "parent": {
         "$ref": "#/body"
       },
@@ -2094,7 +2067,7 @@
       "text": "(ENFEMENINO)"
     },
     {
-      "self_ref": "#/texts/67",
+      "self_ref": "#/texts/66",
       "parent": {
         "$ref": "#/body"
       },
@@ -2121,7 +2094,7 @@
       "text": "http://wradio.com.mx/radio/2016/02/01/nacional/1454348940_050475.html"
     },
     {
-      "self_ref": "#/texts/68",
+      "self_ref": "#/texts/67",
       "parent": {
         "$ref": "#/body"
       },
@@ -2148,7 +2121,7 @@
       "text": "5/6"
     },
     {
-      "self_ref": "#/texts/69",
+      "self_ref": "#/texts/68",
       "parent": {
         "$ref": "#/body"
       },
@@ -2175,7 +2148,7 @@
       "text": "2/4/2019"
     },
     {
-      "self_ref": "#/texts/70",
+      "self_ref": "#/texts/69",
       "parent": {
         "$ref": "#/body"
       },
@@ -2202,7 +2175,7 @@
       "text": "Marchan familiares de personas desaparecidas en Jalisco | Actualidad | W Radio Mexico"
     },
     {
-      "self_ref": "#/texts/71",
+      "self_ref": "#/texts/70",
       "parent": {
         "$ref": "#/body"
       },
@@ -2229,7 +2202,7 @@
       "text": "(23minutos.com)"
     },
     {
-      "self_ref": "#/texts/72",
+      "self_ref": "#/texts/71",
       "parent": {
         "$ref": "#/body"
       },
@@ -2256,7 +2229,7 @@
       "text": "(Zoo)"
     },
     {
-      "self_ref": "#/texts/73",
+      "self_ref": "#/texts/72",
       "parent": {
         "$ref": "#/body"
       },
@@ -2283,7 +2256,7 @@
       "text": "(Welcome to Cat's Pride | Cat's Pride)"
     },
     {
-      "self_ref": "#/texts/74",
+      "self_ref": "#/texts/73",
       "parent": {
         "$ref": "#/body"
       },
@@ -2310,7 +2283,7 @@
       "text": "recomendado por"
     },
     {
-      "self_ref": "#/texts/75",
+      "self_ref": "#/texts/74",
       "parent": {
         "$ref": "#/body"
       },
@@ -2337,7 +2310,7 @@
       "text": "http://wradio.com.mx/radio/2016/02/01/nacional/1454348940_050475.html"
     },
     {
-      "self_ref": "#/texts/76",
+      "self_ref": "#/texts/75",
       "parent": {
         "$ref": "#/body"
       },
@@ -2403,9 +2376,6 @@
         },
         {
           "$ref": "#/texts/16"
-        },
-        {
-          "$ref": "#/texts/17"
         }
       ],
       "content_layer": "body",
@@ -2414,10 +2384,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 27.23092269897461,
-            "t": 476.9836730957031,
-            "r": 223.59756469726562,
-            "b": 328.62158203125,
+            "l": 27.230148315429688,
+            "t": 476.9837951660156,
+            "r": 223.59820556640625,
+            "b": 328.62115478515625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2443,10 +2413,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 32.37080383300781,
-            "t": 307.41162109375,
-            "r": 57.36867141723633,
-            "b": 282.2931213378906,
+            "l": 32.37067413330078,
+            "t": 307.4124755859375,
+            "r": 57.366458892822266,
+            "b": 282.29266357421875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2472,10 +2442,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 61.95903778076172,
-            "t": 307.0538330078125,
-            "r": 85.9869613647461,
-            "b": 282.4737854003906,
+            "l": 61.95929718017578,
+            "t": 307.05474853515625,
+            "r": 85.9871826171875,
+            "b": 282.47259521484375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2501,10 +2471,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 561.5626831054688,
-            "t": 306.4637145996094,
-            "r": 585.3565673828125,
-            "b": 282.06634521484375,
+            "l": 561.5637817382812,
+            "t": 306.46405029296875,
+            "r": 585.3572998046875,
+            "b": 282.0654296875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2530,10 +2500,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 43.96702575683594,
-            "t": 764.7843818664551,
-            "r": 166.92446899414062,
-            "b": 676.5267028808594,
+            "l": 43.96515655517578,
+            "t": 764.7850742340088,
+            "r": 166.92442321777344,
+            "b": 676.5276565551758,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2554,13 +2524,13 @@
       },
       "children": [
         {
+          "$ref": "#/texts/40"
+        },
+        {
           "$ref": "#/texts/41"
         },
         {
           "$ref": "#/texts/42"
-        },
-        {
-          "$ref": "#/texts/43"
         }
       ],
       "content_layer": "body",
@@ -2569,10 +2539,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 43.58765411376953,
-            "t": 668.6938629150391,
-            "r": 167.09271240234375,
-            "b": 578.9037628173828,
+            "l": 43.58672332763672,
+            "t": 668.6941680908203,
+            "r": 167.0924835205078,
+            "b": 578.9041442871094,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2598,9 +2568,9 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 43.88731384277344,
-            "t": 570.8685150146484,
-            "r": 167.21664428710938,
+            "l": 43.8857421875,
+            "t": 570.8694305419922,
+            "r": 167.2164306640625,
             "b": 482.991455078125,
             "coord_origin": "BOTTOMLEFT"
           },
@@ -2627,10 +2597,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 43.83066940307617,
-            "t": 474.0395202636719,
-            "r": 166.96432495117188,
-            "b": 385.94134521484375,
+            "l": 43.829322814941406,
+            "t": 474.03887939453125,
+            "r": 166.96481323242188,
+            "b": 385.941162109375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2656,10 +2626,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 43.96090316772461,
-            "t": 376.56201171875,
-            "r": 166.8768310546875,
-            "b": 288.68402099609375,
+            "l": 43.960208892822266,
+            "t": 376.5617980957031,
+            "r": 166.87596130371094,
+            "b": 288.685546875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2680,10 +2650,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/54"
+          "$ref": "#/texts/53"
         },
         {
-          "$ref": "#/texts/55"
+          "$ref": "#/texts/54"
         }
       ],
       "content_layer": "body",
@@ -2692,10 +2662,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 64.95462036132812,
-            "t": 272.025146484375,
-            "r": 219.51519775390625,
-            "b": 168.68768310546875,
+            "l": 64.95421600341797,
+            "t": 272.02520751953125,
+            "r": 219.51559448242188,
+            "b": 168.687744140625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2721,10 +2691,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 76.78710174560547,
-            "t": 122.7099609375,
-            "r": 231.13079833984375,
-            "b": 26.46728515625,
+            "l": 76.78701782226562,
+            "t": 122.71044921875,
+            "r": 231.13143920898438,
+            "b": 26.46771240234375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2745,10 +2715,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/61"
+          "$ref": "#/texts/60"
         },
         {
-          "$ref": "#/texts/62"
+          "$ref": "#/texts/61"
         }
       ],
       "content_layer": "body",
@@ -2757,10 +2727,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 76.65028381347656,
-            "t": 709.5324630737305,
-            "r": 231.239013671875,
-            "b": 605.8747253417969,
+            "l": 76.64974975585938,
+            "t": 709.5316848754883,
+            "r": 231.23780822753906,
+            "b": 605.8749389648438,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2771,7 +2741,7 @@
       ],
       "captions": [
         {
-          "$ref": "#/texts/61"
+          "$ref": "#/texts/60"
         }
       ],
       "references": [],
@@ -2785,7 +2755,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/63"
+          "$ref": "#/texts/62"
         }
       ],
       "content_layer": "body",
@@ -2794,10 +2764,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 64.99591827392578,
-            "t": 559.9483795166016,
-            "r": 219.39161682128906,
-            "b": 456.44952392578125,
+            "l": 64.99591064453125,
+            "t": 559.9479827880859,
+            "r": 219.39141845703125,
+            "b": 456.4495849609375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2808,7 +2778,7 @@
       ],
       "captions": [
         {
-          "$ref": "#/texts/63"
+          "$ref": "#/texts/62"
         }
       ],
       "references": [],
@@ -2827,9 +2797,9 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 77.46833801269531,
-            "t": 409.6075744628906,
-            "r": 230.60488891601562,
+            "l": 77.4705810546875,
+            "t": 409.6043701171875,
+            "r": 230.60357666015625,
             "b": 307.0481872558594,
             "coord_origin": "BOTTOMLEFT"
           },
@@ -2856,10 +2826,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 76.58673858642578,
-            "t": 250.72119140625,
-            "r": 230.9508819580078,
-            "b": 146.58258056640625,
+            "l": 76.58612823486328,
+            "t": 250.7218017578125,
+            "r": 230.95062255859375,
+            "b": 146.582763671875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2886,9 +2856,9 @@
           "page_no": 5,
           "bbox": {
             "l": 64.8676986694336,
-            "t": 100.375732421875,
-            "r": 219.4127197265625,
-            "b": 26.24365234375,
+            "t": 100.3759765625,
+            "r": 219.41259765625,
+            "b": 26.2431640625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2914,10 +2884,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 64.8685531616211,
-            "t": 765.0819034576416,
-            "r": 219.58419799804688,
-            "b": 734.5533714294434,
+            "l": 64.86868286132812,
+            "t": 765.081859588623,
+            "r": 219.5843048095703,
+            "b": 734.5534591674805,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2943,10 +2913,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 76.7540054321289,
-            "t": 698.6626815795898,
-            "r": 231.26629638671875,
-            "b": 594.4402770996094,
+            "l": 76.75360107421875,
+            "t": 698.6634368896484,
+            "r": 231.2665557861328,
+            "b": 594.4393768310547,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2972,10 +2942,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 76.49821472167969,
-            "t": 538.138916015625,
-            "r": 231.16110229492188,
-            "b": 435.0683288574219,
+            "l": 76.49739074707031,
+            "t": 538.1392211914062,
+            "r": 231.16085815429688,
+            "b": 435.0682067871094,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

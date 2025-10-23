@@ -156,6 +156,9 @@
         "$ref": "#/pictures/6"
       },
       {
+        "$ref": "#/texts/59"
+      },
+      {
         "$ref": "#/texts/60"
       },
       {
@@ -204,9 +207,6 @@
         "$ref": "#/texts/75"
       },
       {
-        "$ref": "#/texts/76"
-      },
-      {
         "$ref": "#/pictures/7"
       },
       {
@@ -223,6 +223,9 @@
       },
       {
         "$ref": "#/pictures/12"
+      },
+      {
+        "$ref": "#/texts/79"
       },
       {
         "$ref": "#/texts/80"
@@ -255,22 +258,19 @@
         "$ref": "#/texts/89"
       },
       {
-        "$ref": "#/texts/90"
-      },
-      {
         "$ref": "#/pictures/13"
       },
       {
-        "$ref": "#/texts/91"
+        "$ref": "#/texts/90"
       },
       {
         "$ref": "#/pictures/14"
       },
       {
-        "$ref": "#/texts/92"
+        "$ref": "#/texts/91"
       },
       {
-        "$ref": "#/texts/93"
+        "$ref": "#/texts/92"
       },
       {
         "$ref": "#/pictures/15"
@@ -289,6 +289,9 @@
       },
       {
         "$ref": "#/pictures/20"
+      },
+      {
+        "$ref": "#/texts/100"
       },
       {
         "$ref": "#/texts/101"
@@ -321,10 +324,10 @@
         "$ref": "#/texts/110"
       },
       {
-        "$ref": "#/texts/111"
+        "$ref": "#/pictures/21"
       },
       {
-        "$ref": "#/pictures/21"
+        "$ref": "#/texts/131"
       },
       {
         "$ref": "#/texts/132"
@@ -348,9 +351,6 @@
         "$ref": "#/texts/138"
       },
       {
-        "$ref": "#/texts/139"
-      },
-      {
         "$ref": "#/pictures/22"
       },
       {
@@ -358,6 +358,9 @@
       },
       {
         "$ref": "#/pictures/24"
+      },
+      {
+        "$ref": "#/texts/221"
       },
       {
         "$ref": "#/texts/222"
@@ -379,9 +382,6 @@
       },
       {
         "$ref": "#/texts/228"
-      },
-      {
-        "$ref": "#/texts/229"
       }
     ],
     "content_layer": "body",
@@ -396,7 +396,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/140"
+          "$ref": "#/texts/139"
         }
       ],
       "content_layer": "body",
@@ -1986,33 +1986,6 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 420.6666666666667,
-            "t": 225.0,
-            "r": 459.3333333333333,
-            "b": 218.33333333333337,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            13
-          ]
-        }
-      ],
-      "orig": "Local 4128 Av",
-      "text": "Local 4128 Av"
-    },
-    {
-      "self_ref": "#/texts/59",
-      "parent": {
-        "$ref": "#/pictures/6"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 1,
-          "bbox": {
             "l": 461.3333333333333,
             "t": 225.0,
             "r": 554.6666666666666,
@@ -2029,7 +2002,7 @@
       "text": "Paseo de la Marina Marina Vollarta"
     },
     {
-      "self_ref": "#/texts/60",
+      "self_ref": "#/texts/59",
       "parent": {
         "$ref": "#/body"
       },
@@ -2056,7 +2029,7 @@
       "text": "31¡"
     },
     {
-      "self_ref": "#/texts/61",
+      "self_ref": "#/texts/60",
       "parent": {
         "$ref": "#/body"
       },
@@ -2083,7 +2056,7 @@
       "text": "|"
     },
     {
-      "self_ref": "#/texts/62",
+      "self_ref": "#/texts/61",
       "parent": {
         "$ref": "#/body"
       },
@@ -2110,7 +2083,7 @@
       "text": "18¡"
     },
     {
-      "self_ref": "#/texts/63",
+      "self_ref": "#/texts/62",
       "parent": {
         "$ref": "#/body"
       },
@@ -2137,7 +2110,7 @@
       "text": "ÈÈÈ"
     },
     {
-      "self_ref": "#/texts/64",
+      "self_ref": "#/texts/63",
       "parent": {
         "$ref": "#/body"
       },
@@ -2164,7 +2137,7 @@
       "text": ")"
     },
     {
-      "self_ref": "#/texts/65",
+      "self_ref": "#/texts/64",
       "parent": {
         "$ref": "#/body"
       },
@@ -2191,7 +2164,7 @@
       "text": "1.783"
     },
     {
-      "self_ref": "#/texts/66",
+      "self_ref": "#/texts/65",
       "parent": {
         "$ref": "#/body"
       },
@@ -2218,7 +2191,7 @@
       "text": "https://vallartaindependiente.com/2018/07/06/activan-alerta-alba-por-la-desaparicion-de-joven-vallartense/"
     },
     {
-      "self_ref": "#/texts/67",
+      "self_ref": "#/texts/66",
       "parent": {
         "$ref": "#/body"
       },
@@ -2245,7 +2218,7 @@
       "text": "Page 1 of 4"
     },
     {
-      "self_ref": "#/texts/68",
+      "self_ref": "#/texts/67",
       "parent": {
         "$ref": "#/body"
       },
@@ -2272,7 +2245,7 @@
       "text": "Activan Alerta Alba por la desaparición de joven vallartense"
     },
     {
-      "self_ref": "#/texts/69",
+      "self_ref": "#/texts/68",
       "parent": {
         "$ref": "#/body"
       },
@@ -2299,7 +2272,7 @@
       "text": "LOCAL"
     },
     {
-      "self_ref": "#/texts/70",
+      "self_ref": "#/texts/69",
       "parent": {
         "$ref": "#/body"
       },
@@ -2326,7 +2299,7 @@
       "text": "3/29/19, 11(50 AM"
     },
     {
-      "self_ref": "#/texts/71",
+      "self_ref": "#/texts/70",
       "parent": {
         "$ref": "#/body"
       },
@@ -2353,7 +2326,7 @@
       "text": "POR JAVIER FRIAS EN 6 JULIO, 2018"
     },
     {
-      "self_ref": "#/texts/72",
+      "self_ref": "#/texts/71",
       "parent": {
         "$ref": "#/body"
       },
@@ -2380,7 +2353,7 @@
       "text": "María José Verdías Carrillo salió de su domicilio el 2 de julio y la última ocasión que se le vio fue al abordar una camioneta en las inmediaciones de La Aurora"
     },
     {
-      "self_ref": "#/texts/73",
+      "self_ref": "#/texts/72",
       "parent": {
         "$ref": "#/body"
       },
@@ -2407,7 +2380,7 @@
       "text": "La Fiscalía General del Estado activó la Alerta Alba, tras la desaparición de María José Verdías Carrillo, una joven de 20 años, cuyos familiares temen por la integridad de la joven."
     },
     {
-      "self_ref": "#/texts/74",
+      "self_ref": "#/texts/73",
       "parent": {
         "$ref": "#/body"
       },
@@ -2434,7 +2407,7 @@
       "text": "Pese a que fue vista por última ocasión el 2 de julio, fue este jueves 5 que familiares de María José Verdías Carrillo interpusieron la denuncia formal ante la Agencia Especializada en la Búsqueda de Personas Desaparecidas bajo el número de carpeta de investigación 3514/2018."
     },
     {
-      "self_ref": "#/texts/75",
+      "self_ref": "#/texts/74",
       "parent": {
         "$ref": "#/body"
       },
@@ -2461,7 +2434,7 @@
       "text": "Por lo anterior, la Fiscalía activó la Alerta Elba, para localizar a la joven de 20 años quien fue vista por última en La Aurora."
     },
     {
-      "self_ref": "#/texts/76",
+      "self_ref": "#/texts/75",
       "parent": {
         "$ref": "#/body"
       },
@@ -2489,7 +2462,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/77",
+      "self_ref": "#/texts/76",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -2516,7 +2489,7 @@
       "text": "JustFashion"
     },
     {
-      "self_ref": "#/texts/78",
+      "self_ref": "#/texts/77",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -2543,7 +2516,7 @@
       "text": "15% OFF on Ist Order"
     },
     {
-      "self_ref": "#/texts/79",
+      "self_ref": "#/texts/78",
       "parent": {
         "$ref": "#/pictures/8"
       },
@@ -2570,7 +2543,7 @@
       "text": "More View"
     },
     {
-      "self_ref": "#/texts/80",
+      "self_ref": "#/texts/79",
       "parent": {
         "$ref": "#/body"
       },
@@ -2597,7 +2570,7 @@
       "text": "De acuerdo con las declaraciones de los familiares, la joven acudió a una cita a las 18:00 horas del martes lunes 2 de julio en dicha colonia, donde se le vio subir a una camioneta Frontier doble cabina, de la marca Nissan, color gris."
     },
     {
-      "self_ref": "#/texts/81",
+      "self_ref": "#/texts/80",
       "parent": {
         "$ref": "#/body"
       },
@@ -2624,7 +2597,7 @@
       "text": "A partir de ese momento la familia perdió toda comunicación con la María José, por lo cual temen por la integridad de la joven."
     },
     {
-      "self_ref": "#/texts/82",
+      "self_ref": "#/texts/81",
       "parent": {
         "$ref": "#/body"
       },
@@ -2651,7 +2624,7 @@
       "text": "Como señas particulares, la joven presenta un tatuaje en forma de corazón en la muñeca del lado derecho, así como también dos cicatrices en la zona pélvica."
     },
     {
-      "self_ref": "#/texts/83",
+      "self_ref": "#/texts/82",
       "parent": {
         "$ref": "#/body"
       },
@@ -2678,7 +2651,7 @@
       "text": "Cualquier información favor de comunicarse a los teléfonos de la Fiscalía Regional del Estado de Jalisco 01800 6409298 Ext 19014/19040."
     },
     {
-      "self_ref": "#/texts/84",
+      "self_ref": "#/texts/83",
       "parent": {
         "$ref": "#/body"
       },
@@ -2719,7 +2692,7 @@
       "text": "Alerta Alba desaparición"
     },
     {
-      "self_ref": "#/texts/85",
+      "self_ref": "#/texts/84",
       "parent": {
         "$ref": "#/body"
       },
@@ -2746,7 +2719,7 @@
       "text": "Puerto Vallarta"
     },
     {
-      "self_ref": "#/texts/86",
+      "self_ref": "#/texts/85",
       "parent": {
         "$ref": "#/body"
       },
@@ -2773,7 +2746,7 @@
       "text": "COMPARTIR."
     },
     {
-      "self_ref": "#/texts/87",
+      "self_ref": "#/texts/86",
       "parent": {
         "$ref": "#/body"
       },
@@ -2801,7 +2774,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/88",
+      "self_ref": "#/texts/87",
       "parent": {
         "$ref": "#/body"
       },
@@ -2829,7 +2802,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/89",
+      "self_ref": "#/texts/88",
       "parent": {
         "$ref": "#/body"
       },
@@ -2856,7 +2829,7 @@
       "text": "Ordenar por"
     },
     {
-      "self_ref": "#/texts/90",
+      "self_ref": "#/texts/89",
       "parent": {
         "$ref": "#/body"
       },
@@ -2883,7 +2856,7 @@
       "text": "Más antiguos"
     },
     {
-      "self_ref": "#/texts/91",
+      "self_ref": "#/texts/90",
       "parent": {
         "$ref": "#/body"
       },
@@ -2910,7 +2883,7 @@
       "text": "Agregar un comentario..."
     },
     {
-      "self_ref": "#/texts/92",
+      "self_ref": "#/texts/91",
       "parent": {
         "$ref": "#/body"
       },
@@ -2937,7 +2910,7 @@
       "text": "Plugin de comentarios de Facebook"
     },
     {
-      "self_ref": "#/texts/93",
+      "self_ref": "#/texts/92",
       "parent": {
         "$ref": "#/body"
       },
@@ -2964,7 +2937,7 @@
       "text": "PUBLICACIONES RELACIONADAS"
     },
     {
-      "self_ref": "#/texts/94",
+      "self_ref": "#/texts/93",
       "parent": {
         "$ref": "#/pictures/15"
       },
@@ -2991,7 +2964,7 @@
       "text": "\""
     },
     {
-      "self_ref": "#/texts/95",
+      "self_ref": "#/texts/94",
       "parent": {
         "$ref": "#/pictures/16"
       },
@@ -3018,7 +2991,7 @@
       "text": "#"
     },
     {
-      "self_ref": "#/texts/96",
+      "self_ref": "#/texts/95",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -3045,7 +3018,7 @@
       "text": "+"
     },
     {
-      "self_ref": "#/texts/97",
+      "self_ref": "#/texts/96",
       "parent": {
         "$ref": "#/pictures/18"
       },
@@ -3072,7 +3045,7 @@
       "text": "$"
     },
     {
-      "self_ref": "#/texts/98",
+      "self_ref": "#/texts/97",
       "parent": {
         "$ref": "#/pictures/19"
       },
@@ -3099,7 +3072,7 @@
       "text": "*"
     },
     {
-      "self_ref": "#/texts/99",
+      "self_ref": "#/texts/98",
       "parent": {
         "$ref": "#/pictures/20"
       },
@@ -3126,7 +3099,7 @@
       "text": "Sott Leather Sandals"
     },
     {
-      "self_ref": "#/texts/100",
+      "self_ref": "#/texts/99",
       "parent": {
         "$ref": "#/pictures/20"
       },
@@ -3153,7 +3126,7 @@
       "text": "Shop Now"
     },
     {
-      "self_ref": "#/texts/101",
+      "self_ref": "#/texts/100",
       "parent": {
         "$ref": "#/body"
       },
@@ -3181,7 +3154,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/102",
+      "self_ref": "#/texts/101",
       "parent": {
         "$ref": "#/body"
       },
@@ -3208,7 +3181,7 @@
       "text": "29 MARZO, 2019"
     },
     {
-      "self_ref": "#/texts/103",
+      "self_ref": "#/texts/102",
       "parent": {
         "$ref": "#/body"
       },
@@ -3235,7 +3208,7 @@
       "text": "Tras molestia ciudadana, informa el Seapal sobre su aumento al recibo"
     },
     {
-      "self_ref": "#/texts/104",
+      "self_ref": "#/texts/103",
       "parent": {
         "$ref": "#/body"
       },
@@ -3262,7 +3235,7 @@
       "text": "28 MARZO, 2019"
     },
     {
-      "self_ref": "#/texts/105",
+      "self_ref": "#/texts/104",
       "parent": {
         "$ref": "#/body"
       },
@@ -3289,7 +3262,7 @@
       "text": "Domingo 7 de abril se adelanta el reloj por el cambio de horario"
     },
     {
-      "self_ref": "#/texts/106",
+      "self_ref": "#/texts/105",
       "parent": {
         "$ref": "#/body"
       },
@@ -3316,7 +3289,7 @@
       "text": "28 MARZO, 2019"
     },
     {
-      "self_ref": "#/texts/107",
+      "self_ref": "#/texts/106",
       "parent": {
         "$ref": "#/body"
       },
@@ -3343,7 +3316,7 @@
       "text": "Jalisco invierte más de 86 millones para prevenir incendios forestales"
     },
     {
-      "self_ref": "#/texts/108",
+      "self_ref": "#/texts/107",
       "parent": {
         "$ref": "#/body"
       },
@@ -3370,7 +3343,7 @@
       "text": "28 MARZO, 2019"
     },
     {
-      "self_ref": "#/texts/109",
+      "self_ref": "#/texts/108",
       "parent": {
         "$ref": "#/body"
       },
@@ -3397,7 +3370,7 @@
       "text": "Jalisco, el segundo estado del país con más homicidios"
     },
     {
-      "self_ref": "#/texts/110",
+      "self_ref": "#/texts/109",
       "parent": {
         "$ref": "#/body"
       },
@@ -3424,7 +3397,7 @@
       "text": "28 MARZO, 2019"
     },
     {
-      "self_ref": "#/texts/111",
+      "self_ref": "#/texts/110",
       "parent": {
         "$ref": "#/body"
       },
@@ -3451,7 +3424,7 @@
       "text": "Jalisco tendrá crecimiento en exportaciones para el 2019"
     },
     {
-      "self_ref": "#/texts/112",
+      "self_ref": "#/texts/111",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3478,7 +3451,7 @@
       "text": "MARZO 15, 2019"
     },
     {
-      "self_ref": "#/texts/113",
+      "self_ref": "#/texts/112",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3505,7 +3478,7 @@
       "text": ")"
     },
     {
-      "self_ref": "#/texts/114",
+      "self_ref": "#/texts/113",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3532,7 +3505,7 @@
       "text": "1.334"
     },
     {
-      "self_ref": "#/texts/115",
+      "self_ref": "#/texts/114",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3559,7 +3532,7 @@
       "text": "MARZO 7, 2019"
     },
     {
-      "self_ref": "#/texts/116",
+      "self_ref": "#/texts/115",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3586,7 +3559,7 @@
       "text": ")"
     },
     {
-      "self_ref": "#/texts/117",
+      "self_ref": "#/texts/116",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3613,7 +3586,7 @@
       "text": "1.244"
     },
     {
-      "self_ref": "#/texts/118",
+      "self_ref": "#/texts/117",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3640,7 +3613,7 @@
       "text": "FEBRERO 28, 2019"
     },
     {
-      "self_ref": "#/texts/119",
+      "self_ref": "#/texts/118",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3667,7 +3640,7 @@
       "text": ")"
     },
     {
-      "self_ref": "#/texts/120",
+      "self_ref": "#/texts/119",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3694,7 +3667,7 @@
       "text": "1.225"
     },
     {
-      "self_ref": "#/texts/121",
+      "self_ref": "#/texts/120",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3721,7 +3694,7 @@
       "text": "MARZO 1, 2019"
     },
     {
-      "self_ref": "#/texts/122",
+      "self_ref": "#/texts/121",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3748,7 +3721,7 @@
       "text": ")"
     },
     {
-      "self_ref": "#/texts/123",
+      "self_ref": "#/texts/122",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3775,7 +3748,7 @@
       "text": "1.088"
     },
     {
-      "self_ref": "#/texts/124",
+      "self_ref": "#/texts/123",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3802,7 +3775,7 @@
       "text": "MARZO 7, 2019"
     },
     {
-      "self_ref": "#/texts/125",
+      "self_ref": "#/texts/124",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3829,7 +3802,7 @@
       "text": ")"
     },
     {
-      "self_ref": "#/texts/126",
+      "self_ref": "#/texts/125",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3856,7 +3829,7 @@
       "text": "1.000"
     },
     {
-      "self_ref": "#/texts/127",
+      "self_ref": "#/texts/126",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3883,7 +3856,7 @@
       "text": "Hallan 19 cuerpos envueltos en bolsas en un canal de aguas negras en Jalisco"
     },
     {
-      "self_ref": "#/texts/128",
+      "self_ref": "#/texts/127",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3910,7 +3883,7 @@
       "text": "Muere un día antes de su fiesta, chambelanes bailan frente a su ataúd"
     },
     {
-      "self_ref": "#/texts/129",
+      "self_ref": "#/texts/128",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3937,7 +3910,7 @@
       "text": "Mujer transmite en vivo mientras abusa sexualmente de su hija"
     },
     {
-      "self_ref": "#/texts/130",
+      "self_ref": "#/texts/129",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3964,7 +3937,7 @@
       "text": "Puerto Vallarta hundido en inseguridad y los mandatarios callan"
     },
     {
-      "self_ref": "#/texts/131",
+      "self_ref": "#/texts/130",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3991,7 +3964,7 @@
       "text": "Por contaminación, cerrado el paso a playas cercanas al estero"
     },
     {
-      "self_ref": "#/texts/132",
+      "self_ref": "#/texts/131",
       "parent": {
         "$ref": "#/body"
       },
@@ -4018,7 +3991,7 @@
       "text": "FEBRERO 28, 2019"
     },
     {
-      "self_ref": "#/texts/133",
+      "self_ref": "#/texts/132",
       "parent": {
         "$ref": "#/body"
       },
@@ -4045,7 +4018,7 @@
       "text": ")"
     },
     {
-      "self_ref": "#/texts/134",
+      "self_ref": "#/texts/133",
       "parent": {
         "$ref": "#/body"
       },
@@ -4072,7 +4045,7 @@
       "text": "944"
     },
     {
-      "self_ref": "#/texts/135",
+      "self_ref": "#/texts/134",
       "parent": {
         "$ref": "#/body"
       },
@@ -4100,7 +4073,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/136",
+      "self_ref": "#/texts/135",
       "parent": {
         "$ref": "#/body"
       },
@@ -4127,7 +4100,7 @@
       "text": "https://vallartaindependiente.com/2018/07/06/activan-alerta-alba-por-la-desaparicion-de-joven-vallartense/"
     },
     {
-      "self_ref": "#/texts/137",
+      "self_ref": "#/texts/136",
       "parent": {
         "$ref": "#/body"
       },
@@ -4154,7 +4127,7 @@
       "text": "Page 2 of 4"
     },
     {
-      "self_ref": "#/texts/138",
+      "self_ref": "#/texts/137",
       "parent": {
         "$ref": "#/body"
       },
@@ -4181,7 +4154,7 @@
       "text": "Activan Alerta Alba por la desaparición de joven vallartense"
     },
     {
-      "self_ref": "#/texts/139",
+      "self_ref": "#/texts/138",
       "parent": {
         "$ref": "#/body"
       },
@@ -4208,7 +4181,7 @@
       "text": "3/29/19, 11(50 AM"
     },
     {
-      "self_ref": "#/texts/140",
+      "self_ref": "#/texts/139",
       "parent": {
         "$ref": "#/groups/0"
       },
@@ -4237,7 +4210,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/141",
+      "self_ref": "#/texts/140",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4264,7 +4237,7 @@
       "text": "1 FEBRERO, 2019"
     },
     {
-      "self_ref": "#/texts/142",
+      "self_ref": "#/texts/141",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4291,7 +4264,7 @@
       "text": "Dávalos contradice a Alfaro,"
     },
     {
-      "self_ref": "#/texts/143",
+      "self_ref": "#/texts/142",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4318,7 +4291,7 @@
       "text": "está a favor de las plataformas"
     },
     {
-      "self_ref": "#/texts/144",
+      "self_ref": "#/texts/143",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4345,7 +4318,7 @@
       "text": "de transporte"
     },
     {
-      "self_ref": "#/texts/145",
+      "self_ref": "#/texts/144",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4372,7 +4345,7 @@
       "text": "31 ENERO, 2019"
     },
     {
-      "self_ref": "#/texts/146",
+      "self_ref": "#/texts/145",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4399,7 +4372,7 @@
       "text": "Nayarit y Jalisco firman"
     },
     {
-      "self_ref": "#/texts/147",
+      "self_ref": "#/texts/146",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4426,7 +4399,7 @@
       "text": "acuerdo para crear área"
     },
     {
-      "self_ref": "#/texts/148",
+      "self_ref": "#/texts/147",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4453,7 +4426,7 @@
       "text": "Metropolitana"
     },
     {
-      "self_ref": "#/texts/149",
+      "self_ref": "#/texts/148",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4480,7 +4453,7 @@
       "text": "29 ENERO, 2019"
     },
     {
-      "self_ref": "#/texts/150",
+      "self_ref": "#/texts/149",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4507,7 +4480,7 @@
       "text": "Todo listo para el 8°"
     },
     {
-      "self_ref": "#/texts/151",
+      "self_ref": "#/texts/150",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4534,7 +4507,7 @@
       "text": "Campeonato Internacional"
     },
     {
-      "self_ref": "#/texts/152",
+      "self_ref": "#/texts/151",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4561,7 +4534,7 @@
       "text": "Charro"
     },
     {
-      "self_ref": "#/texts/153",
+      "self_ref": "#/texts/152",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4588,7 +4561,7 @@
       "text": "29 ENERO, 2019"
     },
     {
-      "self_ref": "#/texts/154",
+      "self_ref": "#/texts/153",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4615,7 +4588,7 @@
       "text": "Los 3 favores que pidió Yerena a"
     },
     {
-      "self_ref": "#/texts/155",
+      "self_ref": "#/texts/154",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4642,7 +4615,7 @@
       "text": "Alfaro"
     },
     {
-      "self_ref": "#/texts/156",
+      "self_ref": "#/texts/155",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4669,7 +4642,7 @@
       "text": "29 ENERO, 2019"
     },
     {
-      "self_ref": "#/texts/157",
+      "self_ref": "#/texts/156",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4696,7 +4669,7 @@
       "text": "Se da el primer paso para la"
     },
     {
-      "self_ref": "#/texts/158",
+      "self_ref": "#/texts/157",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4723,7 +4696,7 @@
       "text": "conurbación de Vallarta-Bahía"
     },
     {
-      "self_ref": "#/texts/159",
+      "self_ref": "#/texts/158",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4750,7 +4723,7 @@
       "text": "28 ENERO, 2019"
     },
     {
-      "self_ref": "#/texts/160",
+      "self_ref": "#/texts/159",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -4777,7 +4750,7 @@
       "text": "MARZO 16, 2019"
     },
     {
-      "self_ref": "#/texts/161",
+      "self_ref": "#/texts/160",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -4804,7 +4777,7 @@
       "text": ")"
     },
     {
-      "self_ref": "#/texts/162",
+      "self_ref": "#/texts/161",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -4831,7 +4804,7 @@
       "text": "714"
     },
     {
-      "self_ref": "#/texts/163",
+      "self_ref": "#/texts/162",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -4858,7 +4831,7 @@
       "text": "ABRIL 20, 2018"
     },
     {
-      "self_ref": "#/texts/164",
+      "self_ref": "#/texts/163",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -4885,7 +4858,7 @@
       "text": ")"
     },
     {
-      "self_ref": "#/texts/165",
+      "self_ref": "#/texts/164",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -4912,7 +4885,7 @@
       "text": "653"
     },
     {
-      "self_ref": "#/texts/166",
+      "self_ref": "#/texts/165",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -4939,7 +4912,7 @@
       "text": "MARZO 25, 2019"
     },
     {
-      "self_ref": "#/texts/167",
+      "self_ref": "#/texts/166",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -4966,7 +4939,7 @@
       "text": ")"
     },
     {
-      "self_ref": "#/texts/168",
+      "self_ref": "#/texts/167",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -4993,7 +4966,7 @@
       "text": "577"
     },
     {
-      "self_ref": "#/texts/169",
+      "self_ref": "#/texts/168",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -5020,7 +4993,7 @@
       "text": "MARZO 18, 2019"
     },
     {
-      "self_ref": "#/texts/170",
+      "self_ref": "#/texts/169",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -5047,7 +5020,7 @@
       "text": ")"
     },
     {
-      "self_ref": "#/texts/171",
+      "self_ref": "#/texts/170",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -5074,7 +5047,7 @@
       "text": "566"
     },
     {
-      "self_ref": "#/texts/172",
+      "self_ref": "#/texts/171",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -5101,7 +5074,7 @@
       "text": "¿Tienes hijos?, nuestro presidente"
     },
     {
-      "self_ref": "#/texts/173",
+      "self_ref": "#/texts/172",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -5128,7 +5101,7 @@
       "text": "te quiere dar una beca"
     },
     {
-      "self_ref": "#/texts/174",
+      "self_ref": "#/texts/173",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -5155,7 +5128,7 @@
       "text": "Capturan a 2 sujetos con droga en"
     },
     {
-      "self_ref": "#/texts/175",
+      "self_ref": "#/texts/174",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -5182,7 +5155,7 @@
       "text": "Puerto Vallarta, traían marihuana y"
     },
     {
-      "self_ref": "#/texts/176",
+      "self_ref": "#/texts/175",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -5209,7 +5182,7 @@
       "text": "cristal"
     },
     {
-      "self_ref": "#/texts/177",
+      "self_ref": "#/texts/176",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -5236,7 +5209,7 @@
       "text": "Autopista Jala-Puerto Vallarta"
     },
     {
-      "self_ref": "#/texts/178",
+      "self_ref": "#/texts/177",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -5263,7 +5236,7 @@
       "text": "estará en agosto de 2019: SCT"
     },
     {
-      "self_ref": "#/texts/179",
+      "self_ref": "#/texts/178",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -5290,7 +5263,7 @@
       "text": "Hombre abusa sexualmente de sus"
     },
     {
-      "self_ref": "#/texts/180",
+      "self_ref": "#/texts/179",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -5317,7 +5290,7 @@
       "text": "3 hijas, embaraza a 2 de ellas"
     },
     {
-      "self_ref": "#/texts/181",
+      "self_ref": "#/texts/180",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -5344,7 +5317,7 @@
       "text": "Capturan a presunto líder del CJNG"
     },
     {
-      "self_ref": "#/texts/182",
+      "self_ref": "#/texts/181",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5371,7 +5344,7 @@
       "text": "SITIO"
     },
     {
-      "self_ref": "#/texts/183",
+      "self_ref": "#/texts/182",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5398,7 +5371,7 @@
       "text": "+"
     },
     {
-      "self_ref": "#/texts/184",
+      "self_ref": "#/texts/183",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5425,7 +5398,7 @@
       "text": "Principal"
     },
     {
-      "self_ref": "#/texts/185",
+      "self_ref": "#/texts/184",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5452,7 +5425,7 @@
       "text": "Login"
     },
     {
-      "self_ref": "#/texts/186",
+      "self_ref": "#/texts/185",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5479,7 +5452,7 @@
       "text": ","
     },
     {
-      "self_ref": "#/texts/187",
+      "self_ref": "#/texts/186",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5506,7 +5479,7 @@
       "text": "Facebook"
     },
     {
-      "self_ref": "#/texts/188",
+      "self_ref": "#/texts/187",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5533,7 +5506,7 @@
       "text": "\""
     },
     {
-      "self_ref": "#/texts/189",
+      "self_ref": "#/texts/188",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5560,7 +5533,7 @@
       "text": "Twitter"
     },
     {
-      "self_ref": "#/texts/190",
+      "self_ref": "#/texts/189",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5587,7 +5560,7 @@
       "text": "-"
     },
     {
-      "self_ref": "#/texts/191",
+      "self_ref": "#/texts/190",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5614,7 +5587,7 @@
       "text": "Youtube"
     },
     {
-      "self_ref": "#/texts/192",
+      "self_ref": "#/texts/191",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5641,7 +5614,7 @@
       "text": "."
     },
     {
-      "self_ref": "#/texts/193",
+      "self_ref": "#/texts/192",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5668,7 +5641,7 @@
       "text": "Clasi"
     },
     {
-      "self_ref": "#/texts/194",
+      "self_ref": "#/texts/193",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5695,7 +5668,7 @@
       "text": "fi"
     },
     {
-      "self_ref": "#/texts/195",
+      "self_ref": "#/texts/194",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5722,7 +5695,7 @@
       "text": "cados"
     },
     {
-      "self_ref": "#/texts/196",
+      "self_ref": "#/texts/195",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5749,7 +5722,7 @@
       "text": "%"
     },
     {
-      "self_ref": "#/texts/197",
+      "self_ref": "#/texts/196",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5776,7 +5749,7 @@
       "text": "RSS Feed"
     },
     {
-      "self_ref": "#/texts/198",
+      "self_ref": "#/texts/197",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5803,7 +5776,7 @@
       "text": "NOTICIERO DIGITAL"
     },
     {
-      "self_ref": "#/texts/199",
+      "self_ref": "#/texts/198",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5830,7 +5803,7 @@
       "text": "VALLARTA INDEPENDIENTE"
     },
     {
-      "self_ref": "#/texts/200",
+      "self_ref": "#/texts/199",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5857,7 +5830,7 @@
       "text": "Mostramos información relevante y de calidad para"
     },
     {
-      "self_ref": "#/texts/201",
+      "self_ref": "#/texts/200",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5884,7 +5857,7 @@
       "text": "el lector, si usted desea recibir mas información"
     },
     {
-      "self_ref": "#/texts/202",
+      "self_ref": "#/texts/201",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5911,7 +5884,7 @@
       "text": "ingrese su correo para recibir nuestras publicaciones."
     },
     {
-      "self_ref": "#/texts/203",
+      "self_ref": "#/texts/202",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5938,7 +5911,7 @@
       "text": "Recibe nuestras notas:"
     },
     {
-      "self_ref": "#/texts/204",
+      "self_ref": "#/texts/203",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5965,7 +5938,7 @@
       "text": "Correo"
     },
     {
-      "self_ref": "#/texts/205",
+      "self_ref": "#/texts/204",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -5992,7 +5965,7 @@
       "text": "Suscribete"
     },
     {
-      "self_ref": "#/texts/206",
+      "self_ref": "#/texts/205",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -6019,7 +5992,7 @@
       "text": "MARZO 25, 2019"
     },
     {
-      "self_ref": "#/texts/207",
+      "self_ref": "#/texts/206",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -6046,7 +6019,7 @@
       "text": ")"
     },
     {
-      "self_ref": "#/texts/208",
+      "self_ref": "#/texts/207",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -6073,7 +6046,7 @@
       "text": "577"
     },
     {
-      "self_ref": "#/texts/209",
+      "self_ref": "#/texts/208",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -6100,7 +6073,7 @@
       "text": "MARZO 23, 2019"
     },
     {
-      "self_ref": "#/texts/210",
+      "self_ref": "#/texts/209",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -6127,7 +6100,7 @@
       "text": ")"
     },
     {
-      "self_ref": "#/texts/211",
+      "self_ref": "#/texts/210",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -6154,7 +6127,7 @@
       "text": "540"
     },
     {
-      "self_ref": "#/texts/212",
+      "self_ref": "#/texts/211",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -6181,7 +6154,7 @@
       "text": "MARZO 26, 2019"
     },
     {
-      "self_ref": "#/texts/213",
+      "self_ref": "#/texts/212",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -6208,7 +6181,7 @@
       "text": ")"
     },
     {
-      "self_ref": "#/texts/214",
+      "self_ref": "#/texts/213",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -6235,7 +6208,7 @@
       "text": "412"
     },
     {
-      "self_ref": "#/texts/215",
+      "self_ref": "#/texts/214",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -6262,7 +6235,7 @@
       "text": "TENDENCIA"
     },
     {
-      "self_ref": "#/texts/216",
+      "self_ref": "#/texts/215",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -6289,7 +6262,7 @@
       "text": "Hombre abusa sexualmente de sus 3"
     },
     {
-      "self_ref": "#/texts/217",
+      "self_ref": "#/texts/216",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -6316,7 +6289,7 @@
       "text": "hijas, embaraza a 2 de ellas"
     },
     {
-      "self_ref": "#/texts/218",
+      "self_ref": "#/texts/217",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -6343,7 +6316,7 @@
       "text": "Todo listo para el 'Down Puerto"
     },
     {
-      "self_ref": "#/texts/219",
+      "self_ref": "#/texts/218",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -6370,7 +6343,7 @@
       "text": "Vallarta 2019'"
     },
     {
-      "self_ref": "#/texts/220",
+      "self_ref": "#/texts/219",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -6397,7 +6370,7 @@
       "text": "Mexicanos tienen derecho a tener"
     },
     {
-      "self_ref": "#/texts/221",
+      "self_ref": "#/texts/220",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -6424,7 +6397,7 @@
       "text": "armas en su domicilio"
     },
     {
-      "self_ref": "#/texts/222",
+      "self_ref": "#/texts/221",
       "parent": {
         "$ref": "#/body"
       },
@@ -6451,7 +6424,7 @@
       "text": "https://vallartaindependiente.com/2018/07/06/activan-alerta-alba-por-la-desaparicion-de-joven-vallartense/"
     },
     {
-      "self_ref": "#/texts/223",
+      "self_ref": "#/texts/222",
       "parent": {
         "$ref": "#/body"
       },
@@ -6478,7 +6451,7 @@
       "text": "Page 3 of 4"
     },
     {
-      "self_ref": "#/texts/224",
+      "self_ref": "#/texts/223",
       "parent": {
         "$ref": "#/body"
       },
@@ -6505,7 +6478,7 @@
       "text": "Activan Alerta Alba por la desaparición de joven vallartense"
     },
     {
-      "self_ref": "#/texts/225",
+      "self_ref": "#/texts/224",
       "parent": {
         "$ref": "#/body"
       },
@@ -6532,7 +6505,7 @@
       "text": "3/29/19, 11(50 AM"
     },
     {
-      "self_ref": "#/texts/226",
+      "self_ref": "#/texts/225",
       "parent": {
         "$ref": "#/body"
       },
@@ -6559,7 +6532,7 @@
       "text": "Copyright © 2018 Green Shield Technology"
     },
     {
-      "self_ref": "#/texts/227",
+      "self_ref": "#/texts/226",
       "parent": {
         "$ref": "#/body"
       },
@@ -6586,7 +6559,7 @@
       "text": "Aviso de privacidad · Terminos de Uso"
     },
     {
-      "self_ref": "#/texts/228",
+      "self_ref": "#/texts/227",
       "parent": {
         "$ref": "#/body"
       },
@@ -6613,7 +6586,7 @@
       "text": "https://vallartaindependiente.com/2018/07/06/activan-alerta-alba-por-la-desaparicion-de-joven-vallartense/"
     },
     {
-      "self_ref": "#/texts/229",
+      "self_ref": "#/texts/228",
       "parent": {
         "$ref": "#/body"
       },
@@ -6666,10 +6639,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 408.6943054199219,
-            "t": 745.7134590148926,
-            "r": 470.54632568359375,
-            "b": 733.0233306884766,
+            "l": 408.6950378417969,
+            "t": 745.7141952514648,
+            "r": 470.5469055175781,
+            "b": 733.0237083435059,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6723,10 +6696,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 35.01518249511719,
-            "t": 732.9765548706055,
-            "r": 576.4544677734375,
-            "b": 523.7469177246094,
+            "l": 35.01551055908203,
+            "t": 732.9767570495605,
+            "r": 576.4559936523438,
+            "b": 523.7470397949219,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6762,10 +6735,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 35.130767822265625,
-            "t": 514.1771850585938,
-            "r": 169.8125,
-            "b": 460.6947021484375,
+            "l": 35.12909698486328,
+            "t": 514.1775207519531,
+            "r": 169.8132781982422,
+            "b": 460.694580078125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6791,10 +6764,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 59.26683044433594,
-            "t": 388.2494201660156,
-            "r": 66.50276184082031,
-            "b": 380.5061950683594,
+            "l": 59.266693115234375,
+            "t": 388.24847412109375,
+            "r": 66.50365447998047,
+            "b": 380.5065612792969,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6820,10 +6793,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 57.596370697021484,
-            "t": 339.44989013671875,
-            "r": 177.85804748535156,
-            "b": 184.3240966796875,
+            "l": 57.59644317626953,
+            "t": 339.4501647949219,
+            "r": 177.8575439453125,
+            "b": 184.3250732421875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6849,10 +6822,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 56.47627258300781,
-            "t": 183.42742919921875,
-            "r": 73.0462875366211,
-            "b": 161.23394775390625,
+            "l": 56.475624084472656,
+            "t": 183.427490234375,
+            "r": 73.04602813720703,
+            "b": 161.234375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6883,9 +6856,6 @@
         },
         {
           "$ref": "#/texts/58"
-        },
-        {
-          "$ref": "#/texts/59"
         }
       ],
       "content_layer": "body",
@@ -6895,9 +6865,9 @@
           "page_no": 1,
           "bbox": {
             "l": 411.7160949707031,
-            "t": 340.9264831542969,
-            "r": 563.9520263671875,
-            "b": 213.76312255859375,
+            "t": 340.9254455566406,
+            "r": 563.952392578125,
+            "b": 213.76275634765625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6923,10 +6893,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 40.122352600097656,
-            "t": 527.928955078125,
-            "r": 99.20492553710938,
-            "b": 438.580078125,
+            "l": 40.122318267822266,
+            "t": 527.9292907714844,
+            "r": 99.20459747314453,
+            "b": 438.5797424316406,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6947,13 +6917,13 @@
       },
       "children": [
         {
+          "$ref": "#/texts/76"
+        },
+        {
           "$ref": "#/texts/77"
         },
         {
           "$ref": "#/texts/78"
-        },
-        {
-          "$ref": "#/texts/79"
         }
       ],
       "content_layer": "body",
@@ -6962,10 +6932,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 339.4622497558594,
-            "t": 527.3961791992188,
-            "r": 382.71807861328125,
-            "b": 440.95123291015625,
+            "l": 339.4627685546875,
+            "t": 527.3975524902344,
+            "r": 382.7167663574219,
+            "b": 440.94830322265625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -6991,10 +6961,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 291.5160827636719,
-            "t": 528.2351989746094,
-            "r": 338.4864807128906,
-            "b": 438.6434020996094,
+            "l": 291.52008056640625,
+            "t": 528.2347717285156,
+            "r": 338.48614501953125,
+            "b": 438.64288330078125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7020,10 +6990,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 160.9512939453125,
-            "t": 528.1023254394531,
-            "r": 212.92503356933594,
-            "b": 439.0213928222656,
+            "l": 160.94967651367188,
+            "t": 528.1021728515625,
+            "r": 212.92457580566406,
+            "b": 439.0217590332031,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7049,10 +7019,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 221.13497924804688,
-            "t": 527.7908630371094,
-            "r": 280.20489501953125,
-            "b": 439.0611877441406,
+            "l": 221.13522338867188,
+            "t": 527.7906494140625,
+            "r": 280.2052307128906,
+            "b": 439.060546875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7078,10 +7048,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 101.12368774414062,
-            "t": 527.7191467285156,
+            "l": 101.12335205078125,
+            "t": 527.7198791503906,
             "r": 159.13113403320312,
-            "b": 438.60565185546875,
+            "b": 438.6062316894531,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7107,10 +7077,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 39.22114562988281,
-            "t": 146.63275146484375,
-            "r": 57.06001281738281,
-            "b": 128.67242431640625,
+            "l": 39.221466064453125,
+            "t": 146.6329345703125,
+            "r": 57.06011199951172,
+            "b": 128.67279052734375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7136,10 +7106,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 39.953125,
-            "t": 96.6326904296875,
-            "r": 47.35444641113281,
-            "b": 89.04083251953125,
+            "l": 39.95310592651367,
+            "t": 96.63275146484375,
+            "r": 47.35393524169922,
+            "b": 89.04107666015625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7160,7 +7130,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/94"
+          "$ref": "#/texts/93"
         }
       ],
       "content_layer": "body",
@@ -7169,10 +7139,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 224.72088623046875,
+            "l": 224.71951293945312,
             "t": 234.5289306640625,
-            "r": 255.67811584472656,
-            "b": 218.567626953125,
+            "r": 255.67843627929688,
+            "b": 218.56610107421875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7193,7 +7163,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/95"
+          "$ref": "#/texts/94"
         }
       ],
       "content_layer": "body",
@@ -7202,10 +7172,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 258.06512451171875,
-            "t": 234.48504638671875,
-            "r": 288.2861633300781,
-            "b": 218.5303955078125,
+            "l": 258.065185546875,
+            "t": 234.48529052734375,
+            "r": 288.28533935546875,
+            "b": 218.52972412109375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7226,7 +7196,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/96"
+          "$ref": "#/texts/95"
         }
       ],
       "content_layer": "body",
@@ -7235,10 +7205,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 289.7168884277344,
-            "t": 234.7501220703125,
-            "r": 321.19451904296875,
-            "b": 218.34893798828125,
+            "l": 289.7160339355469,
+            "t": 234.750732421875,
+            "r": 321.1963806152344,
+            "b": 218.3480224609375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7259,7 +7229,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/97"
+          "$ref": "#/texts/96"
         }
       ],
       "content_layer": "body",
@@ -7268,10 +7238,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 322.74078369140625,
-            "t": 234.5250244140625,
-            "r": 354.5137634277344,
-            "b": 218.57281494140625,
+            "l": 322.7410583496094,
+            "t": 234.52587890625,
+            "r": 354.51385498046875,
+            "b": 218.572509765625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7292,7 +7262,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/98"
+          "$ref": "#/texts/97"
         }
       ],
       "content_layer": "body",
@@ -7302,9 +7272,9 @@
           "page_no": 2,
           "bbox": {
             "l": 356.2022399902344,
-            "t": 234.70550537109375,
-            "r": 386.986572265625,
-            "b": 218.2559814453125,
+            "t": 234.7054443359375,
+            "r": 386.9869384765625,
+            "b": 218.25567626953125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7325,10 +7295,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/99"
+          "$ref": "#/texts/98"
         },
         {
-          "$ref": "#/texts/100"
+          "$ref": "#/texts/99"
         }
       ],
       "content_layer": "body",
@@ -7337,10 +7307,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 442.14422607421875,
-            "t": 741.5825996398926,
-            "r": 544.7853393554688,
-            "b": 709.331169128418,
+            "l": 442.14202880859375,
+            "t": 741.5832443237305,
+            "r": 544.7852783203125,
+            "b": 709.3306732177734,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7360,6 +7330,9 @@
         "$ref": "#/body"
       },
       "children": [
+        {
+          "$ref": "#/texts/111"
+        },
         {
           "$ref": "#/texts/112"
         },
@@ -7416,9 +7389,6 @@
         },
         {
           "$ref": "#/texts/130"
-        },
-        {
-          "$ref": "#/texts/131"
         }
       ],
       "content_layer": "body",
@@ -7427,10 +7397,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 462.42437744140625,
-            "t": 356.535888671875,
-            "r": 576.3801879882812,
-            "b": 74.9339599609375,
+            "l": 462.4254455566406,
+            "t": 356.5327453613281,
+            "r": 576.3804321289062,
+            "b": 74.93255615234375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7452,6 +7422,9 @@
       "children": [
         {
           "$ref": "#/groups/0"
+        },
+        {
+          "$ref": "#/texts/140"
         },
         {
           "$ref": "#/texts/141"
@@ -7506,9 +7479,6 @@
         },
         {
           "$ref": "#/texts/158"
-        },
-        {
-          "$ref": "#/texts/159"
         }
       ],
       "content_layer": "body",
@@ -7517,10 +7487,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 34.10352325439453,
-            "t": 691.5187911987305,
-            "r": 388.3770446777344,
-            "b": 537.2497100830078,
+            "l": 34.10368728637695,
+            "t": 691.5188217163086,
+            "r": 388.37811279296875,
+            "b": 537.25048828125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7540,6 +7510,9 @@
         "$ref": "#/body"
       },
       "children": [
+        {
+          "$ref": "#/texts/159"
+        },
         {
           "$ref": "#/texts/160"
         },
@@ -7602,9 +7575,6 @@
         },
         {
           "$ref": "#/texts/180"
-        },
-        {
-          "$ref": "#/texts/181"
         }
       ],
       "content_layer": "body",
@@ -7613,10 +7583,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 462.0618896484375,
-            "t": 751.1091766357422,
-            "r": 576.6875610351562,
-            "b": 506.0257263183594,
+            "l": 462.06304931640625,
+            "t": 751.102840423584,
+            "r": 576.6892700195312,
+            "b": 506.0312194824219,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -7636,6 +7606,9 @@
         "$ref": "#/body"
       },
       "children": [
+        {
+          "$ref": "#/texts/181"
+        },
         {
           "$ref": "#/texts/182"
         },
@@ -7752,9 +7725,6 @@
         },
         {
           "$ref": "#/texts/220"
-        },
-        {
-          "$ref": "#/texts/221"
         }
       ],
       "content_layer": "body",
@@ -7763,10 +7733,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 16.984067916870117,
-            "t": 300.14398193359375,
-            "r": 594.6395263671875,
-            "b": 63.550537109375,
+            "l": 16.98439598083496,
+            "t": 300.1452941894531,
+            "r": 594.640380859375,
+            "b": 63.55120849609375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

@@ -135,64 +135,25 @@
         "$ref": "#/pictures/9"
       },
       {
-        "$ref": "#/texts/46"
-      },
-      {
-        "$ref": "#/texts/47"
-      },
-      {
-        "$ref": "#/texts/48"
-      },
-      {
-        "$ref": "#/texts/49"
-      },
-      {
-        "$ref": "#/texts/50"
-      },
-      {
-        "$ref": "#/texts/51"
-      },
-      {
-        "$ref": "#/texts/52"
-      },
-      {
-        "$ref": "#/texts/53"
-      },
-      {
-        "$ref": "#/texts/54"
-      },
-      {
-        "$ref": "#/texts/55"
-      },
-      {
-        "$ref": "#/texts/56"
-      },
-      {
-        "$ref": "#/texts/57"
-      },
-      {
-        "$ref": "#/texts/58"
-      },
-      {
-        "$ref": "#/texts/59"
+        "$ref": "#/groups/1"
       },
       {
         "$ref": "#/pictures/10"
       },
       {
-        "$ref": "#/texts/61"
+        "$ref": "#/texts/75"
       },
       {
-        "$ref": "#/texts/62"
+        "$ref": "#/texts/76"
       },
       {
-        "$ref": "#/texts/63"
+        "$ref": "#/texts/77"
       },
       {
-        "$ref": "#/texts/64"
+        "$ref": "#/texts/78"
       },
       {
-        "$ref": "#/texts/65"
+        "$ref": "#/texts/79"
       },
       {
         "$ref": "#/pictures/11"
@@ -220,48 +181,6 @@
       },
       {
         "$ref": "#/pictures/19"
-      },
-      {
-        "$ref": "#/texts/78"
-      },
-      {
-        "$ref": "#/texts/79"
-      },
-      {
-        "$ref": "#/texts/80"
-      },
-      {
-        "$ref": "#/texts/81"
-      },
-      {
-        "$ref": "#/texts/82"
-      },
-      {
-        "$ref": "#/texts/83"
-      },
-      {
-        "$ref": "#/texts/84"
-      },
-      {
-        "$ref": "#/texts/85"
-      },
-      {
-        "$ref": "#/texts/86"
-      },
-      {
-        "$ref": "#/texts/87"
-      },
-      {
-        "$ref": "#/texts/88"
-      },
-      {
-        "$ref": "#/texts/89"
-      },
-      {
-        "$ref": "#/texts/90"
-      },
-      {
-        "$ref": "#/texts/91"
       },
       {
         "$ref": "#/texts/92"
@@ -297,7 +216,10 @@
         "$ref": "#/texts/102"
       },
       {
-        "$ref": "#/pictures/20"
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
       },
       {
         "$ref": "#/texts/105"
@@ -306,7 +228,10 @@
         "$ref": "#/texts/106"
       },
       {
-        "$ref": "#/pictures/21"
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
       },
       {
         "$ref": "#/texts/109"
@@ -315,7 +240,10 @@
         "$ref": "#/texts/110"
       },
       {
-        "$ref": "#/pictures/22"
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
       },
       {
         "$ref": "#/texts/113"
@@ -330,13 +258,7 @@
         "$ref": "#/texts/116"
       },
       {
-        "$ref": "#/texts/117"
-      },
-      {
-        "$ref": "#/texts/118"
-      },
-      {
-        "$ref": "#/pictures/23"
+        "$ref": "#/pictures/20"
       },
       {
         "$ref": "#/texts/119"
@@ -345,16 +267,55 @@
         "$ref": "#/texts/120"
       },
       {
-        "$ref": "#/texts/121"
+        "$ref": "#/pictures/21"
       },
       {
-        "$ref": "#/pictures/24"
+        "$ref": "#/texts/123"
       },
       {
         "$ref": "#/texts/124"
       },
       {
-        "$ref": "#/texts/125"
+        "$ref": "#/pictures/22"
+      },
+      {
+        "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/texts/129"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/pictures/23"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/pictures/24"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/texts/139"
       }
     ],
     "content_layer": "body",
@@ -370,6 +331,101 @@
       "children": [
         {
           "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
         }
       ],
       "content_layer": "body",
@@ -1626,7 +1682,61 @@
     {
       "self_ref": "#/texts/46",
       "parent": {
-        "$ref": "#/body"
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 556.246,
+            "t": 373.5199951171876,
+            "r": 563.701,
+            "b": 366.35899511718753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "#",
+      "text": "#"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 563.699,
+            "t": 377.3049951171877,
+            "r": 573.824,
+            "b": 368.1819951171876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -1652,9 +1762,9 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/47",
+      "self_ref": "#/texts/49",
       "parent": {
-        "$ref": "#/body"
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -1679,9 +1789,63 @@
       "text": "Sabotean por cuarta vez estrategia antihuachicol de AMLO"
     },
     {
-      "self_ref": "#/texts/48",
+      "self_ref": "#/texts/50",
       "parent": {
-        "$ref": "#/body"
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 556.246,
+            "t": 324.0199951171876,
+            "r": 563.701,
+            "b": 316.85899511718753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "#",
+      "text": "#"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 563.699,
+            "t": 327.8049951171877,
+            "r": 573.824,
+            "b": 318.6819951171876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -1707,9 +1871,9 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/49",
+      "self_ref": "#/texts/53",
       "parent": {
-        "$ref": "#/body"
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -1734,9 +1898,63 @@
       "text": "Combate Protección Federal huachicoleo"
     },
     {
-      "self_ref": "#/texts/50",
+      "self_ref": "#/texts/54",
       "parent": {
-        "$ref": "#/body"
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 556.246,
+            "t": 285.0199951171876,
+            "r": 563.701,
+            "b": 277.85899511718753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "#",
+      "text": "#"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 563.699,
+            "t": 288.8049951171877,
+            "r": 573.824,
+            "b": 279.6819951171876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -1762,9 +1980,9 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/51",
+      "self_ref": "#/texts/57",
       "parent": {
-        "$ref": "#/body"
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -1789,9 +2007,63 @@
       "text": "Ejecutan a hombre dentro de su casa en la Porrio Silva"
     },
     {
-      "self_ref": "#/texts/52",
+      "self_ref": "#/texts/58",
       "parent": {
-        "$ref": "#/body"
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 556.246,
+            "t": 235.5199951171876,
+            "r": 563.701,
+            "b": 228.35899511718765,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "#",
+      "text": "#"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 563.699,
+            "t": 239.30499511718767,
+            "r": 573.824,
+            "b": 230.18199511718763,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -1817,9 +2089,9 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/53",
+      "self_ref": "#/texts/61",
       "parent": {
-        "$ref": "#/body"
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -1844,9 +2116,63 @@
       "text": "Caen tres menores por robo en el Mercado Municipal de Cuauhtémoc"
     },
     {
-      "self_ref": "#/texts/54",
+      "self_ref": "#/texts/62",
       "parent": {
-        "$ref": "#/body"
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 556.246,
+            "t": 186.0199951171876,
+            "r": 563.701,
+            "b": 178.85899511718765,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "#",
+      "text": "#"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 563.699,
+            "t": 189.80499511718767,
+            "r": 573.824,
+            "b": 180.68199511718763,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -1872,9 +2198,9 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/55",
+      "self_ref": "#/texts/65",
       "parent": {
-        "$ref": "#/body"
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -1899,9 +2225,63 @@
       "text": "Tendrá prisión domiciliaria excoordinadora de penales en fuga de 'El Chapo'"
     },
     {
-      "self_ref": "#/texts/56",
+      "self_ref": "#/texts/66",
       "parent": {
-        "$ref": "#/body"
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 556.246,
+            "t": 122.26999511718759,
+            "r": 563.701,
+            "b": 115.10899511718753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "#",
+      "text": "#"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 563.699,
+            "t": 126.05499511718767,
+            "r": 573.824,
+            "b": 116.93199511718763,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -1927,9 +2307,9 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/57",
+      "self_ref": "#/texts/69",
       "parent": {
-        "$ref": "#/body"
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -1954,9 +2334,63 @@
       "text": "Militares por tierra y aire, así protegen los ductos de Pemex"
     },
     {
-      "self_ref": "#/texts/58",
+      "self_ref": "#/texts/70",
       "parent": {
-        "$ref": "#/body"
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 556.246,
+            "t": 72.76999511718759,
+            "r": 563.701,
+            "b": 65.60899511718753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "#",
+      "text": "#"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 563.699,
+            "t": 76.55499511718767,
+            "r": 573.824,
+            "b": 67.43199511718763,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -1982,9 +2416,9 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/59",
+      "self_ref": "#/texts/73",
       "parent": {
-        "$ref": "#/body"
+        "$ref": "#/groups/1"
       },
       "children": [],
       "content_layer": "body",
@@ -2009,7 +2443,7 @@
       "text": "Les guste o no, AMLO es un presidente serio: Porrio Muñoz Ledo"
     },
     {
-      "self_ref": "#/texts/60",
+      "self_ref": "#/texts/74",
       "parent": {
         "$ref": "#/pictures/10"
       },
@@ -2036,7 +2470,7 @@
       "text": "| "
     },
     {
-      "self_ref": "#/texts/61",
+      "self_ref": "#/texts/75",
       "parent": {
         "$ref": "#/body"
       },
@@ -2063,7 +2497,7 @@
       "text": "diario.mx/Nacional/2012-11-01_68525e17/desaparece-jefe-de-la-policia-municipal-de-guerrero-coahuila/"
     },
     {
-      "self_ref": "#/texts/62",
+      "self_ref": "#/texts/76",
       "parent": {
         "$ref": "#/body"
       },
@@ -2090,7 +2524,7 @@
       "text": "1/3"
     },
     {
-      "self_ref": "#/texts/63",
+      "self_ref": "#/texts/77",
       "parent": {
         "$ref": "#/body"
       },
@@ -2117,7 +2551,7 @@
       "text": "27/11/2019"
     },
     {
-      "self_ref": "#/texts/64",
+      "self_ref": "#/texts/78",
       "parent": {
         "$ref": "#/body"
       },
@@ -2144,7 +2578,7 @@
       "text": "Desaparece jefe de la policía municipal de Guerrero, Coahuila - El Diario"
     },
     {
-      "self_ref": "#/texts/65",
+      "self_ref": "#/texts/79",
       "parent": {
         "$ref": "#/body"
       },
@@ -2172,7 +2606,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/66",
+      "self_ref": "#/texts/80",
       "parent": {
         "$ref": "#/pictures/12"
       },
@@ -2199,7 +2633,7 @@
       "text": "Litb"
     },
     {
-      "self_ref": "#/texts/67",
+      "self_ref": "#/texts/81",
       "parent": {
         "$ref": "#/pictures/18"
       },
@@ -2226,7 +2660,7 @@
       "text": "WHILL WE"
     },
     {
-      "self_ref": "#/texts/68",
+      "self_ref": "#/texts/82",
       "parent": {
         "$ref": "#/pictures/18"
       },
@@ -2253,7 +2687,7 @@
       "text": "GET"
     },
     {
-      "self_ref": "#/texts/69",
+      "self_ref": "#/texts/83",
       "parent": {
         "$ref": "#/pictures/18"
       },
@@ -2280,7 +2714,7 @@
       "text": "45"
     },
     {
-      "self_ref": "#/texts/70",
+      "self_ref": "#/texts/84",
       "parent": {
         "$ref": "#/pictures/18"
       },
@@ -2307,7 +2741,7 @@
       "text": "olstages"
     },
     {
-      "self_ref": "#/texts/71",
+      "self_ref": "#/texts/85",
       "parent": {
         "$ref": "#/pictures/19"
       },
@@ -2334,7 +2768,7 @@
       "text": "SOS"
     },
     {
-      "self_ref": "#/texts/72",
+      "self_ref": "#/texts/86",
       "parent": {
         "$ref": "#/pictures/19"
       },
@@ -2361,7 +2795,7 @@
       "text": "MADURO"
     },
     {
-      "self_ref": "#/texts/73",
+      "self_ref": "#/texts/87",
       "parent": {
         "$ref": "#/pictures/19"
       },
@@ -2388,7 +2822,7 @@
       "text": "VENEZUELAN"
     },
     {
-      "self_ref": "#/texts/74",
+      "self_ref": "#/texts/88",
       "parent": {
         "$ref": "#/pictures/19"
       },
@@ -2415,7 +2849,7 @@
       "text": "ILEGITIMo"
     },
     {
-      "self_ref": "#/texts/75",
+      "self_ref": "#/texts/89",
       "parent": {
         "$ref": "#/pictures/19"
       },
@@ -2442,7 +2876,7 @@
       "text": "Nos"
     },
     {
-      "self_ref": "#/texts/76",
+      "self_ref": "#/texts/90",
       "parent": {
         "$ref": "#/pictures/19"
       },
@@ -2469,7 +2903,7 @@
       "text": "INO"
     },
     {
-      "self_ref": "#/texts/77",
+      "self_ref": "#/texts/91",
       "parent": {
         "$ref": "#/pictures/19"
       },
@@ -2496,7 +2930,7 @@
       "text": "SOLOS!"
     },
     {
-      "self_ref": "#/texts/78",
+      "self_ref": "#/texts/92",
       "parent": {
         "$ref": "#/body"
       },
@@ -2524,7 +2958,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/79",
+      "self_ref": "#/texts/93",
       "parent": {
         "$ref": "#/body"
       },
@@ -2551,7 +2985,7 @@
       "text": "El Diario de Juárez | 21:01hrs."
     },
     {
-      "self_ref": "#/texts/80",
+      "self_ref": "#/texts/94",
       "parent": {
         "$ref": "#/body"
       },
@@ -2578,7 +3012,7 @@
       "text": "El Partido de la Revolución Democrática acusó falta de experiencia a Rocío Nahle por no dar solución al desabasto de combustible en el país"
     },
     {
-      "self_ref": "#/texts/81",
+      "self_ref": "#/texts/95",
       "parent": {
         "$ref": "#/body"
       },
@@ -2606,7 +3040,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/82",
+      "self_ref": "#/texts/96",
       "parent": {
         "$ref": "#/body"
       },
@@ -2633,7 +3067,7 @@
       "text": "Associated Press | 21:01hrs. Orlando se impuso 105-103 a Boston y con ello rompió su racha de cuatro derrotas consecutivas"
     },
     {
-      "self_ref": "#/texts/83",
+      "self_ref": "#/texts/97",
       "parent": {
         "$ref": "#/body"
       },
@@ -2661,7 +3095,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/84",
+      "self_ref": "#/texts/98",
       "parent": {
         "$ref": "#/body"
       },
@@ -2688,7 +3122,7 @@
       "text": "Excélsior | 19:01hrs."
     },
     {
-      "self_ref": "#/texts/85",
+      "self_ref": "#/texts/99",
       "parent": {
         "$ref": "#/body"
       },
@@ -2715,7 +3149,7 @@
       "text": "Esto por considerar al gobierno de Nicolás Maduro como una dictadura"
     },
     {
-      "self_ref": "#/texts/86",
+      "self_ref": "#/texts/100",
       "parent": {
         "$ref": "#/body"
       },
@@ -2743,7 +3177,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/87",
+      "self_ref": "#/texts/101",
       "parent": {
         "$ref": "#/body"
       },
@@ -2770,7 +3204,7 @@
       "text": "Reforma | 08:01hrs."
     },
     {
-      "self_ref": "#/texts/88",
+      "self_ref": "#/texts/102",
       "parent": {
         "$ref": "#/body"
       },
@@ -2797,7 +3231,7 @@
       "text": "AMLO iniciará en Morelos la celebración por Centenario de la muerte de Emiliano Zapata, a quien rendirá homenaje el primer año de Gobierno"
     },
     {
-      "self_ref": "#/texts/89",
+      "self_ref": "#/texts/103",
       "parent": {
         "$ref": "#/body"
       },
@@ -2825,7 +3259,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/90",
+      "self_ref": "#/texts/104",
       "parent": {
         "$ref": "#/body"
       },
@@ -2852,7 +3286,7 @@
       "text": "Reforma | 21:01hrs."
     },
     {
-      "self_ref": "#/texts/91",
+      "self_ref": "#/texts/105",
       "parent": {
         "$ref": "#/body"
       },
@@ -2879,7 +3313,7 @@
       "text": "Es una caída de 28 por ciento respecto a diciembre de 2017 y enero de 2018"
     },
     {
-      "self_ref": "#/texts/92",
+      "self_ref": "#/texts/106",
       "parent": {
         "$ref": "#/body"
       },
@@ -2907,7 +3341,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/93",
+      "self_ref": "#/texts/107",
       "parent": {
         "$ref": "#/body"
       },
@@ -2934,7 +3368,7 @@
       "text": "Excélsior | 19:01hrs."
     },
     {
-      "self_ref": "#/texts/94",
+      "self_ref": "#/texts/108",
       "parent": {
         "$ref": "#/body"
       },
@@ -2961,7 +3395,7 @@
       "text": "Son varios los países de América que no reconocen el gobierno de Nicolás Maduro en Venezuela por considerarlo una dictadura"
     },
     {
-      "self_ref": "#/texts/95",
+      "self_ref": "#/texts/109",
       "parent": {
         "$ref": "#/body"
       },
@@ -2989,7 +3423,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/96",
+      "self_ref": "#/texts/110",
       "parent": {
         "$ref": "#/body"
       },
@@ -3016,7 +3450,7 @@
       "text": "El Diario de Juárez | 19:01hrs. Esta herramienta utiliza un algoritmo que analiza las tarifas de boletos de avión en cualquier fecha"
     },
     {
-      "self_ref": "#/texts/97",
+      "self_ref": "#/texts/111",
       "parent": {
         "$ref": "#/body"
       },
@@ -3044,7 +3478,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/98",
+      "self_ref": "#/texts/112",
       "parent": {
         "$ref": "#/body"
       },
@@ -3071,7 +3505,7 @@
       "text": "muro"
     },
     {
-      "self_ref": "#/texts/99",
+      "self_ref": "#/texts/113",
       "parent": {
         "$ref": "#/body"
       },
@@ -3098,7 +3532,7 @@
       "text": "El Diario de Juárez | 14:01hrs."
     },
     {
-      "self_ref": "#/texts/100",
+      "self_ref": "#/texts/114",
       "parent": {
         "$ref": "#/body"
       },
@@ -3125,7 +3559,7 @@
       "text": "El cierre parcial de gobierno en Estados Unidos ha supuesto una pérdida de 3 mil 600 millones de dólares hasta el momento"
     },
     {
-      "self_ref": "#/texts/101",
+      "self_ref": "#/texts/115",
       "parent": {
         "$ref": "#/body"
       },
@@ -3153,7 +3587,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/102",
+      "self_ref": "#/texts/116",
       "parent": {
         "$ref": "#/body"
       },
@@ -3194,7 +3628,7 @@
       "text": "Associated Press | 09:01hrs. La oposición ha considerado el segundo mandato del presidente como 'usurpación' de cargo"
     },
     {
-      "self_ref": "#/texts/103",
+      "self_ref": "#/texts/117",
       "parent": {
         "$ref": "#/pictures/20"
       },
@@ -3221,7 +3655,7 @@
       "text": "#"
     },
     {
-      "self_ref": "#/texts/104",
+      "self_ref": "#/texts/118",
       "parent": {
         "$ref": "#/pictures/20"
       },
@@ -3248,7 +3682,7 @@
       "text": "8"
     },
     {
-      "self_ref": "#/texts/105",
+      "self_ref": "#/texts/119",
       "parent": {
         "$ref": "#/body"
       },
@@ -3276,7 +3710,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/106",
+      "self_ref": "#/texts/120",
       "parent": {
         "$ref": "#/body"
       },
@@ -3303,7 +3737,7 @@
       "text": "Tiran cadáver encobijado en colonia Los Alcaldes"
     },
     {
-      "self_ref": "#/texts/107",
+      "self_ref": "#/texts/121",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3330,7 +3764,7 @@
       "text": "#"
     },
     {
-      "self_ref": "#/texts/108",
+      "self_ref": "#/texts/122",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -3357,7 +3791,7 @@
       "text": "9"
     },
     {
-      "self_ref": "#/texts/109",
+      "self_ref": "#/texts/123",
       "parent": {
         "$ref": "#/body"
       },
@@ -3384,7 +3818,7 @@
       "text": "Nacional"
     },
     {
-      "self_ref": "#/texts/110",
+      "self_ref": "#/texts/124",
       "parent": {
         "$ref": "#/body"
       },
@@ -3411,7 +3845,7 @@
       "text": "Inicia AMLO festejos por Zapata"
     },
     {
-      "self_ref": "#/texts/111",
+      "self_ref": "#/texts/125",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -3438,7 +3872,7 @@
       "text": "#"
     },
     {
-      "self_ref": "#/texts/112",
+      "self_ref": "#/texts/126",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -3465,7 +3899,7 @@
       "text": "10"
     },
     {
-      "self_ref": "#/texts/113",
+      "self_ref": "#/texts/127",
       "parent": {
         "$ref": "#/body"
       },
@@ -3492,7 +3926,7 @@
       "text": "Estado"
     },
     {
-      "self_ref": "#/texts/114",
+      "self_ref": "#/texts/128",
       "parent": {
         "$ref": "#/body"
       },
@@ -3519,7 +3953,7 @@
       "text": "Automóvil y tráiler arrollan a peatón en la carretera Camargo-Jiménez"
     },
     {
-      "self_ref": "#/texts/115",
+      "self_ref": "#/texts/129",
       "parent": {
         "$ref": "#/body"
       },
@@ -3546,7 +3980,7 @@
       "text": "diario.mx/Nacional/2012-11-01_68525e17/desaparece-jefe-de-la-policia-municipal-de-guerrero-coahuila/"
     },
     {
-      "self_ref": "#/texts/116",
+      "self_ref": "#/texts/130",
       "parent": {
         "$ref": "#/body"
       },
@@ -3573,7 +4007,7 @@
       "text": "2/3"
     },
     {
-      "self_ref": "#/texts/117",
+      "self_ref": "#/texts/131",
       "parent": {
         "$ref": "#/body"
       },
@@ -3600,7 +4034,7 @@
       "text": "27/11/2019"
     },
     {
-      "self_ref": "#/texts/118",
+      "self_ref": "#/texts/132",
       "parent": {
         "$ref": "#/body"
       },
@@ -3627,7 +4061,7 @@
       "text": "Desaparece jefe de la policía municipal de Guerrero, Coahuila - El Diario"
     },
     {
-      "self_ref": "#/texts/119",
+      "self_ref": "#/texts/133",
       "parent": {
         "$ref": "#/body"
       },
@@ -3654,7 +4088,7 @@
       "text": "Directorio ¿Quiénes somos? Publicidad El Clima Suscripciones"
     },
     {
-      "self_ref": "#/texts/120",
+      "self_ref": "#/texts/134",
       "parent": {
         "$ref": "#/body"
       },
@@ -3681,7 +4115,7 @@
       "text": "Política de privacidad Contacto RSS En tu Mail Ayuda"
     },
     {
-      "self_ref": "#/texts/121",
+      "self_ref": "#/texts/135",
       "parent": {
         "$ref": "#/body"
       },
@@ -3708,7 +4142,7 @@
       "text": "Síguenos en:"
     },
     {
-      "self_ref": "#/texts/122",
+      "self_ref": "#/texts/136",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -3735,7 +4169,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/123",
+      "self_ref": "#/texts/137",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -3762,7 +4196,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/124",
+      "self_ref": "#/texts/138",
       "parent": {
         "$ref": "#/body"
       },
@@ -3789,7 +4223,7 @@
       "text": "diario.mx/Nacional/2012-11-01_68525e17/desaparece-jefe-de-la-policia-municipal-de-guerrero-coahuila/"
     },
     {
-      "self_ref": "#/texts/125",
+      "self_ref": "#/texts/139",
       "parent": {
         "$ref": "#/body"
       },
@@ -3833,10 +4267,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 64.45153045654297,
-            "t": 1097.6390762329102,
-            "r": 78.17330169677734,
-            "b": 1085.5840759277344,
+            "l": 64.45130157470703,
+            "t": 1097.6380996704102,
+            "r": 78.1708984375,
+            "b": 1085.5850524902344,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3869,10 +4303,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 46.78771209716797,
-            "t": 900.1736450195312,
-            "r": 545.8345947265625,
-            "b": 586.0010375976562,
+            "l": 46.7866325378418,
+            "t": 900.1727294921875,
+            "r": 545.8343505859375,
+            "b": 585.998291015625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3898,10 +4332,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 408.0696716308594,
-            "t": 1155.4441375732422,
-            "r": 438.68951416015625,
-            "b": 1124.6563110351562,
+            "l": 408.0729675292969,
+            "t": 1155.4421844482422,
+            "r": 438.6896057128906,
+            "b": 1124.65673828125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3934,10 +4368,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 554.9009399414062,
-            "t": 379.2545166015625,
-            "r": 573.32666015625,
-            "b": 361.011962890625,
+            "l": 554.9000854492188,
+            "t": 379.25787353515625,
+            "r": 573.3271484375,
+            "b": 361.00958251953125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3970,10 +4404,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 554.3901977539062,
-            "t": 330.12200927734375,
-            "r": 573.6141967773438,
-            "b": 310.4649658203125,
+            "l": 554.3895874023438,
+            "t": 330.1265869140625,
+            "r": 573.6131591796875,
+            "b": 310.465576171875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4006,10 +4440,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 554.5503540039062,
-            "t": 291.45855712890625,
-            "r": 574.2252197265625,
-            "b": 271.96575927734375,
+            "l": 554.5499267578125,
+            "t": 291.4605712890625,
+            "r": 574.225341796875,
+            "b": 271.96697998046875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4042,10 +4476,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 554.5386962890625,
-            "t": 240.842041015625,
-            "r": 573.756103515625,
-            "b": 221.79888916015625,
+            "l": 554.53955078125,
+            "t": 240.84295654296875,
+            "r": 573.7549438476562,
+            "b": 221.79937744140625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4078,10 +4512,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 554.5146484375,
-            "t": 191.5321044921875,
-            "r": 574.2323608398438,
-            "b": 172.82220458984375,
+            "l": 554.5162963867188,
+            "t": 191.5302734375,
+            "r": 574.2307739257812,
+            "b": 172.82403564453125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4114,10 +4548,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 554.6923217773438,
-            "t": 127.556884765625,
-            "r": 574.0316162109375,
-            "b": 109.172607421875,
+            "l": 554.689697265625,
+            "t": 127.557861328125,
+            "r": 574.03076171875,
+            "b": 109.1741943359375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4150,10 +4584,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 554.6763305664062,
-            "t": 78.9083251953125,
-            "r": 574.6071166992188,
-            "b": 58.40771484375,
+            "l": 554.674560546875,
+            "t": 78.9073486328125,
+            "r": 574.6073608398438,
+            "b": 58.4090576171875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4174,7 +4608,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/60"
+          "$ref": "#/texts/74"
         }
       ],
       "content_layer": "body",
@@ -4183,10 +4617,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 776.474853515625,
-            "t": 1144.0917778015137,
-            "r": 793.55224609375,
-            "b": 1129.0444679260254,
+            "l": 776.4784545898438,
+            "t": 1144.0915870666504,
+            "r": 793.5502319335938,
+            "b": 1129.0435409545898,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4212,10 +4646,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 48.00749206542969,
-            "t": 1096.2436752319336,
-            "r": 206.61988830566406,
-            "b": 993.0839691162109,
+            "l": 48.00619888305664,
+            "t": 1096.2456436157227,
+            "r": 206.62017822265625,
+            "b": 993.0835418701172,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4236,7 +4670,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/66"
+          "$ref": "#/texts/80"
         }
       ],
       "content_layer": "body",
@@ -4245,10 +4679,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 47.459747314453125,
-            "t": 976.8257446289062,
-            "r": 206.68865966796875,
-            "b": 848.3162231445312,
+            "l": 47.46342468261719,
+            "t": 976.8274841308594,
+            "r": 206.6918487548828,
+            "b": 848.3193969726562,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4274,10 +4708,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 47.14141845703125,
-            "t": 832.7904968261719,
-            "r": 206.51849365234375,
-            "b": 729.3956909179688,
+            "l": 47.141727447509766,
+            "t": 832.7915954589844,
+            "r": 206.51803588867188,
+            "b": 729.3957824707031,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4303,10 +4737,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 47.034393310546875,
-            "t": 713.5503845214844,
-            "r": 62.19049835205078,
-            "b": 698.4632568359375,
+            "l": 47.03361892700195,
+            "t": 713.5493469238281,
+            "r": 62.191612243652344,
+            "b": 698.4614562988281,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4332,10 +4766,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 47.44183349609375,
-            "t": 615.877685546875,
-            "r": 206.78952026367188,
-            "b": 512.9738159179688,
+            "l": 47.44133758544922,
+            "t": 615.8792724609375,
+            "r": 206.7904510498047,
+            "b": 512.9725952148438,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4361,10 +4795,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 47.694034576416016,
-            "t": 496.6591796875,
-            "r": 206.62632751464844,
-            "b": 395.896728515625,
+            "l": 47.69316864013672,
+            "t": 496.6590576171875,
+            "r": 206.62771606445312,
+            "b": 395.8970947265625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4390,10 +4824,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 47.49972915649414,
-            "t": 378.36444091796875,
-            "r": 206.6588897705078,
-            "b": 279.0753173828125,
+            "l": 47.49956512451172,
+            "t": 378.3643798828125,
+            "r": 206.6597137451172,
+            "b": 279.07611083984375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4414,16 +4848,16 @@
       },
       "children": [
         {
-          "$ref": "#/texts/67"
+          "$ref": "#/texts/81"
         },
         {
-          "$ref": "#/texts/68"
+          "$ref": "#/texts/82"
         },
         {
-          "$ref": "#/texts/69"
+          "$ref": "#/texts/83"
         },
         {
-          "$ref": "#/texts/70"
+          "$ref": "#/texts/84"
         }
       ],
       "content_layer": "body",
@@ -4432,10 +4866,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 47.36845779418945,
-            "t": 263.23876953125,
-            "r": 206.7611846923828,
-            "b": 161.3216552734375,
+            "l": 47.36763000488281,
+            "t": 263.23931884765625,
+            "r": 206.7619171142578,
+            "b": 161.3209228515625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4456,25 +4890,25 @@
       },
       "children": [
         {
-          "$ref": "#/texts/71"
+          "$ref": "#/texts/85"
         },
         {
-          "$ref": "#/texts/72"
+          "$ref": "#/texts/86"
         },
         {
-          "$ref": "#/texts/73"
+          "$ref": "#/texts/87"
         },
         {
-          "$ref": "#/texts/74"
+          "$ref": "#/texts/88"
         },
         {
-          "$ref": "#/texts/75"
+          "$ref": "#/texts/89"
         },
         {
-          "$ref": "#/texts/76"
+          "$ref": "#/texts/90"
         },
         {
-          "$ref": "#/texts/77"
+          "$ref": "#/texts/91"
         }
       ],
       "content_layer": "body",
@@ -4483,10 +4917,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 47.29827117919922,
-            "t": 145.26171875,
-            "r": 206.7457733154297,
-            "b": 44.7862548828125,
+            "l": 47.298152923583984,
+            "t": 145.2620849609375,
+            "r": 206.7462615966797,
+            "b": 44.7855224609375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4507,10 +4941,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/103"
+          "$ref": "#/texts/117"
         },
         {
-          "$ref": "#/texts/104"
+          "$ref": "#/texts/118"
         }
       ],
       "content_layer": "body",
@@ -4519,10 +4953,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 554.6935424804688,
-            "t": 1157.4819641113281,
-            "r": 574.640625,
-            "b": 1138.5337219238281,
+            "l": 554.6925659179688,
+            "t": 1157.4831352233887,
+            "r": 574.6380004882812,
+            "b": 1138.534465789795,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4543,10 +4977,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/107"
+          "$ref": "#/texts/121"
         },
         {
-          "$ref": "#/texts/108"
+          "$ref": "#/texts/122"
         }
       ],
       "content_layer": "body",
@@ -4555,10 +4989,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 554.9085083007812,
-            "t": 1107.5659255981445,
-            "r": 573.6239624023438,
-            "b": 1089.2127532958984,
+            "l": 554.909912109375,
+            "t": 1107.5644226074219,
+            "r": 573.623046875,
+            "b": 1089.213035583496,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4579,10 +5013,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/111"
+          "$ref": "#/texts/125"
         },
         {
-          "$ref": "#/texts/112"
+          "$ref": "#/texts/126"
         }
       ],
       "content_layer": "body",
@@ -4591,10 +5025,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 554.392822265625,
-            "t": 1068.7724990844727,
-            "r": 584.2329711914062,
-            "b": 1050.5540466308594,
+            "l": 554.3922729492188,
+            "t": 1068.7727966308594,
+            "r": 584.232421875,
+            "b": 1050.5555877685547,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4620,10 +5054,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 79.2903060913086,
-            "t": 1152.1597442626953,
-            "r": 232.41757202148438,
-            "b": 1120.2337493896484,
+            "l": 79.28981018066406,
+            "t": 1152.1606979370117,
+            "r": 232.41781616210938,
+            "b": 1120.2330703735352,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -4644,10 +5078,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/122"
+          "$ref": "#/texts/136"
         },
         {
-          "$ref": "#/texts/123"
+          "$ref": "#/texts/137"
         }
       ],
       "content_layer": "body",
@@ -4656,10 +5090,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 643.0615844726562,
-            "t": 1129.9164123535156,
-            "r": 698.3823852539062,
-            "b": 1107.9973449707031,
+            "l": 643.060546875,
+            "t": 1129.9204788208008,
+            "r": 698.3846435546875,
+            "b": 1107.9959182739258,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

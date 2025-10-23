@@ -216,6 +216,9 @@
         "$ref": "#/texts/75"
       },
       {
+        "$ref": "#/pictures/18"
+      },
+      {
         "$ref": "#/texts/76"
       },
       {
@@ -225,46 +228,16 @@
         "$ref": "#/texts/78"
       },
       {
-        "$ref": "#/pictures/18"
+        "$ref": "#/texts/79"
       },
       {
         "$ref": "#/pictures/19"
       },
       {
-        "$ref": "#/texts/79"
-      },
-      {
-        "$ref": "#/texts/80"
-      },
-      {
         "$ref": "#/pictures/20"
       },
       {
-        "$ref": "#/texts/81"
-      },
-      {
-        "$ref": "#/texts/82"
-      },
-      {
-        "$ref": "#/texts/83"
-      },
-      {
-        "$ref": "#/texts/84"
-      },
-      {
-        "$ref": "#/texts/85"
-      },
-      {
-        "$ref": "#/texts/86"
-      },
-      {
-        "$ref": "#/texts/87"
-      },
-      {
-        "$ref": "#/texts/88"
-      },
-      {
-        "$ref": "#/texts/89"
+        "$ref": "#/pictures/21"
       },
       {
         "$ref": "#/texts/90"
@@ -2336,87 +2309,6 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 119.832,
-            "t": 231.53700000000003,
-            "r": 142.595,
-            "b": 226.178,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            7
-          ]
-        }
-      ],
-      "orig": "JALISCO",
-      "text": "JALISCO"
-    },
-    {
-      "self_ref": "#/texts/76",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 3,
-          "bbox": {
-            "l": 159.11,
-            "t": 231.53700000000003,
-            "r": 180.508,
-            "b": 226.178,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            6
-          ]
-        }
-      ],
-      "orig": "MÉXICO",
-      "text": "MÉXICO"
-    },
-    {
-      "self_ref": "#/texts/77",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 3,
-          "bbox": {
-            "l": 197.019,
-            "t": 231.53700000000003,
-            "r": 240.998,
-            "b": 226.178,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            13
-          ]
-        }
-      ],
-      "orig": "INTERNACIONAL",
-      "text": "INTERNACIONAL"
-    },
-    {
-      "self_ref": "#/texts/78",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 3,
-          "bbox": {
             "l": 338.654,
             "t": 359.657,
             "r": 356.907,
@@ -2433,196 +2325,7 @@
       "text": "OPEN"
     },
     {
-      "self_ref": "#/texts/79",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 3,
-          "bbox": {
-            "l": 257.511,
-            "t": 231.53700000000003,
-            "r": 285.547,
-            "b": 226.178,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            8
-          ]
-        }
-      ],
-      "orig": "DEPORTES",
-      "text": "DEPORTES"
-    },
-    {
-      "self_ref": "#/texts/80",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 3,
-          "bbox": {
-            "l": 252.709,
-            "t": 216.52300000000002,
-            "r": 289.659,
-            "b": 211.16499999999996,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            10
-          ]
-        }
-      ],
-      "orig": "HEMEROTECA",
-      "text": "HEMEROTECA"
-    },
-    {
-      "self_ref": "#/texts/81",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 3,
-          "bbox": {
-            "l": 302.058,
-            "t": 231.53700000000003,
-            "r": 337.538,
-            "b": 226.178,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            10
-          ]
-        }
-      ],
-      "orig": "TECNOLOGÍA",
-      "text": "TECNOLOGÍA"
-    },
-    {
-      "self_ref": "#/texts/82",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 3,
-          "bbox": {
-            "l": 354.05,
-            "t": 231.53700000000003,
-            "r": 404.575,
-            "b": 226.178,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            15
-          ]
-        }
-      ],
-      "orig": "ENTRETENIMIENTO",
-      "text": "ENTRETENIMIENTO"
-    },
-    {
-      "self_ref": "#/texts/83",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 3,
-          "bbox": {
-            "l": 306.172,
-            "t": 216.52300000000002,
-            "r": 360.285,
-            "b": 211.16499999999996,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            17
-          ]
-        }
-      ],
-      "orig": "PUBLICIDAD ONLINE",
-      "text": "PUBLICIDAD ONLINE"
-    },
-    {
-      "self_ref": "#/texts/84",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 3,
-          "bbox": {
-            "l": 152.8,
-            "t": 181.80700000000002,
-            "r": 461.271,
-            "b": 165.74199999999996,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            205
-          ]
-        }
-      ],
-      "orig": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento® es marca registrada © Unión Editorialista, S.A. de C.V. 2008-2017 | | Aviso de Privacidad Derecho de Réplica Términos y Condiciones",
-      "text": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento® es marca registrada © Unión Editorialista, S.A. de C.V. 2008-2017 | | Aviso de Privacidad Derecho de Réplica Términos y Condiciones"
-    },
-    {
-      "self_ref": "#/texts/85",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 3,
-          "bbox": {
-            "l": 421.087,
-            "t": 231.53700000000003,
-            "r": 446.548,
-            "b": 226.178,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            7
-          ]
-        }
-      ],
-      "orig": "CULTURA",
-      "text": "CULTURA"
-    },
-    {
-      "self_ref": "#/texts/86",
+      "self_ref": "#/texts/76",
       "parent": {
         "$ref": "#/body"
       },
@@ -2649,7 +2352,7 @@
       "text": "Marvelous Senior"
     },
     {
-      "self_ref": "#/texts/87",
+      "self_ref": "#/texts/77",
       "parent": {
         "$ref": "#/body"
       },
@@ -2676,7 +2379,7 @@
       "text": "Try To Keep Silence When Playing This Game"
     },
     {
-      "self_ref": "#/texts/88",
+      "self_ref": "#/texts/78",
       "parent": {
         "$ref": "#/body"
       },
@@ -2703,7 +2406,7 @@
       "text": "Retirement"
     },
     {
-      "self_ref": "#/texts/89",
+      "self_ref": "#/texts/79",
       "parent": {
         "$ref": "#/body"
       },
@@ -2730,7 +2433,304 @@
       "text": "Communities Near ..."
     },
     {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 119.832,
+            "t": 231.53700000000003,
+            "r": 142.595,
+            "b": 226.178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "JALISCO",
+      "text": "JALISCO"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 159.11,
+            "t": 231.53700000000003,
+            "r": 180.508,
+            "b": 226.178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "MÉXICO",
+      "text": "MÉXICO"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/pictures/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 197.019,
+            "t": 231.53700000000003,
+            "r": 240.998,
+            "b": 226.178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "INTERNACIONAL",
+      "text": "INTERNACIONAL"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/pictures/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 257.511,
+            "t": 231.53700000000003,
+            "r": 285.547,
+            "b": 226.178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "DEPORTES",
+      "text": "DEPORTES"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 302.058,
+            "t": 231.53700000000003,
+            "r": 337.538,
+            "b": 226.178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "TECNOLOGÍA",
+      "text": "TECNOLOGÍA"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/pictures/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 354.05,
+            "t": 231.53700000000003,
+            "r": 404.575,
+            "b": 226.178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "ENTRETENIMIENTO",
+      "text": "ENTRETENIMIENTO"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/pictures/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 421.087,
+            "t": 231.53700000000003,
+            "r": 446.548,
+            "b": 226.178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "CULTURA",
+      "text": "CULTURA"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/pictures/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 463.055,
+            "t": 231.53700000000003,
+            "r": 493.161,
+            "b": 226.178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "ECONOMÍA",
+      "text": "ECONOMÍA"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/pictures/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 252.709,
+            "t": 216.52300000000002,
+            "r": 289.659,
+            "b": 211.16499999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "HEMEROTECA",
+      "text": "HEMEROTECA"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/pictures/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.172,
+            "t": 216.52300000000002,
+            "r": 360.285,
+            "b": 211.16499999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "PUBLICIDAD ONLINE",
+      "text": "PUBLICIDAD ONLINE"
+    },
+    {
       "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 152.8,
+            "t": 181.80700000000002,
+            "r": 461.271,
+            "b": 165.74199999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento® es marca registrada © Unión Editorialista, S.A. de C.V. 2008-2017 | | Aviso de Privacidad Derecho de Réplica Términos y Condiciones",
+      "text": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento® es marca registrada © Unión Editorialista, S.A. de C.V. 2008-2017 | | Aviso de Privacidad Derecho de Réplica Términos y Condiciones"
+    },
+    {
+      "self_ref": "#/texts/91",
       "parent": {
         "$ref": "#/body"
       },
@@ -2757,7 +2757,7 @@
       "text": "Van Damme's"
     },
     {
-      "self_ref": "#/texts/91",
+      "self_ref": "#/texts/92",
       "parent": {
         "$ref": "#/body"
       },
@@ -2784,7 +2784,7 @@
       "text": "Daughter Shows Off"
     },
     {
-      "self_ref": "#/texts/92",
+      "self_ref": "#/texts/93",
       "parent": {
         "$ref": "#/body"
       },
@@ -2811,7 +2811,7 @@
       "text": "Her Incredible ..."
     },
     {
-      "self_ref": "#/texts/93",
+      "self_ref": "#/texts/94",
       "parent": {
         "$ref": "#/body"
       },
@@ -2836,33 +2836,6 @@
       ],
       "orig": "brainberries.co",
       "text": "brainberries.co"
-    },
-    {
-      "self_ref": "#/texts/94",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 3,
-          "bbox": {
-            "l": 463.055,
-            "t": 231.53700000000003,
-            "r": 493.161,
-            "b": 226.178,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            8
-          ]
-        }
-      ],
-      "orig": "ECONOMÍA",
-      "text": "ECONOMÍA"
     },
     {
       "self_ref": "#/texts/95",
@@ -2936,10 +2909,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 54.876163482666016,
-            "t": 762.058235168457,
-            "r": 191.9376983642578,
-            "b": 739.2031173706055,
+            "l": 54.87477493286133,
+            "t": 762.0608043670654,
+            "r": 191.9365692138672,
+            "b": 739.2025756835938,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -2969,10 +2942,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 298.80584716796875,
-            "t": 544.0544586181641,
-            "r": 309.5244140625,
-            "b": 533.4763488769531,
+            "l": 298.8059387207031,
+            "t": 544.0553283691406,
+            "r": 309.5256042480469,
+            "b": 533.4762268066406,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3002,10 +2975,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 346.7593994140625,
-            "t": 543.3313293457031,
-            "r": 357.5308532714844,
-            "b": 534.0563659667969,
+            "l": 346.7592468261719,
+            "t": 543.3307342529297,
+            "r": 357.5309143066406,
+            "b": 534.055419921875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3035,10 +3008,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 371.3501281738281,
-            "t": 544.1786804199219,
-            "r": 381.4804382324219,
-            "b": 533.9710388183594,
+            "l": 371.3497314453125,
+            "t": 544.1782379150391,
+            "r": 381.4806823730469,
+            "b": 533.9703674316406,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3071,10 +3044,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 27.041135787963867,
-            "t": 516.6551818847656,
-            "r": 387.7314147949219,
-            "b": 269.82977294921875,
+            "l": 27.041683197021484,
+            "t": 516.6552734375,
+            "r": 387.7326354980469,
+            "b": 269.8287353515625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3104,10 +3077,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 31.984054565429688,
-            "t": 231.40313720703125,
-            "r": 42.65725326538086,
-            "b": 220.84869384765625,
+            "l": 31.982534408569336,
+            "t": 231.4036865234375,
+            "r": 42.65705871582031,
+            "b": 220.84881591796875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3137,10 +3110,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 34.29485321044922,
-            "t": 208.4114990234375,
-            "r": 40.24059295654297,
-            "b": 198.26654052734375,
+            "l": 34.2940559387207,
+            "t": 208.412353515625,
+            "r": 40.24150466918945,
+            "b": 198.2672119140625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3170,10 +3143,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 31.611309051513672,
-            "t": 185.885498046875,
-            "r": 42.5988883972168,
-            "b": 176.08984375,
+            "l": 31.610992431640625,
+            "t": 185.88629150390625,
+            "r": 42.59934997558594,
+            "b": 176.08966064453125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3203,10 +3176,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 32.00175857543945,
-            "t": 164.02337646484375,
-            "r": 42.34774398803711,
-            "b": 153.79449462890625,
+            "l": 32.000980377197266,
+            "t": 164.02484130859375,
+            "r": 42.34844207763672,
+            "b": 153.79412841796875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3236,10 +3209,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 471.89068603515625,
-            "t": 703.6655426025391,
-            "r": 478.345703125,
-            "b": 693.2582244873047,
+            "l": 471.8895568847656,
+            "t": 703.6663208007812,
+            "r": 478.3469543457031,
+            "b": 693.2572326660156,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3269,10 +3242,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 409.83807373046875,
-            "t": 235.54833984375,
-            "r": 585.2293090820312,
-            "b": 176.06488037109375,
+            "l": 409.8402099609375,
+            "t": 235.5506591796875,
+            "r": 585.2286987304688,
+            "b": 176.06317138671875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3302,10 +3275,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 410.07940673828125,
-            "t": 93.250244140625,
-            "r": 489.0823974609375,
-            "b": 31.75677490234375,
+            "l": 410.0792541503906,
+            "t": 93.25030517578125,
+            "r": 489.0826110839844,
+            "b": 31.755615234375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3335,10 +3308,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 492.457763671875,
-            "t": 702.8506164550781,
-            "r": 503.0623779296875,
-            "b": 693.3300323486328,
+            "l": 492.4576110839844,
+            "t": 702.8513641357422,
+            "r": 503.0625915527344,
+            "b": 693.3293304443359,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3368,10 +3341,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 515.2457275390625,
-            "t": 704.1178894042969,
-            "r": 526.8141479492188,
-            "b": 692.7304992675781,
+            "l": 515.2468872070312,
+            "t": 704.1186599731445,
+            "r": 526.8153076171875,
+            "b": 692.7304000854492,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3401,10 +3374,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 538.459716796875,
-            "t": 703.9737701416016,
-            "r": 549.640380859375,
-            "b": 692.7334671020508,
+            "l": 538.4596557617188,
+            "t": 703.9757614135742,
+            "r": 549.6414794921875,
+            "b": 692.7317352294922,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3435,9 +3408,9 @@
           "page_no": 1,
           "bbox": {
             "l": 546.3245239257812,
-            "t": 609.2611389160156,
-            "r": 555.438232421875,
-            "b": 599.5233306884766,
+            "t": 609.2626495361328,
+            "r": 555.4397583007812,
+            "b": 599.5223541259766,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3470,10 +3443,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 409.9643859863281,
-            "t": 756.4030227661133,
-            "r": 489.1783447265625,
-            "b": 695.2700881958008,
+            "l": 409.96368408203125,
+            "t": 756.4050750732422,
+            "r": 489.17779541015625,
+            "b": 695.2696151733398,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3531,10 +3504,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 69.50513458251953,
-            "t": 519.69970703125,
-            "r": 357.9745788574219,
-            "b": 437.5672912597656,
+            "l": 69.5014419555664,
+            "t": 519.7060852050781,
+            "r": 357.9742431640625,
+            "b": 437.52996826171875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3560,10 +3533,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 327.569580078125,
-            "t": 313.9346618652344,
-            "r": 347.3271179199219,
-            "b": 296.15362548828125,
+            "l": 327.56817626953125,
+            "t": 313.9361267089844,
+            "r": 347.3290100097656,
+            "b": 296.1524353027344,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3589,10 +3562,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 248.404296875,
-            "t": 313.3753662109375,
-            "r": 314.14007568359375,
-            "b": 296.4064636230469,
+            "l": 395.6903076171875,
+            "t": 318.79022216796875,
+            "r": 439.5491638183594,
+            "b": 292.45758056640625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -3618,10 +3591,70 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 395.6936340332031,
-            "t": 318.7882995605469,
-            "r": 439.547607421875,
-            "b": 292.45819091796875,
+            "l": 248.4035186767578,
+            "t": 313.37640380859375,
+            "r": 314.14239501953125,
+            "b": 296.4062805175781,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 118.75012969970703,
+            "t": 254.2880859375,
+            "r": 493.8924865722656,
+            "b": 211.16510009765625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

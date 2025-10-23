@@ -315,16 +315,16 @@
         "$ref": "#/texts/97"
       },
       {
+        "$ref": "#/texts/98"
+      },
+      {
         "$ref": "#/pictures/10"
       },
       {
-        "$ref": "#/texts/100"
+        "$ref": "#/texts/101"
       },
       {
         "$ref": "#/pictures/11"
-      },
-      {
-        "$ref": "#/texts/103"
       },
       {
         "$ref": "#/texts/104"
@@ -339,28 +339,28 @@
         "$ref": "#/texts/107"
       },
       {
+        "$ref": "#/texts/108"
+      },
+      {
         "$ref": "#/pictures/12"
       },
       {
         "$ref": "#/pictures/13"
       },
       {
-        "$ref": "#/texts/112"
+        "$ref": "#/texts/113"
       },
       {
         "$ref": "#/pictures/14"
       },
       {
-        "$ref": "#/texts/113"
-      },
-      {
         "$ref": "#/texts/114"
       },
       {
-        "$ref": "#/pictures/15"
+        "$ref": "#/texts/115"
       },
       {
-        "$ref": "#/texts/116"
+        "$ref": "#/pictures/15"
       },
       {
         "$ref": "#/texts/117"
@@ -375,19 +375,22 @@
         "$ref": "#/texts/120"
       },
       {
+        "$ref": "#/texts/121"
+      },
+      {
         "$ref": "#/pictures/16"
       },
       {
         "$ref": "#/pictures/17"
       },
       {
-        "$ref": "#/texts/125"
-      },
-      {
         "$ref": "#/texts/126"
       },
       {
         "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
       },
       {
         "$ref": "#/pictures/18"
@@ -402,10 +405,10 @@
         "$ref": "#/pictures/20"
       },
       {
-        "$ref": "#/texts/131"
+        "$ref": "#/texts/132"
       },
       {
-        "$ref": "#/texts/132"
+        "$ref": "#/texts/133"
       },
       {
         "$ref": "#/pictures/21"
@@ -417,9 +420,6 @@
         "$ref": "#/pictures/23"
       },
       {
-        "$ref": "#/texts/140"
-      },
-      {
         "$ref": "#/texts/141"
       },
       {
@@ -429,13 +429,16 @@
         "$ref": "#/texts/143"
       },
       {
+        "$ref": "#/texts/144"
+      },
+      {
         "$ref": "#/pictures/24"
       },
       {
         "$ref": "#/pictures/25"
       },
       {
-        "$ref": "#/texts/146"
+        "$ref": "#/texts/147"
       },
       {
         "$ref": "#/pictures/26"
@@ -444,13 +447,13 @@
         "$ref": "#/pictures/27"
       },
       {
-        "$ref": "#/texts/152"
-      },
-      {
         "$ref": "#/texts/153"
       },
       {
         "$ref": "#/texts/154"
+      },
+      {
+        "$ref": "#/texts/155"
       },
       {
         "$ref": "#/groups/3"
@@ -462,10 +465,10 @@
         "$ref": "#/groups/4"
       },
       {
-        "$ref": "#/texts/160"
+        "$ref": "#/texts/161"
       },
       {
-        "$ref": "#/texts/161"
+        "$ref": "#/texts/162"
       }
     ],
     "content_layer": "body",
@@ -508,7 +511,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/130"
+          "$ref": "#/texts/131"
         }
       ],
       "content_layer": "body",
@@ -522,7 +525,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/155"
+          "$ref": "#/texts/156"
         }
       ],
       "content_layer": "body",
@@ -536,9 +539,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/156"
-        },
-        {
           "$ref": "#/texts/157"
         },
         {
@@ -546,6 +546,9 @@
         },
         {
           "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/160"
         }
       ],
       "content_layer": "body",
@@ -3073,21 +3076,48 @@
           "bbox": {
             "l": 55.25,
             "t": 707.373,
-            "r": 557.54,
+            "r": 491.45,
             "b": 685.401,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             118,
-            212
+            200
           ]
         }
       ],
-      "orig": "Pie de Página es un portal periodístico independiente de Periodistas de a Pie (http://www.periodistasdeapie.org.mx/), conformado por una red de periodistas nacionales e internacionales expertos en temas sociales.",
-      "text": "Pie de Página es un portal periodístico independiente de Periodistas de a Pie (http://www.periodistasdeapie.org.mx/), conformado por una red de periodistas nacionales e internacionales expertos en temas sociales."
+      "orig": "Pie de Página es un portal periodístico independiente de Periodistas de a Pie (http://www.periodistasdeapie.org.mx/), conformado por una red de nacionales e internacionales expertos en temas sociales.",
+      "text": "Pie de Página es un portal periodístico independiente de Periodistas de a Pie (http://www.periodistasdeapie.org.mx/), conformado por una red de nacionales e internacionales expertos en temas sociales."
     },
     {
       "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 502.7,
+            "t": 707.373,
+            "r": 557.54,
+            "b": 701.151,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "periodistas",
+      "text": "periodistas"
+    },
+    {
+      "self_ref": "#/texts/94",
       "parent": {
         "$ref": "#/body"
       },
@@ -3114,7 +3144,7 @@
       "text": "Esperamos  recibir  información  relacionada  con  violaciones  de  derechos  humanos,  violencia  de Estado, impunidad, despojo, corrupción, desigualdad, migraciones, libertad de expresión, transparencia y rendición de cuentas."
     },
     {
-      "self_ref": "#/texts/94",
+      "self_ref": "#/texts/95",
       "parent": {
         "$ref": "#/body"
       },
@@ -3141,7 +3171,7 @@
       "text": "TEMAS "
     },
     {
-      "self_ref": "#/texts/95",
+      "self_ref": "#/texts/96",
       "parent": {
         "$ref": "#/body"
       },
@@ -3168,7 +3198,7 @@
       "text": "ESPECIALES "
     },
     {
-      "self_ref": "#/texts/96",
+      "self_ref": "#/texts/97",
       "parent": {
         "$ref": "#/body"
       },
@@ -3195,7 +3225,7 @@
       "text": "QUIÉNES SOMOS "
     },
     {
-      "self_ref": "#/texts/97",
+      "self_ref": "#/texts/98",
       "parent": {
         "$ref": "#/body"
       },
@@ -3222,7 +3252,7 @@
       "text": "CATEGORÍAS "
     },
     {
-      "self_ref": "#/texts/98",
+      "self_ref": "#/texts/99",
       "parent": {
         "$ref": "#/pictures/10"
       },
@@ -3249,7 +3279,7 @@
       "text": "chiapas"
     },
     {
-      "self_ref": "#/texts/99",
+      "self_ref": "#/texts/100",
       "parent": {
         "$ref": "#/pictures/10"
       },
@@ -3276,7 +3306,7 @@
       "text": "para"
     },
     {
-      "self_ref": "#/texts/100",
+      "self_ref": "#/texts/101",
       "parent": {
         "$ref": "#/body"
       },
@@ -3304,7 +3334,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/101",
+      "self_ref": "#/texts/102",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -3331,7 +3361,7 @@
       "text": "Donar"
     },
     {
-      "self_ref": "#/texts/102",
+      "self_ref": "#/texts/103",
       "parent": {
         "$ref": "#/pictures/11"
       },
@@ -3358,7 +3388,7 @@
       "text": "VISA"
     },
     {
-      "self_ref": "#/texts/103",
+      "self_ref": "#/texts/104",
       "parent": {
         "$ref": "#/body"
       },
@@ -3385,7 +3415,7 @@
       "text": "CONTACTO (MAILTO:CONTACTO@PIEDEPAGINA.MX)"
     },
     {
-      "self_ref": "#/texts/104",
+      "self_ref": "#/texts/105",
       "parent": {
         "$ref": "#/body"
       },
@@ -3412,7 +3442,7 @@
       "text": "SUSCRÍBETE A NUESTRO BOLETÍN (HTTP://PERIODISTASDEAPIE.US8.LIST-MANAGE.COM/SUBSCRIBE? U=7F74F24D1F714131BF732C734&ID=317725A29D)"
     },
     {
-      "self_ref": "#/texts/105",
+      "self_ref": "#/texts/106",
       "parent": {
         "$ref": "#/body"
       },
@@ -3439,7 +3469,7 @@
       "text": "AVISO DE PRIVACIDAD (AVISO-DE-PRIVACIDAD.PHP)"
     },
     {
-      "self_ref": "#/texts/106",
+      "self_ref": "#/texts/107",
       "parent": {
         "$ref": "#/body"
       },
@@ -3467,7 +3497,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/107",
+      "self_ref": "#/texts/108",
       "parent": {
         "$ref": "#/body"
       },
@@ -3494,7 +3524,7 @@
       "text": "(http://www.chiapasparalelo.com/ )"
     },
     {
-      "self_ref": "#/texts/108",
+      "self_ref": "#/texts/109",
       "parent": {
         "$ref": "#/pictures/12"
       },
@@ -3521,7 +3551,7 @@
       "text": "Trinchera"
     },
     {
-      "self_ref": "#/texts/109",
+      "self_ref": "#/texts/110",
       "parent": {
         "$ref": "#/pictures/13"
       },
@@ -3548,7 +3578,7 @@
       "text": "PGINA"
     },
     {
-      "self_ref": "#/texts/110",
+      "self_ref": "#/texts/111",
       "parent": {
         "$ref": "#/pictures/13"
       },
@@ -3575,7 +3605,7 @@
       "text": "3"
     },
     {
-      "self_ref": "#/texts/111",
+      "self_ref": "#/texts/112",
       "parent": {
         "$ref": "#/pictures/13"
       },
@@ -3602,7 +3632,7 @@
       "text": "Periodismo humano con misión social"
     },
     {
-      "self_ref": "#/texts/112",
+      "self_ref": "#/texts/113",
       "parent": {
         "$ref": "#/body"
       },
@@ -3629,7 +3659,7 @@
       "text": "(http://ladobe.com.mx/ )"
     },
     {
-      "self_ref": "#/texts/113",
+      "self_ref": "#/texts/114",
       "parent": {
         "$ref": "#/body"
       },
@@ -3656,7 +3686,7 @@
       "text": "(http://www.trinchera-politicaycultura.com/ediciones/815/inicio.html )"
     },
     {
-      "self_ref": "#/texts/114",
+      "self_ref": "#/texts/115",
       "parent": {
         "$ref": "#/body"
       },
@@ -3683,7 +3713,7 @@
       "text": "(http://pagina3.mx/)"
     },
     {
-      "self_ref": "#/texts/115",
+      "self_ref": "#/texts/116",
       "parent": {
         "$ref": "#/pictures/15"
       },
@@ -3710,7 +3740,7 @@
       "text": "VOROESTE"
     },
     {
-      "self_ref": "#/texts/116",
+      "self_ref": "#/texts/117",
       "parent": {
         "$ref": "#/body"
       },
@@ -3737,7 +3767,7 @@
       "text": "https://piedepagina.mx/la-ley-de-la-verdad.php"
     },
     {
-      "self_ref": "#/texts/117",
+      "self_ref": "#/texts/118",
       "parent": {
         "$ref": "#/body"
       },
@@ -3764,7 +3794,7 @@
       "text": "8/10"
     },
     {
-      "self_ref": "#/texts/118",
+      "self_ref": "#/texts/119",
       "parent": {
         "$ref": "#/body"
       },
@@ -3791,7 +3821,7 @@
       "text": "13/3/2019"
     },
     {
-      "self_ref": "#/texts/119",
+      "self_ref": "#/texts/120",
       "parent": {
         "$ref": "#/body"
       },
@@ -3818,7 +3848,7 @@
       "text": "Pie de Página :: La Ley de la verdad"
     },
     {
-      "self_ref": "#/texts/120",
+      "self_ref": "#/texts/121",
       "parent": {
         "$ref": "#/body"
       },
@@ -3845,7 +3875,7 @@
       "text": "(http://www.noroeste.com.mx/)"
     },
     {
-      "self_ref": "#/texts/121",
+      "self_ref": "#/texts/122",
       "parent": {
         "$ref": "#/pictures/16"
       },
@@ -3872,7 +3902,7 @@
       "text": "Raichali"
     },
     {
-      "self_ref": "#/texts/122",
+      "self_ref": "#/texts/123",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -3899,7 +3929,7 @@
       "text": "LA VERDAD"
     },
     {
-      "self_ref": "#/texts/123",
+      "self_ref": "#/texts/124",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -3926,7 +3956,7 @@
       "text": "PERIODISMO"
     },
     {
-      "self_ref": "#/texts/124",
+      "self_ref": "#/texts/125",
       "parent": {
         "$ref": "#/pictures/17"
       },
@@ -3953,7 +3983,7 @@
       "text": "DE INVESTIGACIÓN"
     },
     {
-      "self_ref": "#/texts/125",
+      "self_ref": "#/texts/126",
       "parent": {
         "$ref": "#/body"
       },
@@ -3980,7 +4010,7 @@
       "text": "(http://zonadocs.com/)"
     },
     {
-      "self_ref": "#/texts/126",
+      "self_ref": "#/texts/127",
       "parent": {
         "$ref": "#/body"
       },
@@ -4007,7 +4037,7 @@
       "text": "(https://raichali.com/)"
     },
     {
-      "self_ref": "#/texts/127",
+      "self_ref": "#/texts/128",
       "parent": {
         "$ref": "#/body"
       },
@@ -4034,7 +4064,7 @@
       "text": "(https://laverdadjuarez.com/)"
     },
     {
-      "self_ref": "#/texts/128",
+      "self_ref": "#/texts/129",
       "parent": {
         "$ref": "#/pictures/19"
       },
@@ -4061,7 +4091,7 @@
       "text": "@peg"
     },
     {
-      "self_ref": "#/texts/129",
+      "self_ref": "#/texts/130",
       "parent": {
         "$ref": "#/pictures/19"
       },
@@ -4088,7 +4118,7 @@
       "text": "ASOCIACIÓN DE PERIODISTAS DEL ESTADO DE GUERRERO"
     },
     {
-      "self_ref": "#/texts/130",
+      "self_ref": "#/texts/131",
       "parent": {
         "$ref": "#/groups/2"
       },
@@ -4115,7 +4145,7 @@
       "text": "Guerrero-126842954581615/)"
     },
     {
-      "self_ref": "#/texts/131",
+      "self_ref": "#/texts/132",
       "parent": {
         "$ref": "#/body"
       },
@@ -4142,7 +4172,7 @@
       "text": "(https://es-la.facebook.com/Colectivo-Voz-Alterna-957795480933354/)"
     },
     {
-      "self_ref": "#/texts/132",
+      "self_ref": "#/texts/133",
       "parent": {
         "$ref": "#/body"
       },
@@ -4169,7 +4199,7 @@
       "text": "(https://www.facebook.com/Asociaci%C3%B3n-de-Periodistas-del-Estado-de-"
     },
     {
-      "self_ref": "#/texts/133",
+      "self_ref": "#/texts/134",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4196,7 +4226,7 @@
       "text": "Resistencia"
     },
     {
-      "self_ref": "#/texts/134",
+      "self_ref": "#/texts/135",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4223,7 +4253,7 @@
       "text": "radio"
     },
     {
-      "self_ref": "#/texts/135",
+      "self_ref": "#/texts/136",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4250,7 +4280,7 @@
       "text": "Modulada"
     },
     {
-      "self_ref": "#/texts/136",
+      "self_ref": "#/texts/137",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -4277,7 +4307,7 @@
       "text": "UNAM"
     },
     {
-      "self_ref": "#/texts/137",
+      "self_ref": "#/texts/138",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -4304,7 +4334,7 @@
       "text": "Pcdodistas"
     },
     {
-      "self_ref": "#/texts/138",
+      "self_ref": "#/texts/139",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -4331,7 +4361,7 @@
       "text": "do"
     },
     {
-      "self_ref": "#/texts/139",
+      "self_ref": "#/texts/140",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -4358,7 +4388,7 @@
       "text": "Pie"
     },
     {
-      "self_ref": "#/texts/140",
+      "self_ref": "#/texts/141",
       "parent": {
         "$ref": "#/body"
       },
@@ -4385,7 +4415,7 @@
       "text": "(http://rompeviento.tv/RompevientoTv/)"
     },
     {
-      "self_ref": "#/texts/141",
+      "self_ref": "#/texts/142",
       "parent": {
         "$ref": "#/body"
       },
@@ -4412,7 +4442,7 @@
       "text": "(http://www.resistenciamodulada.com/)"
     },
     {
-      "self_ref": "#/texts/142",
+      "self_ref": "#/texts/143",
       "parent": {
         "$ref": "#/body"
       },
@@ -4439,7 +4469,7 @@
       "text": "(http://www.periodistasdeapie.org.mx/)"
     },
     {
-      "self_ref": "#/texts/143",
+      "self_ref": "#/texts/144",
       "parent": {
         "$ref": "#/body"
       },
@@ -4466,7 +4496,7 @@
       "text": "(http://imdhd.org/)"
     },
     {
-      "self_ref": "#/texts/144",
+      "self_ref": "#/texts/145",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -4493,7 +4523,7 @@
       "text": "OPEN SOCIETY"
     },
     {
-      "self_ref": "#/texts/145",
+      "self_ref": "#/texts/146",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -4520,7 +4550,7 @@
       "text": "FOUNDATIONS"
     },
     {
-      "self_ref": "#/texts/146",
+      "self_ref": "#/texts/147",
       "parent": {
         "$ref": "#/body"
       },
@@ -4547,7 +4577,7 @@
       "text": "(https://www.opensocietyfoundations.org/)"
     },
     {
-      "self_ref": "#/texts/147",
+      "self_ref": "#/texts/148",
       "parent": {
         "$ref": "#/pictures/26"
       },
@@ -4574,7 +4604,7 @@
       "text": "Instituto Mexicano de"
     },
     {
-      "self_ref": "#/texts/148",
+      "self_ref": "#/texts/149",
       "parent": {
         "$ref": "#/pictures/26"
       },
@@ -4601,7 +4631,7 @@
       "text": "Derechos Humanos"
     },
     {
-      "self_ref": "#/texts/149",
+      "self_ref": "#/texts/150",
       "parent": {
         "$ref": "#/pictures/26"
       },
@@ -4628,7 +4658,7 @@
       "text": "Y Democracia"
     },
     {
-      "self_ref": "#/texts/150",
+      "self_ref": "#/texts/151",
       "parent": {
         "$ref": "#/pictures/27"
       },
@@ -4655,7 +4685,7 @@
       "text": "MacArthur"
     },
     {
-      "self_ref": "#/texts/151",
+      "self_ref": "#/texts/152",
       "parent": {
         "$ref": "#/pictures/27"
       },
@@ -4682,7 +4712,7 @@
       "text": "Foundation"
     },
     {
-      "self_ref": "#/texts/152",
+      "self_ref": "#/texts/153",
       "parent": {
         "$ref": "#/body"
       },
@@ -4709,7 +4739,7 @@
       "text": "https://piedepagina.mx/la-ley-de-la-verdad.php"
     },
     {
-      "self_ref": "#/texts/153",
+      "self_ref": "#/texts/154",
       "parent": {
         "$ref": "#/body"
       },
@@ -4736,7 +4766,7 @@
       "text": "9/10"
     },
     {
-      "self_ref": "#/texts/154",
+      "self_ref": "#/texts/155",
       "parent": {
         "$ref": "#/body"
       },
@@ -4763,7 +4793,7 @@
       "text": "13/3/2019"
     },
     {
-      "self_ref": "#/texts/155",
+      "self_ref": "#/texts/156",
       "parent": {
         "$ref": "#/groups/3"
       },
@@ -4790,7 +4820,7 @@
       "text": "Pie de Página :: La Ley de la verdad"
     },
     {
-      "self_ref": "#/texts/156",
+      "self_ref": "#/texts/157",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -4817,7 +4847,7 @@
       "text": "(https://www.macfound.org/mexico/)"
     },
     {
-      "self_ref": "#/texts/157",
+      "self_ref": "#/texts/158",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -4844,7 +4874,7 @@
       "text": "(https://www.freepressunlimited.org/en)"
     },
     {
-      "self_ref": "#/texts/158",
+      "self_ref": "#/texts/159",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -4871,7 +4901,7 @@
       "text": "© Derechos reservados Pie de Página 2018"
     },
     {
-      "self_ref": "#/texts/159",
+      "self_ref": "#/texts/160",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -4898,7 +4928,7 @@
       "text": "Sitio desarrollado por Radius Comunicación Digital (http://www.radius.com.mx)"
     },
     {
-      "self_ref": "#/texts/160",
+      "self_ref": "#/texts/161",
       "parent": {
         "$ref": "#/body"
       },
@@ -4925,7 +4955,7 @@
       "text": "https://piedepagina.mx/la-ley-de-la-verdad.php"
     },
     {
-      "self_ref": "#/texts/161",
+      "self_ref": "#/texts/162",
       "parent": {
         "$ref": "#/body"
       },
@@ -4969,10 +4999,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 39.18341827392578,
-            "t": 749.2540397644043,
-            "r": 573.780029296875,
-            "b": 484.6816711425781,
+            "l": 39.18281555175781,
+            "t": 749.2542533874512,
+            "r": 573.7799682617188,
+            "b": 484.6829833984375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5002,10 +5032,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 39.301204681396484,
-            "t": 584.9441833496094,
-            "r": 573.7713012695312,
-            "b": 228.75347900390625,
+            "l": 39.30211639404297,
+            "t": 584.9444732666016,
+            "r": 573.7708129882812,
+            "b": 228.7537841796875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5035,10 +5065,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 96.22686767578125,
-            "t": 206.3634033203125,
-            "r": 493.877685546875,
-            "b": 182.5013427734375,
+            "l": 96.22892761230469,
+            "t": 206.364501953125,
+            "r": 493.8780517578125,
+            "b": 182.501220703125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5064,10 +5094,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 39.69845199584961,
-            "t": 764.5183258056641,
-            "r": 101.16510009765625,
-            "b": 656.5903625488281,
+            "l": 39.69746780395508,
+            "t": 764.5175533294678,
+            "r": 101.16629028320312,
+            "b": 656.5899047851562,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5093,10 +5123,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 39.436859130859375,
+            "l": 39.43619918823242,
             "t": 584.9212951660156,
-            "r": 101.07100677490234,
-            "b": 511.37860107421875,
+            "r": 101.0720443725586,
+            "b": 511.37872314453125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5129,10 +5159,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 69.744384765625,
-            "t": 307.4925231933594,
-            "r": 200.00357055664062,
-            "b": 208.75091552734375,
+            "l": 69.74482727050781,
+            "t": 307.4924011230469,
+            "r": 200.0029754638672,
+            "b": 208.7513427734375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5163,9 +5193,9 @@
           "page_no": 7,
           "bbox": {
             "l": 206.93206787109375,
-            "t": 307.4788513183594,
-            "r": 336.6808166503906,
-            "b": 209.58685302734375,
+            "t": 307.4796447753906,
+            "r": 336.6805114746094,
+            "b": 209.58673095703125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5202,10 +5232,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 58.25275421142578,
-            "t": 87.6923828125,
-            "r": 291.1791076660156,
-            "b": 42.5458984375,
+            "l": 58.2528076171875,
+            "t": 87.6929931640625,
+            "r": 291.1802978515625,
+            "b": 42.5465087890625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5242,10 +5272,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 479.751953125,
-            "t": 307.102783203125,
-            "r": 553.6445922851562,
-            "b": 207.68548583984375,
+            "l": 479.7509460449219,
+            "t": 307.10321044921875,
+            "r": 553.6450805664062,
+            "b": 207.68353271484375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5275,10 +5305,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 343.38079833984375,
-            "t": 307.2690124511719,
-            "r": 473.0518493652344,
-            "b": 209.56219482421875,
+            "l": 343.3807067871094,
+            "t": 307.2687683105469,
+            "r": 473.05145263671875,
+            "b": 209.56195068359375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5299,10 +5329,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/98"
+          "$ref": "#/texts/99"
         },
         {
-          "$ref": "#/texts/99"
+          "$ref": "#/texts/100"
         }
       ],
       "content_layer": "body",
@@ -5311,10 +5341,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 66.47821044921875,
-            "t": 264.69287109375,
-            "r": 121.28758239746094,
-            "b": 209.72979736328125,
+            "l": 66.4724349975586,
+            "t": 264.692626953125,
+            "r": 121.28331756591797,
+            "b": 209.7296142578125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5335,10 +5365,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/101"
+          "$ref": "#/texts/102"
         },
         {
-          "$ref": "#/texts/102"
+          "$ref": "#/texts/103"
         }
       ],
       "content_layer": "body",
@@ -5347,10 +5377,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 271.0235900878906,
-            "t": 472.4701232910156,
-            "r": 341.92572021484375,
-            "b": 435.0207214355469,
+            "l": 271.0225830078125,
+            "t": 472.47216796875,
+            "r": 341.9252624511719,
+            "b": 435.0211181640625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5371,7 +5401,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/108"
+          "$ref": "#/texts/109"
         }
       ],
       "content_layer": "body",
@@ -5380,10 +5410,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 89.28974914550781,
-            "t": 181.84326171875,
-            "r": 237.6924591064453,
-            "b": 127.06781005859375,
+            "l": 89.28630065917969,
+            "t": 181.84344482421875,
+            "r": 237.68988037109375,
+            "b": 127.0675048828125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5404,13 +5434,13 @@
       },
       "children": [
         {
-          "$ref": "#/texts/109"
-        },
-        {
           "$ref": "#/texts/110"
         },
         {
           "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
         }
       ],
       "content_layer": "body",
@@ -5419,10 +5449,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 60.55934143066406,
-            "t": 98.68011474609375,
-            "r": 245.81454467773438,
-            "b": 44.422607421875,
+            "l": 60.55600357055664,
+            "t": 98.68017578125,
+            "r": 245.81236267089844,
+            "b": 44.422119140625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5448,10 +5478,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 405.7818298339844,
-            "t": 259.501708984375,
-            "r": 442.7494812011719,
-            "b": 215.2032470703125,
+            "l": 405.7762145996094,
+            "t": 259.50274658203125,
+            "r": 442.7450256347656,
+            "b": 215.20281982421875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5472,7 +5502,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/115"
+          "$ref": "#/texts/116"
         }
       ],
       "content_layer": "body",
@@ -5481,10 +5511,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 367.34393310546875,
-            "t": 97.667724609375,
-            "r": 546.8277587890625,
-            "b": 46.80059814453125,
+            "l": 367.34197998046875,
+            "t": 97.6678466796875,
+            "r": 546.8283081054688,
+            "b": 46.80047607421875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5505,7 +5535,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/121"
+          "$ref": "#/texts/122"
         }
       ],
       "content_layer": "body",
@@ -5514,10 +5544,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 265.31719970703125,
-            "t": 749.1586265563965,
-            "r": 388.1507263183594,
-            "b": 698.8000259399414,
+            "l": 265.3168640136719,
+            "t": 749.159008026123,
+            "r": 388.15106201171875,
+            "b": 698.7985687255859,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5538,13 +5568,13 @@
       },
       "children": [
         {
-          "$ref": "#/texts/122"
-        },
-        {
           "$ref": "#/texts/123"
         },
         {
           "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
         }
       ],
       "content_layer": "body",
@@ -5553,10 +5583,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 95.38168334960938,
-            "t": 667.0139846801758,
-            "r": 309.448974609375,
-            "b": 612.5015258789062,
+            "l": 95.38196563720703,
+            "t": 667.0147171020508,
+            "r": 309.45068359375,
+            "b": 612.5005645751953,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5582,10 +5612,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 178.5663299560547,
-            "t": 584.5483856201172,
-            "r": 232.75511169433594,
-            "b": 529.9497680664062,
+            "l": 178.56640625,
+            "t": 584.5497436523438,
+            "r": 232.7571563720703,
+            "b": 529.9495239257812,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5606,10 +5636,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/128"
+          "$ref": "#/texts/129"
         },
         {
-          "$ref": "#/texts/129"
+          "$ref": "#/texts/130"
         }
       ],
       "content_layer": "body",
@@ -5618,10 +5648,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 65.25299835205078,
-            "t": 501.3932189941406,
-            "r": 219.7352294921875,
-            "b": 448.28302001953125,
+            "l": 65.2529525756836,
+            "t": 501.3934326171875,
+            "r": 219.7340545654297,
+            "b": 448.2820739746094,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5647,10 +5677,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 463.2672424316406,
-            "t": 666.7549209594727,
-            "r": 516.9873657226562,
-            "b": 612.5999908447266,
+            "l": 463.26708984375,
+            "t": 666.7557373046875,
+            "r": 516.9873046875,
+            "b": 612.6010131835938,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5676,10 +5706,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 215.49224853515625,
-            "t": 418.883056640625,
-            "r": 358.9116516113281,
-            "b": 364.9322204589844,
+            "l": 215.4922637939453,
+            "t": 418.8843994140625,
+            "r": 358.9114074707031,
+            "b": 364.93231201171875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5700,9 +5730,6 @@
       },
       "children": [
         {
-          "$ref": "#/texts/133"
-        },
-        {
           "$ref": "#/texts/134"
         },
         {
@@ -5710,6 +5737,9 @@
         },
         {
           "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
         }
       ],
       "content_layer": "body",
@@ -5718,10 +5748,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 115.34713745117188,
-            "t": 330.9215087890625,
-            "r": 334.1163330078125,
-            "b": 288.395751953125,
+            "l": 115.34639739990234,
+            "t": 330.9233703613281,
+            "r": 334.11456298828125,
+            "b": 288.3962097167969,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5742,13 +5772,13 @@
       },
       "children": [
         {
-          "$ref": "#/texts/137"
-        },
-        {
           "$ref": "#/texts/138"
         },
         {
           "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
         }
       ],
       "content_layer": "body",
@@ -5757,10 +5787,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 89.9732437133789,
-            "t": 196.99371337890625,
-            "r": 136.74497985839844,
-            "b": 134.90185546875,
+            "l": 89.97517395019531,
+            "t": 196.994140625,
+            "r": 136.74432373046875,
+            "b": 134.9005126953125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5781,10 +5811,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/144"
+          "$ref": "#/texts/145"
         },
         {
-          "$ref": "#/texts/145"
+          "$ref": "#/texts/146"
         }
       ],
       "content_layer": "body",
@@ -5793,10 +5823,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 164.23362731933594,
-            "t": 103.3863525390625,
-            "r": 208.00509643554688,
-            "b": 48.500244140625,
+            "l": 164.2332305908203,
+            "t": 103.38775634765625,
+            "r": 208.0050506591797,
+            "b": 48.50018310546875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5822,10 +5852,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 332.5327453613281,
-            "t": 193.16912841796875,
-            "r": 411.5775146484375,
-            "b": 138.322509765625,
+            "l": 332.53253173828125,
+            "t": 193.17010498046875,
+            "r": 411.5783996582031,
+            "b": 138.32196044921875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5846,13 +5876,13 @@
       },
       "children": [
         {
-          "$ref": "#/texts/147"
-        },
-        {
           "$ref": "#/texts/148"
         },
         {
           "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
         }
       ],
       "content_layer": "body",
@@ -5861,10 +5891,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 447.7709045410156,
-            "t": 189.6112060546875,
-            "r": 518.6536865234375,
-            "b": 142.19158935546875,
+            "l": 447.7707214355469,
+            "t": 189.61126708984375,
+            "r": 518.6535034179688,
+            "b": 142.1920166015625,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5885,10 +5915,10 @@
       },
       "children": [
         {
-          "$ref": "#/texts/150"
+          "$ref": "#/texts/151"
         },
         {
-          "$ref": "#/texts/151"
+          "$ref": "#/texts/152"
         }
       ],
       "content_layer": "body",
@@ -5897,10 +5927,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 428.27960205078125,
-            "t": 91.03094482421875,
-            "r": 512.947509765625,
-            "b": 60.49969482421875,
+            "l": 428.2802429199219,
+            "t": 91.03082275390625,
+            "r": 512.94677734375,
+            "b": 60.499755859375,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -5926,10 +5956,10 @@
         {
           "page_no": 10,
           "bbox": {
-            "l": 272.62567138671875,
-            "t": 748.8890075683594,
-            "r": 326.5003662109375,
-            "b": 695.1082763671875,
+            "l": 272.6253356933594,
+            "t": 748.8892555236816,
+            "r": 326.4986877441406,
+            "b": 695.1081390380859,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [

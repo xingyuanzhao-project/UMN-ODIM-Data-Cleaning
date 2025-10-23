@@ -849,19 +849,16 @@
         "$ref": "#/texts/324"
       },
       {
-        "$ref": "#/texts/325"
+        "$ref": "#/groups/4"
       },
       {
-        "$ref": "#/groups/4"
+        "$ref": "#/texts/326"
       },
       {
         "$ref": "#/texts/327"
       },
       {
         "$ref": "#/texts/328"
-      },
-      {
-        "$ref": "#/texts/329"
       },
       {
         "$ref": "#/pictures/20"
@@ -871,6 +868,9 @@
       },
       {
         "$ref": "#/pictures/22"
+      },
+      {
+        "$ref": "#/texts/334"
       },
       {
         "$ref": "#/texts/335"
@@ -885,9 +885,6 @@
         "$ref": "#/texts/338"
       },
       {
-        "$ref": "#/texts/339"
-      },
-      {
         "$ref": "#/pictures/23"
       },
       {
@@ -897,10 +894,10 @@
         "$ref": "#/pictures/25"
       },
       {
-        "$ref": "#/texts/356"
+        "$ref": "#/texts/355"
       },
       {
-        "$ref": "#/texts/357"
+        "$ref": "#/texts/356"
       }
     ],
     "content_layer": "body",
@@ -1067,7 +1064,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/326"
+          "$ref": "#/texts/325"
         }
       ],
       "content_layer": "body",
@@ -9060,49 +9057,22 @@
           "page_no": 8,
           "bbox": {
             "l": 36.5,
-            "t": 648.155,
-            "r": 54.378,
+            "t": 648.159,
+            "r": 141.73,
             "b": 643.632,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
             0,
-            3
+            22
           ]
         }
       ],
-      "orig": "HOY",
-      "text": "HOY"
+      "orig": "HOY AMLO (/temas/amlo)",
+      "text": "HOY AMLO (/temas/amlo)"
     },
     {
       "self_ref": "#/texts/290",
-      "parent": {
-        "$ref": "#/body"
-      },
-      "children": [],
-      "content_layer": "body",
-      "label": "text",
-      "prov": [
-        {
-          "page_no": 8,
-          "bbox": {
-            "l": 65.633,
-            "t": 648.159,
-            "r": 141.73,
-            "b": 643.633,
-            "coord_origin": "BOTTOMLEFT"
-          },
-          "charspan": [
-            0,
-            18
-          ]
-        }
-      ],
-      "orig": "AMLO (/temas/amlo)",
-      "text": "AMLO (/temas/amlo)"
-    },
-    {
-      "self_ref": "#/texts/291",
       "parent": {
         "$ref": "#/body"
       },
@@ -9129,7 +9099,7 @@
       "text": "Policía (/policia)"
     },
     {
-      "self_ref": "#/texts/292",
+      "self_ref": "#/texts/291",
       "parent": {
         "$ref": "#/body"
       },
@@ -9156,7 +9126,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/293",
+      "self_ref": "#/texts/292",
       "parent": {
         "$ref": "#/body"
       },
@@ -9183,7 +9153,7 @@
       "text": "Champions League (/temas/champions-league)"
     },
     {
-      "self_ref": "#/texts/294",
+      "self_ref": "#/texts/293",
       "parent": {
         "$ref": "#/body"
       },
@@ -9211,7 +9181,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/295",
+      "self_ref": "#/texts/294",
       "parent": {
         "$ref": "#/body"
       },
@@ -9238,7 +9208,7 @@
       "text": "(https://www.milenio.com/estilo/canada-como-obtener-la-residenciapermanente)"
     },
     {
-      "self_ref": "#/texts/296",
+      "self_ref": "#/texts/295",
       "parent": {
         "$ref": "#/body"
       },
@@ -9265,7 +9235,7 @@
       "text": "(https://www.milenio.com/opinion/varios-autores/escuela-libre-de-derechode-puebla/breve-analisis-de-la-extradicion-de-el-chapo)"
     },
     {
-      "self_ref": "#/texts/297",
+      "self_ref": "#/texts/296",
       "parent": {
         "$ref": "#/body"
       },
@@ -9293,7 +9263,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/298",
+      "self_ref": "#/texts/297",
       "parent": {
         "$ref": "#/body"
       },
@@ -9320,7 +9290,7 @@
       "text": "(https://www.milenio.com/opinion/varios-autores/escuela-libre-de-derechode-puebla/breve-analisis-de-la-extradicion-de-el-chapo)"
     },
     {
-      "self_ref": "#/texts/299",
+      "self_ref": "#/texts/298",
       "parent": {
         "$ref": "#/body"
       },
@@ -9347,7 +9317,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/tania-ruiz-pena-nietopelucas-cenar-york-foto)"
     },
     {
-      "self_ref": "#/texts/300",
+      "self_ref": "#/texts/299",
       "parent": {
         "$ref": "#/body"
       },
@@ -9375,7 +9345,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/301",
+      "self_ref": "#/texts/300",
       "parent": {
         "$ref": "#/body"
       },
@@ -9402,7 +9372,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/tania-ruiz-pena-nietopelucas-cenar-york-foto)"
     },
     {
-      "self_ref": "#/texts/302",
+      "self_ref": "#/texts/301",
       "parent": {
         "$ref": "#/body"
       },
@@ -9429,7 +9399,7 @@
       "text": "(https://www.milenio.com/policia/nataly-su-hermana-marina-la-asesinoigual-que-antes-habia-matado-a-su-ex)"
     },
     {
-      "self_ref": "#/texts/303",
+      "self_ref": "#/texts/302",
       "parent": {
         "$ref": "#/body"
       },
@@ -9457,7 +9427,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/304",
+      "self_ref": "#/texts/303",
       "parent": {
         "$ref": "#/body"
       },
@@ -9484,7 +9454,7 @@
       "text": "(https://www.milenio.com/policia/nataly-su-hermana-marina-la-asesinoigual-que-antes-habia-matado-a-su-ex)"
     },
     {
-      "self_ref": "#/texts/305",
+      "self_ref": "#/texts/304",
       "parent": {
         "$ref": "#/body"
       },
@@ -9511,7 +9481,7 @@
       "text": "(https://www.milenio.com/policia/caso-norberto-ronquillo-yuri-ex-noviaquien-es-esto-sabemos)"
     },
     {
-      "self_ref": "#/texts/306",
+      "self_ref": "#/texts/305",
       "parent": {
         "$ref": "#/body"
       },
@@ -9539,7 +9509,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/307",
+      "self_ref": "#/texts/306",
       "parent": {
         "$ref": "#/body"
       },
@@ -9566,7 +9536,7 @@
       "text": "(https://www.milenio.com/policia/caso-norberto-ronquillo-yuri-ex-noviaquien-es-esto-sabemos)"
     },
     {
-      "self_ref": "#/texts/308",
+      "self_ref": "#/texts/307",
       "parent": {
         "$ref": "#/body"
       },
@@ -9593,7 +9563,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/backstreet-boys-hermano-nickcarter-confiesa-violado-hermana)"
     },
     {
-      "self_ref": "#/texts/309",
+      "self_ref": "#/texts/308",
       "parent": {
         "$ref": "#/body"
       },
@@ -9620,7 +9590,7 @@
       "text": "0 COMENTARIOS"
     },
     {
-      "self_ref": "#/texts/310",
+      "self_ref": "#/texts/309",
       "parent": {
         "$ref": "#/body"
       },
@@ -9648,7 +9618,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/311",
+      "self_ref": "#/texts/310",
       "parent": {
         "$ref": "#/body"
       },
@@ -9675,7 +9645,7 @@
       "text": "ESCRIBIR COMENTARIO"
     },
     {
-      "self_ref": "#/texts/312",
+      "self_ref": "#/texts/311",
       "parent": {
         "$ref": "#/body"
       },
@@ -9702,7 +9672,7 @@
       "text": "COMENTAR"
     },
     {
-      "self_ref": "#/texts/313",
+      "self_ref": "#/texts/312",
       "parent": {
         "$ref": "#/body"
       },
@@ -9729,7 +9699,7 @@
       "text": "Read Next Story"
     },
     {
-      "self_ref": "#/texts/314",
+      "self_ref": "#/texts/313",
       "parent": {
         "$ref": "#/body"
       },
@@ -9756,7 +9726,7 @@
       "text": "https://www.milenio.com/policia/en-el-sexenio-de-duarte-535-desaparecidos-en-veracruz"
     },
     {
-      "self_ref": "#/texts/315",
+      "self_ref": "#/texts/314",
       "parent": {
         "$ref": "#/body"
       },
@@ -9783,7 +9753,7 @@
       "text": "8/9"
     },
     {
-      "self_ref": "#/texts/316",
+      "self_ref": "#/texts/315",
       "parent": {
         "$ref": "#/body"
       },
@@ -9810,7 +9780,7 @@
       "text": "23/9/2019"
     },
     {
-      "self_ref": "#/texts/317",
+      "self_ref": "#/texts/316",
       "parent": {
         "$ref": "#/body"
       },
@@ -9837,7 +9807,7 @@
       "text": "En el sexenio de Duarte, 535 desaparecidos en Veracruz"
     },
     {
-      "self_ref": "#/texts/318",
+      "self_ref": "#/texts/317",
       "parent": {
         "$ref": "#/body"
       },
@@ -9864,7 +9834,7 @@
       "text": "EDICIONES: CDMX (/CDMX)   MONTERREY (/MONTERREY)   JALISCO (/JALISCO)   ESTADO DE MÉXICO (/ESTADO-D"
     },
     {
-      "self_ref": "#/texts/319",
+      "self_ref": "#/texts/318",
       "parent": {
         "$ref": "#/body"
       },
@@ -9891,7 +9861,7 @@
       "text": "Cada mensaje que nos llega de ustedes, cada mensaje que se publica en este"
     },
     {
-      "self_ref": "#/texts/320",
+      "self_ref": "#/texts/319",
       "parent": {
         "$ref": "#/body"
       },
@@ -9918,7 +9888,7 @@
       "text": "Ingresar"
     },
     {
-      "self_ref": "#/texts/321",
+      "self_ref": "#/texts/320",
       "parent": {
         "$ref": "#/body"
       },
@@ -9945,7 +9915,7 @@
       "text": "(/)"
     },
     {
-      "self_ref": "#/texts/322",
+      "self_ref": "#/texts/321",
       "parent": {
         "$ref": "#/body"
       },
@@ -9972,7 +9942,7 @@
       "text": "foro, lo leemos y seleccionamos. Por favor, sigan escribiendo, solo pedimos"
     },
     {
-      "self_ref": "#/texts/323",
+      "self_ref": "#/texts/322",
       "parent": {
         "$ref": "#/body"
       },
@@ -9999,7 +9969,7 @@
       "text": "IMPRESO (/IMPRESO)"
     },
     {
-      "self_ref": "#/texts/324",
+      "self_ref": "#/texts/323",
       "parent": {
         "$ref": "#/body"
       },
@@ -10026,7 +9996,7 @@
       "text": "TELEVISIÓN (/MILENIOTV)"
     },
     {
-      "self_ref": "#/texts/325",
+      "self_ref": "#/texts/324",
       "parent": {
         "$ref": "#/body"
       },
@@ -10053,7 +10023,7 @@
       "text": "buen criterio. Aquí hay lugar para casi todo: réplicas y contrarréplicas, datos"
     },
     {
-      "self_ref": "#/texts/326",
+      "self_ref": "#/texts/325",
       "parent": {
         "$ref": "#/groups/4"
       },
@@ -10082,7 +10052,7 @@
       "marker": ""
     },
     {
-      "self_ref": "#/texts/327",
+      "self_ref": "#/texts/326",
       "parent": {
         "$ref": "#/body"
       },
@@ -10109,7 +10079,7 @@
       "text": "Lunes , 23.09.2019 / 22:54 HOY AMLO (/temas/amlo) Champions League (/temas/champions-league) NFL (/temas/nfl) Sismo 19-S"
     },
     {
-      "self_ref": "#/texts/328",
+      "self_ref": "#/texts/327",
       "parent": {
         "$ref": "#/body"
       },
@@ -10137,7 +10107,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/329",
+      "self_ref": "#/texts/328",
       "parent": {
         "$ref": "#/body"
       },
@@ -10164,7 +10134,7 @@
       "text": "(http://publicidad.milenio.com/2019/MediaKit/index.html)"
     },
     {
-      "self_ref": "#/texts/330",
+      "self_ref": "#/texts/329",
       "parent": {
         "$ref": "#/pictures/20"
       },
@@ -10191,7 +10161,7 @@
       "text": "nes Anúnciate DERECHOS RESERVADOS © GRUPO MILENIO 2019"
     },
     {
-      "self_ref": "#/texts/331",
+      "self_ref": "#/texts/330",
       "parent": {
         "$ref": "#/pictures/20"
       },
@@ -10218,7 +10188,7 @@
       "text": "ones)"
     },
     {
-      "self_ref": "#/texts/332",
+      "self_ref": "#/texts/331",
       "parent": {
         "$ref": "#/pictures/20"
       },
@@ -10245,7 +10215,7 @@
       "text": "RESPONSABLE\""
     },
     {
-      "self_ref": "#/texts/333",
+      "self_ref": "#/texts/332",
       "parent": {
         "$ref": "#/pictures/21"
       },
@@ -10272,7 +10242,7 @@
       "text": "iab;"
     },
     {
-      "self_ref": "#/texts/334",
+      "self_ref": "#/texts/333",
       "parent": {
         "$ref": "#/pictures/22"
       },
@@ -10299,7 +10269,7 @@
       "text": "comSCORE"
     },
     {
-      "self_ref": "#/texts/335",
+      "self_ref": "#/texts/334",
       "parent": {
         "$ref": "#/body"
       },
@@ -10326,7 +10296,7 @@
       "text": "(https://www.milenio.com/espectaculos/famosos/backstreet-boys-hermano-nickcarter-confiesa-violado-hermana)"
     },
     {
-      "self_ref": "#/texts/336",
+      "self_ref": "#/texts/335",
       "parent": {
         "$ref": "#/body"
       },
@@ -10354,7 +10324,7 @@
       "level": 1
     },
     {
-      "self_ref": "#/texts/337",
+      "self_ref": "#/texts/336",
       "parent": {
         "$ref": "#/body"
       },
@@ -10381,7 +10351,7 @@
       "text": "Read Next Story"
     },
     {
-      "self_ref": "#/texts/338",
+      "self_ref": "#/texts/337",
       "parent": {
         "$ref": "#/body"
       },
@@ -10408,7 +10378,7 @@
       "text": "Directorio (/quienessomos) Visítanos en"
     },
     {
-      "self_ref": "#/texts/339",
+      "self_ref": "#/texts/338",
       "parent": {
         "$ref": "#/body"
       },
@@ -10435,7 +10405,7 @@
       "text": "Regístrate"
     },
     {
-      "self_ref": "#/texts/340",
+      "self_ref": "#/texts/339",
       "parent": {
         "$ref": "#/pictures/23"
       },
@@ -10462,7 +10432,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/341",
+      "self_ref": "#/texts/340",
       "parent": {
         "$ref": "#/pictures/24"
       },
@@ -10489,7 +10459,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/342",
+      "self_ref": "#/texts/341",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -10516,7 +10486,7 @@
       "text": "Privacidad"
     },
     {
-      "self_ref": "#/texts/343",
+      "self_ref": "#/texts/342",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -10543,7 +10513,7 @@
       "text": "(/aviso-de-"
     },
     {
-      "self_ref": "#/texts/344",
+      "self_ref": "#/texts/343",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -10570,7 +10540,7 @@
       "text": "privacidad)"
     },
     {
-      "self_ref": "#/texts/345",
+      "self_ref": "#/texts/344",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -10597,7 +10567,7 @@
       "text": "Aviso"
     },
     {
-      "self_ref": "#/texts/346",
+      "self_ref": "#/texts/345",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -10624,7 +10594,7 @@
       "text": "Legal"
     },
     {
-      "self_ref": "#/texts/347",
+      "self_ref": "#/texts/346",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -10651,7 +10621,7 @@
       "text": "(/aviso-"
     },
     {
-      "self_ref": "#/texts/348",
+      "self_ref": "#/texts/347",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -10678,7 +10648,7 @@
       "text": "legal)"
     },
     {
-      "self_ref": "#/texts/349",
+      "self_ref": "#/texts/348",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -10705,7 +10675,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/350",
+      "self_ref": "#/texts/349",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -10732,7 +10702,7 @@
       "text": "(https://www.facebook.com/m (https://twitter.com/Mile hl=en) (https://plus (https"
     },
     {
-      "self_ref": "#/texts/351",
+      "self_ref": "#/texts/350",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -10759,7 +10729,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/352",
+      "self_ref": "#/texts/351",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -10786,7 +10756,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/353",
+      "self_ref": "#/texts/352",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -10813,7 +10783,7 @@
       "text": "(https://www.insta"
     },
     {
-      "self_ref": "#/texts/354",
+      "self_ref": "#/texts/353",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -10840,7 +10810,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/355",
+      "self_ref": "#/texts/354",
       "parent": {
         "$ref": "#/pictures/25"
       },
@@ -10867,7 +10837,7 @@
       "text": ""
     },
     {
-      "self_ref": "#/texts/356",
+      "self_ref": "#/texts/355",
       "parent": {
         "$ref": "#/body"
       },
@@ -10894,7 +10864,7 @@
       "text": "https://www.milenio.com/policia/en-el-sexenio-de-duarte-535-desaparecidos-en-veracruz"
     },
     {
-      "self_ref": "#/texts/357",
+      "self_ref": "#/texts/356",
       "parent": {
         "$ref": "#/body"
       },
@@ -10944,10 +10914,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 35.753517150878906,
-            "t": 733.4111518859863,
-            "r": 397.3643798828125,
-            "b": 699.7199478149414,
+            "l": 35.75453567504883,
+            "t": 733.412841796875,
+            "r": 397.3656311035156,
+            "b": 699.7192535400391,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -10977,9 +10947,9 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 36.569435119628906,
-            "t": 683.3506088256836,
-            "r": 51.26755142211914,
+            "l": 36.56908416748047,
+            "t": 683.3510284423828,
+            "r": 51.26728439331055,
             "b": 668.843505859375,
             "coord_origin": "BOTTOMLEFT"
           },
@@ -11006,10 +10976,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 94.56855773925781,
-            "t": 402.6532897949219,
-            "r": 121.4986572265625,
-            "b": 376.2366027832031,
+            "l": 94.56970977783203,
+            "t": 402.6538391113281,
+            "r": 121.49783325195312,
+            "b": 376.2369689941406,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11035,10 +11005,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 123.76808166503906,
-            "t": 402.2391052246094,
-            "r": 148.59628295898438,
-            "b": 376.46649169921875,
+            "l": 123.7684097290039,
+            "t": 402.239501953125,
+            "r": 148.59413146972656,
+            "b": 376.4666442871094,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11068,10 +11038,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 559.5946655273438,
-            "t": 722.4017562866211,
-            "r": 577.2675170898438,
-            "b": 704.8146209716797,
+            "l": 559.5953979492188,
+            "t": 722.4033508300781,
+            "r": 577.2683715820312,
+            "b": 704.8159561157227,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11097,10 +11067,10 @@
         {
           "page_no": 1,
           "bbox": {
-            "l": 151.4486541748047,
-            "t": 402.16943359375,
-            "r": 175.94569396972656,
-            "b": 376.3807678222656,
+            "l": 151.4486083984375,
+            "t": 402.1711120605469,
+            "r": 175.94606018066406,
+            "b": 376.38116455078125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11193,10 +11163,10 @@
         {
           "page_no": 2,
           "bbox": {
-            "l": 34.13850402832031,
-            "t": 762.3232536315918,
-            "r": 584.0379028320312,
-            "b": 315.76568603515625,
+            "l": 34.14012908935547,
+            "t": 762.316291809082,
+            "r": 584.0332641601562,
+            "b": 315.7645568847656,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11230,10 +11200,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 36.59126281738281,
-            "t": 683.3236389160156,
-            "r": 51.335384368896484,
-            "b": 668.8619537353516,
+            "l": 36.590763092041016,
+            "t": 683.3238983154297,
+            "r": 51.33543395996094,
+            "b": 668.8619079589844,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11263,10 +11233,10 @@
         {
           "page_no": 3,
           "bbox": {
-            "l": 559.3700561523438,
-            "t": 722.2609634399414,
-            "r": 577.3192749023438,
-            "b": 704.6365051269531,
+            "l": 559.3699340820312,
+            "t": 722.2608413696289,
+            "r": 577.3212280273438,
+            "b": 704.6392593383789,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11292,10 +11262,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 559.6607666015625,
-            "t": 722.2297439575195,
-            "r": 577.0695190429688,
-            "b": 704.5860900878906,
+            "l": 559.6611328125,
+            "t": 722.2295227050781,
+            "r": 577.070068359375,
+            "b": 704.5871887207031,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11325,10 +11295,10 @@
         {
           "page_no": 4,
           "bbox": {
-            "l": 36.43035125732422,
-            "t": 683.4971008300781,
-            "r": 51.53453063964844,
-            "b": 668.5262222290039,
+            "l": 36.42879104614258,
+            "t": 683.4981842041016,
+            "r": 51.533775329589844,
+            "b": 668.526741027832,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11358,10 +11328,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 36.540042877197266,
-            "t": 683.3979644775391,
-            "r": 51.34080505371094,
-            "b": 668.8086853027344,
+            "l": 36.53850555419922,
+            "t": 683.3980484008789,
+            "r": 51.3407096862793,
+            "b": 668.8096618652344,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11387,10 +11357,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 298.4015197753906,
-            "t": 116.17388916015625,
-            "r": 320.9280090332031,
-            "b": 97.20440673828125,
+            "l": 298.4023742675781,
+            "t": 116.1739501953125,
+            "r": 320.928466796875,
+            "b": 97.2052001953125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11416,10 +11386,10 @@
         {
           "page_no": 5,
           "bbox": {
-            "l": 559.6840209960938,
-            "t": 722.3567352294922,
-            "r": 577.1411743164062,
-            "b": 704.7629776000977,
+            "l": 559.6829223632812,
+            "t": 722.3567504882812,
+            "r": 577.142333984375,
+            "b": 704.7637100219727,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11449,10 +11419,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 36.486473083496094,
-            "t": 683.3791885375977,
-            "r": 51.153663635253906,
-            "b": 668.8292999267578,
+            "l": 36.485565185546875,
+            "t": 683.3794403076172,
+            "r": 51.1535530090332,
+            "b": 668.8291244506836,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11478,10 +11448,10 @@
         {
           "page_no": 6,
           "bbox": {
-            "l": 559.60498046875,
-            "t": 722.3064651489258,
-            "r": 576.88427734375,
-            "b": 704.9494781494141,
+            "l": 559.604736328125,
+            "t": 722.3063735961914,
+            "r": 576.8851928710938,
+            "b": 704.9514389038086,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11511,10 +11481,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 36.434207916259766,
-            "t": 683.395393371582,
-            "r": 51.23145294189453,
-            "b": 668.8710174560547,
+            "l": 36.433372497558594,
+            "t": 683.395866394043,
+            "r": 51.231346130371094,
+            "b": 668.8707580566406,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11544,10 +11514,10 @@
         {
           "page_no": 7,
           "bbox": {
-            "l": 559.829833984375,
-            "t": 721.9255447387695,
-            "r": 577.2256469726562,
-            "b": 704.9899215698242,
+            "l": 559.8282470703125,
+            "t": 721.9258117675781,
+            "r": 577.2263793945312,
+            "b": 704.9904251098633,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11577,10 +11547,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 559.5440063476562,
-            "t": 722.2167053222656,
-            "r": 577.0942993164062,
-            "b": 704.7152099609375,
+            "l": 559.5460815429688,
+            "t": 722.2187423706055,
+            "r": 577.0947875976562,
+            "b": 704.7161483764648,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11610,10 +11580,10 @@
         {
           "page_no": 8,
           "bbox": {
-            "l": 36.49449157714844,
-            "t": 683.3922576904297,
-            "r": 51.19239044189453,
-            "b": 668.8229598999023,
+            "l": 36.49285125732422,
+            "t": 683.3930130004883,
+            "r": 51.192317962646484,
+            "b": 668.823860168457,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11634,13 +11604,13 @@
       },
       "children": [
         {
+          "$ref": "#/texts/329"
+        },
+        {
           "$ref": "#/texts/330"
         },
         {
           "$ref": "#/texts/331"
-        },
-        {
-          "$ref": "#/texts/332"
         }
       ],
       "content_layer": "body",
@@ -11649,10 +11619,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 27.348108291625977,
-            "t": 496.3377990722656,
-            "r": 228.30056762695312,
-            "b": 463.7622985839844,
+            "l": 27.35091781616211,
+            "t": 496.337646484375,
+            "r": 228.29640197753906,
+            "b": 463.762451171875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11673,7 +11643,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/333"
+          "$ref": "#/texts/332"
         }
       ],
       "content_layer": "body",
@@ -11682,10 +11652,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 237.8562774658203,
-            "t": 484.7422180175781,
-            "r": 260.7783203125,
-            "b": 462.9887390136719,
+            "l": 237.8557586669922,
+            "t": 484.74346923828125,
+            "r": 260.7763671875,
+            "b": 462.98876953125,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11706,7 +11676,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/334"
+          "$ref": "#/texts/333"
         }
       ],
       "content_layer": "body",
@@ -11715,10 +11685,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 273.3099060058594,
-            "t": 481.74066162109375,
-            "r": 336.07366943359375,
-            "b": 462.82647705078125,
+            "l": 273.3102111816406,
+            "t": 481.7439880371094,
+            "r": 336.07586669921875,
+            "b": 462.8280029296875,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11739,7 +11709,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/340"
+          "$ref": "#/texts/339"
         }
       ],
       "content_layer": "body",
@@ -11748,10 +11718,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 559.5422973632812,
-            "t": 722.3874588012695,
-            "r": 577.3040771484375,
-            "b": 704.8309783935547,
+            "l": 559.5438842773438,
+            "t": 722.3873138427734,
+            "r": 577.3037109375,
+            "b": 704.8303833007812,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11772,7 +11742,7 @@
       },
       "children": [
         {
-          "$ref": "#/texts/341"
+          "$ref": "#/texts/340"
         }
       ],
       "content_layer": "body",
@@ -11781,10 +11751,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 551.969970703125,
-            "t": 535.2510681152344,
-            "r": 561.6555786132812,
-            "b": 523.8273620605469,
+            "l": 551.9708862304688,
+            "t": 535.2522583007812,
+            "r": 561.6549072265625,
+            "b": 523.8262023925781,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
@@ -11804,6 +11774,9 @@
         "$ref": "#/body"
       },
       "children": [
+        {
+          "$ref": "#/texts/341"
+        },
         {
           "$ref": "#/texts/342"
         },
@@ -11842,9 +11815,6 @@
         },
         {
           "$ref": "#/texts/354"
-        },
-        {
-          "$ref": "#/texts/355"
         }
       ],
       "content_layer": "body",
@@ -11853,10 +11823,10 @@
         {
           "page_no": 9,
           "bbox": {
-            "l": 417.94384765625,
-            "t": 509.3494873046875,
-            "r": 584.4885864257812,
-            "b": 447.41693115234375,
+            "l": 417.9457092285156,
+            "t": 509.35614013671875,
+            "r": 584.4879760742188,
+            "b": 447.4201354980469,
             "coord_origin": "BOTTOMLEFT"
           },
           "charspan": [
